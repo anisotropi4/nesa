@@ -13,6 +13,7 @@ However, as it is not possible to provide URLs to these files as cloud storage u
 ## Prerequisites
   * [jq](https://stedolan.github.io/jq) is a lightweight and flexible command-line JSON processor
   * [tabula](https://tabula.technology/) helps you liberate data tables trapped inside PDF files...
+  * [poppler-utils](http://poppler.freedesktop.org/) package to extract and render PDF based on the xpdf-3.0 code base. 
   * [tesseract](https://tesseract-ocr.github.io/) is an open source text recognition (OCR) Engine, available under the Apache 2.0 license
 
 ## Execute the ```run.sh```
