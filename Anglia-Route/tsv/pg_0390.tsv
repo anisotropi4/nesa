@@ -1,0 +1,19 @@
+Anglia-Route	0390	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	171	172	175	180	220	221	222	Notes
+Anglia-Route	0390	EA1310	BOK5	Acton Wells Jn (Connecton to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connecton to GW130) – Acton Central (Limit of AC)	0	72	1	73	N	Y	N	N	N	N	N	
+Anglia-Route	0390	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	N	Y	N	N	N	N	N	
+Anglia-Route	0390	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	N	Y	N	N	N	N	N	
+Anglia-Route	0390	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	N	Y	N	N	N	N	N	
+Anglia-Route	0390	EA1320	CRC1 /2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	N	E	N	N	N	E	N	
+Anglia-Route	0390	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	N	Y	N	E	N	E	Y	
+Anglia-Route	0390	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	N	E	N	E	N	N	Y	
+Anglia-Route	0390	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	N	Y	N	N	N	E	Y	
+Anglia-Route	0390	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	N	N	N	E	N	N	Y	
+Anglia-Route	0390	EA1320	BOK1	Canonbury West Jn	Dalson Western Jn	Canonbury West Jn – Dalson Western Jn	3	12	2	21	N	Y	N	N	N	E	Y	
+Anglia-Route	0390	EA1320	DWW 1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	N	Y	N	N	N	E	Y	
+Anglia-Route	0390	EA1320	DWW 2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	N	Y	N	N	N	E	Y	
+Anglia-Route	0390	EA1320	DWW 2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	N	Y	N	N	N	E	Y	
+Anglia-Route	0390	EA1320	DWW 2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	N	Y	N	N	N	E	Y	
+Anglia-Route	0390	EA1320	DWW 2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	N	R1	N	N	N	N	N	R1 Prohibited to Class 172/2 and 172/3
+Anglia-Route	0390	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	N	N	N	
+Anglia-Route	0390	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	N	N	N	N	N	N	N	
+Anglia-Route	0390	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	N	N	N	N	N	N	N	

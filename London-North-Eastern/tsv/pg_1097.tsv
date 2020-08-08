@@ -1,0 +1,17 @@
+London-North-Eastern	1097	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	R1	N	N	N	R1	Y	R2 R3	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R3 Prohibited Newcastle platform 4 with deflated suspension
+London-North-Eastern	1097	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	N	N	N	N	N	E R1	R1 Prohibited between Newcastle Forth Jn and Newcastle West Jn
+London-North-Eastern	1097	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1097	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN627	LLP1	Longlands Jn (Down line)	Boroughbridge Road LC	Longlands Jn (Down line) – Boroughbridge Road LC	28	58	29	72	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN627	LLP3	Longlands Jn (Up line)	Boroughbridge Road LC	Longlands Jn (Up line) – Boroughbridge Road LC	0	69	0	00	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1097	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited between Norton-on-Tees South Jn and Billingham Jn
+London-North-Eastern	1097	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	Y	Y	Y	N	N	N	R1	Y	N	R1 Prohibited Hartlepool Bay and Up (disused) platforms
+London-North-Eastern	1097	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	Y	Y	Y	N	N	N	Y	Y	N	
+London-North-Eastern	1097	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
+London-North-Eastern	1097	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
+London-North-Eastern	1097	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed

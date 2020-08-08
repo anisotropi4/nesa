@@ -1,0 +1,14 @@
+London-North-Eastern	1038	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	168	170	172	180	195	220	221	222	Notes
+London-North-Eastern	1038	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	N	N	E R1	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1038	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	N	N	E R1	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1038	LN3201	SPC1	St. Pancras platforms 1, 2, 3 and 4	Cricklewood	St. Pancras platforms 1, 2, 3 and 4 - Cricklewood	0	12	5	09	E	Y	E R1	N	N	Y	Y	Y	R1 Prohibited between St Pancras platforms 1, 2, 3 and 4 and Carlton Road Jn
+London-North-Eastern	1038	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	E	Y	E	N	N	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	E	Y	E	N	N	R1	R1	Y	R1 90mph between Sharnbrook and Wellingborough Station
+London-North-Eastern	1038	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	E	Y	E	N	N	R1	R1	Y	R1 90mph between Sharnbrook and Wellingborough Station
+London-North-Eastern	1038	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester)	Change of ELR (Wigston South Jn) – Change of ELR (Leicester)	95	38	98	73	E	Y	E	N	N	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC5	Change of ELR (Leicester)	Leicester	Change of ELR (Leicester) – Leicester	98	73	99	07	E	Y	E	N	N	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	E	Y	E	N	N	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	E	Y	E	N	N	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	E	Y	E	N	Y	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	E	Y	E	E	Y	Y	Y	Y	
+London-North-Eastern	1038	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	E	Y	E	E R1	Y	Y	Y	Y	R1 Prohibited Derby platforms 3 and 4

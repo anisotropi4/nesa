@@ -1,0 +1,21 @@
+Scotland	1110	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	142	143	144	150	153	156	158	Notes
+Scotland	1110	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	Y	N	Y	Y	
+Scotland	1110	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	Y	N	R1	R1	R1 Prohibited except for the purpose of setting back behind Signals ECL290 or ECL292
+Scotland	1110	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	SCM3	Carmuirs West Jn	Stirling Middle Jn	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	SCM3	Stirling Middle Jn	Change of ELR (Dunblane)	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	SCM4	Change of ELR (Dunblane)	Perth South Jn	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	SCM5	Perth South Jn	Change of Mileage	Perth South Jn – Change of Mileage	150	61	151	03	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	SCM5	Change of Mileage	Dundee Central Jn	Change of Mileage – Dundee Central Jn	21	01	0	36	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC119	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	Y	Y	Y	Y	
+Scotland	1110	SC123	NBE	Bathgate	Change of ELR	Bathgate – Change of ELR	25	18	25	00	N	N	N	Y	N	Y	Y	
+Scotland	1110	SC123	NEM1	Change of ELR	Drumgelloch	Change of ELR – Drumgelloch	25	00	11	70	N	N	N	Y	N	Y	Y	
+Scotland	1110	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	N	N	N	Y	N	Y	Y	
+Scotland	1110	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	E R1	E R1	E R1	Y	R2 R3	Y	R4 R5	R1 Prohibited between Change of ELR (11m 60ch) and Bellgrove Jn R2 Prohibited between Change of ELR (11m 60ch) and Airdrie R3 Prohibited Airdrie through platforms R4 Prohibited between Aidrie and High Street Jn when laden R5 Prohibited Bellgrove down platform with deflated suspension
+Scotland	1110	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	N	N	N	Y	Y	Y	E	
+Scotland	1110	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	N	N	N	Y	Y	Y	E	

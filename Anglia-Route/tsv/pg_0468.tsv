@@ -1,0 +1,23 @@
+Anglia-Route	0468	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge									Notes
+Anglia-Route	0468					GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
+Anglia-Route	0468	EA1230	Royston – Shepreth Branch Jn	Royston	Shepreth Branch Jn	N	Y	Y	Y	N	N	N	N	N	
+Anglia-Route	0468	EA1270	Kings Lynn Jn – Middleton Towers	Kings Lynn Jn	Middleton Towers	N	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia-Route	0468	EA1270	Kings Lynn Jn – Kings Lynn Yard branch end	Kings Lynn Jn	Kings Lynn Yard branch end	N	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia-Route	0468	EA1280	Stratford Central Jn East – Coppermill Jn	Stratford Central Jn East	Coppermill Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1290	Tottenham South Jn – South Tottenham East Jn	Tottenham South Jn	South Tottenham East Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1300	South Tottenham West Jn – Seven Sisters Jn	South Tottenham West Jn	Seven Sisters Jn	N	Y	Y	Y	N	N	N	N	N	
+Anglia-Route	0468	EA1310	Camden Road West Jn – Gospel Oak	Camden Road West Jn	Gospel Oak	N	Y *	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1310	Gospel Oak – Kensal Green Jn	Gospel Oak	Kensal Green Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1310	Kensal Green Jn – Harlesden Jn	Kensal Green Jn	Harlesden Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1310	Kensal Green Jn – Willesden High Level Jn	Kensal Green Jn	Willesden High Level Jn	N	Y *	Y	Y	Y	N	N	N	N	
+Anglia-Route	0468	EA1310	Willesden High Level Jn – Mitre Bridge Jn	Willesden High Level Jn	Mitre Bridge Jn	N	Y	Y	Y	S1	N	N	N	N	S1 Transfesa Swapbodies in the number range TF001 – TF480 on IFA & IFB wagons permitted only.
+Anglia-Route	0468	EA1310	Willesden High Level Jn – Acton Wells Jn	Willesden High Level Jn	Acton Wells Jn	N	Y	Y	Y	Y	N	N	N	N	
+Anglia-Route	0468	EA1310	Acton Wells Jn – Acton East Jn	Acton Wells Jn	Acton East Jn	N	Y	Y	Y	Y	R1	R1	R1	R1	R1 Acton Wells to Route Boundary
+Anglia-Route	0468	EA1310	Acton Wells Jn – South Acton Jn	Acton Wells Jn	South Acton Jn	N	Y	Y	Y	Y	R1	R1	R1	R1	R1 Acton Wells Jnto Acton Wells Jn
+Anglia-Route	0468	EA1320	Territory Boundary – Channelsea South Jn	Territory Boundary	Channelsea South Jn	N	Y *	Y	Y	Y	N	R1	N	N	R1 W10 Prohibited between Kings Cross Freight Terminal Jn and Camden Road Central Jn.
+Anglia-Route	0468	EA1325	Limit of reversible working DNL - Network Rail Boundary (TFL ELL)	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	N	Y	N	N	N	N	N	N	N	
+Anglia-Route	0468	EA1327	ELL/Network Rail Boundary - Old Kent Road Jn (SO680)	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	N	Y	N	N	N	N	N	N	N	
+Anglia-Route	0468	EA1330	South Acton Jn – Old Kew Jn & New Kew Jn	South Acton Jn	Old Kew Jn & New Kew Jn	N		Y	Y	R1	N	N	N	N	R1 W9 Prohibited between Kew East Jn and Old Kew Jn.
+Anglia-Route	0468	EA1340	Lea Jn – High Meads Jn	Lea Jn	High Meads Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1350	Channelsea North Jn – Temple Mills East Jn	Channelsea North Jn	Temple Mills East Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia-Route	0468	EA1360	Dudding Hill Jn – Neasden Jn	Dudding Hill Jn	Neasden Jn	N	Y	S1	N	N	N	N	N	N	"S1 8' 6"" high by 8' wide containers can be conveyed on FRA wagons, Deck height 990mm. 8' 6"" high by 8' 2.5"" wide containers may be conveyed on 825mm bed height Megafrets."
