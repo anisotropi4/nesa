@@ -1,0 +1,65 @@
+Western Route Sectional Appendix Module WR1
+
+
+
+
+Defective on-train equipment
+A train on which the ERTMS equipment is isolated or in level 0 must not enter a running line from a siding,
+yard or depot other than in exceptional circumstances and then only when authorised by the On-Call
+operations manager.
+
+
+Stopping at end of authority
+If a train has to stop short of a block marker because of an uncorrected odometry error, the driver must obtain
+the signaller’s permission to press override and move forward in SR mode in order to reach the correct
+stopping location. Written order 01 must be completed.
+
+If the train fails to transition when entering an ERTMS area (Rule Book, Module S7, Section 8.1)
+Unexpected failure to transition to ERTMS Level 2
+If a train does not transition it will be tripped by ERTMS and, depending on the cause of the failure, may also
+receive a TPWS intervention. The driver and signaller must try to establish the reason for the failure. If the
+fault cannot be rectified the train may proceed if directed by operations Control. The signaller will issue written
+order 02 to authorise the train to proceed (or written order 01 if the train stopped before being tripped). If
+TPWS has not intervened, the driver must operate the TPWS override.
+If TPWS intervention occurs at the Start of Cab Signalling board in any other circumstances it must be treated
+as a TPWS equipment irregularity and the driver and signaller must complete form RT3185 (Reporting a
+signal/AWS/TPWS/ATP/TVM failure or irregularity).
+
+Known system failure preventing transition to ERTMS Level 2
+If there is a failure which may prevent a down train from transitioning but the train can be signalled normally,
+the signaller will advise the driver that the transition may not work. The driver must prepare to be tripped at
+the Start of Cab Signalling board. If this happens, the procedures for an unexpected failure (above) must be
+applied.
+If it is known that an MA cannot be issued at the Start of Cab Signalling board because the route cannot be
+set from there in the normal way, the Sutton Bridge Junction signaller will authorise the driver to pass signals
+SUB 54 and 53 at danger and proceed at caution and stop at the Start of Cab Signalling board. The driver
+must contact Machynlleth SC on arrival at the board and obtain written order 01 and press override to enable
+the train to proceed. The train will transition to SR on passing over the balise at the board and, if the train is a
+class 158, the driver must stop again in order to raise the ceiling speed to 80km/h and then proceed.
+If it is not possible to clear Sutton Bridge Junction signals SUB 54 and 53 but a route can be set from the Start
+of Cab Signalling board in the normal way, the Sutton Bridge Junction signaller will authorise the driver to
+pass signals SUB54 and 53 at danger and proceed at caution as far as the Start of Cab Signalling board
+where normal working will apply.
+Working by pilotman must be introduced if required by Rule Book module P2.
+
+
+If the ERTMS train fails to transition when leaving an ERTMS area (Rule Book, Module S7, Section 8.2)
+Unexpected failure to transition to ERTMS Level 0
+If a train does not transition it will be tripped by ERTMS at the End of Cab Signalling board. The driver must
+contact the signaller and report the failure and they must both try to establish the reason for the failure. The
+driver must select Level 0 manually and the train may proceed and obey all Sutton Bridge Junction signals.
+
+
+Known system failure preventing transition to ERTMS Level 0
+If there is a failure which may prevent an up train from transitioning but the train can be signalled normally, the
+signaller will advise the driver that the transition may not work. The driver must prepare to be tripped at the
+End of Cab Signalling board. If this happens, the procedures for an unexpected failure (above) must be
+applied.
+If it is not possible to issue an MA from block marker MH1003, the signaller will issue written order 01 to
+enable the train to proceed. The driver must carry out the normal transition procedure on passing the End of
+Cab Signalling board but if the transition is not successful the procedures for an unexpected failure (above)
+must be applied. The driver must obey all Sutton Bridge Junction signals.
+                                                                               Wales Route GI - Dated: 05/12/15
+
+
+April 2009                                               58I

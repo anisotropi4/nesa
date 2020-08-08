@@ -1,0 +1,61 @@
+Scotland Route Sectional Appendix Module SC1
+
+
+
+
+TW5 SECTION 24 – KNOWN MISROUTED CALL LOCATIONS
+The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls may
+misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
+Drivers are instructed to use the phone book to contact the signaller from these locations.
+
+
+Location                                      Fault            Comments                       Outcome
+                                              Number
+Larbert North                                  PT20298         Coverage/Misrouting            TD stepping issued
+                                                                                              under investigation
+                                                                                              with Ops Design
+                                                                                              group.
+
+
+LIMITED COVERAGE ON FREIGHT ONLY BRANCH LINES
+The freight-only branch lines listed in the table below are sections of permanent poor GSM-R coverage.
+These areas of poor coverage are in tunnels and deep cuttings resulting in GSM-R calls may be unreliable, as
+with previous NRN coverage. If a train is in a poor coverage area at the time the emergency call is initiated,
+the train radio will receive the emergency call as soon as there is sufficient GSM-R coverage
+
+SECTION                     SA         ELR      Start      Start         End       End        GSM-R Predicted Poor
+                                                Miles      Chains        Miles     Chains     Coverage Details
+
+
+Grangemouth Junction
+                                                                                              Poor coverage: GMH
+to Grangemouth Oil          SC117      GMH          0           0           2         60
+                                                                                              2m15ch - 2m60ch
+Terminal (NR Boundary)
+
+
+Dalrymple Junction to
+                                                                                              Poor coverage: WAT
+Waterside (NR               SC091      WAT         43          53          52         70
+                                                                                              46m63ch - 47m48ch
+Boundary)
+Redford Junction to                                                                           Poor coverage: CRE
+                            SC189      CRE         33          45          27         77
+Westfield                                                                                     32m06ch - 29m09ch
+
+
+
+GSM-R FAULTS AND FAILURES RESPONSE
+
+VERSION 1.1
+
+PURPOSE
+
+To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+Appendix 1 covers the response to system faults from a single fixed terminal through to failures of the
+infrastructure resulting in loss of coverage in a geographical area.
+
+
+
+
+April 2010                                                60
