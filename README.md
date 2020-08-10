@@ -48,12 +48,11 @@ The reports for the routes are created as follows:
 
 ### Download the data
 
-Download the seven route Section Appendix PDF files into the ```download``` directory.
+Download the seven route Section Appendix PDF files into the ```download``` directory from [here](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
 
 ### Process the PDF files
 
-
-Run the ```run.sh```:
+To extract the data execute the ```run.sh``` script:
 
     $ ./run.sh
 
