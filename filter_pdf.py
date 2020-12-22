@@ -3,7 +3,6 @@
 
 import argparse
 import re
-from os import walk, makedirs
 from os.path import basename, dirname
 
 PARSER = argparse.ArgumentParser(description='Filter backgrounds from PDFs')
