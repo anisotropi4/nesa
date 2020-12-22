@@ -62,6 +62,14 @@ To extract the data execute the ```run.sh``` script:
 
 This executes a series of scripts to segment, extract and output the data creating a series of `TSV` and `Excel` spreadsheets in the seven route directories
 
+### How it works
+
+To extract text from the PDF text-object elements, issues with formatting and use of grey-scale background in a number of the key route-clearance tables breaks `pdfplumber` and `pdfminer` formatted text extraction.
+
+To overcome this the PDF files are converted to an uncompressed CMYK PDF/A format, and the grey background removed by deleting the call and graphic state for the embedded grey background image. Out-with that it seems to work, this is in no way a recommended approach. 
+
+It creates broken PDF files, as the internal PDF checksums no longer match. It assumes the background grey colour is encoded as ```1 1 0 rg``` and rendered using the call to ```f*```. Were the PDF rendering software used by Network Rail, Ghostscript, or ```qpdf``` to change this would just break. YMMV
+
 ## License
 
 Network Rail are copyright holder and retain all intellectual property rights related to the data and derived data contained within the National Electronic Sectional Appendix as set out [here](https://www.networkrail.co.uk/terms-and-conditions/)
