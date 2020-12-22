@@ -21,12 +21,15 @@ The PDF files for these seven routes are available [here](https://www.networkrai
 
 ## Prerequisites
   * [jq](https://stedolan.github.io/jq) is a lightweight and flexible command-line JSON processor. On an [Debian](https://debian.org) or similar `apt` based Linux system:
+
    $ sudo apt install jq
 
   * [poppler-utils](http://poppler.freedesktop.org/) package to decompress, extract text and render PDF based on the xpdf-3.0 code base
+
    $ sudo apt install poppler-utils
 
   * [ghostscript](https://www.ghostscript.com/) package to interpret and manipulate PostScript and PDF files
+
    $ sudo apt install ghostscript
 
 ### `python` dependencies
