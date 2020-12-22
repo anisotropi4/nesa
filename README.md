@@ -30,7 +30,7 @@ The PDF files for these seven routes are available [here](https://www.networkrai
    $ sudo apt install ghostscript
 
 ### `python` dependencies
-  * [python 3.7](https://www.python.org/) to run the scripts PDF based on the xpdf-3.0 code base. For ease of use manage package `python` packages dependencies with a local virtual environment `venv`
+  * [python 3.8](https://www.python.org/) to run the scripts PDF based on the xpdf-3.0 code base. For ease of use manage package `python` packages dependencies with a local virtual environment `venv`. Tested against Python 3.7 and 3.8
   * Python [pandas](https://pandas.pydata.org/) data processing library
   * Python [pdfplumber](https://github.com/jsvine/pdfplumber) table and visual debugging PDF data extract library 
   * Python [pdfminer.six](https://github.com/pdfminer/pdfminer.six) PDF information extraction library
@@ -38,6 +38,7 @@ The PDF files for these seven routes are available [here](https://www.networkrai
 
 #### `python virtualenv` package
 Python library dependencies and library install is managed using install the python `virtualenv` package:
+
     $ sudo apt install virtualenv
     $ virtualenv venv
     $ source venv/bin/activate
