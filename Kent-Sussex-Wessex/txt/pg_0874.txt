@@ -1,46 +1,42 @@
-                                                            Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                                             Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                 M      CH    M       Ch   395 442 444 450 455 456 458 465 466            508   700 Notes
-route           Description                                                      000 000 000 000 000 000 000 000 000
-SO600 WJB    Willingdon Jn – Connection - St           20      36    32     21   N   N    N     N    N    N     N    N      N   N     N
-             Leonards LMD
-SO600 WJB    Connection - St Leonards LMD – Bo         32      21    32     76   N   N    N     N    N    N     N    N      N   N     N
-             Peep Jn
-SO600 TTH    Bo Peep Jn – Hastings                     60      69    62     33   N   N    N     N    N    N     N    N      N   N     N
-SO600 ATH    Hastings – Ore Start / End of             82      34    81     42   N   N    N     N    N    N     N    N      N   N     N
-             Electrification
-SO600 ATH    Ore Start / End of Electrification – Jn   81      42    56     20   N   N    N     N    N    N     N    N      N   N     N
-             with Hastings line
-SO620 BTL    Montpelier Jn – Lewes                      0      14     7     77   N   Y    N     N    Y    Y     N    N      N   Y     Y
-SO620 KJE1/2 Lewes – Southerham Jn [Duplicated         49      74    51     11   N   Y    N     N    N    N     N    N      N   N     Y
-             on SO590]
-SO620 STS    Southerham Jn – Newhaven Harbour          51      11    56     55   N   N    N     N    N    N     N    N      N   N     N
-             Jn
-SO620 NHB    Newhaven Harbour Jn – Wharf Road          56      55    57     78   N   N    N     N    N    N     N    N      N   N     N
-             (Newhaven Marine)
-SO620 STS    Newhaven Harbour Jn – Seaford             56      55    58     77   N   N    N     N   N     N     N    N      N   N     N
-SO630 BLI1   Brighton platforms 1 and 2 – Hove Jn       0      00     1     28   N   Y    Y     Y   R1    R1    N    N      N   R1    Y   R1   Prohibited Brighton platform 1
-SO630 BLI1   Hove Jn – Hove platforms 2 and 3           1      28     1     35   N   Y    Y     Y   Y     Y     N    N      N   Y     Y
-SO630 PPH    Hove Jn – Hove Up platform loop via       50      48    51     02   N   Y    Y     Y   Y     Y     N    N      N   Y     N
-             platform 1
-SO630 BLI1   Hove Up platform loop and platforms       1       28    19     01   N   N    Y     Y    N    N     N    N      N   N     Y
-             2, and 3 – Arundel Jn
-SO630 BLI1   Arundel Jn – Littlehampton Jn             19      01    19     25   N   N    N     N    N    N     N    N      N   N     Y
-             (Change of Mileage)
-SO630 FJL    Littlehampton Jn – Ford Jn                60      57    60     26   N   N    N     N    N    N     N    N      N   N     N
-SO630 BLI2   Littlehampton Jn (Change of Mileage)      60      57    62     03   N   N    N     N    N    N     N    N      N   N     Y
-             – Littlehampton
-SO640 BBR    Barnham – Bognor Regis                    22      29    25     75   N   N    N     N    N    N     N    N      N   N     Y
-SO645 ATL    Battersea Park – Factory Jn                7      27     6     67   N   Y    N     N    Y    Y     N    Y      Y   Y     N
-SO645 ATL    Factory Jn – Wandsworth Road Jn            6      67     6     53   N   Y    N     N    Y    Y     N    Y      Y   Y     Y
-SO645 ATL    Wandsworth Road Jn – Shepherds             6      53     5     68   N   Y    N     N    Y    Y     N    Y      Y   Y     Y
-             Lane Jn
-SO645 ATL    Shepherds Lane Jn – Crofton Road Jn       5       68       3   67   N   E    N     N    Y    Y     N    Y      Y   Y     Y
-SO645 ATL    Crofton Road Jn – Peckham Rye Jn          3       67       3   47   N   E    N     N    Y    Y     N    N      N   N     Y
+Line of ELR     Line of Route / Sector                         oo    oo    oo 395 442 444 450 455 456 458 465 466 508 700 Notes
+route           Description                                    oo    oo    oo 000 000 000 000 000 000 000 000 000
+                                                        M      Ch    M     Ch
+SO150 SEJ2      Middle Jn – Sheerness on Sea            44      13    51   19    N    N    N     N    N    N     N   R1      Y   Y   N   R1   Route prohibited to Classes 465/0
+                                                                                                                                              and 465/1
+SO160 FDM       Faversham Jn (SO110) – Buckland Jn      52      13    76   32    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO160 FDM       Buckland Jn – Change of mileage         76      32    77   76    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO160 FDM       Change of mileage – Dover               76      53    76   45    Y    N    N     N    N    N     N    Y      Y   Y   N
+                Substation
+SO170 TTH       Tonbridge East Jn (SO130) –             29      55    34   32    N    N    N     N    N    N     N    Y      Y   Y   R1 R1    OPPOS Up or Down Hastings
+                Tunbridge Wells                                                                                                               through Grove hill Tunnel (between
+                                                                                                                                              Tonbridge Wells - Grove Jn)
+SO170 TTH       Tunbridge Wells – Bo Peep Jn            34      32    60   69    N    N    N     N    N    N     N    N      N   Y   N
+SO180 PWS1      Paddock Wood – Maidstone West           34      67    44   56    Y    N    N     N    N    N     N    Y      Y   Y   N
+                Change of Mileage
+SO210 APL       Appledore (SO600) – Dungeness           64      50    73   65    N    N    N     N    N    N     N    N      N   N   N
+                Ground Frame
+SO220 ACR       Ashford (Jn with Canterbury line        56      35    57   05    Y    N    N     N    N    N     N    Y      Y   Y   E R1     Prohibited Ashford (Jn with
+                (SO130)) – Hitachi Depot (Access)                                                                                    R1       Canterbury line (SO130)) - Ashford
+                                                                                                                                              Station
+SO220 ACR       Hitachi Depot (Access) – Minster West   57      05    81   69    Y    N    N     N    N    N     N    Y      Y   Y   E R1     Prohibited Ashford Down Yard
+                Jn                                                                                                                   R1       East G Jn - Minster West Jn
+SO220 ACR       Minster West Jn – Minster East Jn       81      69    82   17    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO220 ACR       Minster East Jn – Ramsgate              82      17    85   22    Y    N    N     N    N    N     N    Y      Y   Y   N
+                Substation
+SO230 FFH2      Folkstone East Jn (SO130) –             71      08    72   13    N    N    N     N    N    N     N    N      N   N   N
+                Folkstone Harbour
+SO240 BME2      Buckland Jn – Sandwich                  99      05    86   46    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO240 BME2      Sandwich – Minster South                86      46    82   21    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO240 MSW       Minster South Jn – Minster West Jn      82      12    81   64    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO240 BME1      Minster South Jn – Minster East Jn       0      23     0   00    Y    N    N     N    N    N     N    Y      Y   Y   N
+SO250 BSF       Battersea Pier Jn – Connection to        0      71     1   18    N    Y    Y     Y    Y    Y     E    Y      Y   N   Y
+                Battersea Reversible
+SO250 BSF       Connection to Battersea Reversible –     1      18     1   36    N    Y    N     N    Y    Y     E    Y      Y   N   Y
+                Stewarts Lane Jn
+SO250 BSF       Stewarts Lane Jn – Factory Jn            1      36     1   61    N    Y    N     N    Y    Y     E    Y      Y   N   Y
 
-
-
-
-December 2009                                                                            36
+December 2009                                                                             29

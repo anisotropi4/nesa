@@ -1,46 +1,44 @@
                                                             Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
-
-Line of ELR     Line of Route / Sector                 oo     oo    oo    oo   MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
-route           Description                            oo     oo    oo    oo   0000 0000 00000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
-                                                       M      Ch    M     Ch               00 0000 0000 (MOD)
-SO130 XTD       Metropolitan Jn – Borough Market Jn     1      31     1   50    Y      Y        Y    N      N      N        N
-SO130 CBM       Cannon Street Substation – Borough      0      20     0   38    Y      Y        N    N      N      N        N
-                Market Jn
-SO130 XTD       Borough Market Jn – London Bridge       1      50     1   69    Y      Y        Y    N      N      N        N
-                platforms 1-9
-SO130 XTD       London Bridge platforms 1-9 – North     1      69     4   25    Y      Y        R1   N      N      N        N   R1   Prohibited between Blue Anchor and
-                Kent East Jn                                                                    R2                                   North Kent East Jn
-                                                                                                                                R2   No.5 Down line, clear to crossovers to
-                                                                                                                                     and from Sussex side lines and Up
-                                                                                                                                     Passenger Loop between London
-                                                                                                                                     Bridge and Spa Road Jn
-SO130   XTD     North Kent East Jn – Tanners Hill Jn    4      25     5   29    Y      Y        N    N      N      N        N
-SO130   XTD     Tanners Hill Jn – Parks Bridge Jn       5      29     6   14    Y      Y        N    N      N      N        N
-SO130   LLL     Parks Bridge Jn – Ladywell Jn           6      14     6   29    Y      Y        N    N      N      N        N
-SO130   XTD     Parks Bridge Jn – Courthill Loop        6      14     6   21    Y      Y        N    N      N      N        N
-                South Jn
-SO130 XTD       Courthill Loop South Jn – Hither        6      21     7   04    Y      Y        N    N      N      N        N
-                Green Jn
-SO130 XTD       Hither Green Jn – Lee Spur Jn           7      04     7   44    Y      Y        N    N      N      N        N
-SO130 XTD       Lee Spur Jn – Chislehurst Jn            7      44    11   33    Y      Y        N    N      N      N        N
-SO130 CSM1      Chislehurst Jn – St Mary Cray Down     11      33    11   71    Y      Y        N    N      N      N        N
-                Jn via Reversible Chatham Loop
-SO130 CSM3      Chislehurst Jn – Hawkwood Jn (Up       11      33    11   66    Y      Y        N    N      N      N        N
-                Chatham Loop)
-SO130 XTD       Chislehurst Jn – Petts Wood Jns        11      33    12   27    Y      Y        N    N      N      N        N
-SO130 XTD       Petts Wood Jns – Sevenoaks             12      27    21   74    Y      Y        Y    N      N      N        N
-                Substation
-SO130 XTD       Sevenoaks Substation – Tonbridge       21      74    29   35    Y      Y        Y    N      N      N        N
-                West Jn
-SO130 XTD       Tonbridge West Jn – Tonbridge East     29      35    29   55    Y      Y        Y    N      N      N        N
-                Jn
-SO130 XTD       Tonbridge East Jn – Paddock Wood       29      55    34   67    Y      Y        Y    N      N      N        N
-SO130 XTD       Paddock Wood – Ashford (Jn with        34      67    55   54    Y      Y        Y    N      N      N        N
-                Maidstone line)
+Line of ELR     Line of Route / Sector                 M      CH    M       Ch   395 442 444 450 455 456 458 465 466            508   700 Notes
+route           Description                                                      000 000 000 000 000 000 000 000 000
+SO500   VTB3    Three Bridges – Copyhold Jn            29      21    36     73   N   Y    N     N    Y    Y     N    N      N   Y     Y
+SO500   CJA1    Copyhold Jn – Change of Mileage        36      73    36     33   N   N    N     N    N    N     N    N      N   N     N
+SO500   CJA2    Change of Mileage – Ardingly Sidings    0      00     0     70   N   N    N     N    N    N     N    N      N   N     N
+SO500   VTB3    Copyhold Jn – Keymer Jn                36      73    40     69   N   Y    N     N    Y    Y     N    N      N   Y     R1 R1    Prohibited Haywards Heath
+                                                                                                                                               Down Goods Loop
+SO500   VTB3    Keymer Jn – Preston Park Jn            40      69    49     43   N   Y    N     N    Y    Y     N    N      N   Y     Y
+SO500   PPH     Preston Park Jn – Hove Jn              49      21    50     44   N   Y    N     N    Y    Y     N    N      N   Y     Y
+SO500   VTB3    Preston Park Jn – Brighton             49      43    50     49   N   Y    N     N    Y    Y     N    N      N   R1    Y   R1   Prohibited Brighton platform 8
+SO510   LBW     London Bridge platforms 10-15 –         0      00     2     12   N   Y    N     N    Y    Y     N    N      N   Y     Y
+                Bricklayers Arms Jn
+SO510 LBW       Bricklayers Arms Jn – New Cross         2      12       2   60   N   Y    N     N    Y    Y     N    N      N   Y     Y
+                Gate Up Jn
+SO510 ELL1      New Cross Gate Up Jn – Network Rail     5      51       5   49   N   N    N     N    N    N     N    N      N   N     N
+                Boundary / Up ELL
+SO510 LBW       New Cross Gate Up Jn – New Cross        2      60       3   10   N   Y    N     N    Y    Y     N    N      N   Y     Y
+                Gate Down Jn
+SO510 ELL1      New Cross Gate Down Jn – Network        6      02       5   79   N   N    N     N    N    N     N    N      N   N     N
+                Rail Boundary / Down ELL
+SO510 LBW       New Cross Gate Down Jn –                3      10       6   51   N   Y    N     N    Y    Y     N    N      N   Y     Y
+                Sydenham Down Jn
+SO510 LBW       Sydenham Down Jn – Norwood Jn           6      51       8   55   N   Y    N     N    Y    Y     N    N      N   Y     Y
+SO510 LBW       Norwood Jn – Norwood Fork Jn            8      55       9   33   N   Y    N     N    Y    Y     N    N      N   Y     Y
+SO510 LBW       Norwood Fork Jn – Cottage Jn /          9      33       9   64   N   Y    N     N    Y    Y     N    N      N   Y     Y
+                Windmill Bridge Jn
+SO510   NFE     Norwood Fork Jn – Sutton                9      33    14     75   N   N    N     N   Y     Y     N    N      N   Y     Y
+SO510   NFE     Sutton – Epsom Downs                   14      75    18     60   N   N    N     N   Y     Y     N    N      N   Y     N
+SO520   TBH1    Three Bridges – Crawley                29      21    30     49   N   N    N     N   Y     Y     N    N      N   Y     Y
+SO520   TBH1    Crawley – Horsham Jn                   30      49    37     39   N   N    N     N   Y     Y     N    N      N   Y     Y
+SO520   TBH1    Horsham Jn – Horsham                   37      39    37     56   N   N    N     N   Y     Y     N    N      N   Y     Y
+SO520   TBH1    Horsham – Billingshurst                37      56    44     71   N   N    N     N   R1    R1    N    N      N   R1    Y R1     20mph Billingshurst platform 1
+SO520   TBH1    Billingshurst – Arundel Jn             44      71    59     75   N   N    N     N   N     N     N    N      N   N     Y
+SO520   TBH2    Arundel Jn – Barnham                   19      01    22     29   N   N    Y     Y   N     N     N    N      N   N     Y
+SO520   TBH2    Barnham – Route Boundary (SW110)       22      29    35     35   N   N    Y     Y   N     N     N    N      N   N     R1 R1    Prohibited Chichester to Route
+                (Havant Jn)                                                                                                                    Boundary (SW110) (Havant Jn)
 
 
 
 
-December 2009                                                                              39
+December 2009                                                                            34

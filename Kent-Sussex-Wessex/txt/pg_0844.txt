@@ -1,40 +1,42 @@
-                                                           Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                                            Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                oo     oo    oo    oo    170     171     172     220     221 Notes
-route           Description                           oo     oo    oo    oo   0000    0000    0000    0000    0000 ooooooooooooooooooooooooooo
-                                                      M      Ch    M     Ch
-SO510 LBW       Bricklayers Arms Jn – New Cross        2      12     2   60     N       Y       N       N       N
-                Gate Up Jn
-SO510 ELL1      New Cross Gate Up Jn – Network Rail    5      51     5   49     N       N       N       N       N
-                Boundary / Up ELL
-SO510 LBW       New Cross Gate Up Jn – New Cross       2      60     3   10     N       Y       N       N       N
-                Gate Down Jn
-SO510 ELL1      New Cross Gate Down Jn – Network       6      02     5   79     N       N       N       N       N
-                Rail Boundary / Down ELL
-SO510 LBW       New Cross Gate Down Jn –               3      10     6   51     N       Y       N       N       N
-                Sydenham Down Jn
-SO510 LBW       Sydenham Down Jn – Norwood Jn          6      51     8   55     N       Y       N       N       N
-SO510 LBW       Norwood Jn – Norwood Fork Jn           8      55     9   33     N       Y       N       Y       Y
-SO510 LBW       Norwood Fork Jn – Cottage Jn /         9      33     9   64     N       Y       N       Y       Y
-                Windmill Bridge Jn
-SO510 NFE       Norwood Fork Jn – Sutton               9      33    14   75     N       Y       N       N       N
-SO510 NFE       Sutton – Epsom Downs                  14      75    18   60     N       N       N       N       N
-SO520 TBH1      Three Bridges – Crawley               29      21    30   49     N       Y       N       N       N
-SO520 TBH1      Crawley – Horsham Jn                  30      49    37   39     N       Y       N       N       N
-SO520 TBH1      Horsham Jn – Horsham                  37      39    37   56     N      R1       N       N       N    R1    5mph Horsham Down Loop platform 4
-                                                                                       R2                            R2    15mph Horsham Up Main platform 2
-SO520 TBH1      Horsham – Billingshurst               37      56    44   71     N      R1       N       N       N    R1    5mph Horsham Down Loop platform 4
-                                                                                       R2                            R2    15mph Horsham Up Main platform 2
-                                                                                       R3                            R3    15mph Billingshurst Down platform
-SO520 TBH1      Billingshurst – Arundel Jn            44      71    59   75     N      R1       N       N       N    R1    15mph Billingshurst Down platform
-                                                                                       R2                            R2    20mph Pulborough Up platform
-SO520 TBH2      Arundel Jn – Barnham                  19      01    22   29     Y      R1       N       N       N    R1    5mph Ford Down platform
-SO520 TBH2      Barnham – Route Boundary (SW110)      22      29    35   35     Y       Y       N       N       N
-                (Havant Jn)
+Line of ELR     Line of Route / Sector                 oo     oo    oo    oo   170      171    172      220    221 Notes
+route           Description                            oo     oo    oo    oo   0000    0000    0000    0000    0000 ooooooooooooooooooooooooooo
+                                                       M      Ch    M     Ch
+SO110 CSM3      Hawkwood Jn (Up Chatham Loop) –        11      66    12   30     N       N       N       N       N
+                St Mary Cray Jn
+SO110 VIR       Bickley Jn – St Mary Cray Down Jn      12      38    12   79     N       N       N       N       N
+SO110 VIR       St Mary Cray Down Jn – St Mary Cray    12      79    13   17     N       N       N       N       N
+                Up Jn
+SO110 VIR       St Mary Cray Up Jn – Swanley Jn        13      17    17   46     N       N       N       N       N
+SO110 VIR       Swanley Jn – Fawkham Jn                17      46    22   49     N       N       N       N       N
+SO110 VIR       Fawkham Jn – CTRL                      22      49     0   00     N       N       N       N       N
+SO110 VIR       Fawkham Jn – Rochester Bridge Jn       22      49    33   01     N       N       N       N       N
+SO110 VIR       Rochester Bridge Jn – Gillingham       33      01    35   75     N       N       N       N       N
+SO110 VIR       Gillingham – Western Jn                35      75    43   70     N       N       N       N       N
+SO110 VIR       Western Jn – Eastern Jn                43      70    44   18     N       N       N       N       N
+SO110 VIR       Eastern Jn – Faversham Jn              44      18    52   13     N       N       N       N       N
+SO110 VIR       Faversham Jn – Ramsgate Station        52      13    79   21     N       N       N       N       N
+SO110 ACR       Ramsgate Station – Ramsgate            85      67    85   22     N       N       N       N       N
+                Substation
+SO130 XTD       Charing Cross – Metropolitan Jn         0      00     1   31     N       N       N       N       N
+SO130 CBM       Cannon Street – Cannon Street           0      00     0   20     N       N       N       N       N
+                Substation
+SO130 CSW       Cannon Street Sub Station –             1      53     1   33     N       N       N       N       N
+                Metropolitan Jn (via Metropolitan
+                Reversible line)
+SO130 XTD       Metropolitan Jn – Borough Market Jn     1      31     1   50     N       N       N       N       N
+SO130 CBM       Cannon Street Substation – Borough      0      20     0   38     N       N       N       N       N
+                Market Jn
+SO130 XTD       Borough Market Jn – London Bridge       1      50     1   69     N       N       N       N       N
+                platforms 1-9
+SO130 XTD       London Bridge platforms 1-9– North      1      69     4   25     N       N       N       N       N
+                Kent East Jn
+SO130 XTD       North Kent East Jn – Tanners Hill Jn    4      25     5   29     N       N       N       N       N
+SO130 XTD       Tanners Hill Jn – Parks Bridge Jn       5      29     6   14     N       N       N       N       N
+SO130 LLL       Parks Bridge Jn – Ladywell Jn           6      14     6   29     N       N       N       N       N
 
 
-
-
-December 2009                                                                           16L
+December 2009                                                                            16E

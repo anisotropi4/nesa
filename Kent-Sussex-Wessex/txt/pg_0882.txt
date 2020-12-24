@@ -2,44 +2,42 @@
 
 
 
-Line of ELR     Line of Route / Sector                 oo     oo    oo    oo   MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
-route           Description                            oo     oo    oo    oo   0000 0000 00000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
-                                                       M      Ch    M     Ch               00 0000 0000 (MOD)
-SO250 WLL       Kensington Olympia – Northbound         3      42     5   16    Y      Y        Y    N      N      N        N
-                AC/DC changeover
-SO250 WLL       Northbound AC/DC changeover –           5      16     5   43    Y      Y        Y    N      N      N        N
-                Southbound AC/DC changeover
-SO250 WLL       Southbound AC/DC changeover –           5      43     5   65    Y      Y        Y    N      N      N        N
-                Route Boundary (MD166) (Mitre
-                Bridge Jn)
-SO260 CAT       Brixton Jn – Canterbury Road Jn         3      08     3   24    Y      Y        N    N      N      N        N
-SO260 CAT       Canterbury Road Jn – Cambria Jn         3      24     3   68    Y      Y        N    N      N      N        N
-SO260 CAT       Cambria Jn – Nunhead Jn                 3      68     6   09    Y      Y        R1   N      N      N        N   R1   20mph Peckham Rye platform 4 Down
-                                                                                                                                     Catford Loop line
-SO260 CAT       Nunhead Jn – Ravensbourne Jn            6      09    10   44    Y      Y        N    N      N      N        N
-SO260 RVC       Ravensbourne Jn – Shortlands Jn via     0      00     0   48    Y      Y        N    N      N      N        N
-                Ravensbourne Chord
-SO260 CAT       Ravensbourne Jn – Shortlands Jn        10      44    10   73    Y      Y        N    N      N      N        N
-SO280 MCL       Route Boundary (LN3213) (Kentish        0      66     0   00    N      N        N    N      N      N        N
-                Town Jn) – ELR change (Former
-                Farringdon Jn)
-SO280 FTL       ELR change (Former Farringdon Jn) –     0      00     0   39    N      N        N    N      N      N        N
-                Snow Hill Tunnel (Change of Mileage)
-SO280 HHH       Snow Hill Tunnel (Change of Mileage)    0      21     0   35    N      N        N    N      N      N        N
-                – Blackfriars
-SO280   HHH     Blackfriars – Blackfriars Jn            0      35     0   63    Y      Y        N    N      N      N        N
-SO280   BMJ     Blackfriars Jn – Metropolitan Jn        0      63     1   14    Y      Y        Y    N      N      N        N
-SO280   HHH     Blackfriars Jn – Loughborough Jn        0      63     3   36    Y      Y        Y    N      N      N        N
-SO280   LTC     Loughborough Jn – Cambria Jn            3      34     3   62    Y      Y        N    N      N      N        N
-SO280   LOC     Loughborough Jn – Canterbury Road       3      39     3   79    Y      Y        Y    N      N      N        N
+Line of ELR     Line of Route / Sector                 M      CH    M       Ch   395 442 444 450 455 456 458 465 466 508 700 Notes
+route           Description                                                      000 000 000 000 000 000 000 000 000
+SO650 BBJ       Balham Jn (SO500) – Leigham Jn          4      69       6   31    N   R1   N     N   Y   Y   N   N    N     Y   Y   R1   Prohibited Streatham Hill Depot
+                                                                                                                                         Down Sidings No. 1, 2, 3
+SO650 BBJ       Leigham Jn – West Norwood Jn            6      31       6   58    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO650 BBJ       West Norwood Jn – Crystal Palace        6      58       8   56    N   Y    N     N   Y   Y   N   N    N     Y   Y
+                platforms 1 and 2
+SO650 SCP       Crystal Palace platforms 3 - 6 –        7      52       6   49    N   E    N     N   Y   Y   N   N    N     Y   R1 R1    Prohibited Crystal Palace platforms
+                Sydenham Up Jn                                                                                                           3-6 - Crystal Palace Tunnel Jn
+SO650 BBJ       Crystal Palace platforms 1 and 2 –      8      56       9   36    N   R1   N     N   Y   Y   N   N    N     Y   Y   R1   5mph Crystal Palace Down platform
+                Bromley Up Jn
+SO650 BJN1      Bromley Up Jn – Norwood North Jn        9      36       9   75    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO650 BBJ       Bromley Up Jn – Bromley Down Jn         9      36       9   48    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO650 BJN2      Bromley Down Jn – Norwood North Jn      9      48       9   75    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO650 BBJ       Bromley Down Jn – Beckenham Jn          9      48    11     62    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO660 PAT       Purley (S0500) – Caterham              15      13    19     70    N   N    N     N   Y   Y   N   N    N     Y   R1 R1    Prohibited Purley - Purley
+                                                                                                                                         (Chipsread line) Jn (Up)
+SO660 TAT       Purley (S0500) – Tattenham Corner      15      13    23     37    N   N    N     N   Y   Y   N   N    N     Y   Y
+SO680 BTH1      South Bermondsey Jn (SO510) – Old       1      49       2   32    N   E    N     N   Y   Y   N   N    N     Y   Y
+                Kent Road Jn
+SO680 BTH1      Old Kent Road Jn – Peckham Rye Jn       2      32       3   47    N   E    N     N   N   N   N   N    N     Y   Y
+SO680 BTH1      Peckham Rye Jn – Tulse Hill North Jn    3      47       6   07    N   E    N     N   Y   Y   N   N    N     Y   Y
+SO680 WTH       Tulse Hill – West Norwood Jn            6      14       6   41    N   R1   N     N   Y   Y   N   N    N     Y   Y   R1   OPPOS applies in both directions
+SO680 LTH       Tulse Hill – Leigham Jn                 6      20       6   40    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO680 BTH1      Tulse Hill North Jn – Streatham Jn      6      07       7   57    N   Y    N     N   Y   Y   N   N    N     Y   Y
+SO680 SSC       Streatham Jn – Streatham Common         7      57       8   10    N   Y    N     N   Y   Y   N   N    N     Y   Y
                 Jn
-SO280 HHH       Loughborough Jn – Herne Hill North      3      36     4   30    Y      Y        Y    N      N      N        N
-                Jn
-SO290 NKL       North Kent East Jn (SO130) –            4      25     7   35    Y      Y        N    N      N      N        N
-                Charlton Jn
-SO290 NKL       Charlton Jn – Charlton                  7      35     7   44    Y      Y        N    N      N      N        N
+SO680 BTH1      Streatham Jn – Streatham South Jn       7      57       8   09    N   N    N     N   Y   Y   N   N    N     Y   Y
+                (a)
+SO680 BTH1      Streatham South Jn (a) – Streatham      8      09       8   12    N   N    N     N   Y   Y   N   N    N     Y   Y
+                South Jn (b)
+SO680 BTH1      Streatham South Jn (b) – Streatham      8      12       8   15    N   N    N     N   Y   Y   N   N    N     Y   Y
+                South Jn (c)
+SO680 BTH1      Streatham South Jn (c) – Change of      8      15    13     45    N   N    N     N   Y   Y   N   N    N     Y   Y
+                Mileage
 
 
 
-
-December 2009                                                                              42
+December 2009                                                                              36A

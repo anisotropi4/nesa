@@ -1,43 +1,42 @@
-                                                            Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                                           Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                oooo oooo oooo oooo 150           158     159     165    166 Notes
-route           Description                            M Ch M Ch 0000                  0000    0000    0000    RHM ooooooooooooooooooooooooooo
+Line of ELR   Line of Route / Sector                 oooo oooo oooo oooo 150          158      159    165     166 Notes
+route         Description                             M Ch M Ch 0000                  0000    0000    0000    RHM ooooooooooooooooooooooooooo
 
-SO510 LBW       Bricklayers Arms Jn – New Cross         2      12     2   60     N       N       N       N       N
-                Gate Up Jn
-SO510 ELL1      New Cross Gate Up Jn – Network Rail     5      51     5   49     N       N       N       N       N
-                Boundary / Up ELL
-SO510 LBW       New Cross Gate Up Jn – New Cross        2      60     3   10     N       N       N       N       N
-                Gate Down Jn
-SO510 ELL1      New Cross Gate Down Jn – Network        6      02     5   79     N       N       N       N       N
-                Rail Boundary / Down ELL
-SO510 LBW       New Cross Gate Down Jn –                3      10     6   51     N       N       N       N       N
-                Sydenham Down Jn
-SO510 LBW       Sydenham Down Jn – Norwood Jn           6      51     8   55     N       N       N       N       N
-SO510 LBW       Norwood Jn – Norwood Fork Jn            8      55     9   33     N       N       N       N       N
-SO510 LBW       Norwood Fork Jn – Cottage Jn /          9      33     9   64     N       N       N       N       N
-                Windmill Bridge Jn
-SO510 NFE       Norwood Fork Jn – Sutton                9      33    14   75     N       N       N       N       N
-SO510 NFE       Sutton – Epsom Downs                   14      75    18   60     N       N       N       N       N
-SO520 TBH1      Three Bridges – Crawley                29      21    30   49     N       N       N       N       N
-SO520 TBH1      Crawley – Horsham Jn                   30      49    37   39     N       N       N       N       N
-SO520 TBH1      Horsham Jn – Horsham                   37      39    37   56     N       N       N       N       N
-SO520 TBH1      Horsham – Billingshurst                37      56    44   71     N       N       N       N       N
-SO520 TBH1      Billingshurst – Arundel Jn             44      71    59   75     N       N       N       N       N
-SO520 TBH2      Arundel Jn – Barnham                   19      01    22   29     Y       Y       Y       N       Y
-SO520 TBH2      Barnham – Route Boundary (SW110)       22      29    35   35     Y       Y       Y       N      R1    R1  Prohibited Chichester platform 1 with crush
-                (Havant Jn)                                                                                     R2        deflated suspension
-                                                                                                                R3    R2 Prohibited Chichester West Sidings
-                                                                                                                R4    R3 Prohibited Bosham platform 2 with crush
-                                                                                                                R5        deflated suspension
-                                                                                                                      R4 Prohibited Inlands Road Crossing with crush
-                                                                                                                          deflated suspension
-                                                                                                                      R5 OPPOS between Up Main line and Chichester
-                                                                                                                      Up Reception line
-SO520 TBH2      Route Boundary Sussex (Barnham) –      35      35    37   24     Y       Y       Y       N       Y
-                Havant Jn [Duplicated on SW110]
-SO520 WPH2    Havant Jn – Farlington Jn [Duplicated    37      24    40   33     Y       Y       Y       N       Y
-              on SW110]
-OADecember 2009                                                                          15
+SO110 TLP2    Bickley Jn – Petts Wood (Slow           12      49    13   35     N       N       N       N       N
+              Tonbridge Loop)
+SO110 CSM3    Hawkwood Jn (Up Chatham Loop) –         11      66    12   30     N       N       N       N       N
+              St Mary Cray Jn
+SO110 VIR     Bickley Jn – St Mary Cray Down Jn       12      38    12   79     N       N       N       N       N
+SO110 VIR     St Mary Cray Down Jn – St Mary Cray     12      79    13   17     N       N       N       N       N
+              Up Jn
+SO110 VIR     St Mary Cray Up Jn – Swanley Jn         13      17    17   46     N       N       N       N       N
+SO110 VIR     Swanley Jn – Fawkham Jn                 17      46    22   49     N       N       N       N       N
+SO110 VIR     Fawkham Jn – CTRL                       22      49     0   00     N       N       N       N       N
+SO110 VIR     Fawkham Jn – Rochester Bridge Jn        22      49    33   01     N       N       N       N       N
+SO110 VIR     Rochester Bridge Jn – Gillingham        33      01    35   75     N       N       N       N       N
+SO110 VIR     Gillingham – Western Jn                 35      75    43   70     N       N       N       N       N
+SO110 VIR     Western Jn – Eastern Jn                 43      70    44   18     N       N       N       N       N
+SO110 VIR     Eastern Jn – Faversham Jn               44      18    52   13     N       N       N       N       N
+SO110 VIR     Faversham Jn – Ramsgate Station         52      13    79   21     N       N       N       N       N
+SO110 ACR     Ramsgate Station – Ramsgate             85      67    85   22     N       N       N       N       N
+              Substation
+SO130 XTD     Charing Cross – Metropolitan Jn          0      00     1   31     N       N       N       N       N
+SO130 CBM     Cannon Street – Cannon Street            0      00     0   20     N       N       N       N       N
+              Substation
+SO130 CSW     Cannon Street Sub Station –              1      53     1   33     N       N       N       N       N
+              Metropolitan Jn (via Metropolitan
+              Reversible line)
+SO130 XTD     Metropolitan Jn – Borough Market Jn      1      31     1   50     N       N       N       N       N
+SO130 CBM     Cannon Street Substation – Borough       0      20     0   38     N       N       N       N       N
+              Market Jn
+SO130 XTD     Borough Market Jn – London Bridge        1      50     1   69     N       N       N       N       N
+              platforms 1- 9
+SO130 XTD     London Bridge platforms 1- 9 – North     1      69     4   25     N       N       N       N       N
+              Kent East Jn
+SO130 XTD     North Kent East Jn – Tanners Hill Jn     4      25     5   29     N       N       N       N       N
+SO130 XTD     Tanners Hill Jn – Parks Bridge Jn        5      29     6   14     N       N       N       N       N
+
+HADecember 2009                                                                          8

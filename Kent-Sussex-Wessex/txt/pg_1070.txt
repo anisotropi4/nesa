@@ -2,41 +2,41 @@
 
 
 
-Line of   ELR    Line of Route / Sector                oooo oooo oooo oooo RA Loco Gauge Notes
-route            Description                            M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-SO510     LBW    New Cross Gate Up Jn – New Cross        2   60     3    10   8         Y
-                 Gate Down Jn
-SO510     ELL1   New Cross Gate Down Jn – Network        6   02     5    79   8         Y
-                 Rail Boundary / Down ELL
-SO510     LBW    New Cross Gate Down Jn –                3   10     6    51   8         Y
-                 Sydenham Down Jn
-SO510     LBW    Sydenham Down Jn – Norwood Jn           6   51     8    55   8         Y
-SO510     LBW    Norwood Jn – Norwood Fork Jn            8   55     9    33   8        R1       R2   Prohibited Depot Arrival Road via the Carriage Washer
-SO510     LBW    Norwood Fork Jn – Cottage Jn /          9   33     9    64   8         Y
-                 Windmill Bridge Jn
-SO510     NFE    Norwood Fork Jn – Sutton                9   33    14    75   8        R1       R4   Prohibited between Gloucester Road Jn and West Croydon on the
-                                                                                       R2            Down Wallington line
-                                                                                       R3       R5   Prohibited Sutton platform 3 (Up Wallington line)
-                                                                                                R6   Prohibited Sutton platform 4 (Down Wallington line)
-SO510     NFE    Sutton – Epsom Downs                   14   75    18    60   8         N
-SO520     TBH1   Three Bridges – Crawley                29   21    30    49   8         Y
-SO520     TBH1   Crawley – Horsham Jn                   30   49    37    39   8         Y
-SO520     TBH1   Horsham Jn – Horsham                   37   39    37    56   8        R1       R2   Prohibited Horsham platform 4 (Down Platform Loop)
-SO520     TBH1   Horsham – Billingshurst                37   56    44    71   8        R1       R2   Prohibited Horsham platform 4 (Down Platform Loop)
-SO520     TBH1   Billingshurst – Arundel Jn             44   71    59    75   8         Y
-SO520     TBH2   Arundel Jn – Barnham                   19   01    22    29   8         Y
-SO520     TBH2   Barnham – Route Boundary (SW110)       22   29    35    35   8         Y
-                 (Havant Jn)
-SO520     TBH2   Route Boundary Sussex (Barnham) –      35   35    37    24   8         Y
-                 Havant Jn [Duplicated on SW110]
-SO520     WPH2 Havant Jn – Farlington Jn [Duplicated    37   24    40    33   8         Y
-               on SW110]
-SO520     WPH2 Farlington Jn – Portcreek Jn             40   33    41    03   8         Y
-               [Duplicated on SW110]
-SO520     WPH2 Portcreek Jn – Blackfriars Jn            41   03    44    50   8        R1       R2   Prohibited between Fratton and Blackfriars Jn on the Up and Down
-               [Duplicated on SW110]                                                                 Fratton line
-SO520     WPH2 Blackfriars Jn – Portsmouth and          44   26    44    50   7         Y
-               Southsea High Level [Duplicated on
-               SW110]
+Line of ELR     Line of Route / Sector                 oooo oooo oooo oooo RA Loco Gauge Notes
+route           Description                             M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+SO110   VIR     Faversham Jn – Ramsgate Station         52   13    79   21    8        R1       R4   Prohibited between Faversham Jn and Whitstable on the Up Thanet
+                                                                                       R2            line
+                                                                                       R3       R5   Prohibited Herne Bay platform 1 (Up line)
+                                                                                                R6   Prohibited between Herne Bay and Birchington on Sea on the Down
+                                                                                                     Thanet line
+SO110   ACR     Ramsgate Station – Ramsgate             85   67    85   22    8         Y
+                Substation
+SO130   XTD     Charing Cross – Metropolitan Jn          0   00     1   31    4         Y
+SO130   CBM     Cannon Street – Cannon Street            0   00     0   20    8         Y
+                Substation
+SO130   CSW     Cannon Street Sub Station –              1   53     1   33    8         Y
+                Metropolitan Jn (via Metropolitan
+                Reversible line)
+SO130   XTD     Metropolitan Jn – Borough Market Jn      1   31     1   50    8         Y
+SO130   CBM     Cannon Street Substation – Borough       0   20     0   38    8         Y
+                Market Jn
+SO130   XTD     Borough Market Jn – London Bridge        1   50     1   69    8         Y
+                platforms 1-9
+SO130   XTD     London Bridge platforms 1-9 – North      1   69     4   25    8         Y
+                Kent East Jn
+SO130   XTD     North Kent East Jn – Tanners Hill Jn     4   25     5   29    8         Y
+SO130   XTD     Tanners Hill Jn – Parks Bridge Jn        5   29     6   14    8         Y
+SO130   LLL     Parks Bridge Jn – Ladywell Jn            6   14     6   29    8         Y
+SO130   XTD     Parks Bridge Jn – Courthill Loop         6   14     6   21    8         Y
+                South Jn
+SO130   XTD     Courthill Loop South Jn – Hither         6   21     7   04    8         Y
+                Green Jn
+SO130   XTD     Hither Green Jn – Lee Spur Jn            7   04     7   44    8         Y
+SO130   XTD     Lee Spur Jn – Chislehurst Jn             7   44    11   33    8         Y
+SO130   CSM1 Chislehurst Jn – St. Mary Cray Down        11   33    11   71    8         Y
+             Jn via Reversible Chatham Loop
+SO130   CSM3 Chislehurst Jn – Hawkwood Jn (Up           11   33    11   66    8         Y
+             Chatham Loop)
+SO130   XTD     Chislehurst Jn – Petts Wood Jns         11   33    12   27    8         Y
 
-December 2009                                                                         180
+December 2009                                                                         173

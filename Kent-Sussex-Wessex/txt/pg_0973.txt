@@ -1,43 +1,49 @@
-                                                        Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                                      Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of   ELR    Line of Route / Sector                oo   oo   oo    oo    RA Loco Gauge Notes
-route            Description                           oo   oo   oo    oo    000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                                       M    Ch   M     Ch
-SO510     LBW    London Bridge platforms 10-15 –        0   00     2    12   8         y
-                 Bricklayers Arms Jn
-SO510     LBW    Bricklayers Arms Jn – New Cross        2   12     2    60   8         Y
-                 Gate Up Jn
-SO510     ELL1   New Cross Gate Up Jn – Network Rail    5   51     5    49   8         Y
-                 Boundary / Up ELL
-SO510     LBW    New Cross Gate Up Jn – New Cross       2   60     3    10   8         Y
-                 Gate Down Jn
-SO510     ELL1   New Cross Gate Down Jn – Network       6   02     5    79   8         Y
-                 Rail Boundary / Down ELL
-SO510     LBW    New Cross Gate Down Jn –               3   10     6    51   8         Y
-                 Sydenham Down Jn
-SO510     LBW    Sydenham Down Jn – Norwood Jn          6   51     8    55   8        Y
-SO510     LBW    Norwood Jn – Norwood Fork Jn           8   55     9    33   8        R1       R1   Prohibited Depot Arrival Road via the Carriage Washer
-SO510     LBW    Norwood Fork Jn – Cottage Jn /         9   33     9    64   8        Y
-                 Windmill Bridge Jn
-SO510     NFE    Norwood Fork Jn – Sutton               9   33    14    75   8        R1       R1   Prohibited between Gloucester Road Jn and West Croydon on the
-                                                                                      R2            Down Wallington line
-                                                                                      R3       R2   Prohibited Sutton platform 3 (Up Wallington line)
-                                                                                               R3   Prohibited Sutton platform 4 (Down Wallington line)
-SO510     NFE    Sutton – Epsom Downs                  14   75    18    60   8        N
-SO520     TBH1   Three Bridges – Crawley               29   21    30    49   8        Y
-SO520     TBH1   Crawley – Horsham Jn                  30   49    37    39   8        Y
-SO520     TBH1   Horsham Jn – Horsham                  37   39    37    56   8        R1       R1   Prohibited Horsham platform 4 (Down Platform Loop)
-SO520     TBH1   Horsham – Billingshurst               37   56    44    71   8        R1       R1   Prohibited Horsham platform 4 (Down Platform Loop)
-SO520     TBH1   Billingshurst – Arundel Jn            44   71    59    75   8        Y
-SO520     TBH2   Arundel Jn – Barnham                  19   01    22    29   8        Y
-SO520     TBH2   Barnham – Route Boundary (SW110)      22   29    35    35   8        Y
-                 (Havant Jn)
-SO520     TBH2   Route Boundary Sussex (Barnham) –     35   35    37    24   8         Y
-                 Havant Jn [Duplicated on SW110]
+Line of ELR     Line of Route / Sector               oo   oo   oo    oo RA Loco Gauge Notes
+route           Description                          oo   oo   oo    oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                                     M    Ch   M     Ch
+SO110   HHT  Route Boundary Kent (Herne Hill          4   63     4   76    8         Y
+             South Jn) – Tulse Hill North Jn
+SO110   HHT  Route Boundary Kent (Herne Hill          4   63     5   15    8        R1       R1   Prohibited Tulse Hill platform 2 (Down Loop line)
+             South Jn) – Tulse Hill Substation via
+             platforms 1 and 2
+SO110   VIR  Herne Hill South Jn – Beckenham Jn       4   06     8   43    8         Y
+SO110   VIR  Beckenham Jn – Shortlands Jn             8   43     9   57    8         Y
+SO110   VIR  Shortlands Jn – Bickley Jn               9   57    12   38    8         Y
+SO110   TLP1 Bickley Jn – Petts Wood (Fast           12   38    13   29    8         Y
+             Tonbridge Loop)
+SO110   TLP2 Bickley Jn – Petts Wood (Slow           12   49    13   35    8         Y
+             Tonbridge Loop)
+SO110   CSM3 Hawkwood Jn (Up Chatham Loop) –         11   66    12   30    8         Y
+             St Mary Cray Jn
+SO110   VIR  Bickley Jn – St Mary Cray Down Jn       12   38    12   79    8         Y
+SO110   VIR  St Mary Cray Down Jn – St Mary Cray     12   79    13   17    8         Y
+             Up Jn
+SO110   VIR  St Mary Cray Up Jn – Swanley Jn         13   17    17   46    8        R1       R1   Prohibited Swanley platform 3 (Up Chatham Slow line)
+SO110   VIR  Swanley Jn – Fawkham Jn                 17   46    22   49    8        Y
+SO110   VIR  Fawkham Jn – CTRL                       22   49     0   00    8        Y
+SO110   VIR  Fawkham Jn – Rochester Bridge Jn        22   49    33   01    8        R1       R1   Prohibited between Longfield and Meopham on the Down Chatham
+                                                                                                  Main line
+SO110   VIR     Rochester Bridge Jn – Gillingham     33   01    35   75    8        Y
+SO110   VIR     Gillingham – Western Jn              35   75    43   70    8        Y
+SO110   VIR     Western Jn – Eastern Jn              43   70    44   18    8        Y
+SO110   VIR     Eastern Jn – Faversham Jn            44   18    52   13    8        R1       R1   Prohibited Sittingbourne platform 1 (Up Chatham line)
+                                                                                    R2       R2   Prohibited between Teynham and Faversham on the Up Chatham
+                                                                                    R3            line
+                                                                                             R3   Prohibited Faversham platform 3 (Down Chatham line)
+SO110   VIR     Faversham Jn – Ramsgate Station      52   13    79   21    8        R1       R1   Prohibited between Faversham Jn and Whitstable on the Up Thanet
+                                                                                    R2            line
+                                                                                    R3       R2   Prohibited Herne Bay platform 1 (Up line)
+                                                                                             R3   Prohibited between Herne Bay and Birchington on Sea on the Down
+                                                                                                  Thanet line
+SO110   ACR     Ramsgate Station – Ramsgate          85   67    85   22    8         Y
+                Substation
+SO130   XTD     Charing Cross – Metropolitan Jn       0   00     1   31    4         Y
 
 
 
 
-December 2009                                                                        88I
+December 2009                                                                      88B

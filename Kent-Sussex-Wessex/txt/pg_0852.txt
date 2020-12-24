@@ -1,47 +1,44 @@
-                                                           Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                                             Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                oo     oo    oo    oo 313 319 325 373 375 376 377 378 380 387 Notes
-route           Description                           oo     oo    oo    oo 000 000 000 000 000 000 000 000 000 000 ooooooooooooooooooooooooooo
-                                                      M      Ch    M     Ch
-SO130 XTD       Chislehurst Jn – Petts Wood Jns       11      33    12   27   N    R1   H    N    Y   Y    Y    N    N     Y R1   Prohibited from Slow lines
-SO130 XTD       Petts Wood Jns – Sevenoaks            12      27    21   74   N    R1   Y    N    Y   Y    Y    N    N     Y R1   Prohibited on Slow lines between Petts
-                Substation                                                                                                        Wood Jns and Orpington
-SO130 XTD       Sevenoaks Substation – Tonbridge      21      74    29   35   N    E    Y    N    Y   Y    Y    N    N     Y R1   75mph maximum speed
-                West Jn                                                            R1
-SO130 XTD       Tonbridge West Jn – Tonbridge East    29      35    29   55   N    E    Y    N    Y   Y    Y    E    N     Y R1   75mph maximum speed
-                Jn                                                                 R1                                        R2   Prohibited Tonbridge platform 4
-                                                                                   R2
-SO130 XTD       Tonbridge East Jn – Paddock Wood      29      55    34   67   N    E    Y    N    Y   Y    Y    E    N     Y R1   75mph maximum speed
-                                                                                   R1
-SO130 XTD       Paddock Wood – Ashford (Jn with       34      67    55   54   N    E    Y    N    Y   Y    Y    E   EH     Y R1   75mph maximum speed
-                Maidstone line)                                                    R1                               R2       R2   Prohibited between Paddock Wood and
-                                                                                                                                  Chart Leacon Depot
-SO130 XTD       Ashford (Jn with Maidstone line) –    55      54    56   09   N    E    Y    R4   Y   Y    Y    E   EH     Y R1   75mph maximum speed
-                Ashford Station                                                    R1                                        R2   Prohibited Ashford platform 1 (Up platform
-                                                                                   R2                                             loop)
-                                                                                   R3                                        R3   25mph Ashford platform 2 (Up Slow)
-                                                                                                                             R4   Permitted Down / Up West Chord and
-                                                                                                                                  Down / Up East Chords to CTRL interface,
-                                                                                                                                  via Ashford platforms 3, 4, 5 & 6
-SO130 XTD       Ashford Station – Ashford (Jn with    56      09    56   20   N    E    Y    R4   Y   Y    R5   E    N       R1   75mph maximum speed
-                Hastings line)                                                     R1                                        R2   Prohibited Ashford platform 1 (Up platform
-                                                                                   R2                                             loop)
-                                                                                   R3                                        R3   25mph Ashford platform 2 (Up Slow)
-                                                                                                                             R4   Permitted Down / Up West Chord and
-                                                                                                                                  Down / Up East Chords to CTRL interface,
-                                                                                                                                  via Ashford platforms 3, 4, 5 & 6
-                                                                                                                             R5   Class 377/1 and 377/5 only
-SO130 XTD       Ashford (Jn with Hastings line) –     56      20    56   35   N    N    N    R1   Y   Y    R2   E    N     N R1   Permitted Down / Up West Chord and
-                Ashford (Jn with Canterbury Line)                                                                                 Down / Up East Chords to CTRL interface,
-                                                                                                                                  via Ashford platforms 3, 4, 5 & 6
-                                                                                                                             R2   Class 377/1 and 377/5 only
-SO130 XTD       Ashford (Jn with Canterbury Line) –   56      35    66   38   N    N    N    N    Y   Y    R1   N    N     N R1   Class 377/1 and 377/5 only
-                Saltwood Jn
-SO130 XTD       Saltwood Jn – Folkestone Central      66      38    69   73   N    N    N    R1   Y   Y    R2   N    N     N R1   Permitted Down / Up West Chord and
-                                                                                                                                  Down / Up East Chords to CTRL interface
-                                                                                                                             R2   Class 377/1 and 377/5 only
+Line of ELR     Line of Route / Sector                  oo     oo    oo    oo   170      171    172      220    221 Notes
+route           Description                             oo     oo    oo    oo   0000    0000    0000    0000    0000 ooooooooooooooooooooooooooo
+                                                        M      Ch    M     Ch
+SO520 TBH2      Route Boundary Sussex (Barnham) –       35      35    37   24     Y       Y       N       N       N
+                Havant Jn [Duplicated on SW110]
+SO520 WPH2      Havant Jn – Farlington Jn [Duplicated   37      24    40   33     Y       Y       N       Y       Y
+                on SW110]
+SO520 WPH2      Farlington Jn – Portcreek Jn            40      33    41   03     Y       Y       N       Y       Y
+                [Duplicated on SW110]
+SO520 WPH2      Portcreek Jn – Blackfriars Jn           41      03    44   50     Y       Y       N       Y       Y
+                [Duplicated on SW110]
+SO520 WPH2      Blackfriars Jn – Portsmouth and         44      26    44   50     Y       Y       N       Y       Y
+                Southsea High Level [Duplicated on
+                SW110]
+SO520 PAS       Blackfriars Jn – Portsmouth and         44      26    44   50     Y       Y       N       Y       Y
+                Southsea Low Level [Duplicated on
+                SW110]
+SO520 WPH2      Portsmouth and Southsea High Level      44      50    45   36     Y       Y       N       Y       Y
+                – Portsmouth Harbour
+                *platforms 4 and 5 RA7
+                *platforms 1 and 3 RA4
+                [Duplicated on SW110]
+SO530 SCU1      South Croydon Jn (SO600) –              11      29    12   23     N       Y       N       N       N
+                Sanderstead
+SO530 SCU1      Sanderstead – Hurst Green Jn            12      23    21   35     N       Y       N       N       N
+SO530 HGG1      Hurst Green Jn – End of Line beyond     21      35    30   12     N       Y       N       N       N
+                East Grinstead
+SO540 SCU1      Hurst Green Jn – Uckfield               21      35    46   08     N       Y       N       N       N
+SO550 RTT       Redhill (SO500) – Tonbridge             22      40    42   16     N       Y       N       N       N
+SO560 RSJ       Redhill – Reigate                       22      40    24   27     N       Y       N       Y       Y
+SO560 RSJ       Reigate – Route Boundary (SW300)        24      27    33   10     N       N       N       Y       Y
+                (Shalford Jn)
+SO590 KJE1      Keymer Jn – Lewes                       40      69    49   74     N       Y       N       N       N
+SO590 KJE1/2 Lewes – Southerham Jn [Duplicated          49      74    51   11     N       Y       N       N       N
+             on SO620]
+SO590 KJE3      Southerham Jn – Willingdon Jn            9      14    21   39     N       Y       N       N       N
 
 
-December 2009                                                                           20
+
+December 2009                                                                             16M

@@ -2,42 +2,42 @@
 
 
 
-Line of ELR      Line of Route / Sector                oo     oo    oo    oo   MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
-route            Description                           oo     oo    oo    oo   0000 0000 00000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
-                                                       M      Ch    M     Ch               00 0000 0000 (MOD)
-SO540   SCU1 Hurst Green Jn – Uckfield                 21      35    46   08    Y      Y       N     N      N      N        N
-SO550   RTT  Redhill (SO500) – Tonbridge               22      40    42   16    Y      Y       R1    N      N      N        N   R1   30mph Leigh Up platform
-SO560   RSJ  Redhill – Reigate                         22      40    24   27    Y      Y       N     N      N      N        N
-SO560   RSJ  Reigate – Route Boundary (SW300)          24      27    33   10    Y      Y       N     N      N      N        N
-             (Shalford Jn)
-SO590 KJE1   Keymer Jn – Lewes                         40      69    49   74    Y      Y       N     N      N      N        N
-SO590 KJE1/2 Lewes – Southerham Jn [Duplicated         49      74    51   11    Y      Y       N     N      N      N        N
-             on SO620]
-SO590 KJE3   Southerham Jn – Willingdon Jn              9      14    21   39    Y      Y       N     N      N      N        N
-SO590 KJE3   Willingdon Jn – Eastbourne                21      39    23   75    Y      Y       N     N      N      N        N
-SO600 WJB    Willingdon Jn – Connection - St           20      36    32   21    Y      Y       N     N      N      N        N
-             Leonards LMD
-SO600 WJB    Connection - St Leonards LMD – Bo         32      21    32   76    Y      Y       N     N      N      N        N
-             Peep Jn
-SO600 TTH    Bo Peep Jn – Hastings                     60      69    62   33    Y      Y       R1    N      N      N        N   R1   30mph Leigh Up platform
-SO600 ATH    Hastings – Ore Start / End of             82      34    81   42    Y      Y       N     N      N      N        N
-             Electrification
-SO600 ATH    Ore Start / End of Electrification – Jn   81      42    56   20    Y      Y       R1    N      N      N        N   R1   Prohibited between Ore start / end of
-             with Hastings line                                                                                                      electrification and Appledore
-SO620 BTL    Montpelier Jn – Lewes                      0      14     7   77    Y      Y       N     N      N      N        N
-SO620 KJE1/2 Lewes – Southerham Jn [Duplicated         49      74    51   11    Y      Y       N     N      N      N        N
-             on SO590]
-SO620 STS    Southerham Jn – Newhaven Harbour          51      11    56   55    Y      Y       N     N      N      N        N
-             Jn
-SO620 NHB    Newhaven Harbour Jn – Wharf Road          56      55    57   78    Y      Y       N     N      N      N        N
-             (Newhaven Marine)
-SO620 STS    Newhaven Harbour Jn – Seaford             56      55    58   77    Y      Y       N     N      N      N        N
-SO630 BLI1   Brighton platforms 1 and 2 – Hove Jn       0      00     1   28    Y      Y       N     N      N      N        N
-SO630 BLI1   Hove Jn – Hove platforms 2 and 3           1      28     1   35    Y      Y       Y     N      N      N        N
-SO630 PPH    Hove Jn – Hove Up platform loop via       50      48    51   02    Y      Y       Y     N      N      N        N
-             platform 1
+Line of ELR     Line of Route / Sector                 oo     oo    oo    oo   MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
+route           Description                            oo     oo    oo    oo   0000 0000 00000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
+                                                       M      Ch    M     Ch              00 0000 0000 (MOD)
+SO130 XTD       Ashford (Jn with Maidstone line) –     55      54    56   09    Y      Y        R1   N      N      N        N   R1 15mph Ashford platform 1 Up Loop line
+                Ashford Station
+SO130 XTD       Ashford Station – Ashford (Jn with     56      09    56   20    Y      Y        R1   N      N      N        N   R1 15mph Ashford platform 1 Up Loop line
+                Hastings line)
+SO130 XTD       Ashford (Jn with Hastings line) –      56      20    56   35    Y      Y        Y    N      N      N        N
+                Ashford (Jn with Canterbury Line)
+SO130 XTD       Ashford (Jn with Canterbury Line) –    56      35    66   38    Y      Y        Y    N      N      N        N
+                Saltwood Jn
+SO130 XTD       Saltwood Jn – Dover Substation         66      38    76   45    Y      Y        N    N      N      N        N
+SO130 XTD       Saltwood Jn – Folkestone Central       66      38    69   73    Y      Y        N    N      N      N        N
+SO130 XTD       Folkestone Central – Folkestone East   69      73    70   73    Y      Y        N    N      N      N        N
+                Staff Halt
+SO140   SBJ     Swanley Jn (SO110) – Otford Jn         17      46    24   53    Y      Y        N    N      N      N        N
+SO140   OJS     Otford Jn – Sevenoaks Jn               24      53    26   58    Y      Y        N    N      N      N        N
+SO140   SBJ     Otford Jn – Jn with Maidstone line     24      53    58   61    Y      Y        N    N      N      N        N
+SO150   WMS     Western Jn (SO110) – Middle Jn         43      70    44   13    Y      Y        N    N      N      N        N
+SO150   SEJ1    Eastern Jn (SO110) – Middle Jn          0      00     0   23    Y      Y        N    N      N      N        N
+SO150   SEJ2    Middle Jn – Sheerness on Sea           44      13    51   19    Y      Y        N    N      N      N        N
+SO160   FDM     Faversham Jn (SO110) – Buckland Jn     52      13    76   32    Y      Y        N    N      N      N        N
+SO160   FDM     Buckland Jn – Change of mileage        76      32    77   76    Y      Y        N    N      N      N        N
+SO160   FDM     Change of mileage – Dover              76      53    76   45    Y      Y        N    N      N      N        N
+                Substation
+SO170 TTH       Tonbridge East Jn (SO130) –            29      55    34   32    Y      Y        Y    N      N      N        N
+                Tunbridge Wells
+SO170 TTH       Tunbridge Wells – Bo Peep Jn           34      32    60   69    Y      Y        R1   N      N      N        N   R1   10mph West St Leonards Up platform
+SO180 PWS1      Paddock Wood – Maidstone West          34      67    44   56    Y      Y        N    N      N      N        N
+                Change of Mileage
+SO210 APL       Appledore (SO600) – Dungeness          64      50    73   65    Y      Y        Y    N      N      N        N
+                Ground Frame
+SO220 ACR       Ashford (Jn with Canterbury line       56      35    57   05    Y      Y        N    N      N      N        N
+                (SO130)) – Hitachi Depot (Access)
 
 
 
 
-December 2009                                                                            44C
+December 2009                                                                              40
