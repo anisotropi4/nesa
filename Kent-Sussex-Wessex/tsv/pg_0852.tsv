@@ -1,12 +1,18 @@
-Kent-Sussex-Wessex	0852	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0852	SO130	XTD	Chislehurst Jn	Petts Wood Jns	Chislehurst Jn – Petts Wood Jns	11	33	12	27	N	R1	H	N	Y	Y	Y	N	N	Y	R1 Prohibited from Slow lines
-Kent-Sussex-Wessex	0852	SO130	XTD	Petts Wood Jns	Sevenoaks Substation	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	N	R1	Y	N	Y	Y	Y	N	N	Y	R1 Prohibited on Slow lines between Petts Wood Jns and Orpington
-Kent-Sussex-Wessex	0852	SO130	XTD	Sevenoaks Substation	Tonbridge West Jn	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	N	E R1	Y	N	Y	Y	Y	N	N	Y	R1 75mph maximum speed
-Kent-Sussex-Wessex	0852	SO130	XTD	Tonbridge West Jn	Tonbridge East Jn	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	N	E R1 R2	Y	N	Y	Y	Y	E	N	Y	R1 75mph maximum speed R2 Prohibited Tonbridge platform 4
-Kent-Sussex-Wessex	0852	SO130	XTD	Tonbridge East Jn	Paddock Wood	Tonbridge East Jn – Paddock Wood	29	55	34	67	N	E R1	Y	N	Y	Y	Y	E	N	Y	R1 75mph maximum speed
-Kent-Sussex-Wessex	0852	SO130	XTD	Paddock Wood	Ashford (Jn with Maidstone line)	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	N	E R1	Y	N	Y	Y	Y	E	EH R2	Y	R1 75mph maximum speed R2 Prohibited between Paddock Wood and Chart Leacon Depot
-Kent-Sussex-Wessex	0852	SO130	XTD	Ashford (Jn with Maidstone line)	Ashford Station	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	N	E R1 R2 R3	Y	R4	Y	Y	Y	E	EH	Y	R1 75mph maximum speed R2 Prohibited Ashford platform 1 (Up platform loop) R3 25mph Ashford platform 2 (Up Slow) R4 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6
-Kent-Sussex-Wessex	0852	SO130	XTD	Ashford Station	Ashford (Jn with Hastings line)	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	N	E R1 R2 R3	Y	R4	Y	Y	R5	E	N		R1 75mph maximum speed R2 Prohibited Ashford platform 1 (Up platform loop) R3 25mph Ashford platform 2 (Up Slow) R4 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6 R5 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0852	SO130	XTD	Ashford (Jn with Hastings line)	Ashford (Jn with Canterbury Line)	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	N	N	N	R1	Y	Y	R2	E	N	N	R1 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6 R2 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0852	SO130	XTD	Ashford (Jn with Canterbury Line)	Saltwood Jn	Ashford (Jn with Canterbury Line) – Saltwood Jn	56	35	66	38	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0852	SO130	XTD	Saltwood Jn	Folkestone Central	Saltwood Jn – Folkestone Central	66	38	69	73	N	N	N	R1	Y	Y	R2	N	N	N	R1 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface R2 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0852	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	170	171	172	220	221	Notes
+Kent-Sussex-Wessex	0852	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	Y	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO520	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SW110]	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0852	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	N	Y	N	N	N	
+Kent-Sussex-Wessex	0852	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	N	Y	N	N	N	

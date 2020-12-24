@@ -1,21 +1,19 @@
-Kent-Sussex-Wessex	0913	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56
-Kent-Sussex-Wessex	0913	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	LBW	Bricklayers Arms Jn	New Cross Gate Up Jn	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	ELL1	New Cross Gate Up Jn	Network Rail Boundary / Up ELL	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	8	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0913	SO510	LBW	New Cross Gate Up Jn	New Cross Gate Down Jn	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	ELL1	New Cross Gate Down Jn	Network Rail Boundary / Down ELL	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	8	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0913	SO510	LBW	New Cross Gate Down Jn	Sydenham Down Jn	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	LBW	Sydenham Down Jn	Norwood Jn	Sydenham Down Jn – Norwood Jn	6	51	8	55	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	LBW	Norwood Jn	Norwood Fork Jn	Norwood Jn – Norwood Fork Jn	8	55	9	33	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	LBW	Norwood Fork Jn	Cottage Jn / Windmill Bridge Jn	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	NFE	Norwood Fork Jn	Sutton	Norwood Fork Jn – Sutton	9	33	14	75	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO510	NFE	Sutton	Epsom Downs	Sutton – Epsom Downs	14	75	18	60	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH1	Three Bridges	Crawley	Three Bridges – Crawley	29	21	30	49	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH1	Crawley	Horsham Jn	Crawley – Horsham Jn	30	49	37	39	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH1	Horsham Jn	Horsham	Horsham Jn – Horsham	37	39	37	56	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH1	Horsham	Billingshurst	Horsham – Billingshurst	37	56	44	71	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH1	Billingshurst	Arundel Jn	Billingshurst – Arundel Jn	44	71	59	75	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH2	Arundel Jn	Barnham	Arundel Jn – Barnham	19	01	22	29	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH2	Barnham	Route Boundary (SW110) (Havant Jn)	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0913	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0913	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 C h	 o M	 Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
+Kent-Sussex-Wessex	0913	SO110	VIR	Bickley Jn	St Mary Cray Down Jn	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	St Mary Cray Down Jn	St Mary Cray Up Jn	St Mary Cray Down Jn – St Mary Cray Up Jn	12	79	13	17	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	St Mary Cray Up Jn	Swanley Jn	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Swanley Jn	Fawkham Jn	Swanley Jn –Fawkham Jn	17	46	22	49	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Fawkham Jn	CTRL	Fawkham Jn – CTRL	22	49	0	00	8	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0913	SO110	VIR	Fawkham Jn	Rochester Bridge Jn	Fawkham Jn – Rochester Bridge Jn	22	49	33	01	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Rochester Bridge Jn	Gillingham	Rochester Bridge Jn – Gillingham	33	01	35	75	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Gillingham	Western Jn	Gillingham – Western Jn	35	75	43	70	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Western Jn	Eastern Jn	Western Jn –Eastern Jn	43	70	44	18	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Eastern Jn	Faversham Jn	Eastern Jn –Faversham Jn	44	18	52	13	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	VIR	Faversham Jn	Ramsgate Station	Faversham Jn – Ramsgate Station	52	13	79	21	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO110	ACR	Ramsgate Station	Ramsgate Substation	Ramsgate Station – Ramsgate Substation	85	67	85	22	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO130	XTD	Charing Cross	Metropolitan Jn	Charing Cross – Metropolitan Jn	0	00	1	31	4	R1 R2	R1 R2	N	R1 R2	R1 R2	R1 R2	R1 R2	R1 Prohibited (from points 648) on to the track leading into Charing Cross platform 1 R2 15mph over Charing Cross Bridge (0m 27ch) with all vehicles prohibited on adjacent tracks unless specially authorised by the Structures Engineer
+Kent-Sussex-Wessex	0913	SO130	CBM	Cannon Street	Cannon Street Substation	Cannon Street – Cannon Street Substation	0	00	0	20	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO130	CSW	Cannon Street Sub Station	Metropolitan Jn (via Metropolitan Reversible line)	Cannon Street Sub Station – Metropolitan Jn (via Metropolitan Reversible line)	1	53	1	33	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO130	XTD	MetropolitanJn	Borough Market Jn	MetropolitanJn – Borough Market Jn	1	31	1	50	8	R1	R1	N	R1	R1	R1	R1	R1 15mph on the Up and Down Cannon Street lines
+Kent-Sussex-Wessex	0913	SO130	CBM	Cannon Street Substation	Borough Market Jn	Cannon Street Substation – Borough Market Jn	0	20	0	38	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0913	SO130	XTD	Borough Market Jn	London Bridge platforms 1-9	Borough Market Jn – London Bridge platforms 1-9	01	50	01	69	8 R1	R2 R3	R2 R3	N	R2 R3	R2 R3	R2 R3	R2 R3	R1 RA4 Down & Up Cannon Street Reversible and Down Snow Hill lines NC/G1/2010/ICP-RA/SO001V2 until 01 March 2021 R2 15mph on the Up and Down Cannon Street lines NC/G1/2010/ICP-RA/SO001V2 until 01 March 2021 R3 OPPOS applies over bridge 54 (1m 60ch) on the Up and Down Cannon Street lines

@@ -1,17 +1,16 @@
-Kent-Sussex-Wessex	0997	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	377	378	380	387
-Kent-Sussex-Wessex	0997	SW100	JAT	Waterloo platforms 20-24	International Jn	Waterloo platforms 20-24 – International Jn	00	00	0	38	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	RDG1	Waterloo platforms 12-19	International Jn (Windsor lines)	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	RDG1	International Jn	Carlisle Lane Jn (Windsor lines)	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	RDG1	Carlisle Lane Jn	Nine Elms Jn (Windsor lines)	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	BML1	Waterloo platforms 1-11	International Jn (Main lines)	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	BML1	International Jn	Carlisle Lane Jn (Main lines)	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	BML1	Carlisle Lane Jn	Nine Elms Jn (Main lines)	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	AHG	Nine Elms Jn	Route Boundary (Kent SO110) (Lindford Street Jn)	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	RDG1	Nine Elms Jn	West London Jn (Windsor lines)	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	BML1	Nine Elms Jn	Crossovers at 2m 65ch (Main lines)	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	BML1	Crossovers at 2m 65	West London Jn (Main lines)	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	SCC	West London Jn	Route Boundary (Sussex SO250) (Lathmere Jn No.3)	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	RDG1	West London Jn	Ludgate Jn (Windsor lines)	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	BML1	West London Jn	Ludgate Jn (Main lines)	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	N	Y	H	N	N	N	N
-Kent-Sussex-Wessex	0997	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn)	Ludgate Jn	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	N	Y	H	Y	Y	N	Y
-Kent-Sussex-Wessex	0997	SW100	CJL	Ludgate Jn	Route Boundary (Sussex SO250) (Latchmere Jn No.2)	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	Y	Y	H	Y	Y	N	Y
+Kent-Sussex-Wessex	0997	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
+Kent-Sussex-Wessex	0997	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn)	Ludgate Jn	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	0997	SW100	CJL	Ludgate Jn	Route Boundary (Sussex SO250) (Latchmere Jn No.2)	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	N	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0997	SW100	RDG1	Ludgate Jn	Clapham Jn (Windsor lines)	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	N	Y	N	R1	N	N	N	R1 Prohibited Clapham platforms 2, 3, 4, 5 and 6
+Kent-Sussex-Wessex	0997	SW100	BML1	Ludgate Jn	Clapham Jn (Main lines)	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	N	R1	N	N	N	N	N	R1 40mph Clapham platform 10
+Kent-Sussex-Wessex	0997	SW105	BML1	Clapham Jn	Wimbledon platforms 5, 6, 7 and 8	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0997	SW105	PPW	Wimbledon North Jn	Wimbledon platforms 1, 2, 3 and 4 (District line)	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0997	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8	Wimbledon West Jn	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0997	SW105	BML1	Wimbledon West Jn	Hampton Court Jn	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0997	SW105	BML1	Hampton Court Jn	Woking	Hampton Court Jn – Woking	13	27	24	27	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0997	SW105	BML1	Woking	Basingstoke	Woking – Basingstoke	24	27	47	61	R1 R2 R3 R4 R5	Y	N	N	N	N	N	R1 20mph over bridge 85 (24m 40ch) (Up Fast) (between Woking and Brookwood) R2 40mph over bridge 107b (34m 10ch) (Up Slow) (between Fleet and Farnborough) R3 40mph Winchfield Up Slow platform R4 30mph Brookwood Up Slow platform R5 50mph Winchfield Down Slow platform
+Kent-Sussex-Wessex	0997	SW105	BML1	Basingstoke	Eastleigh West Jn	Basingstoke – Eastleigh West Jn	47	61	73	42	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0997	SW105	BML1	Eastleigh West Jn	St Denys	Eastleigh West Jn – St Denys	73	42	77	10	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0997	SW105	BML1	St Denys	Northam Jn	St Denys – Northam Jn	77	10	78	15	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0997	SW105	BML2	Northam Jn	Worgret Jn	Northam Jn – Worgret Jn	78	15	121	77	N	R1 R2	R3	N	N	Y	Y	R1 Prohibited between Totton and Worgret Jn when laden R2 Prohibited with footsteps fitted and deflated suspension R3 Prohibited between Southampton Central and Worgret Jn
+Kent-Sussex-Wessex	0997	SW105	FUR	Worgret Jn	Network Rail Boundary (Swanage Railway)	Worgret Jn – Network Rail Boundary (Swanage Railway)	126	30	129	55	N	N	N	N	N	N	N	

@@ -1,21 +1,22 @@
-Kent-Sussex-Wessex	1000	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	377	378	380	387	Notes
-Kent-Sussex-Wessex	1000	SW110	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	1000	SW115	BAE1	Worting Jn	Connection to Ludgershall Branch line	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	LUD1	Connection to main Up line (BAE1)	Red Post Jn	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	LUD2	Red Post Jn	Ludgershall	Red Post Jn – Ludgershall	0	00	5	64	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE1	Connection to Ludgershall Branch line	Laverstock North Jn	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	LAV	Laverstock North Jn	Laverstock South Jn	Laverstock North Jn – Laverstock South Jn	82	05	82	39	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE1	Laverstock North Jn	Salisbury Tunnel Jn	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE1	Salisbury Tunnel Jn	Fisherton Short Mile Change of Mileage	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE2	Fisherton Short Mile Change of Mileage	Wilton Jn	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE2	Wilton Jn	Gillingham	Wilton Jn – Gillingham	85	37	105	23	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE2	Gillingham	Yeovil Jn	Gillingham – Yeovil Jn	105	23	122	48	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW115	BAE2	Yeovil Jn	Route Boundary (GW610) (Exeter St Davids Jn)	Yeovil Jn – Route Boundary (GW610) (Exeter St Davids Jn)	122	48	164	30	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW120	PAA1	Pirbright Jn	Ash Vale Jn	Pirbright Jn – Ash Vale Jn	29	39	32	30	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW120	PAA1	Ash Vale Jn	Change of ELR	Ash Vale Jn – Change of ELR	32	30	36	75	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW120	PAA2	Change of ELR	Connection to Farnham Depot	Change of ELR – Connection to Farnham Depot	39	22	42	70	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW120	PAA2	Connection to Farnham Depot	Alton	Connection to Farnham Depot – Alton	42	70	49	13	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW125	BKE	Route Boundary GW500 (Southcote Jn)	Basingstoke	Route Boundary GW500 (Southcote Jn) – Basingstoke	37	76	51	39	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW130	ECR	Eastleigh East Jn	Romsey	Eastleigh East Jn – Romsey	73	35	80	47	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1000	SW135	ETF	Eastleigh West Jn	Fareham	Eastleigh West Jn – Fareham	73	42	84	21	Y	Y	H	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	1000	SW140	SDP1	St Denys	Change of ELR	St Denys – Change of ELR	1	59	14	15	Y	Y	H	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
+Kent-Sussex-Wessex	1000	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
+Kent-Sussex-Wessex	1000	SW150	RTJ2	Romsey Jn	Salisbury Tunnel Jn	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	N	Y	N	N	N	R1	R1	R1 OPPOS applies between Laverstock South Jn and Salisbury Tunnel Jn
+Kent-Sussex-Wessex	1000	SW155	TTF	Totton	Marchwood	Totton – Marchwood	82	43	86	10	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW155	TTF	Marchwood	Fawley GF	Marchwood – Fawley GF	86	10	91	42	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW160	BLP	Brockenhurst	Lymington Pier	Brockenhurst – Lymington Pier	92	66	98	15	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW165	HAG	Hamworthy	Hamworthy Goods (Stop board)	Hamworthy – Hamworthy Goods (Stop board)	115	77	118	05	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW170	SAL	Wilton Jn	Route Boundary Western (GW5001) (Westbury South Jn)	Wilton Jn – Route Boundary Western (GW5001) (Westbury South Jn)	132	33	115	40	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW175	WEY	Route Boundary (GW500) (Castle Cary Jn)	Yeovil Pen Mill Jn	Route Boundary (GW500) (Castle Cary Jn) – Yeovil Pen Mill Jn	130	00	141	35	N	Y	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	1000	SW175	YJP	Yeovil Pen Mill Jn	Yeovil Jn	Yeovil Pen Mill Jn – Yeovil Jn	1	42	0	00	N	Y	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	1000	SW175	WEY	Yeovil Pen Mill Jn	Dorchester Jn	Yeovil Pen Mill Jn – Dorchester Jn	141	35	162	14	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW180	RPE	Raynes Park	Epsom (Change of ELR)	Raynes Park – Epsom (Change of ELR)	8	51	14	18	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW180	BTH2	Route Boundary Sussex (Ewell East)	Epsom [Duplicated in SO680]	Route Boundary Sussex (Ewell East) – Epsom [Duplicated in SO680]	17	33	18	73	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW180	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SO680]	Epsom (Change of ELR) – Leatherhead [Duplicated in SO680]	14	27	18	02	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW180	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW180	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn (SO520) [Duplicated in SO680]	Route Boundary Sussex (Leatherhead) – Horsham jn (SO520) [Duplicated in SO680]	21	09	35	34	N	N	R1 R2	N	N	N	N	R1 5mph Holmwood Down platform R2 15mph Warnham Down platform
+Kent-Sussex-Wessex	1000	SW185	MPC	Motspur Park	Chessington South	Motspur Park – Chessington South	9	57	13	73	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW190	NMS1	New Malden	Fulwell Jn	New Malden – Fulwell Jn	9	62	14	53	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW190	NMS2	Fulwell Jn	Shepperton	Fulwell Jn – Shepperton	12	56	18	73	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW195	HAM	Hampton Court Jn	Hampton Court Up line	Hampton Court Jn – Hampton Court Up line	13	27	14	76	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW195	HAM	Hampton Court Jn	Hampton Court Down line	Hampton Court Jn – Hampton Court Down line	13	27	14	76	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW200	NGL	Hampton Court Jn	Effingham Jn	Hampton Court Jn – Effingham Jn	13	27	21	04	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1000	SW200	NGL	Effingham Jn	Guilford	Effingham Jn – Guilford	21	04	29	70	N	N	N	N	N	N	N	

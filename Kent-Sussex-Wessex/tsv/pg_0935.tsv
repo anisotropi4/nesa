@@ -1,23 +1,15 @@
-Kent-Sussex-Wessex	0935	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	86	87	88	90	91	92
-Kent-Sussex-Wessex	0935	SO160	FDM	Change of mileage	Dover Substation	Change of mileage – Dover Substation	76	53	76	45	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO170	TTH	Tonbridge East Jn (SO130)	Tunbridge Wells	Tonbridge East Jn (SO130) – Tunbridge Wells	29	55	34	32	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO170	TTH	Tunbridge Wells	Bo Peep Jn	Tunbridge Wells – Bo Peep Jn	34	32	60	69	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO180	PWS1	Paddock Wood	Maidstone West Change of Mileage	Paddock Wood – Maidstone West Change of Mileage	34	67	44	56	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO210	APL	Appledore (SO600)	Dungeness Ground Frame	Appledore (SO600) – Dungeness Ground Frame	64	50	73	65	6	N	N	N	N	N	N
-Kent-Sussex-Wessex	0935	SO220	ACR	Ashford (Jn with Canterbury line (SO130))	Hitachi Depot (Access)	Ashford (Jn with Canterbury line (SO130)) – Hitachi Depot (Access)	56	35	57	05	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO220	ACR	Hitachi Depot (Access)	Minster West Jn	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO220	ACR	Minster West Jn	Minster East Jn	Minster West Jn – Minster East Jn	81	69	82	17	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO220	ACR	Minster East Jn	Ramsgate Substation	Minster East Jn – Ramsgate Substation	82	17	85	22	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO230	FFH2	Folkstone East Jn (SO130)	Folkstone Harbour	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO240	BME2	Buckland Jn	Sandwich	Buckland Jn – Sandwich	99	05	86	46	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO240	BME2	Sandwich	Minster South	Sandwich – Minster South	86	46	82	21	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO240	MSW	Minster South Jn	Minster West Jn	Minster South Jn – Minster West Jn	82	12	81	64	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO240	BME1	Minster South Jn	Minster East Jn	Minster South Jn – Minster East Jn	0	23	0	00	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	BSF	Battersea Pier Jn	Connection to Battersea Reversible	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	BSF	Connection to Battersea Reversible	Stewarts Lane Jn	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	BSF	Stewarts Lane Jn	Factory Jn	Stewarts Lane Jn – Factory Jn	1	36	1	61	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Longhedge Jn (via Battersea Reversible)	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	BSP2	Longhedge Jn	Pouparts Jn	Longhedge Jn – Pouparts Jn	1	66	2	19	8	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0935	SO250	FLL2	Longhedge Jn	Route Boundary (SW100) (Ludgate Jn)	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	8	N	N	Y	N	N	Y
-Kent-Sussex-Wessex	0935	SO250	CKL	Longhedge Jn	Latchmere Jn No.3	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0935	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	57	58	59	60	66	67	68	70	73	97/3	Notes
+Kent-Sussex-Wessex	0935	SO520	TBH1	Billingshurst	Arundel Jn	Billingshurst – Arundel Jn	44	71	59	75	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	TBH2	Arundel Jn	Barnham	Arundel Jn –Barnham	19	01	22	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	TBH2	Barnham	Route Boundary (SW110) (Havant Jn)	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SW110]	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	7*	Y	Y	Y	Y	Y	Y	Y	Y	R1	Y	R1 Prohibited from platforms 1 & 3 at Portsmouth Harbour unless hauling Infrastructure Monitoring Trains
+Kent-Sussex-Wessex	0935	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0935	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	4	R1	R2	R2	R2	R2	R2	R2	R2	R1	R1	R1 30mph over Oxted Viaduct (between Oxted & Hurst Green from 20m 40ch to 20m 47ch) R2 Prohibited beyond 12m 40ch
+Kent-Sussex-Wessex	0935	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	6	Y	N	N	N	N	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0935	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	4	R1	N	N	N	N	N	N	N	R1	R1	R1 30mph over Red Lane Bridge (SCU1 526) (21m 78ch) STNC/G1/2010/ICP-RA/SO018a until 31 December 2017

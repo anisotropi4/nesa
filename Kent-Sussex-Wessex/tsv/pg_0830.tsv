@@ -1,21 +1,18 @@
-Kent-Sussex-Wessex	0830	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	150	158	159	165	166 RHM	Notes
-Kent-Sussex-Wessex	0830	SO500	VTB1	Balham Jn	Streatham North Jn	Balham Jn – Streatham North Jn	4	69	6	14	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	SNS	Streatham North Jn	Streatham South Jn via Reversible Fast Spur	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	SLJ	Streatham North Jn	Streatham South Jn via Slow Spurs	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB1	Streatham North Jn	Selhurst Jn	Streatham North Jn – Selhurst Jn	6	14	9	43	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	WCS	Selhurst Jn	Gloucester Road Jn	Selhurst Jn – Gloucester Road Jn	9	44	9	62	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB1	Selhurst Jn	Windmill Bridge Jn	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB2	Windmill Bridge Jn	South Croydon Jn	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB2	South Croydon Jn	Stoats Nest Jn	South Croydon Jn – Stoats Nest Jn	11	29	14	20	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	RED1/2	Stoats Nest Jn	Redhill	Stoats Nest Jn – Redhill	14	20	22	40	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	RED1/2	Redhill	Change of Mileage (Redhill / Slow lines) Via Redhill	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	N	N	N	Y	Y	
-Kent-Sussex-Wessex	0830	SO500	VTB2	Stoats Nest Jn	Change of Mileage (Quarry / Fast lines)	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB3	Change of Mileage (Quarry / Fast lines)	Three Bridges	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	N	N	N	R1 R2	R1 R2 R3	R1 20mph Three Bridges platforms 2, 4 and 5 R2 Prohibited Three Bridges platform 3 R3 Prohibited Haslett Avenue Bridge No.125 Up line
-Kent-Sussex-Wessex	0830	SO500	VTB3	Three Bridges	Copyhold Jn	Three Bridges – Copyhold Jn	29	21	36	73	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	CJA1	Copyhold Jn	Change of Mileage	Copyhold Jn – Change of Mileage	36	73	36	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	CJA2	Change of Mileage	Ardingly Sidings	Change of Mileage – Ardingly Sidings	0	00	0	70	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB3	Copyhold Jn	Keymer Jn	Copyhold Jn – Keymer Jn	36	73	40	69	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	VTB3	Keymer Jn	Preston Park Jn	Keymer Jn – Preston Park Jn	40	69	49	43	N	N	N	N	N	
-Kent-Sussex-Wessex	0830	SO500	PPH	Preston Park Jn	Hove Jn	Preston Park Jn – Hove Jn	49	21	50	44	Y	R1 R2	R1 R2	N	R3	R1 70mph Preston Park platform 2 R2 Prohibited Preston Park platform 3 R3 OPPOS between Preston Park Jn and Hove Jn
-Kent-Sussex-Wessex	0830	SO500	VTB3	Preston Park Jn	Brighton	Preston Park Jn – Brighton	49	43	50	49	Y	R1	R1	N	R2 R3	R2 Prohibited Brighton platforms 3 and 5 with crush deflated suspension R3 OPPOS between Preston Park and Brighton
-Kent-Sussex-Wessex	0830	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0830	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill North Jn	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill Substation via platforms 1 and 2	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Herne Hill South Jn	Beckenham Jn	Herne Hill South Jn – Beckenham Jn	4	06	8	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Beckenham Jn	Shortlands Jn	Beckenham Jn – Shortlands Jn	8	43	9	57	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	VIR	Shortlands Jn	Bickley Jn	Shortlands Jn – Bickley Jn	9	57	12	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0830	SO110	TLP1	Bickley Jn	Petts Wood (Fast Tonbridge Loop)	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	N	N	N	N	N	

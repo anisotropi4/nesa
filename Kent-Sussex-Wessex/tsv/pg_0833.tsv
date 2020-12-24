@@ -1,15 +1,24 @@
-Kent-Sussex-Wessex	0833	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn – Lewes	0	14	7	77	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO620	KJE1/2	Lewes	Southerham Jn [Duplicated on SO590]	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	Y	Y	Y	N	R1	R1 Prohibited Brighton Up platform 2 with crush deflated suspension
-Kent-Sussex-Wessex	0833	SO630	BLI1	Hove Jn	Hove platforms 2 and 3	Hove Jn – Hove platforms 2 and 3	1	28	1	35	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	0833	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	Y	Y	Y	N	R1 R2 R3	R1 Prohibited Hove platform 1 with crush deflated suspension R2 Prohibited Hove Carriage Sidings R3 OPPOS between Hove Jn and Hove
-Kent-Sussex-Wessex	0833	SO630	BLI1	Hove Up platform loop and platforms 2, and 3	Arundel Jn	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	Y	Y	Y	N	R1 R2 R3 R4 R5 R6	R1 Prohibited Portslade platforms 1 and 2 with crush deflated suspension R2 Prohibited Southwick platform 2 with deflated suspension R3 Prohibited Shoreham-by-Sea Down platform 2 with deflated suspension R4 Prohibited Worthing platform 3 with crush deflated suspension R5 Prohibited Goring-by-Sea platform 1 with crush deflated suspension R6 Prohibited Goring-by-Sea platform 2 with deflated suspension
-Kent-Sussex-Wessex	0833	SO630	BLI1	Arundel Jn	Littlehampton Jn (Change of Mileage)	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO630	FJL	Littlehampton Jn	Ford Jn	Littlehampton Jn – Ford Jn	60	57	60	26	N	N	N	N	N	
-Kent-Sussex-Wessex	0833	SO630	BLI2	Littlehampton Jn (Change of Mileage)	Littlehampton	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0833	SO140	OJS	Otford Jn	Sevenoaks Jn	Otford Jn – Sevenoaks Jn	24	53	26	58	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO140	SBJ	Otford Jn	Jn with Maidstone line	Otford Jn – Jn with Maidstone line	24	53	58	61	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO150	WMS	Western Jn (SO110)	Middle Jn	Western Jn (SO110) – Middle Jn	43	70	44	13	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO150	SEJ1	Eastern Jn (SO110)	Middle Jn	Eastern Jn (SO110) – Middle Jn	0	00	0	23	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO150	SEJ2	Middle Jn	Sheerness on Sea	Middle Jn – Sheerness on Sea	44	13	51	19	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO160	FDM	Faversham Jn (SO110)	Buckland Jn	Faversham Jn (SO110) – Buckland Jn	52	13	76	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO160	FDM	Buckland Jn	Change of mileage	Buckland Jn – Change of mileage	76	32	77	76	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO160	FDM	Change of mileage	Dover Substation	Change of mileage – Dover Substation	76	53	76	45	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO170	TTH	Tonbridge East Jn (SO130)	Tunbridge Wells	Tonbridge East Jn (SO130) – Tunbridge Wells	29	55	34	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO170	TTH	Tunbridge Wells	Bo Peep Jn	Tunbridge Wells – Bo Peep Jn	34	32	60	69	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO180	PWS1	Paddock Wood	Maidstone West Change of Mileage	Paddock Wood – Maidstone West Change of Mileage	34	67	44	56	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO210	APL	Appledore (SO600)	Dungeness Ground Frame	Appledore (SO600) – Dungeness Ground Frame	64	50	73	65	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO220	ACR	Ashford (Jn with Canterbury line (SO130))	Hitachi Depot (Access)	Ashford (Jn with Canterbury line (SO130)) – Hitachi Depot (Access)	56	35	57	05	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO220	ACR	Hitachi Depot (Access)	Minster West Jn	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO220	ACR	Minster West Jn	Minster East Jn	Minster West Jn – Minster East Jn	81	69	82	17	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO220	ACR	Minster East Jn	Ramsgate Substation	Minster East Jn – Ramsgate Substation	82	17	85	22	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO230	FFH2	Folkstone East Jn (SO130)	Folkstone Harbour	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO240	BME2	Buckland Jn	Sandwich	Buckland Jn – Sandwich	99	05	86	46	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO240	BME2	Sandwich	Minster South	Sandwich – Minster South	86	46	82	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO240	MSW	Minster South Jn	Minster West Jn	Minster South Jn – Minster West Jn	82	12	81	64	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO240	BME1	Minster South Jn	Minster East Jn	Minster South Jn – Minster East Jn	0	23	0	00	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO250	BSF	Battersea Pier Jn	Connection to Battersea Reversible	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	N	N	N	N	N	
+Kent-Sussex-Wessex	0833	SO250	BSF	Connection to Battersea Reversible	Stewarts Lane Jn	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	N	N	N	N	N	

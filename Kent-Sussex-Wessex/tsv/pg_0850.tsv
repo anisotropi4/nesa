@@ -1,22 +1,24 @@
-Kent-Sussex-Wessex	0850	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0850	SO110	VIR	Shortlands Jn	Bickley Jn	Shortlands Jn – Bickley Jn	9	57	12	38	N	Y	Y	N	Y	Y	Y	N	EH	Y	
-Kent-Sussex-Wessex	0850	SO110	TLP1	Bickley Jn	Petts Wood (Fast Tonbridge Loop)	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	N	Y	Y	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO110	TLP2	Bickley Jn	Petts Wood (Slow Tonbridge Loop)	Bickley Jn – Petts Wood (Slow Tonbridge Loop)	12	49	13	35	N	Y	Y	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO110	CSM3	Hawkwood Jn (Up Chatham Loop)	St Mary Cray Jn	Hawkwood Jn (Up Chatham Loop) – St Mary Cray Jn	11	66	12	30	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	Bickley Jn	St Mary Cray Down Jn	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	N	Y	Y	N	Y	Y	Y	N	EH	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	St Mary Cray Down Jn	St Mary Cray Up Jn	St Mary Cray Down Jn – St Mary Cray Up Jn	12	79	13	17	N	Y	Y	N	Y	Y	Y	N	EH	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	St Mary Cray Up Jn	Swanley Jn	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	N	Y	Y	N	Y	Y	Y	N	EH	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	Swanley Jn	Fawkham Jn	Swanley Jn – Fawkham Jn	17	46	22	49	N	N	N	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	Fawkham Jn	CTRL	Fawkham Jn – CTRL	22	49	0	00	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0850	SO110	VIR	Fawkham Jn	Rochester Bridge Jn	Fawkham Jn – Rochester Bridge Jn	22	49	33	01	N	N	N	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	Rochester Bridge Jn	Gillingham	Rochester Bridge Jn – Gillingham	33	01	35	75	N	N	N	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO110	VIR	Gillingham	Western Jn	Gillingham – Western Jn	35	75	43	70	N	N	N	N	Y	Y	R1 R2	N	N	R3	R1 Prohibited between Gillingham SB and Western Jn R2 Class 377/1 and 377/5 only Gillingham SB – Western Jn R3 Prohibited between Chatham Dockyard Jn and Western Jn
-Kent-Sussex-Wessex	0850	SO110	VIR	Western Jn	Eastern Jn	Western Jn – Eastern Jn	43	70	44	18	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0850	SO110	VIR	Eastern Jn	Faversham Jn	Eastern Jn – Faversham Jn	44	18	52	13	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0850	SO110	VIR	Faversham Jn	Ramsgate Station	Faversham Jn – Ramsgate Station	52	13	79	21	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0850	SO110	ACR	Ramsgate Station	Ramsgate Substation	Ramsgate Station – Ramsgate Substation	85	67	85	22	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0850	SO130	XTD	Charing Cross	Metropolitan Jn	Charing Cross – Metropolitan Jn	0	00	1	31	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO130	CBM	Cannon Street	Cannon Street Substation	Cannon Street – Cannon Street Substation	0	00	0	20	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0850	SO130	CSW	Cannon Street Sub Station	Metropolitan Jn (via Metropolitan Reversible line)	Cannon Street Sub Station – Metropolitan Jn (via Metropolitan Reversible line)	1	53	1	33	N	Y	N	N	Y	Y	R1 R2	N	N	N	R1 Class 377/1 and 377/5 only R2 Prohibited between Cannon Street Sub Station and 1m46ch
-Kent-Sussex-Wessex	0850	SO130	XTD	Metropolitan Jn	Borough Market Jn	Metropolitan Jn – Borough Market Jn	1	31	1	50	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0850	SO130	CBM	Cannon Street Substation	Borough Market Jn	Cannon Street Substation – Borough Market Jn	0	20	0	38	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0850	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	170	171	172	220	221	Notes
+Kent-Sussex-Wessex	0850	SO500	VTB1	Pouparts Jn	Falcon Jn	Pouparts Jn – Falcon Jn	2	03	2	66	N	Y	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	WLL	Falcon Jn	Latchmere No1 Jn via Clapham Jn platforms 16 and 17	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	N	R1	N	R1	R1	R1 OPPOS applies between crossover VC289 points and Falcon Jn VC290/292 points
+Kent-Sussex-Wessex	0850	SO500	VTB1	Falcon Jn	Balham Jn	Falcon Jn – Balham Jn	2	66	4	69	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	VTB1	Balham Jn	Streatham North Jn	Balham Jn – Streatham North Jn	4	69	6	14	N	Y	N	Y	N	
+Kent-Sussex-Wessex	0850	SO500	SNS	Streatham North Jn	Streatham South Jn via Reversible Fast Spur	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	SLJ	Streatham North Jn	Streatham South Jn via Slow Spurs	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	VTB1	Streatham North Jn	Selhurst Jn	Streatham North Jn – Selhurst Jn	6	14	9	43	N	Y	N	Y	N	
+Kent-Sussex-Wessex	0850	SO500	WCS	Selhurst Jn	Gloucester Road Jn	Selhurst Jn – Gloucester Road Jn	9	44	9	62	N	N	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	VTB1	Selhurst Jn	Windmill Bridge Jn	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	N	Y	N	Y	N	
+Kent-Sussex-Wessex	0850	SO500	VTB2	Windmill Bridge Jn	South Croydon Jn	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	VTB2	South Croydon Jn	Stoats Nest Jn	South Croydon Jn – Stoats Nest Jn	11	29	14	20	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	RED1/2	Stoats Nest Jn	Redhill	Stoats Nest Jn – Redhill	14	20	22	40	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	RED1/2	Redhill	Change of Mileage (Redhill / Slow lines) Via Redhill	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	VTB2	Stoats Nest Jn	Change of Mileage (Quarry / Fast lines)	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	VTB3	Change of Mileage (Quarry / Fast lines)	Three Bridges	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	VTB3	Three Bridges	Copyhold Jn	Three Bridges – Copyhold Jn	29	21	36	73	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	CJA1	Copyhold Jn	Change of Mileage	Copyhold Jn – Change of Mileage	36	73	36	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	CJA2	Change of Mileage	Ardingly Sidings	Change of Mileage – Ardingly Sidings	0	00	0	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	VTB3	Copyhold Jn	Keymer Jn	Copyhold Jn – Keymer Jn	36	73	40	69	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	VTB3	Keymer Jn	Preston Park Jn	Keymer Jn – Preston Park Jn	40	69	49	43	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO500	PPH	Preston Park Jn	Hove Jn	Preston Park Jn – Hove Jn	49	21	50	44	N	Y	N	N	N	
+Kent-Sussex-Wessex	0850	SO500	VTB3	Preston Park Jn	Brighton	Preston Park Jn – Brighton	49	43	50	49	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0850	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	N	Y	N	N	N	

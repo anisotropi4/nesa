@@ -1,11 +1,25 @@
-Kent-Sussex-Wessex	0999	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	377	378	380	387	
-Kent-Sussex-Wessex	0999	SW110	WPH1	Woking Jn	Guilford	Woking Jn – Guilford	24	62	30	27	N	Y	H	R1 R2 R3 R4 R5 R6	N	N	R7	R1 Prohibited between Woking Junction and 29m 43ch (Guildford) R2 Class 377/1-377/5 permitted between Guilford platforms 1, 2 and 3 and SW200 (towards Effingham Jn) R3 Prohibited Guildford Down Main platform 4 R4 Prohibited Guildford Up Main platform 5 R5 Prohibited Guildford Up Ash platforms 6 and 7 R6 Prohibited Guildford Down Ash platform 8 R7 Prohibited Guildford platforms 4-8
-Kent-Sussex-Wessex	0999	SW110	WPH1	Guilford	Shalford Jn	Guilford – Shalford Jn	30	27	31	42	N	Y	H	R1	N	N	R2	R1 Route prohibited to Class 377/1 – 377/5 R2 Prohibited Guildford platforms 4-8
-Kent-Sussex-Wessex	0999	SW110	WPH1	Shalford Jn	Haslemere	Shalford Jn – Haslemere	31	42	42	79	N	Y	H	R1	N	N	Y	R1 Route prohibited to Class 377/1 – 377/5
-Kent-Sussex-Wessex	0999	SW110	WPH1	Haslemere	Havant Jn	Haslemere – Havant Jn	42	79	66	17	N	N	N	R1	N	N	Y	R1 Route prohibited to Class 377/1 – 377/5
-Kent-Sussex-Wessex	0999	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham)	Havant Jn [Duplicated on SO520]	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	Y	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0999	SW110	WPH2	Havant Jn	Farlington Jn [Duplicated on SO520]	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	0999	SW110	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SO520]	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	0999	SW110	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SO520]	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	0999	SW110	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	Y	N	N	R1	N	N	N	R1 Route prohibited to Class 377/6 – 377/7
-Kent-Sussex-Wessex	0999	SW110	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	Y	N	N	R1	N	N	R2	R1 Classes 377/6 – 377/7 prohibited Portsmouth and Southsea Low Level platforms R2 Operation only permitted subject to prior agreement of the Wessex E&P RAM
+Kent-Sussex-Wessex	0999	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
+Kent-Sussex-Wessex	0999	SW115	BAE1	Connection to Ludgershall Branch line	Laverstock North Jn	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW115	LAV	Laverstock North Jn	Laverstock South Jn	Laverstock North Jn – Laverstock South Jn	82	05	82	39	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW115	BAE1	Laverstock North Jn	Salisbury Tunnel Jn	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW115	BAE1	Salisbury Tunnel Jn	Fisherton Short Mile Change of Mileage	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW115	BAE2	Fisherton Short Mile Change of Mileage	Wilton Jn	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW115	BAE2	Wilton Jn	Gillingham	Wilton Jn – Gillingham	85	37	105	23	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW115	BAE2	Gillingham	Yeovil Jn	Gillingham – Yeovil Jn	105	23	122	48	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW115	BAE2	Yeovil Jn	Route Boundary (GW610) (Exeter St Davids Jn)	Yeovil Jn – Route Boundary (GW610) (Exeter St Davids Jn)	122	48	164	30	N	Y	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	0999	SW120	PAA1	Pirbright Jn	Ash Vale Jn	Pirbright Jn – Ash Vale Jn	29	39	32	30	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW120	PAA1	Ash Vale Jn	Change of ELR	Ash Vale Jn – Change of ELR	32	30	36	75	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW120	PAA2	Change of ELR	Connection to Farnham Depot	Change of ELR – Connection to Farnham Depot	39	22	42	70	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW120	PAA2	Connection to Farnham Depot	Alton	Connection to Farnham Depot – Alton	42	70	49	13	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW125	BKE	Route Boundary GW500 (Southcote Jn)	Basingstoke	Route Boundary GW500 (Southcote Jn) – Basingstoke	37	76	51	39	Y	Y	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	0999	SW130	ECR	Eastleigh East Jn	Romsey	Eastleigh East Jn – Romsey	73	35	80	47	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW135	ETF	Eastleigh West Jn	Fareham	Eastleigh West Jn – Fareham	73	42	84	21	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	SDP1	St Denys	Change of ELR	St Denys – Change of ELR	1	59	14	15	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	SDP2	Change of ELR	Fareham	Change of ELR – Fareham	84	10	84	21	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	SDP2	Fareham	Quay Viaduct	Fareham – Quay Viaduct	84	21	84	77	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	SDP2	Quay Viaduct	Cosham	Quay Viaduct – Cosham	84	77	90	06	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	SDP2	Cosham	Cosham Jn	Cosham – Cosham Jn	90	06	90	43	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	SDP2	Cosham Jn	Portcreek Jn	Cosham Jn – Portcreek Jn	90	43	91	01	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW140	FJJ	Cosham Jn	Farlington Jn	Cosham Jn – Farlington Jn	90	43	91	14	Y	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	0999	SW145	SOY	Northam Jn	Canute Road LC (AOCL) (Eastern Docks)	Northam Jn – Canute Road LC (AOCL) (Eastern Docks)	78	15	79	02	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0999	SW150	RTJ1	Redbridge Jn	Romsey Jn	Redbridge Jn – Romsey Jn	23	32	18	16	N	Y	N	N	N	Y	Y	

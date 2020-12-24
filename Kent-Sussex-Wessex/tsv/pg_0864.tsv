@@ -1,24 +1,19 @@
-Kent-Sussex-Wessex	0864	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	 Ch	 M	 Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
-Kent-Sussex-Wessex	0864	SO110	TLP1	Bickley Jn	Petts Wood (Fast Tonbridge Loop)	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	Y	E	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	TLP2	Bickley Jn	Petts Wood (Slow Tonbridge Loop)	Bickley Jn – Petts Wood (Slow Tonbridge Loop)	12	49	13	35	Y	E	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	CSM3	Hawkwood Jn (Up Chatham Loop)	St Mary Cray Jn	Hawkwood Jn (Up Chatham Loop) – St Mary Cray Jn	11	66	12	30	Y	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	Bickley Jn	St Mary Cray Down Jn	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	Y	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	St Mary Cray Down Jn	St Mary Cray Up Jn	St Mary Cray Down Jn – St Mary Cray Up Jn	12	79	13	17	Y	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	St Mary Cray Up Jn	Swanley Jn	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	Y	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	Swanley Jn	Fawkham Jn	Swanley Jn – Fawkham Jn	17	46	22	49	Y	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	Fawkham Jn	CTRL	Fawkham Jn – CTRL	22	49	0	00	Y	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0864	SO110	VIR	Fawkham Jn	Rochester Bridge Jn	Fawkham Jn – Rochester Bridge Jn	22	49	33	01	Y	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	Rochester Bridge Jn	Gillingham	Rochester Bridge Jn – Gillingham	33	01	35	75	Y	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO110	VIR	Gillingham	Western Jn	Gillingham – Western Jn	35	75	43	70	Y	N	N	N	N	N	N	Y	Y	Y	R1	R1 Prohibited Rainham Station Road LC to Western Jn
-Kent-Sussex-Wessex	0864	SO110	VIR	Western Jn	Eastern Jn	Western Jn – Eastern Jn	43	70	44	18	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0864	SO110	VIR	Eastern Jn	Faversham Jn	Eastern Jn – Faversham Jn	44	18	52	13	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0864	SO110	VIR	Faversham Jn	Ramsgate Station	Faversham Jn – Ramsgate Station	52	13	79	21	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0864	SO110	ACR	Ramsgate Station	Ramsgate Substation	Ramsgate Station – Ramsgate Substation	85	67	85	22	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0864	SO130	XTD	Charing Cross	Metropolitan Jn	Charing Cross – Metropolitan Jn	0	00	1	31	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO130	CBM	Cannon Street	Cannon Street Substation	Cannon Street – Cannon Street Substation	0	00	0	20	N	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO130	CSW	Cannon Street Sub Station	Metropolitan Jn (via Metropolitan Reversible line)	Cannon Street Sub Station – Metropolitan Jn (via Metropolitan Reversible line)	1	53	1	33	N	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO130	XTD	Metropolitan Jn	Borough Market Jn	Metropolitan Jn – Borough Market Jn	1	31	1	50	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO130	CBM	Cannon Street Substation	Borough Market Jn	Cannon Street Substation – Borough Market Jn	0	20	0	38	N	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0864	SO130	XTD	Borough Market Jn	London Bridge platforms 1-9	Borough Market Jn – London Bridge platforms 1-9	1	50	1	69	N	N	N	N	Y	Y	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0864	SO130	XTD	London Bridge platforms 1-9	North Kent East Jn	London Bridge platforms 1-9 – North Kent East Jn	1	69	4	25	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0864	SO130	XTD	North Kent East Jn	Tanners Hill Jn	North Kent East Jn – Tanners Hill Jn	4	25	5	29	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0864	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0864	SO330	NTL	Nunhead Jn (SO260)	Lewisham Jn	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	LVT	Tanners Hill Jn (SO130)	Lewisham Jn	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	BEX	St Johns Jn (SO130)	Lewisham Jn	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	E R1	H R1	N	Y	Y	R2	N	N	Y	R1 45mph maximum speed R2 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0864	SO330	LCH	Lewisham Jn	Courthill Loop North Jn	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	NCS	Courthill Loop North Jn	Courthill Loop South Jn	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	LCH	Courthill Loop North Jn	Ladywell Jn	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	LCH	Ladywell Jn	New Beckenham Jn	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	NBB	New Beckenham Jn	Beckenham Jn	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO330	LCH	New Beckenham Jn	Hayes	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO350	BNG	Grove Park (SO130)	Bromley North	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0864	SO500	VTB1	Victoria platforms 9-19	Battersea Pier Jn	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	E	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO500	VTB1	Battersea Pier Jn	Battersea Park Jn	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	E	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO500	VTB1	Battersea Park Jn	Pouparts Jn	Battersea Park Jn – Pouparts Jn	1	13	2	03	E	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0864	SO500	VTB1	Pouparts Jn	Falcon Jn	Pouparts Jn – Falcon Jn	2	03	2	66	E	Y	H	N	Y	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0864	SO500	WLL	Falcon Jn	Latchmere No1 Jn via Clapham Jn platforms 16 and 17	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	R1	Y	H	N	N	N	R2 R3	Y	N	R4	R1 OPPOS applies between crossover VC289 points and Falcon Jn (VC290 / 292) points. R2 Classes 377/1 – 377/5 - 15mph Clapham Jn platforms 16 and 17 R3 Classes 377/6 and 377/7 – 15mph Clapham Jn Down West London Line platform16 R4 15mph maximum speed Clapham Junction platfroms 16 and 17
+Kent-Sussex-Wessex	0864	SO500	VTB1	Falcon Jn	Balham Jn	Falcon Jn – Balham Jn	2	66	4	69	E	Y	H	N	Y	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0864	SO500	VTB1	Balham Jn	Streatham North Jn	Balham Jn – Streatham North Jn	4	69	6	14	E	Y	H	N	Y	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0864	SO500	SNS	Streatham North Jn	Streatham South Jn via Reversible Fast Spur	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	Y	H	N	N	N	Y	N	N	Y	

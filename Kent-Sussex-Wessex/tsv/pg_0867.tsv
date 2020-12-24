@@ -1,21 +1,19 @@
-Kent-Sussex-Wessex	0867	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	 Ch	 M	 Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
-Kent-Sussex-Wessex	0867	SO150	SEJ2	Middle Jn	Sheerness on Sea	Middle Jn – Sheerness on Sea	44	13	51	19	N	N	N	N	N	N	N	R1	Y	Y	N	R1 Route prohibited to Classes 465/0 and 465/1
-Kent-Sussex-Wessex	0867	SO160	FDM	Faversham Jn (SO110)	Buckland Jn	Faversham Jn (SO110) – Buckland Jn	52	13	76	32	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO160	FDM	Buckland Jn	Change of mileage	Buckland Jn – Change of mileage	76	32	77	76	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO160	FDM	Change of mileage	Dover Substation	Change of mileage – Dover Substation	76	53	76	45	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO170	TTH	Tonbridge East Jn (SO130)	Tunbridge Wells	Tonbridge East Jn (SO130) – Tunbridge Wells	29	55	34	32	N	N	N	N	N	N	N	Y	Y	Y	R1	R1 OPPOS Up or Down Hastings through Grove hill Tunnel (between Tonbridge Wells - Grove Jn)
-Kent-Sussex-Wessex	0867	SO170	TTH	Tunbridge Wells	Bo Peep Jn	Tunbridge Wells – Bo Peep Jn	34	32	60	69	N	N	N	N	N	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0867	SO180	PWS1	Paddock Wood	Maidstone West Change of Mileage	Paddock Wood – Maidstone West Change of Mileage	34	67	44	56	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO210	APL	Appledore (SO600)	Dungeness Ground Frame	Appledore (SO600) – Dungeness Ground Frame	64	50	73	65	N	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0867	SO220	ACR	Ashford (Jn with Canterbury line (SO130))	Hitachi Depot (Access)	Ashford (Jn with Canterbury line (SO130)) – Hitachi Depot (Access)	56	35	57	05	Y	N	N	N	N	N	N	Y	Y	Y	E R1	R1 Prohibited Ashford (Jn with Canterbury line (SO130)) - Ashford Station
-Kent-Sussex-Wessex	0867	SO220	ACR	Hitachi Depot (Access)	Minster West Jn	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	Y	N	N	N	N	N	N	Y	Y	Y	E R1	R1 Prohibited Ashford Down Yard East G Jn - Minster West Jn
-Kent-Sussex-Wessex	0867	SO220	ACR	Minster West Jn	Minster East Jn	Minster West Jn – Minster East Jn	81	69	82	17	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO220	ACR	Minster East Jn	Ramsgate Substation	Minster East Jn – Ramsgate Substation	82	17	85	22	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO230	FFH2	Folkstone East Jn (SO130)	Folkstone Harbour	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0867	SO240	BME2	Buckland Jn	Sandwich	Buckland Jn – Sandwich	99	05	86	46	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO240	BME2	Sandwich	Minster South	Sandwich – Minster South	86	46	82	21	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO240	MSW	Minster South Jn	Minster West Jn	Minster South Jn – Minster West Jn	82	12	81	64	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO240	BME1	Minster South Jn	Minster East Jn	Minster South Jn – Minster East Jn	0	23	0	00	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0867	SO250	BSF	Battersea Pier Jn	Connection to Battersea Reversible	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	N	Y	Y	Y	Y	Y	E	Y	Y	N	Y	
-Kent-Sussex-Wessex	0867	SO250	BSF	Connection to Battersea Reversible	Stewarts Lane Jn	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	N	Y	N	N	Y	Y	E	Y	Y	N	Y	
-Kent-Sussex-Wessex	0867	SO250	BSF	Stewarts Lane Jn	Factory Jn	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	Y	N	N	Y	Y	E	Y	Y	N	Y	
+Kent-Sussex-Wessex	0867	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0867	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	Y	N	N	N	N	N	R1	N	N	N	R1 Route prohibited to Classes 377/6 and 377/7
+Kent-Sussex-Wessex	0867	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	Y	N	N	N	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0867	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	N	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	N	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	N	N	N	N	N	N	EH R1	N	N	N	R1 Route prohibited to Classes 377/6 and 377/7
+Kent-Sussex-Wessex	0867	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	N	Y	H R1	N	Y	Y	Y	E	N	Y	R1 OPPOS applies between through Bletchingley tunnel and Penshurst tunnel
+Kent-Sussex-Wessex	0867	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0867	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	Y	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn – Eastbourne	21	39	23	75	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO600	WJB	Willingdon Jn	Connection - St Leonards LMD	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO600	WJB	Connection - St Leonards LMD	Bo Peep Jn	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	Y	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	Y	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0867	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	Y	N	N	N	Y	Y	Y	N	N	R1	Prohibited with deflated secondary suspension
+Kent-Sussex-Wessex	0867	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	N	N	N	EH	N	EH	N	N	N	

@@ -1,14 +1,21 @@
-Kent-Sussex-Wessex	0981	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	121	150	153	156	158	159	165	Notes
-Kent-Sussex-Wessex	0981	SW100	JAT	Waterloo platforms 20-24	International Jn	Waterloo platforms 20-24 – International Jn	00	00	0	38	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0981	SW100	RDG1	Waterloo platforms 12-19	International Jn (Windsor lines)	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	Y	Y	N	N	R1	R1	N	R1 Prohibited Waterloo platform 19
-Kent-Sussex-Wessex	0981	SW100	RDG1	International Jn	Carlisle Lane Jn (Windsor lines)	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	RDG1	Carlisle Lane Jn	Nine Elms Jn (Windsor lines)	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	BML1	Waterloo platforms 1-11	International Jn (Main lines)	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	Y	Y	N	N	R1 R2	R1 R2	N	R1 Prohibited Waterloo platforms 1, 2, 3 and 4 R2 Access to Waterloo platforms 5, 6 and 7 via Up Main Fast line only
-Kent-Sussex-Wessex	0981	SW100	BML1	International Jn	Carlisle Lane Jn (Main lines)	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	BML1	Carlisle Lane Jn	Nine Elms Jn (Main lines)	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	AHG	Nine Elms Jn	Route Boundary (Kent SO110) (Lindford Street Jn)	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0981	SW100	RDG1	Nine Elms Jn	West London Jn (Windsor lines)	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	BML1	Nine Elms Jn	Crossovers at 2m 65ch (Main lines)	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	BML1	Crossovers at 2m 65	West London Jn (Main lines)	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	SCC	West London Jn	Route Boundary (Sussex SO250) (Lathmere Jn No.3)	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	Y	N	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0981	SW100	RDG1	West London Jn	Ludgate Jn (Windsor lines)	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0981	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	0981	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	Y	
+Kent-Sussex-Wessex	0981	SO520	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SW110]	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	8	Y	
+Kent-Sussex-Wessex	0981	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	8	R1	R1 Prohibited between Fratton and Blackfriars Jn on the Up and Down Fratton line
+Kent-Sussex-Wessex	0981	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	7	Y	
+Kent-Sussex-Wessex	0981	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	8	Y	
+Kent-Sussex-Wessex	0981	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *Platforms 4 and 5 RA7 *Platforms 1 and 3 RA4 [Duplicated onSW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *Platforms 4 and 5 RA7 *Platforms 1 and 3 RA4 [Duplicated onSW110]	44	50	45	36	7*	R1	R1 Prohibited on the Down line
+Kent-Sussex-Wessex	0981	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	8	Y	
+Kent-Sussex-Wessex	0981	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	4	R1	R1 Prohibited between Woldingham and Oxted on the Down East Grinstead line
+Kent-Sussex-Wessex	0981	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	6	Y	
+Kent-Sussex-Wessex	0981	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	4	R1	R1 ProhibitedEridge platform 1 (Uckfield Single line)
+Kent-Sussex-Wessex	0981	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	8	Y	
+Kent-Sussex-Wessex	0981	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	8	Y	
+Kent-Sussex-Wessex	0981	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	8	Y	
+Kent-Sussex-Wessex	0981	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	8	Y	
+Kent-Sussex-Wessex	0981	SO590	KJE1/2	Lewes	Southerham Jn (Duplicated on SO620)	Lewes – Southerham Jn (Duplicated on SO620)	49	74	51	11	8	Y	
+Kent-Sussex-Wessex	0981	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	8	Y	
+Kent-Sussex-Wessex	0981	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn – Eastbourne	21	39	23	75	8	R1	R1 Prohibited Eastbourne platform 2 (Up Main line)
+Kent-Sussex-Wessex	0981	SO600	WJB	Willingdon Jn – Connection	St Leonards LMD	Willingdon Jn – Connection – St Leonards LMD	20	36	32	21	8	R1	R1 Prohibited between Bexhill and Connection – St Leonards LMD on the Down Bexhill line
+Kent-Sussex-Wessex	0981	SO600	WJB	Connection – St Leonards LMD	Bo Peep Jn	Connection – St Leonards LMD – Bo Peep Jn	32	21	32	76	8	R1	R1 Prohibited on the Down Bexhill line
+Kent-Sussex-Wessex	0981	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	8	R1	R1 Prohibited between St Leonards Warrior Square and Hastings on the Up Hastings line

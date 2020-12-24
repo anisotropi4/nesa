@@ -1,25 +1,9 @@
-Kent-Sussex-Wessex	0842	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	170	171	172	220	221
-Kent-Sussex-Wessex	0842	SO310	HDR	Hither Green Jn (SO290)	Lee Loop Jn	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	LEE	Lee Loop Jn	Lee Spur Jn	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	HDR	Lee Loop Jn	Lee	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	HDR	Lee	Crayford Spur ‘B’ Jcn	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	CRA	Crayford Spur ‘B’ Jn	Crayford Spur ‘A’ Jn	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	HDR	Crayford Spur ‘B’ Jcn	Dartford Jn	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	HDR	Dartford Jn	Hoo Jn	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	HDR	Hoo Jn	Strood Jn	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	HDR	Strood Jn	Rochester Bridge Jn	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO310	PWS2	Strood Jn	Maidstone West Change of Mileage	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO320	HTG	Hoo Jn	Grain LC and Sidings beyond	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	NTL	Nunhead Jn (SO260)	Lewisham Jn	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	LVT	Tanners Hill Jn (SO130)	Lewisham Jn	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	BEX	St Johns Jn (SO130)	Lewisham Jn	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	LCH	Lewisham Jn	Courthill Loop North Jn	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	NCS	Courthill Loop North Jn	Courthill Loop South Jn	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	LCH	Courthill Loop North Jn	Ladywell Jn	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	LCH	Ladywell Jn	New Beckenham Jn	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	NBB	New Beckenham Jn	Beckenham Jn	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO330	LCH	New Beckenham Jn	Hayes	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO350	BNG	Grove Park (SO130)	Bromley North	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N
-Kent-Sussex-Wessex	0842	SO500	VTB1	Victoria platforms 9-19	Battersea Pier Jn	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	Y	N	N	N
-Kent-Sussex-Wessex	0842	SO500	VTB1	Battersea Pier Jn	Battersea Park Jn	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	Y	N	N	N
-Kent-Sussex-Wessex	0842	SO500	VTB1	Battersea Park Jn	Pouparts Jn	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	Y	N	N	N
+Kent-Sussex-Wessex	0842	SO680	BTH1	Streatham South Jn (c)	Change of Mileage	Streatham South Jn (c) – Change of Mileage	8	15	13	45	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO680	BTH2	Change of Mileage	Route Boundary Wessex (Epsom)	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO680	BTH2	Route Boundary Sussex (Ewell East)	Epsom (Change of ELR) [Duplicated in SW180]	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO680	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SW180]	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO680	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO680	BTH3	Route Boundary Sussex (Leatherhead)	Horsham Jn [Duplicated in SW180]	Route Boundary Sussex (Leatherhead) – Horsham Jn [Duplicated in SW180]	21	09	35	34	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO700	SMS1	Streatham South Jn (c)	Wimbledon platforms 9 and 10	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO700	SMS2	Wimbledon platforms 9 and 10	Wimbledon West Jn	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	N	N	N	N	N
+Kent-Sussex-Wessex	0842	SO700	SMS2	Wimbledon West Jn	Sutton	Wimbledon West Jn – Sutton	7	51	12	50	N	N	N	N	N

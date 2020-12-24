@@ -1,9 +1,16 @@
-Kent-Sussex-Wessex	1052	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	1052					W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
-Kent-Sussex-Wessex	1052	SW100	Waterloo – Clapham Junction (Main lines)	Waterloo	Clapham Junction (Main lines)	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1052	SW100	Waterloo – Clapham Junction (Windsor lines)	Waterloo	Clapham Junction (Windsor lines)	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1052	SW100	Waterloo Station Platforms 20-24 – International Jn	Waterloo Station Platforms 20-24	International Jn	R1	N	N	N	N	N	N	N	R1 Prohibited Waterloo platforms 20 - 24
-Kent-Sussex-Wessex	1052	SW100	Nine Elms Jn – Linford Street Jn	Nine Elms Jn	Linford Street Jn	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1052	SW100	Clapham West London Jn – Latchmere No 3 Jn	Clapham West London Jn	Latchmere No 3 Jn	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1052	SW100	Latchmere Reversible Line	Latchmere Reversible Line		Y	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	1052	SW100	Longhedge Jn – Ludgate GW Jn	Longhedge Jn	Ludgate GW Jn	Y	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	1052	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Kent-Sussex-Wessex	1052	SW100	JAT	Waterloo platforms 20-24	International Jn	Waterloo platforms 20-24 – International Jn	00	00	0	38	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	RDG1	Waterloo platforms 12-19	International Jn (Windsor lines)	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	RDG1	International Jn	Carlisle Lane Jn (Windsor lines)	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	RDG1	Carlisle Lane Jn	Nine Elms Jn (Windsor lines)	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	BML1	Waterloo platforms 1-11	International Jn (Main lines)	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	BML1	International Jn	Carlisle Lane Jn (Main lines)	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	BML1	Carlisle Lane Jn	Nine Elms Jn (Main lines)	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	8	N	N	R1	N	N	N	R1 Prohibited Vauxhall platform 7
+Kent-Sussex-Wessex	1052	SW100	AHG	Nine Elms Jn	Route Boundary (Kent SO110) (Lindford Street Jn)	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	RDG1	Nine Elms Jn	West London Jn (Windsor lines)	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	BML1	Nine Elms Jn	Crossovers at 2m 65ch (Main lines)	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	BML1	Crossovers at 2m 65	West London Jn (Main lines)	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	SCC	West London Jn	Route Boundary (Sussex SO250) (Lathmere Jn No.3)	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	RDG1	West London Jn	Ludgate Jn (Windsor lines)	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	BML1	West London Jn	Ludgate Jn (Main lines)	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1052	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn)	Ludgate Jn	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	8	N	N	Y	N	N	Y	

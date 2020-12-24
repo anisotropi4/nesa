@@ -1,16 +1,23 @@
-Kent-Sussex-Wessex	1037	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
-Kent-Sussex-Wessex	1037	SW100	JAT	Waterloo platforms 20-24	International Jn	Waterloo platforms 20-24 – International Jn	00	00	0	38	8	N	N	N	R1	R1	Y	N	Y	N	R1 Prohibited Waterloo platforms 21 and 23
-Kent-Sussex-Wessex	1037	SW100	RDG1	Waterloo platforms 12-19	International Jn (Windsor lines)	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	RDG1	International Jn	Carlisle Lane Jn (Windsor lines)	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	RDG1	Carlisle Lane Jn	Nine Elms Jn (Windsor lines)	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	BML1	Waterloo platforms 1-11	International Jn (Main lines)	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	BML1	International Jn	Carlisle Lane Jn (Main lines)	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	BML1	Carlisle Lane Jn	Nine Elms Jn (Main lines)	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	8	Y	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Vauxhall platform 7 (Up Main Slow line)
-Kent-Sussex-Wessex	1037	SW100	AHG	Nine Elms Jn	Route Boundary (Kent SO110) (Lindford Street Jn)	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	RDG1	Nine Elms Jn	West London Jn (Windsor lines)	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	BML1	Nine Elms Jn	Crossovers at 2m 65ch (Main lines)	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	BML1	Crossovers at 2m 65	West London Jn (Main lines)	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	SCC	West London Jn	Route Boundary (Sussex SO250) (Lathmere Jn No.3)	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	RDG1	West London Jn	Ludgate Jn (Windsor lines)	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	BML1	West London Jn	Ludgate Jn (Main lines)	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1037	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn)	Ludgate Jn	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7	37/9	43	47/2	47/4	47/7	56	57	Notes
+Kent-Sussex-Wessex	1037	SW100	CJL	Ludgate Jn	Route Boundary (Sussex SO250) (Latchmere Jn No.2)	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW100	RDG1	Ludgate Jn	Clapham Jn (Windsor lines)	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 Prohibited Up Windsor Slow line
+Kent-Sussex-Wessex	1037	SW100	BML1	Ludgate Jn	Clapham Jn (Main lines)	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	Clapham Jn	Wimbledon platforms 5, 6, 7 and 8	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	PPW	Wimbledon North Jn	Wimbledon platforms 1, 2, 3 and 4 (District line)	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	8	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1037	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8	Wimbledon West Jn	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	Wimbledon West Jn	Hampton Court Jn	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	Hampton Court Jn	Woking	Hampton Court Jn – Woking	13	27	24	27	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	Woking	Basingstoke	Woking – Basingstoke	24	27	47	61	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	Basingstoke	Eastleigh West Jn	Basingstoke – Eastleigh West Jn	47	61	73	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	Eastleigh West Jn	St Denys	Eastleigh West Jn – St Denys	73	42	77	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML1	St Denys	Northam Jn	St Denys – Northam Jn	77	10	78	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML2	Northam Jn	Worgret Jn	Northam Jn – Worgret Jn	78	15	121	77	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	FUR	Worgret Jn	Network Rail Boundary (Swanage Railway)	Worgret Jn – Network Rail Boundary (Swanage Railway)	126	30	129	55	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 5mph over FUR E28/9 Grange Road Bridge (128m 06ch)
+Kent-Sussex-Wessex	1037	SW105	BML2	Worgret Jn	Dorchester Jn	Worgret Jn – Dorchester Jn	121	77	136	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW105	BML3	Dorchester Jn	Weymouth	Dorchester Jn – Weymouth	162	14	168	63	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW110	WPH1	Woking Jn	Guilford	Woking Jn – Guilford	24	62	30	27	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW110	WPH1	Guilford	Shalford Jn	Guilford – Shalford Jn	30	27	31	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW110	WPH1	Shalford Jn	Haslemere	Shalford Jn – Haslemere	31	42	42	79	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW110	WPH1	Haslemere	Havant Jn	Haslemere – Havant Jn	42	79	66	17	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 40mph through Buriton Tunnel (57m 46ch to 57m 68ch)
+Kent-Sussex-Wessex	1037	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham)	Havant Jn [Duplicated on SO520]	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1037	SW110	WPH2	Havant Jn	Farlington Jn [Duplicated on SO520]	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y	Y	

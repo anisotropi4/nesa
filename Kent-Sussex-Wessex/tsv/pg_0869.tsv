@@ -1,18 +1,22 @@
-Kent-Sussex-Wessex	0869	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	CH	M	Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
-Kent-Sussex-Wessex	0869	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N	N	N	N	N	N	Y	
-Kent-Sussex-Wessex	0869	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N	N	N	N	N	N	Y	
-Kent-Sussex-Wessex	0869	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0869	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	N	N	N	N	Y	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0869	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	N	N	N	Y	Y	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0869	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0869	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0869	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	N	N	N	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0869	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	Y	N	N	N	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	Y	N	N	N	E	E	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	Y	N	N	N	E	E	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	Y	N	N	N	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0869	SO300	BEX	Lewisham Jn	Blackheath Jn	Lewisham Jn – Blackheath Jn	5	74	7	14	Y	N	N	N	E R1 R2 R3	E R1 R2 R3	N	Y	Y	Y	Y	R1 45mph maximum speed R2 10mph Lewisham platform 4 (Down North Kent) R3 10mph Blackheath platform 2
-Kent-Sussex-Wessex	0869	SO300	BTC	Blackheath Jn	Charlton Jn	Blackheath Jn – Charlton Jn	7	14	8	67	Y	N	N	N	N	N	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0869	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0869	SO660	PAT	Purley (S0500)	Caterham	Purley (S0500) – Caterham	15	13	19	70	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO660	TAT	Purley (S0500)	Tattenham Corner	Purley (S0500) – Tattenham Corner	15	13	23	37	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	South Bermondsey Jn (SO510)	Old Kent Road Jn	South Bermondsey Jn (SO510) – Old Kent Road Jn	1	49	2	32	N	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Old Kent Road Jn	Peckham Rye Jn	Old Kent Road Jn – Peckham Rye Jn	2	32	3	47	N	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Peckham Rye Jn	Tulse Hill North Jn	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	WTH	Tulse Hill	West Norwood Jn	Tulse Hill – West Norwood Jn	6	14	6	41	N	Y	H	N	N	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0869	SO680	LTH	Tulse Hill	Leigham Jn	Tulse Hill – Leigham Jn	6	20	6	40	N	Y	H	N	N	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Tulse Hill North Jn	Streatham Jn	Tulse Hill North Jn – Streatham Jn	6	07	7	57	N	Y	H	N	N	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0869	SO680	SSC	Streatham Jn	Streatham Common Jn	Streatham Jn – Streatham Common Jn	7	57	8	10	N	Y	H	N	N	N	Y	E	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Streatham Jn	Streatham South Jn (a)	Streatham Jn – Streatham South Jn (a)	7	57	8	09	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Streatham South Jn (a)	Streatham South Jn (b)	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Streatham South Jn (b)	Streatham South Jn (c)	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH1	Streatham South Jn (c)	Change of Mileage	Streatham South Jn (c) – Change of Mileage	8	15	13	45	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH2	Change of Mileage	Route Boundary Wessex (Epsom)	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH2	Route Boundary Sussex (Ewell East)	Epsom (Change of ELR) [Duplicated in SW180]	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SW180]	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH3	Leatherhead–Route Boundary Sussex (Horsham) [Duplicated in SW180]		Leatherhead–Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO680	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn [Duplicated in SW180]	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO700	SMS1	Streatham South Jn (c)	Wimbledon platforms 9 and 10	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO700	SMS2	Wimbledon platforms 9 and 10	Wimbledon West Jn	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0869	SO700	SMS2	Wimbledon West Jn	Sutton	Wimbledon West Jn – Sutton	7	51	12	50	N	Y	H	N	N	N	Y	N	N	Y	

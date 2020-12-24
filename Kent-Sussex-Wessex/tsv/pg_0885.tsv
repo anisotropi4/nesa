@@ -1,21 +1,23 @@
-Kent-Sussex-Wessex	0885	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4
-Kent-Sussex-Wessex	0885	SO500	VTB3	Change of Mileage (Quarry / Fast lines)	Three Bridges	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	VTB3	Three Bridges	Copyhold Jn	Three Bridges – Copyhold Jn	29	21	36	73	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	CJA1	Copyhold Jn	Change of Mileage	Copyhold Jn – Change of Mileage	36	73	36	33	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	CJA2	Change of Mileage	Ardingly Sidings	Change of Mileage – Ardingly Sidings	0	00	0	70	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	VTB3	Copyhold Jn	Keymer Jn	Copyhold Jn – Keymer Jn	36	73	40	69	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	VTB3	Keymer Jn	Preston Park Jn	Keymer Jn – Preston Park Jn	40	69	49	43	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	PPH	Preston Park Jn	Hove Jn	Preston Park Jn – Hove Jn	49	21	50	44	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO500	VTB3	Preston Park Jn	Brighton	Preston Park Jn – Brighton	49	43	50	49	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	Bricklayers Arms Jn	New Cross Gate Up Jn	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	ELL1	New Cross Gate Up Jn	Network Rail Boundary / Up ELL	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	New Cross Gate Up Jn	New Cross Gate Down Jn	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	ELL1	New Cross Gate Down Jn	Network Rail Boundary / Down ELL	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	New Cross Gate Down Jn	Sydenham Down Jn	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	Sydenham Down Jn	Norwood Jn	Sydenham Down Jn – Norwood Jn	6	51	8	55	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	Norwood Jn	Norwood Fork Jn	Norwood Jn – Norwood Fork Jn	8	55	9	33	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	LBW	Norwood Fork Jn	Cottage Jn / Windmill Bridge Jn	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	NFE	Norwood Fork Jn	Sutton	Norwood Fork Jn – Sutton	9	33	14	75	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO510	NFE	Sutton	Epsom Downs	Sutton – Epsom Downs	14	75	18	60	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0885	SO520	TBH1	Three Bridges	Crawley	Three Bridges – Crawley	29	21	30	49	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0885	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Kent-Sussex-Wessex	0885	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill Substation via platforms 1 and 2	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Herne Hill South Jn	Beckenham Jn	Herne Hill South Jn – Beckenham Jn	4	06	8	43	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Beckenham Jn	Shortlands Jn	Beckenham Jn – Shortlands Jn	8	43	9	57	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Shortlands Jn	Bickley Jn	Shortlands Jn – Bickley Jn	9	57	12	38	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	TLP1	Bickley Jn	Petts Wood (Fast Tonbridge Loop)	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	TLP2	Bickley Jn	Petts Wood (Slow Tonbridge Loop)	Bickley Jn – Petts Wood (Slow Tonbridge Loop)	12	49	13	35	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	CSM3	Hawkwood Jn (Up Chatham Loop)	St Mary Cray Jn	Hawkwood Jn (Up Chatham Loop) – St Mary Cray Jn	11	66	12	30	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Bickley Jn	St Mary Cray Down Jn	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	St Mary Cray Down Jn	St Mary Cray Up Jn	St Mary Cray Down Jn – St Mary Cray Up Jn	12	79	13	17	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	St Mary Cray Up Jn	Swanley Jn	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Swanley Jn	Fawkham Jn	Swanley Jn –Fawkham Jn	17	46	22	49	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Fawkham Jn	CTRL	Fawkham Jn – CTRL	22	49	0	00	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Fawkham Jn	Rochester Bridge Jn	Fawkham Jn – Rochester Bridge Jn	22	49	33	01	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Rochester Bridge Jn	Gillingham	Rochester Bridge Jn – Gillingham	33	01	35	75	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Gillingham	Western Jn	Gillingham – Western Jn	35	75	43	70	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Western Jn	Eastern Jn	Western Jn –Eastern Jn	43	70	44	18	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Eastern Jn	Faversham Jn	Eastern Jn –Faversham Jn	44	18	52	13	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	VIR	Faversham Jn	Ramsgate Station	Faversham Jn – Ramsgate Station	52	13	79	21	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO110	ACR	Ramsgate Station	Ramsgate Substation	Ramsgate Station – Ramsgate Substation	85	67	85	22	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO130	XTD	Charing Cross	Metropolitan Jn	Charing Cross – Metropolitan Jn	0	00	1	31	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO130	CBM	Cannon Street	Cannon Street Substation	Cannon Street – Cannon Street Substation	0	00	0	20	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO130	CSW	Cannon Street Sub Station	Metropolitan Jn (via Metropolitan Reversible line)	Cannon Street Sub Station – Metropolitan Jn (via Metropolitan Reversible line)	1	53	1	33	Y	Y	Y	N	N	N	N	

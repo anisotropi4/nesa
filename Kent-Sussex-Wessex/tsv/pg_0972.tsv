@@ -1,28 +1,12 @@
-Kent-Sussex-Wessex	0972	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
-Kent-Sussex-Wessex	0972	SO330	LCH	New Beckenham Jn	Hayes	New Beckenham Jn – Hayes	9	51	14	32	4	Y	
-Kent-Sussex-Wessex	0972	SO350	BNG	Grove Park (SO130)	Bromley North	Grove Park (SO130) – Bromley North	8	87	10	47	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB1	Victoria platforms 9-19	Battersea Pier Jn	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	8	R1	R1 Prohibited Victoria platform 19
-Kent-Sussex-Wessex	0972	SO500	VTB1	Battersea Pier Jn	Battersea Park Jn	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB1	Battersea Park Jn	Pouparts Jn	Battersea Park Jn – Pouparts Jn	1	13	2	03	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB1	Pouparts Jn	Falcon Jn	Pouparts Jn – Falcon Jn	2	03	2	66	8	Y	
-Kent-Sussex-Wessex	0972	SO500	WLL	Falcon Jn	Latchmere No1 Jn via Clapham Jn platforms 16 and 17	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	8	R1	R1 Prohibited Clapham platform 16 (Down West London line)
-Kent-Sussex-Wessex	0972	SO500	VTB1	Falcon Jn	Balham Jn	Falcon Jn – Balham Jn	2	66	4	69	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB1	Balham Jn	Streatham North Jn	Balham Jn – Streatham North Jn	4	69	6	14	8	Y	
-Kent-Sussex-Wessex	0972	SO500	SNS	Streatham North Jn	Streatham South Jn via Reversible Fast Spur	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	8	Y	
-Kent-Sussex-Wessex	0972	SO500	SLJ	Streatham North Jn	Streatham South Jn via Slow Spurs	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB1	Streatham North Jn	Selhurst Jn	Streatham North Jn – Selhurst Jn	6	14	9	43	8	Y	
-Kent-Sussex-Wessex	0972	SO500	WCS	Selhurst Jn	Gloucester Road Jn	Selhurst Jn – Gloucester Road Jn	9	44	9	62	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB1	Selhurst Jn	Windmill Bridge Jn	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB2	Windmill Bridge Jn	South Croydon Jn	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB2	South Croydon Jn	Stoats Nest Jn	South Croydon Jn – Stoats Nest Jn	11	29	14	20	8	Y	
-Kent-Sussex-Wessex	0972	SO500	RED1/ 2	Stoats Nest Jn	Redhill	Stoats Nest Jn – Redhill	14	20	22	40	8	R1	R1 Prohibited Redhill Down Post Office Siding
-Kent-Sussex-Wessex	0972	SO500	RED1/ 2	Redhill	Change of Mileage (Redhill/slow lines) Via Redhill	Redhill – Change of Mileage (Redhill/slow lines) Via Redhill	22	40	23	00	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB2	Stoats Nest Jn	Change of Mileage (Quarry / fast lines)	Stoats Nest Jn – Change of Mileage (Quarry / fast lines)	14	20	23	21	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB3	Change of Mileage (Quarry / fast lines)	Three Bridges	Change of Mileage (Quarry / fast lines) – Three Bridges	21	15	29	21	8	R1	R1 Prohibited Earlswood disused platform 4 (Down Fast line)
-Kent-Sussex-Wessex	0972	SO500	VTB3	Three Bridges	Copyhold Jn	Three Bridges – Copyhold Jn	29	21	36	73	8	Y	
-Kent-Sussex-Wessex	0972	SO500	CJA1	Copyhold Jn	Change of Mileage	Copyhold Jn – Change of Mileage	36	73	36	33	8	Y	
-Kent-Sussex-Wessex	0972	SO500	CJA2	Change of Mileage	Ardingly Sidings	Change of Mileage – Ardingly Sidings	0	00	0	70	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB3	Copyhold Jn	Keymer Jn	Copyhold Jn – Keymer Jn	36	73	40	69	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB3	Keymer Jn	Preston Park Jn	Keymer Jn – Preston Park Jn	40	69	49	43	8	R1	R1 Prohibited between Hassocks and Preston Park on the Down Main line
-Kent-Sussex-Wessex	0972	SO500	PPH	Preston Park Jn	Hove Jn	Preston Park Jn – Hove Jn	49	21	50	44	8	Y	
-Kent-Sussex-Wessex	0972	SO500	VTB3	Preston Park Jn	Brighton	Preston Park Jn – Brighton	49	43	50	49	8	Y	
+Kent-Sussex-Wessex	0972	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	0972	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	8	Y	
+Kent-Sussex-Wessex	0972	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	Y	
+Kent-Sussex-Wessex	0972	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	8	Y	
+Kent-Sussex-Wessex	0972	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	8	Y	
+Kent-Sussex-Wessex	0972	SO110	VIR	LinfordStreet Jn	Factory Jn	LinfordStreet Jn – Factory Jn	1	45	1	61	8	Y	
+Kent-Sussex-Wessex	0972	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	8	Y	
+Kent-Sussex-Wessex	0972	SO110	VIR	Factory Jn–Shepherds Lane Jn		Factory Jn–Shepherds Lane Jn	1	61	2	70	8	Y	
+Kent-Sussex-Wessex	0972	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	8	Y	
+Kent-Sussex-Wessex	0972	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	8	Y	
+Kent-Sussex-Wessex	0972	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	8	Y	
+Kent-Sussex-Wessex	0972	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	8	R1	R1 Prohibited between the crossover from the Up Passenger Loop to the Up Chatham Main and the Connection to the Up Holborn line on the Up Slowconnecting line

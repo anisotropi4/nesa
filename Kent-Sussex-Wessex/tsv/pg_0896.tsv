@@ -1,15 +1,18 @@
-Kent-Sussex-Wessex	0896	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-Kent-Sussex-Wessex	0896	SO250	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SW220]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO250	WLL	Kensington Olympia	Northbound AC/DC changeover	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0896	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	R1 R2 R3	R1 R2 R3	R1 R2 R3 R4	N	R1 15mph through Farringdon R2 OHLE must be isolated R3 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment R4 Route prohibited to Class 33/0 and 33/1
-Kent-Sussex-Wessex	0896	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	R1 R2	R1 R2	R1 R2	N	R1 OHLE must be isolated R2 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment
-Kent-Sussex-Wessex	0896	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0896	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
+Kent-Sussex-Wessex	0896	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Kent-Sussex-Wessex	0896	SO680	BTH1	Peckham Rye Jn	Tulse Hill North Jn	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	WTH	Tulse Hill	West Norwood Jn	Tulse Hill – West Norwood Jn	6	14	6	41	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	LTH	Tulse Hill	Leigham Jn	Tulse Hill – Leigham Jn	6	20	6	40	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH1	Tulse Hill North Jn	Streatham Jn	Tulse Hill North Jn – Streatham Jn	6	07	7	57	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	SSC	Streatham Jn	Streatham Common Jn	Streatham Jn – Streatham Common Jn	7	57	8	10	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH1	Streatham Jn	Streatham South Jn (a)	Streatham Jn – Streatham South Jn (a)	7	57	8	09	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH1	Streatham South Jn (a)	Streatham South Jn (b)	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH1	Streatham South Jn (b)	Streatham South Jn (c)	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH1	Streatham South Jn (c)	Change of Mileage	Streatham South Jn (c) – Change of Mileage	8	15	13	45	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH2	Change of Mileage	Route Boundary Wessex (Epsom)	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH2	Route Boundary Sussex (Ewell East)	Epsom (Change of ELR) [Duplicated in SW180]	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SW180]	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO680	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn [Duplicated in SW180]	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO700	SMS1	Streatham South Jn (c)	Wimbledon platforms 9 and 10	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO700	SMS2	Wimbledon platforms 9 and 10	Wimbledon West Jn	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0896	SO700	SMS2	Wimbledon West Jn	Sutton	Wimbledon West Jn – Sutton	7	51	12	50	Y	Y	Y	N	N	N	N	

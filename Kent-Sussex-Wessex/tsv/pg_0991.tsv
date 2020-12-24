@@ -1,17 +1,18 @@
-Kent-Sussex-Wessex	0991	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	166	170	171	172	180	220	221	Notes
-Kent-Sussex-Wessex	0991	SW105	BML2	Worgret Jn	Dorchester Jn	Worgret Jn – Dorchester Jn	121	77	136	15	N	E R1	N	N	N	Y	Y	R1 Prohibited with footsteps fitted and deflated suspension
-Kent-Sussex-Wessex	0991	SW105	BML3	Dorchester Jn	Weymouth	Dorchester Jn – Weymouth	162	14	168	63	N	E R1	N	N	N	Y	Y	R1 Prohibited with footsteps fitted and deflated suspension
-Kent-Sussex-Wessex	0991	SW110	WPH1	Woking Jn	Guilford	Woking Jn – Guilford	24	62	30	27	R1 R2	N	N	N	N	Y	Y	R1 10mph through Worplesdon R2 Prohibited Guildford platform 1
-Kent-Sussex-Wessex	0991	SW110	WPH1	Guilford	Shalford Jn	Guilford – Shalford Jn	30	27	31	42	Y	N	N	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	WPH1	Shalford Jn	Haslemere	Shalford Jn – Haslemere	31	42	42	79	N	N	N	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	WPH1	Haslemere	Havant Jn	Haslemere – Havant Jn	42	79	66	17	N	N	N	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham)	Havant Jn [Duplicated on SO520]	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0991	SW110	WPH2	Havant Jn	Farlington Jn [Duplicated on SO520]	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SO520]	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SO520]	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	0991	SW110	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	R1 R2	Y	Y	N	N	Y	Y	R1 Prohibited Portsmouth & Southsea platform 1 Up Main Fast line with air bags deflated / failed secondary suspension R2 Prohibited Portsmouth Harbour platforms 3 & 5
-Kent-Sussex-Wessex	0991	SW110	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	R1 R2	Y	Y	N	N	Y	Y	R1 Prohibited Portsmouth & Southsea platform 1 Up Main Fast line with air bags deflated / failed secondary suspension R2 Prohibited Portsmouth Harbour platforms 3 & 5
-Kent-Sussex-Wessex	0991	SW115	BAE1	Worting Jn	Connection to Ludgershall Branch line	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0991	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
+Kent-Sussex-Wessex	0991	SW110	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SO520]	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW110	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SO520]	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW110	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW110	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW110	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	BAE1	Worting Jn	Connection to Ludgershall Branch line	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	Y	N	N	Y	Y	Y	N	
 Kent-Sussex-Wessex	0991	SW115	LUD1	Connection to main Up line (BAE1)	Red Post Jn	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	N	N	N	N	N	N	N	
 Kent-Sussex-Wessex	0991	SW115	LUD2	Red Post Jn	Ludgershall	Red Post Jn – Ludgershall	0	00	5	64	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0991	SW115	BAE1	Connection to Ludgershall Branch line	Laverstock North Jn	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	Y	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	LAV	Laverstock North Jn	Laverstock South Jn	Laverstock North Jn – Laverstock South Jn	82	05	82	39	Y	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	BAE1	Laverstock North Jn	Salisbury Tunnel Jn	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	Y	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	BAE1	Salisbury Tunnel Jn	Fisherton Short Mile Change of Mileage	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	BAE2	Fisherton Short Mile Change of Mileage	Wilton Jn	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	Y	Y	R1 R2	Y	Y	Y	N	R1 15mph Salisbury platform 3 R2 20mph Salisbury platform 4
+Kent-Sussex-Wessex	0991	SW115	BAE2	Wilton Jn	Gillingham	Wilton Jn – Gillingham	85	37	105	23	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	BAE2	Gillingham	Yeovil Jn	Gillingham – Yeovil Jn	105	23	122	48	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW115	BAE2	Yeovil Jn	Route Boundary (GW610) (Exeter St Davids Jn)	Yeovil Jn – Route Boundary (GW610) (Exeter St Davids Jn)	122	48	164	30	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	0991	SW120	PAA1	Pirbright Jn	Ash Vale Jn	Pirbright Jn – Ash Vale Jn	29	39	32	30	Y	N	N	N	N	N	N	

@@ -1,16 +1,25 @@
-Kent-Sussex-Wessex	0849	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0849	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0849	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	E	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	N	R1	H R2	N	Y	Y	Y	N	N	Y	R1 15 mph over bridge No.11 Ramsgate line over Stewarts Lane Depot (01m 34ch) R2 Chatham Reversible only
-Kent-Sussex-Wessex	0849	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0849	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	N	Y	H R1	N	Y	Y	Y	N	N	Y	R1 Chatham Reversible only
-Kent-Sussex-Wessex	0849	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	N	Y	Y	N	N	N	Y	Y	EH	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	N	Y	Y	N	Y	Y	Y	E	EH	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	N	Y	Y	N	Y	Y	Y	E	EH	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	N	Y	Y	N	Y	Y	Y	E	N	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	N	Y	Y	N	Y	Y	Y	E	N	Y	
-Kent-Sussex-Wessex	0849	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0849	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill North Jn	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0849	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill Substation via platforms 1 and 2	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Herne Hill South Jn	Beckenham Jn	Herne Hill South Jn – Beckenham Jn	4	06	8	43	N	Y	Y	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0849	SO110	VIR	Beckenham Jn	Shortlands Jn	Beckenham Jn – Shortlands Jn	8	43	9	57	N	Y	Y	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0849	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	170	171	172	220	221	Notes
+Kent-Sussex-Wessex	0849	SO310	HDR	Hither Green Jn (SO290)	Lee Loop Jn	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	LEE	Lee Loop Jn	Lee Spur Jn	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	HDR	Lee Loop Jn	Lee	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	HDR	Lee	Crayford Spur ‘B’ Jcn	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	CRA	Crayford Spur ‘B’ Jn	Crayford Spur ‘A’ Jn	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	HDR	Crayford Spur ‘B’ Jcn	Dartford Jn	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	HDR	Dartford Jn	Hoo Jn	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	HDR	Hoo Jn	Strood Jn	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	HDR	Strood Jn	Rochester Bridge Jn	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO310	PWS2	Strood Jn	Maidstone West Change of Mileage	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO320	HTG	Hoo Jn	Grain LC and Sidings beyond	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	NTL	Nunhead Jn (SO260)	Lewisham Jn	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	LVT	Tanners Hill Jn (SO130)	Lewisham Jn	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	BEX	St Johns Jn (SO130)	Lewisham Jn	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	LCH	Lewisham Jn	Courthill Loop North Jn	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	NCS	Courthill Loop North Jn	Courthill Loop South Jn	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	LCH	Courthill Loop North Jn	Ladywell Jn	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	LCH	Ladywell Jn	New Beckenham Jn	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	NBB	New Beckenham Jn	Beckenham Jn	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO330	LCH	New Beckenham Jn	Hayes	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO350	BNG	Grove Park (SO130)	Bromley North	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N	
+Kent-Sussex-Wessex	0849	SO500	VTB1	Victoria platforms 9-19	Battersea Pier Jn	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	Y	N	N	N	
+Kent-Sussex-Wessex	0849	SO500	VTB1	Battersea Pier Jn	Battersea Park Jn	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	Y	N	N	N	
+Kent-Sussex-Wessex	0849	SO500	VTB1	Battersea Park Jn	Pouparts Jn	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	Y	N	N	N	

@@ -1,15 +1,23 @@
-Kent-Sussex-Wessex	0982	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	121	150	153	156	158	159	165	Notes
-Kent-Sussex-Wessex	0982	SW100	BML1	West London Jn	Ludgate Jn (Main lines)	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn)	Ludgate Jn	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0982	SW100	CJL	Ludgate Jn	Route Boundary (Sussex SO250) (Latchmere Jn No.2)	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0982	SW100	RDG1	Ludgate Jn	Clapham Jn (Windsor lines)	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	Y	R1	N	N	Y	Y	N	R1 Prohibited Clapham platforms 2, 3, 4, 5 and 6
-Kent-Sussex-Wessex	0982	SW100	BML1	Ludgate Jn	Clapham Jn (Main lines)	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	BML1	Clapham Jn	Wimbledon platforms 5, 6, 7 and 8	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	PPW	Wimbledon North Jn	Wimbledon platforms 1, 2, 3 and 4 (District line)	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	R1	R1	N	N	R1	R1	N	R1 Prohibited Wimbledon platforms 1, 2, and 3
-Kent-Sussex-Wessex	0982	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8	Wimbledon West Jn	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	BML1	Wimbledon West Jn	Hampton Court Jn	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	BML1	Hampton Court Jn	Woking	Hampton Court Jn – Woking	13	27	24	27	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	BML1	Woking	Basingstoke	Woking – Basingstoke	24	27	47	61	Y	Y	N	N	Y	Y	R1 R2 R3 R4 R5	R1 20mph over bridge 85 (24m 40ch) (Up Fast) (between Woking and Brookwood) R2 40mph over bridge 107b (34m 10ch) (Up Slow) (between Fleet and Farnborough) R3 40mph Winchfield Up Slow platform R4 30mph Brookwood Up Slow platform R5 50mph Winchfield Down Slow platform
-Kent-Sussex-Wessex	0982	SW105	BML1	Basingstoke	Eastleigh West Jn	Basingstoke – Eastleigh West Jn	47	61	73	42	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	BML1	Eastleigh West Jn	St Denys	Eastleigh West Jn – St Denys	73	42	77	10	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0982	SW105	BML1	St Denys	Northam Jn	St Denys – Northam Jn	77	10	78	15	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0982	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	0982	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	4	R1	R1 Prohibited on the Down line
+Kent-Sussex-Wessex	0982	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	7	R1 R2 R3	R1 Prohibited between Ore and connection to the Single line on the Down Ore line R2 Prohibited between Ore Single line connection and Doleham on the Single line R3 Prohibited between Ham Street and Jn with Hasting line on the Up line
+Kent-Sussex-Wessex	0982	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn –Lewes	0	14	7	77	8	R11	R1 Prohibited between Montpelier Jn and London Road on the Up line
+Kent-Sussex-Wessex	0982	SO620	KJE1/2	Lewes	Southerham Jn (Duplicated on SO590)	Lewes – Southerham Jn (Duplicated on SO590)	49	74	51	11	8	Y	
+Kent-Sussex-Wessex	0982	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	7	Y	
+Kent-Sussex-Wessex	0982	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	7	Y	
+Kent-Sussex-Wessex	0982	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	7	Y	
+Kent-Sussex-Wessex	0982	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	8	Y	
+Kent-Sussex-Wessex	0982	SO630	BLI1	Hove Jn–Hove platforms 2 and 3		Hove Jn–Hove platforms 2 and 3	1	28	1	35	8	Y	
+Kent-Sussex-Wessex	0982	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	8	Y	
+Kent-Sussex-Wessex	0982	SO630	BLI1	Hove Up platform loop and platforms 2, and 3	Arundel Jn	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	8	Y	
+Kent-Sussex-Wessex	0982	SO630	BLI1	Arundel Jn	Littlehampton Jn (Change of Mileage)	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	8	Y	
+Kent-Sussex-Wessex	0982	SO630	FJL	Littlehampton Jn	Ford Jn	Littlehampton Jn – Ford Jn	60	57	60	26	8	Y	
+Kent-Sussex-Wessex	0982	SO630	BLI2	Littlehampton Jn (Change of Mileage)	Littlehampton	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	8	Y	
+Kent-Sussex-Wessex	0982	SO640	BBR	Barnham	Bognor Regis	Barnham –Bognor Regis	22	29	25	75	8	R1	R1 Prohibited Bognor Regis platform 2 (Up Mainline)
+Kent-Sussex-Wessex	0982	SO645	ATL	Battersea Park	Factory Jn	Battersea Park – Factory Jn	7	27	6	67	8	Y	
+Kent-Sussex-Wessex	0982	SO645	ATL	Factory Jn	Wandsworth Road Jn	Factory Jn – Wandsworth Road Jn	6	67	6	53	8	Y	
+Kent-Sussex-Wessex	0982	SO645	ATL	Wandsworth Road Jn	Shepherds Lane Jn	Wandsworth Road Jn – Shepherds Lane Jn	6	53	5	68	8	Y	
+Kent-Sussex-Wessex	0982	SO645	ATL	ShepherdsLane Jn	Crofton Road Jn	ShepherdsLane Jn – Crofton Road Jn	5	68	3	67	8	Y	
+Kent-Sussex-Wessex	0982	SO645	ATL	Crofton Road Jn	Peckham Rye Jn	Crofton Road Jn – Peckham Rye Jn	3	67	3	47	8	Y	
+Kent-Sussex-Wessex	0982	SO650	BBJ	Balham Jn (SO500)	Leigham Jn	Balham Jn (SO500) – Leigham Jn	4	69	6	31	8	R1 R2	R1 Prohibited between Streatham Hill station and Leigham Jn on the Down Crystal Palace line R2 Prohibited between Streatham Hill station and Leigham Jn on the Up Crystal Palaceline
+Kent-Sussex-Wessex	0982	SO650	BBJ	Leigham Jn	West Norwood Jn	Leigham Jn – West Norwood Jn	6	31	6	58	8	Y	
