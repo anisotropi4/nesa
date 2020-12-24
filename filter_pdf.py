@@ -5,7 +5,7 @@ import argparse
 import re
 from os.path import basename, dirname
 
-PARSER = argparse.ArgumentParser(description='Filter backgrounds from PDFs')
+PARSER = argparse.ArgumentParser(description='Filter background shading from PDF files')
 PARSER.add_argument('filename', type=str, nargs='?', default='pg_0897.pdf', help='name of pdf-file')
 
 ARGS, _ = PARSER.parse_known_args()
@@ -26,6 +26,8 @@ def get_lines(data):
    b = [0] + [i + 1 for i, c in enumerate(list(data)) if c == ord('\n')]
    return [data[i:j] for i, j in zip(b[:-1], b[1:])]
 
+# Match ^[+-]d[.d]+ [r]g$ or ^[+-]d[.d] [+-]d[.d] [+-]d[.d] [r]g$
+GBLOCK = re.compile(r'^(?P<d1>[+-]?(\d+(\.\d*)?|\.\d+)) ((?P<d2>[+-]?(\d+(\.\d*)?|\.\d+)) (?P<d3>[+-]?(\d+(\.\d*)?|\.\d+)) )?(?P<f>r?g$)')
 LINES = get_lines(DATA)
 
 START = False
@@ -43,8 +45,12 @@ for n, v in enumerate(LINES):
         continue
     if not START:
         continue
-    if len(block) > 8:
+    if len(block) > 64:
         continue
+    u = GBLOCK.match(block)
+    if u and all([u[k] != '0' for k in ['d1', 'd2', 'd3']]):
+        r = ' '.join(['1' for k in ['d1', 'd2', 'd3'] if u[k]])
+        OUTPUT[n] = '{} {}'.format(r, u['f']).encode() + b'\n'
     if 'q' in block.lower():
         if POP:
             OUTPUT[m:n] = [None] * (n - m)
