@@ -1,20 +1,23 @@
-London-North-Western-South	0549	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes	
-London-North-Western-South	0549					W6a	W7	W8	W9	W9Plus	W10	W10A	W12		
-London-North-Western-South	0549	MD137	Wembley Yard South Jn – Wembley Central Jn	Wembley Yard South Jn	Wembley Central Jn	Y	Y	Y	Y	N	Y	N	N		
-London-North-Western-South	0549	MD140	Bletchley – Bedford St Johns (inclusive)	Bletchley	Bedford St Johns (inclusive)	Y *	Y	Y	N	N	N	N	N		
-London-North-Western-South	0549	MD145	Camden Road West Junction – Camden Junction	Camden Road West Junction	Camden Junction	Y	Y	Y	Y	N	Y	N	N		
-London-North-Western-South	0549	MD150	Kensal Green Junction – Willesden Suburban Junction	Kensal Green Junction	Willesden Suburban Junction	Y	Y	Y	Y	N	N	N	N		
-London-North-Western-South	0549	MD155	Kensal Green Junction – Harlesden Junction	Kensal Green Junction	Harlesden Junction	Y	Y	Y	Y	N	Y	N	N		
-London-North-Western-South	0549	MD160	Willesden High Level Junction – Mitre Bridge Junction	Willesden High Level Junction	Mitre Bridge Junction	Y	Y	Y	Y	N	N	N	N		
-London-North-Western-South	0549	MD166	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	Route Boundary (SO250) (North Pole Jn)	Mitre Bridge Jn	Y	Y	Y	Y	N	N	N	N		
-London-North-Western-South	0549	MD166	Mitre Bridge Jn – West London Jn (Willesden)	Mitre Bridge Jn	West London Jn (Willesden)	Y	Y	Y	Y	N	N	N	N		
-London-North-Western-South	0549	MD166	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	West London Jn (Willesden)	Wembley Central Jn (Willesden Relief lines)	Y	Y	Y	Y	N	Y	N	N		
-London-North-Western-South	0549	MD167	Mitre Bridge Jn – West London Jn (Willesden)	Mitre Bridge Jn	West London Jn (Willesden)	Y	Y	Y	Y	N	N	N	N		
-London-North-Western-South	0549	MD167	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	West London Jn (Willesden)	Route Boundary (EA1360) (Acton Wells)	Y	Y	Y	Y	N	N	N	N		
-London-North-Western-South	0549	MD170	Acton Canal Wharf Junction – Willesden Junction	Acton Canal Wharf Junction	Willesden Junction	Y	Y	Y	Y	Y	Y	Y	Y		
-London-North-Western-South	0549	MD180	Rugby Trent Valley Junction – New Bilton	Rugby Trent Valley Junction	New Bilton	Y	N	N	N	N	N	N	N	R1	
-London-North-Western-South	0549	MD232	Abbey Junction–Hinckley (Exclusive)	Abbey Junction–Hinckley (Exclusive)		Y	Y	N	N	N	Y	N	N		
-London-North-Western-South	0549	MD233	Midland Yard Jn – Canal Farm Jn	Midland Yard Jn	Canal Farm Jn	Y	Y	Y	Y	N	Y	N	Y		
-London-North-Western-South	0549	MD301	Rugby, Trent Valley Junction – Penkridge (Excl) via Stechford, Birmingham New Street and Dudley Port	Rugby, Trent Valley Junction	Penkridge (Excl) via Stechford, Birmingham New Street and Dudley Port	Y *	Y	Y	R1	N	R2	N	N	R1 R2	R1 W9 prohibited between Stechford North Junction and Bushbury Junction via Birmingham New Street and Dudley Port R2 W10 prohibited between Stechford North Junction and Crane Street Junction (exclusive) via Birmingham New Street and Dudley Port
-London-North-Western-South	0549	MD305	Birmingham New Street – Blackwell via Selly Oak	Birmingham New Street	Blackwell via Selly Oak	Y *	R1	R1	N	N	N	N	N	R1	W7 and W8 at 30 mph through Church Road Tunnel [43m 56ch - 43m 61ch]
-London-North-Western-South	0549	MD310	Barnt Green Junction–Redditch	Barnt Green Junction–Redditch		Y *	N	N	N	N	N	N	N		
+London-North-Western-South	0549	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-South	0549	MD345	BJW2	Ryecroft Jn	Change of Mileage	Ryecroft Jn –Change of Mileage	6	76	6	79	8	H	H	Y	Y	N	Y	
+London-North-Western-South	0549	MD345	RRN1	Change of Mileage	Cannock Change of ELR	Change of Mileage – Cannock Change of ELR	0	00	7	20	8	H	H	Y	Y	N	Y	
+London-North-Western-South	0549	MD345	RRN2	Cannock Change of ELR	Route Boundary (NW1004) (Rugeley North Jn)	Cannock Change of ELR – Route Boundary (NW1004) (Rugeley North Jn)	7	20	14	00	8	H	H	Y	Y	N	Y	
+London-North-Western-South	0549	MD350	BJW3	Anglesea Sidings	Lichfield City Jn	Anglesea Sidings – Lichfield City Jn	12	15	16	47	8	N	N	Y	N	N	N	Line out of use NC/G1/2005/LN296
+London-North-Western-South	0549	MD355	LTV	Lichfield South Jn	Lichfield Trent Valley Jn (Chord Line)	Lichfield South Jn – Lichfield Trent Valley Jn (Chord Line)	0	22	0	02	8	H	N	Y	H	N	N	
+London-North-Western-South	0549	MD360	WDJ	Walsall, Pleck Jn	Darlaston Jn	Walsall, Pleck Jn – Darlaston Jn	1	16	0	15	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0549	MD365	PJW	Portobello Jn	Wolverhampton Crane Street Jn	Portobello Jn – Wolverhampton Crane Street Jn	0	04	1	59	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0549	MD401	DCL	Route Boundary (GW200) (Heyford)	Aynho Jn	Route Boundary (GW200) (Heyford) – Aynho Jn	75	00	81	13	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD401	DCL	Aynho Jn	Leamington Spa North Jn	Aynho Jn – Leamington Spa North Jn	81	13	106	25	8	H R1	H R1	Y	H R1	N	N	R1 Prohibited between Aynho Jn and Fenny Compton
+London-North-Western-South	0549	MD401	DCL	Leamington Spa North Jn	Tyseley South Jn	Leamington Spa North Jn – Tyseley South Jn	106	25	125	73	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD401	BCV/D CL	Tyseley South Jn	Small Heath South Jn	Tyseley South Jn – Small Heath South Jn	125	73	126	59	8	H R1	H R1	Y	H R1	N	N	R1 Prohibited between Tyseley South Jn and Tyseley
+London-North-Western-South	0549	MD401	BCV	Small Heath South Jn	Bordesley Jn	Small Heath South Jn – Bordesley Jn	126	59	128	11	8	H	H	Y	H	N	N	
+London-North-Western-South	0549	MD405	LSC1	Leamington Spa North Jn	Milverton Change of ELR	Leamington Spa North Jn – Milverton Change of ELR	106	25	107	06	8	H	H	Y	H	N	N	
+London-North-Western-South	0549	MD405	LSC2	Milverton Change of ELR	Coventry South Jn	Milverton Change of ELR – Coventry South Jn	0	00	8	45	8	H	H	Y	H	N	N	
+London-North-Western-South	0549	MD410	CNN	Coventry North Jn	Nuneaton South Jn	Coventry North Jn – Nuneaton South Jn	0	00	9	53	8	H	H	Y	H	N	N	
+London-North-Western-South	0549	MD415	HSA	Hatton Station Jn	Bearley Jn	Hatton Station Jn – Bearley Jn	18	12	12	48	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD415	HSA	Bearley Jn	Stratford Upon Avon (End of Headshunt)	Bearley Jn – Stratford Upon Avon (End of Headshunt)	12	48	8	63	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD420	HHW	Hatton North Jn	Hatton West Jn	Hatton North Jn – Hatton West Jn	18	25	17	62	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD425	TSB	Tyseley South Jn	Bearley Jn	Tyseley South Jn – Bearley Jn	0	00	17	71	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD430	OWW	Route Boundary (GW370) (Droitwich Spa)	Kidderminster	Route Boundary (GW370) (Droitwich Spa) – Kidderminster	130	40	135	46	8	N	N	Y	N	N	N	
+London-North-Western-South	0549	MD430	OWW	Kidderminster	Stourbridge North Jn	Kidderminster –Stourbridge North Jn	135	46	142	51	8	N	N		N	N	N	
+London-North-Western-South	0549	MD435	DCL	Small Heath South Jn	Site of Former Handsworth Jn	Small Heath South Jn – Site of Former Handsworth Jn	126	59	132	47	8	N	N		N	N	N	

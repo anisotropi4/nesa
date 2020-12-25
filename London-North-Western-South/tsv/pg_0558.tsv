@@ -1,23 +1,20 @@
-London-North-Western-South	0558	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
-London-North-Western-South	0558	MD301	RBS2	Galton Jn	Wolverhampton Crane Street Jn	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	8	Y	
-London-North-Western-South	0558	MD301	RBS2	Wolverhampton Crane Street Jn	Bushbury Jn (Change of Mileage)	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	8	Y	
-London-North-Western-South	0558	MD301	RBS3	Bushbury Jn (Change of Mileage)	Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	8	Y	
-London-North-Western-South	0558	MD305	BAG1	Change of Mileage (Birmingham New Street)	Lifford West Jn	Change of Mileage (Birmingham New Street) –Lifford West Jn	42	35	47	20	8	R1	R1 Prohibited between Birmingham New St and Five Ways on the Up line
-London-North-Western-South	0558	MD305	BAG1	Lifford West Jn	King's Norton Station Jn	Lifford West Jn – King's Norton Station Jn	47	20	47	48	8	Y	
-London-North-Western-South	0558	MD305	BAG1	King's Norton Station Jn	King's Norton Jn (Change of Mileage)	King's Norton Station Jn – King's Norton Jn (Change of Mileage)	47	48	48	02	8	Y	
-London-North-Western-South	0558	MD305	BAG2	King's Norton Jn (Change of Mileage)	Barnt Green Jn	King's Norton Jn (Change of Mileage) – Barnt Green Jn	46	77	51	58	8	R1	R1 Prohibited between Northfield and Longbridge Jn on the Up Slow line
-London-North-Western-South	0558	MD305	BAG2	Barnt Green Jn	Route Boundary (GW400) (Blackwell)	Barnt Green Jn – Route Boundary (GW400) (Blackwell)	51	58	52	40	8	Y	
-London-North-Western-South	0558	MD310	BEA	Barnt Green Jn	Redditch	Barnt Green Jn – Redditch	51	58	56	60	8	R1 R2	R1 Prohibited Barnt Green platform 4 (Down line) R2 Prohibited Alvechurch Station (Single Line)
-London-North-Western-South	0558	MD315	SAS	Stechford South Jn	Stechford North Jn (via Up Line)	Stechford South Jn – Stechford North Jn (via Up Line)	-0	20	-0	04	8	Y	
-London-North-Western-South	0558	MD315	SAS	Stechford North Jn	Aston South Jn	Stechford North Jn – Aston South Jn	-0	04	2	61	8	Y	
-London-North-Western-South	0558	MD320	RBS1	Proof House Jn	Curzon Street Jn (Change of Mileage)	Proof House Jn – Curzon Street Jn (Change of Mileage)	112	19	112	07	8	Y	
-London-North-Western-South	0558	MD320	PBJ	Curzon Street Jn (Change of Mileage)	Aston South Jn	Curzon Street Jn (Change of Mileage) – Aston South Jn	0	00	1	60	8	Y	
-London-North-Western-South	0558	MD320	PBJ	Aston South Jn	Aston North Jn	Aston South Jn – Aston North Jn	1	60	1	73	8	Y	
-London-North-Western-South	0558	MD320	PBJ	Aston North Jn	Bescot Jn	Aston North Jn – Bescot Jn	1	73	8	50	8	Y	
-London-North-Western-South	0558	MD320	PBJ	Bescot Jn	Bushbury Jn	Bescot Jn – Bushbury Jn	8	50	15	32	8	Y	
-London-North-Western-South	0558	MD325	SSP	Soho South Jn	Perry Barr West Jn	Soho South Jn – Perry Barr West Jn	2	71	0	39	8	Y	
-London-North-Western-South	0558	MD325	PBL	Perry Barr West Jn	Perry Barr North Jn	Perry Barr West Jn – Perry Barr North Jn	0	29	0	00	8	Y	
-London-North-Western-South	0558	MD330	SCL	Soho East Jn	Soho North Jn	Soho East Jn –Soho North Jn	0	00	0	22	8	Y	
-London-North-Western-South	0558	MD335	SSP	Perry Barr West Jn	Perry Barr South Jn	Perry Barr West Jn – Perry Barr South Jn	0	39	0	00	8	Y	
-London-North-Western-South	0558	MD340	ALC1	Aston North Jn	Sutton Coldfield Change of ELR	Aston North Jn – Sutton Coldfield Change of ELR	0	00	5	00	8	Y	
-London-North-Western-South	0558	MD340	ALC2	Sutton Coldfield Change of ELR	Lichfield City Jn	Sutton Coldfield Change of ELR – Lichfield City Jn	5	00	13	33	8	Y	
+London-North-Western-South	0558	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes	
+London-North-Western-South	0558					W6a	W7	W8	W9	W9Plus	W10	W10A	W12		
+London-North-Western-South	0558	MD430	Droitwich Spa – Stourbridge North Junction	Droitwich Spa	Stourbridge North Junction	Y *	Y	Y	N	N	N	N	N		
+London-North-Western-South	0558	MD435	Small Heath South Junction – Smethwick Junction via Birmingham Snow Hill	Small Heath South Junction	Smethwick Junction via Birmingham Snow Hill	Y *	N	N	N	N	N	N	N		
+London-North-Western-South	0558	MD435	Smethwick Junction – Stourbridge North Junction	Smethwick Junction	Stourbridge North Junction	Y *	R1	R1	N	N	N	N	N	R1	W8 prohibited on the Down Line between Rowley Regis and Stourbridge North Junction. W7 15 mph on the Down Line and W7 W8 15 mph on the Up Line through Old Hill Tunnel. STNC to 30/12/2011
+London-North-Western-South	0558	MD440	Galton Junction–Smethwick Junction	Galton Junction–Smethwick Junction		Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0558	MD445	Stourbridge Junction – Stourbridge Town	Stourbridge Junction	Stourbridge Town	Y *	N	N	N	N	N	N	N		
+London-North-Western-South	0558	MD450	Stourbridge North Junction – Round Oak via Kingswinford Junction South	Stourbridge North Junction	Round Oak via Kingswinford Junction South	Y *	Y	Y	N	N	N	N	N		
+London-North-Western-South	0558	MD460	Fenny Compton Junction – Burton Dassett (MOD Kineton)	Fenny Compton Junction	Burton Dassett (MOD Kineton)	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0558	MD501	Tamworth (inclusive) – Water Orton East Junction	Tamworth (inclusive)	Water Orton East Junction	Y	Y	Y	Y	Y	Y	Y	Y		
+London-North-Western-South	0558	MD501	Water Orton East Junction – Landor Street Junction	Water Orton East Junction	Landor Street Junction	Y *	Y	Y	Y	R1	Y	R1	R1	R1	Prohibited Water Orton West to Landor Street Jn
+London-North-Western-South	0558	MD501	Landor Street Junction – Proof House Junction	Landor Street Junction	Proof House Junction	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0558	MD501	Duddeston Jn – Lawley Street FLT boundary	Duddeston Jn	Lawley Street FLT boundary	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0558	MD545	Kingsbury Junction – Whitacre Junction	Kingsbury Junction	Whitacre Junction	Y	Y	Y	Y	Y	Y	Y	Y		
+London-North-Western-South	0558	MD555	Nuneaton North Junction – Water Orton East Junction via Arley	Nuneaton North Junction	Water Orton East Junction via Arley	Y	Y	Y	Y	R1	Y	R1	R1	R1	Prohibited Nuneaton North Junction to Whitacre Jn
+London-North-Western-South	0558	MD560	Water Orton West Junction – Park Lane Junction	Water Orton West Junction	Park Lane Junction	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0558	MD565	Castle Bromwich Junction – Ryecroft Junction via Park Lane Junction	Castle Bromwich Junction	Ryecroft Junction via Park Lane Junction	Y *	Y	Y	Y	N	R1	N	N	R1	20mph through CBR2-21 at 37m 49ch and CRB2-20 at 37m 42ch on the Down Main line
+London-North-Western-South	0558	MD570	Saltley (Landor Street Jn) – St Andrew’s Jn	Saltley (Landor Street Jn)	St Andrew’s Jn	Y *	Y	Y	N	N	Y	N	N		
+London-North-Western-South	0558	MD570	St Andrew’s Jn – Bordesley Jn (Camp Hill lines)	St Andrew’s Jn	Bordesley Jn (Camp Hill lines)	Y *	Y	Y	N	N	Y	N	N		
+London-North-Western-South	0558	MD570	Bordesley Jn – Kings Norton Jn (Camp Hill lines)	Bordesley Jn	Kings Norton Jn (Camp Hill lines)	Y *	Y	N	N	N	N	N	N		

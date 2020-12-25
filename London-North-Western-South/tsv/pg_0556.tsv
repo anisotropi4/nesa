@@ -1,22 +1,20 @@
-London-North-Western-South	0556	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 oM	 Ch	 oM	 Ch	RA	Loco Gauge 0	Notes
-London-North-Western-South	0556	MD101	LEC2	Rugby Trent Valley Jn	Armitage Jn (NW1001 Sectional Appendix Boundary)	Rugby Trent Valley Jn – Armitage Jn (NW1001 Sectional Appendix Boundary)	83	18	119	20	8	Y	
-London-North-Western-South	0556	MD105	HNR	Hanslope Jn (MD101)	Northampton South Jn	Hanslope Jn (MD101) – Northampton South Jn	56	66	65	55	8	Y	
-London-North-Western-South	0556	MD105	HNR	Northampton South Jn	Northampton North Jn	Northampton South Jn – Northampton North Jn	65	55	66	12	8	Y	
-London-North-Western-South	0556	MD105	HNR	Northampton North Jn	Rugby South Jn	Northampton North Jn – Rugby South Jn	66	12	84	43	8	Y	
-London-North-Western-South	0556	MD120	CWJ	Camden Jn DC lines (Down DC line mileage)	Kilburn High Road (DC lines)	Camden Jn DC lines (Down DC line mileage) – Kilburn High Road (DC lines)	1	36	3	01	8	Y	
-London-North-Western-South	0556	MD120	CWJ	Kilburn High Road	Willesden Suburban Jn (DC lines)	Kilburn High Road – Willesden Suburban Jn (DC lines)	3	01	5	28	8	R1 R2	R1 Prohibited Queens Park platform 1 (Up Through line) R2 Prohibited Kensal Green platform (Up line)
-London-North-Western-South	0556	MD120	CWJ	Willesden Suburban Jn	Harrow and Wealdstone (Sand Drag) (DC lines)	Willesden Suburban Jn – Harrow and Wealdstone (Sand Drag) (DC lines)	5	28	11	46	8	Y	
-London-North-Western-South	0556	MD120	CWJ	Harrow and Wealdstone (Sand Drag)	WatfordJn (DC lines)	Harrow and Wealdstone (Sand Drag) – WatfordJn (DC lines)	11	46	17	58	8	Y	
-London-North-Western-South	0556	MD130	WSA	Watford Junction	St Albans Abbey	Watford Junction – St Albans Abbey	0	00	6	45	7	R1	R1 Prohibited Watford Junction platform 11 (Up & Down Branch line)
-London-North-Western-South	0556	MD136	WCL	HarlesdenJn	Railnet Jn	HarlesdenJn –Railnet Jn	1	00	1	11	8	Y	
-London-North-Western-South	0556	MD136	WCL	Railnet Jn	Willesden Carriage Shed South	Railnet Jn – Willesden Carriage Shed South	1	11	2	00	8	Y	
-London-North-Western-South	0556	MD136	WCL	Willesden Carriage Shed South	Connection with Yard line	Willesden Carriage Shed South – Connection with Yard line	2	00	2	60	8	Y	
-London-North-Western-South	0556	MD136	WEF1	Connection with Yard line	Wembley Central Jn	Connection with Yard line – Wembley Central Jn	2	60	2	76	8	Y	
-London-North-Western-South	0556	MD137	WCL	Harlesden Jn	Railnet Jn	Harlesden Jn –Railnet Jn	1	00	1	11	8	Y	
-London-North-Western-South	0556	MD140	LEC1	Bletchley South Jn	Bletchley North Jn (Change of Mileage)	Bletchley South Jn – Bletchley North Jn (Change of Mileage)	46	41	46	59	8	Y	
-London-North-Western-South	0556	MD140	BBM	Bletchley North Jn (Change of Mileage)	Limit of electrification (Bletchley TMD)	Bletchley North Jn (Change of Mileage) – Limit of electrification (Bletchley TMD)	0	11	0	21			
-London-North-Western-South	0556	MD140	BBM	Limit of electrification (Bletchley TMD)	Route Boundary (LN3140) (Bedford)	Limit of electrification (Bletchley TMD) – Route Boundary (LN3140) (Bedford)	0	21	16	07	8	R1	R1 Prohibited Millbrook Down line platform
-London-North-Western-South	0556	MD145	CRC2	Route Boundary (EA1320) (Camden Road West Jn)	Camden Jn (North DC lines)	Route Boundary (EA1320) (Camden Road West Jn) – Camden Jn (North DC lines)	5	42	5	78	8	R1 R2	R1 Prohibited disused Primrose Hill Down platform R2 Prohibited disused Primrose Hill Up platform
-London-North-Western-South	0556	MD150	KGW	Route Boundary (EA1310) (Kensal Green Jn)	Willesden Suburban Jn	Route Boundary (EA1310) (Kensal Green Jn) – Willesden Suburban Jn	5	25	5	36	8	Y	
-London-North-Western-South	0556	MD155	KGC	Route Boundary (EA1310) (Kensal Green Jn)	Harlesden Jn	Route Boundary (EA1310) (Kensal Green Jn) – Harlesden Jn	0	21	1	00	8	Y	
-London-North-Western-South	0556	MD160	WMB	Route Boundary (EA1310) (Willesden High Level Jn)	Mitre Bridge Jn	Route Boundary (EA1310) (Willesden High Level Jn) – Mitre Bridge Jn	0	09	0	00	8	Y	
+London-North-Western-South	0556	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes	
+London-North-Western-South	0556					W6a	W7	W8	W9	W9Plus	W10	W10A	W12		
+London-North-Western-South	0556	MD137	Wembley Yard South Jn – Wembley Central Jn	Wembley Yard South Jn	Wembley Central Jn	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0556	MD140	Bletchley – Bedford St Johns (inclusive)	Bletchley	Bedford St Johns (inclusive)	Y *	Y	Y	N	N	N	N	N		
+London-North-Western-South	0556	MD145	Camden Road West Junction – Camden Junction	Camden Road West Junction	Camden Junction	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0556	MD150	Kensal Green Junction – Willesden Suburban Junction	Kensal Green Junction	Willesden Suburban Junction	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0556	MD155	Kensal Green Junction – Harlesden Junction	Kensal Green Junction	Harlesden Junction	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0556	MD160	Willesden High Level Junction – Mitre Bridge Junction	Willesden High Level Junction	Mitre Bridge Junction	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0556	MD166	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	Route Boundary (SO250) (North Pole Jn)	Mitre Bridge Jn	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0556	MD166	Mitre Bridge Jn – West London Jn (Willesden)	Mitre Bridge Jn	West London Jn (Willesden)	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0556	MD166	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	West London Jn (Willesden)	Wembley Central Jn (Willesden Relief lines)	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0556	MD167	Mitre Bridge Jn – West London Jn (Willesden)	Mitre Bridge Jn	West London Jn (Willesden)	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0556	MD167	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	West London Jn (Willesden)	Route Boundary (EA1360) (Acton Wells)	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0556	MD170	Acton Canal Wharf Junction – Willesden Junction	Acton Canal Wharf Junction	Willesden Junction	Y	Y	Y	Y	Y	Y	Y	Y		
+London-North-Western-South	0556	MD180	Rugby Trent Valley Junction – New Bilton	Rugby Trent Valley Junction	New Bilton	Y	N	N	N	N	N	N	N	R1	
+London-North-Western-South	0556	MD232	Abbey Junction–Hinckley (Exclusive)	Abbey Junction–Hinckley (Exclusive)		Y	Y	N	N	N	Y	N	N		
+London-North-Western-South	0556	MD233	Midland Yard Jn – Canal Farm Jn	Midland Yard Jn	Canal Farm Jn	Y	Y	Y	Y	N	Y	N	Y		
+London-North-Western-South	0556	MD301	Rugby, Trent Valley Junction – Penkridge (Excl) via Stechford, Birmingham New Street and Dudley Port	Rugby, Trent Valley Junction	Penkridge (Excl) via Stechford, Birmingham New Street and Dudley Port	Y *	Y	Y	R1	N	R2	N	N	R1 R2	R1 W9 prohibited between Stechford North Junction and Bushbury Junction via Birmingham New Street and Dudley Port R2 W10 prohibited between Stechford North Junction and Crane Street Junction (exclusive) via Birmingham New Street and Dudley Port
+London-North-Western-South	0556	MD305	Birmingham New Street – Blackwell via Selly Oak	Birmingham New Street	Blackwell via Selly Oak	Y *	R1	R1	N	N	N	N	N	R1	W7 and W8 at 30 mph through Church Road Tunnel [43m 56ch - 43m 61ch]
+London-North-Western-South	0556	MD310	Barnt Green Junction–Redditch	Barnt Green Junction–Redditch		Y *	N	N	N	N	N	N	N		

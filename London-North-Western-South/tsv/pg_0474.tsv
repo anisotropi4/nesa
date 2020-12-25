@@ -1,24 +1,23 @@
-London-North-Western-South	0474	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	165	166 RH M	168	170	171	172	175	180	195	220	221	Notes
-London-North-Western-South	0474	MD301	RBS1	Stechford North Jn	Grand Jn	Stechford North Jn – Grand Jn	109	12	111	72	R1	N	Y	Y	N	R2	Y	N	N	Y	T	R1 Route prohibited to Class 165/1 R2 Route prohibited to Class 172/2 and 172/3
-London-North-Western-South	0474	MD301	RBS1	Grand Jn	Proof House Jn	Grand Jn – Proof House Jn	111	72	112	19	R1	N	Y	Y	N	Y	Y	N	N	Y	T	R1 Route prohibited to Class 165/1
-London-North-Western-South	0474	MD301	RBS1	Proof House Jn	Birmingham New Street (Change of Mileage)	Proof House Jn – Birmingham New Street (Change of Mileage)	112	19	112	73	R1	N	Y	Y	N	R2	Y	N	N	Y	T	R1 Route prohibited to Class 165/1 R2 Prohibited Birmingham New Street East Dock Bay when laden
-London-North-Western-South	0474	MD301	RBS2	Birmingham New Street (Change of Mileage)	Soho South Jn	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	E	N	Y	Y	N	R1	Y	N	N	Y	T	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD301	RBS2	Soho South Jn	Soho North Jn	Soho South Jn – Soho North Jn	2	06	2	38	E	N	Y	Y	N	R1	Y	N	N	Y	T	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD301	RBS2	Soho North Jn	Galton Jn	Soho North Jn – Galton Jn	2	38	3	64	E	N	Y	Y	N	R1	Y	N	N	Y	T	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD301	RBS2	Galton Jn	Wolverhampton Crane Street Jn	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	E	N	Y	Y	N	N	Y	N	N	Y	T	
-London-North-Western-South	0474	MD301	RBS2	Wolverhampton Crane Street Jn	Bushbury Jn (Change of Mileage)	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	E	N	Y	Y	N	N	R1	N	EH	Y	T	R1 Prohibited Wolverhampton platforms 5 and 6
-London-North-Western-South	0474	MD301	RBS3	Bushbury Jn (Change of Mileage)	Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	E	N	Y	Y	N	N	Y	N	EH	Y	T	
-London-North-Western-South	0474	MD306	BAG1	Change of Mileage (Birmingham New Street)	Lifford West Jn	Change of Mileage (Birmingham New Street) –Lifford West Jn	42	35	47	20	Y	N	N	Y	N	R1	N	N	N	Y	Y	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD306	BAG1	Lifford West Jn	King's Norton Station Jn	Lifford West Jn – King's Norton Station Jn	47	20	47	48	Y	N	N	Y	N	R1	N	N	N	Y	Y	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD306	BAG1	King's Norton Station Jn	King's Norton Jn (Change of Mileage)	King's Norton Station Jn – King's Norton Jn (Change of Mileage)	47	48	48	02	Y	N	N	Y	N	R1	N	N	N	Y	Y	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD306	BAG2	King's Norton Jn (Change of Mileage)	Barnt Green Jn	King's Norton Jn (Change of Mileage) – Barnt Green Jn	46	77	51	58	Y	N	N	Y	N	R1	N	N	N	Y	Y	R1 Route prohibited to Class 172/1
-London-North-Western-South	0474	MD306	BAG2	Barnt Green Jn	Stoke Works Jn	Barnt Green Jn – Stoke Works Jn	51	58	57	43	Y	R1	N	Y	N	R2	N	N	N	Y	Y	R1 Prohibited Barnt Green Jn – Route Boundary (52m 40ch) R2 Route prohibitedto Class 172/1
-London-North-Western-South	0474	MD306	BAG2	Stoke Works Jn	Abbotswood Jn	Stoke Works Jn – Abbotswood Jn	57	43	68	60	N	Y	N	Y	N	R1	N	N	N	Y	Y	R1 Route prohibited to Class 172/0 and 172/1
-London-North-Western-South	0474	MD306	BAG2	Abbotswood Jn	Route Boundary (GW401) (Ashchurch)	Abbotswood Jn – Route Boundary (GW401) (Ashchurch)	68	60	77	40	E R1	Y	N	Y	N	R2	Y	Y	N	Y	Y	R1 Route prohibited to Class 165/0. R2 Route prohibited to Class 172/0 and 172/1
-London-North-Western-South	0474	MD310	BEA	Barnt Green Jn	Redditch	Barnt Green Jn – Redditch	51	58	56	60	N	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0474	MD315	SAS	Stechford South Jn	Stechford North Jn (via Up Line)	Stechford South Jn – Stechford North Jn (via Up Line)	-0	20	-0	04	N	N	Y	Y	N	N	N	N	N	Y	Y	
-London-North-Western-South	0474	MD315	SAS	Stechford North Jn	Aston South Jn	Stechford North Jn – Aston South Jn	-0	04	2	61	N	N	Y	Y	N	N	N	N	N	Y	Y	
-London-North-Western-South	0474	MD320	RBS1	Proof House Jn	Curzon Street Jn (Change of Mileage)	Proof House Jn – Curzon Street Jn (Change of Mileage)	112	19	112	07	Y	N	Y	Y	N	N	Y	N	N	Y	Y	
-London-North-Western-South	0474	MD320	PBJ	Curzon Street Jn (Change of Mileage)	Aston South Jn	Curzon Street Jn (Change of Mileage) – Aston South Jn	0	00	1	60	Y	N	Y	Y	N	N	Y	N	N	Y	Y	
-London-North-Western-South	0474	MD320	PBJ	Aston South Jn	Aston North Jn	Aston South Jn – Aston North Jn	1	60	1	73	Y	N	Y	Y	N	N	Y	N	N	Y	Y	
-London-North-Western-South	0474	MD320	PBJ	Aston North Jn	Bescot Jn	Aston North Jn – Bescot Jn	1	73	8	50	R1	N	Y	Y	N	N	Y	N	N	Y	Y	R1 Prohibited between Perry Barr South Jn and Bescot Jn
+London-North-Western-South	0474	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	139	142	144	150	153	155	156	158	159	Notes
+London-North-Western-South	0474	MD345	BJW1	Bescot Jn	Walsall Pleck Jn (Change of Mileage)	Bescot Jn – Walsall Pleck Jn (Change of Mileage)	0	00	0	65	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD345	BJW2	Walsall Pleck Jn (Change of Mileage)	Limit of Electrification	Walsall Pleck Jn (Change of Mileage) – Limit of Electrification	5	42	6	34	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD345	BJW2	Limit of Electrification	Ryecroft Jn	Limit of Electrification – Ryecroft Jn	6	34	6	76	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD345	BJW2	Ryecroft Jn	Change of Mileage	Ryecroft Jn – Change of Mileage	6	76	6	79	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD345	RRN1	Change of Mileage	Cannock Change of ELR	Change of Mileage – Cannock Change of ELR	0	00	7	20	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD345	RRN2	Cannock Change of ELR	Route Boundary (NW1004) (Rugeley North Jn)	Cannock Change of ELR – Route Boundary (NW1004) (Rugeley North Jn)	7	20	14	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD350	BJW3	Anglesea Sidings	Lichfield City Jn	Anglesea Sidings – Lichfield City Jn	12	15	16	47	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0474	MD350	BJW3	Anglesea Sidings	Lichfield City Jn	Anglesea Sidings – Lichfield City Jn	12	15	16	47	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2005/LN296
+London-North-Western-South	0474	MD360	WDJ	Walsall, Pleck Jn	Darlaston Jn	Walsall, Pleck Jn – Darlaston Jn	1	16	0	15	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD365	PJW	Portobello Jn	Wolverhampton Crane Street Jn	Portobello Jn – Wolverhampton Crane Street Jn	0	04	1	59	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD401	DCL	Route Boundary (GW200) (Heyford)	Aynho Jn	Route Boundary (GW200) (Heyford) – Aynho Jn	75	00	81	13	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD401	DCL	Aynho Jn	Leamington Spa North Jn	Aynho Jn – Leamington Spa North Jn	81	13	106	25	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD401	DCL	Leamington Spa North Jn	Tyseley South Jn	Leamington Spa North Jn – Tyseley South Jn	106	25	125	73	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD401	BCV/D CL	Tyseley South Jn	Small Heath South Jn	Tyseley South Jn – Small Heath South Jn	125	73	126	59	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD401	BCV	Small Heath South Jn	Bordesley Jn	Small Heath South Jn – Bordesley Jn	126	59	128	11	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD405	LSC1	Leamington Spa North Jn	Milverton Change of ELR	Leamington Spa North Jn – Milverton Change of ELR	106	25	107	06	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD405	LSC2	Milverton Change of ELR	Coventry South Jn	Milverton Change of ELR – Coventry South Jn	0	00	8	45	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD410	CNN	Coventry North Jn	Nuneaton South Jn	Coventry North Jn – Nuneaton South Jn	0	00	9	53	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD415	HSA	Hatton Station Jn	Bearley Jn	Hatton Station Jn – Bearley Jn	18	12	12	48	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD415	HSA	Bearley Jn	Stratford Upon Avon (End of Headshunt)	Bearley Jn – Stratford Upon Avon (End of Headshunt)	12	48	8	63	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD420	HHW	Hatton North Jn	Hatton West Jn	Hatton North Jn – Hatton West Jn	18	25	17	62	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0474	MD425	TSB	Tyseley South Jn	Bearley Jn	Tyseley South Jn – Bearley Jn	0	00	17	71	Y	N	N	N	Y	Y	Y	Y	Y	Y	
