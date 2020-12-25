@@ -1,43 +1,48 @@
-                                                              Western Route Sectional Appendix Module WR2
-
-GW790 ROC      Pengam Jn – Change of ELR                168    20   168    61   N      N   N   N    N   N   N   N   N    N   N
-GW790 ROA      Change of ELR – Network Rail              3     41     4    54   N      N   N   N    N   N   N   N   N    N   N
-               Boundary (ABP Cardiff Docks)
-GW810 CAR      End of Line (Rhymney) – Ystrad            24    00    13    41   N      N   N   N    N   N   N   N   N    N   N
-               Mynach South Jn
-GW810 CAR      Ystrad Mynach South Jn – Heath Jn         13    41     3    32   N      N   N   N    N   N   N   N   N    N   N
-GW810 CAR      Heath Jn – Cardiff Queen Street North     3     32     1    22   N      N   N   N    N   N   N   N   N    N   N
-               Jn
-GW820 TBD      Network Rail Boundary (Cwmbargoed)        19    59    13    53   N      N   N   N    N   N   N   N   N    N   N
-               – Site of Former Taff Bargoed Branch
-               Jn
-GW820 VON      Site of Former Taff Bargoed Branch        13    53    12    41   N      N   N   N    N   N   N   N   N    N   N
-               Jn – Site of Former Penallta Jn
-GW820 PTA      Site of Former Penallta Jn – Ystrad       15    01    13    41   N      N   N   N    N   N   N   N   N    N   N
-               Mynach South Jn
-GW828 CRY      Coryton – Heath Jn                        2     57     0    15   N      N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Merthyr Tydfil – Abercynon Jn             24    44    16    35   N      N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Abercynon Jn – Pontypridd Jn              16    35    13    04   N      N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Pontypridd Jn – Radyr Jn                  13    04     5    23   N      N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Radyr Jn – Queen Street North Jn          5     23     1    17   N      N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Queen Street North Jn – Queen Street      1     17     0    66   N      N   N   N    N   N   Y   Y   N    N   N
-               South Jn
-GW830 CEJ      Queen Street South Jn – Cardiff East      0     22     0    00   N      N   N   N    N   N   Y   Y   N    N   N
-               Jn
-GW830 SWM2 Cardiff East Jn – Cardiff West Jn            170    18   170    56   N      Y   N   Y    N   N   Y   Y   R1   Y   N R1   Prohibited Cardiff Central platform
-                                                                                                                                    8
-GW830 BRY      Cardiff West Jn – Barry Jn                0     10     8    16   N      N   N   R1   N   N   Y   Y   Y    Y   N R1   Prohibited between Grangetown
-                                                                                                                                    and Barry Jn
-GW830 BRY      Barry Jn – Buffer Stops (Barry Island)    8     16     8    76   N      N   N   N    N   N   N   N   N    N   N
-GW834 VON      Network Rail Boundary – Aberdare          26    62    22    34   N      N   N   N    N   N   N   N   N    N   N
-GW834 VON/     Aberdare – Cwmbach Change of ELR          22    34    20    68   N      N   N   N    N   N   N   N   N    N   N
-      ALK
-GW834 ABD/     Cwmbach Change of ELR –                   22    01    16    35   N      N   N   N    N   N   N   N   N    N   N
-      MOA      Abercynon Jn (Including Mountain Ash
-               Down Loop ELR MOA)
-GW835 THT      End of Line – Treherbert                  23    69    23    54   N      N   N   N    N   N   N   N   N    N   N
-GW835 THT      Treherbert – Pontypridd Jn                23    54    13    04   N      N   N   N    N   N   N   N   N    N   N
-GW839 CAM      Queen Street South Jn – Cardiff Bay       0     66     0    02   N      N   N   N    N   N   Y   Y   N    N   N
+                                                                             OFFICIAL
 
 
-April 2009                                                                      498K
+                                                           Western Route Sectional Appendix Module WR2
+
+GW510 WEY    Westbury North Jn – Bradford Jn         109    49   104    40   R1     Y   N   N    N   N   Y    Y    Y    Y    N
+GW510 BFB    Bradford Jn – Bathampton Jn              9     12     0    00    Y     Y   N   N    N   N   R1   R1   Y    Y    N R1     30mph on the down line through
+                                                                                                                                      Dundas Aqueduct (03m 12ch)
+GW520 WYL    Westbury East Loop Jn – Hawkeridge       94    77    95    32    Y     Y   N   N    N   N   Y    Y    Y    Y    N
+             Jn
+GW523 WEY    Thingley Jn – Bradford Jn                96    10   104    40    Y     Y   N   N    N   N   Y    Y    Y    Y    N
+GW528 BRL    North Somerset Jn – Bristol West Jn      0     00     1    08    Y     Y   N   N    N   N   Y    Y    Y    Y    N
+             via St Philips Marsh
+GW530 BLL    Feeder Bridge Jn – Dr Day’s Jn          117    50   117    73    Y     Y   N   N    N   N   Y    Y    Y    Y    N
+             (Rhubarb Loop)
+GW540 BSW    Filton Jn No.1 – Patchway Jn No.2        4     40     5    61    Y     Y   N   Y    N   N   Y    Y    Y    Y    N
+GW5401 PAC   Filton West Jn No.1 – Patchway Jn        0     40     0    00    Y     Y   N   N    N   N   N    Y    Y    Y    N
+             No.1
+GW548 POD/   Parson Street Jn – Network Rail         120    28   126    34    N     N   N   N    N   N   N    N    N    N    N
+      PBY    boundary (BPC)
+GW560 SWY    Heywood Road Jn – Westbury North         94    45    95    33    Y     Y   N   N    N   N   Y    Y    Y    Y    N
+             Jn
+GW560 WEY    Westbury North Jn – Fairwood Jn via     109    49   111    18   R1   R1    N   R1   N   N   R1   R1   R1   R1   N R1     Prohibited Westbury Down
+             Westbury                                                                                                                 Reception line between signal
+                                                                                                                                      W202 and points 858
+GW570 WEY    Clink Road Jn – Blatchbridge Jn via     114    44   116    52    Y     Y   N   N    N   N   Y    Y    Y    Y    N
+             Frome
+GW572 FNS2   Frome North Jn – Change of ELR           0     00     2    38    N     N   N   N    N   N   N    N    N    N    N
+GW572 WQL    Change of ELR – Network Rail             2     38     2    40    N     N   N   N    N   N   N    N    N    N    N
+             Boundary (Mendip Rail - Whatley
+             Quarry)
+GW580 ESB    East Somerset Jn – Network Rail          0     11     5    48    N     N   N   N    N   N   N    N    N    N    N
+             Boundary (East Somerset Railway -
+             Cranmore East)
+GW600 SWB    Wootton Bassett Jn – Stoke Gifford Jn    83    07   111    79    Y     Y   N   R1   N   N   Y    Y    R2   R2   N R1     Prohibited between Wootton
+             No.1                                                                                                                     Bassett Jn and Westerleigh Jn
+                                                                                                                                 R2   100mph maximum speed
+GW600 SWB    Stoke Gifford Jn No.1 – Patchway Jn     111    79   112    68    Y     Y   N   Y    N   N   Y    Y    R1   R1   N R1     100mph maximum speed
+             No.2
+GW600 BSW    Patchway Jn No.2 – Route Boundary        5     61     9    12    N     Y   N   Y    N   N   Y    Y    Y    Y    N
+             Wales
+GW600 BSW    Route Boundary – Ableton Lane            9     12    10    51    N     Y   N   Y    N   N   Y    Y    Y    Y    N
+             Tunnel (GW900)
+GW606 DAC    Cowley Bridge Jn – Crediton SB          173    50   179    26    N     Y   N   N    N   N   N    N    N    N    N
+
+
+
+April 2009                                                                   498G

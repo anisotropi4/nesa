@@ -1,45 +1,47 @@
-                                                             Western Route Sectional Appendix Module WR2
-
-GW900        SWM Cardiff East Jn – Cardiff West Jn     170    18   170   56    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        SWM Cardiff West Jn – Court Sart Jn       170    56   206   58    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        SWM Court Sart Jn – Llandore Jn           206    58   214   62    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        SWM Llandore Jn – Llandeilo Jn            214    62   223   49    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        SWM Llandeilo Jn – Carmarthen Bridge Jn   223    49   245   32    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        SWM Carmarthen Bridge Jn – Whitland Jn    245    32   259   01    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        SWM Whitland Jn – Clarbeston Road Jn      259    01   271   08    E     Y    Y    Y     Y     Y   Y    Y    Y
-             2
-GW900        CRL Clarbeston Road Jn – Change of ELR 271       08   281   58    E     Y    Y    Y     Y     Y   Y    Y    Y
-                 (Letterston Jn)
-GW900        NPF Change of ELR (Letterston Jn) –       283    30   287   52    E     Y    Y    Y     Y     Y   Y    Y    Y
-                 Network Rail Boundary (Fishguard
-                 Harbour)
-GW9001 SWA Landore Jn – Swansea                        214    62   216   07    E     Y    Y    Y     Y     Y   Y    Y    Y
-GW906        SWL Swansea Loop East Jn – Swansea         0     53     0   00    E     Y    Y    Y     Y     Y   Y    Y    Y
-                 Loop West Jn
-GW910        CWL Craven Arms Jn – Change of Mileage     20    01    20   12    E     Y    Y    Y     Y     Y   Y    Y    Y
-             1
-GW910        CWL Change of Mileage – Site of Former     0     00    59   14    E     Y    Y    Y     Y     Y   R1   E    E   R1   Prohibited between Builth Road and
-             2   Llandovery Jn                                                                                 R2                 Site of Former Llandovery Jn
-                                                                                                                             R2   Prohibited Llandrindod Down
-                                                                                                                                  platform
-GW910        VOT Site of Former Llandovery Jn –         29    40    18   07    E     Y    Y    Y     Y     Y   N    E    E
-                 Llandeilo
-GW910        LLA   Llandeilo – Pantyffynnon             18    07    10   08    E     Y    Y    Y     Y     Y   N    E    E R1     5mph Ffairfach platform
-                                                                                                                    R1   R1
-GW910        LLA   Pantyffynnon – Morlais Jn            10    08     3   50    E     Y    Y    Y     Y     Y   N    Y    Y
-GW910        LLA   Morlais Jn – Llandeilo Jn            3     50     0   00    E     Y    Y    Y     Y     Y   Y    Y    Y
-GW915        GWA Gwaun-cae-Gurwen – Former Jn           16    41    14   60   N      N    N    N     N     N   N    N    N
-                 (Change of ELR)
-GW915        GNT Former Jn (Change of ELR) –            14    60    10   04   N      N    N    N     N     N   N    N    N
-                 Pantyffynnon
+                                                                                     OFFICIAL
 
 
+                                                               Western Route Sectional Appendix Module WR2
+
+GW660        NEW St Blazey Jn – Newquay                  282    16   302   49    E      N       N    Y   Y   N   N   N   N
+GW672        SDS Burngullow Jn – Drinnick Mill           288    26   291   31   N       N       N    N   N   N   N   N   N
+GW672        SDS Drinnick Mill – Parkandillack           291    31   293   52   N       N       N    N   N   N   N   N   N
+GW680        FAL1 Penwithers Jn – Falmouth               301    25   312   46    E      N       N    Y   Y   N   N   Y   Y
+             -3
+GW690        SIV   St Erth – St Ives                     321    02   325   13    E      N       N    Y   Y   N   N   Y   R1
+GW700        BAG Gloucester Barnwood Jn – Horton          92    21    92   75    E      Y       Y    Y   Y   N   N   Y   Y
+             2   Road Jn
+GW700        SWM Horton Road Jn – Route Boundary         113    61   129   00    E      Y       Y    Y   Y   Y   Y   Y   Y
+             2   Wales
+GW700        SWM Route Boundary Wales – Severn           129    00   149   14    E      Y       Y    Y   Y   Y   Y   Y   Y
+             2   Tunnel Jn
+GW710        NO    Llanwern Works East – Llanwern        153    08   156   03   N       N       N    N   N   N   N   N   N
+             ELR   Works West via BSS (Corus
+                   Infrastructure)
+GW720        EUB Network Rail Boundary (Uskmouth) –       3     07     0   00   N       N       N    N   N   N   N   N   N
+                 East Usk Jn
+GW730        SHL   Severn Bridge Jn – Craven Arms Jn      0     11    20   01    E      R1      R1   Y   Y   Y   Y   Y   Y    R1   Prohibited between Severn Bridge
+                                                                                                                                   Jn and Sutton Bridge Jn
+GW730        SHL   Craven Arms Jn – Shelwick Jn           20    01    49   26    E      Y       Y    Y   Y   Y   Y   Y   Y
+GW730        SHL   Shelwick Jn – Site of former           49    26    52   19    E      Y       Y    Y   Y   Y   Y   Y   Y
+                   Rotherwas Jn
+GW730        HDC Site of former Rotherwas Jn – Site of    0     00     1   74    E      Y       Y    Y   Y   Y   Y   Y   Y
+                 former Red Hill Jn
+GW730        HNL1 Site of former Red Hill Jn – Maindee    1     74    41   66    E      Y       Y    Y   Y   Y   Y   Y   Y
+                  West Jn
+GW731        WSJ Route Boundary (MD801) (Madeley         170    46   171   15    E      N       N    Y   Y   Y   Y   Y   Y
+             2   Jn) – Abbey Foregate Jn
+GW731        WSJ Abbey Foregate Jn – Crewe Jn            171    15   171   57    E      R1      R1   Y   Y   Y   Y   Y   Y    R1   Prohibited between Abbey Foregate
+             2                                                                          R2      R2                                 Jn and Shrewsbury
+                                                                                                                              R2   Prohibited Shrewsbury Station
+                                                                                                                                   Howard Street Landing (Loading
+                                                                                                                                   Dock)
+GW731        WSJ Crewe Jn – Route Boundary               171    57   199   00    E      E       E    Y   Y   Y   Y   Y   Y
+             2   (NW3005) (Wrexham General)
+GW732        AFE   Abbey Foregate Jn – English Bridge     0     25     0   00    E      N       N    Y   Y   Y   Y   Y   Y
+                   Jn (Loop Lines)
+GW733        SBA1 Sutton Bridge Jn – Welshpool            0     00    33   70    E      N       N    Y   Y   Y   Y   Y   Y
+             /2
 
 
-April 2009                                                                    497G
+April 2009                                                                      497C

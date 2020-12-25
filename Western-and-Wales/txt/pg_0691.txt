@@ -1,43 +1,47 @@
-                                                               Western Route Sectional Appendix Module WR2
-
-Line of      ELR Line of Route / Sector                  oooo oooo oooo ooo 121 142 143 150 153 155 156 158 159 Notes
-route            Description                              M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 oooooooooooooooooooooooooo
-GW500        BKE Oxford Road Jn – Southcote Jn            36    67    37   62    E     E    E    Y     E     E   E   E   E
-GW500        BKE Southcote Jn – Route Boundary            37    62    37   76    E     E    E    Y     E     E   E   E   E
-                 (SW125) (Basingstoke)
-GW500        BHL   Southcote Jn – Change of ELR           37    62    81   19    E     E    E    E     N     N   N   E   E
-GW500        SWY Change of ELR – Heywood Road Jn          81    19    94   44    E     E    E    E     E     E   E   E   E
-                 (Change of ELR)
-GW500        WES Heywood Road Jn (Change of ELR) –        94    44    97   02    E     Y    Y    Y     Y     N   N   Y   Y
-                 Fairwood Jn (Change of ELR) (via
-                 Westbury Avoiding Lines)
-GW500        WEY Fairwood Jn (Change of ELR) – Clink     111    18   114   44    E     Y    Y    Y     Y     N   N   Y   Y
-                 Road Jn (Change of ELR)
-GW500        FRA Clink Road Jn (Change of ELR) –         114    44   116   37    E     Y    Y    Y     Y     N   N   Y   Y
-                 Blatchbridge Jn (Change of ELR)
-GW500        WEY Blatchbridge Jn (Change of ELR) –       116    52   129   50    E     Y    Y    Y     Y     N   N   Y   Y
-                 Castle Cary Jn
-GW500        WEY Castle Cary Jn – Route Boundary         129    50   130   00    E     Y    Y    Y     Y     N   N   Y   Y
-                 (SW175) (Yeovil Pen Mill Jn)
-GW500        CCL Castle Cary Jn – Cogload Jn (Down)      115    32   138   30    E     Y    Y    Y     Y     N   N   Y   Y
-GW5001 SAL         Route Boundary (SW170) (Wilton Jn)    115    40   110   07    E     Y    Y    Y     Y     N   N   Y   Y
-                   – Westbury South Jn
-GW510        WEY Westbury North Jn – Bradford Jn         109    49   104   40    E     Y    Y    Y     Y     N   N   Y   Y
-GW510        BFB   Bradford Jn – Bathampton Jn             9    12     0   00    E     Y    Y    Y     Y     N   N   Y   Y
-GW520        WYL Westbury East Loop Jn – Hawkeridge       94    77    95   32    E     Y    Y    Y     Y     N   N   Y   Y
-                 Jn
-GW523        WEY Thingley Jn – Bradford Jn                96    10   104   40    E     Y    Y    Y     Y     N   N   Y   Y
-GW528        BRL   North Somerset Jn – Bristol West Jn     0    00     1   08    E     Y    Y    Y     Y     N   N   Y   Y
-                   via St Philips Marsh
-GW530        BLL   Feeder Bridge Jn – Dr Day’s Jn        117    50   117   73    E     Y    Y    Y     Y     N   N   Y   Y
-                   (Rhubarb Loop)
-GW540        BSW Filton Jn No.1 – Patchway Jn No.2         4    40     5   61    E     Y    Y    Y     Y     N   N   Y   Y
-GW5401 PAC Filton West Jn No.1 – Patchway Jn               0    40     0   00    E     Y    Y    Y     Y     N   N   Y   Y
-           No.1
-GW548        POD/ Parson Street Jn – Network Rail        120    28   126   34   N      N    N    N     N     N   N   N   N
-             PBY boundary (BPC)
+                                                                                   OFFICIAL
 
 
+                                                             Western Route Sectional Appendix Module WR2
+
+Line of      ELR Line of Route / Sector                oooo oooo oooo ooo 121 142 143 150 153 155 156 158 159 Notes
+route            Description                            M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 oooooooooooooooooooooooooo
+GW108        MLN Cogload Jn (Up) – Norton Fitzwarren   158    23   164   60    E      Y       Y   Y   Y    N   N   R1   R1 R1   Prohibited Taunton Down Bay
+             1   Jn (Connection - West Somerset
+                 Railway)
+GW108        MLN Norton Fitzwarren Jn (Connection -    164    40   192   52    E      Y       Y   Y   Y    N   N   Y    Y
+             1   West Somerset Railway) – Cowley
+                 Bridge Jn
+GW108        MLN Cowley Bridge Jn – Exeter St Davids   192    52   194   00    E      Y       Y   Y   Y    N   N   Y    Y
+             1   Jn
+GW108        MLN Exeter St Davids Jn – Newton Abbot    194    00   213   75    E      Y       Y   Y   Y    N   N   Y    Y
+             1   East Jn
+GW108        MLN Newton Abbot East Jn – Newton         213    75   214   43    E      Y       Y   Y   Y    N   N   Y    Y
+             1   Abbot West Jn
+GW108        MLN Newton Abbot West Jn – Tavistock Jn 214      43   242   55    E      Y       Y   Y   Y    N   N   Y    Y
+             1   Yard
+GW108        MLN Tavistock Jn Yard – Laira Jn          242    55   243   67    E      Y       Y   Y   Y    N   N   Y    Y
+             1
+GW108        MLN Laira Jn – Lipson Jn                  243    67   244   35    E      Y       Y   Y   Y    N   N   Y    Y
+             1
+GW108        MLN Lipson Jn – Change of ELR (Site of   244     35   246   15    E      Y       Y   Y   Y    N   N   Y    Y
+             1   Former Devonport Jn / Cornwall Loop)
+GW108        MLN Change of ELR (Site of Former         247    28   250   00    E      Y       Y   Y   Y    N   N   Y    Y
+             2   Devonport Jn / Cornwall Loop) – St
+                 Budeaux Jn
+GW108        MLN St Budeaux Jn – Change of ELR         250    00   256   38    E      Y       Y   Y   Y    N   N   Y    Y
+             2
+GW108        MLN Change of ELR – Liskeard Jn           256    40   264   66    E      Y       Y   Y   Y    N   N   Y    Y
+             3
+GW108        MLN Liskeard Jn – Lostwithiel Jn          264    66   277   54    E      Y       Y   Y   Y    N   N   Y    Y
+             3
+GW108        MLN Lostwithiel Jn – Par Loop Jn          277    54   281   57    E      Y       Y   Y   Y    N   N   Y    Y
+             3
+GW108        MLN Par Loop Jn – Burngullow Jn           281    57   288   26    E      Y       Y   Y   Y    N   N   Y    Y
+             3
+GW108        MLN Burngullow Jn – Penwithers Jn         288    26   301   25    E      Y       Y   Y   Y    N   N   Y    Y
+             3
+GW108        MLN Penwithers Jn – Change of ELR         301    25   305   65    E      Y       Y   Y   Y    N   N   Y    Y
+             3
 
 
-April 2009                                                                       497
+April 2009                                                                     493

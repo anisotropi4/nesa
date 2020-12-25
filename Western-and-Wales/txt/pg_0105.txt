@@ -1,69 +1,37 @@
+                                                         OFFICIAL
+
+
 Western Route Sectional Appendix Module WR1
 
 
 
 
-     Trainborne equipment - fitted to the trains described above - through which the Driver, provided he has performed the
-     appropriate ATP set-up, receives information relating to the maximum permitted speed of the train.
-4.   Principles of operation
+INTERMEDIATE SIDINGS AT WHICH TRAINS MAY BE
+SHUNTED FOR OTHER TRAINS TO PASS
+Trains may be shunted for other trains to pass at all intermediate sidings connected to lines worked in accordance with the
+Track Circuit Block System or ERTMS Level 2.
+The following is a list of intermediate sidings connected to lines worked by other than the Track Circuit Block System or
+ERTMS Level 2, at which trains may be shunted for other trains to pass:
+Name of Siding(s)                    Situated at or               Line connected      Method of Control
+                                     between                      with
 
-     ATP is a “fail safe” system which, providing the correct data has been entered into the trainborne equipment, will
-     correctly supervise the speed of the train.
+GW454 – Severn Beach to Narroways Hill Jn
+SERC Waste Disposal Terminal         Severn Beach and             Up / Down Main      SERC Ground Frame
+                                     Holesmouth Junction          Single              released from St. Andrews
+                                                                                      Junction SB
+GW730. Severn Bridge Jn to Maindee West Jn
+Tarmac                               Bayston Hill (Sutton         Down Main           Ground frame released
+                                     Bridge Jn. and                                   from Sutton Bridge Jn SB
+                                     Dorrington)
+GW731. Abbey Foregate to Ruabon
+Shell Mex & BP                       Baschurch and                Down                Ground frame released
+                                     Gobowen                                          from Gobowen SB
+Kronospan                            Chirk                        Up Main             Ground frame released
+                                                                                      from Croes Newydd SB
 
-     Full Supervision by ATP is obtained on ATP fitted lines where the on-train equipment measures the actual speed of
-     the train and compares this to a target speed. A target speed is calculated by the on-train computer based on
-     permissible line speed, the condition of the line ahead as indicated by fixed signals, buffer stops, any temporary
-     speed restriction imposed, together with the maximum permitted speed of the train.
-
-     When necessary ATP will provide a warning to Drivers of the need to reduce their speed. If the train speed is not
-     reduced sufficiently, ATP will intervene and brake the train to match the target speed.
-
-     Where track equipment is not available, or unable to update the target information, the trainborne ATP will operate in
-     Partial Supervision Mode, supervising to the maximum train speed only.
-
-     If it is necessary for a train to pass a signal at Danger or to undertake shunting movements or make an unsignalled
-     wrong direction movement, the Driver must select either Pass Stop Signal (“PSS”) or “Shunting” mode as
-     appropriate.
-
-     When it is necessary to pass two or more consecutive signals at danger (e.g. Temporary Block Working or Single Line
-     Working), the Driver must carry out Temporary Isolation of ATP. The equipment must be switched in again whilst
-     the train is stationary at the last signal affected.
-
-     Where an emergency speed restriction (ESR) is imposed, full supervision will not be immediately available until the
-     “speed plugs” for the track equipment have been altered. During this period (usually 48 hours or less), ATP will
-     initiate a brake application (which should be cancelled) and an “ESR” indication will appear in the cab display main
-     window. This warning will remain in the cab display until the first signal after the end of the ESR. The ESR will not be
-     supervised but any other restrictive or stop signal encountered during the ESR will be supervised.
-
-     ATP acts on the information received at the previous beacon or loop. Should the signal aspect change after the train
-     has passed over the last loop or beacon, the display in the main window will not be updated.
-
-     ATP acts as an additional safety aid to Drivers and does NOT relieve them of their general responsibility laid
-     down in the Rule Book to observe fixed and hand signals, and regulate their speed accordingly.
-5.   Operating modes
-
-     ATP has seven modes of operation, defined as follows:-
-
-     Self Test               An automatic, computer-driven test of the trainborne ATP equipment.
-     Data Entry              The setting up of trainborne ATP equipment to input the individual
-                             characteristics of the train.
-     Full Supervision        Provides supervision of train speed to within the braking curve for
-                             conditions which exist ahead (restrictive signals, buffer stops, speed
-                             changes etc.), also protects against trains rolling away.
-     Partial Supervision     Available providing Data Entry has been properly carried out, but where
-                             track data is not provided. Also applies when it is necessary to pass a
-                             signal at danger, enter an occupied section, make a reversal or after a
-                             recoverable fault.
-     Shunt                   Used for slow speed movements, especially where train formation is likely
-                             to vary. Train speed is supervised to 20 mph.
-     Temporary Isolation     Used when passing consecutive signals at danger, also when assisting a
-                             failed train.
-     Non-Recoverable         Will require the train borne equipment to be completely isolated
-     Fault (“Fxx”)
-     Recoverable Fault       Temporary removal of Full Supervision pending detection of correct lineside
-     (“Exx”)                 data.
+                                                                                   Western Route GI - Dated: 09/04/16
 
 
 
 
-April 2009                                                    67
+April 2009                                                   65

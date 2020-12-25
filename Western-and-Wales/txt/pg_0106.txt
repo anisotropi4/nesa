@@ -1,74 +1,67 @@
+                                                           OFFICIAL
+
+
 Western Route Sectional Appendix Module WR1
-6.     Faults and failures – categories
 
-       Failures of the ATP system are categorised into three levels. These are:-
 
-       Level 1                     “Wrong Side” failure where no speed target is displayed under restrictive
-                                   circumstances, or where the target speed displayed is higher than it should be, or
-                                   where a “SPD” indication shows in the main cab display window when approaching a
-                                   signal displaying a proceed aspect.
-       Level 2                     “Right Side” failures - non recoverable fault affecting trainborne equipment. These are
-                                   identified by an alpha-numeric code in the main cab display window.
-       Level 3                     “Right Side” - recoverable failures of lineside equipment identified by an alpha-numeric
-                                   code in the main cab display window.
-                                   (see Driver’s Manual for full explanation of fault codes).
 
-7.     Faults and failures - immediate actions
 
-       In the event of any fault or failure being apparent affecting ATP equipment, suitable action must be taken as shown in
-       the following table. All concerned must ensure that the correct FAULT CATEGORY, as defined in Clause 6, is quoted
-       on each occasion.
-     LEVEL 1                                                    LEVEL 2                      LEVEL 3
-     WRONG SIDE FAILURE                                         RIGHT SIDE -                 RIGHT SIDE -RECOVERABLE
-                                                                NON-RECOVERABLE
-     Driver stops train at next practicable signal.             Driver stops train at        Driver need NOT report the fault
-                                                                next practicable             when a notice has been issued
-     Driver isolates ATP if fault is non recoverable            location.                    about disconnection or known
-                                                                                             failure of ATP lineside equipment at
-     Driver tells Signaller.                                    Driver isolates ATP.         that location.
+LINES EQUIPPED WITH AUTOMATIC TRAIN
+PROTECTION
+NOTE: These instructions do NOT apply to ERTMS Level 2 lines.
+1.Scope
 
-     Signaller informs Operations Control and Control.                                       Driver should only tell the Signaller
-                                                                Driver tells Signaller.      if delay has been incurred or if the
-     Operations Control informs the appropriate TOC                                          fault occurs in the tunnel section of
-     Control(s) and Control.                                    Signaller tells              the Heathrow Branch.
-                                                                Operations Control.
-     Signaller tells Drivers of all subsequent ATP-fitted
-     trains what has happened and instructs them to             Operations Control tells
-     disregard the ATP indications in the area                  the appropriate TOC
-     concerned.* Signaller continues doing this until ATP       Control.
-     track equipment has been reported in order.
-* Signallers must treat all FGW HSTs and Class 180s plus all EMU trains as “ATP-fitted for the purposes of this
-instruction.
-Faults and failures affecting ATP equipment must be reported fully and promptly. Failure to do so may cause essential
-equipment performance data to be lost. Reporting of LEVEL 1 faults to the Signaller ensures that subsequent Drivers are
-told that the ATP may be unreliable at a specific location. It will also ensure that the on-train equipment is investigated
-without delay.
-8.     Faults and failures - subsequent actions
+These Instructions apply to all lines shown in Table A of this Appendix as fitted with ATP track equipment, which are
+broadly defined as follows:
+     •     Paddington, platforms 1-12 and 14
+     •     Paddington to Kensal Green, Lines 1-6
+     •     Kensal Green to Bristol TM East Junction, Main lines
+     •     Kensal Green to Heathrow Airport Junction, Relief lines
+     •     Heathrow Airport branch
+     •     Reading (Westbury Line Jn) to Newbury / Ufton
+     •     Wootton Bassett Junction to Stoke Gifford East.
+     ATP trainborne equipment is fitted to:
+           •   All Class 332/360 EMU trains
+           •   All Class 180 DMU trains
+           •   Most Class 253/ 254 (HST) trains that operate on the routes concerned
+           •   IEP Class 80x
+These Instructions apply equally to all classes of ATP-fitted train regardless of Train Operator except where stated
+otherwise.
+2.   General
 
-       Drivers must complete an ATP Report Form at the end of the journey (or when relieved if sooner) as shown below,
-       whether or not they had previously reported the fault verbally as instructed in Clause 7.
-                  LEVEL 1                                   LEVEL 2                                         LEVEL 3
-          WRONG SIDE FAILURE                RIGHT SIDE - NON-RECOVERABLE                  RIGHT SIDE -RECOVERABLE
-     Driver continues journey and           Driver continues journey and                  Driver continues journey and completes
-     completes written fault report at      completes written fault report form at        written fault report form at the end of the
-     the end of the journey or when         the end of the journey or when                journey or when relieved.
-     relieved.                              relieved.
-                                                                                          Driver faxes completed form direct to
-     Driver faxes completed form direct      Driver deals with completed form as          Network Rail Operations Control.
-     to Network Rail Operations              per TOC instructions.
-     Control.                                                                             Operations Control follows up fault as
-                                             TOC follows up fault as necessary.
-                                                                                          necessary with Control and, if the fault
-     Operations Control follows up
-                                                                                          persists, issues a suitable Notice with the
-     fault as necessary with Control.
-                                                                                          details.
-9.     Speed Restrictions
+     ATP is an additional safety system, which must be used at all times by Drivers of ATP-fitted trains* when operating
+     over the lines defined above. Trains not fitted with ATP may use ATP fitted lines without restriction, subject to any
+     relevant conditions that may be imposed under Vehicle Acceptance certification processes.
 
-       (a) Temporary Speed Restrictions
+     NOTE * - Classes 165 and 168 trains fitted with Chiltern Lines ATP, which is technically incompatible, are not “ATP-
+     fitted” for the purposes of these Instructions.
 
-       When a temporary speed restriction (TSR) is imposed, the ATP track equipment will be adjusted so as to provide full
-       supervision of speed to accord with the restriction. This adjustment must be made at the same time as the lineside
-       equipment and other arrangements are introduced as set out in the Rule Book.
+     ATP-fitted trains must not enter service with ATP equipment inoperative in any driving cab that requires to be used,
+     unless the train concerned can operate entirely away from ATP-fitted lines until the fault has been rectified$. Should
+     ATP equipment become inoperative on a train in service on an ATP-fitted line, the train must be taken out of service
+     in accordance with the Contingency Plan agreed between Network Rail and the TOC concerned.
 
-April 2009                                                        68
+     NOTE $ - By prior arrangement with Network Rail, empty Heathrow Express trains may operate occasional empty
+     journeys outside of normal traffic hours with ATP isolated for Driver training purposes.
+
+     All Rules, Regulations and other Instructions continue to apply in the same way as for lines not fitted with ATP
+     equipment, but additional Instructions as shown herein apply in respect of Temporary and Emergency Speed
+     Restrictions.
+
+     Partial ATP supervision is provided for any train on which the ATP equipment has been set up, whether or not the line
+     is ATP fitted.
+3.   Description of the system
+
+     ATP consists of two elements :-
+
+     Track equipment - fitted to the lines described above - which updates the trainborne equipment with information
+     regarding the line conditions ahead. It consists of beacons and loops of varying lengths, positioned in the four-foot of
+     the line to which they apply, on the approach to fixed signals, permissible speed changes and (in some cases) buffer
+     stops.
+
+     and
+
+
+
+
+April 2009                                                    66

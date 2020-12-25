@@ -1,42 +1,47 @@
-                                                            Western Route Sectional Appendix Module WR2
-
-GW672 SDS     Drinnick Mill – Parkandillack           291    31   293    52   N      N    N   N    N   N    N   N   N   N   N
-GW680 FAL1-3 Penwithers Jn – Falmouth                 301    25   312    46   N      N    N   N    N   N    N   N   N   N   N
-GW690 SIV     St Erth – St Ives                       321    02   325    13   N      N    N   N    N   N    N   N   N   N   N
-GW700 BAG2 Gloucester Barnwood Jn – Horton             92    21    92    75   E      Y    N   Y    N   R1   Y   Y   Y   Y   N R1     Route prohibited to Class 172/0
-           Road Jn                                                                                                                   and 172/1
-GW700 SWM2 Horton Road Jn – Route Boundary            113    61   129    00   E      Y    N   Y    N   R2   Y   Y   Y   Y   N R1     Prohibited between Gloucester
-           Wales                                                              R1                       R3                            and Route Boundary Wales
-                                                                                                                                R2   Route prohibited to Class 172/0
-                                                                                                                                     and 172/1
-                                                                                                                                R3   Prohibited between Gloucester
-                                                                                                                                     West Jn and Route Boundary
-                                                                                                                                     Wales
-GW700 SWM2 Route Boundary Wales – Severn              129    00   149    14   N      Y    N   Y    N   N    Y   Y   Y   Y   N
-           Tunnel Jn
-GW710 NO      Llanwern Works East – Llanwern          153    08   156    03   N      N    N   N    N   N    N   N   N   N   N
-      ELR     Works West via BSS (Corus
-              Infrastructure)
-GW720 EUB     Network Rail Boundary (Uskmouth) –       3     07     0    00   N      N    N   N    N   N    N   N   N   N   N
-              East Usk Jn
-GW730 SHL     Severn Bridge Jn – Craven Arms Jn        0     11    20    01   N      N    N   R1   N   N    Y   Y   N   N   N R1     Prohibited between Sutton Bridge
-                                                                                                                                     Jn and Craven Arms Jn
-GW730 SHL     Craven Arms Jn – Shelwick Jn             20    01    49    26   N      N    N   N    N   N    Y   Y   N   N   N
-GW730 SHL     Shelwick Jn – Site of former             49    26    52    19   R1     R1   N   R2   N   R2   Y   Y   Y   Y   N R1     Prohibited between Hereford
-              Rotherwas Jn                                                                             R3                            Diesel Depot sidings and Site of
-                                                                                                                                     Former Rotherwas Jn
-                                                                                                                                R2   Class 172/2 and 172/3 prohibited
-                                                                                                                                     between Hereford Station and
-                                                                                                                                     Site of former Rotherwas Jn
-                                                                                                                                R3   Route prohibited to Class 172/1
-GW730 HDC     Site of former Rotherwas Jn – Site of    0     00     1    74   N      N    N   N    N   N    Y   Y   Y   Y   N
-              former Red Hill Jn
-GW730 HNL1    Site of former Red Hill Jn – Maindee     1     74    41    66   N      N    N   R1   N   N    Y   Y   Y   Y   N R1     Prohibited between Site of former
-              West Jn                                                                                                                Red Hill Jn and Maindee North Jn
-GW731 WSJ2 Route Boundary (MD801) (Madeley            170    46   171    15   N      N    Y   Y    N   N    Y   N   N   Y   N
-           Jn) – Abbey Foregate Jn
+                                                                             OFFICIAL
 
 
+                                                           Western Route Sectional Appendix Module WR2
+
+GW310 OWW Wolvercot Jn – Norton Jn                    66    32   117    26    Y     Y   N   N   N   N    Y   Y   Y   Y   N
+GW317 OWW Honeybourne Stratford Line Junction – 102         06   101    31    N     N   N   N   N   N    N   N   N   N   N
+          Start of branch mileage
+GW317 STD     Start of branch mileage – Long          0     00     2    70    N     N   N   N   N   N    N   N   N   N   N
+              Marston
+GW340 WAH     Shrub Hill Jn – Henwick SB (Branch     120    46   121    65    Y     Y   N   Y   N   R1   Y   Y   Y   Y   N R1     Route prohibited to Class 172/1
+              Single)
+GW340 WAH     Henwick SB – Shelwick Jn               121    65   148    11    Y     Y   N   Y   N   R1   Y   Y   Y   Y   N R1     Route prohibited to Class 172/1
+GW350 BLW     Worcester Tunnel Jn – Site of former    0     30     0    00    Y     Y   N   Y   N   R1   N   N   Y   Y   N R1     Route prohibited to Class 172/1
+              Rainbow Hill Jn Change of ELR
+GW350 WAH     Site of former Rainbow Hill Jn Change 120     64   121    65    Y     Y   N   Y   N   R1   N   Y   Y   Y   N R1     Route prohibited to Class 172/1
+              of ELR – Henwick SB (Droitwich
+              Single)
+GW370 OWW Droitwich Spa – Route Boundary             126    21   130    40    Y     Y   N   Y   N   R1   N   N   Y   Y   N R1     Route prohibited to Class 172/1
+          (MD430) (Kidderminster)
+GW401 BAG2 Route Boundary (MD306) (Ashchurch)         77    40    92    21   E      Y   N   Y   N   R4   Y   Y   Y   Y   N R1     10mph Ashchurch Up platform
+           – Gloucester Barnwood Jn (Change of                               R1                                            R2     20mph Cheltenham Spa Down
+           ELR)                                                              R2                                                   platform
+                                                                             R3                                              R3   Route prohibited to Class 165/0
+                                                                                                                             R4   Route prohibited to Class 172/0
+                                                                                                                                  and 172/1
+GW401 CHL     Gloucester Barnwood Jn (Change of       92    21    93    08   E      Y   N   Y   N   N    Y   Y   Y   Y   N R1     Route prohibited to Class 165/0
+              ELR) – Gloucester Yard Jn (Change                              R1
+              of ELR)
+GW401 BGL1    Gloucester Yard Jn (Change of ELR)      93    08    94    10   E      Y   N   Y   N   N    Y   Y   Y   Y   N R1     Route prohibited to Class 165/0
+              – Change of ELR                                                R1
+GW401 BGL2    Change of ELR – Standish Jn             94    60    99    69   E      Y   N   Y   N   N    Y   Y   Y   Y   N R1     Route prohibited to Class 165/0
+                                                                             R1
+GW401 BGL2    Standish Jn – Yate South Jn (Change     99    69   120    03    N     Y   N   Y   N   N    Y   Y   Y   Y   N
+              of ELR)
+GW401 YAT     Yate South Jn (Change of ELR) –        120    03   121    28    N     Y   N   Y   N   N    Y   Y   Y   Y   N
+              Westerleigh Jn
+GW425 SAW/S Berkeley Road Jn – Sharpness              0     04     3    69    N     N   N   N   N   N    N   N   N   N   N
+      SS    (Network Rail Boundary)
+GW430 THO     Yate Middle Jn – Tytherington           0     00     6    24    N     N   N   N   N   N    N   N   N   N   N
+GW440 BGL2    Yate South Jn – Westerleigh Yard       120    03   122    65    N     N   N   N   N   N    N   N   N   N   N
+GW450 FEC     Stoke Gifford Jn No.1 – Change of      111    79   113    01    Y     Y   N   Y   N   N    Y   Y   Y   Y   N
+              ELR
+GW450 BSW     Change of ELR – Bristol East Jn         4     50     0    26    Y     Y   N   Y   N   N    Y   Y   Y   Y   N
 
 
-April 2009                                                                    498I
+April 2009                                                                   498E

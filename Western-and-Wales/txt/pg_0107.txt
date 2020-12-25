@@ -1,70 +1,72 @@
+                                                          OFFICIAL
+
+
 Western Route Sectional Appendix Module WR1
 
 
 
-     (b) Emergency Speed Restrictions
 
-    When it is necessary for an emergency speed restriction (ESR) to be imposed on an ATP-fitted line, the appropriate
-    Control will, unless the ESR is caused by non-removal of a TSR at the published time, arrange for lineside ATP
-    control equipment to be adjusted.
+     Trainborne equipment - fitted to the trains described above - through which the Driver, provided he has performed the
+     appropriate ATP set-up, receives information relating to the maximum permitted speed of the train.
+4.   Principles of operation
 
-    This adjustment to the equipment will be in two phases :-
+     ATP is a “fail safe” system which, providing the correct data has been entered into the trainborne equipment, will
+     correctly supervise the speed of the train.
 
-    (i) The Maintainer must immediately arrange to adjust the ATP track equipment. This involves inserting an ESR
-    “plug” so that all ATP-fitted trains approaching the restriction will receive an immediately-recoverable emergency
-    brake application, together with an “ESR” indication in the main cab display window. In these circumstances the
-    target speed will be extinguished until the train has passed beyond the affected area. Supervision will however be
-    maintained in respect of signal aspects, PSRs etc.
+     Full Supervision by ATP is obtained on ATP fitted lines where the on-train equipment measures the actual speed of
+     the train and compares this to a target speed. A target speed is calculated by the on-train computer based on
+     permissible line speed, the condition of the line ahead as indicated by fixed signals, buffer stops, any temporary
+     speed restriction imposed, together with the maximum permitted speed of the train.
 
-    The Technician making the adjustment must advise Control immediately the above first-phase adjustment has been
-    completed.
+     When necessary ATP will provide a warning to Drivers of the need to reduce their speed. If the train speed is not
+     reduced sufficiently, ATP will intervene and brake the train to match the target speed.
 
-    (ii) If the Emergency Speed Restriction is likely to continue for more than a few hours, Control must arrange
-    production of TSR type ‘speed plugs’ which will provide the necessary speed supervision in respect of the ESR.
+     Where track equipment is not available, or unable to update the target information, the trainborne ATP will operate in
+     Partial Supervision Mode, supervising to the maximum train speed only.
 
-    This second-phase adjustment to the ATP equipment must be carried out as quickly as possible. The Technician
-    making the adjustment must advise Control when this is done.
+     If it is necessary for a train to pass a signal at Danger or to undertake shunting movements or make an unsignalled
+     wrong direction movement, the Driver must select either Pass Stop Signal (“PSS”) or “Shunting” mode as
+     appropriate.
 
-    Due to technical constraints, only one ‘speed plug’ per signal can be installed at a time and each plug can only be
-    programmed to show one speed value. Therefore if an emergency speed restriction needs to be imposed which
-    affects any section(s) already ‘plugged’ for a supervised TSR or ESR, the equipment will usually need to be adjusted
-    so that Drivers receive “ESR” indications to cover both restrictions.
-    (iii) Signallers will be advised by Control when an ATP-fitted service is running on ATP-fitted lines with AWS
-    equipment isolated. In these circumstances the signaller must stop and caution such a train until the ATP ESR
-    equipment has been adjusted.
-    Work affecting track equipment
-    ATP track equipment is susceptible to damage if treated roughly. All staff either working or walking on or near the line
-    must take care not to displace, damage or otherwise interfere with ATP equipment.
-    Engineering personnel have separately issued instructions covering the planning and carrying out of work on ATP
-    fitted lines.If ATP track equipment requires to be out of use or temporarily unavailable due to engineering work,
-    Drivers will be advised either by an item in the Weekly Operating Notice or by other suitable written notice.
-                                                                                  Western Route GI - Dated: 26/08/17
+     When it is necessary to pass two or more consecutive signals at danger (e.g. Temporary Block Working or Single Line
+     Working), the Driver must carry out Temporary Isolation of ATP. The equipment must be switched in again whilst
+     the train is stationary at the last signal affected.
 
-     LINES EQUIPPED WITH AXLE COUNTERS
-     Axle counters are used instead of continuous track circuits to detect trains over whole or part of the following sections
-     (on all lines unless stated otherwise):
-     GW103. Paddington to Uffington
-     Stockley Bridge Junction and Uffington
-     GW105 Uffington to Fordgate
-     Uffington and Flax Bourton
-     Down Main to 125m 40ch
-     Up Main to 124m 43ch
-     Uffington and Thingley Junction Flax Bourton
-     Down Main to 125m 40ch
-     Up Main from 124m 43ch
-     GW108. Fordgate to Penzance
-     Powderham and Dawlish Warren
-     Dawlish Warren and Teignmouth
-     St. Germans and Liskeard
-     Liskeard and Lostwithiel
-     Par and Truro
-     Long Rock and Penzance (Single)
-     GW110. Old Oak Common West to South Ruislip (excl)
-     Greenford West Jn and South Ruislip (Single)
-     GW182. West Drayton to Colnbrook
-     Throughout
+     Where an emergency speed restriction (ESR) is imposed, full supervision will not be immediately available until the
+     “speed plugs” for the track equipment have been altered. During this period (usually 48 hours or less), ATP will
+     initiate a brake application (which should be cancelled) and an “ESR” indication will appear in the cab display main
+     window. This warning will remain in the cab display until the first signal after the end of the ESR. The ESR will not be
+     supervised but any other restrictive or stop signal encountered during the ESR will be supervised.
 
+     ATP acts on the information received at the previous beacon or loop. Should the signal aspect change after the train
+     has passed over the last loop or beacon, the display in the main window will not be updated.
+
+     ATP acts as an additional safety aid to Drivers and does NOT relieve them of their general responsibility laid
+     down in the Rule Book to observe fixed and hand signals, and regulate their speed accordingly.
+5.   Operating modes
+
+     ATP has seven modes of operation, defined as follows:-
+
+     Self Test               An automatic, computer-driven test of the trainborne ATP equipment.
+     Data Entry              The setting up of trainborne ATP equipment to input the individual
+                             characteristics of the train.
+     Full Supervision        Provides supervision of train speed to within the braking curve for
+                             conditions which exist ahead (restrictive signals, buffer stops, speed
+                             changes etc.), also protects against trains rolling away.
+     Partial Supervision     Available providing Data Entry has been properly carried out, but where
+                             track data is not provided. Also applies when it is necessary to pass a
+                             signal at danger, enter an occupied section, make a reversal or after a
+                             recoverable fault.
+     Shunt                   Used for slow speed movements, especially where train formation is likely
+                             to vary. Train speed is supervised to 20 mph.
+     Temporary Isolation     Used when passing consecutive signals at danger, also when assisting a
+                             failed train.
+     Non-Recoverable         Will require the train borne equipment to be completely isolated
+     Fault (“Fxx”)
+     Recoverable Fault       Temporary removal of Full Supervision pending detection of correct lineside
+     (“Exx”)                 data.
 
 
 
-April 2009                                                    69
+
+April 2009                                                    67

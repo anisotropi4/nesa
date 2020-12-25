@@ -1,44 +1,46 @@
+                                                                                     OFFICIAL
+
+
                                                                Western Route Sectional Appendix Module WR2
 
-GW733        SBA2 Welshpool – Aberystwyth                 33    70    95   60    E     N    N    Y     Y     Y   Y   Y   Y
-GW734        DJP   Dovey Jn – Pwllheli                    78    60   132   70    E     N    N    Y     Y     Y   Y   Y   Y
-GW735        SYC Crewe Jn – Route Boundary                32    29     2   60    E     N    N    Y     Y     Y   Y   Y   Y
-                 (NW1007) (Limit of Electrification)
-GW736        GNQ Gobowen South – Commencement of          0     00     0   16   N      N    N    N     N     N   N   N   N
-             1   single line board
-GW740        MAI   Maindee East Jn – Maindee North Jn     41    65    41   33    E     Y    Y    Y     Y     Y   Y   Y   Y
-GW750        BNC Hereford Yard Jn – Brecon Curve Jn       0     00     0   19   N      N    N    N     N     N   N   N   N
-GW750        HNL2 Brecon Curve Jn – MEB Siding           149    44   149   78   N      N    N    N     N     N   N   N   N
-GW770        EBW Ebbw Vale Parkway – Site of Former       18    45    14   23    E     R1   R1   Y     Y     Y   N   Y   Y   R1   Permitted to assist a failed train /
-                 Aberbeeg Jn                                                                                                      contingency use only
-GW770        WVL Site of Former Aberbeeg Jn – Park Jn     14    23     1   02    E     R1   R1   Y     Y     Y   N   Y   Y   R1   Permitted to assist a failed train /
-                                                                                                                                  contingency use only
-GW770        GAE Park Jn – Gaer Jn (Western Valley       160    24   159   33   N      N    N    Y     Y     Y   N   Y   Y
-                 Line)
-GW773        BJR   Machen Quarry – Site of Former         4     69     0   00   N      N    N    N     N     N   N   N   N
-                   Bassaleg Jn
-GW773        WVL Site of Former Bassaleg Jn – Park Jn     2     05     1   10   N      N    N    N     N     N   N   N   N
-                 (Machen Branch)
-GW780        WVL Park Jn – Park Jn SB                     1     02     0   74    E     R1   R1   Y     Y     Y   N   Y   Y   R1   Permitted to assist a failed train /
-                                                                                                                                  contingency use only
-GW780        NWN Park Jn SB – Ebbw Jn                     0     54     0   00    E     R1   R1   Y     Y     Y   N   Y   Y   R1   Permitted to assist a failed train /
-                                                                                                                                  contingency use only
-GW784        NLL   Alexandra Dock Jn – Network Rail      159    60   160   27   N      N    N    N     N     N   N   N   N
-                   Boundary (Newport Docks)
-GW790        ROC Pengam Jn – Change of ELR               168    20   168   61   N      N    N    N     N     N   N   N   N
-GW790        ROA Change of ELR – Network Rail             3     41     4   54   N      N    N    N     N     N   N   N   N
-                 Boundary (ABP Cardiff Docks)
-GW810        CAR End of Line (Rhymney) – Ystrad           24    00    13   41    E     Y    Y    Y     Y     Y   Y   Y   Y
-                 Mynach South Jn
-GW810        CAR Ystrad Mynach South Jn – Heath Jn        13    41     3   32    E     Y    Y    Y     Y     Y   Y   Y   Y
-GW810        CAR Heath Jn – Cardiff Queen Street North    3     32     1   22    E     Y    Y    Y     Y     Y   Y   Y   Y
+Line of      ELR Line of Route / Sector                  oooo oooo oooo ooo 121 142 143 150 153 155 156 158 159 Notes
+route            Description                              M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 oooooooooooooooooooooooooo
+GW500        BKE Oxford Road Jn – Southcote Jn            36    67    37   62    E      E       E   Y   E    E   E   E   E
+GW500        BKE Southcote Jn – Route Boundary            37    62    37   76    E      E       E   Y   E    E   E   E   E
+                 (SW125) (Basingstoke)
+GW500        BHL   Southcote Jn – Change of ELR           37    62    81   19    E      E       E   E   N    N   N   E   E
+GW500        SWY Change of ELR – Heywood Road Jn          81    19    94   44    E      E       E   E   E    E   E   E   E
+                 (Change of ELR)
+GW500        WES Heywood Road Jn (Change of ELR) –        94    44    97   02    E      Y       Y   Y   Y    N   N   Y   Y
+                 Fairwood Jn (Change of ELR) (via
+                 Westbury Avoiding Lines)
+GW500        WEY Fairwood Jn (Change of ELR) – Clink     111    18   114   44    E      Y       Y   Y   Y    N   N   Y   Y
+                 Road Jn (Change of ELR)
+GW500        FRA Clink Road Jn (Change of ELR) –         114    44   116   37    E      Y       Y   Y   Y    N   N   Y   Y
+                 Blatchbridge Jn (Change of ELR)
+GW500        WEY Blatchbridge Jn (Change of ELR) –       116    52   129   50    E      Y       Y   Y   Y    N   N   Y   Y
+                 Castle Cary Jn
+GW500        WEY Castle Cary Jn – Route Boundary         129    50   130   00    E      Y       Y   Y   Y    N   N   Y   Y
+                 (SW175) (Yeovil Pen Mill Jn)
+GW500        CCL Castle Cary Jn – Cogload Jn (Down)      115    32   138   30    E      Y       Y   Y   Y    N   N   Y   Y
+GW5001 SAL         Route Boundary (SW170) (Wilton Jn)    115    40   110   07    E      Y       Y   Y   Y    N   N   Y   Y
+                   – Westbury South Jn
+GW510        WEY Westbury North Jn – Bradford Jn         109    49   104   40    E      Y       Y   Y   Y    N   N   Y   Y
+GW510        BFB   Bradford Jn – Bathampton Jn             9    12     0   00    E      Y       Y   Y   Y    N   N   Y   Y
+GW520        WYL Westbury East Loop Jn – Hawkeridge       94    77    95   32    E      Y       Y   Y   Y    N   N   Y   Y
                  Jn
-GW820        TBD Network Rail Boundary                    19    59    13   53   N      N    N    N     N     N   N   N   N
-                 (Cwmbargoed) – Site of Former Taff
-                 Bargoed Branch Jn
-GW820        VON Site of Former Taff Bargoed Branch       13    53    12   41   N      N    N    N     N     N   N   N   N
-                 Jn – Site of Former Penallta Jn
+GW523        WEY Thingley Jn – Bradford Jn                96    10   104   40    E      Y       Y   Y   Y    N   N   Y   Y
+GW528        BRL   North Somerset Jn – Bristol West Jn     0    00     1   08    E      Y       Y   Y   Y    N   N   Y   Y
+                   via St Philips Marsh
+GW530        BLL   Feeder Bridge Jn – Dr Day’s Jn        117    50   117   73    E      Y       Y   Y   Y    N   N   Y   Y
+                   (Rhubarb Loop)
+GW540        BSW Filton Jn No.1 – Patchway Jn No.2         4    40     5   61    E      Y       Y   Y   Y    N   N   Y   Y
+GW5401 PAC Filton West Jn No.1 – Patchway Jn               0    40     0   00    E      Y       Y   Y   Y    N   N   Y   Y
+           No.1
+GW548        POD/ Parson Street Jn – Network Rail        120    28   126   34   N       N       N   N   N    N   N   N   N
+             PBY boundary (BPC)
 
 
 
-April 2009                                                                      497D
+
+April 2009                                                                       497
