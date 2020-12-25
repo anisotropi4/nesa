@@ -1,42 +1,61 @@
-                                                                 LNW North Route Sectional Appendix Module NWRC
+                                                            OFFICIAL
+
+
+LNW North Route Sectional Appendix Module NWF
 
 
 
-Line of ELR    Line of Route / Sector Description oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159 Notes
-route                                              M Ch M Ch              0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-NW1021 DSE     Earlestown East Jn - Newton-le-Willows      14    75   16    19   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-               Jn (Electrified section)
-NW1021 NGJ     Newton-le-Willows Jn – Golborne Jn            0   00     0   53   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW1023 HOB2    Haydock Branch Jn – End of Line               0   00     0   53   N    N       N   N   N    N      N   N   N   N
-NW1025 IMG     Bamfurlong Sidings Jn – Ince Moss Jn          0   18     0   78   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW1027 PSR1    Preston South Jn – Preston Docks            21    39   21    47   N    N       N   N   N    N      N   N   N   N
-               Branch (Change of ELR)
-NW1027 PSR2    Preston Docks Branch (Change of ELR) –        0   00     0   40   N    N       N   N   N    N      N   N   N   N
-               Network Rail Boundary (Ribble Steam
-               Railway)
-NW2001 WJL1    NW1001 (Weaver Jn) – Ditton East Jn         174   53   182   67   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2001 WJL2    Ditton East Jn – Speke East Jn              182   67   186   72   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2001 WJL3    Speke Est Jn – Edge Hill East Jn            186   72   191   75   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2001 WJL4    Edge Hill East Jn – Liverpool Lime Street   191   75   193   52   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2003 RDB     Runcorn – Network Rail Boundary               0   02     0   69   N    N       N   N   N    N      N   N   N   N
-               (Runcorn Dock Branch)
-NW2005 SCR     Speke East Jn – Garston Jn                  22    59   23    52   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2007 AEG     Allerton East Jn – Garston Jn                 0   00     0   28   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2009 SDJ2    End of Line (Latchford) – Ditton East Jn    10    06   18    55   N    N       N   N   N    N      N   N   N   N
-NW2011 WOA1 Walton Old Jn – Arpley Jn                        0   68     0   00   N    N       N   N   N    N      N   N   N   N
-NW2015 DSE     Ordsall Lane Jn – Newton-le-Willows Jn      30    38   16    19   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2015 DSE     Newton-le-Willows Jn - Earlestown East      16    19   14    75   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-               Jn (Electrified section)
-NW2015 DSE     Earlestown East Jn - Edge Hill              14    75     1   57   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2017 SCN     Eccles Station Jn – Network Rail (Weaste      0   00     0   54   N    N       N   N   N    N      N   N   N   N
-               Branch) / MSC Boundary
-NW2019 PJL     Parkside Jn – Lowton Jn (East Curve           0   05     0   36   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-               lines)
-NW2021 EEE     Earlestown South Jn – Earlestown West       186   74   187   15   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-               Jn (Liverpool Curve)
-NW2023 SBH3    Springs Branch Jn – Gerards Bridge Jn       12    54     5   66   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
-NW2023 SBH2    Gerards Bridge Jn – St Helens Station Jn      5   66     5   12   Y    Y       Y   Y   Y    Y      Y   Y   Y   N
+2.    GSM-R (IVRS) radio which provides users with a direct means of communication with the signaller for emergency use
+      only. The areas covered by GSM-R (IVRS), together with the symbol below, are shown in the Signalling & Remarks
+      column.
 
 
 
-October 2009                                                                              9
+
+Mode of signalling
+
+ TCB              Track Circuit Block
+ AB               Absolute Block
+ AB (PF)          Permissive Block
+ RETB             Radio Electronic Token Block (including the channel number)
+ ET               Electric Token Block
+ TB               Tokenless Block
+ TB(SC)           Scottish Region Tokenless Block
+ NST              No Signaller Token
+ NSTR             No Signaller Token with Remote Crossing Loops
+ NB               No Block
+ OTS              One Train Working where a staff is provided
+ OTNS             One Train Working where a staff is not provided
+ TST              Train Staff and Ticket (detail in Local instructions where applicable)
+ C2               Western only (see Western General Instructions for details)
+ ERTMS L2         European Rail Traffic Management System (Level 2)
+
+Electrification
+
+ AC          Electrified with Overhead Line Equipment at 25kV Alternating Current.
+ DC(3)       Electrified with Third Rail at 750 volts Direct Current.
+ DC(4)       Electrified with Fourth Rail at 750 volts Direct Current.
+
+Note: When Cab Secure / NRN radio channel numbers change, an additional symbol with the new channel number will
+appear adjacent to the point where the channel changes. The information is read DOWN the page, therefore when a
+change occurs the new channel number will apply to the area below the additional symbol.
+The “Signalling & Remarks” column contains additional information as follows:-
+      •   Special Speed restrictions where denoted by       (or other number in a circle) in the “Running lines & speed
+          restrictions” column.
+      •   Automatic Staff Warning Systems using the abbreviation FWS - Fixed Warning System (applies to lines as
+          indicated in the “Signalling & Remarks” column).
+      •   AWS - Automatic Warning System. Detail is given for those lines or locations where the system is not fitted.
+      •   TPWS – Train Protection Warning System. Detail is given for those lines of route where the system is not fitted.
+      •   TASS – Tilt Authorisation and Speed Supervision system.
+      •   Loop and Refuge Siding Standage, given in metres / feet or yards / SLU’s (1 SLU = 21 feet) (these lengths do
+          NOT take into account defensive driving policy / stand-back from signals).
+      •   Locations of catch points.
+      •   Other additional remarks e.g. telephones where provided for traffic purposes.
+         Length of station platforms in metres and yards (these lengths do NOT take into account defensive driving policy
+          / stand-back from signals). Where platform lengths are not given, please refer to the relevant table in the ‘General
+          Instructions’ section of the Sectional Appendix
+
+
+
+
+October 2009                                                   62

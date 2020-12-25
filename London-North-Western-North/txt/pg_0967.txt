@@ -1,47 +1,45 @@
-                                                              LNW North Route Sectional Appendix Module NWRC
-Line of   ELR   Line of Route / Sector Description                                                    Gauge                  Notes
-route
-                                                                              W6A    W7    W8    W9    W9Plus W10 W10 W12
-                                                        M     Ch   M     Ch                                        A
-NW4011    MSM Morecambe South Jn – Morecambe              0   00     2   12    Y*     Y     Y     N       N    N   N   N
-               Buffer Stops
-NW4013    HBL Hest Bank Jn – Bare Lane Jn                 0   00     1   30    Y      Y     Y     N       N    N   N   N
-NW4017    MHH Morecambe Jn – Heysham Port                 0   00     4   01    Y*     Y     Y     N       N    N   N   N
-NW4019    OXW Oxenholme – Windermere                      0   00    10   15    Y      N     N     N       N    N   N   N
-NW4021    UCJ Upperby Jn – Bog Jn                         0   38     1   07    Y      Y     Y     Y       Y    Y   Y   Y
-NW4021    UCJ Bog Jn – Rome Street Jn                     1   07     1   23    Y      Y     N     N       N    N   N   N
-NW4023    ULR Upperby Jn – London Road Jn                 0   00     0   34    Y      Y     Y     Y       Y    Y   Y   Y
-NW4025    MCG Currock Jn – Change of ELR (Site of         0   00     0   29    Y      Y     Y     Y       N    Y   Y   Y
-               Former Forks Jn)
-NW4025    SCG Change of ELR (Site of Former Forks         0   29     0   44    Y      Y     Y     Y       N    Y   Y   Y
-               Jn) – Bog Jn
-NW4027    BSN Bruntill Branch Jn – Stainton Jn via        0   66     0    2    Y      Y     Y     Y       N    Y   N   N
-               Down and Up Brunthill Branch Siding
-NW4027    ETC End of line Buffer Stops – Network Rail   96     6    95    6    Y      Y     Y     Y       N    Y   N   N
-               Boundary / Brunthill via Down and Up
-               Brunthill line
-NW4029    GJH Mossband Jn – Network Rail Boundary         3   02     0   24    –      –     –     –       –    –   –   –    Line Out of Use
-NW4031    GSW Gretna Jn – Route Boundary (SC031)        116   13   115   40    Y      Y     Y     N       N    N   N   N
-NW4033    CBC1 Carnforth North Jn – Carnforth Station     0   19     0   38    Y*     N     N     N       N    N   N   N
-               Jn
-NW4033    CBC1 Carnforth Station Jn – Limit of            0   38     0   60    Y*     N     N     N       N    N   N   N
-               Electrification (Carnforth)
-NW4033    CBC1 Limit of Electrification (Carnforth) –     0   60    74   66    Y*     N     N     N       N    N   N   N
-               Whitehaven
-NW4033    CBC1 Whitehaven – Bransty SB (Change of       74    66    74   73    Y*     N     N     N       N    N   N   N
-               ELR)
-NW4033    CBC2 Bransty SB (Change of ELR) – Change        0   16    12   05    Y*    S1    S1     N       N    N   N   N    S1   Between Workington Main No.2
-               of ELR (Maryport)                                                                                                 SB (6m 53ch) and Change of
-                                                                                                                                 ELR (Maryport) the following
-                                                                                                                                 combinations are permitted to
-                                                                                                                                 run:
+                                                                                         OFFICIAL
 
-                                                                                                                                 Up to
-                                                                                                                                 2665(h), S21 TT x 2500(w)
-                                                                                                                                 on FAA, FKA, IKA wagons
 
-                                                                                                                                 2595(h), S11 TT, S14 FT x
-                                                                                                                                 2500(w)
-                                                                                                                                 on IFA, FIA wagons
+                                                                   LNW North Route Sectional Appendix Module NWRC
+Line of ELR     Line of Route / Sector Description           oooo oooo oooo oooo RA          86      87   88    90    91    92  Notes
+route                                                         M    Ch M Ch 000              000     000        000   000   000 ooooooooooooooooooooooooooo
 
-                                                                                    102
+NW4033 CBC1     Limit of Electrification (Carnforth) -         0    60   74    66    8       N      N     Y    N     N     N
+                Whitehaven
+NW4033 CBC1     Whitehaven - Bransty SB (Change of ELR)       74    66   74    73    7       N      N     Y    N     N     N
+NW4033 CBC2     Bransty SB (Change of ELR) – Change of         0    16   12    05    7       N      N     Y    N     N     N
+                ELR (Maryport)
+NW4033 CBC3     Change of ELR (Maryport) – Carlisle South      0    00   27    49    8       N      N     Y    N     N     N
+                Jn
+NW4041 DAP      Dalton Jn – Park South Jn                      0    00     0   76    8       N      N     Y    N     N     N
+NW5001 CMP1     Crewe North Jn – Sandbach North Jn           158    17   162   62    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP1     Sandbach North Jn – Wilmslow South Jn        162    62   176   53    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP1     Wilmslow South Jn – Cheadle Hulme North      176    53   180   67    8       Y      Y     Y    Y     Y     Y
+                Jn
+NW5001 CMP1     Cheadle Hulme North Jn - Edgeley Jn No.1     180    67   182   36    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP2     Edgeley Jn No.1 - Edgeley Jn                 182    36   182   59    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP2     Edgeley Jn – Slade Lane Jn                   182    59   186   46    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP2     Slade Lane Jn – Ardwick Jn                   186    46   188   08    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP2     Ardwick Jn – Manchester Piccadilly East Jn 188      08   188   48    8       Y      Y     Y    Y     Y     Y
+NW5001 CMP2     Manchester Piccadilly East Jn –              188    48   188   70    8       Y      Y     Y    Y     Y     Y
+                Manchester Piccadilly
+NW5003 STY      Wilmslow South Jn – Heald Green South          0    00     2   50    8       Y      Y     Y    Y     Y     Y
+                Jn
+NW5003 STY      Heald Green South Jn – Heald Green             2    50     3   13    8       Y      Y     Y    Y     Y     Y
+                North Jn
+NW5003 STY      Heald Green North Jn – Slade Lane Jn           3    13     9   44    8       Y      Y     Y    Y     Y     Y
+NW5005 SMA      Heald Green South Jn – Heald Green West        1    48     1   10    8       Y      Y     Y    Y     Y     N
+                Jn
+NW5007 MIA      Manchester Airport – Heald Green North Jn      0    00     1   51    8       Y      Y     Y    Y     Y     N
+NW5008 LEC6     Little Bridgeford Jn – Searchlight Lane Jn   137    42   138   55    8       Y      Y     Y    Y     N     Y
+                (Change of ELR and mileage) (Up line
+                only)
+NW5008 NBS      Searchlight Lane Jn (Change of ELR and         4    06     0   00    8       Y      Y     Y    Y     N     Y
+                mileage) – Stone Jn
+NW5008 NBS      Norton Bridge Jn – Yamfield Jn (Norton         4    14     2   50    -       N      N     N    N     N     N
+                Bridge East Chord)
+NW5009 CMD2     Colwich Jn – Stone Jn                         38    61   27    00    8       Y      Y     Y    Y     N     Y
+NW5009 CMD2     Stone Jn – Stoke Jn                           27    00   20    36    8       Y      Y     Y    Y     N     Y
+NW5009 CMD2     Stoke Jn – Glebe Street Jn                    20    36   20    10    8       Y      Y     Y    Y     N     Y
+ October 2009                                                                               68E

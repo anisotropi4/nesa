@@ -1,42 +1,46 @@
-                                                                   LNW North Route Sectional Appendix Module NWRC
-Line of ELR     Line of Route / Sector Description           oooo oooo oooo oooo RA       86    87   88    90    91      92  Notes
-route                                                         M    Ch M Ch 000           000   000        000   000     000 ooooooooooooooooooooooooooo
+                                                                                     OFFICIAL
 
-NW4033 CBC1     Limit of Electrification (Carnforth) -         0    60   74    66    8    N     N     Y     N       N   N
-                Whitehaven
-NW4033 CBC1     Whitehaven - Bransty SB (Change of ELR)       74    66   74    73    7    N     N     Y     N       N   N
-NW4033 CBC2     Bransty SB (Change of ELR) – Change of         0    16   12    05    7    N     N     Y     N       N   N
-                ELR (Maryport)
-NW4033 CBC3     Change of ELR (Maryport) – Carlisle South      0    00   27    49    8    N     N     Y     N       N   N
-                Jn
-NW4041 DAP      Dalton Jn – Park South Jn                      0    00     0   76    8    N     N     Y     N       N   N
-NW5001 CMP1     Crewe North Jn – Sandbach North Jn           158    17   162   62    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP1     Sandbach North Jn – Wilmslow South Jn        162    62   176   53    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP1     Wilmslow South Jn – Cheadle Hulme North      176    53   180   67    8    Y     Y     Y     Y       Y   Y
-                Jn
-NW5001 CMP1     Cheadle Hulme North Jn - Edgeley Jn No.1     180    67   182   36    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP2     Edgeley Jn No.1 - Edgeley Jn                 182    36   182   59    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP2     Edgeley Jn – Slade Lane Jn                   182    59   186   46    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP2     Slade Lane Jn – Ardwick Jn                   186    46   188   08    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP2     Ardwick Jn – Manchester Piccadilly East Jn 188      08   188   48    8    Y     Y     Y     Y       Y   Y
-NW5001 CMP2     Manchester Piccadilly East Jn –              188    48   188   70    8    Y     Y     Y     Y       Y   Y
-                Manchester Piccadilly
-NW5003 STY      Wilmslow South Jn – Heald Green South          0    00     2   50    8    Y     Y     Y     Y       Y   Y
-                Jn
-NW5003 STY      Heald Green South Jn – Heald Green             2    50     3   13    8    Y     Y     Y     Y       Y   Y
-                North Jn
-NW5003 STY      Heald Green North Jn – Slade Lane Jn           3    13     9   44    8    Y     Y     Y     Y       Y   Y
-NW5005 SMA      Heald Green South Jn – Heald Green West        1    48     1   10    8    Y     Y     Y     Y       Y   N
-                Jn
-NW5007 MIA      Manchester Airport – Heald Green North Jn      0    00     1   51    8    Y     Y     Y     Y       Y   N
-NW5008 LEC6     Little Bridgeford Jn – Searchlight Lane Jn   137    42   138   55    8    Y     Y     Y     Y       N   Y
-                (Change of ELR and mileage) (Up line
-                only)
-NW5008 NBS      Searchlight Lane Jn (Change of ELR and         4    06     0   00    8    Y     Y     Y     Y       N   Y
-                mileage) – Stone Jn
-NW5008 NBS      Norton Bridge Jn – Yamfield Jn (Norton         4    14     2   50    -    N     N     N     N       N   N
-                Bridge East Chord)
-NW5009 CMD2     Colwich Jn – Stone Jn                         38    61   27    00    8    Y     Y     Y     Y       N   Y
-NW5009 CMD2     Stone Jn – Stoke Jn                           27    00   20    36    8    Y     Y     Y     Y       N   Y
-NW5009 CMD2     Stoke Jn – Glebe Street Jn                    20    36   20    10    8    Y     Y     Y     Y       N   Y
- October 2009                                                                            68E
+
+                                                                  LNW North Route Sectional Appendix Module NWRC
+
+
+
+Line of ELR    Line of Route / Sector Description           oooo oooo oooo oooo RA 08 09 20 31/1 31/4 33 37/0 37/5 Notes
+route                                                        M Ch M Ch 0000 0000 0000 0000 31/6 0000 0000 37/3 0000 ooooooooooooooooooooooooooo
+                                                                                            0000          37/4
+                                                                                                          37/6
+                                                                                                          0000
+NW7027 PPP1    Baguley Fold Jn – Change of Mileage            2     39     2   13    8    Y     Y    Y    Y        Y   Y    Y    Y
+NW7027 PPP2    Change of Mileage – Philips Park South Jn      0     00     0   19    8    Y     Y    Y    Y        Y   Y    Y    Y
+NW8001 HXS1    Hunts Cross West Jn – Liverpool Central        6     11     0   02    8    R1    R2   R2   R2   R2      R2   R2   R2 R1    Prohibited between Start / End of
+                                                                                                                                          underground section and Liverpool Central
+                                                                                                                                          unless DC current has been isolated
+                                                                                                                                     R2   Prohibited between Start / End of
+                                                                                                                                          underground section and Liverpool Central
+NW8001 HXS2    Liverpool Central – Paradise Jn               37     13    36   71    8    R1    N    N    N        N   N    N    N   R1   Prohibited unless DC current has been
+                                                                                                                                          isolated
+NW8001 HXS2    Paradise Jn – Sandhills Jn                    36     71    34   75    8    R1    R2   R2   R2   R2      R2   R2   R2 R1    Prohibited between Paradise Jn and Leeds
+                                                                                                                                          Street Portal unless DC current has been
+                                                                                                                                          isolated
+                                                                                                                                     R2   Prohibited between Paradise Jn and Leeds
+                                                                                                                                          Street Portal
+NW8001 HXS3    Sandhills Jn – Bootle Jn                       1     41     2   39    8    Y     Y    Y    Y        Y   Y    Y    Y
+NW8001 HXS3    Bootle Jn – Southport                          2     39    18   35    8    R1    R1   R1   R1   R1      R1   R1   R1 R1    OPPOS applies over Bridge 11 (2m 71ch to
+                                                                                                                                          2m 73ch)
+NW8003 SIL     Paradise Jn – James Street (Stock              0     32     0   53    8    R1    R1   N    N        N   N    N    N   R1   Prohibited unless DC current has been
+               Interchange/Holding line)                                                                                                  isolated
+NW8005 SJO1    Sandhills Jn – Walton Jn                      34     75    33   16    7    Y     Y    Y    Y        Y   Y    Y    Y
+NW8005 SJO2    Walton Jn – Ormskirk                           3     20    12   13    8    Y     Y    Y    Y        Y   Y    Y    Y
+NW8007 HXS/    Bootle Jn – Change of ELR (Site of Former      2     34     3   52    7    Y     Y    Y    Y        Y   Y    Y    Y
+       NMM     North Mersey Jn)
+NW8007 NMB     Change of ELR (Site of Former North           34     40    32   42    7    Y     Y    Y    Y        Y   Y    Y    Y
+               Mersey Jn) – Change of ELR (Site of
+               Former Sefton Jn)
+NW8007 AFL     Change of ELR (Site of Former Sefton Jn) –     0     00     0   40    7    Y     Y    Y    Y        Y   Y    Y    Y
+               Aintree Station Jn
+NW8009 WJK     Walton Jn – Kirkby                            33     16    29   41    8    Y     Y    Y    Y        Y   Y    Y    Y
+NW8011 MIR1    Mann Island Jn – Mann Island Jn via Loop       0     00     2   12    8    R1    R1   N    N        N   N    N    N   R1   Prohibited unless DC current has been
+                                                                                                                                          isolated
+NW8011 MIR2    Mann Island Jn – Hamilton Square Jn            0     69     1   72    8    R1    R1   N    N        N   N    N    N   R1   Prohibited unless DC current has been
+                                                                                                                                          isolated
+October 2009                                                                             48
