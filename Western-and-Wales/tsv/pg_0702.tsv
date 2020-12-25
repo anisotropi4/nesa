@@ -1,13 +1,19 @@
-Western-and-Wales	0702	GW103	MLN1	Reading New Jn	Westbury Line Jn	Reading New Jn – Westbury Line Jn	35	40	36	17	Y	Y	Y	R1 R2	N	R3	Y	Y	R4	R4	N	R1 Prohibited Reading platforms 3 to 15 R2 Prohibited between Reading and Reading New Jn R3 Route prohibited to Class 172/2 and 172/3 R4 100mph between Reading New Jn and Reading
-Western-and-Wales	0702	GW103	RLL	Reading East Jn	Route Boundary (SW210) (Reading Southern Jn)	Reading East Jn – Route Boundary (SW210) (Reading Southern Jn)	35	61	35	38	Y	Y	N	N	N	N	N	Y	Y	Y	N	
-Western-and-Wales	0702	GW103	MLN1	Westbury Line Jn	Reading West Jn	Westbury Line Jn – Reading West Jn	36	17	36	78	Y	Y	Y	N	N	R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
-Western-and-Wales	0702	GW103	MLN1	Reading West Jn	Didcot East Jn	Reading West Jn – Didcot East Jn	36	78	52	66	Y	Y	Y	N	N	R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
-Western-and-Wales	0702	GW103	MLN1	Didcot East Jn	Chester Line Jn	Didcot East Jn – Chester Line Jn	52	66	53	12	Y	Y	Y	N	N	R1	Y	Y	R2 R3	R2 R3	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph between Didcot and Chester Line Jn R3 Prohibited Didcot platform 4 with deflated secondary suspension
-Western-and-Wales	0702	GW103	MLN1	Chester Line Jn	Foxhall Jn	Chester Line Jn – Foxhall Jn	53	12	53	55	Y	Y	N	N	N	N	Y	Y	R1	R1	N	R1 100mph maximum speed
-Western-and-Wales	0702	GW103	MLN1	Foxhall Jn	Uffington	Foxhall Jn – Uffington	53	55	66	39	Y	Y	N	N	N	N	Y	Y	R1	R1	N	R1 100mph maximum speed
-Western-and-Wales	0702	GW105	MLN1	Uffington	Swindon Jn	Uffington – Swindon Jn	66	39	77	36	R1	Y	N	N	N	N	Y	Y	R2	R2	N	R1 Prohibited Swindon platform 2 R2 100mph maximum speed
-Western-and-Wales	0702	GW105	MLN1	Swindon Jn	Wootton Bassett Jn	Swindon Jn – Wootton Bassett Jn	77	36	83	07	Y	Y	N	N	N	N	Y	Y	R1	R1	N	R1 100mph maximum speed
-Western-and-Wales	0702	GW105	MLN1	Wootton Bassett Jn	Thingley Jn	Wootton Bassett Jn – Thingley Jn	83	07	96	10	Y	Y	N	N	N	N	Y	Y	R1	R1	N	R1 100mph maximum speed
-Western-and-Wales	0702	GW105	MLN1	Thingley Jn	North Somerset Jn	Thingley Jn – North Somerset Jn	96	10	117	46	Y	Y	N	N	N	N	Y	Y	R1	R1	N	R1 100mph between Thingley Jn and Box Middle Hill Tunnel
-Western-and-Wales	0702	GW105	MLN1	North Somerset Jn	Feeder Bridge Jn	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	Y	Y	N	N	N	N	Y	Y	Y	Y	N	
-Western-and-Wales	0702	GW105	MLN1	Feeder Bridge Jn	Bristol East Jn	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	Y	Y	N	N	N	N	Y	Y	Y	Y	N	
+Western-and-Wales	0702	GW900	SWM 2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	SWM 2	Cardiff West Jn	Court Sart Jn	Cardiff West Jn – Court Sart Jn	170	56	206	58	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	SWM 2	Court Sart Jn	Llandore Jn	Court Sart Jn – Llandore Jn	206	58	214	62	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	SWM 2	Llandore Jn	Llandeilo Jn	Llandore Jn – Llandeilo Jn	214	62	223	49	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	SWM 2	Llandeilo Jn	Carmarthen Bridge Jn	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	SWM 2	Carmarthen Bridge Jn	Whitland Jn	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	SWM 2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW910	CWL 1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW910	CWL 2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	E	Y	Y	Y	Y	Y	R1 R2	E	E	R1 Prohibited between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
+Western-and-Wales	0702	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	E	Y	Y	Y	Y	Y	N	E	E	
+Western-and-Wales	0702	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	E	Y	Y	Y	Y	Y	N	E R1	E R1	R1 5mph Ffairfach platform
+Western-and-Wales	0702	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	E	Y	Y	Y	Y	Y	N	Y	Y	
+Western-and-Wales	0702	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0702	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0702	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N	

@@ -1,11 +1,19 @@
-Western-and-Wales	0715	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N	N	N
-Western-and-Wales	0715	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW940	CAN/ CNW	Up Sidings No.2 GF	Carmarthen Bridge Jn	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW950	PEM	Whitland Jn	Pembroke RA Change	Whitland Jn – Pembroke RA Change	259	01	284	22	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW950	PEM	Pembroke RA Change	Pembroke Dock	Pembroke RA Change – Pembroke Dock	284	22	286	26	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW960	SWM2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW960	SWM2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	N	N	N	N	N	N	Y	Y	N	N	N
-Western-and-Wales	0715	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N	N	N	N	N
-Western-and-Wales	0715	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N	N	N	N	N
+Western-and-Wales	0715	GW731	WSJ2	Abbey Foregate Jn	Crewe Jn	Abbey Foregate Jn – Crewe Jn	171	15	171	57	N	N	Y	Y	N	N	Y	R1 R2	N	R3 R4 R5	N	R1 Prohibited between Abbey Foregate Jn and Severn Bridge Jn R2 Prohibited between Shrewsbury and Crew Jn R3 3mph Shrewsbury platforms 3, 4 and 5 with deflated suspension R4 Prohibited Shrewsbury Bay platform 6 R5 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)
+Western-and-Wales	0715	GW731	WSJ2	Crewe Jn	Route Boundary (NW3005) (Wrexham General)	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	N	N	Y	Y	N	N	Y	N	N	R1	N	R1 3mph Ruabon Up and Down platforms with deflated suspension
+Western-and-Wales	0715	GW732	AFE	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	N	N	N	Y	N	N	Y	N	N	N	N	
+Western-and-Wales	0715	GW733	SBA1/ 2	Sutton Bridge Jn	Welshpool	Sutton Bridge Jn – Welshpool	0	00	33	70	N	N	N	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW733	SBA2	Welshpool	Aberystwyth	Welshpool – Aberystwyth	33	70	95	60	N	N	N	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW734	DJP	Dovey Jn	Pwllheli	Dovey Jn – Pwllheli	78	60	132	70	N	N	N	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW735	SYC	Crewe Jn	Route Boundary (NW1007) (Limit of Electrification)	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	N	N	Y	Y	N	N	Y	N	N	R1	N	R1 3mph Whitchurch Up platform with deflated suspension
+Western-and-Wales	0715	GW736	GNQ1	Gobowen South	Commencement of single line board	Gobowen South – Commencement of single line board	0	00	0	16	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW740	MAI	Maindee East Jn	Maindee North Jn	Maindee East Jn – Maindee North Jn	41	65	41	33	N	N	N	Y	N	N	Y	Y	N	N	N	
+Western-and-Wales	0715	GW750	BNC	Hereford Yard Jn	Brecon Curve Jn	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW750	HNL2	Brecon Curve Jn	MEB Siding	Brecon Curve Jn – MEB Siding	149	44	149	78	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW770	EBW	Ebbw Vale Parkway	Site of Former Aberbeeg Jn	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	N	N	N	Y	N	N	Y	N	N	N	N	
+Western-and-Wales	0715	GW770	WVL	Site of Former Aberbeeg Jn	Park Jn	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	N	N	N	Y	N	N	Y	N	N	N	N	
+Western-and-Wales	0715	GW770	GAE	Park Jn	Gaer Jn (Western Valley Line)	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	N	N	N	Y	N	N	Y	N	N	N	N	
+Western-and-Wales	0715	GW773	BJR	Machen Quarry	Site of Former Bassaleg Jn	Machen Quarry – Site of Former Bassaleg Jn	4	69	0	00	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW773	WVL	Site of Former Bassaleg Jn	Park Jn (Machen Branch)	Site of Former Bassaleg Jn – Park Jn (Machen Branch)	2	05	1	10	N	N	N	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0715	GW780	WVL	Park Jn	Park Jn SB	Park Jn – Park Jn SB	1	02	0	74	N	N	N	Y	N	N	Y	N	N	N	N	
+Western-and-Wales	0715	GW780	NWN	Park Jn SB	Ebbw Jn	Park Jn SB – Ebbw Jn	0	54	0	00	N	N	N	Y	N	N	Y	N	N	N	N	
+Western-and-Wales	0715	GW784	NLL	Alexandra Dock Jn	Network Rail Boundary (Newport Docks)	Alexandra Dock Jn – Network Rail Boundary (Newport Docks)	159	60	160	27	N	N	N	N	N	N	N	N	N	N	N	

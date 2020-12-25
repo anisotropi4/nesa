@@ -1,24 +1,25 @@
-Western-and-Wales	0766	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	43	47/2	47/4	47/7	56	57	58	59
-Western-and-Wales	0766	GW840	RAD	Leckwith Loop South Jn	Penarth Curve North Jn	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW840	RAD	Penarth Curve North Jn	Radyr Branch Jn	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW850	CLL	Leckwith Loop South Jn	Leckwith Loop North Jn	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW860	CPL	Penarth Curve North Jn	Penarth Curve South Jn	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW864	PTH	Cogan Jn	Penarth	Cogan Jn – Penarth	0	01	1	12	6	Y	Y	N	Y	N	N	N	N
-Western-and-Wales	0766	GW870	VOG	Barry Jn	Bridgend Bay Platform	Barry Jn – Bridgend Bay Platform	0	00	19	04	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW871	FOR	Ford Siding GF	Network Rail Boundary (Ford Works, Waterton)	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	8	N	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW874	BAL	Llynfi Jn	Tondu Jn	Llynfi Jn – Tondu Jn	0	07	2	70	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW874	BAL	Tondu Jn	Maesteg	Tondu Jn – Maesteg	2	70	8	06	6	N	Y	Y	Y	N	N	N	N
-Western-and-Wales	0766	GW877	POR	Tondu Jn	Cefn Jn	Tondu Jn – Cefn Jn	0	00	2	43	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW877	OVE	Cefn Jn	Margam Abbey Works East Jn	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW877	OVE	Margam Abbey Works East Jn	Margam East Jn	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW877	OVE	Margam East Jn	Margam Yard Jn	Margam East Jn – Margam Yard Jn	1	40	0	79	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW877	OVE	Margam Yard Jn	Network Rail Boundary (Port Talbot Docks)	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW890	SDI1	Briton Ferry Up Flying Loop Jn	Dynover Jn	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW890	SDI1	Dynover Jn	Jersey Marine Jn North	Dynover Jn – Jersey Marine Jn North	207	67	208	33	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW890	SDI1	Jersey Marine Jn North	Change of Mileage	Jersey Marine Jn North – Change of Mileage	208	33	208	49	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW890	SDI2	Change of Mileage	Grovesend Colliery Loop Jn	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW890	SDI2	Grovesend Colliery Loop Jn	Morlais Jn	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW890 1	RSB	Dynevor Jn	Jersey Marine South Jn	Dynevor Jn – Jersey Marine South Jn	19	16	20	24	6	N	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW892	VON	Network Rail Boundary (Cwmgwrach)	Neath & Brecon Jn	Network Rail Boundary (Cwmgwrach) – Neath & Brecon Jn	33	14	41	17	6	N	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW892	VON	Neath & Brecon Jn	Burrows Sidings	Neath & Brecon Jn – Burrows Sidings	41	17	46	30	6	N	Y	Y	Y	Y	Y	Y	Y
-Western-and-Wales	0766	GW893	NAB	Network Rail Boundary (Onllwyn)	Neath and Brecon Jn	Network Rail Boundary (Onllwyn) – Neath and Brecon Jn	10	10	0	01	6	N	Y	Y	Y	Y	Y	Y	Y
+Western-and-Wales	0766	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	59	Notes
+Western-and-Wales	0766	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW540 1	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW548	POD/ PBY	Parson Street Jn	Network Rail boundary (BPC)	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	8	N	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW560	SWY	Heywood Road Jn	Westbury North Jn	Heywood Road Jn – Westbury North Jn	94	45	95	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW560	WEY	Westbury North Jn	Fairwood Jn via Westbury	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW570	WEY	Clink Road Jn	Blatchbridge Jn via Frome	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW572	FNS2	Frome North Jn	Change of ELR	Frome North Jn – Change of ELR	0	00	2	38	6	N	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW572	WQL	Change of ELR	Network Rail Boundary (Mendip Rail - Whatley Quarry)	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	6	N	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW580	ESB	East Somerset Jn	Network Rail Boundary (East Somerset Railway - Cranmore East)	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW600	SWB	Wootton Bassett Jn	Stoke Gifford Jn No.1	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW600	SWB	Stoke Gifford Jn No.1	Patchway Jn No.2	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW600	BSW	Patchway Jn No.2	Route Boundary Wales	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW600	BSW	Route Boundary	Ableton Lane Tunnel (GW900)	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW606	DAC	Cowley Bridge Jn	Crediton SB	Cowley Bridge Jn – Crediton SB	173	50	179	26	6	Y	Y	N	Y	N	N	N	N	
+Western-and-Wales	0766	GW606	NDN	Crediton SB	End of Line (Barnstaple)	Crediton SB – End of Line (Barnstaple)	179	26	211	31	5	R1	N	N	N	N	N	N	N	R1 20mph over bridge NDN-20466 (204m 66ch)
+Western-and-Wales	0766	GW608	DAC	Crediton SB	Network Rail Boundary (Dartmoor Railway - Coleford)	Crediton SB – Network Rail Boundary (Dartmoor Railway - Coleford)	179	26	183	79	6	Y	Y	N	Y	N	N	N	N	
+Western-and-Wales	0766	GW610	BAE2	Route Boundary (SW115) (Honiton)	Exeter St Davids Jn	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW611	EMT	Exmouth Jn	Exmouth	Exmouth Jn – Exmouth	0	01	9	32	6	Y	Y	N	Y	N	N	N	N	
+Western-and-Wales	0766	GW618	MOB	Newton Abbott East Jn	End of Line (Beyond Heathfield)	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	6	N	R1	R1	R1	R1	R1	R1	N	R1 Prohibited when hauling Dangerous Goods
+Western-and-Wales	0766	GW620	TOR	Newton Abbott West Jn	Paignton Crossover Ground Frame	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	6	Y	Y	Y	Y	N	Y	N	N	
+Western-and-Wales	0766	GW628	SUT1	Laira Jn	Speedway Jn	Laira Jn – Speedway Jn	244	02	244	30	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW628	PLO	Lipson Jn	Speedway Jn	Lipson Jn – Speedway Jn	0	00	0	22	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW628	SUT1	Speedway Jn	Mount Gould Jn	Speedway Jn – Mount Gould Jn	244	30	244	43	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0766	GW628	SUT2	Mount Gould Jn	Former Friary Jn	Mount Gould Jn – Former Friary Jn	244	41	244	60	7	Y	Y	Y	Y	Y	Y	Y	Y	

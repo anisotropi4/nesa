@@ -1,5 +1,24 @@
-Western-and-Wales	0716	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	325	332	345	360	387	Notes
-Western-and-Wales	0716	GW103	MLN1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	H	R1	R2 R3	R4 R5 R6 R10	R7 R8 R9	R1 Prohibited Paddington platforms 1 and 2 R2 Prohibited Paddington platforms 4, 5 and 9 with deflated suspension R3 Prohibited Paddington platforms 6 and 7 R4 20mph Paddington platforms 3 and 4 R5 Route prohibited to Class 360/1 R6 Prohibited Paddington platform 13 R7 Prohibited with air bags deflated / failed secondary suspension Paddington platform 4 R8 Prohibited Marcon Siding R9 100mph maximum speed R10 15mph Paddington platform 2
-Western-and-Wales	0716	GW103	MLN1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	H	Y	Y	R1	Y	R1 Route prohibited to Class 360/1
-Western-and-Wales	0716	GW103	MLN1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	H	Y	Y	R1	R2 R3 R4 R5	R1 Route prohibited to Class 360/1 R2 Prohibited with air bags deflated / failed secondary suspension Acton Main Line platform 3 R3 100mph maximum speed R4 Prohibited Acton Yard R5 Prohibited Acton East Jn - Acton West Jn Up and Down Poplar lines
-Western-and-Wales	0716	GW103	MLN1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	H	Y	Y	R1	R2	R1 Route prohibited to Class 360/1 R2 100mph maximum speed
+Western-and-Wales	0716	GW790	ROC	Pengam Jn	Change of ELR	Pengam Jn – Change of ELR	168	20	168	61	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW790	ROA	Change of ELR	Network Rail Boundary (ABP Cardiff Docks)	Change of ELR – Network Rail Boundary (ABP Cardiff Docks)	3	41	4	54	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW810	CAR	End of Line (Rhymney)	Ystrad Mynach South Jn	End of Line (Rhymney) – Ystrad Mynach South Jn	24	00	13	41	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW810	CAR	Ystrad Mynach South Jn	Heath Jn	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW810	CAR	Heath Jn	Cardiff Queen Street North Jn	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW820	TBD	Network Rail Boundary (Cwmbargoed)	Site of Former Taff Bargoed Branch Jn	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW820	VON	Site of Former Taff Bargoed Branch Jn	Site of Former Penallta Jn	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW820	PTA	Site of Former Penallta Jn	Ystrad Mynach South Jn	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW828	CRY	Coryton	Heath Jn	Coryton – Heath Jn	2	57	0	15	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW830	CAM	Merthyr Tydfil	Abercynon Jn	Merthyr Tydfil – Abercynon Jn	24	44	16	35	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW830	CAM	Abercynon Jn	Pontypridd Jn	Abercynon Jn – Pontypridd Jn	16	35	13	04	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW830	CAM	Pontypridd Jn	Radyr Jn	Pontypridd Jn – Radyr Jn	13	04	5	23	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW830	CAM	Radyr Jn	Queen Street North Jn	Radyr Jn – Queen Street North Jn	5	23	1	17	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW830	CAM	Queen Street North Jn	Queen Street South Jn	Queen Street North Jn – Queen Street South Jn	1	17	0	66	N	N	N	N	N	N	Y	Y	N	N	N	
+Western-and-Wales	0716	GW830	CEJ	Queen Street South Jn	Cardiff East Jn	Queen Street South Jn – Cardiff East Jn	0	22	0	00	N	N	N	N	N	N	Y	Y	N	N	N	
+Western-and-Wales	0716	GW830	SWM2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	N	Y	N	Y	N	N	Y	Y	R1	Y	N	R1 Prohibited Cardiff Central platform 8
+Western-and-Wales	0716	GW830	BRY	Cardiff West Jn	Barry Jn	Cardiff West Jn – Barry Jn	0	10	8	16	N	N	N	R1	N	N	Y	Y	Y	Y	N	R1 Prohibited between Grangetown and Barry Jn
+Western-and-Wales	0716	GW830	BRY	Barry Jn	Buffer Stops (Barry Island)	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW834	VON	Network Rail Boundary	Aberdare	Network Rail Boundary – Aberdare	26	62	22	34	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW834	VON/ ALK	Aberdare	Cwmbach Change of ELR	Aberdare – Cwmbach Change of ELR	22	34	20	68	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW834	ABD/ MOA	Cwmbach Change of ELR	Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW835	THT	End of Line	Treherbert	End of Line – Treherbert	23	69	23	54	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW835	THT	Treherbert	Pontypridd Jn	Treherbert – Pontypridd Jn	23	54	13	04	N	N	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0716	GW839	CAM	Queen Street South Jn	Cardiff Bay	Queen Street South Jn – Cardiff Bay	0	66	0	02	N	N	N	N	N	N	Y	Y	N	N	N	

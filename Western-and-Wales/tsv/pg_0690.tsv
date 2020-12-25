@@ -1,21 +1,18 @@
-Western-and-Wales	0690	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	121	142	143	150	153	155	156	158	159	Notes
-Western-and-Wales	0690	GW401	BAG 2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW401	CHL	Gloucester Barnwood Jn (Change of ELR)	Gloucester Yard Jn (Change of ELR)	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW401	BGL1	Gloucester Yard Jn (Change of ELR)	Change of ELR	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW401	BGL2	Change of ELR	Standish Jn	Change of ELR – Standish Jn	94	60	99	69	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW401	BGL2	Standish Jn	Yate South Jn (Change of ELR)	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW401	YAT	Yate South Jn (Change of ELR)	Westerleigh Jn	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW425	SAW/ SSS	Berkeley Road Jn	Sharpness (Network Rail Boundary)	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N	N	N	N	N	
-Western-and-Wales	0690	GW430	THO	Yate Middle Jn	Tytherington	Yate Middle Jn – Tytherington	0	00	6	24	E	Y	Y	Y	Y	N	N	Y	Y	
-Western-and-Wales	0690	GW440	BGL2	Yate South Jn	Westerleigh Yard	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N	N	N	N	N	
-Western-and-Wales	0690	GW450	FEC	Stoke Gifford Jn No.1	Change of ELR	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	E	Y	Y	Y	Y	N	N	Y	Y	
-Western-and-Wales	0690	GW450	BSW	Change of ELR	Bristol East Jn	Change of ELR – Bristol East Jn	4	50	0	26	E	Y	Y	Y	Y	N	N	Y	Y	
-Western-and-Wales	0690	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	E	Y	Y	Y	Y	N	N	Y	Y	
-Western-and-Wales	0690	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	E	Y	Y	Y	Y	N	N	Y	Y	
-Western-and-Wales	0690	GW4501	AMB	Holesmouth Jn	Avonmouth (Bristol Bulk Handling Terminal)	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	N	N	N	N	
-Western-and-Wales	0690	GW451	FWC	Filton Jn No 2	Filton West Jn No.2	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	E	Y	Y	Y	Y	N	N	Y	Y	
-Western-and-Wales	0690	GW454	AMB	Severn Beach	St Andrews Jn (Change of ELR)	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	E	Y	Y	Y	Y	N	N	R1	R1	R1 15mph Severn Beach platform
-Western-and-Wales	0690	GW454	CNX	St Andrews Jn (Change of ELR)	Narroways Hill Jn	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	E	Y	Y	Y	Y	N	N	R1	R1	R1 15mph Avonmouth platforms
-Western-and-Wales	0690	GW480	SWM 1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	E	Y	Y	Y	Y	E	E	R1	R1	R1 Prohibited Kemble Tamper Siding
-Western-and-Wales	0690	GW490	SWM 2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	E	Y	Y	Y	Y	E	E	Y	Y	
-Western-and-Wales	0690	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0690	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0690	GW103	MLN 1	Reading West Jn	Didcot East Jn	Reading West Jn – Didcot East Jn	36	78	52	66	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0690	GW103	MLN 1	Didcot East Jn	Chester Line Jn	Didcot East Jn – Chester Line Jn	52	66	53	12	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0690	GW103	MLN 1	Chester Line Jn	Foxhall Jn	Chester Line Jn – Foxhall Jn	53	12	53	55	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0690	GW103	MLN 1	Foxhall Jn	Uffington	Foxhall Jn – Uffington	53	55	66	39	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0690	GW105	MLN 1	Uffington	Swindon Jn	Uffington – Swindon Jn	66	39	77	36	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0690	GW105	MLN 1	Swindon Jn	Wootton Bassett Jn	Swindon Jn – Wootton Bassett Jn	77	36	83	07	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Wootton Bassett Jn	Thingley Jn	Wootton Bassett Jn – Thingley Jn	83	07	96	10	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Thingley Jn	North Somerset Jn	Thingley Jn – North Somerset Jn	96	10	117	46	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	North Somerset Jn	Feeder Bridge Jn	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Feeder Bridge Jn	Bristol East Jn	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Bristol East Jn	Bristol West Jn	Bristol East Jn – Bristol West Jn	118	02	118	58	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Bristol West Jn	Parson Street Jn	Bristol West Jn – Parson Street Jn	118	58	120	28	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Parson Street Jn	Worle Jn	Parson Street Jn – Worle Jn	120	28	135	11	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Worle Jn	Uphill Jn (direct)	Worle Jn – Uphill Jn (direct)	135	11	138	04	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW105	MLN 1	Uphill Jn	Fordgate	Uphill Jn – Fordgate	138	04	154	12	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW107	WSM	Worle Jn	Uphill Jn via Weston-Super-Mare	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	GW108	MLN 1	Fordgate	Cogload Jn (Up)	Fordgate – Cogload Jn (Up)	154	12	158	23	E	Y	Y	Y	Y	N	N	Y	Y	

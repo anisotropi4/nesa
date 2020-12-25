@@ -1,11 +1,22 @@
-Western-and-Wales	0693	GW628	FRY	Former Friary Jn	Turnchapel Branch Jn	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	N	N	Y	Y	Y	N	N	R1	R1	R1 Prohibited beyond Class 158 stop board (245m 13 ch) (A maximum of 3 x 158/9 car lengths can be accommodated)
-Western-and-Wales	0693	GW628	TUR/ CWR	Turnchapel Branch Jn	Buffer Stops	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	R1	N	N	N	N	N	R1 Prior to operation the method of working shall be agreed with the local Infrastructure Manager’s operations team
-Western-and-Wales	0693	GW628	FRY	Turnchapel Branch Jn	Plymouth Friary	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	N	N	N	Y	N	N	N	N	N	
-Western-and-Wales	0693	GW637	DAC	St Budeaux Jn	Buffer Stops (Beyond Bere Alston)	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	E	N	N	Y	Y	N	N	R1	R1	R1 Prohibited between St Budeaux Victoria Road Station and Buffer Stops (Beyond Bere Alston)
-Western-and-Wales	0693	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western-and-Wales	0693	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western-and-Wales	0693	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western-and-Wales	0693	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	6	66	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western-and-Wales	0693	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	N	N	N	N	N	N	N	N	N	
-Western-and-Wales	0693	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	N	N	N	N	N	N	N	N	N	
-Western-and-Wales	0693	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	E	N	N	Y	Y	N	N	Y	Y	
+Western-and-Wales	0693	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0693	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn)	Reading New Jn	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0693	GW195	RLL	Reading Southern Jn	Reading East Jn	Reading Southern Jn – Reading East Jn	35	33	35	61	N	N	N	E	N	N	N	N	N	
+Western-and-Wales	0693	GW200	DCL	Chester Line Jn	Route Boundary (MD401) (Heyford)	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0693	GW220	RWC	Reading, Oxford Road Jn	Reading West Jn	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0693	GW225	RFR	Caversham Road Jn	Oxford Road Jn	Caversham Road Jn – Oxford Road Jn	36	25	36	74	N	N	N	Y	N	N	N	Y	N	
+Western-and-Wales	0693	GW240	DEC	Didcot East Jn	Didcot North Jns	Didcot East Jn – Didcot North Jns	52	66	54	00	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0693	GW250	DWC	Foxhall Jn	Didcot West Curve Jn	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0693	GW260	THA	Kennington Jn	Morris Cowley	Kennington Jn – Morris Cowley	18	45	16	04	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	GW277	OXD	Oxford North Jn	Route Boundary (MD736) (29m 25ch)	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western-and-Wales	0693	GW300	ABW	Abbotswood Jn	Norton Jn	Abbotswood Jn – Norton Jn	0	00	0	62	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	GW300	OWW	Norton Jn	Shrub Hill Jn	Norton Jn – Shrub Hill Jn	117	26	120	46	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW300	OWW	Shrub Hill Jn	Droitwich Spa Jn	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW300	STO	Droitwich Spa Jn	Stoke Works Jn	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW310	OWW	Wolvercot Jn	Norton Jn	Wolvercot Jn – Norton Jn	66	32	117	26	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW317	OWW	Honeybourne Stratford Line Junction	Start of branch mileage	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	GW317	STD	Start of branch mileage	Long Marston	Start of branch mileage – Long Marston	0	00	2	70	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	GW340	WAH	Shrub Hill Jn	Henwick SB (Branch Single)	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW340	WAH	Henwick SB	Shelwick Jn	Henwick SB – Shelwick Jn	121	65	148	11	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW350	BLW	Worcester Tunnel Jn	Site of former Rainbow Hill Jn Change of ELR	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW350	WAH	Site of former Rainbow Hill Jn Change of ELR	Henwick SB (Droitwich Single)	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0693	GW370	OWW	Droitwich Spa	Route Boundary (MD430) (Kidderminster)	Droitwich Spa – Route Boundary (MD430) (Kidderminster)	126	21	130	40	E	Y	Y	Y	Y	E	E	Y	Y	

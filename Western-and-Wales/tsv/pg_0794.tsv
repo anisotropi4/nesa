@@ -1,3 +1,22 @@
-Western-and-Wales	0794	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Western-and-Wales	0794					W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
-Western-and-Wales	0794	GW103	Royal Oak Sidings – Reading New Jn	Royal Oak Sidings	Reading New Jn	Y *	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 Prohibited Royal Oak Sidings to Acton East Jn R2 PROHIBITED between Acton East Jn and Acton West Jn on the Up Main R3 PROHIBITED between Acton East Jn and Acton West Jn on the Down Main R4 PROHIBITED West Ealing (Up Goods Loops and Yard) R5 PROHIBITED Hanwell Bridge sidings R6 PROHIBITED Southall West Down Loop, Southall Sidings, Brentford sidings. R7 PROHIBITED Hayes Up sidings R8 PROHIBITED Hayes & Harlington Up bay platform 5 R9 PROHIBITED West Drayton Up sidings R10 PROHIBITED West Drayton platform 5 (West Drayton Loop) R11 PROHIBITED Langley East Up sidings R12 PROHIBITED Langley Platform 4 (Up Relief) R13 PROHIBITED Slough Up sidings R14 PROHIBITED Burnham Platform 2 (Up Relief) R15 PROHIBITED Burnham Platform 1 (Down Relief)
+Western-and-Wales	0794	Line of Route	LineofRoute/SectorDescription	RA	2 Axled (MAX RA)	4 Axled (MAX RA)	LocationofSpeedrestriction	Up	Down	Notes	
+Western-and-Wales	0794	GW773	MachenQuarrytoParkJn	6	8	8	OverBridge-01m05¼ch	10 MPH	10 MPH		
+Western-and-Wales	0794	GW780	ParkJntoEbbwJn	8	10	10					
+Western-and-Wales	0794	GW784	AlexandraDocktoNewportDk	8	10	10					
+Western-and-Wales	0794	GW790	PengamJntoCardiffDocks	7	10	10					
+Western-and-Wales	0794	GW810	RhymneytoYstradMynach	6	6	6	OverBridgeat17m09½ch(Pengam–GilfachFargoed)	10 MPH	10 MPH		Applies to all wagons empty or loaded & locomotives
+Western-and-Wales	0794	GW810	YstradMynachtoCardiffQueenSt	6	9	9					
+Western-and-Wales	0794	GW820	CwmbargoedtoYstradMynachSth	8	9	9					
+Western-and-Wales	0794	GW828	CorytontoHeathJn	6	6	6					
+Western-and-Wales	0794	GW830	MerthyrTydfiltoAbercynon	6	8B	8B	THROUGHOUT	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
+Western-and-Wales	0794	GW830	AbercynontoPontypridd	6	10	10	THROUGHOUT	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
+Western-and-Wales	0794	GW830	PontypriddtoRadyr	6	10	10					
+Western-and-Wales	0794	GW830	RadyrtotoCardiffCentviaLlandaff	8	9	9					
+Western-and-Wales	0794	GW830	CardiffCenttoBarry	8	10	10					
+Western-and-Wales	0794	GW830	BarrytoBarryIsland	6	6	6					Freight trains above 390 tonnes are not allowed to pass any other train on Barry Island Viaduct
+Western-and-Wales	0794	GW834	HirwauntoAberdare	6	10	10	OverBridgeat22m31½ch	30 MPH	30 MPH		
+Western-and-Wales	0794	GW834	AberdaretoAbercynon	6	10	10	OverBridgeat18m47½ch	20 MPH	20 MPH		
+Western-and-Wales	0794	GW835	TreherberttoPontypriddJn	6	9B	9B	OverBridgeat23m09chOverBridgeat22m07½chOverBridgeat21m33½chOverBridgeat21m11¾chOverBridgeat15m½chOverBridgeat13m20¾ch	40 MPH 20 MPH 40 MPH 40 MPH 20 MPH 10 MPH	40 MPH 20 MPH 40 MPH 40 MPH 20 MPH 10 MPH		
+Western-and-Wales	0794	GW839	QueenStreettoCardiffBay	6	6	6					
+Western-and-Wales	0794	GW840	RadyrJntoCardiff,RadyrBranchJnviaCityLines	8	10	10					
+Western-and-Wales	0794	GW850	LeckwithLoopJnSouthtoLeckwithLoopNorthJn	8	10	10					
+Western-and-Wales	0794	GW860	PenarthCurveNorthJntoPenarthCurveSouthJn	8	10	10					
