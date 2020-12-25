@@ -1,5 +1,20 @@
-London-North-Western-North	0888	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5
-London-North-Western-North	0888	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0888	NW9907	EDE	Network Rail Boundary (Warcop)	End of Line	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0888	NW9909	NEC2	Route Boundary (LN682) (Corby Gates)	Petteril Bridge Jn	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0888	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods Lines)	London Road Jn – Bog Jn (Newcastle Goods Lines)	0	00	0	25	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0888	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel)	Route Boundary LNW / Wales	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	N	H	N	N	N	
+London-North-Western-North	0888	NW3001	CNH3	Route Boundary LNW / Wales	Holyhead	Route Boundary LNW / Wales – Holyhead	188	40	263	56	N	H R1 R2 R3	N	N	N	R2 Prohibited Down Goods Loop (Holywell Jn) R3 Prohibited Llandudno Jn bay platform 2 R4 Prohibited Holyhead platform 3
+London-North-Western-North	0888	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	N	N	N	N	N	
+London-North-Western-North	0888	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	N	N	N	N	N	
+London-North-Western-North	0888	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW – Saltney Jn	202	60	212	06	N	N	N	N	N	
+London-North-Western-North	0888	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	N	N	N	N	N	
+London-North-Western-North	0888	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	N	N	N	N	N	
+London-North-Western-North	0888	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	N	N	N	N	N	
+London-North-Western-North	0888	NW3007	WDB2 /3	Change of ELR	Route Boundary Wales / LNW	Change of ELR – Route Boundary Wales / LNW	14	15	11	00	N	N	N	N	N	
+London-North-Western-North	0888	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn		Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	N	N	N	N	N	
+London-North-Western-North	0888	NW3009	CVS	Chester North Jn	Chester South Jn	Chester North Jn – Chester South Jn	0	36	0	13	N	N	N	N	N	
+London-North-Western-North	0888	NW3011	CRR1	Chester West Jn	Hooton South Jn	Chester West Jn – Hooton South Jn	0	16	7	68	N	N	N	Y	Y	
+London-North-Western-North	0888	NW3013	HHJ	Hooton South. Jn	Ellesmere Port (Limit of DC electrification)	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	N	N	N	Y	Y	
+London-North-Western-North	0888	NW3013	HHJ	Ellesmere Port (Limit of DC electrification)	Helsby Jn	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	N	N	N	N	N	
+London-North-Western-North	0888	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of line	Llandudno Jn – Blaenau Ffestiniog, End of line	0	30	27	53	N	N	N	N	N	
+London-North-Western-North	0888	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	N	N	N	N	N	
+London-North-Western-North	0888	NW3019	GLA	Gaerwen	Network Rail Boundary	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
+London-North-Western-North	0888	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	N	N	N	N	N	
+London-North-Western-North	0888	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	N	N	N	N	N	
+London-North-Western-North	0888	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	N	N	N	N	N	

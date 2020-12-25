@@ -1,17 +1,19 @@
-London-North-Western-North	0935	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes	
-London-North-Western-North	0935	NW1001	Armitage Jn. (Incl.) - Preston Fylde Jn.	Armitage Jn. (Incl.)	Preston Fylde Jn.	8	SB1C (W9)	Y		
-London-North-Western-North	0935	NW1002	Penkridge Station (incl.) to Trent Valley Jn. No.1 (Stafford)	Penkridge Station (incl.) to Trent Valley Jn. No.1 (Stafford)		8	SB1C (W9)	Y		
-London-North-Western-North	0935	NW1003	Silverdale – Madeley (Out of use)	Silverdale	Madeley (Out of use)	-	/	--		
-London-North-Western-North	0935	NW1004	Rugeley Town (excl.) to Rugeley North Jn.	Rugeley Town (excl.) to Rugeley North Jn.		8	W6A (W6)	Y		
-London-North-Western-North	0935	NW1005	Kidsgrove Jn. - Crewe South Jn.	Kidsgrove Jn.	Crewe South Jn.	8	SB1C (W9) R	Y	R	Also clear for 9’ 6” containers (W10) on specific vehicles.
-London-North-Western-North	0935	NW1007	Nantwich (excl.) - Crewe South Jn.	Nantwich (excl.)	Crewe South Jn.	8	W6A Ex. (W7)	Y		
-London-North-Western-North	0935	NW1009	Basford Hall Jn. – Sandbach South Jn. (Independent Lines)	Basford Hall Jn.	Sandbach South Jn. (Independent Lines)	8	SB1C (W9)	Y		
-London-North-Western-North	0935	NW1011	Gresty Lane - Salop Goods Jn.	Gresty Lane	Salop Goods Jn.	8	W6A Ex. (W7)	Y		
-London-North-Western-North	0935	NW1013	Crewe Sorting Sidings North – Gresty Lane	Crewe Sorting Sidings North	Gresty Lane	8	W6A Ex. (W7)	R	R	Permitted Gresty Lane - Salop Goods Loop Jn. in Up direction only.
-London-North-Western-North	0935	NW1015	Salop Goods Jn - Crewe North. Jn. (Chester Independent Lines)	Salop Goods Jn	Crewe North. Jn. (Chester Independent Lines)	8	W6A Ex. (W7)	Y		
-London-North-Western-North	0935	NW1017	Salop Goods Jn. – Crewe Coal Yard (Liverpool Independent Lines)	Salop Goods Jn.	Crewe Coal Yard (Liverpool Independent Lines)	8	SB1C (W9)	Y		
-London-North-Western-North	0935	NW1019	Acton Grange Jn. - Warrington South Jn. (Helsby lines)	Acton Grange Jn.	Warrington South Jn. (Helsby lines)	8	SB1C (W9)	Y		
-London-North-Western-North	0935	NW1021	Winwick Jn. - Golborne Jn. (via Earlestown)	Winwick Jn.	Golborne Jn. (via Earlestown)	8	SB1C (W9)	R	R	RA9/10 vehicles are restricted to 10mph between Lowton Jn. and Golborne Jn.
-London-North-Western-North	0935	NW1023	Haydock Branch Jn. - Kelbit P.S.	Haydock Branch Jn.	Kelbit P.S.	8	/	Y		
-London-North-Western-North	0935	NW1025	Bamfurlong Sidings Jn. - Ince Moss Jn. (Ince Moss Goods Lines)	Bamfurlong Sidings Jn.	Ince Moss Jn. (Ince Moss Goods Lines)	7	W6A Ex. (W8)	Y		
-London-North-Western-North	0935	NW1027	Preston South Jn. - Strand Road	Preston South Jn.	Strand Road	8	/	Y		
+London-North-Western-North	0935	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0935	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW – Saltney Jn	202	60	212	06	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	5	R1	N	Y	R1	R1	R1	R1	R1	R1 Prohibited between Wrexham Central and Wrexham General unless authorised by the Infrastructure Manager's track engineer
+London-North-Western-North	0935	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	7	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3007	WDB2 /3	Change of ELR	Route Boundary Wales / LNW	Change of ELR – Route Boundary Wales / LNW	14	15	11	00	7	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn		Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	7	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3009	CVS	Chester North Jn	Chester South Jn	Chester North Jn – Chester South Jn	0	36	0	13	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3011	CRR1	Chester West Jn	Hooton South Jn	Chester West Jn – Hooton South Jn	0	16	7	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3013	HHJ	Hooton South. Jn	Ellesmere Port (Limit of DC Electrification)	Hooton South. Jn – Ellesmere Port (Limit of DC Electrification)	0	02	3	44	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3013	HHJ	Ellesmere Port (Limit of DC Electrification)	Helsby Jn	Ellesmere Port (Limit of DC Electrification) – Helsby Jn	3	44	8	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of Line	Llandudno Jn – Blaenau Ffestiniog, End of Line	0	30	27	53	7	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3019	GLA	Gaerwen	Network Rail Boundary	Gaerwen – Network Rail Boundary	0	00	17	37	6	N	N	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
+London-North-Western-North	0935	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0935	NW3023	SJD	Skelton Jn	Deansgate Jn	Skelton Jn – Deansgate Jn	0	00	0	33	8	Y	Y	Y	Y	Y	Y	Y	Y	

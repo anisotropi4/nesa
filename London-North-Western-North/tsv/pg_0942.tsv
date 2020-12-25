@@ -1,15 +1,21 @@
-London-North-Western-North	0942	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes	
-London-North-Western-North	0942	NW7013	Daisyfield Jn. – Hellifield	Daisyfield Jn.	Hellifield	8	R1	R2	R1 R2	Clear to W6A Ex. (W7) Daisyfield Jn. - Hellifield. ELR: DJH: RA9/10 vehicles are restricted to the following maximum speeds over the following bridges: Br.4 (11m 40ch - 11m 60ch) – 20mph Br.41 (17m 20ch - 17m 60ch) – 20mph
-London-North-Western-North	0942	NW7015	Padiham Power Station Sidings - Rose Grove West Jn. (Out of use)	Padiham Power Station Sidings	Rose Grove West Jn. (Out of use)	-	/	Y		
-London-North-Western-North	0942	NW7017	Gannow Jn. – Colne	Gannow Jn.	Colne	8	/	N		
-London-North-Western-North	0942	NW7019	Thorpes Bridge Jn. – GMC Siding (Incl.)	Thorpes Bridge Jn.	GMC Siding (Incl.)	8	/	N		
-London-North-Western-North	0942	NW7021	Miles Platting Jn. - Marsden	Miles Platting Jn.	Marsden	8	W6A Ex. (W7) R1	R2	R1 R2	Clear to SB1C (W9) Miles Platting Jn. to Phillips Park West Jn. and clear to W8 Stalybridge Jn. to the Territory boundary. ELR: MVL3, Br.1: RA9/10 vehicles restricted to 10mph over the bridge (7m 77ch - 8m 10ch).
-London-North-Western-North	0942	NW7023	Philips Park W. Jn. - Brewery Jn.	Philips Park W. Jn.	Brewery Jn.	8	/	Y		
-London-North-Western-North	0942	NW7025	Philips Park West Jn. - Ashburys West Jn.	Philips Park West Jn.	Ashburys West Jn.	8 R	SB1C	Y	R	This route is RA7 between Philips Park South Jn. and Ashburys West Jn.
-London-North-Western-North	0942	NW7027	Baguley Fold Jn. - Philips Park South Jn.	Baguley Fold Jn.	Philips Park South Jn.	8	/	Y		
-London-North-Western-North	0942	NW8001	Hunts Cross West Jn. - Southport	Hunts Cross West Jn.	Southport	8	/	R	R	ELR: HXS1 – HXS2 – HXS3: vehicles which exceed the RA of the line may be permitted for engineering train purposes only, subject to special dispensation being granted by the Territory Structures Assessment Engineer.
-London-North-Western-North	0942	NW8003	Paradise Jn. - James Street (Stock Interchange/Holding line)	Paradise Jn.	James Street (Stock Interchange/Holding line)	8	/	Y		
-London-North-Western-North	0942	NW8005	Sandhills Jn. – Ormskirk	Sandhills Jn.	Ormskirk	8 R	/	--	R	This line is RA7 between Sandhills Jn. and Walton Jn.
-London-North-Western-North	0942	NW8007	Bootle Jn. - Aintree Emergency G.F.	Bootle Jn.	Aintree Emergency G.F.	7 R	/	Y	R	This line is RA8 at Bootle Jn. - 3m 52ch.
-London-North-Western-North	0942	NW8009	Walton Jn. – Kirkby	Walton Jn.	Kirkby	8	/	Y		
-London-North-Western-North	0942	NW8011	Mann Island Jn. - West Kirby (via Loop)	Mann Island Jn.	West Kirby (via Loop)	8	/	Y		
+London-North-Western-North	0942	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0942	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7011	LHL	Farington Jn	Limit of Electrification	Farington Jn – Limit of Electrification	0	00	0	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7011	LHL	Limit of Electrification	Lostock Hall Jn (Lostock Hall Lines)	Limit of Electrification – Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7015	PRG	End of Line (Padiham Power Station Sidings)	Rose Grove West Jn	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0942	NW7017	GJC	Gannow Jn	Colne	Gannow Jn – Colne	21	03	27	37	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 30mph over Bridge 91 (25m 33ch – 25m 34ch)
+London-North-Western-North	0942	NW7019	MPR2	Thorpes Bridge Jn	Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7021	MVL1	Miles Platting Jn	Philips Park West Jn	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7021	MVL1	Philips Park West Jn	Baguley Fold Jn	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7021	MVL1	Baguley Fold Jn	Ashton Moss North Jn	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7021	MVL1	Ashton Moss North Jn	Stalybridge Jn	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7021	MVL2	Stalybridge Jn	Stalybridge Tunnel Jn	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7021	MVL3	Stalybridge Tunnel Jn	Route Boundary (LN860) (Springwood Jn)	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7023	BPP	Philips Park West Jn	Brewery Jn	Philips Park West Jn – Brewery Jn	0	00	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7025	PPA1	Philips Park West Jn	Philips Park South Jn	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0942	NW7025	PPA1	Philips Park South Jn	Change of Mileage	Philips Park South Jn – Change of Mileage	2	07	3	12	7	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 4 (02m 20ch – 2m 40ch)

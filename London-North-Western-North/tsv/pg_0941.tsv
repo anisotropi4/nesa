@@ -1,10 +1,22 @@
-London-North-Western-North	0941	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes	
-London-North-Western-North	0941	NW6009	Windsor Bridge North Jn. - Southport	Windsor Bridge North Jn.	Southport	8	R1	R2	R1 R2	Clear to W6A Ex. (W7) Crow Nest Jn. - Southport. RA8/9/10 vehicles prohibited Windsor Bridge North Jn - Crow Nest Jn. unless down-loaded to 21¼ t maximum laden axle weight. RA9/10 vehicles may run between Wigan Wallgate Jn. and Southport if special dispensation has been granted by the Territory Track Engineer.
-London-North-Western-North	0941	NW6011	Bolton East Jn. - Blackburn Bolton Jn.	Bolton East Jn.	Blackburn Bolton Jn.	8	/	R	R	ELR: BBB Br.47: RA9/10 vehicles restricted to 10mph over the bridge (20m 50ch).
-London-North-Western-North	0941	NW6013	Lostock Jn. - Crow Nest Jn.	Lostock Jn.	Crow Nest Jn.	8	W6A Ex. (W7)	Y		
-London-North-Western-North	0941	NW6015	Wigan Wallgate – Kirkby	Wigan Wallgate	Kirkby	7	/	Y		
-London-North-Western-North	0941	NW7001	Manchester Victoria West Jn. - Hebden Bridge	Manchester Victoria West Jn.	Hebden Bridge	8	R1	R2	R1 R2	SB1C (W9) Manchester Victoria West Jn. - Miles Platting Jn. W6A Ex. (W7) Miles Platting Jn. - Hebden Bridge. RA9/10 vehicles restricted to 20mph between Brewery Jn. and Thorpes Bridge Jn. on the Down Passenger Loop. ELR: MVN2, Br.105: RA9/10 vehicles are restricted to 20mph over the bridge (19mch - 19m 40ch).
-London-North-Western-North	0941	NW7005	Castleton East Jn. - Hopwood G.F.	Castleton East Jn.	Hopwood G.F.	8	/	Y		
-London-North-Western-North	0941	NW7007	Farington Curve Jn. - Ormskirk	Farington Curve Jn.	Ormskirk	8	/	R	R	Freight vehicles may only be permitted subject to special dispensation being granted by the Territory Structures Assessment Engineer.
-London-North-Western-North	0941	NW7009	Farington Curve Jn. - Hall Royd Jn.(East Lancs lines)	Farington Curve Jn.	Hall Royd Jn.(East Lancs lines)	8	R1	R2	R1 R2	W6A Ex. (W7) Farington Curve Jn. - Daisyfield. ELR: FHR4, Br.15: RA9/10 vehicles restricted to 50mph over the bridge, Pleasington Viaduct (7m 64ch to 7m 78ch) in both directions. ELR: FHR4, Br.27: RA9/10 vehicles restricted to 30mph over the bridge (10m 16ch - 10m 27ch). ELR: FHR4, Br.29: RA9/10 vehicles restricted to 20mph over the bridge on the ‘Up & Down’ Through line and the Down Main line (10m 40ch - 10m 60ch). ELR: FHR6, Br.10: RA9/10 vehicles restricted to 20mph over the bridge (28m 60ch - 29mch).
-London-North-Western-North	0941	NW7011	Farington Jn. - Lostock Hall Jn. (Lostock Hall Lines)	Farington Jn.	Lostock Hall Jn. (Lostock Hall Lines)	8	W6A Ex. (W7)	Y		
+London-North-Western-North	0941	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0941	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW6011	BBB	Bolton East Jn	Blackburn Bolton Jn	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW6013	LCN	Lostock Jn	Crow Nest Jn	Lostock Jn –Crow Nest Jn	13	39	17	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW6015	WKL1	Wigan Wallgate Jn	Change of Mileage (Pemberton)	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	7	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW6015	WKL2	Change of Mileage (Pemberton)	Kirkby	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	7	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005)	Miles PlattingJn	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles PlattingJn	0	09	1	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7001	MVN2	Hall Royd Jn	Route Boundary (LN854) (Turners Lane Jn)	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7005	CEH	Castleton East Jn	Castleton North Jn	Castleton East Jn – Castleton North Jn	0	00	0	37	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7005	CPI1	Castleton South Jn	Castleton North Jn	Castleton South Jn – Castleton North Jn	8	21	8	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7005	CPI2	Castleton North Jn	Network Rail / East Lancashire Railway Boundary (Hopwood)	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7006	SFO	Todmorden Viaduct Jn	Stansfield Hall Jn	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	8	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0941	NW7007	FCO	Farington Curve Jn	Ormskirk	Farington Curve Jn – Ormskirk	25	64	12	15	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7009	FHR1	Farington Curve Jn	Lostock Hall Depot	Farington Curve Jn – Lostock Hall Depot	0	00	0	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7009	FHR2	Lostock Hall Depot	Lostock Hall Jn	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0941	NW7009	FHR3	Lostock Hall Jn	Change of ELR (Site of Former Bamber Bridge Jn)	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	8	Y	Y	Y	Y	Y	Y	Y	Y	

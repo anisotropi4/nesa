@@ -1,0 +1,22 @@
+London-North-Western-North	0997	Line of route	ELR	LineofRoute/SectorDescription		LineofRoute/SectorDescription	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
+London-North-Western-North	0997	NW7001	MPR1	MilesPlattingJn	Brewery Jn	MilesPlattingJn–BreweryJn	1	30	1	52	8	Y	
+London-North-Western-North	0997	NW7001	MPR1	BreweryJn	Thorpes Bridge Jn	BreweryJn–ThorpesBridgeJn	1	52	2	17	8	Y	
+London-North-Western-North	0997	NW7001	MVN2	ThorpesBridgeJn	Castleton South Jn	ThorpesBridgeJn–CastletonSouthJn	2	17	8	21	8	Y	
+London-North-Western-North	0997	NW7001	MVN2	CastletonSouthJn	Castleton East Jn	CastletonSouthJn–CastletonEastJn	8	21	8	52	8	Y	
+London-North-Western-North	0997	NW7001	MVN2	CastletonEastJn	Hall Royd Jn	CastletonEastJn–HallRoydJn	8	52	19	61	8	R1 R2 R3	R1 Prohibited through Summit Tunnel (Down L & Y) R2 Prohibited through Summit Tunnel (Up L & Y) R3 Prohibited through Deanroyd Tunnel (Down L & Y)
+London-North-Western-North	0997	NW7001	MVN2	HallRoydJn	Route Boundary (LN854) (Turners Lane Jn)	HallRoydJn–RouteBoundary(LN854)(TurnersLaneJn)	19	61	22	62	8	Y	
+London-North-Western-North	0997	NW7005	CEH	CastletonEastJn.	Castleton North Jn	CastletonEastJn.–CastletonNorthJn	0	00	0	37	8	Y	
+London-North-Western-North	0997	NW7005	CPI1	CastletonSouthJn	Castleton North Jn	CastletonSouthJn–CastletonNorthJn	8	21	8	50	8	Y	
+London-North-Western-North	0997	NW7005	CPI2	CastletonNorthJn	Network Rail / East Lancashire Railway Boundary (Hopwood)	CastletonNorthJn–NetworkRail/EastLancashireRailwayBoundary(Hopwood)	8	50	9	04	8	Y	
+London-North-Western-North	0997	NW7007	FCO	FaringtonCurveJn	Ormskirk	FaringtonCurveJn–Ormskirk	25	64	12	15	8	Y	
+London-North-Western-North	0997	NW7009	FHR1	FaringtonCurveJn	Lostock Hall Depot	FaringtonCurveJn–LostockHallDepot	0	00	0	75	8	Y	
+London-North-Western-North	0997	NW7009	FHR2	LostockHallDepot	Lostock Hall Jn	LostockHallDepot–LostockHallJn	0	75	1	42	8	Y	
+London-North-Western-North	0997	NW7009	FHR3	LostockHallJn	Change of ELR (Site of Former Bamber Bridge Jn)	LostockHallJn–ChangeofELR(SiteofFormerBamberBridgeJn)	1	42	2	10	8	Y	
+London-North-Western-North	0997	NW7009	FHR4	ChangeofELR(SiteofFormerBamberBridgeJn)	Blackburn Bolton Jn	ChangeofELR(SiteofFormerBamberBridgeJn)–BlackburnBoltonJn	2	10	10	11	8	Y	
+London-North-Western-North	0997	NW7009	FHR4	BlackburnBoltonJn	Blackburn	BlackburnBoltonJn–Blackburn	10	11	10	42	8	Y	
+London-North-Western-North	0997	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn–DaisyfieldJn	10	42	11	09	8	Y	
+London-North-Western-North	0997	NW7009	FHR5	DaisyfieldJn	Gannow Jn	DaisyfieldJn–GannowJn	11	09	21	03	8	R1	R1 Prohibited between Huncoat and Hapton on the Up East Lancs line
+London-North-Western-North	0997	NW7009	FHR6	GannowJn	Hall Royd Jn	GannowJn–HallRoydJn	21	03	30	54	8	R1 R2	R1 Prohibited between Burnley Manachester Road and Copy Pit on the Down East Lancs line R2 Prohibited between Burnley Manachester Road and Hall Royd Jn on the Up East Lancs line
+London-North-Western-North	0997	NW7011	LHL	FaringtonJn–Limitofelectrification		FaringtonJn–Limitofelectrification	0	00	0	56	8	Y	
+London-North-Western-North	0997	NW7011	LHL	Limitofelectrification	Lostock Hall Jn (Lostock Hall Lines)	Limitofelectrification–LostockHallJn(LostockHallLines)	0	56	0	77	8	Y	
+London-North-Western-North	0997	NW7013	DJH	DaisyfieldJn	Hellifield	DaisyfieldJn–Hellifield	11	09	34	68	8	Y	

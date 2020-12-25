@@ -1,7 +1,21 @@
-London-North-Western-North	0933	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	86	87	88	90	91	92
-London-North-Western-North	0933	NW9903	SJC	Change of Mileage (Wennington)	Change of Mileage (Site of former Carnforth East Jn)	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	8	H	H	Y	H	N	N
-London-North-Western-North	0933	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn)	Carnforth Station Jn	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	8	H	H	Y	H	N	N
-London-North-Western-North	0933	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	7	N	N	Y	N	N	N
-London-North-Western-North	0933	NW9907	EDE	Network Rail Boundary (Warcop)	End of Line	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	7	N	N	Y	N	N	N
-London-North-Western-North	0933	NW9909	NEC2	Route Boundary (LN682) (Corby Gates)	Petteril Bridge Jn	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	8	H	H	Y	H	H	H
-London-North-Western-North	0933	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods Lines)	London Road Jn – Bog Jn (Newcastle Goods Lines)	0	00	0	25	8	N	N	Y	N	N	N
+London-North-Western-North	0933	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0933	NW1013	CSG	Crewe Sorting Sidings North	Gresty Lane	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1015	CIL	Salop Goods Jn	Crewe North Jn (Chester Independent Lines)	Salop Goods Jn – Crewe North Jn (Chester Independent Lines)	157	64	158	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1017	LLI	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard	Liverpool Independent Lines)	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard – Liverpool Independent Lines)	157	71	158	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1019	CHW1/ 2	Acton Grange Jn	Warrington South Jn (Helsby lines)	Acton Grange Jn – Warrington South Jn (Helsby lines)	16	19	17	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1021	WEE	Winwick Jn	Earlestown East Jn	Winwick Jn – Earlestown East Jn	185	49	187	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1021	DSE	Earlestown East Jn	Newton-le- Willows Jn (Electrified section)	Earlestown East Jn – Newton-le- Willows Jn (Electrified section)	14	75	16	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1021	NGJ	Newton-le-Willows Jn	Golborne Jn	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1023	HOB2	Haydock Branch Jn	End of Line	Haydock Branch Jn – End of Line	0	00	0	53	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1025	IMG	Bamfurlong Sidings Jn	Ince Moss Jn	Bamfurlong Sidings Jn – Ince Moss Jn	0	18	0	78	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1027	PSR1	Preston South Jn	Preston Docks Branch (Change of ELR)	Preston South Jn – Preston Docks Branch (Change of ELR)	21	39	21	47	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW1027	PSR2	Preston Docks Branch (Change of ELR)	Network Rail Boundary (Ribble Steam Railway)	Preston Docks Branch (Change of ELR) – Network Rail Boundary (Ribble Steam Railway)	0	00	0	40	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2001	WJL1	NW1001 (Weaver Jn)	Ditton East Jn	NW1001 (Weaver Jn) – Ditton East Jn	174	53	182	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2001	WJL2	Ditton East Jn	Speke East Jn	Ditton East Jn – Speke East Jn	182	67	186	72	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2001	WJL3	Speke Est Jn	Edge Hill East Jn	Speke Est Jn – Edge Hill East Jn	186	72	191	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2001	WJL4	Edge Hill East Jn	Liverpool Lime Street	Edge Hill East Jn – Liverpool Lime Street	191	75	193	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2003	RDB	Runcorn	Network Rail Boundary (Runcorn Dock Branch)	Runcorn – Network Rail Boundary (Runcorn Dock Branch)	0	02	0	69	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2005	SCR	Speke East Jn	Garston Jn	Speke East Jn – Garston Jn	22	59	23	52	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2007	AEG	Allerton East Jn	Garston Jn	Allerton East Jn – Garston Jn	0	00	0	28	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2009	SDJ2	End of Line (Latchford)	Ditton East Jn	End of Line (Latchford) – Ditton East Jn	10	06	18	55	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0933	NW2011	WOA1	Walton Old Jn	Arpley Jn	Walton Old Jn – Arpley Jn	0	68	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	

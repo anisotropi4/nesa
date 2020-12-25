@@ -1,13 +1,17 @@
-London-North-Western-North	0976	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	Gauge								Notes
-London-North-Western-North	0976										W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Western-North	0976	NW9901	SKW1	Route Boundary (LN922) (Gargrave)	Settle Jn	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	0976	NW9901	SAC	Settle Jn	Petteril Bridge Jn	Settle Jn – Petteril Bridge Jn	234	44	307	12	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	0976	NW9901	NEC2	Petteril Bridge Jn	London Road Jn	Petteril Bridge Jn – London Road Jn	59	26	59	45	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	0976	NW9901	NEC2	London Road Jn	Carlisle South Jn	London Road Jn – Carlisle South Jn	59	45	60	02	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0976	NW9903	SKW1	Settle Jn	Change of ELR (Site of former Wennington Jn)	Settle Jn – Change of ELR (Site of former Wennington Jn)	234	44	249	44	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	0976	NW9903	SJC	Change of ELR (Site of former Wennington Jn)	Change of ELR (Site of former Carnforth East Jn)	Change of ELR (Site of former Wennington Jn) – Change of ELR (Site of former Carnforth East Jn)	9	45	0	31	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	0976	NW9903	CEC	Change of ELR (Site of Former Carnforth East Jn)	Carnforth Station Jn	Change of ELR (Site of Former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0976	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	Y	N	N	N	N	N	N	N	Line Not in Regular Use
-London-North-Western-North	0976	NW9907	EDE	Network Rail Boundary (Warcop)	End of line	Network Rail Boundary (Warcop) – End of line	11	03	11	46	Y	N	N	N	N	N	N	N	Line Not in Regular Use
-London-North-Western-North	0976	NW9909	NEC2	Route Boundary (LN682) (Scotby)	Petteril Bridge Jn	Route Boundary (LN682) (Scotby) – Petteril Bridge Jn	58	00	59	26	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0976	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods lines)	London Road Jn – Bog Jn (Newcastle Goods lines)	0	00	0	25	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0976	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes	
+London-North-Western-North	0976	NW1001	Armitage Jn. (Incl.) - Preston Fylde Jn.	Armitage Jn. (Incl.)	Preston Fylde Jn.	8	SB1C (W9)	Y		
+London-North-Western-North	0976	NW1002	Penkridge Station (incl.) to Trent Valley Jn. No.1 (Stafford)	Penkridge Station (incl.) to Trent Valley Jn. No.1 (Stafford)		8	SB1C (W9)	Y		
+London-North-Western-North	0976	NW1003	Silverdale – Madeley (Out of use)	Silverdale	Madeley (Out of use)	-	/	--		
+London-North-Western-North	0976	NW1004	Rugeley Town (excl.) to Rugeley North Jn.	Rugeley Town (excl.) to Rugeley North Jn.		8	W6A (W6)	Y		
+London-North-Western-North	0976	NW1005	Kidsgrove Jn. - Crewe South Jn.	Kidsgrove Jn.	Crewe South Jn.	8	SB1C (W9) R	Y	R	Also clear for 9’ 6” containers (W10) on specific vehicles.
+London-North-Western-North	0976	NW1007	Nantwich (excl.) - Crewe South Jn.	Nantwich (excl.)	Crewe South Jn.	8	W6A Ex. (W7)	Y		
+London-North-Western-North	0976	NW1009	Basford Hall Jn. – Sandbach South Jn. (Independent Lines)	Basford Hall Jn.	Sandbach South Jn. (Independent Lines)	8	SB1C (W9)	Y		
+London-North-Western-North	0976	NW1011	Gresty Lane - Salop Goods Jn.	Gresty Lane	Salop Goods Jn.	8	W6A Ex. (W7)	Y		
+London-North-Western-North	0976	NW1013	Crewe Sorting Sidings North – Gresty Lane	Crewe Sorting Sidings North	Gresty Lane	8	W6A Ex. (W7)	R	R	Permitted Gresty Lane - Salop Goods Loop Jn. in Up direction only.
+London-North-Western-North	0976	NW1015	Salop Goods Jn - Crewe North. Jn. (Chester Independent Lines)	Salop Goods Jn	Crewe North. Jn. (Chester Independent Lines)	8	W6A Ex. (W7)	Y		
+London-North-Western-North	0976	NW1017	Salop Goods Jn. – Crewe Coal Yard (Liverpool Independent Lines)	Salop Goods Jn.	Crewe Coal Yard (Liverpool Independent Lines)	8	SB1C (W9)	Y		
+London-North-Western-North	0976	NW1019	Acton Grange Jn. - Warrington South Jn. (Helsby lines)	Acton Grange Jn.	Warrington South Jn. (Helsby lines)	8	SB1C (W9)	Y		
+London-North-Western-North	0976	NW1021	Winwick Jn. - Golborne Jn. (via Earlestown)	Winwick Jn.	Golborne Jn. (via Earlestown)	8	SB1C (W9)	R	R	RA9/10 vehicles are restricted to 10mph between Lowton Jn. and Golborne Jn.
+London-North-Western-North	0976	NW1023	Haydock Branch Jn. - Kelbit P.S.	Haydock Branch Jn.	Kelbit P.S.	8	/	Y		
+London-North-Western-North	0976	NW1025	Bamfurlong Sidings Jn. - Ince Moss Jn. (Ince Moss Goods Lines)	Bamfurlong Sidings Jn.	Ince Moss Jn. (Ince Moss Goods Lines)	7	W6A Ex. (W12)	Y		
+London-North-Western-North	0976	NW1027	Preston South Jn. - Strand Road	Preston South Jn.	Strand Road	8	/	Y		

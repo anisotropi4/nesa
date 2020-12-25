@@ -1,24 +1,24 @@
-London-North-Western-North	0855	NW8001	HXS3	Sandhills Jn	Bootle Jn	Sandhills Jn – Bootle Jn	1	41	2	39	N	N	N	Y	Y
-London-North-Western-North	0855	NW8001	HXS3	Bootle Jn	Southport	Bootle Jn – Southport	2	39	18	35	N	N	N	Y	Y
-London-North-Western-North	0855	NW8003	SIL	Paradise Jn	James Street (Stock Interchange/Holding line)	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	N	N	N	Y	Y
-London-North-Western-North	0855	NW8005	SJO1	Sandhills Jn	Walton Jn	Sandhills Jn – Walton Jn	34	75	33	16	N	N	N	Y	Y
-London-North-Western-North	0855	NW8005	SJO2	Walton Jn	Ormskirk	Walton Jn – Ormskirk	3	20	12	13	N	N	N	Y	Y
-London-North-Western-North	0855	NW8007	HXS/ NMM	Bootle Jn	Change of ELR (Site of former North Mersey Jn)	Bootle Jn – Change of ELR (Site of former North Mersey Jn)	2	34	3	52	N	N	N	N	N
-London-North-Western-North	0855	NW8007	NMB	Change of ELR (Site of former North Mersey Jn)	Change of ELR (Site of former Sefton Jn)	Change of ELR (Site of former North Mersey Jn) – Change of ELR (Site of former Sefton Jn)	34	40	32	42	N	N	N	N	N
-London-North-Western-North	0855	NW8007	AFL	Change of ELR (Site of former Sefton Jn)	Aintree Station Jn	Change of ELR (Site of former Sefton Jn) – Aintree Station Jn	0	00	0	40	N	N	N	N	N
-London-North-Western-North	0855	NW8009	WJK	Walton Jn	Kirkby	Walton Jn – Kirkby	33	16	29	41	N	N	N	Y	Y
-London-North-Western-North	0855	NW8011	MIR1	Mann Island Jn	Mann Island Jn via Loop	Mann Island Jn – Mann Island Jn via Loop	0	00	2	12	N	N	N	Y	Y
-London-North-Western-North	0855	NW8011	MIR2	Mann Island Jn	Hamilton Square Jn	Mann Island Jn – Hamilton Square Jn	0	69	1	72	N	N	N	Y	Y
-London-North-Western-North	0855	NW8011	CWK1	Hamilton Square Jn	Change of ELR (Birkenhead Park)	Hamilton Square Jn – Change of ELR (Birkenhead Park)	1	72	3	00	N	N	N	Y	Y
-London-North-Western-North	0855	NW8011	CWK2	Change of ELR (Birkenhead Park)	Bidston East Jn	Change of ELR (Birkenhead Park) – Bidston East Jn	3	00	4	40	N	N	N	Y	Y
-London-North-Western-North	0855	NW8011	CWK3	Bidston East Jn	Bidston Dee Jn	Bidston East Jn – Bidston Dee Jn	4	40	4	78	N	N	N	Y	Y
-London-North-Western-North	0855	NW8011	CWK3	Bidston Dee Jn	West Kirby	Bidston Dee Jn – West Kirby	4	78	10	46	N	N	N	Y	Y
-London-North-Western-North	0855	NW8013	MIR2	Canning Street Jn	Rock Ferry	Canning Street Jn – Rock Ferry	1	60	3	42	N	N	N	Y	Y
-London-North-Western-North	0855	NW8013	CRR2	Rock Ferry	Hooton South Jn	Rock Ferry – Hooton South Jn	13	43	7	68	N	N	N	Y	Y
-London-North-Western-North	0855	NW8015	BEN	Bidston East Jn	New Brighton (New Brighton lines)	Bidston East Jn – New Brighton (New Brighton lines)	4	40	7	18	N	N	N	Y	Y
-London-North-Western-North	0855	NW8017	CCS1/ 2	Network Rail Boundary (Canning Street North)	Rock Ferry South Jn	Network Rail Boundary (Canning Street North) – Rock Ferry South Jn	15	40	13	30	N	N	N	N	N
-London-North-Western-North	0855	NW9001	MAS	Route Boundary (LN808) (Dore West Jn)	Chinley North Jn	Route Boundary (LN808) (Dore West Jn) – Chinley North Jn	154	20	174	01	N	N	N	N	N
-London-North-Western-North	0855	NW9001	TTA1	Chinley North Jn	New Mills South Jn	Chinley North Jn – New Mills South Jn	168	39	172	27	N	N	N	N	N
-London-North-Western-North	0855	NW9001	NMC1	New Mills South Jn	Hazel Grove High Level Jn	New Mills South Jn – Hazel Grove High Level Jn	172	27	177	40	N	N	N	N	N
-London-North-Western-North	0855	NW9001	HGC	Hazel Grove High Level Jn	Hazel Grove East Jn	Hazel Grove High Level Jn – Hazel Grove East Jn	2	62	2	35	N	N	N	N	N
-London-North-Western-North	0855	NW9001	BEJ	Hazel Grove East Jn (Limit of electrification)	Edgeley Jn No.1	Hazel Grove East Jn (Limit of electrification) – Edgeley Jn No.1	2	35	0	00	N	N	N	N	N
+London-North-Western-North	0855	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Western-North	0855	NW9001	BEJ	Hazel Grove East Jn (Limit of electrification)	Edgeley Jn No.1	Hazel Grove East Jn (Limit of electrification) – Edgeley Jn No.1	2	35	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9003	CYC	Chinley East Jn	Chinley South Jn (Chord Line)	Chinley East Jn – Chinley South Jn (Chord Line)	168	32	167	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9005	CNB1	Chinley North Jn	Chinley South Jn	Chinley North Jn – Chinley South Jn	168	39	167	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9005	CNB1	Chinley South Jn	Change of Mileage (Site of Former Peak Forest Jn)	Chinley South Jn – Change of Mileage (Site of Former Peak Forest Jn)	167	56	161	05	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9005	CNB2	Change of Mileage (Site of Former Peak Forest Jn)	Change of Mileage (Site of Former Buxton Jn)	Change of Mileage (Site of Former Peak Forest Jn) – Change of Mileage (Site of Former Buxton Jn)	0	00	0	28	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9005	CNB3	Change of Mileage (Site of Former Buxton Jn)	Buxton SB	Change of Mileage (Site of Former Buxton Jn) – Buxton SB	161	15	164	52	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9005	CNB4	Buxton SB	Buxton Sidings	Buxton SB – Buxton Sidings	164	52	165	12	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9007	TTA1	New Mills South Jn	Marple Wharf Jn	New Mills South Jn – Marple Wharf Jn	172	17	177	23	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9007	TTA1	Marple Wharf Jn	Romiley Jn	Marple Wharf Jn – Romiley Jn	177	23	178	33	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9007	TTA1	Romiley Jn	Brinnington (Change of Mileage)	Romiley Jn – Brinnington (Change of Mileage)	178	33	181	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9007	TTA2	Brinnington (Change of Mileage)	Ashburys East Jn	Brinnington (Change of Mileage) – Ashburys East Jn	42	77	46	24	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9009	MRH	Marple Wharf Jn	Rose Hill Buffer Stop	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9011	RYH1	Romiley Jn	Woodley Jn	Romiley Jn – Woodley Jn	178	33	179	44	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9011	RYH2	Woodley Jn	Hyde Jn	Woodley Jn – Hyde Jn	8	74	6	16	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9013	WJP1	Woodley Jn	Bredbury Sidings	Woodley Jn – Bredbury Sidings	40	53	39	58	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9017	NMC1/ 2	Hazel Grove High Level Jn	Cheadle Jn	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9017	WJP1	Cheadle Jn	Northenden Jn	Cheadle Jn – Northenden Jn	35	64	33	52	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9019	BUX	Buxton	Brigg’s Sidings	Buxton – Brigg’s Sidings	0	00	4	70	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0855	NW9021	BEJ	Buxton	Hazel Grove East Jn	Buxton – Hazel Grove East Jn	19	09	2	35	Y	N	N	N	Y	N	Y	Y	Y	N	
+London-North-Western-North	0855	NW9901	SKW1	Route Boundary (LN922) (Gargrave)	Settle Jn	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9901	SAC	Settle Jn	Petteril Bridge Jn	Settle Jn – Petteril Bridge Jn	234	44	307	12	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9901	NEC2	Petteril Bridge Jn	London Road Jn	Petteril Bridge Jn – London Road Jn	59	26	59	45	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0855	NW9901	NEC2	London Road Jn	Carlisle South Jn	London Road Jn – Carlisle South Jn	59	45	60	02	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	

@@ -1,11 +1,21 @@
-London-North-Western-North	0858	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-North	0858	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary)	Rugeley North Jn	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	Y	Y	Y	N	Y	Y	N	Y	Y	
-London-North-Western-North	0858	NW1001	LEC2	Rugeley North Jn	Colwich Jn	Rugeley North Jn – Colwich Jn	124	39	127	05	Y	Y	Y	N	Y	Y	N	Y	Y	
-London-North-Western-North	0858	NW1001	LEC2	Colwich Jn	Stafford Trent Valley Jn No.1	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	Y	Y	Y	N	Y	Y	N	Y	Y	
-London-North-Western-North	0858	NW1001	LEC3	Stafford Trent Valley Jn No.1	Change of ELR (North of Stafford)	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	Y	Y	Y	Y	Y	Y	N	Y	R1 R2	R2 Prohibited Stafford Up Bay platform R3 Prohibited Stafford Royal Mail Terminal platform 7
-London-North-Western-North	0858	NW1001	LEC4	Change of ELR (North of Stafford)	Little Bridgeford Jn	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	Y	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Western-North	0858	NW1001	LEC4	Little Bridgeford Jn	Heamies Bridge	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	Y	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Western-North	0858	NW1001	LEC6	Little Bridgeford Jn	Heamies Bridge (Down Slow line only)	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	Y	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Western-North	0858	NW1001	LEC4	Heamies Bridge	Basford Hall Jn	Heamies Bridge – Basford Hall Jn	140	00	156	16	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0858	NW1001	LEC4	Basford Hall Jn	Change of ELR (Crewe South)	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0858	NW1001	LEC5	Change of ELR (Crewe South)	Crewe South Jn	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0858	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	220	221	222	Notes
+London-North-Western-North	0858	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	N	N	N	R1	R1	Y	Y	T	N	R1 Prohibited Preston platforms 3C and 4C
+London-North-Western-North	0858	NW1001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	N	N	N	Y	Y	Y	Y	T	N	
+London-North-Western-North	0858	NW1001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	N	N	N	Y	N	Y	Y	T	N	
+London-North-Western-North	0858	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station)	Stafford Trent Valley Jn No.1	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	E R1	Y	Y	Y	N	N	Y	T	N	R1 Prohibited between Penkridge and Stafford Trent Valley Jn No.1
+London-North-Western-North	0858	NW1003	HCM2	Buffer Stop (Silverdale Colliery End)	Madeley Chord Jn	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0858	NW1003	HCM3	Madeley Chord Jn	Madeley Jn	Madeley Chord Jn – Madeley Jn	0	25	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0858	NW1003	HCM2	Madeley Chord Jn	End of Line	Madeley Chord Jn – End of Line	7	36	8	14	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0858	NW1004	RRN2	Route Boundary (MD345) (Cannock Change of ELR)	Rugeley North Jn	Route Boundary (MD345) (Cannock Change of ELR) – Rugeley North Jn	14	00	14	69	N	N	Y	N	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1005	KCS1	Kidsgrove Jn	Crewe South Jn	Kidsgrove Jn – Crewe South Jn	0	00	8	27	N	N	Y	Y	N	N	Y	Y	Y	
+London-North-Western-North	0858	NW1007	SYC	Route Boundary (GW735) (Crewe Jn)	Limit of Electrification	Route Boundary (GW735) (Crewe Jn) – Limit of Electrification	2	60	1	41	N	Y	Y	Y	N	N	N	Y	N	
+London-North-Western-North	0858	NW1007	SYC	Limit of Electrification	Crewe South Jn	Limit of Electrification – Crewe South Jn	1	41	0	00	N	Y	Y	Y	N	N	N	Y	N	
+London-North-Western-North	0858	NW1009	BHI	Basford Hall Jn	Site of Former Sydney Bridge Jn (Independent Lines)	Basford Hall Jn – Site of Former Sydney Bridge Jn (Independent Lines)	156	16	158	76	N	N	N	Y	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1009	CMP1	Site of Former Sydney Bridge Jn	Sandbach South Jn (Independent Lines)	Site of Former Sydney Bridge Jn – Sandbach South Jn (Independent Lines)	158	76	162	28	N	N	N	Y	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1011	GSG	Gresty Lane Jn	Salop Goods Jn	Gresty Lane Jn – Salop Goods Jn	0	00	0	37	N	N	N	Y	N	N	N	N	N	
+London-North-Western-North	0858	NW1013	CSG	Crewe Sorting Sidings North	Gresty Lane	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0858	NW1015	CIL	Salop Goods Jn	Crewe North Jn (Chester Independent Lines)	Salop Goods Jn – Crewe North Jn (Chester Independent Lines)	157	64	158	18	N	N	N	Y	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1017	LLI	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard	Liverpool Independent Lines)	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard – Liverpool Independent Lines)	157	71	158	73	N	N	N	Y	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1019	CHW1/ 2	Acton Grange Jn	Warrington South Jn (Helsby lines)	Acton Grange Jn - Warrington South Jn (Helsby lines)	16	19	17	76	N	N	N	Y	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1021	WEE	Winwick Jn	Earlestown East Jn	Winwick Jn – Earlestown East Jn	185	49	187	10	N	N	N	Y	N	N	Y	Y	N	
+London-North-Western-North	0858	NW1021	DSE	Earlestown East Jn	Newton-le-Willows Jn (Electrified section)	Earlestown East Jn - Newton-le-Willows Jn (Electrified section)	14	75	16	19	N	N	N	Y	N	N	Y	Y	N	

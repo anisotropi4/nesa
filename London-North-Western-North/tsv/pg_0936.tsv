@@ -1,18 +1,24 @@
-London-North-Western-North	0936	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes	
-London-North-Western-North	0936	NW2001	Weaver Jn. – Liverpool Lime Street	Weaver Jn.	Liverpool Lime Street	8	SB1C (W9) R1	R2	R1 R2	SB1C Weaver Jn. – Edge Hill only. RA9/10 loaded freight vehicles are normally permitted between Weaver Jn. and Edge Hill only, but may also be permitted between Edge Hill and Liverpool Lime Street subject to the Territory Track Engineer granting special dispensation. Between Wavertree Jn. and Edge Hill station such vehicles must only be routed on the Down and Up Ditton Fast lines.
-London-North-Western-North	0936	NW2003	Runcorn - I.C.I. Salt Works (Runcorn Dock Branch)	Runcorn	I.C.I. Salt Works (Runcorn Dock Branch)	8	W6A Ex. (W8)	R	R	ELR: RDB, Bridge No.4 (Folly Lane, Siding Line) vehicles which exceed the RA of the line are prohibited.
-London-North-Western-North	0936	NW2005	Speke Jn. - Garston Jn.	Speke Jn.	Garston Jn.	8	SB1C (W9)	Y		
-London-North-Western-North	0936	NW2007	Allerton East Jn. - Garston Jn.	Allerton East Jn.	Garston Jn.	8	SB1C (W9)	Y		
-London-North-Western-North	0936	NW2009	Arpley Jn. - Ditton East Jn	Arpley Jn.	Ditton East Jn	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0936	NW2011	Walton Old Jn. - Arpley Jn.	Walton Old Jn.	Arpley Jn.	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0936	NW2015	Ordsall Lane Jn. - Edge Hill	Ordsall Lane Jn.	Edge Hill	8	SB1C (W9)	R	R	ELR: DSE, Br.107 – RA9/10 loaded freight vehicles restricted to 30mph over bridge 20mch and 19m 60ch.
-London-North-Western-North	0936	NW2017	Eccles – Weaste	Eccles	Weaste	8	/	Y		
-London-North-Western-North	0936	NW2019	Parkside Jn. - Lowton Jn. (East Curve lines).	Parkside Jn.	Lowton Jn. (East Curve lines).	8	W6A Ex. (W7)	R	R	RA9/10 vehicles restricted to 10mph throughout.
-London-North-Western-North	0936	NW2021	Earlestown South. Jn. - Earlestown West Jn. (Liverpool Curve).	Earlestown South. Jn.	Earlestown West Jn. (Liverpool Curve).	8	SB1C (W9)	Y		
-London-North-Western-North	0936	NW2023	Springs Branch Jn. - Huyton Jn. (St. Helens lines)	Springs Branch Jn.	Huyton Jn. (St. Helens lines)	7	W6A Ex. (W7)	Y		
-London-North-Western-North	0936	NW2025	St. Helens Station Jn. - Ravenhead Jn. (Out of use)	St. Helens Station Jn.	Ravenhead Jn. (Out of use)	-	W6A Ex. (W8)	-		
-London-North-Western-North	0936	NW2027	Edge Hill, Bootle Branch Jn. - Regent Road L.C.	Edge Hill, Bootle Branch Jn.	Regent Road L.C.	8	SB1C (W9)	Y		
-London-North-Western-North	0936	NW2029	Olive Mount Jn to Edge Lane Jn	Olive Mount Jn to Edge Lane Jn		8	W9 & W10	Y		
-London-North-Western-North	0936	NW3001	Crewe North Jn. – Chester East Jn.	Crewe North Jn.	Chester East Jn.	8	W6A Ex. (W7)	Y		
-London-North-Western-North	0936	NW3001	Chester East Jn – Holyhead	Chester East Jn	Holyhead	8	W6A Ex. (W7)	R1	R1	RA9/10 vehicles are restricted to 20mph between Valley and Ty Croes (256m 60ch to 255m 40ch) in the Up direction only.
-London-North-Western-North	0936	NW3003	Chester East Jn – Acton Grange Jn.	Chester East Jn	Acton Grange Jn.	8	W6A Ex. (W7)	R	R	CHW1 Br.9 (2m 56ch), Br.62 (13m 40ch), Br.63 (13m 40ch), Br.64 (13m 74ch): RA9/10 vehicles are restricted to 50mph over these bridges.
+London-North-Western-North	0936	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0936	NW3023	CDM1	Deansgate Jn	Change of ELR (Altrincham)	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW3023	CDM2	Change of ELR (Altrincham)	Mickle Trafford Jn	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW3025	WJP1	Skelton Jn	Partington Jn Network Rail Boundary	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	7	R1	N	R1	R1	R1	R1	R1	R1	R1 Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
+London-North-Western-North	0936	NW3027	CDM1	Network Rail Boundary (Metrolink)	Deansgate Jn	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	8	N	N	N	N	N	N	N	N	
+London-North-Western-North	0936	NW3027	CDM1	Deansgate Jn	Altrincham	Deansgate Jn – Altrincham	7	05	8	00	8	N	N	N	N	N	N	N	N	
+London-North-Western-North	0936	NW3029	SNJ	Sandbach North Jn	Northwich West Jn	Sandbach North Jn – Northwich West Jn	0	00	8	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW3031	NSN	Northwich South Jn	Northwich Station Jn	Northwich South Jn – Northwich Station Jn	8	37	8	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW3033	HEG	Hartford East Jn	Hartford North Jn (East Goods line)	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW3035	HWG	Hartford West Jn	Hartford North Jn (West Goods line)	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW3037	HCN	Hartford CLC Jn	Hartford Jn	Hartford CLC Jn – Hartford Jn	0	72	0	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ6	Preston Fylde Jn	Lancaster	Preston Fylde Jn – Lancaster	0	33	20	78	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ7	Lancaster	Carnforth North Jn	Lancaster – Carnforth North Jn	0	00	6	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ7	Carnforth North Jn	Oxenholme	Carnforth North Jn – Oxenholme	6	08	19	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ7	Oxenholme	Upperby Jn	Oxenholme – Upperby Jn	19	11	68	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	CGJ7	Upperby Jn	Carlisle	Upperby Jn – Carlisle	68	23	69	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	WCM1	Carlisle	Mossband Jn (Including Kingmoor Yard Goods lines)	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	WCM1	Mossband Jn	Gretna Jn	Mossband Jn – Gretna Jn	7	57	8	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	WCM1	Gretna Jn	Route Boundary (SC001) (Gretna Green)	Gretna Jn – Route Boundary (SC001) (Gretna Green)	8	57	12	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4001	UCJ	Upperby Bridge Jn	Upperby Bridge	Upperby Bridge Jn – Upperby Bridge	67	58	68	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW4003	PDB	Preston Fylde Jn	End of line	Preston Fylde Jn – End of line	0	00	1	59	8	N	N	N	N	N	N	N	N	Line out of use

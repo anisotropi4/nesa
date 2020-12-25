@@ -1,22 +1,18 @@
-London-North-Western-North	0900	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58
-London-North-Western-North	0900	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	8	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW6011	BBB	Bolton East Jn	Blackburn Bolton Jn	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW6013	LCN	Lostock Jn	Crow Nest Jn	Lostock Jn – Crow Nest Jn	13	39	17	18	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW6015	WKL1	Wigan Wallgate Jn	Change of Mileage (Pemberton)	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	7	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW6015	WKL2	Change of Mileage (Pemberton)	Kirkby	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	7	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005)	Miles Platting Jn	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7001	MVN2	Hall Royd Jn	Route Boundary (LN854) (Turners Lane Jn)	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7005	CEH	Castleton East Jn	Castleton North Jn	Castleton East Jn – Castleton North Jn	0	00	0	37	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7005	CPI1	Castleton South Jn	Castleton North Jn	Castleton South Jn – Castleton North Jn	8	21	8	50	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7005	CPI2	Castleton North Jn	Network Rail / East Lancashire Railway Boundary (Hopwood)	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7006	SFO	Todmorden Viaduct Jn	Stansfield Hall Jn	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	8	Y	N	Y	Y	Y	Y	Y	N
-London-North-Western-North	0900	NW7007	FCO	Farington Curve Jn	Ormskirk	Farington Curve Jn – Ormskirk	25	64	12	15	8	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7009	FHR1	Farington Curve Jn	Lostock Hall Depot	Farington Curve Jn – Lostock Hall Depot	0	00	0	75	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7009	FHR2	Lostock Hall Depot	Lostock Hall Jn	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0900	NW7009	FHR3	Lostock Hall Jn	Change of ELR (Site of Former Bamber Bridge Jn)	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0900	NW1001	LEC5	Crewe South Jn	Crewe North Jn	Crewe South Jn – Crewe North Jn	157	60	158	18	Y	Y	Y	Y	Y	Y	Y	Y	R1	R1 Prohibited Crewe platform 3
+London-North-Western-North	0900	NW1001	LEC5	Crewe North Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Hartford Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ1	Hartford Jn	Change of ELR (Preston Brook Tunnel)	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel)	Acton Grange Jn	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ2	Acton Grange Jn	Warrington South Jn	Acton Grange Jn – Warrington South Jn	180	24	181	76	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ3	Warrington South Jn	Winwick Jn	Warrington South Jn – Winwick Jn	181	76	185	49	Y	Y	Y	N	Y	N	Y	Y	R1	R1 Prohibited Dallam Royal Mail Terminal platform 1, 2, 3 and 4
+London-North-Western-North	0900	NW1001	CGJ4	Winwick Jn	Golborne Jn	Winwick Jn – Golborne Jn	185	49	187	76	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ5	Golborne Jn	Wigan Station Jn	Golborne Jn – Wigan Station Jn	0	53	6	33	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ5	Wigan Station Jn	Farington Curve Jn	Wigan Station Jn – Farington Curve Jn	6	33	20	08	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ5	Farington Curve Jn	Preston Ribble Jn	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	Y	Y	R1	N	Y	N	R2	Y	R3	R1 Preston D&UGL ECS only R2 Prohibited Preston D&UGL R3 Prohibited Preston Parcels platform
+London-North-Western-North	0900	NW1001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	Y	Y	R1	N	Y	N	R2	Y	R3	R5 Preston D&UGL ECS only R6 Prohibited Preston D&UGL R7 Prohibited Preston Parcels platform
+London-North-Western-North	0900	NW1001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	Y	Y	Y	N	Y	N	Y	Y	Y	
+London-North-Western-North	0900	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station)	Stafford Trent Valley Jn No.1	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	Y	Y	Y	Y	Y	Y	N	Y	N	
+London-North-Western-North	0900	NW1003	HCM2	Buffer Stop (Silverdale Colliery End)	Madeley Chord Jn	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW1003	HCM3	Madeley Chord Jn	Madeley Jn	Madeley Chord Jn – Madeley Jn	0	25	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW1003	HCM2	Madeley Chord Jn	End of Line	Madeley Chord Jn – End of Line	7	36	8	14	N	N	N	N	N	N	N	N	N	

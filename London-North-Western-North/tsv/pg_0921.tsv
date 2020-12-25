@@ -1,22 +1,24 @@
-London-North-Western-North	0921	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	86	87	88	90	91	92
-London-North-Western-North	0921	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station)	Stafford Trent Valley Jn No.1	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	8	Y	Y	Y	Y	N	Y
-London-North-Western-North	0921	NW1003	HCM2	Buffer Stop (Silverdale Colliery End)	Madeley Chord Jn	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	8	N	N	Y	N	N	N
-London-North-Western-North	0921	NW1003	HCM3	Madeley Chord Jn	Madeley Jn	Madeley Chord Jn – Madeley Jn	0	25	0	00	8	N	N	Y	N	N	N
-London-North-Western-North	0921	NW1003	HCM2	Madeley Chord Jn	End of Line	Madeley Chord Jn – End of Line	7	36	8	14	8	N	N	Y	N	N	N
-London-North-Western-North	0921	NW1004	RRN2	Route Boundary (MD345) (Cannock Change of ELR)	Rugeley North Jn	Route Boundary (MD345) (Cannock Change of ELR) – Rugeley North Jn	14	00	14	69	8	H	H	Y	Y	N	Y
-London-North-Western-North	0921	NW1005	KCS1	Kidsgrove Jn	Crewe South Jn	Kidsgrove Jn – Crewe South Jn	0	00	8	27	8	Y	Y	Y	Y	H	Y
-London-North-Western-North	0921	NW1007	SYC	Route Boundary (GW735) (Crewe Jn)	Limit of Electrification	Route Boundary (GW735) (Crewe Jn) – Limit of Electrification	2	60	1	41	8	H	H	Y	H	H	N
-London-North-Western-North	0921	NW1007	SYC	Limit of Electrification	Crewe South Jn	Limit of Electrification – Crewe South Jn	1	41	0	00	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1009	BHI	Basford Hall Jn	Site of Former Sydney Bridge Jn (Independent Lines)	Basford Hall Jn – Site of Former Sydney Bridge Jn (Independent Lines)	156	16	158	76	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1009	CMP1	Site of Former Sydney Bridge Jn	Sandbach South Jn (Independent Lines)	Site of Former Sydney Bridge Jn – Sandbach South Jn (Independent Lines)	158	76	162	28	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1011	GSG	Gresty Lane Jn	Salop Goods Jn	Gresty Lane Jn – Salop Goods Jn	0	00	0	37	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1013	CSG	Crewe Sorting Sidings North	Gresty Lane	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1015	CIL	Salop Goods Jn	Crewe North Jn (Chester Independent Lines)	Salop Goods Jn – Crewe North Jn (Chester Independent Lines)	157	64	158	18	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1017	LLI	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard	Liverpool Independent Lines)	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard – Liverpool Independent Lines)	157	71	158	73	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1019	CHW1/ 2	Acton Grange Jn	Warrington South Jn (Helsby lines)	Acton Grange Jn - Warrington South Jn (Helsby lines)	16	19	17	76	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1021	WEE	Winwick Jn	Earlestown East Jn	Winwick Jn – Earlestown East Jn	185	49	187	10	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1021	DSE	Earlestown East Jn	Newton-le-Willows Jn (Electrified section)	Earlestown East Jn - Newton-le-Willows Jn (Electrified section)	14	75	16	19	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0921	NW1021	NGJ	Newton-le-Willows Jn	Golborne Jn	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0921	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+London-North-Western-North	0921	NW4023	ULR	Upperby Jn	London Rd Jn	Upperby Jn – London Rd Jn	0	00	0	34	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4025	MCG	Currock Jn	Bog Jn	Currock Jn – Bog Jn	0	00	0	44	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4027	BSN	Bruntill Branch Jn	Stainton Jn via Down and Up Brunthill Branch Siding	Bruntill Branch Jn - Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4027	ETC	End of Line Buffer Stops	Network Rail Boundary / Brunthill via Down and Up Brunthill line	End of Line Buffer Stops - Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	9	95	6	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4029	GJH	Mossband Jn	Bush-on-Esk West Jn	Mossband Jn – Bush-on-Esk West Jn	3	02	1	06	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4029	GJH	Bush-on-Esk West Jn	Network Rail Boundary	Bush-on-Esk West Jn – Network Rail Boundary	1	06	0	24	8	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0921	NW4031	GSW	Gretna Jn	Route Boundary (SC031) (Eastriggs)	Gretna Jn – Route Boundary (SC031) (Eastriggs)	116	13	115	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4033	CBC1	Carnforth North Jn	Carnforth Station Jn	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4033	CBC1	Carnforth Station Jn	Limit of Electrification (Carnforth)	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4033	CBC1	Limit of Electrification (Carnforth)	Whitehaven	Limit of Electrification (Carnforth) - Whitehaven	0	60	74	66	8	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 30mph over bridge 151 (59m 05ch - 59m 50ch) for loco hauled trains R2 10mph over bridge CBC1/147 (58m 0.5ch Ravenglass Station Bridge) for loco hauled trains
+London-North-Western-North	0921	NW4033	CBC1	Whitehaven	Bransty SB (Change of ELR)	Whitehaven - Bransty SB (Change of ELR)	74	66	74	73	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4033	CBC2	Bransty SB (Change of ELR)	Change of ELR (Maryport)	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4033	CBC3	Change of ELR (Maryport)	Carlisle South Jn	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW4041	DAP	Dalton Jn	Park South Jn	Dalton Jn – Park South Jn	0	00	0	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP1	Crewe North Jn	Sandbach North Jn	Crewe North Jn – Sandbach North Jn	158	17	162	62	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP1	Sandbach North Jn	Wilmslow South Jn	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP1	Wilmslow South Jn	Cheadle Hulme North Jn	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP1	Cheadle Hulme North Jn	Edgeley Jn No.1	Cheadle Hulme North Jn - Edgeley Jn No.1	180	67	182	36	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP2	Edgeley Jn No.1	Edgeley Jn	Edgeley Jn No.1 - Edgeley Jn	182	36	182	59	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP2	Edgeley Jn	Slade Lane Jn	Edgeley Jn – Slade Lane Jn	182	59	186	46	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP2	Slade Lane Jn	Ardwick Jn	Slade Lane Jn – Ardwick Jn	186	46	188	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP2	Ardwick Jn	Manchester Piccadilly East Jn	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0921	NW5001	CMP2	Manchester Piccadilly East Jn	Manchester Piccadilly	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	8	Y	Y	Y	Y	Y	Y	Y	Y	

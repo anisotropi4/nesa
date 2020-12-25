@@ -1,17 +1,19 @@
-London-North-Western-North	0885	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
-London-North-Western-North	0885	NW7027	PPP1	Baguley Fold Jn	Change of Mileage	Baguley Fold Jn – Change of Mileage	2	39	2	13	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW7027	PPP2	Change of Mileage	Philips Park South Jn	Change of Mileage – Philips Park South Jn	0	00	0	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8001	HXS1	Hunts Cross West Jn	Liverpool Central	Hunts Cross West Jn – Liverpool Central	6	11	0	02	8	R1	R2	R2	R2	R2	R2	R2	R2	R1 Prohibited between Start / End of underground section and Liverpool Central unless DC current has been isolated R2 Prohibited between Start / End of underground section and Liverpool Central
-London-North-Western-North	0885	NW8001	HXS2	Liverpool Central	Paradise Jn	Liverpool Central – Paradise Jn	37	13	36	71	8	R1	N	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
-London-North-Western-North	0885	NW8001	HXS2	Paradise Jn	Sandhills Jn	Paradise Jn – Sandhills Jn	36	71	34	75	8	R1	R2	R2	R2	R2	R2	R2	R2	R1 Prohibited between Paradise Jn and Leeds Street Portal unless DC current has been isolated R2 Prohibited between Paradise Jn and Leeds Street Portal
-London-North-Western-North	0885	NW8001	HXS3	Sandhills Jn	Bootle Jn	Sandhills Jn – Bootle Jn	1	41	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8001	HXS3	Bootle Jn	Southport	Bootle Jn – Southport	2	39	18	35	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 11 (2m 71ch to 2m 73ch)
-London-North-Western-North	0885	NW8003	SIL	Paradise Jn	James Street (Stock Interchange/Holding line)	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	8	R1	R1	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
-London-North-Western-North	0885	NW8005	SJO1	Sandhills Jn	Walton Jn	Sandhills Jn – Walton Jn	34	75	33	16	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8005	SJO2	Walton Jn	Ormskirk	Walton Jn – Ormskirk	3	20	12	13	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8007	HXS/ NMM	Bootle Jn	Change of ELR (Site of Former North Mersey Jn)	Bootle Jn – Change of ELR (Site of Former North Mersey Jn)	2	34	3	52	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8007	NMB	Change of ELR (Site of Former North Mersey Jn)	Change of ELR (Site of Former Sefton Jn)	Change of ELR (Site of Former North Mersey Jn) – Change of ELR (Site of Former Sefton Jn)	34	40	32	42	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8007	AFL	Change of ELR (Site of Former Sefton Jn)	Aintree Station Jn	Change of ELR (Site of Former Sefton Jn) – Aintree Station Jn	0	00	0	40	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8009	WJK	Walton Jn	Kirkby	Walton Jn – Kirkby	33	16	29	41	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0885	NW8011	MIR1	Mann Island Jn	Mann Island Jn via Loop	Mann Island Jn – Mann Island Jn via Loop	0	00	2	12	8	R1	R1	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
-London-North-Western-North	0885	NW8011	MIR2	Mann Island Jn	Hamilton Square Jn	Mann Island Jn – Hamilton Square Jn	0	69	1	72	8	R1	R1	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
+London-North-Western-North	0885	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	380	390	397	507	508	Notes
+London-North-Western-North	0885	NW1001	CGJ2	Acton Grange Jn	Warrington South Jn	Acton Grange Jn – Warrington South Jn	180	24	181	76	EH	T	Y	N	N	
+London-North-Western-North	0885	NW1001	CGJ3	Warrington South Jn	Winwick Jn	Warrington South Jn – Winwick Jn	181	76	185	49	EH	T R1	Y	N	N	R1 Prohibited from Dallam RMT access lines
+London-North-Western-North	0885	NW1001	CGJ4	Winwick Jn	Golborne Jn	Winwick Jn – Golborne Jn	185	49	187	76	EH	T	Y	N	N	
+London-North-Western-North	0885	NW1001	CGJ5	Golborne Jn	Wigan Station Jn	Golborne Jn – Wigan Station Jn	0	53	6	33	EH	T	Y	N	N	
+London-North-Western-North	0885	NW1001	CGJ5	Wigan Station Jn	Farington Curve Jn	Wigan Station Jn – Farington Curve Jn	6	33	20	08	EH	T R1 R2	Y	N	N	R1 Prohibited Wigan North Western Bay platforms R2 See Sectional Appendix Local Instructions
+London-North-Western-North	0885	NW1001	CGJ5	Farington Curve Jn	Preston Ribble Jn	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	EH	T	Y	N	N	
+London-North-Western-North	0885	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	EH	T R1	Y	N	N	R1 Prohibited Preston Bay platforms R2 Prohibited Preston Up & Down Goods platform except in tare suspension case
+London-North-Western-North	0885	NW1001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	EH	T	Y	N	N	
+London-North-Western-North	0885	NW1001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	EH	T	Y	N	N	
+London-North-Western-North	0885	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station)	Stafford Trent Valley Jn No.1	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	N	T	N	N	N	
+London-North-Western-North	0885	NW1003	HCM2	Buffer Stop (Silverdale Colliery End)	Madeley Chord Jn	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	N	N	N	N	N	
+London-North-Western-North	0885	NW1003	HCM3	Madeley Chord Jn	Madeley Jn	Madeley Chord Jn – Madeley Jn	0	25	0	00	N	N	N	N	N	
+London-North-Western-North	0885	NW1003	HCM2	Madeley Chord Jn	End of Line	Madeley Chord Jn – End of Line	7	36	8	14	N	N	N	N	N	
+London-North-Western-North	0885	NW1004	RRN2	Route Boundary (MD345) (Cannock Change of ELR)	Rugeley North Jn	Route Boundary (MD345) (Cannock Change of ELR) – Rugeley North Jn	14	00	14	69	N	Y	N	N	N	
+London-North-Western-North	0885	NW1005	KCS1	Kidsgrove Jn	Crewe South Jn	Kidsgrove Jn – Crewe South Jn	0	00	8	27	N	R1	N	N	N	R2 Prohibited from all sidings lines and Alsager Up & Down Goods Loop
+London-North-Western-North	0885	NW1007	SYC	Route Boundary (GW735) (Crewe Jn)	Limit of Electrification	Route Boundary (GW735) (Crewe Jn) – Limit of Electrification	2	60	1	41	N	N	N	N	N	
+London-North-Western-North	0885	NW1007	SYC	Limit of Electrification	Crewe South Jn	Limit of Electrification – Crewe South Jn	1	41	0	00	N	N	N	N	N	
+London-North-Western-North	0885	NW1009	BHI	Basford Hall Jn	Site of former Sydney Bridge Jn (Independent lines)	Basford Hall Jn – Site of former Sydney Bridge Jn (Independent lines)	156	16	158	76	N	Y	E	N	N	

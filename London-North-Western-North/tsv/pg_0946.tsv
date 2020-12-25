@@ -1,12 +1,23 @@
-London-North-Western-North	0946	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge
-London-North-Western-North	0946	NW1001	LEC2	Armitage Jn (MD101 Sectional Appendix Boundary)	Rugeley North Jn	Armitage Jn (MD101 Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	8	Y
-London-North-Western-North	0946	NW1001	LEC2	Rugeley North Jn	Colwich Jn	Rugeley North Jn – Colwich Jn	124	39	127	05	8	Y
-London-North-Western-North	0946	NW1001	LEC2	Colwich Jn	Stafford Trent Valley Jn No.1	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	8	Y
-London-North-Western-North	0946	NW1001	LEC3	Stafford Trent Valley Jn No.1	Change of ELR (North of Stafford)	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	8	Y
-London-North-Western-North	0946	NW1001	LEC4	Change of ELR (North of Stafford)	Little Bridgeford Jn	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	8	Y
-London-North-Western-North	0946	NW1001	LEC4	Little Bridgeford Jn	Heamies Bridge	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	8	Y
-London-North-Western-North	0946	NW1001	LEC6	Little Bridgeford Jn	Heamies Bridge (Down Slow line only)	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	8	Y
-London-North-Western-North	0946	NW1001	LEC4	Heamies Bridge	Basford Hall Jn	Heamies Bridge – Basford Hall Jn	140	00	156	16	8	Y
-London-North-Western-North	0946	NW1001	LEC4	Basford Hall Jn	Change of ELR (Crewe South)	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	8	Y
-London-North-Western-North	0946	NW1001	LEC5	Change of ELR (Crewe South)	Crewe South Jn	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	8	Y
-London-North-Western-North	0946	NW1001	LEC5	Crewe South Jn	Crewe North Jn	Crewe South Jn – Crewe North Jn	157	60	158	18	8	Y
+London-North-Western-North	0946	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-North	0946	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary)	Rugeley North Jn	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC2	Rugeley North Jn	Colwich Jn	Rugeley North Jn – Colwich Jn	124	39	127	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC2	Colwich Jn	Stafford Trent Valley Jn No.1	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC3	Stafford Trent Valley Jn No.1	Change of ELR (North of Stafford)	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC4	Change of ELR (North of Stafford)	Little Bridgeford Jn	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC4	Little Bridgeford Jn	Heamies Bridge	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC6	Little Bridgeford Jn	Heamies Bridge (Down Slow line only)	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC4	Heamies Bridge	Basford Hall Jn	Heamies Bridge – Basford Hall Jn	140	00	156	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC4	Basford Hall Jn	Change of ELR (Crewe South)	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC5	Change of ELR (Crewe South)	Crewe South Jn	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC5	Crewe South Jn	Crewe North Jn	Crewe South Jn – Crewe North Jn	157	60	158	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	LEC5	Crewe North Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Hartford Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ1	Hartford Jn	Change of ELR (Preston Brook Tunnel)	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel)	Acton Grange Jn	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ2	Acton Grange Jn	Warrington South Jn	Acton Grange Jn – Warrington South Jn	180	24	181	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ3	Warrington South Jn	Winwick Jn	Warrington South Jn – Winwick Jn	181	76	185	49	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ4	Winwick Jn	Golborne Jn	Winwick Jn – Golborne Jn	185	49	187	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ5	Golborne Jn	Wigan Station Jn	Golborne Jn – Wigan Station Jn	0	53	6	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ5	Wigan Station Jn	Farington Curve Jn	Wigan Station Jn – Farington Curve Jn	6	33	20	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ5	Farington Curve Jn	Preston Ribble Jn	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0946	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
