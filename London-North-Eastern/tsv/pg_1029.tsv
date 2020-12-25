@@ -1,18 +1,25 @@
-London-North-Eastern	1029	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	o Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1029	LN854	MVN2	Route Boundary (NW7001) (Hall Royd Jn)	Turners Lane Jn	Route Boundary (NW7001) (Hall Royd Jn) – Turners Lane Jn	22	62	48	33	R1	N	R2	Y	Y	Y	Y	R3	R1 Prohibited between Route Boundary (NW7001) (Hall Royd Jn) and Heaton Lodge East Jn R2 5mph Wakefield Kirkgate platform 3 R3 Prohibited between Route Boundary (NW7001) (Hall Royd Jn) and Horbury
-London-North-Eastern	1029	LN854	MVN2	Turners Lane Jn	Site of former Goose Hill Jn	Turners Lane Jn – Site of former Goose Hill Jn	48	33	50	31	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1029	LN854	TJC3	Site of former Goose Hill Jn	Altofts Jn	Site of former Goose Hill Jn – Altofts Jn	184	56	186	00	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1029	LN854	NOC	Altofts Jn	Sherburn Jn	Altofts Jn – Sherburn Jn	23	57	13	20	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1029	LN854	NOC	Sherburn Jn	Colton Jn	Sherburn Jn – Colton Jn	13	20	5	41	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1029	LN854	ECM4	Colton Jn	Holgate Jn	Colton Jn – Holgate Jn	182	79	188	07	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1029	LN854	ECM4	Holgate Jn	York	Holgate Jn – York	188	07	188	40	R1 R2 R3	N	Y	Y	Y	Y	Y	Y	R1 Prohibited York platforms 1 and 6 when laden R2 5mph York platforms 1 and 6 R3 Prohibited York platforms 1 and 6 with deflated suspension
-London-North-Eastern	1029	LN854	ECM5	York	Skelton Jn	York – Skelton Jn	0	00	1	50	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1029	LN858	MRB	Milner Royd Jn	Mill Lane Jn	Milner Royd Jn – Mill Lane Jn	29	20	40	01	N	N	Y	R1	Y	Y	Y	N	R1 5mph MRB/31 Shays overbridge 34m39ch Down line
-London-North-Eastern	1029	LN859	GRD	Greetland Jn	Dryclough Jn	Greetland Jn – Dryclough Jn	1	11	0	00	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1029	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn)	Springwood Jn	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	Y	N	N	Y	Y	Y	Y	N	
-London-North-Eastern	1029	LN860	MVL3	Springwood Jn	Change of ELR (Heaton Lodge Jn)	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	R1	N	R2 R3	R3	Y	Y	Y	N	R1 Prohibited Huddersfield platforms 5 and 6 R2 Prohibited between Springwood and Huddersfield R3 Prohibited Huddersfield platform 5
-London-North-Eastern	1029	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge Jn (Up line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1029	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge East Jn (Down Line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down Line)	29	00	29	74	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1029	LN860	MVN2	Heaton Lodge Jn	Heaton Lodge East Jn	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1029	LN860	MVN2	Heaton Lodge East Jn	Thornhill LNW Jn	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1029	LN860	MDL1	Thornhill LNW Jn	Copley Hill East Jn	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1029	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1029	LN742	KIL1	Immingham West Change of Mileage	Humber Rd Jn	Immingham West Change of Mileage – Humber Rd Jn	105	10	104	05	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN742	BRI2	Humber Rd Jn	Ulceby North Jn	Humber Rd Jn – Ulceby North Jn	104	05	100	44	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN742	BRI1	Ulceby North Jn	Brocklesby West Jn	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	Y	N	N	Y	N	N	N	N	
+London-North-Eastern	1029	LN744	BAR	Ulceby North Jn	Barton on Humber	Ulceby North Jn – Barton on Humber	100	44	110	18	Y	N	N	Y	N	N	N	N	
+London-North-Eastern	1029	LN746	TYB1	Cottam Power Station	Clarborough Jn	Cottam Power Station – Clarborough Jn	71	79	68	32	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN748	WHR	Retford Western Jn	Thrumpton West Jn	Retford Western Jn – Thrumpton West Jn	64	29	63	28	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN750	MAC3	Woodburn Jn	Deepcar	Woodburn Jn – Deepcar	42	29	33	35	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN752	DOW	Wrawby Jn	Marshgate Jn	Wrawby Jn – Marshgate Jn	33	34	0	03	R1	N	R2	R1	R2	N	N	R2	R1 Prohibited Scunthorpe Up Bay platforms R2 Prohibited between Wrawby Jn and Thorne Jn
+London-North-Eastern	1029	LN754	SAN	Scunthorpe Foreign Ore Branch		Scunthorpe Foreign Ore Branch	0	00	1	16	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN756	NOP1	Scunthorpe Trent Jn	Site of former Dawes Lane Jn	Scunthorpe Trent Jn – Site of former Dawes Lane Jn	0	00	0	28	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN756	NOP2	Site of former Dawes Lane Jn	NR Boundary (Roxby)	Site of former Dawes Lane Jn – NR Boundary (Roxby)	0	25	3	60	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN758	BKS	Brancliffe East Jn	St Catherines Jn	Brancliffe East Jn – St Catherines Jn	0	00	15	17	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN758	BKS	St Catherines Jn	Low Ellers Curve Jn	St Catherines Jn – Low Ellers Curve Jn	15	17	15	55	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN758	BKS	Low Ellers Curve Jn	Kirk Sandall Jn	Low Ellers Curve Jn – Kirk Sandall Jn	15	55	20	49	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN760	HAC	Firbeck Jn	Harworth Colliery	Firbeck Jn – Harworth Colliery	11	20	14	21	N	N	N	N	N	N	N	N	Line out of use (temporariliy) until 09 May 2015 NC/G1/2011/LNE/STNC/002
+London-North-Eastern	1029	LN762	YDS	St Catherines Jn	Decoy South Jn (St Catherines Curve)	St Catherines Jn – Decoy South Jn (St Catherines Curve)	15	17	15	71	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN764	UDS	Low Ellers Curve Jn	Potteric Carr Jn	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN766	HJB	Bentley Jn	Hexthorpe Jn (Doncaster Avoiding Line)	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	3	24	0	00	N	N	N	Y	N	N	N	Y	
+London-North-Eastern	1029	LN768	PSE	Route Boundary (LN3273) (Mansfield)	Shireoaks East Jn	Route Boundary (LN3273) (Mansfield) – Shireoaks East Jn	143	00	154	30	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN772	SWP	Warsop Jn	Shirebrook Jn	Warsop Jn – Shirebrook Jn	0	00	0	45	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN774	BAC2	Barrow Hill North Jn	Seymour Jn SB	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN774	BAC3	Seymour Jn SB	Oxcroft Disposal Point	Seymour Jn SB – Oxcroft Disposal Point	155	06	0	78	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN776	HLF1	Hall Lane Jn	Change of ELR	Hall Lane Jn – Change of ELR	0	44	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1029	LN776	HLF2	Change of ELR	Foxlow Jn	Change of ELR – Foxlow Jn	150	47	150	64	N	N	N	N	N	N	N	N	

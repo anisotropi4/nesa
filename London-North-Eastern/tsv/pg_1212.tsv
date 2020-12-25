@@ -1,26 +1,18 @@
 London-North-Eastern	1212	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
 London-North-Eastern	1212					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Eastern	1212	LN3201	Ratcliffe Jn – Spondon	Ratcliffe Jn	Spondon	Y *	Y	R1	R1	R1	R1	R1	R1	R1 Between Trent West Jn and Sheet Stores Jn only
-London-North-Eastern	1212	LN3201	Spondon – Derby London Rd Jn	Spondon	Derby London Rd Jn	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN3201	Derby London Road Jn – Clay Cross Sth Jn	Derby London Road Jn	Clay Cross Sth Jn	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN3201	Clay Cross Sth Jn – Tapton Jn (Chesterfield)	Clay Cross Sth Jn	Tapton Jn (Chesterfield)	Y *	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED on the Up Fast between former Clay Cross South Jn and Tapton Jn R2 PROHIBITED on the Down Fast between former Clay Cross South Jn and Tapton Jn
-London-North-Eastern	1212	LN3201	Wymington Deviation	Wymington Deviation		Y *	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3201	Chaddesden Sidings – Derby Jn	Chaddesden Sidings	Derby Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3204	Trent South Jn – Nottingham East Jn	Trent South Jn	Nottingham East Jn	Y *	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Trent East Jn to Nottingham East Jn
-London-North-Eastern	1212	LN3207	Trent East Jn – Chesterfield South Jn	Trent East Jn	Chesterfield South Jn	Y *	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED from Toton Yards R2 PROHIBITED from Stapleford and Sandiacre Yards R3 PROHIBITED from Codnor Park Sidings
-London-North-Eastern	1212	LN3207	Toton North Jn – Staton and Staveley Sidings (Mapperley Goods Branch)	Toton North Jn	Staton and Staveley Sidings (Mapperley Goods Branch)	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3210	Junction Road Jn – Carlton Road Jn (Tottenham Lines)	Junction Road Jn	Carlton Road Jn (Tottenham Lines)	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3213	Moorgate – Kentish Town Jn	Moorgate	Kentish Town Jn	N	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3214	Canal Tunnel Jn – Belle Isle Jn	Canal Tunnel Jn	Belle Isle Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3219	Cricklewood Curve Jn –o Dudding Hill Jn	Cricklewood Curve Jn	o Dudding Hill Jn	Y *	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3222	Brent Curve Jn – Dudding Hill Jn	Brent Curve Jn	Dudding Hill Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3228	Trent East Jn – Sheet Stores Jn	Trent East Jn	Sheet Stores Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1212	LN3231	Wigston South Jn – Glen Parva Jn	Wigston South Jn	Glen Parva Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3232	Wigston North Jn – Hinckley	Wigston North Jn	Hinckley	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Eastern	1212	LN3234	Syston East Jn – Syston North Jn	Syston East Jn	Syston North Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3237	Loughborough South Jn – Hotchley Hill	Loughborough South Jn	Hotchley Hill	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3240	Little Eaton Jn –o Denby	Little Eaton Jn	o Denby	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3246	Ambergate Jn – Matlock	Ambergate Jn	Matlock	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3249	Lenton South Jn – Lenton North Jn	Lenton South Jn	Lenton North Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3252	Mansfield Jn to Trowell South Jn	Mansfield Jn to Trowell South Jn		Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN3255	Radford Jn – Kirkby Lane End Jn	Radford Jn	Kirkby Lane End Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1212	LN826	Doncaster South Yorkshire Jn – Swinton Jn North / South	Doncaster South Yorkshire Jn	Swinton Jn North / South	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1212	LN828	Mexborough Jn – Aldwarke Jn via Kilnhurst	Mexborough Jn	Aldwarke Jn via Kilnhurst	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1212	LN830	Aldwarke Jn – Woodburn Jn	Aldwarke Jn	Woodburn Jn	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Up Tinsley R2 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Down Tinsley R3 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Up Tinsley R4 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Down Tinsley
+London-North-Eastern	1212	LN832	Doncaster Bridge Jn – St James Jn	Doncaster Bridge Jn	St James Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1212	LN836	Doncaster, Marshgate Jn – Hare Park Jn	Doncaster, Marshgate Jn	Hare Park Jn	Y *	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1212	LN836	Hare Park Jn – Neville Hill East Jn	Hare Park Jn	Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1212	LN838	Leeds Armley Jn – York Skelton Jn via Harrogate	Leeds Armley Jn	York Skelton Jn via Harrogate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile and above 3650mm in height 10mph speed restriction through Wescoe Hill Tunnel on the Down: and 10mph speed restriction through Br39 on the Down. The Rail Head Treatment Train FEA wagon is permitted without restriction.
+London-North-Eastern	1212	LN840	Leeds Engine Shed Jn – Whitehall East Jn	Leeds Engine Shed Jn	Whitehall East Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1212	LN842	Stainforth Jn – Applehurst Jn	Stainforth Jn	Applehurst Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1212	LN842	Applehurst Jn – Adwick Jn	Applehurst Jn	Adwick Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1212	LN842	Skellow Jn – Adwick Jn	Skellow Jn	Adwick Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1212	LN844	Applehurst Loop	Applehurst Loop		Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1212	LN846	Carcroft Jn – Skellow Jn	Carcroft Jn	Skellow Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1212	LN848	Hare Park Jn – Crofton West Jn	Hare Park Jn	Crofton West Jn	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1212	LN850	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	Wakefield Westgate South Jn	Wakefield Kirkgate West Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1212	LN852	Holbeck Jn – Bradford Interchange	Holbeck Jn	Bradford Interchange	Y *	N	N	N	N	N	N	N	

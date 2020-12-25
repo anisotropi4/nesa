@@ -1,21 +1,27 @@
-London-North-Eastern	1040	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1040	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	N	N	N	N	N	N	N	N	
-London-North-Eastern	1040	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
-London-North-Eastern	1040	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	N	Y	N	N	Y	N	N	Y	
-London-North-Eastern	1040	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	N	Y	N	N	Y	N	N	Y	
-London-North-Eastern	1040	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	N	Y	N	N	R1	N	N	Y	R1 Prohibited between Trent South Jn and Meadow Lane Jn
-London-North-Eastern	1040	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	N	Y	N	N	Y	N	N	Y	
-London-North-Eastern	1040	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1040	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	N	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1040	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	E	Y	E	E R1	N	Y	Y	R2	R1 Prohibited between Barton South Jn and Route Boundary (MD501) Kingsbury Jn R2 Prohibited between Wichnor Jn and Route Boundary (MD501) Kingsbury Jn
-London-North-Eastern	1040	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1040	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	N	
-London-North-Eastern	1040	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	E	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1040	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	E	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1040	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1040	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1040	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1040	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360) (Dudding Hill)	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	N	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1040	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	N	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1040	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3228	TES	Trent East ELR Change	Sheet Stores Jn	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	Y	N	N	N	Y	Y	Y	Y	R1	R1	R1 15mph Hinckley Up platform
+London-North-Eastern	1040	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1040	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1040	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1040	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	

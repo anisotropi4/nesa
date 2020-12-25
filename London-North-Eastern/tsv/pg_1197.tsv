@@ -1,9 +1,19 @@
-London-North-Eastern	1197	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1197					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Eastern	1197	LN101	Peterborough – Doncaster, Marshgate Jn	Peterborough	Doncaster, Marshgate Jn	R1	Y	Y	Y	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R1 PNA wagons restricted to 40mph through Newark North Gate when operating in tare condition R2 PROHIBITED Werrington Jn to South Yorkshire Jn R3 PROHIBITED on the Up Platform Loop through Doncaster platform 1 R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED on the Down Platform Loop through Doncaster platform 8 R7 PROHIBITED from Doncaster West Yard R8 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Goods R9 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Slow R10 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Up Slow R11 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Thorne Slow R12 PROHIBITED Werrington Jn to Shaftholme Jn R13 PROHIBITED on Peterborough Eastfield South Down Arrival R14 PROHIBITED on Peterborough Eastfield North Down Departure
-London-North-Eastern	1197	LN101	Doncaster, Marshgate Jn – Shaftholme Jn	Doncaster, Marshgate Jn	Shaftholme Jn	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1197	LN101	Helpston Junction – Peterborough (Stamford Lines)	Helpston Junction	Peterborough (Stamford Lines)	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1197	LN101	Decoy North Junction – Bridge Junction (Down Side Sidings)	Decoy North Junction	Bridge Junction (Down Side Sidings)	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1197	LN101	Potteric Carr Junction – Bridge Junction (Up Side Sidings)	Potteric Carr Junction	Bridge Junction (Up Side Sidings)	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1197	LN105	Moorgate – Finsbury Park Jn	Moorgate	Finsbury Park Jn	N	N	N	N	N	N	N	N	
-London-North-Eastern	1197	LN110	Canonbury West Jn – Finsbury Park Jn	Canonbury West Jn	Finsbury Park Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1197	Line of route	ELR	LineofRoute/SectorDescription		LineofRoute/SectorDescription	 M	 Ch	 M	 Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1197	LN3204	TSN2	MansfieldJn	Nottingham East Jn	MansfieldJn–NottinghamEastJn	124	22	123	27	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1197	LN3207	TCC	TrentEastJn	Change of ELR (between Morton Jn and Clay Cross North Jn)	TrentEastJn–ChangeofELR(betweenMortonJnandClayCrossNorthJn)	119	70	142	10	8	H R1	H R1	Y	H R1	H R2 R3	N	R1 Permitted between Trent East Jn to Stapleford and Sandiacre via Up Main/Erewash and Down Erewash/Down Goods R2 Permitted between Toton Jn and Toton TMD only R3 75mph maximum speed
+London-North-Eastern	1197	LN3207	SPC9	ChangeofELR(betweenMortonJnandClayCrossNorthJn)	Clay Cross North Jn	ChangeofELR(betweenMortonJnandClayCrossNorthJn)–ClayCrossNorthJn	142	10	143	12	8	N	N	Y	N	N	N	
+London-North-Eastern	1197	LN3210	JRT2	RouteBoundary(EA1370)(JunctionRoadJn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	RouteBoundary(EA1370)(JunctionRoadJn)–ChangeofELR(BetweenTottenhamNorthCurveNo2andNo1Tunnels)	2	38	2	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1197	LN3210	JRT1	ChangeofELR(BetweenTottenhamNorthCurveNo2andNo1Tunnels)	Carlton Road Jn (Tottenham Lines)	ChangeofELR(BetweenTottenhamNorthCurveNo2andNo1Tunnels)–CarltonRoadJn(TottenhamLines)	0	18	0	03	8	N	N	Y	N	N	EH	
+London-North-Eastern	1197	LN3214	CBI	CanalTunnelJn	Belle Isle Jn	CanalTunnelJn–BelleIsleJn	0	00	0	53	3	N	N	N	N	N	N	
+London-North-Eastern	1197	LN3213	MCL	RouteBoundary(SO280)(formerFarringdonJn)	Kentish Town Jn	RouteBoundary(SO280)(formerFarringdonJn)–KentishTownJn	0	66	3	58	5	N	N	N	N	N	N	
+London-North-Eastern	1197	LN3219	CAW	CricklewoodCurveJn	Route Boundary (LOR EA1360) (Dudding Hill)	CricklewoodCurveJn–RouteBoundary(LOREA1360)(DuddingHill)	5	19	5	72	8	H	H	Y	H	H	N	
+London-North-Eastern	1197	LN3222	BDH	BrentCurveJn	Route Boundary (EA1360) (Dudding Hill)	BrentCurveJn–RouteBoundary(EA1360)(DuddingHill)	0	00	0	54	8	N	N	Y	N	N	EH	
+London-North-Eastern	1197	LN3228	TCC	TrentEastJn	Trent East ELR Change	TrentEastJn–TrentEastELRChange	119	70	119	56	8	H	H	Y	H	H	N	
+London-North-Eastern	1197	LN3228	TES	TrentEastELRChange	Sheet Stores Jn	TrentEastELRChange–SheetStoresJn	0	00	0	30	8	H	H	Y	H	H	N	
+London-North-Eastern	1197	LN3231	WGP	WigstonSouthJn	Glen Parva Jn	WigstonSouthJn–GlenParvaJn	95	37	96	07	8	H	H	Y	H	H	N	
+London-North-Eastern	1197	LN3232	WNS	WigstonNorthJn	Route Boundary (MD232) (Nuneaton South Jn)	WigstonNorthJn–RouteBoundary(MD232)(NuneatonSouthJn)	15	31	2	62	8	H	H	Y	H	N	N	
+London-North-Eastern	1197	LN3234	SEN	SystonEastJn	Syston North Jn	SystonEastJn–SystonNorthJn	0	17	0	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1197	LN3237	RUD	LoughboroughSouthJn	Network Rail/GCR (N) Boundary	LoughboroughSouthJn–NetworkRail/GCR(N)Boundary	92	45	92	49	8	N	N	Y	N	N	N	
+London-North-Eastern	1197	LN3240	LED	LittleEatonJn	Denby	LittleEatonJn–Denby	131	06	135	46	8	N	N	Y	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1197	LN3246	AJM1	AmbergateJn	Matlock	AmbergateJn–Matlock	137	61	145	00	8	N	N	Y	N	N	N	
+London-North-Eastern	1197	LN3249	LSN	LentonSouthJn	Lenton North Jn	LentonSouthJn–LentonNorthJn	0	00	0	27	8	N	N	Y	N	N	N	

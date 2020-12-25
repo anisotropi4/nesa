@@ -1,22 +1,23 @@
-London-North-Eastern	1004	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1004	LN676	HLK	Greensfield Jn	King Edward Bridge South Jn	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN678	DAE1	Darlington North Jn	Site of Former Parkgate Jn	Darlington North Jn – Site of Former Parkgate Jn	44	36	44	64	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN678	DAE1	Site of Former Parkgate Jn	Shildon SB	Site of Former Parkgate Jn – Shildon SB	0	00	8	29	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN678	DAE2	Shildon SB	Bishop Auckland	Shildon SB – Bishop Auckland	8	29	11	23	Y	Y	Y	Y	R1	R1	Y	Y	Y	R1 Prohibited Shildon Up platform and Bishop Auckland Single platform with deflated suspension
-London-North-Eastern	1004	LN682	NEC1	King Edward Bridge South Jn	Norwood Jn	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	Y	Y	Y	Y	R1	R1	R1	R1	R1	R1 See Sectional Appendix Local Instructions
-London-North-Eastern	1004	LN682	NEC1	Norwood Jn	Site of Former Blaydon East Jn	Norwood Jn – Site of Former Blaydon East Jn	1	71	5	28	Y	Y	Y	Y	R1	R1	R1	R1	R1	R1 See Sectional Appendix Local Instructions
-London-North-Eastern	1004	LN682	NEC2	Site of Former Blaydon East Jn	Route Boundary (NW9909) (Petteril Bridge Jn)	Site of Former Blaydon East Jn – Route Boundary (NW9909) (Petteril Bridge Jn)	3	78	58	00	Y	Y	Y	Y	R1 R2	R1 R2	R2	R2	R2	R1 Prohibited Haltwhistle Down platform with deflated suspension R2 See Sectional Appendix Local Instructions
-London-North-Eastern	1004	LN684	NLF	Low Fell Jn	Limit of Electrification	Low Fell Jn – Limit of Electrification	0	00	1	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN684	NLF	Limit of Electrification	Norwood Jn	Limit of Electrification – Norwood Jn	1	26	1	42	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN694	BNE	Benton North Jn	Site of Former Earsdon Jn	Benton North Jn – Site of Former Earsdon Jn	0	00	2	53	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN694	EJM	Site of Former Earsdon Jn	Morpeth North Jn	Site of Former Earsdon Jn – Morpeth North Jn	7	08	20	47	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN696	HJM	Hepscott Jn	Morpeth Jn	Hepscott Jn – Morpeth Jn	19	44	20	47	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1004	LN700	BWO2	Butterwell Jn	Signal B1	Butterwell Jn – Signal B1	0	00	0	48	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1004	LN702	BWC	Bedlington North	Network Rail Boundary (Lynemouth Colliery)	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1004	LN704	ISC	Newsham North Jn	Network Rail Boundary (Blyth Bates Terminal)	Newsham North Jn – Network Rail Boundary (Blyth Bates Terminal)	0	00	0	36	N	N	N	N	N	N	N	N	N	Line out of use NME/2010/LNE/006 and NME/2010/LNE009
-London-North-Eastern	1004	LN706	WSB	West Sleekburn Jn	North Blyth	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1004	LN708	MWJ	Winning Jn	Marchey's House Jn	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1004	LN736	MAC3	Cleethorpes	Grimsby Docks	Cleethorpes – Grimsby Docks	112	40	110	11	Y	Y	Y	Y	Y	R1	Y	Y	N	R1 Prohibited Cleethorpes platform 1
-London-North-Eastern	1004	LN736	MAC3	Grimsby Docks	Marsh West Jn	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	Y	Y	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1004	LN736	MAC3	Marsh West Jn	Wrawby Jn	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	Y	Y	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1004	LN736	MAC3	Wrawby Jn	West Burton East Jn	Wrawby Jn – West Burton East Jn	94	12	72	18	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1004	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1004	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	N	N	Y	N	N	N	N	N	
+London-North-Eastern	1004	LN170	WEB	Werrington Jn	Site of Former Spalding South Jn	Werrington Jn – Site of Former Spalding South Jn	79	34	92	58	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	SPD1	Site of Former Spalding South Jn	Sleaford South Jn	Site of Former Spalding South Jn – Sleaford South Jn	44	07	62	14	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	SPD2	Sleaford South Jn	Sleaford North Jn	Sleaford South Jn – Sleaford North Jn	62	14	63	48	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	SPD2	Sleaford North Jn	Site of Former Greetwell West Jn	Sleaford North Jn – Site of Former Greetwell West Jn	63	48	81	25	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	SPD3	Site of Former Greetwell West Jn	Trent East Jn	Site of Former Greetwell West Jn – Trent East Jn	81	25	98	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	MAC3	Trent East Jn	Trent West Jn	Trent East Jn – Trent West Jn	73	25	73	11	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	SPD4	Trent West Jn	Bessacarr Jn	Trent West Jn – Bessacarr Jn	98	68	115	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN180	SNW	Sleaford West Jn	Sleaford North Jn	Sleaford West Jn – Sleaford North Jn	1	34	3	42	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN185	ABE1	Allington West Jn	Site of Former Barkston East Jn	Allington West Jn – Site of Former Barkston East Jn	0	00	4	08	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN185	GRS1	Barkston East Jn	Site of Former Honington Jn	Barkston East Jn – Site of Former Honington Jn	110	12	112	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN185	GRS2	Site of Former Honington Jn	Sleaford West Jn	Site of Former Honington Jn – Sleaford West Jn	112	00	120	29	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN185	GRS2	Sleaford West Jn	Sleaford East Jn	Sleaford West Jn – Sleaford East Jn	120	29	121	21	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN185	GRS2	Sleaford East Jn	Site of Former Boston Sleaford Line Jn	Sleaford East Jn – Site of Former Boston Sleaford Line Jn	121	21	137	06	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1004	LN185	GRS3	Site of Former Boston Sleaford Line Jn	Boston	Site of Former Boston Sleaford Line Jn – Boston	106	70	107	24	Y	Y	Y	Y	Y	Y	Y	Y	Y	

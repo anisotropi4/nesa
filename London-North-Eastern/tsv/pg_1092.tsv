@@ -1,16 +1,23 @@
-London-North-Eastern	1092	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	317	319	321	322	325	377	380	387	390	700	Notes
-London-North-Eastern	1092	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3535	BCJ	Birmingham Curve Jn	Branston Jn	Birmingham Curve Jn – Branston Jn	126	40	127	19	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1092	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1092	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	N	N	N	N	H	N	N	N	EH R1	N	R1 45mph over bridge 23 Leicester Road on the Down Line at 105m 65ch
-London-North-Eastern	1092	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	N	N	N	N	H	N	N	N	EH R1 R2	N	R1 25mph over bridge 15 Kirkby Road on the Up Line at 111m 63ch R2 55mph over bridge 19 Copley's Occupation on the Up Line at 112m 56ch
-London-North-Eastern	1092	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	N	N	N	EH	N	
-London-North-Eastern	1092	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1092	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1092	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL2	Selby South Jn	Site of former Barlby Jn	Selby South Jn – Site of former Barlby Jn	31	12	30	40	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL1	Site of former Barlby Jn	Anlaby Road Jn	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN898	HUL1	Anlaby Road Jn	Hull	Anlaby Road Jn – Hull	0	73	0	00	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN900	HUE	Neville Hill West Jn	Hunslet East	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	N	N	N	N	N	N	N
+London-North-Eastern	1092	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	N	N	N	N	N	N	N

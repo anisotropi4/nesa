@@ -1,21 +1,16 @@
-London-North-Eastern	1230	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1230	LN880	YMS	Commencement of single line section @ 0m 18ch to Scarborough (Platforms 1 to 5)	Scarborough (Platforms 1 to 5)	Commencement of single line section @ 0m 18ch to Scarborough (Platforms 1 to 5) – Scarborough (Platforms 1 to 5)	0	18	42	06	8	R1 R2 R3	R1 Prohibited Scarborough platform 3 R2 Prohibited Scarborough platform 4 R3 Prohibited Scarborough platform 5
-London-North-Eastern	1230	LN880	YMS	York (Platform 2 and maintenance sidings)	Connection to Up line	York (Platform 2 and maintenance sidings) – Connection to Up line	0	00	0	15	3	Y	
-London-North-Eastern	1230	LN882	WAG1	Wakefield Kirkgate West Jn	Calder Bridge Jn	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	8	Y	
-London-North-Eastern	1230	LN882	WAG1	Calder Bridge Jn	Crofton West Jn	Calder Bridge Jn – Crofton West Jn	48	28	49	40	8	Y	
-London-North-Eastern	1230	LN882	WAG1	Crofton West Jn	Knottingley West Jn	Crofton West Jn – Knottingley West Jn	49	40	58	20	8	Y	
-London-North-Eastern	1230	LN882	WAG1	Knottingley West Jn	Engine Shed Jn	Knottingley West Jn – Engine Shed Jn	58	20	73	52	8	Y	
-London-North-Eastern	1230	LN882	WAG2	Engine Shed Jn	Goole Potters Grange Jn	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	8	Y	
-London-North-Eastern	1230	LN884	OAJ	Oakenshaw South Jn	Oakenshaw Jn	Oakenshaw South Jn – Oakenshaw Jn	49	41	48	76	8	Y	
-London-North-Eastern	1230	LN886	TJC3	Monk Bretton	Oakenshaw South Jn	Monk Bretton – Oakenshaw South Jn	176	22	181	75	8	Y	
-London-North-Eastern	1230	LN886	OSC	Oakenshaw South Jn	Crofton East Jn	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	8	Y	
-London-North-Eastern	1230	LN888	KWS	Shaftholme Jn	Knottingley West Jn	Shaftholme Jn – Knottingley West Jn	68	75	58	20	9	Y	
-London-North-Eastern	1230	LN888	FKW	Knottingley West Jn	Ferrybridge North Jn	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	9	Y	
-London-North-Eastern	1230	LN892	PEF	Pontefract East Jn	Ferrybridge South Jn	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	8	Y	
-London-North-Eastern	1230	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	9	Y	
-London-North-Eastern	1230	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	8	Y	
-London-North-Eastern	1230	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	8	Y	
-London-North-Eastern	1230	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	8	Y	
-London-North-Eastern	1230	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	8	Y	
-London-North-Eastern	1230	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	8	Y	
-London-North-Eastern	1230	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	8	Y	
+London-North-Eastern	1230	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Eastern	1230	LN788	TYC	Thoresby Colliery Jn	Thoresby Colliery	Thoresby Colliery Jn – Thoresby Colliery	0	00	0	42	7	Y	
+London-North-Eastern	1230	LN802	WKC	Welbeck Colliery Jn	Network Rail Boundary (RJB)	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	7	Y	
+London-North-Eastern	1230	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn)	Dore South Jn	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	8	Y	
+London-North-Eastern	1230	LN804	TJC1	Dore South Jn	Sheffield Station	Dore South Jn – Sheffield Station	153	71	158	40	8	R1	R1 Prohibited between the Junction at Queens Road (157m 44ch) and Sheffield South Jn on the Down Main
+London-North-Eastern	1230	LN804	TJC1	Sheffield Station	Nunnery Main Line Jn	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	8	Y	
+London-North-Eastern	1230	LN804	TJC1	Nunnery Main Line Jn	Site of Former Grimesthorpe Jn	Nunnery Main Line Jn – Site of Former Grimesthorpe Jn	158	77	160	47	8	R1	R1 Prohibited between Nunnery Main Line Jn and Mill Race Jn on the Down Main line
+London-North-Eastern	1230	LN804	TJC2	Site of Former Grimesthorpe Jn	Site of Masborough South Jn	Site of Former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	8	Y	
+London-North-Eastern	1230	LN804	TJC3	Site of Former Masborough South Jn	Swinton Jn South	Site of Former Masborough South Jn – Swinton Jn South	161	77	166	56	8	Y	
+London-North-Eastern	1230	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	8	Y	
+London-North-Eastern	1230	LN804	SMJ1	Swinton Jn North	Site of Former Wath Curve Jn	Swinton Jn North – Site of Former Wath Curve Jn	167	03	168	64	8	Y	
+London-North-Eastern	1230	LN804	SMJ2	Site of Former Wath Curve Jn	Ferrybridge South Jn	Site of Former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	9	Y	
+London-North-Eastern	1230	LN804	SMJ2	Ferrybridge South Jn	Site of Former Burton Salmon Jn	Ferrybridge South Jn – Site of Former Burton Salmon Jn	2	38	0	00	9	Y	
+London-North-Eastern	1230	LN804	SMJ3	Site of Former Burton Salmon Jn	Milford Jn	Site of Former Burton Salmon Jn – Milford Jn	16	69	15	07	9	Y	
+London-North-Eastern	1230	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	10	Y	
+London-North-Eastern	1230	LN806	CHR	Route Boundary (LN3201) (Tapton Jn)	Masborough Jn	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	8	Y	

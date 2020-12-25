@@ -1,21 +1,23 @@
-London-North-Eastern	1198	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1198					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Eastern	1198	LN115	Copenhagen Jn – Camden Road Central Jn	Copenhagen Jn	Camden Road Central Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN120	Wood Green North Jn – Langley Jn via Hertford	Wood Green North Jn	Langley Jn via Hertford	Y *	Y	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED from Bounds Green Depot R2 PROHIBITED from Gordon Hill Up bay platform 1 R3 PROHIBITED from Hertford North Station Down bay platform 3
-London-North-Eastern	1198	LN125	Hitchin, Cambridge Jn – Cambridge	Hitchin, Cambridge Jn	Cambridge	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1198	LN126	Hitchin North Jn – Hitchin East Jn	Hitchin North Jn	Hitchin East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN135	Kings Dyke – Crescent Jn	Kings Dyke	Crescent Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Eastern	1198	LN147	Helpston Jn – Uffington	Helpston Jn	Uffington	Y	Y	Y	N	N	Y	N	N	
-London-North-Eastern	1198	LN150	Flyover East Jn – Decoy North Jn	Flyover East Jn	Decoy North Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN155	Flyover East Jn – Loversall Jn (Up Loversall Curve)	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN160	Loversall Carr Jn – Flyover West Jn	Loversall Carr Jn	Flyover West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN165	Harringay Park Jn – Harringay Jn	Harringay Park Jn	Harringay Jn	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1198	LN170	Werrington Jn – Spalding South Jn., Former site of	Werrington Jn	Spalding South Jn., Former site of	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN170	Spalding South Jn., Former site of – Sleaford South Jn	Spalding South Jn., Former site of	Sleaford South Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN170	Sleaford South Jn – Greetwell Jn., Former site of	Sleaford South Jn	Greetwell Jn., Former site of	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN170	Greetwell Jn., Former site of – Gainsborough Trent West Jn	Greetwell Jn., Former site of	Gainsborough Trent West Jn	Y *	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED Lincoln Central Up bay platform 1 and 2 R2 PROHIBITED Lincoln Central platform 3 (Up Passenger Loop 1) R3 PROHIBITED Lincoln Central platform 4 (Down Passenger Loop 1) R4 PROHIBITED Lincoln Central platform 5 (Down Passenger Loop 2)
-London-North-Eastern	1198	LN170	Gainsborough Trent West Jn – Bessacarr Jn	Gainsborough Trent West Jn	Bessacarr Jn	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN170	Bessacarr Jn – Doncaster, Flyover East Jn	Bessacarr Jn	Doncaster, Flyover East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN175	Sleaford South Jn – Sleaford East Jn	Sleaford South Jn	Sleaford East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1198	LN180	Sleaford West Jn – Sleaford North Jn	Sleaford West Jn	Sleaford North Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1198	LN185	Allington West Jn – Barkston East Jn., Former site of	Allington West Jn	Barkston East Jn., Former site of	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1198	Line of route	ELR	LineofRoute/SectorDescription		LineofRoute/SectorDescription	 M	 Ch	 M	 Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1198	LN3252	MJT1	MansfieldJn	Radford Jn	MansfieldJn–RadfordJn	124	22	125	55	8	N	N	Y	N	N	N	
+London-North-Eastern	1198	LN3252	MJT2	RadfordJn	Trowell South Jn	RadfordJn–TrowellSouthJn	125	55	130	51	8	N	N	Y	N	N	N	
+London-North-Eastern	1198	LN3255	RAC	RadfordJn	Newstead	RadfordJn–Newstead	125	55	134	20	8	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead–KirkbyLaneEndJn	134	20	136	66	7	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3261	THL	TrentSouthJn	Toton South Jn (High Level Lines)	TrentSouthJn–TotonSouthJn(HighLevelLines)	119	17	121	36	8	N	N	Y	N	H R1 R2	N	R1 Prohibited between Trent South Jn to Meadow Lane Jn R2 75mph maximum speed
+London-North-Eastern	1198	LN3264	AML	AttenboroughJn	Meadow Lane Jn (Attenborough Curve)	AttenboroughJn–MeadowLaneJn(AttenboroughCurve)	0	62	0	00	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1198	LN3273	TCC	CodnorParkJn	Ironville Jn	CodnorParkJn–IronvilleJn	132	76	133	18	8	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3273	PBS1	IronvilleJn	Kirkby Summit Crossover	IronvilleJn–KirkbySummitCrossover	133	18	138	79	8	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3273	PBS2	KirkbySummitCrossover	Mansfield ELR Change	KirkbySummitCrossover–MansfieldELRChange	137	11	140	40	8	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3273	PBS3	MansfieldChangeofELR	Route Boundary (LN768) (Shireoaks East Jn)	MansfieldChangeofELR–RouteBoundary(LN768)(ShireoaksEastJn)	140	40	143	00	8	N	N	Y	N	N	N	
+London-North-Eastern	1198	LN3340	BJW3	RouteBoundary(MD340)(LichfieldTrentValley)	Wichnor Jn	RouteBoundary(MD340)(LichfieldTrentValley)–WichnorJn	19	00	23	33	8	H	H	Y	H	N	N	
+London-North-Eastern	1198	LN3501	DBP1	LondonRoadJn	Route Boundary (MD501) (Kingsbury Jn)	LondonRoadJn–RouteBoundary(MD501)(KingsburyJn)	0	00	23	30	8	H	H	Y	H	N	N	
+London-North-Eastern	1198	LN3505	NSS	NorthStaffordJn	Route Boundary (NW5012) (Stoke Jn)	NorthStaffordJn–RouteBoundary(NW5012)(StokeJn)	30	10	1	40	8	H	H	Y	H	N	N	
+London-North-Eastern	1198	LN3515	MJS1	MelbourneJn	Sinfin	MelbourneJn–Sinfin	131	15	130	37	8	N	N	Y	N	N	N	
+London-North-Eastern	1198	LN3520	SSJ1	SheetStoresJn	Change of ELR (Site of Former Chellaston East Jn)	SheetStoresJn–ChangeofELR(SiteofFormerChellastonEastJn)	119	62	127	20	8	H	H	Y	H	N	N	
+London-North-Eastern	1198	LN3520	MJS1	ChangeofELR(SiteofFormerChellastonEastJn)	Change of ELR (Site of Former Chellaston West Jn)	ChangeofELR(SiteofFormerChellastonEastJn)–ChangeofELR(SiteofFormerChellastonWestJn)	127	20	128	00	8	H	H	Y	H	N	N	
+London-North-Eastern	1198	LN3520	SSJ2	ChangeofELR(SiteofFormerChellastonWestJn)	Stenson Jn	ChangeofELR(SiteofFormerChellastonWestJn)–StensonJn	128	00	132	12	8	H	H	Y	H	N	N	
+London-North-Eastern	1198	LN3525	KSL	KnightonJn	Leicester Jn	KnightonJn–LeicesterJn	97	45	127	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3535	BCJ	BirminghamCurveJn	Branson Jn	BirminghamCurveJn–BransonJn	126	40	127	19	8	N	N	Y	N	N	EH	
+London-North-Eastern	1198	LN3601	GSM1	KetteringNorthJn	Manton Jn	KetteringNorthJn–MantonJn	74	00	90	25	8	N	N	Y	N	N	N	
+London-North-Eastern	1198	LN3605	BSC	CorbyBSCWorks	Corby North	CorbyBSCWorks–CorbyNorth	2	05	0	00	8	N	N	Y	N	N	N	
+London-North-Eastern	1198	LN3610	BSC	CorbyAutomotiveTerminal	Corby North	CorbyAutomotiveTerminal–CorbyNorth	1	10	0	00	8	N	N	Y	N	N	N	

@@ -1,20 +1,25 @@
-London-North-Eastern	1075	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	N	N	E	N	EH	N	E	
-London-North-Eastern	1075	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	N	N	N	N	N	N	R1	R2 Prohibited Hertford North Down Bay platform 3
-London-North-Eastern	1075	LN125	SBR	Cambridge Jn	Route Boundary (EA1230)	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	N	N	N	N	N	N	R1 R2	R2 See Sectional Appendix Local Instructions R3 ECS only between Letchworth Garden City - Baldock on the Arrival / Departure line
-London-North-Eastern	1075	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	05	N	N	N	N	N	N	Y	
-London-North-Eastern	1075	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	N	N	N	N	N	E	
-London-North-Eastern	1075	LN170	WEB	Werrington Jn	Site of former Spalding South Jn	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	SPD1	Site of former Spalding South Jn	Sleaford South Jn	Site of former Spalding South Jn – Sleaford South Jn	44	07	62	14	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	SPD2	Sleaford South Jn	Sleaford North Jn	Sleaford South Jn – Sleaford North Jn	62	14	63	48	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	SPD2	Sleaford North Jn	Site of former Greetwell West Jn	Sleaford North Jn – Site of former Greetwell West Jn	63	48	81	25	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	SPD3	Site of former Greetwell West Jn	Trent East Jn	Site of former Greetwell West Jn – Trent East Jn	81	25	98	56	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	MAC3	Trent East Jn	Trent West Jn	Trent East Jn – Trent West Jn	73	25	73	11	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	SPD4	Trent West Jn	Bessacarr Jn	Trent West Jn – Bessacarr Jn	98	68	115	72	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	N	N	N	N	N	N	N	
-London-North-Eastern	1075	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	N	N	N	N	N	N	N	
+London-North-Eastern	1075	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	Notes
+London-North-Eastern	1075	LN854	NOC	Altofts Jn	Sherburn Jn	Altofts Jn – Sherburn Jn	23	57	13	20	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN854	NOC	Sherburn Jn	Colton Jn	Sherburn Jn – Colton Jn	13	20	5	41	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN854	ECM4	Colton Jn	Holgate Jn	Colton Jn – Holgate Jn	182	79	188	07	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN854	ECM4	Holgate Jn	York	Holgate Jn – York	188	07	188	40	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN854	ECM5	York	Skelton Jn	York – Skelton Jn	0	00	1	50	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN858	MRB	Milner Royd Jn	Mill Lane Jn	Milner Royd Jn – Mill Lane Jn	29	20	40	01	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN859	GRD	Greetland Jn	Dryclough Jn	Greetland Jn – Dryclough Jn	1	11	0	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn)	Springwood Jn	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MVL3	Springwood Jn	Change of ELR (Heaton Lodge Jn)	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge Jn (Up line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge East Jn (Down Line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down Line)	29	00	29	74	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MVN2	Heaton Lodge Jn	Heaton Lodge East Jn	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MVN2	Heaton Lodge East Jn	Thornhill LNW Jn	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN860	MDL1	Thornhill LNW Jn	Copley Hill East Jn	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN861	BBW	Bradley Jn	Bradley Wood Jn	Bradley Jn – Bradley Wood Jn	0	00	1	17	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN862	PED2	Barnsley Station Jn	Site of former Barnsley Jn	Barnsley Station Jn – Site of former Barnsley Jn	6	43	0	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN862	PED1	Site of former Barnsley Jn	Site of Former Huddersfield Jn	Site of former Barnsley Jn – Site of Former Huddersfield Jn	29	13	28	37	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN862	PEH	Site of former Huddersfield Jn	Lockwood	Site of former Huddersfield Jn – Lockwood	13	42	1	18	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN862	PEH	Lockwood	Springwood Jn	Lockwood – Springwood Jn	1	18	0	40	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN862	MVL3	Springwood Jn	Huddersfield	Springwood Jn – Huddersfield	0	40	0	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN864	DRS1	Dewsbury Railway Street	Change of Mileage	Dewsbury Railway Street – Change of Mileage	0	10	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN864	DRS1	Change of Mileage	Dewsbury East Jn	Change of Mileage – Dewsbury East Jn	0	27	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN868	SHB	Wincobank Jn	Site of former Quarry Jn	Wincobank Jn – Site of former Quarry Jn	161	52	173	48	H	N	N	N	N	N	N	N	
+London-North-Eastern	1075	LN868	PED2	Site of former Quarry Jn	Barnsley Station Jn	Site of former Quarry Jn – Barnsley Station Jn	7	50	6	43	H	N	N	N	N	N	N	N	

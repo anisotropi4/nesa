@@ -1,18 +1,23 @@
-London-North-Eastern	1077	LN600	ECM5	York Station	Birtley Jn	York Station – Birtley Jn	0	00	75	26	N	EH	N	E R1 R2	N	N	N	R1 When travelling from the Down Slow line to the Down Fast line, or from the Up Slow line to the Up Fast line at Skelton Bridge Jn, must not exceed 100mph until the first clear signal is in view R2 Prohibited Darlington platform 3
-London-North-Eastern	1077	LN600	ECM5	Birtley Jn	Low Fell Jn (including via Tyne Yard)	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	N	EH	N	E	N	N	N	
-London-North-Eastern	1077	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	N	EH	N	E	N	N	N	
-London-North-Eastern	1077	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	N	EH	N	E	N	N	N	
-London-North-Eastern	1077	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	N	EH	N	E R1	N	N	N	R1 Prohibited Newcastle platforms 4, 9, 10, 11 & 12
-London-North-Eastern	1077	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	N	EH	N	E R1	N	N	N	R2 Prohibited Newcastle platform 4
-London-North-Eastern	1077	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	N	EH	N	E	N	N	N	
-London-North-Eastern	1077	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	N	EH	N	E	N	N	N	
-London-North-Eastern	1077	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	N	Y	N	N	N	N	N	
-London-North-Eastern	1077	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	N	N	N	N	N	N	N	
-London-North-Eastern	1077	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	N	N	N	N	N	N	N	
+London-North-Eastern	1077	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	Notes
+London-North-Eastern	1077	LN892	PEF	Pontefract East Jn	Ferrybridge South Jn	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL2	Selby South Jn	Site of former Barlby Jn	Selby South Jn – Site of former Barlby Jn	31	12	30	40	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL1	Site of former Barlby Jn	Anlaby Road Jn	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN898	HUL1	Anlaby Road Jn	Hull	Anlaby Road Jn – Hull	0	73	0	00	H R1	N	N	N	N	N	N	N	R1 Prohibited Hull platform 1
+London-North-Eastern	1077	LN900	HUE	Neville Hill West Jn	Hunslet East	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	H	N	N	N	N	N	N	N	
+London-North-Eastern	1077	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	H	N	N	N	N	N	N	N	

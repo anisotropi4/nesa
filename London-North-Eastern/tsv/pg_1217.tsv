@@ -1,20 +1,26 @@
-London-North-Eastern	1217	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1217	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	9	Y	
-London-North-Eastern	1217	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	9	N	
-London-North-Eastern	1217	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	9	Y	
-London-North-Eastern	1217	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) – Finsbury Park Jn	3	20	4	33	9	Y	
-London-North-Eastern	1217	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	10	Y	
-London-North-Eastern	1217	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	9	R1	R1 Prohibited Hertford North bay platform 3
-London-North-Eastern	1217	LN125	SBR	Cambridge Jn	Route Boundary (EA1230) (Meldreth)	Cambridge Jn – Route Boundary (EA1230) (Meldreth)	32	11	45	60	9	Y	
-London-North-Eastern	1217	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	03	9	Y	
-London-North-Eastern	1217	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	9	Y	
-London-North-Eastern	1217	LN147	PMJ	Helpston Jn	Route Boundary (LN3615) (Uffington SB)	Helpston Jn – Route Boundary (LN3615) (Uffington SB)	16	71	13	60	9	Y	
-London-North-Eastern	1217	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	8	Y	
-London-North-Eastern	1217	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	8	Y	
-London-North-Eastern	1217	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	8	Y	
-London-North-Eastern	1217	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	8	Y	
-London-North-Eastern	1217	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	9	Y	
-London-North-Eastern	1217	LN170	WEB	Werrington Jn	Site of Former Spalding South Jn	Werrington Jn – Site of Former Spalding South Jn	79	34	92	58	8	Y	
-London-North-Eastern	1217	LN170	SPD1	Site of Former Spalding South Jn	Sleaford South Jn	Site of Former Spalding South Jn – Sleaford South Jn	44	07	62	14	8	Y	
-London-North-Eastern	1217	LN170	SPD2	Sleaford South Jn	Sleaford North Jn	Sleaford South Jn – Sleaford North Jn	62	14	63	48	8	Y	
-London-North-Eastern	1217	LN170	SPD2	Sleaford North Jn	Site of Former Greetwell West Jn	Sleaford North Jn – Site of Former Greetwell West Jn	63	48	81	25	8	Y	
+London-North-Eastern	1217	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1217					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1217	LN3201	Ratcliffe Jn – Spondon	Ratcliffe Jn	Spondon	Y *	Y	R1	R1	R1	R1	R1	R1	R1 Between Trent West Jn and Sheet Stores Jn only
+London-North-Eastern	1217	LN3201	Spondon – Derby London Rd Jn	Spondon	Derby London Rd Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1217	LN3201	Derby London Road Jn – Clay Cross Sth Jn	Derby London Road Jn	Clay Cross Sth Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1217	LN3201	Clay Cross Sth Jn – Tapton Jn (Chesterfield)	Clay Cross Sth Jn	Tapton Jn (Chesterfield)	Y *	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED on the Up Fast between former Clay Cross South Jn and Tapton Jn R2 PROHIBITED on the Down Fast between former Clay Cross South Jn and Tapton Jn
+London-North-Eastern	1217	LN3201	Wymington Deviation	Wymington Deviation		Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3201	Chaddesden Sidings – Derby Jn	Chaddesden Sidings	Derby Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3204	Trent South Jn – Nottingham East Jn	Trent South Jn	Nottingham East Jn	Y *	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Trent East Jn to Nottingham East Jn
+London-North-Eastern	1217	LN3207	Trent East Jn – Chesterfield South Jn	Trent East Jn	Chesterfield South Jn	Y *	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED from Toton Yards R2 PROHIBITED from Stapleford and Sandiacre Yards R3 PROHIBITED from Codnor Park Sidings
+London-North-Eastern	1217	LN3207	Toton North Jn – Staton and Staveley Sidings (Mapperley Goods Branch)	Toton North Jn	Staton and Staveley Sidings (Mapperley Goods Branch)	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3210	Junction Road Jn – Carlton Road Jn (Tottenham Lines)	Junction Road Jn	Carlton Road Jn (Tottenham Lines)	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3213	Moorgate – Kentish Town Jn	Moorgate	Kentish Town Jn	N	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3214	Canal Tunnel Jn – Belle Isle Jn	Canal Tunnel Jn	Belle Isle Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3219	Cricklewood Curve Jn –o Dudding Hill Jn	Cricklewood Curve Jn	o Dudding Hill Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3222	Brent Curve Jn – Dudding Hill Jn	Brent Curve Jn	Dudding Hill Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3228	Trent East Jn – Sheet Stores Jn	Trent East Jn	Sheet Stores Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1217	LN3231	Wigston South Jn – Glen Parva Jn	Wigston South Jn	Glen Parva Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3232	Wigston North Jn – Hinckley	Wigston North Jn	Hinckley	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1217	LN3234	Syston East Jn – Syston North Jn	Syston East Jn	Syston North Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3237	Loughborough South Jn – Hotchley Hill	Loughborough South Jn	Hotchley Hill	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3240	Little Eaton Jn –o Denby	Little Eaton Jn	o Denby	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3246	Ambergate Jn – Matlock	Ambergate Jn	Matlock	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3249	Lenton South Jn – Lenton North Jn	Lenton South Jn	Lenton North Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3252	Mansfield Jn to Trowell South Jn	Mansfield Jn to Trowell South Jn		Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1217	LN3255	Radford Jn – Kirkby Lane End Jn	Radford Jn	Kirkby Lane End Jn	Y	N	N	N	N	N	N	N	

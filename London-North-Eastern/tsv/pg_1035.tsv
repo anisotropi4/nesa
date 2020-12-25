@@ -1,16 +1,23 @@
-London-North-Eastern	1035	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 oCh	 M	 Ch	121	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1035	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	Y	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Eastern	1035	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	Y	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Eastern	1035	LN3201	SPC1	St. Pancras platforms 1, 2 ,3 and 4	Cricklewood	St. Pancras platforms 1, 2 ,3 and 4 - Cricklewood	0	12	5	09	Y	N	N	N	Y	E	E	Y	R1 R2	R1 R2	R1 15mph West Hampstead Thameslink Down Fast platform 4 R2 5mph Cricklewood Up Fast platform 3
-London-North-Eastern	1035	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	Y	N	N	N	Y	E	E	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 Prohibited Hendon Down Slow platform R2 Prohibited Hendon Up Slow platform R3 5mph Cricklewood Up Fast platform 3 R4 15mph Luton Airport Parkway Up Slow platform
-London-North-Eastern	1035	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	Y	N	N	N	Y	E R1	E R1	Y	R2	R2	R1 Passenger operation between Bedford platforms 1-3 and Bedford St Johns only. R2 Prohibited Wellingborough Up and Down Slow Platform 3
-London-North-Eastern	1035	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	Y	N	N	N	Y	E	E	Y	R1 R2 R3 R4 R5	R1 R2 R3 R4 R5	R1 Prohibited Wellingborough Up and Down Slow Platform 3 R2 30mph Wellingborough Up platform 2 R3 15mph Kettering Down Slow platform 2 R4 5mph Market Harborough Down platform R5 15mph Harborough Road underbridge 88m 07ch (between East Langton - Kibworth) up and down lines
-London-North-Eastern	1035	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester )	Change of ELR (Wigston South Jn) – Change of ELR (Leicester )	95	38	98	73	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC5	Change of ELR (Leicester )	Leicester	Change of ELR (Leicester ) – Leicester	98	73	99	07	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1035	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1035	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1035	LN880	YMS	York (platform 2 and maintenance sidings)	Connection to Up line	York (platform 2 and maintenance sidings) – Connection to Up line	0	0	0	15	N	N	N	Y	Y	N	N	Y	
+London-North-Eastern	1035	LN882	WAG1	Wakefield Kirkgate West Jn	Calder Bridge Jn	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	Y	N	R1	Y	Y	R2	R2	Y	R1 5mph Wakefield Kirkgate platform 3 with deflated suspension R2 Prohibited Wakefield Kirkgate platform 3 when laden. Must use up Goole Line (reversible)
+London-North-Eastern	1035	LN882	WAG1	Calder Bridge Jn	Crofton West Jn	Calder Bridge Jn – Crofton West Jn	48	28	49	40	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1035	LN882	WAG1	Crofton West Jn	Knottingley West Jn	Crofton West Jn – Knottingley West Jn	49	40	58	20	E	N	Y	E R1 R2	Y	Y	Y	Y	R1 Prohibited between Crofton East Jn and Knottingley West Jn R2 Prohibited with deflated suspension
+London-North-Eastern	1035	LN882	WAG1	Knottingley West Jn	Engine Shed Jn	Knottingley West Jn – Engine Shed Jn	58	20	73	52	N	N	Y	N	Y	N	N	Y	
+London-North-Eastern	1035	LN882	WAG2	Engine Shed Jn	Goole Potters Grange Jn	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	N	N	Y	N	Y	N	N	Y	
+London-North-Eastern	1035	LN884	OAJ	Oakenshaw South Jn	Oakenshaw Jn.	Oakenshaw South Jn – Oakenshaw Jn.	49	41	48	76	N	N	N	N	N	N	N	N	
+London-North-Eastern	1035	LN886	TJC3	Monk Bretton	Oakenshaw South Jn	Monk Bretton – Oakenshaw South Jn	176	22	181	75	N	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1035	LN886	OSC	Oakenshaw South Jn	Crofton East Jn	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	N	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1035	LN888	CJS	Stainforth Jn	Thorpe Marsh Jn	Stainforth Jn – Thorpe Marsh Jn	166	70	163	76	N	N	N	Y	N	N	N	N	
+London-North-Eastern	1035	LN888	HTM	Thorpe Marsh Jn	Haywood Jn	Thorpe Marsh Jn – Haywood Jn	69	56	67	66	N	N	N	N	N	N	N	N	
+London-North-Eastern	1035	LN888	KWS	Haywood Jn	Knottingley West Jn	Haywood Jn – Knottingley West Jn	67	66	58	20	E	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1035	LN888	FKW	Knottingley West Jn	Ferrybridge North Jn	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	N	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1035	LN889	KWS	Shaftholme Jn	Haywood Jn	Shaftholme Jn – Haywood Jn	68	75	67	66	N	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1035	LN892	PEF	Pontefract East Jn	Ferrybridge South Jn	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	N	N	Y	N	Y	N	N	Y	
+London-North-Eastern	1035	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	N	N	N	N	N	N	N	N	
+London-North-Eastern	1035	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N	N	
+London-North-Eastern	1035	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1035	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1035	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1035	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1035	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	Y	N	Y	Y	Y	N	N	Y	

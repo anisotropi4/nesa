@@ -1,22 +1,11 @@
-London-North-Eastern	1218	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1218	LN170	SPD3	Site of Former Greetwell West Jn	Trent East Jn	Site of Former Greetwell West Jn – Trent East Jn	81	25	98	56	8	Y	
-London-North-Eastern	1218	LN170	MAC3	Trent East Jn	Trent West Jn	Trent East Jn – Trent West Jn	73	25	73	11	8	Y	
-London-North-Eastern	1218	LN170	SPD4	Trent West Jn	Bessacarr Jn	Trent West Jn – Bessacarr Jn	98	68	115	72	8	Y	
-London-North-Eastern	1218	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	8	Y	
-London-North-Eastern	1218	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	8	Y	
-London-North-Eastern	1218	LN180	SNW	Sleaford West Jn	Sleaford North Jn	Sleaford West Jn – Sleaford North Jn	1	34	3	42	8	Y	
-London-North-Eastern	1218	LN185	ABE1	Allington West Jn	Site of Former Barkston East Jn	Allington West Jn – Site of Former Barkston East Jn	0	00	4	08	8	Y	
-London-North-Eastern	1218	LN185	GRS1	Barkston East Jn	Site of Former Honington Jn	Barkston East Jn – Site of Former Honington Jn	110	12	112	00	8	Y	
-London-North-Eastern	1218	LN185	GRS2	Site of Former Honington Jn	Sleaford West Jn	Site of Former Honington Jn – Sleaford West Jn	112	00	120	29	8	Y	
-London-North-Eastern	1218	LN185	GRS2	Sleaford West Jn	Sleaford East Jn	Sleaford West Jn – Sleaford East Jn	120	29	121	21	8	Y	
-London-North-Eastern	1218	LN185	GRS2	Sleaford East Jn	Site of Former Boston Sleaford Line Jn	Sleaford East Jn – Site of Former Boston Sleaford Line Jn	121	21	137	06	8	Y	
-London-North-Eastern	1218	LN185	GRS3	Site of Former Boston Sleaford Line Jn	Boston	Site of Former Boston Sleaford Line Jn – Boston	106	70	107	24	8	Y	
-London-North-Eastern	1218	LN185	GRS3	Boston	Site of Former Firsby East Jn	Boston – Site of Former Firsby East Jn	107	24	122	22	7	Y	
-London-North-Eastern	1218	LN185	GRS4	Site of Former Firsby East Jn	Skegness	Site of Former Firsby East Jn – Skegness	0	28	9	17	7	Y	
-London-North-Eastern	1218	LN190	ACD	Allington East Jn	Allington North Jn (Allington Chord)	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	8	Y	
-London-North-Eastern	1218	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	8	R1	R1 Prohibited through Gonerby Tunnel on the Up line
-London-North-Eastern	1218	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	8	Y	
-London-North-Eastern	1218	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	8	Y	
-London-North-Eastern	1218	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	8	Y	
-London-North-Eastern	1218	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	8	Y	
-London-North-Eastern	1218	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	8	Y	
+London-North-Eastern	1218	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1218					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1218	LN3258	Bestwood Park Jn – Calverton Colliery	Bestwood Park Jn	Calverton Colliery	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1218	LN3261	Trent South Jn – Toton South Jn (High Level Lines)	Trent South Jn	Toton South Jn (High Level Lines)	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1218	LN3264	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1218	LN3270	Codnor Park Jn – Ironville Jn GF	Codnor Park Jn	Ironville Jn GF	-	-	-	-	-	-	-	-	Section now classified as a siding and subsumed by LN3207
+London-North-Eastern	1218	LN3273	Codnor Park Jn – Shirebrook Jn	Codnor Park Jn	Shirebrook Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1218	LN3340	Alrewas (Inclusive) – Wichnor Jn	Alrewas (Inclusive)	Wichnor Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1218	LN3501	Derby London Road Jn – Tamworth (Exclusive)	Derby London Road Jn	Tamworth (Exclusive)	Y *	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED Derby London Road Jn to Stenson Jn R2 PROHIBITED from New Wetmore Sidings R3 PROHIBITED from Central Rivers Depot
+London-North-Eastern	1218	LN3505	North Stafford Jn – Stoke Jn (Exclusive)	North Stafford Jn	Stoke Jn (Exclusive)	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1218	LN3515	Melbourne Jn – Sinfin	Melbourne Jn	Sinfin	Y	N	N	N	N	N	N	N	

@@ -1,23 +1,19 @@
-London-North-Eastern	1236	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1236	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	8	Y	
-London-North-Eastern	1236	LN3228	TCC	Trent East Jn	Trent East Change of ELR	Trent East Jn – Trent East Change of ELR	119	70	119	56	8	Y	
-London-North-Eastern	1236	LN3228	TES	Trent East Change of ELR	Sheet Stores Jn	Trent East Change of ELR – Sheet Stores Jn	0	00	0	30	8	Y	
-London-North-Eastern	1236	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	8	Y	
-London-North-Eastern	1236	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)0	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)0	15	31	2	62	8	Y	
-London-North-Eastern	1236	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	8	Y	
-London-North-Eastern	1236	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	8	Y	
-London-North-Eastern	1236	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	8	Y	
-London-North-Eastern	1236	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	8	R1	R1 Prohibited between Ambergate and Whatstandwell on the Single line
-London-North-Eastern	1236	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	8	Y	
-London-North-Eastern	1236	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	8	Y	
-London-North-Eastern	1236	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	8	Y	
-London-North-Eastern	1236	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	8	Y	
-London-North-Eastern	1236	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	7	Y	
-London-North-Eastern	1236	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	8	Y	
-London-North-Eastern	1236	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	8	Y	
-London-North-Eastern	1236	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	8	Y	
-London-North-Eastern	1236	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	8	Y	
-London-North-Eastern	1236	LN3273	PBS2	Kirkby Summit Crossover	Mansfield Change of ELR	Kirkby Summit Crossover – Mansfield Change of ELR	137	11	140	40	8	Y	
-London-North-Eastern	1236	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	8	R1	R1 Prohibited between Mansfield and Mansfield Woodhouse on the Down Main line
-London-North-Eastern	1236	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	8	Y	
-London-North-Eastern	1236	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	8	Y	
+London-North-Eastern	1236	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Eastern	1236	LN898	HUL2	Selby South Jn	Site of Former Barlby Jn	Selby South Jn – Site of Former Barlby Jn	31	12	30	40	8	Y	
+London-North-Eastern	1236	LN898	HUL1	Site of Former Barlby Jn	Anlaby Road Jn	Site of Former Barlby Jn – Anlaby Road Jn	30	40	0	73	8	Y	
+London-North-Eastern	1236	LN898	HUL1	Anlaby Road Jn	Hull	Anlaby Road Jn – Hull	0	73	0	00	8	R1 R2 R3 R4 R5	R1 Prohibited between Anlaby Road Jn and West Parade Jn and on the Up Main line R2 Prohibited Hull platform 2 R3 Prohibited Hull platform 4 R4 Prohibited Hull platform 5 R5 Prohibited Hull Dock platform A
+London-North-Eastern	1236	LN900	HUE	Neville Hill West Jn	Hunslet East	Neville Hill West Jn – Hunslet East	0	00	0	55	10	Y	
+London-North-Eastern	1236	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	9	Y	
+London-North-Eastern	1236	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	10	Y	
+London-North-Eastern	1236	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	10	Y	
+London-North-Eastern	1236	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	9	Y	
+London-North-Eastern	1236	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	9	Y	
+London-North-Eastern	1236	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	9	Y	
+London-North-Eastern	1236	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	8	Y	
+London-North-Eastern	1236	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	8	Y	
+London-North-Eastern	1236	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	8	R1	R1 Prohibited on the Down line
+London-North-Eastern	1236	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	7	Y	
+London-North-Eastern	1236	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	6	R1 R2	R1 Prohibited from Bridlington platform 4 (Down line) R2 Prohibited from Bridlington bay platform 7
+London-North-Eastern	1236	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	8	Y	
+London-North-Eastern	1236	LN916	HJS	Springbank North Jn	Network Rail Boundary	Springbank North Jn – Network Rail Boundary	1	38	5	62	7	Y	
+London-North-Eastern	1236	LN918	SPW	Springbank North Jn	Walton Street Jn	Springbank North Jn – Walton Street Jn	1	54	1	29	8	Y	

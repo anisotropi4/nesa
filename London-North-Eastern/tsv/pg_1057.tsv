@@ -1,5 +1,23 @@
-London-North-Eastern	1057	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	314	315	317	318	319	321	322
-London-North-Eastern	1057	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	N	N	N	N	N	N	Y	Y
-London-North-Eastern	1057	LN930	SKS1	Skipton Middle	Site of former Embsay Jn	Skipton Middle – Site of former Embsay Jn	222	68	220	64	N	N	N	N	N	N	Y	N
-London-North-Eastern	1057	LN930	SKS2	Site of former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	N	N	N	N	N	N	Y	N
-London-North-Eastern	1057	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	N	N	N	N	N	N	Y	Y
+London-North-Eastern	1057	Line of route	ELR	LineofRoute/SectorDescription		LineofRoute/SectorDescription	 M	 Ch	 M	 Ch	313	314	315	317	318	319	321	322	Notes
+London-North-Eastern	1057	LN852	MRB	MillLaneJn	Bradford Interchange	MillLaneJn–BradfordInterchange	40	01	40	27	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN854	MVN2	RouteBoundary(NW7001)(HallRoydJn)	Turners Lane Jn	RouteBoundary(NW7001)(HallRoydJn)–TurnersLaneJn	22	62	48	33	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN854	MVN2	TurnersLaneJn	Site of former Goose Hill Jn	TurnersLaneJn–SiteofformerGooseHillJn	48	33	50	31	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1057	LN854	TJC3	SiteofformerGooseHillJn	Altofts Jn	SiteofformerGooseHillJn–AltoftsJn	184	56	186	00	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1057	LN854	NOC	AltoftsJn	Sherburn Jn	AltoftsJn–SherburnJn	23	57	13	20	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1057	LN854	NOC	SherburnJn	Colton Jn	SherburnJn–ColtonJn	13	20	5	41	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1057	LN854	ECM4	ColtonJn	Holgate Jn	ColtonJn–HolgateJn	182	79	188	07	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1057	LN854	ECM4	HolgateJn	York	HolgateJn–York	188	07	188	40	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1057	LN854	ECM5	York	Skelton Jn	York–SkeltonJn	0	00	1	50	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1057	LN858	MRB	MilnerRoydJn	Mill Lane Jn	MilnerRoydJn–MillLaneJn	29	20	40	01	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN859	GRD	GreetlandJn	Dryclough Jn	GreetlandJn–DrycloughJn	1	11	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MVL3	RouteBoundary(NW7021)(StalybridgeTunnelJn)	Springwood Jn	RouteBoundary(NW7021)(StalybridgeTunnelJn)–SpringwoodJn	15	11	25	20	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MVL3	SpringwoodJn	Change of ELR (Heaton Lodge Jn)	SpringwoodJn–ChangeofELR(HeatonLodgeJn)	25	20	29	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MVL4	ChangeofELR(HeatonLodgeJn)	Heaton Lodge Jn (Up line)	ChangeofELR(HeatonLodgeJn)–HeatonLodgeJn(Upline)	29	00	29	45	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MVL4	ChangeofELR(HeatonLodgeJn)	Heaton Lodge East Jn (Down Line)	ChangeofELR(HeatonLodgeJn)–HeatonLodgeEastJn(DownLine)	29	00	29	74	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MVN2	HeatonLodgeJn	Heaton Lodge East Jn	HeatonLodgeJn–HeatonLodgeEastJn	37	18	37	47	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MVN2	HeatonLodgeEastJn	Thornhill LNW Jn	HeatonLodgeEastJn–ThornhillLNWJn	37	47	39	72	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN860	MDL1	ThornhillLNWJn	Copley Hill East Jn	ThornhillLNWJn–CopleyHillEastJn	32	16	42	03	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN861	BBW	BradleyJn	Bradley Wood Jn	BradleyJn–BradleyWoodJn	0	00	1	17	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN862	PED2	BarnsleyStationJn	Site of former Barnsley Jn	BarnsleyStationJn–SiteofformerBarnsleyJn	6	43	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN862	PED1	SiteofformerBarnsleyJn	Site of former Huddersfield Jn	SiteofformerBarnsleyJn–SiteofformerHuddersfieldJn	29	13	28	37	N	N	N	N	N	N	N	N	
+London-North-Eastern	1057	LN862	PEH	SiteofformerHuddersfieldJn	Lockwood	SiteofformerHuddersfieldJn–Lockwood	13	42	1	18	N	N	N	N	N	N	N	N	

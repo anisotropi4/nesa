@@ -1,16 +1,27 @@
-London-North-Eastern	1041	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	E	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1041	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	N	Y	N	N	N	N	N	E R1	R1 Prohibited between Knighton Jn and Birmingham Curve Jn
-London-North-Eastern	1041	LN3535	BCJ	Birmingham Curve Jn	Branston Jn	Birmingham Curve Jn – Branston Jn	126	40	127	19	N	Y	N	N	N	N	N	N	
-London-North-Eastern	1041	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1041	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1041	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1041	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1041	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1041	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1041	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1041	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	Y	Y	N	
-London-North-Eastern	1041	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1041	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	Y	N	N	E R2	N	N	R1	R1 Between Nottingham East Jn and Netherfield Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed R2 Prohibited between Eastcroft Sidings (00m 22ch) and Route Boundary (LN206) (Coulson)
-London-North-Eastern	1041	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1041	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1041	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1041	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1041	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	Y	Y	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3535	BCJ	Birmingham Curve Jn	Branston Jn	Birmingham Curve Jn – Branston Jn	126	40	127	19	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	N	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1041	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	Y	N	N	N	Y	Y	Y	Y	Y	Y	

@@ -1,20 +1,22 @@
-London-North-Eastern	1060	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	325	333	345	357	357 MOD	365	377	378	Notes
-London-North-Eastern	1060	LN101	ECM1	Newark North Gate	Retford	Newark North Gate – Retford	120	08	138	49	Y	N	N	N	N	E R1 R2	N	N	R1 Prohibited via bridge 303a 138m38ch (Worksop – Gainsborough line underbridge) Down Fast R2 25mph Grantham Station platform 4
-London-North-Eastern	1060	LN101	ECM1	Retford	Loversall Carr Jn	Retford – Loversall Carr Jn	138	49	150	00	Y	N	N	N	N	E	N	N	
-London-North-Eastern	1060	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	Y	R1	N	N	N	E R2 R3	N	N	R1 Between Doncaster platforms 1, 3, 4, 6, 7 and 8 and Marshgate Jn only R2 Prohibited Doncaster platform 7 R3 15mph Doncaster platform 1
-London-North-Eastern	1060	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	H	N	E	E	E	N	N	E	
-London-North-Eastern	1060	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	Y	N	N	N	N	N	E	E	
-London-North-Eastern	1060	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	R1	N	N	N	N	R1	N	N	R1 No more than 18 electric trains per line may operate over the Hertford Loop in any one hour period
-London-North-Eastern	1060	LN125	SBR	Cambridge Jn	Route Boundary (EA1230)	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	H	N	N	N	N	R1	N	N	R1 See Sectional Appendix Local Instructions
-London-North-Eastern	1060	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	05	N	N	N	N	N	Y	N	N	
-London-North-Eastern	1060	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	H	N	N	N	N	N	N	N	
-London-North-Eastern	1060	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	H	N	N	N	N	N	EH	E	
-London-North-Eastern	1060	LN170	WEB	Werrington Jn	Site of former Spalding South Jn	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	H	N	N	N	N	N	N	N	
+London-North-Eastern	1060	Line of route	ELR	LineofRoute/SectorDescription		LineofRoute/SectorDescription	 M	 Ch	 M	 Ch	313	314	315	317	318	319	321	322	Notes
+London-North-Eastern	1060	LN902	CFM	MicklefieldJn	Church Fenton North Jn	MicklefieldJn–ChurchFentonNorthJn	15	62	10	31	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN904	HSC	HambletonSouthJn	Hambleton West Jn	HambletonSouthJn–HambletonWestJn	174	10	175	33	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN906	HNC	HambletonEastJn	Hambleton North Jn	HambletonEastJn–HambletonNorthJn	3	34	4	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN908	SEC	SelbyWestJn	Canal Jn	SelbyWestJn–CanalJn	0	00	0	32	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN910	TCW1	TempleHirstJn	Selby Canal Jn	TempleHirstJn–SelbyCanalJn	169	16	173	59	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN910	TCW1	SelbyCanalJn	Selby South Jn	SelbyCanalJn–SelbySouthJn	173	59	174	11	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN912	TJG1	ThorneJn	Thorne North Change of ELR	ThorneJn–ThorneNorthChangeofELR	7	69	9	09	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN912	TJG2	ThorneNorthChangeofELR	Gilberdyke Jn	ThorneNorthChangeofELR–GilberdykeJn	14	06	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN914	HBS	WestParadeJn	West Parade North Jn	WestParadeJn–WestParadeNorthJn	0	25	0	72	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN914	HBS	WestParadeNorthJn	Walton Street Jn	WestParadeNorthJn–WaltonStreetJn	0	72	1	29	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN914	HBS	WaltonStreetJn	Seamer West Jn	WaltonStreetJn–SeamerWestJn	1	29	50	43	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN916	HJS	HessleRoad	Springbank North Jn	HessleRoad–SpringbankNorthJn	0	00	1	38	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN916	HJS	SpringbankNorthJn	Network Rail Boundary	SpringbankNorthJn–NetworkRailBoundary	1	38	5	62	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN918	SPW	SpringbankNorthJn	Walton Street Jn	SpringbankNorthJn–WaltonStreetJn	1	54	1	29	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN920	AWP	AnlabyRoadJn	West Parade North Jn	AnlabyRoadJn–WestParadeNorthJn	0	00	0	24	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN922	TJC3	WhitehallWestJn	Skipton	WhitehallWestJn–Skipton	195	57	221	01	N	N	N	N	N	N	Y	Y	
+London-North-Eastern	1060	LN922	TJC3	Skipton	Site of former Skipton North Jn Change of ELR	Skipton–SiteofformerSkiptonNorthJnChangeofELR	221	21	221	68	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN922	SKW1	SiteofformerSkiptonNorthJnChangeofELR	Route Boundary (NW9901) (Settle Jn)	SiteofformerSkiptonNorthJnChangeofELR–RouteBoundary(NW9901)(SettleJn)	221	68	230	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1060	LN924	ILK1	ApperleyJn	Burley in Wharfedale	ApperleyJn–BurleyinWharfedale	202	03	208	02	N	N	N	N	N	N	Y	Y	
+London-North-Eastern	1060	LN924	ILK2	BurleyinWharfedale	Ilkley	BurleyinWharfedale–Ilkley	208	02	211	20	N	N	N	N	N	N	Y	Y	
+London-North-Eastern	1060	LN926	GUE2	DockfieldJn	Esholt Jn	DockfieldJn–EsholtJn	3	41	0	00	N	N	N	N	N	N	Y	Y	

@@ -1,18 +1,16 @@
-London-North-Eastern	1168	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	86	87	88	90	91	92	Notes
-London-North-Eastern	1168	LN627	LEN3	High Level Bridge Jn	Newcastle East Jn	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	5	R1	R1	N	R1	R1	R1	R1 Movement of all freight trains (including Engineering and ‘Departmental’ trains) greater than RA5 over High Level Bridge (LEN3/323) must first be authorised by the Infrastructure Manager’s structures engineer or their on-call representative. Locomotive- hauled passenger services are permitted over High Level Bridge (LEN3/323) during perturbed working only.
-London-North-Eastern	1168	LN628	NEK	South Hylton	Sunderland South Jn	South Hylton – Sunderland South Jn	3	20	0	00	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN629	PDL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN630	PUL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN631	DSN1	Darlington South Jn	Eaglescliffe South Jn	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	8	H	H	Y	H	H	N	
-London-North-Eastern	1168	LN632	DSN2	Stockton Cut Jn	Redcar Change of Mileage	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN632	DSN3	Redcar Change of Mileage	Saltburn	Redcar Change of Mileage – Saltburn	22	16	27	57	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN634	MBW1	Guisborough Jn	Battersby Jn	Guisborough Jn – Battersby Jn	0	00	10	54	7	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN634	MBW2	Battersby Jn (End of Line)	Grosmont Jn	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	7	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN634	MBW3	Grosmont Jn	Whitby	Grosmont Jn – Whitby	24	44	30	61	7	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN636	No ELR	Beam Mill Jn	Network Rail Boundary	Beam Mill Jn – Network Rail Boundary	18	03	18	67	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN638	WCI	Shell Jn	Network Rail Boundary	Shell Jn – Network Rail Boundary	0	00	1	03	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN642	SSK1	Saltburn West Jn	Network Rail Boundary (Cleveland Potash)	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN644	BOH	Hartburn Jn	Bowesfield SB (Hartburn Curve)	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN646	STF	Norton-on-Tees South	Ferryhill South Jn	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	8	H	H	Y	H	H	N	
-London-North-Eastern	1168	LN648	NWE	Norton-on-Tees West	Norton-on- Tees East	Norton-on-Tees West – Norton-on- Tees East	0	29	0	00	8	N	N	Y	N	N	N	
-London-North-Eastern	1168	LN652	POC1	Billingham Jn	Phillips Siding Jn	Billingham Jn – Phillips Siding Jn	0	00	3	25	8	N	N	Y	N	N	N	
+London-North-Eastern	1168	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+London-North-Eastern	1168	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	6	N	R1	N	N	R1	R1	R1	R1 Due to the condition of the track, locomotive hauled trains and light locomotives are prohibited. Engineering trains will be permitted subject to authorisation by the Infrastructure Manager’s track engineer
+London-North-Eastern	1168	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN916	HJS	Springbank North Jn	Network Rail Boundary	Springbank North Jn – Network Rail Boundary	1	38	5	62	7	R1 R2 R3	Y	R1 R2 R3	Y	Y	Y	Y	R1 10 mph over bridges HJS 10 -12 and HJS 16 R2 20 mph over bridges HJS 13 and 18 R3 15 mph over bridge HJS 21
+London-North-Eastern	1168	LN918	SPW	Springbank North Jn	Walton Street Jn	Springbank North Jn – Walton Street Jn	1	54	1	29	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN920	AWP	Anlaby Road Jn	West Parade North Jn	Anlaby Road Jn – West Parade North Jn	0	00	0	24	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN922	TJC3	Whitehall West Jn	Skipton	Whitehall West Jn – Skipton	195	57	221	01	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN922	TJC3	Skipton	Site of Former Skipton North Jn Change of ELR	Skipton – Site of Former Skipton North Jn Change of ELR	221	21	221	68	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN922	SKW1	Site of Former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of Former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	7	N	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1168	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	7	N	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1168	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	5	N	N	N	N	N	Y	Y	
+London-North-Eastern	1168	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN930	SKS1	Skipton Middle	Site of Former Embsay Jn	Skipton Middle – Site of Former Embsay Jn	222	68	220	64	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN930	SKS2	Site of Former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of Former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	8	Y	Y	Y	Y	Y	Y	Y	

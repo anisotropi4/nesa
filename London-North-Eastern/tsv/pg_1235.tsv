@@ -1,19 +1,21 @@
-London-North-Eastern	1235	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge
-London-North-Eastern	1235	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester )	Change of ELR (Wigston South Jn) – Change of ELR (Leicester )	95	38	98	73	8	Y
-London-North-Eastern	1235	LN3201	SPC5	Change of ELR (Leicester )	Leicester	Change of ELR (Leicester ) – Leicester	98	73	99	07	8	Y
-London-North-Eastern	1235	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	8	Y
-London-North-Eastern	1235	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	8	Y
-London-North-Eastern	1235	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	8	Y
-London-North-Eastern	1235	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	8	Y
-London-North-Eastern	1235	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	8	Y
-London-North-Eastern	1235	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	8	Y
-London-North-Eastern	1235	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	8	Y
-London-North-Eastern	1235	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	8	Y
-London-North-Eastern	1235	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	8	Y
-London-North-Eastern	1235	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	8	Y
-London-North-Eastern	1235	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	8	Y
-London-North-Eastern	1235	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No.2 and No.1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No.2 and No.1 Tunnels)	2	38	2	00	8	Y
-London-North-Eastern	1235	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No.2 and No.1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No.2 and No.1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	8	Y
-London-North-Eastern	1235	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	5	N
-London-North-Eastern	1235	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	3	N
-London-North-Eastern	1235	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Cricklewood Curve Jn – Route Boundary (EA1360) (Dudding Hill)	5	19	5	72	8	Y
+London-North-Eastern	1235	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Eastern	1235	LN880	YMS	Commencement of single line section @ 0m 18ch to Scarborough (Platforms 1 to 5)	Scarborough (Platforms 1 to 5)	Commencement of single line section @ 0m 18ch to Scarborough (Platforms 1 to 5) – Scarborough (Platforms 1 to 5)	0	18	42	06	8	R1 R2 R3	R1 Prohibited Scarborough platform 3 R2 Prohibited Scarborough platform 4 R3 Prohibited Scarborough platform 5
+London-North-Eastern	1235	LN880	YMS	York (Platform 2 and maintenance sidings)	Connection to Up line	York (Platform 2 and maintenance sidings) – Connection to Up line	0	00	0	15	3	Y	
+London-North-Eastern	1235	LN882	WAG1	Wakefield Kirkgate West Jn	Calder Bridge Jn	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	8	Y	
+London-North-Eastern	1235	LN882	WAG1	Calder Bridge Jn	Crofton West Jn	Calder Bridge Jn – Crofton West Jn	48	28	49	40	8	Y	
+London-North-Eastern	1235	LN882	WAG1	Crofton West Jn	Knottingley West Jn	Crofton West Jn – Knottingley West Jn	49	40	58	20	8	Y	
+London-North-Eastern	1235	LN882	WAG1	Knottingley West Jn	Engine Shed Jn	Knottingley West Jn – Engine Shed Jn	58	20	73	52	8	Y	
+London-North-Eastern	1235	LN882	WAG2	Engine Shed Jn	Goole Potters Grange Jn	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	8	Y	
+London-North-Eastern	1235	LN884	OAJ	Oakenshaw South Jn	Oakenshaw Jn	Oakenshaw South Jn – Oakenshaw Jn	49	41	48	76	8	Y	
+London-North-Eastern	1235	LN886	TJC3	Monk Bretton	Oakenshaw South Jn	Monk Bretton – Oakenshaw South Jn	176	22	181	75	8	Y	
+London-North-Eastern	1235	LN886	OSC	Oakenshaw South Jn	Crofton East Jn	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	8	Y	
+London-North-Eastern	1235	LN888	KWS	Shaftholme Jn	Knottingley West Jn	Shaftholme Jn – Knottingley West Jn	68	75	58	20	9	Y	
+London-North-Eastern	1235	LN888	FKW	Knottingley West Jn	Ferrybridge North Jn	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	9	Y	
+London-North-Eastern	1235	LN892	PEF	Pontefract East Jn	Ferrybridge South Jn	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	8	Y	
+London-North-Eastern	1235	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	9	Y	
+London-North-Eastern	1235	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	8	Y	
+London-North-Eastern	1235	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	8	Y	
+London-North-Eastern	1235	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	8	Y	
+London-North-Eastern	1235	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	8	Y	
+London-North-Eastern	1235	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	8	Y	
+London-North-Eastern	1235	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	8	Y	

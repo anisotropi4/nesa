@@ -1,20 +1,24 @@
-London-North-Eastern	1007	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	142	143	144	150	153	155	156	158	159
-London-North-Eastern	1007	LN802	WKC	Welbeck Colliery Jn	Network Rail Boundary (RJB)	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1007	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn)	Dore South Jn	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	TJC1	Dore South Jn	Sheffield Station	Dore South Jn – Sheffield Station	153	71	158	40	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	TJC1	Sheffield Station	Nunnery Main Line Jn	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	TJC1	Nunnery Main Line Jn	Site of Former Grimesthorpe Jn	Nunnery Main Line Jn – Site of Former Grimesthorpe Jn	158	77	160	47	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	TJC2	Site of Former Grimesthorpe Jn	Site of Masborough South Jn	Site of Former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	TJC3	Site of Former Masborough South Jn	Swinton Jn South	Site of Former Masborough South Jn – Swinton Jn South	161	77	166	56	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	SMJ1	Swinton Jn North	Site of Former Wath Curve Jn	Swinton Jn North – Site of Former Wath Curve Jn	167	03	168	64	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	SMJ2	Site of Former Wath Curve Jn	Ferrybridge South Jn	Site of Former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	SMJ2	Ferrybridge South Jn	Site of Former Burton Salmon Jn	Ferrybridge South Jn – Site of Former Burton Salmon Jn	2	38	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	SMJ3	Site of Former Burton Salmon Jn	Milford Jn	Site of Former Burton Salmon Jn – Milford Jn	16	69	15	07	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN806	CHR	Route Boundary (LN3201) (Tapton Jn)	Masborough Jn	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN807	MAS	Dore South Jn	Dore West Jn	Dore South Jn – Dore West Jn	153	73	154	16	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN808	DWS	Dore Station Jn	Dore West Jn	Dore Station Jn – Dore West Jn	0	60	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN808	MAS	Dore West Jn	Route Boundary (NW9001) (Chinley North Jn)	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN809	BTJ	Shepcote Lane West Jn	Tinsley Yard East End	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	N	N	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1007	LN810	SEL	Shepcote Lane West Jn	Tinsley South Jn	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1007	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1007	LN632	DSN3	Redcar Change of Mileage	Saltburn	Redcar Change of Mileage – Saltburn	22	16	27	57	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN634	MBW1	Guisborough Jn	Battersby Jn	Guisborough Jn – Battersby Jn	0	00	10	54	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN634	MBW2	Battersby Jn (End of Line)	Grosmont Jn	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1 See Sectional Appendix Local Instructions
+London-North-Eastern	1007	LN634	MBW3	Grosmont Jn	Whitby	Grosmont Jn – Whitby	24	44	30	61	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN636	No ELR	Beam Mill Jn	Network Rail Boundary	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN638	WCI	Shell Jn	Network Rail Boundary	Shell Jn – Network Rail Boundary	0	00	1	03	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN642	SSK1	Saltburn West Jn	Network Rail Boundary (Cleveland Potash)	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN644	BOH	Hartburn Jn	Bowesfield SB (Hartburn Curve)	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN646	STF	Norton-on-Tees South	Ferryhill South Jn	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN648	NWE	Norton-on-Tees West	Norton-on-Tees East	Norton-on-Tees West – Norton-on-Tees East	0	29	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN652	POC1	Billingham Jn	Phillips Siding Jn	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN652	POC2	Phillips Siding Jn	Seal Sands Branch Jn	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN652	SES	Seal Sands Branch Jn	End of NR maintenance	Seal Sands Branch Jn – End of NR maintenance	0	00	2	44	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN656	SOT	Seaton Snook Jn	Seaton-on-Tees	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN662	HNB	Ryhope Grange	Hendon	Ryhope Grange – Hendon	0	00	1	53	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN664	BNW	Boldon East Jn	Boldon North Jn	Boldon East Jn – Boldon North Jn	0	00	0	20	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN666	BGE	Boldon West Jn	Boldon North Jn	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN666	GLT	Boldon North Jn	Tyne Dock	Boldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN670	JAW1	Pelaw Jn	Network Rail Boundary (Shell Mex Depot Jarrow)	Pelaw Jn – Network Rail Boundary (Shell Mex Depot Jarrow)	0	09	3	36	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN672	FEP	Wardley	Pelaw Jn	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1007	LN674	HLK	High Level Bridge Jn	Greensfield Jn (West Curve)	High Level Bridge Jn – Greensfield Jn (West Curve)	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN676	PLG1	Park Lane Jn	Site of Former High Street Jn	Park Lane Jn – Site of Former High Street Jn	100	65	101	15	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	LN676	PLG2	Site of Former High Street Jn	Greensfield Jn	Site of Former High Street Jn – Greensfield Jn	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	Y	

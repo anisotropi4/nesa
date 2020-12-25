@@ -1,11 +1,21 @@
-London-North-Eastern	1110	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-London-North-Eastern	1110	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC1	St. Pancras platforms 1, 2, 3 and 4	Cricklewood	St. Pancras platforms 1, 2, 3 and 4 - Cricklewood	0	12	5	09	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester)	Change of ELR (Wigston South Jn) – Change of ELR (Leicester)	95	38	98	73	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC5	Change of ELR (Leicester)	Leicester	Change of ELR (Leicester) – Leicester	98	73	99	07	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1110	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	Y	Y	Y	EH R1 R2	N	Y	N	R1 Prohibited between Leicester and Loughborough R2 Prohibited with footsteps fitted
-London-North-Eastern	1110	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1110	LN852	LBE3	Site of former Laisterdyke West Jn	Site of former Hammerton Street Jn	Site of former Laisterdyke West Jn – Site of former Hammerton Street Jn	190	60	191	30	Y	Y	Y	N	N	N	Y	N	Y
+London-North-Eastern	1110	LN852	LBE4	Site of former Hammerton Street Jn	Mill Lane Jn	Site of former Hammerton Street Jn – Mill Lane Jn	191	30	191	75	Y	Y	Y	N	N	N	Y	N	Y
+London-North-Eastern	1110	LN852	MRB	Mill Lane Jn	Bradford Interchange	Mill Lane Jn – Bradford Interchange	40	01	40	27	Y	Y	Y	N	N	N	Y	N	Y
+London-North-Eastern	1110	LN854	MVN2	Route Boundary (NW7001) (Hall Royd Jn)	Turners Lane Jn	Route Boundary (NW7001) (Hall Royd Jn) – Turners Lane Jn	22	62	48	33	Y	Y	Y	N	N	N	Y	N	Y
+London-North-Eastern	1110	LN854	MVN2	Turners Lane Jn	Site of former Goose Hill Jn	Turners Lane Jn – Site of former Goose Hill Jn	48	33	50	31	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1110	LN854	TJC3	Site of former Goose Hill Jn	Altofts Jn	Site of former Goose Hill Jn – Altofts Jn	184	56	186	00	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1110	LN854	NOC	Altofts Jn	Sherburn Jn	Altofts Jn – Sherburn Jn	23	57	13	20	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1110	LN854	NOC	Sherburn Jn	Colton Jn	Sherburn Jn – Colton Jn	13	20	5	41	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1110	LN854	ECM4	Colton Jn	Holgate Jn	Colton Jn – Holgate Jn	182	79	188	07	Y	Y	Y	N	N	N	Y	Y	N
+London-North-Eastern	1110	LN854	ECM4	Holgate Jn	York	Holgate Jn – York	188	07	188	40	Y	Y	Y	N	N	N	Y	Y	N
+London-North-Eastern	1110	LN854	ECM5	York	Skelton Jn	York – Skelton Jn	0	00	1	50	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1110	LN858	MRB	Milner Royd Jn	Mill Lane Jn	Milner Royd Jn – Mill Lane Jn	29	20	40	01	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN859	GRD	Greetland Jn	Dryclough Jn	Greetland Jn – Dryclough Jn	1	11	0	00	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn)	Springwood Jn	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN860	MVL3	Springwood Jn	Change of ELR (Heaton Lodge Jn)	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge Jn (Up line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	Y	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1110	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge East Jn (Down line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down line)	29	00	29	74	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN860	MVN2	Heaton Lodge Jn	Heaton Lodge East Jn	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN860	MVN2	Heaton Lodge East Jn	Thornhill LNW Jn	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN860	MDL1	Thornhill LNW Jn	Copley Hill East Jn	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	Y	Y	N	N	N	N	N	Y
+London-North-Eastern	1110	LN861	BBW	Bradley Jn	Bradley Wood Jn	Bradley Jn – Bradley Wood Jn	0	00	1	17	Y	Y	Y	N	N	N	N	N	Y
