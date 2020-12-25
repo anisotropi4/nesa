@@ -31,8 +31,8 @@ GBLOCK = re.compile(r'^(?P<d1>[+-]?(\d+(\.\d*)?|\.\d+)) ((?P<d2>[+-]?(\d+(\.\d*)
 LINES = get_lines(DATA)
 
 START = False
-FSTAR = False
-POP = False
+#FSTAR = False
+#POP = False
 OUTPUT = LINES.copy()
 m = 0
 for n, v in enumerate(LINES):
@@ -51,18 +51,6 @@ for n, v in enumerate(LINES):
     if u and all([u[k] != '0' for k in ['d1', 'd2', 'd3']]):
         r = ' '.join(['1' for k in ['d1', 'd2', 'd3'] if u[k]])
         OUTPUT[n] = '{} {}'.format(r, u['f']).encode() + b'\n'
-    if 'q' in block.lower():
-        if POP:
-            OUTPUT[m:n] = [None] * (n - m)
-        m = n + 1
-        POP = False
-        FSTAR = False
-    if '1 1 0 rg' in block:
-        POP = True
-        FSTAR = False
-    if 'f*' in block:
-        POP = not FSTAR
-        FSTAR = True
 
 with open('stage/{}'.format(FILENAME), 'wb') as fout:
     for i in OUTPUT:
