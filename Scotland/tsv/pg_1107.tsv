@@ -1,19 +1,25 @@
-Scotland	1107	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	142	143	144	150	153	156	158	Notes
-Scotland	1107	SC059	AYR2	Change of ELR (Paisley Gilmour Street)	Change of ELR (Brown Street crossover)	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	Y	Y	Y	Y	Y	E	
-Scotland	1107	SC059	AYR3	Change of ELR (Brown Street crossover)	Change of ELR (Dalry)	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	Y	Y	Y	Y	Y	E R1	R1 60mph Lochwinnoch down platform
-Scotland	1107	SC059	AYR4	Change of ELR (Dalry)	Change of ELR (Barassie Jn)	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	Y	Y	Y	Y	Y	E R1 R2	R1 40mph Kilwinning up platform R2 Prohibited between Barassie and Change of ELR (Barassie Jn)
-Scotland	1107	SC059	AYR5	Change of ELR (Barassie Jn)	Change of ELR (Between Troon and Prestwick International Airport)	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	Y	Y	Y	Y	Y	N	
-Scotland	1107	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport)	Falkland Jn	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	Y	Y	Y	Y	Y	N	
-Scotland	1107	SC059	AYR6	Falkland Jn	Ayr	Falkland Jn – Ayr	38	73	40	49	Y	Y	Y	Y	Y	Y	N	
-Scotland	1107	SC059	STR1	Ayr	Dalrymple Jn	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC059	STR1	Dalrymple Jn	Change of ELR (Girvan)	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC059	STR2	Change of ELR (Girvan)	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	Change of ELR (Stranraer Yard GF)	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC059	STR4	Change of ELR (Stranraer Yard GF)	End of Line	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC061	CNL	Shields Jn	Corkerhill	Shields Jn – Corkerhill	1	05	3	11	N	N	N	Y	Y	Y	E	
-Scotland	1107	SC061	CNL	Corkerhill	Paisley Canal	Corkerhill – Paisley Canal	3	11	7	00	N	N	N	R1	R1	R1	N	R1 Prohibited when overhead line equipment is energised
-Scotland	1107	SC063	CND1	Cardonald Jn	Cardonald North Jn	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	
-Scotland	1107	SC063	CND2	Cardonald North Jn	Deanside (Goods Line)	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	N	
-Scotland	1107	SC065	GOU1	Paisley (Wallneuk Jn)	Change of ELR	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC065	GOU2	Change of ELR	Bishopton	Change of ELR – Bishopton	107	70	112	60	N	N	N	Y	Y	Y	N	
-Scotland	1107	SC065	GOU2	Bishopton	Gourock	Bishopton – Gourock	112	60	126	E	N	N	N	Y	Y	Y	N	
+Scotland	1107	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
+Scotland	1107	SC115	MRL1	Cowlairs West Jn	MaryhillParkJn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	
+Scotland	1107	SC115	MRL2	Maryhill Park Jn	KnightswoodNorthJn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	
+Scotland	1107	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	5	Y	
+Scotland	1107	SC116	CSN	Cowlairs East Jn	CowlairsNorthJn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	
+Scotland	1107	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	
+Scotland	1107	SC119	GHL	Greenhill Upper Jn	GreenhillLowerJn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	
+Scotland	1107	SC119	SCM3	Greenhill Lower Jn	CarmuirsWestJn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	
+Scotland	1107	SC119	SCM3	Carmuirs West Jn	StirlingMiddleJn	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	10	Y	
+Scotland	1107	SC119	SCM3	Stirling Middle Jn	ChangeofELR(Dunblane)	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	10	Y	
+Scotland	1107	SC119	SCM4	Change of ELR (Dunblane)	PerthSouthJn	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	10	Y	
+Scotland	1107	SC119	SCM5	Perth South Jn	ChangeofMileage	Perth South Jn – Change of Mileage	150	61	151	03	10	Y	
+Scotland	1107	SC119	SCM5	Change of Mileage	DundeeCentralJn	Change of Mileage – Dundee Central Jn	21	01	0	36	10	Y	
+Scotland	1107	SC119	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	8	Y	
+Scotland	1107	SC123	NBE	Bathgate	ChangeofELR	Bathgate – Change of ELR	25	18	25	00	10	Y	
+Scotland	1107	SC123	NEM1	Change of ELR	Drumgelloch	Change of ELR – Drumgelloch	25	00	11	70	10	Y	
+Scotland	1107	SC123	NEM1	Drumgelloch	ChangeofELR	Drumgelloch – Change of ELR	11	70	11	60	10	Y	
+Scotland	1107	SC123	NEM2	Change of ELR	HighStreetJn	Change of ELR – High Street Jn	11	60	0	28	10	R1 R2 R3 R4	R1 Prohibited between Blairhill and Sunnyside Jn on the Down line R2 Prohibited between Bellgrove and High Street Jn on the Down line R3 Prohibited between Bellgrove and High Street Jn on the Up line R4 Prohibited High Street platform 2 (Up line)
+Scotland	1107	SC123	NEM2	High Street Jn	ChangeofELR	High Street Jn – Change of ELR	0	28	0	00	5	R1	R1 Prohibited on the Down line
+Scotland	1107	SC123	NEM3	Change of ELR	FinniestonEastJn	Change of ELR – Finnieston East Jn	0	00	2	19	5	R1 R2	R1 Prohibited on the Down line R2 Prohibited between Queen Street and Charing Cross on the Up line
+Scotland	1107	SC123	NEM3	Finnieston East Jn	FinniestonWestJn(DownLine)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	7	Y	
+Scotland	1107	SC123	NEM3	Finnieston East Jn	FinniestonWestJn(UpLine)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	5	Y	
+Scotland	1107	SC123	NEM3	Finnieston West Jn	HyndlandNorthJn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	7	Y	
+Scotland	1107	SC123	NEM3	Hyndland North Jn	ChangeofELR	Hyndland North Jn – Change of ELR	4	28	4	63	10	Y	
+Scotland	1107	SC123	NEM4	Change of ELR	KnightswoodNorthJn	Change of ELR – Knightswood North Jn	0	00	0	74	10	Y	

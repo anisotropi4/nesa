@@ -1,21 +1,26 @@
-Scotland	1105	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	142	143	144	150	153	156	158	Notes
-Scotland	1105	SC013	SHR	Wishaw Central Jn	Shieldmuir Jn	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	N	N	N	Y	Y	Y	Y	
-Scotland	1105	SC015	MDN	Mossend East Jn	Mossend North Jn (North Curve)	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	N	N	N	Y	Y	Y	Y	
-Scotland	1105	SC017	MDE	Mossend East Jn	Mossend South Jn (East Curve)	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	N	N	N	Y	Y	Y	Y	
-Scotland	1105	SC019	MDW	Mossend South Jn	Mossend West Jn (West Curve)	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	N	N	N	Y	Y	Y	Y	
-Scotland	1105	SC021	COS2	Coltness	Change of ELR	Coltness – Change of ELR	0	09	0	00	N	N	N	N	N	N	N	
-Scotland	1105	SC021	COS1	Change of ELR	Garriongill Jn	Change of ELR – Garriongill Jn	14	15	15	29	N	N	N	N	N	N	N	
-Scotland	1105	SC023	HMN1	Motherwell	Change of ELR	Motherwell – Change of ELR	0	08	1	44	N	N	N	Y	Y	Y	Y	
-Scotland	1105	SC023	HMN2	Change of ELR	Newton, Hamilton Jn	Change of ELR – Newton, Hamilton Jn	6	61	0	00	N	N	N	Y	Y	Y	R1	R1 15mph Blantyre up platform
-Scotland	1105	SC024	LRK	Larkhall	Haughhead Jn	Larkhall – Haughhead Jn	3	00	0	00	N	N	N	N	N	N	N	
-Scotland	1105	SC025	ARG1	Rutherglen Central Jn	Bridgeton Yard North End	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	N	N	N	Y	Y	Y	E R1	R1 Prohibited between Rutherglen North Jn and Bridgeton Yard North End Jn
-Scotland	1105	SC025	ARG2	Bridgeton Yard North End	Exhibition Centre	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	N	N	N	Y	Y	Y	N	
-Scotland	1105	SC025	ARG2	Exhibition Centre	Finnieston East Jn (Down line)	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	N	N	N	Y	Y	Y	N	
-Scotland	1105	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	N	N	N	Y	Y	Y	N	
-Scotland	1105	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	N	N	N	Y	Y	Y	E	
-Scotland	1105	SC029	CLY	Larkfield Jn	Terminus Jn	Larkfield Jn – Terminus Jn	101	01	101	62	N	N	N	Y	Y	Y	E	
-Scotland	1105	SC029	BRD	Terminus Jn	Shields Jn via Through Terminus lines	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	N	N	N	Y	Y	Y	E	
-Scotland	1105	SC029	CLY	Terminus Jn	Shields Jn	Terminus Jn – Shields Jn	101	62	102	16	N	N	N	Y	Y	Y	E	
-Scotland	1105	SC031	GSW	Route Boundary (NW4031) (Gretna Jn)	Old Route boundary (109mch between Eastriggs and Annan)	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109mch between Eastriggs and Annan)	115	40	109	00	R1	R1	R1	Y	Y	Y	E	R1 Prohibited between Kilmarnock and Old Route boundary (109mch between Eastriggs and Annan)
-Scotland	1105	SC031	GSW	Old Route boundary (109mch between Eastriggs and Annan)	Change of ELR	Old Route boundary (109mch between Eastriggs and Annan) – Change of ELR	109	0	33	44	N	N	N	Y	Y	Y	E	
-Scotland	1105	SC031	GBK	Change of ELR	Muirhouse South Jn	Change of ELR – Muirhouse South Jn	23	44	1	18	N	N	N	Y	Y	Y	E	
+Scotland	1105	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	RA	Loco Gauge	Notes
+Scotland	1105	SC065	GOU2	Bishopton	Gourock	Bishopton – Gourock	112	60	126	58	5	R1 R2 R3	R1 Prohibited between Greenock West and Fort Matilda on the Down line R2 Prohibited between Fort Matilda and Gourock on the Up line R3 Prohibited Gourock platform 3 (Down line)
+Scotland	1105	SC067	WYS	Wemyss Bay Jn	Wemyss Bay	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	Y	
+Scotland	1105	SC073	LGS1	Kilwinning Jn	Change of ELR	Kilwinning Jn – Change of ELR	25	65	30	44	10	Y	
+Scotland	1105	SC073	LGS2	Change of ELR	Fairlie High Siding	Change of ELR – Fairlie High Siding	30	44	38	69	10	Y	
+Scotland	1105	SC073	LGS2	Fairlie High Siding	Largs	Fairlie High Siding – Largs	38	69	42	07	5	Y	
+Scotland	1105	SC077	ARH	Ardrossan South Beach	Adrossan Harbour	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	Y	
+Scotland	1105	SC079	HUN	Hunterston	Hunterston Low Level Sdgs (Goods Line)	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	Y	
+Scotland	1105	SC081	BYL	Byrehill Jn	Dubbs Jn	Byrehill Jn – Dubbs Jn	0	60	0	00	10	Y	
+Scotland	1105	SC085	AYH1	Ayr Harbour	Newton Jn (Goods Line)	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	10	Y	
+Scotland	1105	SC087	ANN	Newton Jn	Mauchline (Goods Line)	Newton Jn – Mauchline (Goods Line)	39	42	50	16	10	Y	
+Scotland	1105	SC089	KCH1	Annbank	Change of ELR	Annbank – Change of ELR	43	52	48	73	10	Y	
+Scotland	1105	SC089	KCH2	Change of ELR	Killoch Colliery (Goods line)	Change of ELR – Killoch Colliery (Goods line)	0	00	3	43	10	Y	
+Scotland	1105	SC091	WAT	Dalrymple Jn	Chalmerston (Goods line)	Dalrymple Jn – Chalmerston (Goods line)	43	53	52	70	8	Y	
+Scotland	1105	SC093	SCM1	Motherwell	Mossend South	Motherwell – Mossend South	89	51	91	08	10	Y	
+Scotland	1105	SC093	SCM2	Mossend South	Whifflet North Jn	Mossend South – Whifflet North Jn	91	08	94	05	10	Y	
+Scotland	1105	SC093	SCM3	Whifflet North Jn	Gartsherrie South Jn (Limit of OLE)	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	10	Y	
+Scotland	1105	SC093	SCM3	Gartsherrie South Jn (Limit of OLE)	Greenhill Lower Jn	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	10	Y	
+Scotland	1105	SC097	SYE	Whifflet South Jn	Sunnyside Jn (Goods Line)	Whifflet South Jn – Sunnyside Jn (Goods Line)	9	63	8	43	10	Y	
+Scotland	1105	SC099	RSL2	Whifflet North Jn	Change of ELR	Whifflet North Jn – Change of ELR	0	00	0	34	10	Y	
+Scotland	1105	SC099	RSL1	Change of ELR	Langloan Jn	Change of ELR – Langloan Jn	6	59	6	34	10	Y	
+Scotland	1105	SC099	RCB	Langloan Jn	Rutherglen East Jn	Langloan Jn – Rutherglen East Jn	6	34	0	04	10	Y	
+Scotland	1105	SC101	RCB	Coatbridge Jn	Langloan Jn	Coatbridge Jn – Langloan Jn	7	03	6	34	10	Y	
+Scotland	1105	SC103	CBD1	Garnqueen North Jn	Gartcosh Jn	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	10	Y	
+Scotland	1105	SC103	CBD2	Gartcosh Jn	Change of ELR	Gartcosh Jn – Change of ELR	97	09	103	41	10	Y	
+Scotland	1105	SC103	SGN	Change of ELR	Cowlairs West Jn	Change of ELR – Cowlairs West Jn	0	61	- 0	20	10	R1 R2	R1 Prohibited from Springburn Down Bay platform 3 R2 Prohibited between Springburn and Cowlairs West Jn on the Up line
