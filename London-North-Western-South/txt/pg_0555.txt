@@ -1,42 +1,51 @@
-                                                                   LNW South Route Sectional Appendix Module LNW(S) RC
+                                                                            OFFICIAL
 
-Table D5B – Locomotive Gauge Clearance table
-                                                                                                                                                                    Last Updated: 20/04/2019
-To be read in conjunction with General Notes.
-•   All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
-•   Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
-•   Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
-    below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
-    Compatibility prior to operation over Network Rail infrastructure.
-•   Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
-•   Gauge clearance for steam locomotives is considered under a separate process.
-The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
-Y       Route conforms to locomotive gauge without restriction.
-R       Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
-N       Route does not conform to locomotive gauge
-Line of ELR        Line of Route / Sector                   oooo oooo oooo oooo RA Loco Gauge Notes
-route              Description                               M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
 
-MD101     LEC1     London Euston – Camden Jn DC               0    00      1    36     8         R1        R1    Prohibited Euston station platform 11
-                   Lines                                                                         R2        R2    Prohibited Euston station platform 15
-                                                                                                 R3        R3    Prohibited between Camden Jn South and Camden Jn (DC Lines) on
-                                                                                                                 the Down Slow line
-MD101     LEC1     Camden Jn DC lines – Camden Jn             1    36      1    51     8          Y
-                   (NLL)
-MD101     LEC1     Camden Jn – West London Jn                 1    51      5    23     8          Y
-                   (Willesden)
-MD101     LLG      West London Jn (Willesden) –               0    12      2    03     8          Y
-                   Sudbury Jn (Willesden Relief lines)
-MD101     LEC1     West London Jn (Willesden) –               5    23      6    01     8          Y
-                   Harlesden Jn
-MD101     LEC1     Harlesden Jn – Watford South Jn            6    01     17    06     8          Y
-MD101     LEC1     Watford South Jn – Bletchley South Jn     17    06     46    41     8          Y
-MD101     LEC1     Bletchley South Jn – Bletchley            46    41     47    52     8          Y
-                   (Platforms 1 – 5) – Denbigh Hall South
-                   Jn
-MD101     LEC1     Denbigh Hall South Jn – Hanslope          47    52     56    66     8          Y
-                   North Jn
-MD101     LEC1     Hanslope North Jn – Hillmorton Jn         56    66     81    28     8          Y
-MD101     LEC1     Hillmorton Jn – Rugby Trent Valley Jn     81    28     83    18     8          Y
+                                                       LNW South Route Sectional Appendix Module LNW(S) RC
 
-December 2009                                                                                     49
+
+
+ Line of Line of Route / Sector                                                Gauge                                    Notes
+ route Description                          W6a   W7          W8          W9       W9Plus      W10       W10A    W12
+MD101    London Euston – West London        Y*    R1           R1         R1           N        R1           N    N    R1   Applies only to traffic operating over
+         Junction (Willesden)                                                                                               the Slow lines between Camden
+                                                                                                                            Junction (to / from the Primrose Hill
+                                                                                                                            lines [MD145]) and West London
+                                                                                                                            Junction (Willesden).
+MD101    West London Junction (Willesden)   Y*    Y            Y           Y           N         Y           N    N
+         – Rugby Trent Valley Junction
+MD101    Rugby Trent Valley Junction –      Y*    Y            Y           Y           N         Y           N    N
+         Armitage Junction (Exclusive)
+MD101    West London Junction (Willesden)    Y    Y            Y           Y           N         Y           N    N
+         – Sudbury Junction (Willesden
+         Relief Lines)
+MD101    Harlesden Junction – Sudbury       Y*    Y            Y           Y           N         Y           N    N
+         Junction (Brent Reception &
+         Departure Lines)
+MD105    Hanslope Junction – Rugby via      Y*    Y            Y           Y           N         Y           N    N
+         Northampton
+MD120    Camden Junction – Willesden        R1*   N            N           N           N         N           N    N    R1   Only L.U.L trains may operate
+         Suburban Junction (DC Lines)                                                                                       between Queens Park Jn and the
+                                                                                                                            NR/LUL boundary on the connecting
+                                                                                                                            lines to/from Queens Park LUL lines
+MD120    Willesden Suburban Junction –      Y*    N            N           N           N         N           N    N
+         Watford Junction (DC Lines)
+MD130    Watford Junction – St Albans       Y*    N            N           N           N         N           N    N
+         Abbey
+MD136    Harlesden Jn – Railnet Jn           Y    Y            Y           Y           N         Y           N    N
+MD136    Railnet Jn – Willesden Carriage     Y    N            N           N           N         N           N    N
+         Shed South
+MD136    Willesden Carriage Shed South –     Y    N            N           N           N         N           N    N
+         Connection with Yard line
+MD136    Willesden Carriage Shed South –     Y    N            N           N           N         N           N    N
+         Connection with Yard line
+MD136    Connection with Yard line –         Y    Y            Y           Y           N         Y           N    N
+         Wembley Central Jn
+MD137    Harlesden Jn – Railnet Jn           Y    Y            Y           Y           N         Y           N    N
+MD137    Railnet Jn – Wembley Yard South     Y    Y            Y           Y           N         Y           N    N
+         Jn
+
+
+
+
+December 2009                                                                    44
