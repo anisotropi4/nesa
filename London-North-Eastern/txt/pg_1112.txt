@@ -1,42 +1,46 @@
-                                                                     LNE Route Sectional Appendix Module LNRC
+                                                                                           OFFICIAL
+
+
+                                                                          LNE Route Sectional Appendix Module LNRC
 
 
 
-Line of ELR     Line of Route / Sector Description oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
-route                                               M    Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000
-                                                                                           (MOD)
-LN3228   TES    Trent East ELR Change – Sheet Stores        0   00      0    30   Y      Y     Y     EH         N   Y   N   R1   Prohibited with footsteps fitted
-                Jn.                                                                                  R1
-LN3231   WGP    Wigston South Jn – Glen Parva Jn           95   37     96    07   Y      Y     Y      N         N   N   N
-LN3232   WNS    Wigston North Jn – Route Boundary          15   31      2    62   Y      Y     Y      N         N   N   N
-                (MD232) (Nuneaton South Jn)
-LN3234   SEN    Syston East Jn – Syston North Jn            0   17      0    00   Y      Y     Y      N         N   N   N
-LN3237   RUD    Loughborough South Jn – Network Rail /     92   45     92    49   Y      Y     Y      N         N   N   N
-                GCR (N) Boundary
-LN3240   LED    Little Eaton Jn – Denby                   131   06    135   46    N      N     N      N         N   N   N   Line out of use
-                                                                                                                            NC/G1/2010/LNE/021
-LN3246   AJM1   Ambergate Jn – Matlock                    137   61    145    00   Y      Y     Y      N         N   N   N
-LN3249   LSN    Lenton South Jn – Lenton North Jn           0   00      0    27   Y      Y     Y      N         N   N   N
-LN3252   MJT1   Mansfield Jn – Radford Jn                 124   22    125    55   Y      Y     Y      N         N   N   N
-LN3252   MJT2   Radford Jn – Trowell South Jn             125   55    130    51   Y      Y     Y      N         N   N   N
-LN3255   RAC    Radford Jn – Newstead                     125   55    134    20   Y      Y     Y      N         N   N   N
-LN3255   RAC    Newstead – Kirkby Lane End Jn             134   20    136    66   Y      Y     N      N         N   N   N
-LN3261   THL    Trent South Jn – Toton South Jn (High     119   17    121    36   Y      Y     Y      N         N   N   N
-                Level Lines)
-LN3264   AML    Attenborough Jn – Meadow Lane Jn            0   62      0    00   Y      Y     Y      N         N   N   N
-                (Attenborough Curve)
-LN3273   TCC    Codnor Park Jn – Ironville Jn             132   76    133    18   Y      Y     Y      N         N   N   N
-LN3273   PBS1   Ironville Jn – Kirkby Summit Crossover    133   18    138    79   Y      Y     Y      N         N   N   N
-LN3273   PBS2   Kirkby Summit Crossover – Mansfield       137   11    140    40   Y      Y     Y      N         N   N   N
-                ELR Change
-LN3273   PBS3   Mansfield Change of ELR – Route           140   40    143    00   Y      Y     Y      N         N   N   N
-                Boundary (LN768) (Shireoaks East Jn)
-LN3340   BJW3   Route Boundary (MD340) (Lichfield Trent    19   00     23    33   Y      Y     Y      N         N   N   N
-                Valley) – Wichnor Jn
-LN3501   DBP1   London Road Jn – Route Boundary             0   00     23    30   Y      Y     Y     EH         N   Y   N
-                (MD501) (Kingsbury Jn)
-LN3505   NSS    North Stafford Jn – Route Boundary         30   10      1    40   Y      Y     Y      N         N   N   N
-                (NW5012) (Stoke Jn)
-LN3515   MJS1   Melbourne Jn – Sinfin                     131   15    130   37    Y      Y     Y      N         N   N   N
-
-October 2009                                                                            51
+LN880    YMS     York (platform 2 and maintenance         0    0     0      15    Y    Y      Y       N   N   N      N   N   Y
+                 sidings) – Connection to Up line
+LN882    WAG1 Wakefield Kirkgate West Jn –                47   43    48     28    Y    Y      Y       N   N   N      Y   N   Y
+              Calder Bridge Jn
+LN882    WAG1 Calder Bridge Jn – Crofton West             48   28    49     40    Y    Y      Y       N   N   N      Y   Y   Y
+              Jn
+LN882    WAG1 Crofton West Jn – Knottingley               49   40    58     20    Y    Y      Y       N   N   N      Y   N   Y
+              West Jn
+LN882    WAG1 Knottingley West Jn – Engine                58   20    73     52    Y    Y      Y       N   N   N      N   N   R1 R1   Prohibited between Kellingley Colliery
+              Shed Jn                                                                                                                Branch Jn and Engine Shed Jn
+LN882    WAG2 Engine Shed Jn – Goole Potters              0    64    0      00    Y    Y      Y       N   N   N      N   N   N
+              Grange Jn
+LN884    OAJ     Oakenshaw South Jn –                     49   41    48     76    N    N      N       N   N   Y      N   N   N
+                 Oakenshaw Jn.
+LN886    TJC3    Monk Bretton – Oakenshaw South          176   22   181     75    Y    Y      Y       N   N   N      N   N   N
+                 Jn
+LN886    OSC     Oakenshaw South Jn – Crofton            181   75   183     04    Y    Y      Y       N   N   N      N   N   N
+                 East Jn
+LN888    CJS     Stainforth Jn – Thorpe Marsh Jn         166   70   163     76    Y    Y      Y       N   N   N      N   N   N
+LN888    HTM     Thorpe Marsh Jn – Haywood Jn             69   56    67     66    Y    Y      Y       N   N   N      N   N   N
+LN888    KWS     Haywood Jn – Knottingley West Jn         67   66    58     20    Y    Y      Y       N   N   N      Y   Y   Y
+LN888    FKW     Knottingley West Jn – Ferrybridge        2    71    2      27    Y    Y      Y       N   N   N      Y   Y   Y
+                 North Jn
+LN889    KWS     Shaftholme Jn – Haywood Jn               68   75    67     66    Y    Y      Y       N   N   N      Y   Y   Y
+LN892    PEF     Pontefract East Jn – Ferrybridge         3    06    2      38    N    N      N       N   N   N      N   N   Y
+                 South Jn
+LN894    KES     Knottingley South Jn – Knottingley       0    00    0      20    Y    Y      Y       N   N   N      N   N   Y
+                 East Jn
+LN896    DRA1    Drax Branch Jn – Drax Power              0    00    4      16    N    N      N       N   N   N      N   N   N
+                 Station (NR Boundary)
+LN898    HUL4    Neville Hill East Jn – Micklefield Jn    18   25    10     63    Y    Y      Y       N   N   N      Y   Y   Y
+LN898    HUL4    Micklefield Jn – Micklefield             10   63    10     60    Y    Y      Y       N   N   N      Y   N   Y
+                 Change of ELR
+LN898    HUL3    Micklefield Change of ELR –              10   60    6      27    Y    Y      Y       N   N   N      Y   N   Y
+                 Gascoigne Wood Jn
+LN898    HUL3    Gascoigne Wood Jn – Selby West           6    27    0      36    Y    Y      Y       N   N   N      Y   N   Y
+                 Jn
+LN898     HUL3   Selby West Jn – Selby South Jn           0    36    0      00    Y    Y      Y       N   N   N      N   N   Y
+October 2009                                                                                  48H

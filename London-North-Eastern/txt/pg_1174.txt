@@ -1,42 +1,45 @@
-                                                                   LNE Route Sectional Appendix Module LNRC
+                                                                                    OFFICIAL
+
+
+                                                                    LNE Route Sectional Appendix Module LNRC
 
 
 
-Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo   RA     86      87     88         90     91     92     Notes
-route           Description                              M    Ch M Ch               0000    0000              0000   0000   0000
-LN826    SJM1   Site of Former Mexborough North Jn – 167      15   166   56    8      N      N       Y         N      N      N
-                Swinton Jn South
-LN828    WME    Mexborough Jn – Aldwarke Jn              10   17     7   26    8      N      N       Y         N      N      N
-LN830    WME    Aldwarke Jn – Woodburn Jn                 7   25     0   00    8      N      N       Y         N      N      N
-LN832    SJB    Doncaster, Bridge Jn – St. James Jn      22   54   22    38    8      N      N       Y         N      N      N
-LN836    DOL1   Doncaster Marshgate Jn – Hare Park      156   28   171   70    9     R1      R1      Y        R1     R1      N     R1   Prohibited from using the unwired main to
-                Jn                                                                                                                      main crossover at Wintersett
-LN836    DOL1   Hare Park Jn – Site of Former West      171   70   175   32    9      Y      Y       Y         Y      Y      N
-                Riding Jn
-LN836    DOL2   Site of Former West Riding Jn –         175   32   184   65    9      Y      Y       Y         Y      Y      N
-                Copley Hill West Jn
-LN836    DOL2   Copley Hill West Jn – Whitehall West    184   65   185   25    9      Y      Y       Y         Y      Y      N
+Line of ELR     Line of Route / Sector                   oooo oooo oooo oooo   RA     86        87    88        90     91     92     Notes
+route           Description                               M    Ch M Ch               0000      0000            0000   0000   0000
+LN652    POC2   Phillips Siding Jn – Seal Sands Branch     3   25    5    01    8      N        N     Y         N      N      N
                 Jn
-LN836    DOL2   Whitehall West Jn – Whitehall East Jn   185   25   185   28    9      Y      Y       Y         Y      Y      N
-LN836    DOL2   Whitehall East Jn – Leeds               185   28   185   70    8      Y      Y       Y         Y      Y      N
-LN836    HUL4   Leeds – Neville Hill East Jn             20   50   18    25    8      Y      Y       Y         Y      Y      N
-LN838    LEH1   Armley Jn – Site of Former Pannal Jn      0   12   14    60    8      H      H       Y         H      H      N
-LN838    LEH2   Site of Former Pannal Jn – Site of       14   60   15    20    8      H      H       Y         H      H      N
-                Former Crimple Jn
-LN838    LEH3   Site of Former Crimple Jn – Harrogate    15   20   17    24    8     H       H       Y        H      H       N     R1   Prohibited between Hornbeam Park and
-                                                                                     R1      R1               R1     R1                 Harrogate
-LN838    HAY2   Harrogate – Site of Former Starbeck      20   38   18    60    8      N      N      R1         N      N      N     R1   Prohibited Harrogate Bay platform 2
-                North Jn
-LN838    HAY1   Site of Former Starbeck North Jn –       18   60     1   50    8      N      N       Y         N      N      N
-                Skelton Jn
-LN840    TJC3   Leeds Engine Shed Jn – Whitehall        195   20   195   52    8      H      H       Y         H      H      N
-                East Jn
-LN842    CJS    Thorpe Marsh Jn – Applehurst Jn         163   76   163   27    8      N      N       Y         N      N      N
-LN842    CJS    Applehurst Jn – Skellow Jn              163   27   160   59    8      N      N       Y         N      N      N
-LN842    SKA    Skellow Jn – Adwick Jn                    0   61     0   00    8      N      N       Y         N      N      N
-LN844    JCA    Applehurst Jn – Joan Croft Jn             0   49     0   00    9      N      N       Y         N      N      N
-LN846    CJS    Carcroft Jn – Skellow Jn                160   08   160   59    9      N      N       Y         N      N      N
-LN848    HPC    Hare Park Jn – Crofton West Jn          171   70   173   22    8      H      H       Y         H      H      N
+LN652    SES    Seal Sands Branch Jn – End of NR           0   00    2    44    8      N        N     Y         N      N      N
+                maintenance
+LN656    SOT    Seaton Snook Jn – Seaton-on-Tees           0   00    1    51    8      N        N     Y         N      N      N
+LN662    HNB    Ryhope Grange – Hendon                     0   00    1    53    8      N        N     Y         N      N      N
+LN664    BNW    Boldon East Jn – Boldon North Jn           0   00    0    20    8      N        N     Y         N      N      N
+LN666    BGE    Boldon West Jn – Boldon North Jn           0   00    0    32    8      N        N     Y         N      N      N
+LN666    GLT    Boldon North Jn – Tyne Dock                0   32    1    26    8      N        N     Y         N      N      N
+LN670    JAW1   Pelaw Jn – Network Rail Boundary           0   09    3    36    8      N        N     Y         N      N      N
+                (Shell Mex Depot Jarrow)
+LN672    FEP    Wardley – Pelaw Jn                        19   70    20   75    8      N        N     Y         N      N      N
+LN674    HLK    High Level Bridge Jn – Greensfield Jn      0   00    0    21    8      Y        Y     Y         Y      Y      Y
+                (West Curve)
+LN676    PLG1   Park Lane Jn – Site of Former High       100   65   101   15    8      H        H     Y         H      H      N
+                Street Jn
+LN676    PLG2   Site of Former High Street Jn –            0   00    0    21    8      H        H     Y         H      H      N
+                Greensfield Jn
+LN676      HLK Greensfield Jn – King Edward Bridge         0   16    0    48    8      Y        Y     Y         Y      Y      Y
+               South Jn
+LN678    DAE1   Darlington North Jn – Site of Former      44   36    44   64    8      N        N     Y         N      N      N
+                Parkgate Jn
+LN678    DAE1   Site of Former Parkgate Jn – Shildon       0   00    8    29    8      N        N     Y         N      N      N
+                SB
+LN678    DAE2   Shildon SB – Bishop Auckland               8   29    11   23    8      N        N     Y         N      N      N
+LN682    NEC1   King Edward Bridge South Jn –              0   48    1    71    8      H        H     Y         H      H      H
+                Norwood Jn
+LN682    NEC1   Norwood Jn – Site of Former Blaydon        1   71    5    28    8      H        H     Y         H     H       H     R1   Prohibited Dunston Down platform with
+                East Jn                                                                                               R1                 deflated suspension
+LN682    NEC2   Site of Former Blaydon East Jn –           3   78    58   00    8     H        H      Y        H      H      H      R1   30mph Wylam Down platform
+                Route Boundary (NW9909) (Petteril                                     R2       R2              R2     R1     R2     R2   15mph through Whitchester Tunnel
+                Bridge Jn)                                                                                            R2
+LN684    NLF    Low Fell Jn – Limit of Electrification     0   00    1    26    8      Y        Y     R1        Y      Y      Y     R1   Prohibited Royal Mail Terminal platform
+LN684    NLF     Limit of Electrification – Norwood Jn     1   26    1    42    8      N        N     Y         N      N      N
 
-
-October 2009                                                                          73E
+October 2009                                                                           73

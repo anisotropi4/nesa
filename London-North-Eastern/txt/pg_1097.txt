@@ -1,44 +1,45 @@
-                                                                    LNE Route Sectional Appendix Module LNRC
+                                                                                 OFFICIAL
+
+
+                                                                 LNE Route Sectional Appendix Module LNRC
 
 
 
-LN600    ECM7 Newcastle – Newcastle East Jn           0   00    0     14    Y    Y    R1     N    N     N      R1   Y   R2 R1    Prohibited Newcastle platforms 5, 6, 7,
-                                                                                                                        R3       8, 9, 10, 11 and 12
-                                                                                                                           R2    Prohibited Newcastle platforms 7 and
-                                                                                                                                 8 from 3028-B Crossover
-                                                                                                                            R3   Prohibited Newcastle platform 4 with
-                                                                                                                                 deflated suspension
-LN600    ECM7 Newcastle East Jn – Heaton South        0   14    1     65    Y    Y     Y     N    N     N      Y    Y   Y
-              Jn
-LN600    ECM7 Heaton South Jn – Route                 1   65   69     67    Y    Y     Y     N    N     N      Y    Y   Y
-              Boundary (SC147) (Prestonpans
-              Jn)
-LN618    HOS    Holgate Jn – Skelton Jn via York      0   00    1     54    Y    Y     Y     N    N     N      Y    Y   Y
-                Yard South
-LN620    KEB    King Edward Bridge East Jn –          0   00    0     13    Y    Y     Y     N    N     N      Y    Y   Y
-                King Edward Bridge North Jn
-                (East Curve)
-LN622    NEN1   Newcastle Forth Jn – Forth Banks      0   11    0     73    Y    Y     Y     N    N     N      N    N   E R1     Prohibited between Newcastle Forth
-                                                                                                                        R1       Jn and Newcastle West Jn
-LN624    REB4   Northallerton Castle Hills Jn –       0   04    0     18    N    N     N     N    N     N      N    N   N
-                Network Rail Boundary
-                (Wensleydale Railway)
-LN626    LEN2   Northallerton High Jn –               0   00    0     36    Y    Y     Y     N    N     N      Y    Y   Y
-                Northallerton East Jn
-LN627    LLP1   Longlands Jn (Down line) –           28   58   29     72    Y    Y     Y     N    N     N      Y    Y   Y
-                Boroughbridge Road LC
-LN627    LLP3   Longlands Jn (Up line) –              0   69    0     00    Y    Y     Y     N    N     N      Y    Y   Y
-                Boroughbridge Road LC
-LN627    LLP2   Boroughbridge Road LC –              42   21   42     79    Y    Y     Y     N    N     N      Y    Y   Y
-                Northallerton East Jn
-LN627    LEN3   Northallerton East Jn – Billingham   42   79   63     69    Y    Y     Y     N    N     N      Y    Y   R1 R1    Prohibited between Norton-on-Tees
-                Jn                                                                                                               South Jn and Billingham Jn
-LN627    LEN3   Billingham Jn – Ryhope Grange Jn     63   69   87     63    Y    Y     Y     N    N     N      R1   Y   N   R1   Prohibited Hartlepool Bay and Up
-                                                                                                                                 (disused) platforms
-LN627    LEN3   Ryhope Grange Jn – Sunderland        87   63   89     56    Y    Y     Y     N    N     N      Y    Y   N
-                South Jn
-LN627    LEN3   Sunderland South Jn – Boldon         89   56   94     63   R1    R1    Y     N    N     N      Y    Y   N   R1   30mph maximum speed
-                East Jn
-LN627    LEN3   Boldon East Jn – Boldon West Jn      94   63   95     16   R1    R1    Y     N    N     N      Y    Y   N   R1   30mph maximum speed
-LN627    LEN3   Boldon West Jn – Pelaw Metro Jn      95   16   97     64   R1    R1    Y     N    N     N      Y    Y   N   R1   30mph maximum speed
-October 2009                                                                           46
+Line of ELR     Line of Route / Sector               oooo oooo oooo oooo 317 319 321 322 325 377 380 387 390 700 Notes
+route           Description                           M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+
+LN3525     KSL Knighton Jn – Leicester Jn              97   45   127   00   N     N        N   N    H       N   N   N   N    N
+LN3535     BCJ Birmingham Curve Jn – Branston Jn      126   40   127   19   N     N        N   N    H       N   N   N   N    N
+LN3601    GSM1 Kettering North Jn – Manton Jn          74   00    90   25   N     N        N   N    H       N   N   N   N    N
+LN3605    BSC Corby BSC Works – Corby North            2    05    0    00   N     N        N   N    N       N   N   N   N    N
+LN3610    BSC Corby Automotive Terminal – Corby        1    10    0    00   N     N        N   N    N       N   N   N   N    N
+              North
+LN3615    PMJ Route Boundary (LN147) – Uffington       13   60    12   75   N     N        N   N    H       N   N   N   N    N
+              SB
+LN3615    PMJ Uffington SB – Manton Jn                 12   75    0    00   N     N        N   N    H       N   N   N   N    N
+LN3615    GSM2 Manton Jn – Melton Jn                   90   25   105   70   N     N        N   N    H       N   N   N   EH   N   R1   45mph over bridge 23
+                                                                                                                        R1            Leicester Road on the
+                                                                                                                                      Down Line at 105m 65ch
+LN3615    GSM3 Melton Jn – Syston South Jn            113   36   103   77   N     N        N   N    H       N   N   N   EH   N   R1   25mph over bridge 15
+                                                                                                                        R1            Kirkby Road on the Up Line
+                                                                                                                        R2            at 111m 63ch
+                                                                                                                                 R2   55mph over bridge 19
+                                                                                                                                      Copley's Occupation on the
+                                                                                                                                      Up Line at 112m 56ch
+LN3620    GSM4 Melton Jn GF – Asfordby                105   70   107   20   N     N        N   N    N       N   N   N   EH   N
+LN3625    TSN1 Nottingham East Jn – Change of ELR     123   27   123   23   N     N        N   N    H       N   N   N   N    N
+               (Nottingham East Jn)
+LN3625    NOB1 Change of ELR (Nottingham East Jn)      0    00    16   02   N     N        N   N    H       N   N   N   N    N
+               – Route Boundary (LN206) (Coulson)
+LN3635    NOG1 Route Boundary (LN195)                 111   60   123   76   N     N        N   N    H       N   N   N   N    N
+               (Nottingham Branch Jn) – Rectory Jn
+               SB
+LN3635    NOG1 Rectory Jn SB – Change of ELR          123   76   125   25   N     N        N   N    H       N   N   N   N    N
+               (Netherfield)
+LN3635    NOG2 Change of ELR (Netherfield) –           2    54    2    35   N     N        N   N    H       N   N   N   N    N
+               Netherfield Jn
+
+
+
+
+October 2009                                                                          41

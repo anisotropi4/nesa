@@ -1,42 +1,46 @@
+                                                                                     OFFICIAL
+
+
                                                                      LNE Route Sectional Appendix Module LNRC
 
 
 
-Line of ELR     Line of Route / Sector Description             oooo oooo oooo oooo 170 172 180 185 195 220 221 222 Notes
-route                                                           M    Ch   M    Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-LN702    BWC    Bedlington North – Network Rail Boundary         0     00     4    14    N    N    N    N   N   N    N    N
-                (Lynemouth Colliery)
-LN704    ISC    Newsham North Jn – Network Rail Boundary         0     00     0    36    N    N    N    N   N   N    N    N   Line out of use
-                (Blyth Bates Terminal)                                                                                        NME/2010/LNE/006 and NME/2010/LNE009
-LN706    WSB    West Sleekburn Jn – North Blyth                  0     00     3    22    N    N    N    N   N   N    N    N
-LN708    MWJ    Winning Jn – Marchey's House Jn                  0     31     0    00    N    N    N    N   N   N    N    N
-LN736    MAC3 Cleethorpes – Grimsby Docks                      112     40   110    11    Y    N    N    Y   Y   N    N    N
-LN736    MAC3 Grimsby Docks – Marsh West Jn                    110     11   107    69    Y    N    N    Y   Y   N    N    N
-LN736    MAC3 Marsh West Jn – Wrawby Jn                        107     69    94    12    Y    N    N    Y   Y   N    N    N
-LN736    MAC3 Wrawby Jn – West Burton East Jn                   94     12    72    18    N    N    N   R1   Y   N    N    N   R1   15mph Gainsborough Central Up platform 1
-LN736    MAC3 West Burton East Jn – Thrumpton West Jn           72     18    63    28    N    N    N    Y   Y   N    N    N
-              (Up)
-LN736    MAC3 Thrumpton West Jn (Up) – Manton Wood              63     28    58    54    N    N    N    Y   Y   N    N    N
-LN736    MAC3 Manton Wood – Brancliffe East Jn                  58     54    53    57   R1    N    N    Y   Y   N    N    N   R1   Prohibited between Manton Wood and
-                                                                                        R2                                         Worksop East
-                                                                                                                              R2   Prohibited between Shireoaks East Jn and
-                                                                                                                                   Brancliffe East Jn
-LN736    MAC3 Brancliffe East Jn – Woodburn Jn                  53     57    42    29   R1    N    N    Y   Y   R1   R1   R1 R1    Prohibited between Brancliffe East Jn and
-                                                                                                                                   Woodhouse Jn
-LN736    NUJ2   Woodburn Jn – Site of former Nunnery Jn         42     29    41    68    Y    N    N   R1   Y   Y    Y    Y   R1   5mph Darnall Down platform
-LN736    NUJ1   Site of former Nunnery Jn – Nunnery Main       159     33   158    77    Y    N    N    Y   Y   Y    Y    Y
-                Line Jn
-LN738    MWN    Great Coates No. 1 – Network Rail Boundary     108     34   108    44    N    N    N    N   N   N    N    N
-                (ABP)
-LN740    MWN    Marsh West Jn – Network Rail Boundary          107     69   108    44    N    N    N    N   N   N    N    N
-                (ABP)
-LN740    PYE2   Network Rail Boundary (ABP) – Site of former     4     33     0    00    N    N    N    N   N   N    N    N
-                Queens Road Jn
-LN740    PYE1   Site of former Queens Road Jn – Immingham      106     50   106    31    N    N    N    N   N   N    N    N
-                East Jn
-LN740    BRI2   Immingham East Jn – Humber Road Jn             106     31   104    05    N    N    N    N   N   N    N    N
-LN741    HAU    Habrough – Ulceby South Jn                       0     32     1    45    Y    N    N    Y   N   N    N    N
-LN742    KIL2   Killingholme – Immingham West Change of          2     70     0    00    N    N    N    N   N   N    N    N
-                Mileage
+Line of ELR      Line of Route / Sector                   oooo oooo oooo oooo 170 172 180 185 195 220 221 222 Notes
+route            Description                               M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+LN190    ACD     Allington East Jn – Allington North Jn     0   00    0    25   N    N    Y     N    N    N     N   Y
+                 (Allington Chord)
+LN195    NOG1 Nottingham Branch Jn – Route                106   08   111   60   Y    N    R1    N    N    N     N   R2 R1    Prohibited between Allington West Jn and Route
+              Boundary (LN3635) (Rectory Jn SB)                                                                              Boundary (LN3635) (Rectory Jn SB)
+                                                                                                                        R2   Between Allington West Jn and Route Boundary
+                                                                                                                             (LN3635) (Rectory Jn SB), when accelerating from a
+                                                                                                                             stand at any red signal a maximum of 50% power shall
+                                                                                                                             be applied until the next proceed aspect is observed
+LN200    NOB3    Wrawby Jn – Pelham Street Jn              12   55    41   26   Y    N    N     N    N    N     N   N
+LN206    NOB1    Route Boundary (LN3625) (Nottingham       16   02    32   00   Y    N    R1    N    N    N     N   Y   R1   Prohibited between Route Boundary (LN3625)
+                 East Jn) – Coulson Change of ELR                                                                            (Nottingham East Jn) and Newark Crossing East Jn
+LN206    NOB2    Coulson Change of ELR – Boultham          32   00    32   40   Y    N    Y     N    N    N     N   Y
+                 Jn
+LN206    NOB2    Boultham Jn – West Holmes Jn              32   40    32   70   Y    N    Y     N    N    N     N   Y
+LN210    NSE     Newark Crossing South Jn – Newark          0   00    0    21   Y    N    Y     N    N    N     N   Y
+                 Crossing East Jn
+LN215    BHP     Boultham Jn – Pyewipe Jn                   0   00    0    65   Y    N    Y     N    N    N     N   N
+LN220    BCB     Bessacarr Jn – Black Carr Jn             115   72   116   44   Y    N    Y     Y    N    N     N   N
+LN235    FWR1 Rossington Colliery Jn – End of Line        152   12   151   69   N    N    N     N    N    N     N   N
+LN235    FWR2 Rossington Colliery – End of Line           153   31   151   69   N    N    N     N    N    N     N   N
+LN600    ECM2 Shaftholme Jn – Temple Hirst Jn             160   16   169   16   Y    N    Y     Y    Y    Y     Y   Y
+LN600    ECM3 Temple Hirst Jn – Colton Jn                 169   16   182   79   Y    N    Y     Y    Y    Y     Y   Y
+LN600    ECM4 Colton Jn – Colton North Jn                 182   79   183   65   Y    N    Y     Y    Y    Y     Y   Y
+LN600    ECM4 Colton North Jn – York Station              183   65   188   40   R1   N    Y     Y    Y    Y     Y   Y   R1   Prohibited York platforms 1
 
-October 2009                                                                            25D
+LN600    ECM5 York Station – Birtley Jn                     0   00    75   26   N    N    Y     Y    Y    Y     Y   Y
+LN600    ECM5 Birtley Jn – Low Fell Jn (including via      75   26    77   37   N    N    Y     Y    Y    Y     Y   Y
+              Tyne Yard)
+LN600    ECM5 Low Fell Jn – King Edward Bridge             77   37    79   42   N    N    Y     Y    Y    Y     Y   Y
+              South Jn
+LN600    ECM5 King Edward Bridge South Jn –                79   42    80   05   N    N    Y     Y    N    Y     Y   Y
+              Newcastle West Jn
+
+
+
+
+October 2009                                                                             25

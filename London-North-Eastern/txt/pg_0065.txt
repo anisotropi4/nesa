@@ -1,28 +1,72 @@
+                                                        OFFICIAL
+
+
 London North Eastern Route Sectional Appendix Module LN1
 
 
 
 
-HAULING DEAD TRACTION UNITS
-When more than two locomotives (including hauling and dead locomotives) are to be coupled together, it will not be
-necessary to obtain the authority of the Track Engineer, provided any conditions in the Route Availability for Diesel and
-Electric Locomotives are complied with.
-                                                                  London North Eastern Route GI - Dated: 07/12/13
+TW5 SECTION 24 – KNOWN MISROUTED CALL LOCATIONS
+
+The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls
+may misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
+
+Drivers are instructed to use the phone book to contact the signaller from these locations.
+
+
+         Location                 Fault Number             Comments            Outcome
+
+         Wakefield Westgate       FMS YOR -540359          Misrouted calls     Fixed – data fill changed
+
+TW5 SECTION 24 – KNOWN NON-TD REGISTRATION LOCATIONS
+
+The locations in the table below are known areas where the lack of Train Describers results in registration problems.
+There will also be a likelihood of misrouted calls to the signaller if the ‘contact signaller’ button is pressed.
+
+Drivers are instructed to register using the wildcard and not follow GSM-R bulletin 21 until the alias plates are added
+to the signals. The Driver is also instructed to use the phone book to contact the signaller from these locations.
+
+         Location                            Fault Number           Comments                      Outcome
+
+         Bradford Interchange                NA                     No Alias plate in place       TBC
+
+
+LIMITED COVERAGE ON FREIGHT ONLY BRANCH LINES
+
+The freight-only branch lines listed in the table below are sections of permanent poor GSM-R coverage. These
+areas of poor coverage are in tunnels and deep cuttings resulting in GSM-R calls may be unreliable, as with
+previous NRN coverage. If a train is in a poor coverage area at the time the emergency call is initiated, the train
+radio will receive the emergency call as soon as there is sufficient GSM-R coverage.
+
+SECTION                      SA        ELR        Start    Start       End       End          GSM-R Predicted Poor
+                                                  Miles    Chains      Miles     Chains       Coverage Details
+
+Pelaw Junction to Jarrow                                                                      Poor coverage: JAW1
+                             LN670     JAW1       0        9           3         36
+(NR Boundary)                                                                                 3m0ch - 3m36ch
+
+Saltburn West to Boulby                                                                       Poor coverage: SSK1
+                             LN642     SSK1       27       5           34        29
+Mine (NR Boundary)                                                                            29m25ch - 30m05ch
+
+Embsay Junction                                                                               Poor coverage through
+(former) to Skipton          LN930     SKS1       220      64          221       68           Haw Bank Tunnel: SKS1
+Middle Junction                                                                               220m77ch - 221m07ch
 
 
 
-INFRASTRUCTURE MONITORING TRAINS
-Network Rail own a fleet of specially adapted Infrastructure Monitoring vehicles which operate frequently on
-most routes on all Network Rail routes, these vehicles are painted yellow and carry Network Rail logos. Trains
-with these vehicles in them generally operate with a ‘Q’ headcode so as to denote that they are line specific.
+GSM-R FAULTS AND FAILURES RESPONSE
 
-During movements, these vehicles can emit a powerful underframe light source which could be mistakenly
-identified as a binding brake or sparks being emitted from the bogies, and as such, does not require to be
-reported to the controlling Signaller. However, if in any doubt, then normal operating procedures should be
-applied.
-                                                            London North Eastern Route GI - Dated: 11/04/15
+VERSION 1.1
 
+PURPOSE
 
+To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+
+Appendix covers the response to system faults from a single fixed terminal through to failures of the infrastructure
+resulting in loss of coverage in a geographical area.
 
 
-December 2006                                                29
+
+
+December 2006                                             28ZG

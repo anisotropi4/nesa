@@ -1,43 +1,45 @@
-                                                                     LNE Route Sectional Appendix Module LNRC
-
-Line of ELR     Line of Route / Sector                   oo    oo   oo    oo   313 314 315 317 318 319 321 322                325
-route           Description                              oo    oo   oo    oo   ooo ooo ooo ooo ooo ooo ooo ooo                ooo
-                                                         M     Ch   M     Ch
-LN666    GLT    Boldon North Jn – Tyne Dock                0   32     1   26    N     N         N    N    N     N   N    N
-LN670    JAW1   Pelaw Jn – Network Rail Boundary           0   09     3   36    N     N         N    N    N     N   N    N
-                (Shell Mex Depot Jarrow)
-LN672    FEP    Wardley – Pelaw Jn                       19    70   20    75    N     N         N    N    N     N   N    N
-LN674    HLK    High Level Bridge Jn – Greensfield Jn      0   00     0   21    Y     Y         Y    Y    Y     N   Y    Y
-                (West Curve)
-LN676    PLG1   Park Lane Jn – Site of former High       100   65   101   15   EH    EH         EH   EH   EH    N   EH   EH
-                Street Jn
-LN676    PLG2   Site of former High Street Jn –            0   00     0   21   EH    EH         EH   EH   EH    N   EH   EH
-                Greensfield Jn
-LN676    HLK    Greensfield Jn – King Edward Bridge        0   16     0   48    Y     Y         Y    Y    Y     N   Y    Y
-                South Jn
-LN678    DAE1   Darlington North Jn – Site of former     44    36   44    64    N     N         N    N    N     N   N    N
-                Parkgate Jn
-LN678    DAE1   Site of former Parkgate Jn – Shildon       0   00     8   29    N     N         N    N    N     N   N    N
-                SB
-LN678    DAE2   Shildon SB – Bishop Auckland               8   29   11    23    N     N         N    N    N     N   N    N
-LN682    NEC1   King Edward Bridge South Jn –              0   48     1   71    N     N         N    N    N     N   N    N
-                Norwood Jn
-LN682    NEC1   Norwood Jn – Site of former Blaydon        1   71     5   28    N     N         N    N    N     N   N    N
-                East Jn
-LN682    NEC2   Site of former Blaydon East Jn – Route     3   78   58    00    N     N         N    N    N     N   N    N
-                Boundary (NW9909) (Petteril Bridge
-                Jn)
-LN684    NLF    Low Fell Jn – Limit of Electrification     0   00     1   26    N     N         N    N    N     N   N    N
-LN684    NLF     Limit of Electrification – Norwood Jn     1   26     1   42    N     N         N    N    N     N   N    N
-LN694    BNE    Benton North Jn – Site of former           0   00     2   53    N     N         N    N    N     N   N    N
-                Earsdon Jn
-LN694    EJM    Site of former Earsdon Jn – Morpeth        7   08   20    47    N     N         N    N    N     N   N    N
-                North Jn
-LN696    HJM    Hepscott Jn – Morpeth Jn                 19    44   20    47    N     N         N    N    N     N   N    N
-LN700    BWO2 Butterwell Jn – Signal B1                    0   00     0   48    N     N         N    N    N     N   N    N
-LN702    BWC    Bedlington North – Network Rail            0   00     4   14    N     N         N    N    N     N   N    N
-                Boundary (Lynemouth Colliery)
+                                                                                   OFFICIAL
 
 
+                                                                   LNE Route Sectional Appendix Module LNRC
 
-October 2009                                                                              35A
+Line of ELR     Line of Route / Sector                  oo    oo   oo    oo   313 314 315 317 318 319 321 322                                           325
+route           Description                             oo    oo   oo    oo   ooo ooo ooo ooo ooo ooo ooo ooo                                           ooo
+                                                        M     Ch   M     Ch
+LN110    CFP    Route Boundary (EA1320) (Canonbury       3    20    4    33   Y        N        Y    Y        N        E   Y        Y
+                West Jn) - Finsbury Park Jn
+LN115    CRF1   Copenhagen Jn – Route Boundary           0    00    0    20   N        N        N    N        N        E   Y        Y
+                (EA1320) (North London Incline)
+LN120    HDB    Wood Green Jn – Langley Jn via           5    07    28   15   R1       R1       R1   R1       R1       N   R1       R1 R1   No more than 18 electric trains per
+                Hertford                                                                                                                    line may operate over the Hertford
+                                                                                                                                            Loop in any one hour period
+LN120    HDB    Langley Jn via Hertford – Stevenage      28   15    29   00   N        N        N    N        N        N   N        N
+                platform 5 (End of line)
+LN125    SBR    Cambridge Jn – Route Boundary            32   11    45   60   R1       R1       R1   R1       R1       N   R1       R1 R1   See Sectional Appendix Local
+                (EA1230)                                                                                                                    Instructions
+LN126    DCF    Hitchin North Jn – Hitchin East Jn       32   53    34   05   Y        N        N    Y        N        N   Y        N
+LN135    EMP    Route Boundary (EA1560) (Ely West        98   40   100   66   N    N        N    N   N    N        N   N        N       N
+                Jn) – Crescent Jn
+LN147    PMJ    Helpston Jn – Route Boundary             16   71    13   60   N    N        N    N   N    N        N   N        N       N
+                (LN3615)
+LN150    SPD5   Flyover East – Decoy North Jn           116   20   117   46   Y    Y        Y    Y   Y    N        Y   Y        N       N
+LN155    LCJ    Flyover East Jn – Loversall Jn (Up      152   79   152   36   Y    Y        Y    Y   Y    N        Y   Y        N       N
+                Loversall Curve)
+LN160    LCR    Loversall Carr Jn – Rossington Colliery 152   00   152   12   Y    Y        Y    Y   Y    N        Y   Y        N       N
+                Jn
+LN160    FWR1 Rossington Colliery Jn – Flyover West     152   12   153   19   Y    Y        Y    Y   Y    N        Y   Y        N       N
+              Jn
+LN165    HPW    Route Boundary (EA1370) (Harringay       0    14    0    03   N    N        N    N   N    N        N   N        N       N
+                Park Jn) – Harringay Jn
+LN170    WEB    Werrington Jn – Site of former           79   34    92   58   N    N        N    N   N    N        N   N        N       N
+                Spalding South Jn
+LN170    SPD1   Site of former Spalding South Jn –       44   07    62   14   N    N        N    N   N    N        N   N        N       N
+                Sleaford South Jn
+LN170    SPD2   Sleaford South Jn – Sleaford North Jn    62   14    63   48   N    N        N    N   N    N        N   N        N       N
+LN170    SPD2   Sleaford North Jn – Site of former       63   48    81   25   N    N        N    N   N    N        N   N        N       N
+                Greetwell West Jn
+LN170    SPD3   Site of former Greetwell West Jn –       81   25    98   56   N    N        N    N   N    N        N   N        N       N
+                Trent East Jn
+LN170    MAC3 Trent East Jn – Trent West Jn              73   25    73   11   N    N        N    N   N    N        N   N        N       N
+LN170    SPD4   Trent West Jn – Bessacarr Jn             98   68   115   72   N    N        N    N   N    N        N   N        N       N
+October 2009                                                                            33 A

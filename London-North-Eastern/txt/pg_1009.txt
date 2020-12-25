@@ -1,45 +1,50 @@
-                                                                       LNE Route Sectional Appendix Module LNRC
+                                                                                    OFFICIAL
+
+
+                                                                   LNE Route Sectional Appendix Module LNRC
 
 
 
-Line of ELR     Line of Route / Sector Description               oooo oooo oooo oooo 142 143 144 150 153 155 156 158 159 Notes
-route                                                             M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooo
-                                                                                                                         o
-LN842    CJS    Thorpe Marsh Jn – Applehurst Jn                  163    76   163   27    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN842    CJS    Applehurst Jn – Skellow Jn                       163    27   160   59    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN842    SKA    Skellow Jn – Adwick Jn                             0    61     0   00    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN844    JCA    Applehurst Jn – Joan Croft Jn                      0    49     0   00    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN846    CJS    Carcroft Jn – Skellow Jn                         160    08   160   59    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN848    HPC    Hare Park Jn – Crofton West Jn                   171    70   173   22    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN850    WWK    Wakefield Westgate South Jn – Wakefield            0    00     0   26    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Kirkgate West Jn
-LN852    LBE1   Holbeck Jn – Site of Former Laisterdyke East       0    02     6   49    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Jn
-LN852    LBE2   Site of Former Laisterdyke East Jn – Site of     190    24   190   60    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Former Laisterdyke West Jn
-LN852    LBE3   Site of Former Laisterdyke West Jn – Site of     190    60   191   30    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Former Hammerton Street Jn
-LN852    LBE4   Site of Former Hammerton Street Jn – Mill        191    30   191   75    Y     Y    Y     Y       Y   Y   Y   Y   Y
+Line of ELR     Line of Route / Sector Description           oooo oooo oooo oooo 142 143 144 150 153 155 156 158 159 Notes
+route                                                         M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooo
+                                                                                                                     o
+LN736    MAC3 West Burton East Jn – Thrumpton West Jn         72    18    63   28     Y        Y    Y    Y    Y    Y    Y    Y    N
+              (Up)
+LN736    MAC3 Thrumpton West Jn (Up) – Manton Wood            63    28    58   54     Y        Y    Y    Y    Y    Y    Y    Y    N
+LN736    MAC3 Manton Wood – Brancliffe East Jn                58    54    53   57     Y        Y    Y    Y    Y    Y    Y    Y    N
+LN736    MAC3 Brancliffe East Jn – Woodburn Jn                53    57    42   29     Y        Y    Y    Y    Y    Y    Y    Y    N
+LN736    NUJ2 Woodburn Jn – Site of Former Nunnery Jn         42    29    41   68     Y        Y    Y    Y    Y    Y    Y    Y    N
+LN736    NUJ1 Site of Former Nunnery Jn – Nunnery Main       159    33   158   77     Y        Y    Y    Y    Y    Y    Y    Y    N
+              Line Jn
+LN738    MWN Great Coates No. 1 – Network Rail Boundary      108    34   108   44     N        N    N    N    N    N    N    N    N
+              (ABP)
+LN740    MWN Marsh West Jn – Network Rail Boundary (ABP)     107    69   108   44     N        N    N    N    N    N    N    N    N
+LN740    PYE2 Network Rail Boundary (ABP) – Site of Former     4    33     0   00     N        N    N    N    N    N    N    N    N
+              Queens Road Jn
+LN740    PYE1 Site of Former Queens Road Jn – Immingham      106    50   106   31     N        N    N    N    N    N    N    N    N
+              East Jn
+LN740    BRI2 Immingham East Jn – Humber Road Jn             106    31   104   05     N        N    N    N    N    N    N    N    N
+LN741    HAU  Habrough – Ulceby South Jn                       0    32     1   45     Y        Y    Y    Y    Y    N    Y    Y    N
+LN742    KIL2 Killingholme – Immingham West Change of          2    70     0   00     N        N    N    N    N    N    R1   R1   N   R1   See Sectional Appendix Local
+              Mileage                                                                                                                      Instructions
+LN742    KIL1 Immingham West Change of Mileage – Humber      105    10   104   05     N        N    N    N    N    N    Y    Y    N
+              Rd Jn
+LN742    BRI2 Humber Rd Jn – Ulceby North Jn                 104    05   100   44    N         N    N    N    N    N    Y    Y    N
+LN742    BRI1 Ulceby North Jn – Brocklesby West Jn           100    44    99   20    R1        R1   R1   R1   R1   N    Y    Y    N   R1   Prohibited between Ulceby South
+                                                                                                                                           Jn and Brocklesby West Jn
+LN744    BAR    Ulceby North Jn – Barton on Humber           100    44   110   18     Y        Y    Y    Y    Y    N    Y    Y    N
+LN746    TYB1   Cottam Power Station – Clarborough Jn         71    79    68   32     N        N    N    N    N    N    N    N    N
+LN748    WHR    Retford Western Jn – Thrumpton West Jn        64    29    63   28     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN750    MAC3   Woodburn Jn – Deepcar                         42    29    33   35     N        N    N    N    N    N    N    N    N
+LN752    DOW    Wrawby Jn – Marshgate Jn                      33    34     0   03     Y        Y    Y    Y    Y    R1   Y    Y    N   R1   Prohibited between Wrawby Jn
+                                                                                                                                           and Thorne Jn
+LN754    SAN    Scunthorpe Foreign Ore Branch                  0    00     1   16     N        N    N    N    N    N    N    N    N
+LN756    NOP1   Scunthorpe Trent Jn – Site of Former Dawes     0    00     0   28     N        N    N    N    N    N    N    N    N
                 Lane Jn
-LN852    MRB    Mill Lane Jn – Bradford Interchange               40    01    40   27    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    MVN2   Route Boundary (NW7001) (Hall Royd Jn) –          22    62    48   33    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Turners Lane Jn
-LN854    MVN2   Turners Lane Jn – Site of Former Goose Hill Jn    48    33    50   31    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    TJC3   Site of Former Goose Hill Jn – Altofts Jn        184    56   186   00    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    NOC    Altofts Jn – Sherburn Jn                          23    57    13   20    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    NOC    Sherburn Jn – Colton Jn                           13    20     5   41    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    ECM4   Colton Jn – Holgate Jn                           182    79   188   07    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    ECM4   Holgate Jn – York                                188    07   188   40    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN854    ECM5   York – Skelton Jn                                  0    00     1   50    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN858    MRB    Milner Royd Jn – Mill Lane Jn                     29    20    40   01    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN859    GRD    Greetland Jn – Dryclough Jn                        1    11     0   00    Y     Y    Y     Y       Y   Y   Y   Y   Y
-LN860    MVL3   Route Boundary (NW7021) (Stalybridge Tunnel       15    11    25   20    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Jn) – Springwood Jn
-LN860    MVL3   Springwood Jn – Change of ELR (Heaton             25    20    29   00    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Lodge Jn)
-LN860    MVL3   Change of ELR (Heaton Lodge Jn) – Heaton          29    00    29   45    Y     Y    Y     Y       Y   Y   Y   Y   Y
-                Lodge Jn (Up line)
+LN756    NOP2   Site of Former Dawes Lane Jn – NR Boundary     0    25     3   60     N        N    N    N    N    N    N    N    N
+                (Roxby)
 
 
 
-October 2009                                                                              16
+
+October 2009                                                                              12

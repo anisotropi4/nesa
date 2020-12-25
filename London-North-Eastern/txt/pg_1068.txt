@@ -1,42 +1,43 @@
-                                                                     LNE Route Sectional Appendix Module LNRC
+                                                                                       OFFICIAL
 
 
-Line of ELR Line of Route / Sector Description            M     Ch      M    Ch    325    333 345 357 357 365 377 378 Notes
-route                                                                                                 MOD             ooooooooooooooooooooooooooo
-LN806 CHR Route Boundary (LN3201) (Tapton Jn) –           146   64     162    24    H      N    N    N    N     N    N   N
-          Masborough Jn
-LN807 MAS Dore South Jn – Dore West Jn                    153   73     154    16    H      N    N    N    N     N    N   N
-LN808 DWS Dore Station Jn – Dore West Jn                    0   60       0    00    H      N    N    N    N     N    N   N
-LN808 MAS Dore West Jn – Route Boundary (NW9001)          154   16     154    20    H      N    N    N    N     N    N   N
-          (Chinley North Jn)
-LN809 BTJ      Shepcote Lane West Jn – Tinsley Yard East 161    24     160    52    H      N    N    N    N     N    N   N
-               End
-LN810 SEL      Shepcote Lane West Jn – Tinsley South Jn   161   24     161    63    H      N    N    N    N     N    N   N
-LN812 BLJ      Shepcote Lane East Jn – Broughton Lane     161   20     161    67    H      N    N    N    N     N    N   N
-               Jn
-LN816 BEW Beighton Jn – Woodhouse Jn                      48    06      46    56    H      N    N    N    N     N    N   N
-LN818 HCD Holmes Jn – Rotherham Central Jn                  0   00       0    62    H      N    N    N    N     N    N   N
-LN824 SKM Moorthorpe Jn – South Kirkby Jn                   0   57       0    05    H      N    N    N    N     N    N   N
-LN826 PED5 South Yorkshire Jn – Mexborough Jn             22    57      15    64    H      N    N    N    N     N    N   N
-LN826 SJM2 Mexborough Jn – Site of former                 15    64      14    78    H      N    N    N    N     N    N   N
-           Mexborough North Jn
-LN826 SJM1 Site of former Mexborough North Jn –           167   15     166    56    H      N    N    N    N     N    N   N
-           Swinton Jn South
-LN828 WME Mexborough Jn – Aldwarke Jn                     10    17       7    26    H      N    N    N    N     N    N   N
-LN830 WME Aldwarke Jn – Woodburn Jn                         7   25       0    00    H      N    N    N    N     N    N   N
-LN832 SJB      Doncaster, Bridge Jn – St. James Jn        22    54      22    38    H      N    N    N    N     N    N   N
-LN836 DOL1 Doncaster Marshgate Jn – Hare Park Jn          156   28     171    70    H     R1    N    N    N     E    N   N R1     Prohibited from using the unwired main to main
-                                                                                                                R2                crossover at Wintersett
-                                                                                                                R3           R2   5mph Down Leeds Bridge 1 River Don 156m 43ch
-                                                                                                                R4                (between Marshgate Jn and the avoiding line
-                                                                                                                                  overbridge)
-                                                                                                                             R3   Prohibited Up Leeds Bridge 1 River Don 156m
-                                                                                                                                  43ch (between Marshgate Jn and the avoiding line
-                                                                                                                                  overbridge)
-                                                                                                                             R4   Prohibited between the avoiding overbridge and
-                                                                                                                                  Hare Park Jn
-LN836 DOL1 Hare Park Jn – Site of former West Riding      171   70     175    32    H      Y    N    N    N     N    N   N
-           Jn
-LN836 DOL2 Site of former West Riding Jn – Copley Hill    175   32     184    65    H      Y    N    N    N     N    N   N
-           West Jn
-October 2009                                                                             37H
+                                                                      LNE Route Sectional Appendix Module LNRC
+
+Line of ELR Line of Route / Sector Description             M     Ch    M     Ch 325 333       345     357   357   365   377   378 Notes
+route                                                                                                       MOD                   ooooooooooooooooooooooooooo
+LN627 LEN3 Northallerton East Jn – Billingham Jn            42   79     63   69   H     N         N   N      N    N     N     N
+LN627 LEN3 Billingham Jn – Ryhope Grange Jn                 63   69     87   63   H     N         N   N      N    N     N     N
+LN627 LEN3 Ryhope Grange Jn – Sunderland South Jn           87   63     89   56   H     N         N   N      N    N     N     N
+LN627 LEN3 Sunderland South Jn – Boldon East Jn             89   56     94   63   H     N         N   N      N    N     N     N   R1   OPPOS applies between Monkwearmouth Jn and
+                                                                                  R1                                                   East Boldon
+LN627 LEN3 Boldon East Jn – Boldon West Jn                  94   63     95   16   H     N         N   N      N    N     N     N
+LN627 LEN3 Boldon West Jn – Pelaw Metro Jn                  95   16     97   64   H     N         N   N      N    N     N     N
+LN627 LEN3 Pelaw Metro Jn – Park Lane Jn                    97   64    100   65   H     N         N   N      N    N     N     N
+LN627 LEN3 Park Lane Jn – High Level Bridge Jn             100   65    101   33   H     N         N   N      N    N     N     N
+LN627 LEN3 High Level Bridge Jn – Newcastle East Jn        101   33    101   59   H     N         N   N      N    N     N     N
+LN628 NEK      South Hylton – Sunderland South Jn           3    20      0   00   N     N         N   N      N    N     N     N
+LN629 PDL      Pelaw Metro Jn – Network Rail Boundary       97   64     98   01   N     N         N   N      N    N     N     N
+               (Metro Operating)
+LN630 PUL      Pelaw Metro Jn – Network Rail Boundary       97   64     97   77   N     N         N   N      N    N     N     N
+               (Metro Operating)
+LN631 DSN1 Darlington South Jn – Eaglescliffe South Jn      0    29      8   58   H     N         N   N      N    N     N     N
+LN632 DSN2 Stockton Cut Jn – Redcar Change of               10   13     21   72   H     N         N   N      N    N     N     N
+           Mileage
+LN632 DSN3 Redcar Change of Mileage – Saltburn              22   16     27   57   H     N         N   N      N    N     N     N
+LN634 MBW1 Guisborough Jn – Battersby Jn                    0    00     10   54   H     N         N   N      N    N     N     N
+LN634 MBW2 Battersby Jn (End of Line) – Grosmont Jn         11   61     29   66   H     N         N   N      N    N     N     N
+LN634 MBW3 Grosmont Jn – Whitby                             24   44     30   61   H     N         N   N      N    N     N     N
+LN636 No       Beam Mill Jn – Network Rail Boundary         18   03     18   67   N     N         N   N      N    N     N     N
+      ELR
+LN638 WCI      Shell Jn – Network Rail Boundary             0    00      1   03   N     N         N   N      N    N     N     N
+LN642 SSK1 Saltburn West Jn – Network Rail Boundary         27   05     34   29   H     N         N   N      N    N     N     N
+           (Cleveland Potash)
+LN644 BOH Hartburn Jn – Bowesfield SB (Hartburn             0    00      0   44   H     N         N   N      N    N     N     N
+          Curve)
+LN646 STF      Norton-on-Tees South – Ferryhill South Jn    0    00     10   72   H     N         N   N      N    N     N     N
+LN648 NWE Norton-on-Tees West – Norton-on-Tees              0    29      0   00   H     N         N   N      N    N     N     N
+          East
+LN652 POC1 Billingham Jn – Phillips Siding Jn               0    00      3   25   N     N         N   N      N    N     N     N
+
+
+October 2009                                                                                37C

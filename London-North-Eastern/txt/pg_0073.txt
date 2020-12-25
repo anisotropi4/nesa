@@ -1,79 +1,69 @@
-London North Eastern Route Sectional Appendix Module LN1
-                                                                   Key
-                                                 LOD (E) TD9104                  Derby Station Platform 4 & 3
-                                                                   Enabled
-                                                                   Key
-                                                 LOD (E) TD9105                  Derby Station Platform 5 & 6
-                                                                   Enabled
-                                                                   Key
-                                                 LOD (E) TD9106                  Derby Station Platform 6 & 5
-                                                                   Enabled
-                                                                   Key           Derby Pilot Line – Derwent
-                     Derby F&I and Pilot Line    LOD (T) EC9107
-                                                                   Enabled       Viaduct
-                                                                                 St Mary’s South Junction – A, B,
-                                                 LOD (K) DC9121    Captive Key
-                                                                                 C & D Lines
-                                                                   Key           DC9120 St Mary’s South
-                                                 LOD (P) DC1920
-                                                                   Enabled       Junction – A, B, C & D Lines
-                                                                   Key           DC9122 St Mary’s South
-                                                 LOD (K) DC9122
-                                                                   Enabled       Junction – B & C Lines
-                                                                   Key           St Mary’s South Junction – Up
-                                                 LOD (K) DC9123
-                                                                   Enabled       fast & Up Slow
-                     Derby Station (Exclusive)                     Key           St Mary’s North Junction – Up &
-                     to Breadsall.               LOD (P) DC1924
-                                                                   Enabled       Down Fast and Up & Down Slow
-                                                                   Key           St Mary’s North Junction – Up &
-                                                 LOD (K) DC9125
-                                                                   Enabled       Down Fast and Up & Down Slow
-                                                                                 Breadsall Junction – Up & Down
-                                                                   Key
-                                                 LOD (P) DC1926                  Fast, Up & Down Slow & Down
-                                                                   Enabled
-                                                                                 Main
-                                                                                 Breadsall Junction – Up & Down
-                                                                   Key
-                                                 LOD (K) DC9127                  Fast, Up & Down Slow & Down
-                                                                   Enabled
-                                                                                 Main & Up Main
- LN3204 TRENT        Beeston South Jn            LOD (T) TN 4907   Key           Down Nottingham Slow Line
- SOUTH JN TO         (exclusive) to Mansfield                      Enabled
- NOTTINGHAM          Jn (exclusive)`
- EAST JN
-                     Beeston South Jn            LOD (T) TN4908    Key           Up Nottingham Slow Line
-                     (exclusive) to Mansfield                      Enabled
-                     Jn (exclusive)`
-                     Lenton North Jn             LOD (T) TN4989    Key           A Line & Up Mansfield Line
-                     (exclusive) to Nottingham                     Enabled
-                     West Jn (exclusive)
-                     Mansfield Jn (exclusive)    LOD (T) TN4991    Key           B(1) Line
-                     to Nottingham West end                        Enabled
-                     of Platform 5
-                     Mansfield Jn (exclusive)    LOD (T) TN4992    Key           C Line
-                     to Nottingham West Jn                         Enabled
-                     (exclusive)
-                     Mansfield Jn (exclusive)    LOD (T) TN4993    Key           D Line
-                     to Nottingham West Jn                         Enabled
-                     (exclusive)
-                     Nottingham West Jn          LOD (K) TN4994    Captive Key Platform 1 Line
-                     (exclusive) to Nottingham
-                     East Jn (exclusive)
-                     Nottingham Station          LOD (K) TN4995    Captive Key Platform 2 Line
-                     Platform 2 only
-                     Nottingham West Jn          LOD (K) TN4996    Captive Key Platform 4/5 Line
-                     (exclusive) to Nottingham
-                     East Jn (exclusive)
- LN3213 –            Up Moorgate line between    LOD (T) LT1-    Key             Blocks St Pancras
- FARRINGDON TO       Kentish Town and St                 TWH9500 Enabled         Platform A
- KENTISH TOWN        Pancras
-                     Down Moorgate line          LOD (T) LT2-    Key             Blocks St Pancras
-                     between                             TWH9501 Enabled         Platform B
-                     St Pancras & Kentish
-                     Town
-                     Up Moorgate Line / Down     LOD (T) LT3-    Key             Blocks Farringdon
-                     Snow Hill Line between St           TWH9510 Enabled         Platform 3
+                                                    OFFICIAL
 
-December 2006                                         32E
+
+London North Eastern Route Sectional Appendix Module LN1
+                      Sleaford South Jn          LOD (K) WS9009    Captive Key Down Spalding Line
+                      Protecting the Down
+                      Spalding line across
+                      points 4794B and 4795
+                      Points
+                     Sleaford South Jn            LOD (K) WS9010   Captive Key Up Spalding Line
+                     Protecting the Up
+                     Spalding line across
+                     points 4794A
+                     Sleaford North Jn            LOD (K) SL9013   Captive Key Down Spalding Line
+                     Protecting the Down
+                     Spalding Line across
+                     points 4797A and 4796
+                     points
+                     Sleaford North Jn            LOD (K) SL9014   Captive Key Up Spalding Line
+                     Protecting the Up
+                     Spalding Line across
+                     points 4797B
+                     Metheringham Station         LOD (K) SL9017   Captive Key Down Spalding line,
+                     Protecting the Down line                                  Metheringham Station Down
+                     across points 4798B and                                   Platform
+                     through the Down
+                     Platform
+                     Metheringham Station         LOD (K) SL9018   Captive Key Up Spalding Line,
+                     Protecting the Up                                         Metheringham Station Up
+                     Spalding line across                                      Platform
+                     points 4798A and through
+                     the Up Platform and 4799
+                     A/B points (Sidings)
+                     Sincil Bank LC Protecting    LOD (K) SL9021   Captive Key Down Spalding Line
+                     the Down Spalding line
+                     across points 4801A
+                     Sincil Bank LC (inclusive)   LOD (K) LG8001   Captive Key Down Gainsborough line, Up
+                     to Lincoln High Street LC                                 Spalding line and platforms 4
+                     (inclusive)                                               and 5
+                     Pelham Street Jn to          LOD (K) LG8002   Captive Key Up Spalding line, & Down and
+                     Sincil Bank LC (inclusive)                                Up Barnetby lines
+                     Lincoln High St. LC          LOD (K) LG8003   Captive Key Up Gainsborough line and
+                     (exclusive) to Pelham                                     platforms 1, 2 and 3
+                     St. Jn (exclusive)
+                     East Holmes Jn to Lincoln    LOD (K) LG8004   Captive Key Up Gainsborough line
+                     High Street LC (inclusive)
+                     Lincoln High Street LC       LOD (K) LG8005   Captive Key Down Gainsborough line
+                     (exclusive) to East
+                     Holmes Jn
+                     East Holmes Jn               LOD (K) LG8006   Captive Key Down Gainsborough fast and
+                     (exclusive) to West                                       slow lines.
+                     Holmes Jn (exclusive)
+                     Pyewipe Jn to East           LOD (K) LG8007   Captive Key Up Gainsborough lines
+                     Holmes Jn (exclusive)
+                     West Holmes Jn               LOD (K) LG8008   Captive Key Down Gainsborough line, Down
+                     (exclusive) to Pyewipe Jn                                 Newark line and Up / Down
+                                                                               Pyewipe line
+                     West Holmes Jn               LOD (K) LG8009   Captive Key Down Gainsborough line & Up
+                                                                               Newark line
+                     Stow Park Crossover          LOD (K) LG8015   Captive Key Down Gainsborough
+                     Points Protecting Down
+                     Gainsborough line across
+                     points 4843B
+                     Stow Park Crossover          LOD (K) LG8016   Captive Key Up Gainsborough
+                     Points Protecting Up
+                     Gainsborough line across
+                     points 3843A
+                     Gainsborough Lea Road        LOD (K) LG8027   Captive Key Cabinet located on Down
+December 2006                                         32C
