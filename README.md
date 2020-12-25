@@ -2,7 +2,7 @@
 
 This project consists of a series of scripts that extract data from the Network Rail National Electronic Sectional Appendix (NESA) into a series of Route Clearance reports using PDF text extraction. 
 
-The downloadable NESA data is available [here](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/) and contains as a set of route PDF files with spreadsheet and embedded TIFF image iles 
+The downloadable NESA data is available [here](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/) and contains as a set of route PDF files with spreadsheet and embedded TIFF image files 
 
 ## Extracted data download links
 
