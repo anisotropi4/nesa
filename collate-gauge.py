@@ -77,11 +77,11 @@ def get_font(pdf):
         if 'CharSet' in font.descriptor:
             return partial(font.to_unichr)
 
-def get_edge(this_df, c):
-    edge = this_df[c].str.rsplit(' – ', 1, expand=True)
+def get_edge(this_df, c, t=' – '):
+    edge = this_df[c].str.rsplit(t, 1, expand=True)
     this_df.insert(2, 'to', edge[1])
     this_df.insert(2, 'from', edge[0])
-    for s in [' - ', ' –']:
+    for s in [' - ', ' –', ' to ']:
         IDX1 = (this_df['to'].isnull()) & (this_df[c].str.find(s) != -1)
         if IDX1.any():
             this_df.loc[IDX1, ['from', 'to']] = this_df.loc[IDX1, c].str.rsplit(s, 1, expand=True).values
@@ -114,10 +114,11 @@ def get_table(page, table_settings={'snap_tolerance': 8}):
         df = df.reset_index(drop=True).fillna('')
         if not isinstance(df.columns, pd.RangeIndex):
             df.columns = pd.RangeIndex(df.shape[1])
-        if (df[1].str.find(' – ') > -1).any():
-            return get_edge(df, 1)
-        if (df[2].str.find(' – ') > -1).any():
-            return get_edge(df, 2)
+        for s in [' – ', ' to ']:
+            if (df[1].str.find(s) > -1).any():
+                return get_edge(df, 1, s)
+            if (df[2].str.find(s) > -1).any():
+                return get_edge(df, 2, s)
         sys.stderr.writelines('ERROR: no edge {}\n'.format(f))
         return df
     return pd.DataFrame()
@@ -141,18 +142,21 @@ REPORTS = {}
 if DEBUG:
     #FILELIST = ['Anglia-Route/output/pg_0439.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0830.pdf']
-    #FILELIST = ['London-North-Eastern/output/pg_1031.pdf']
+    #FILELIST = ['Kent-Sussex-Wessex/output/pg_0844.pdf']
+    FILELIST = ['Kent-Sussex-Wessex/output/pg_0868.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0898.pdf']
+    #FILELIST = ['London-North-Eastern/output/pg_1031.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1054.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1035.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1052.pdf']
-    FILELIST = ['London-North-Western-North/output/pg_0921.pdf']
-    FILELIST = ['London-North-Western-South/output/pg_0521.pdf']
-    FILELIST = ['London-North-Western-South/output/pg_0538.pdf']
+    #FILELIST = ['London-North-Western-North/output/pg_0921.pdf']
+    #FILELIST = ['London-North-Western-South/output/pg_0521.pdf']
+    #FILELIST = ['London-North-Western-South/output/pg_0538.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0884.pdf']
-    FILELIST = ['Scotland/output/pg_1049.pdf']
-    FILELIST = ['Scotland/output/pg_1086.pdf']
-    
+    #FILELIST = ['Scotland/output/pg_1049.pdf']
+    #FILELIST = ['Scotland/output/pg_1086.pdf']
+    #FILELIST = ['Western-and-Wales/output/pg_0789.pdf']
+    #FILELIST = ['Western-and-Wales/output/pg_0790.pdf']
     ROUTE = FILELIST[0].split('/')[0]
 
 def get_tablename(p):
@@ -190,7 +194,7 @@ def fix_ln_header(this_df):
                 this_df = get_table(p0, table_settings={'snap_tolerance': 7})
             mch_1 = get_mch(this_df.iloc[1])
             dc = this_df.columns[mch_1]
-            this_df[dc] = this_df[dc].replace(to_replace=' ', value='', regex=True)
+            #this_df[dc] = this_df[dc].replace(to_replace=' ', value='', regex=True)
             this_df.iloc[1] = this_df.iloc[1].str.replace('^o', '', regex=True)
             mch_1 = get_mch(this_df.iloc[1])
         if this_df.loc[1, mch_1].count() == 4:
@@ -199,7 +203,8 @@ def fix_ln_header(this_df):
             this_df = this_df.drop([1])
     except IndexError:
         pass
-    this_df.iloc[0] = this_df.iloc[0].str.replace(' o$', '', regex=True)
+    this_df.iloc[0] = this_df.iloc[0].str.replace(' [0o]$', '', regex=True)
+    this_df.iloc[0] = this_df.iloc[0].str.replace('^ +', '', regex=True)
     this_df.iloc[0, -1] = this_df.iloc[0, -1].replace('325', 'Notes')
     return this_df
 
@@ -239,12 +244,11 @@ for f in FILELIST:
 for i, k in enumerate(REPORTS):
     REPORTS[k].to_csv('{}/report/gauge-report-{}.tsv'.format(ROUTE, str(i).zfill(2)), sep='\t', index=False, header=False)
 
+
 def get_dataframe(this_df):
     if 'Line of Route' in this_df.iloc[0, 6]:
         this_df.iloc[0, 7:11] = ['M', 'Ch','M', 'Ch']
-    for i in [1, 2]:
-        if this_df[i].str.match('Line of Route').any():
-            return this_df.drop_duplicates(subset=[i])
+    this_df = this_df.drop_duplicates(subset=[i for i in this_df.columns if i not in ['route', 'page', 'from', 'to']])
     return this_df
 
 with pd.ExcelWriter('{}/{}-clearance.xlsx'.format(ROUTE, ROUTE.lower())) as writer:
