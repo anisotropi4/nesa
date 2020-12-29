@@ -1,21 +1,21 @@
-Kent-Sussex-Wessex	0874	Line of route	ELR	LineofRoute/SectorDescription		LineofRoute/SectorDescription	M	 Ch	 M	 Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
-Kent-Sussex-Wessex	0874	SO150	SEJ2	MiddleJn	Sheerness on Sea	MiddleJn–SheernessonSea	44	13	51	19	N	N	N	N	N	N	N	R1	Y	Y	N	R1 Route prohibited to Classes 465/0 and 465/1
-Kent-Sussex-Wessex	0874	SO160	FDM	FavershamJn(SO110)	Buckland Jn	FavershamJn(SO110)–BucklandJn	52	13	76	32	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO160	FDM	BucklandJn	Change of mileage	BucklandJn–Changeofmileage	76	32	77	76	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO160	FDM	Changeofmileage	Dover Substation	Changeofmileage–DoverSubstation	76	53	76	45	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO170	TTH	TonbridgeEastJn(SO130)	Tunbridge Wells	TonbridgeEastJn(SO130)–TunbridgeWells	29	55	34	32	N	N	N	N	N	N	N	Y	Y	Y	R1	R1 OPPOS Up or Down Hastings through Grove hill Tunnel (between Tonbridge Wells - Grove Jn)
-Kent-Sussex-Wessex	0874	SO170	TTH	TunbridgeWells	Bo Peep Jn	TunbridgeWells–BoPeepJn	34	32	60	69	N	N	N	N	N	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0874	SO180	PWS1	PaddockWood	Maidstone West Change of Mileage	PaddockWood–MaidstoneWestChangeofMileage	34	67	44	56	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO210	APL	Appledore(SO600)	Dungeness Ground Frame	Appledore(SO600)–DungenessGroundFrame	64	50	73	65	N	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0874	SO220	ACR	Ashford(JnwithCanterburyline(SO130))	Hitachi Depot (Access)	Ashford(JnwithCanterburyline(SO130))–HitachiDepot(Access)	56	35	57	05	Y	N	N	N	N	N	N	Y	Y	Y	E R1	R1 Prohibited Ashford (Jn with Canterbury line (SO130)) - Ashford Station
-Kent-Sussex-Wessex	0874	SO220	ACR	HitachiDepot(Access)	Minster West Jn	HitachiDepot(Access)–MinsterWestJn	57	05	81	69	Y	N	N	N	N	N	N	Y	Y	Y	E R1	R1 Prohibited Ashford Down Yard East G Jn - Minster West Jn
-Kent-Sussex-Wessex	0874	SO220	ACR	MinsterWestJn	Minster East Jn	MinsterWestJn–MinsterEastJn	81	69	82	17	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO220	ACR	MinsterEastJn	Ramsgate Substation	MinsterEastJn–RamsgateSubstation	82	17	85	22	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO230	FFH2	FolkstoneEastJn(SO130)	Folkstone Harbour	FolkstoneEastJn(SO130)–FolkstoneHarbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0874	SO240	BME2	BucklandJn	Sandwich	BucklandJn–Sandwich	99	05	86	46	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO240	BME2	Sandwich	Minster South	Sandwich–MinsterSouth	86	46	82	21	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO240	MSW	MinsterSouthJn	Minster West Jn	MinsterSouthJn–MinsterWestJn	82	12	81	64	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO240	BME1	MinsterSouthJn	Minster East Jn	MinsterSouthJn–MinsterEastJn	0	23	0	00	Y	N	N	N	N	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	0874	SO250	BSF	BatterseaPierJn	Connection to Battersea Reversible	BatterseaPierJn–ConnectiontoBatterseaReversible	0	71	1	18	N	Y	Y	Y	Y	Y	E	Y	Y	N	Y	
-Kent-Sussex-Wessex	0874	SO250	BSF	ConnectiontoBatterseaReversible	Stewarts Lane Jn	ConnectiontoBatterseaReversible–StewartsLaneJn	1	18	1	36	N	Y	N	N	Y	Y	E	Y	Y	N	Y	
-Kent-Sussex-Wessex	0874	SO250	BSF	StewartsLaneJn	Factory Jn	StewartsLaneJn–FactoryJn	1	36	1	61	N	Y	N	N	Y	Y	E	Y	Y	N	Y	
+Kent-Sussex-Wessex	0874	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
+Kent-Sussex-Wessex	0874	SO150	SEJ2	Middle Jn	Sheerness on Sea	Middle Jn – Sheerness on Sea	44	13	51	19	N	N	N	N	N	N	N	R1	Y	Y	N	R1 Route prohibited to Classes 465/0 and 465/1
+Kent-Sussex-Wessex	0874	SO160	FDM	Faversham Jn (SO110)	Buckland Jn	Faversham Jn (SO110) – Buckland Jn	52	13	76	32	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO160	FDM	Buckland Jn	Change of mileage	Buckland Jn – Change of mileage	76	32	77	76	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO160	FDM	Change of mileage	Dover Substation	Change of mileage – Dover Substation	76	53	76	45	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO170	TTH	Tonbridge East Jn (SO130)	Tunbridge Wells	Tonbridge East Jn (SO130) – Tunbridge Wells	29	55	34	32	N	N	N	N	N	N	N	Y	Y	Y	R1	R1 OPPOS Up or Down Hastings through Grove hill Tunnel (between Tonbridge Wells - Grove Jn)
+Kent-Sussex-Wessex	0874	SO170	TTH	Tunbridge Wells	Bo Peep Jn	Tunbridge Wells – Bo Peep Jn	34	32	60	69	N	N	N	N	N	N	N	N	N	Y	N	
+Kent-Sussex-Wessex	0874	SO180	PWS1	Paddock Wood	Maidstone West Change of Mileage	Paddock Wood – Maidstone West Change of Mileage	34	67	44	56	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO210	APL	Appledore (SO600)	Dungeness Ground Frame	Appledore (SO600) – Dungeness Ground Frame	64	50	73	65	N	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0874	SO220	ACR	Ashford (Jn with Canterbury line (SO130))	Hitachi Depot (Access)	Ashford (Jn with Canterbury line (SO130)) – Hitachi Depot (Access)	56	35	57	05	Y	N	N	N	N	N	N	Y	Y	Y	E R1	R1 Prohibited Ashford (Jn with Canterbury line (SO130)) - Ashford Station
+Kent-Sussex-Wessex	0874	SO220	ACR	Hitachi Depot (Access)	Minster West Jn	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	Y	N	N	N	N	N	N	Y	Y	Y	E R1	R1 Prohibited Ashford Down Yard East G Jn - Minster West Jn
+Kent-Sussex-Wessex	0874	SO220	ACR	Minster West Jn	Minster East Jn	Minster West Jn – Minster East Jn	81	69	82	17	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO220	ACR	Minster East Jn	Ramsgate Substation	Minster East Jn – Ramsgate Substation	82	17	85	22	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO230	FFH2	Folkstone East Jn (SO130)	Folkstone Harbour	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0874	SO240	BME2	Buckland Jn	Sandwich	Buckland Jn – Sandwich	99	05	86	46	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO240	BME2	Sandwich	Minster South	Sandwich – Minster South	86	46	82	21	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO240	MSW	Minster South Jn	Minster West Jn	Minster South Jn – Minster West Jn	82	12	81	64	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO240	BME1	Minster South Jn	Minster East Jn	Minster South Jn – Minster East Jn	0	23	0	00	Y	N	N	N	N	N	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	0874	SO250	BSF	Battersea Pier Jn	Connection to Battersea Reversible	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	N	Y	Y	Y	Y	Y	E	Y	Y	N	Y	
+Kent-Sussex-Wessex	0874	SO250	BSF	Connection to Battersea Reversible	Stewarts Lane Jn	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	N	Y	N	N	Y	Y	E	Y	Y	N	Y	
+Kent-Sussex-Wessex	0874	SO250	BSF	Stewarts Lane Jn	Factory Jn	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	Y	N	N	Y	Y	E	Y	Y	N	Y	
