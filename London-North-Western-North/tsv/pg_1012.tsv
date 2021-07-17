@@ -1,28 +1,21 @@
 London-North-Western-North	1012	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1012										W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Western-North	1012						M	Ch	M	Ch									
-London-North-Western-North	1012	NW6005	MVE1	Deal Street Jn	Windsor Bridge South Jn	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1012	NW6007	DSE	Deal Street Jn– Ordsall Lane Jn		Deal Street Jn– Ordsall Lane Jn	31	18	30	38	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1012	NW6009	WBS1	Windsor Bridge North Jn	Crow Nest Jn	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1012	NW6009	WBS2	Crow Nest Jn–Wigan Station Jn		Crow Nest Jn–Wigan Station Jn	14	64	17	44	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1012	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1012	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	Y *	Y	R1	N	N	N	N	N	R1 Prohibited between Gathust Viaduct (exclusive) [20m 46ch] and Southport
-London-North-Western-North	1012	NW6011	BBB	Bolton East Jn– Blackburn Bolton Jn		Bolton East Jn– Blackburn Bolton Jn	10	31	24	08	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1012	NW6013	LCN	Lostock Jn–Crow Nest Jn		Lostock Jn–Crow Nest Jn	13	39	17	18	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1012	NW6015	WKL1	Wigan Wallgate Jn	Change of Mileage (Pemberton)	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1012	NW6015	WKL2	Change of Mileage (Pemberton)	Kirkby	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	Y	R1	N	N	N	N	N	N	R1 Prohibited between Knowsley Freight Terminal (28m 25ch) and Kirkby
-London-North-Western-North	1012	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005)	Miles Platting Jn	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	Y *	R1	R1	R1	N	N	N	N	R1 W7, W8 and W9 traffic is prohibited from platform 1 (bay platform)
-London-North-Western-North	1012	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1012	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn – Thorpes Bridge Jn	1	52	2	17	Y *	Y *	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	Y *	Y *	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	Y *	Y *	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	Y *	Y *	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7001	MVN2	Hall Royd Jn–Route Boundary (LN854)		Hall Royd Jn–Route Boundary (LN854)	19	61	22	62	Y*	Y *	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7005	CEH	Castleton East Jn	Castleton North Jn	Castleton East Jn – Castleton North Jn	0	00	0	37	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7005	CPI1	Castleton South Jn	Castleton North Jn	Castleton South Jn – Castleton North Jn	8	21	8	50	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7005	CPI2	Castleton North Jn	Network Rail / East Lancashire Railway Boundary (Hopwood)	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7006	SFO	Todmorden Viaduct Jn	Stansfield Hall Jn	Todmorden Viaduct Jn to Stansfield Hall Jn	19	30	19	47	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1012	NW7007	FCO	Farington Curve Jn	Ormskirk	Farington Curve Jn – Ormskirk	25	64	12	15	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7009	FHR1	Farington Curve Jn	Lostock Hall Depot	Farington Curve Jn – Lostock Hall Depot	0	00	0	75	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7009	FHR2	Lostock Hall Depot	Lostock Hall Jn	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1012	NW7009	FHR3	Lostock Hall Jn	Change of ELR (Site of Former Bamber Bridge Jn)	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	Y *	Y	N	N	N	N	N	N	
+London-North-Western-North	1012										W6A	W7	W8	W9	W9Plus	W10	W10 A	W12
+London-North-Western-North	1012						M	Ch	M	Ch								
+London-North-Western-North	1012	NW4011	MSM	Morecambe South Jn	Morecambe Buffer Stops	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	Y *	Y	Y	N	N	N	N	N
+London-North-Western-North	1012	NW4013	HBL	Hest Bank Jn	Bare Lane Jn	Hest Bank Jn – Bare Lane Jn	0	00	1	30	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1012	NW4017	MHH	Morecambe Jn	Heysham Port	Morecambe Jn – Heysham Port	0	00	4	01	Y *	Y	Y	N	N	N	N	N
+London-North-Western-North	1012	NW4019	OXW	Oxenholme	Windermere	Oxenholme – Windermere	0	00	10	15	Y	N	N	N	N	N	N	N
+London-North-Western-North	1012	NW4021	UCJ	Upperby Jn	Bog Jn	Upperby Jn – Bog Jn	0	38	1	07	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1012	NW4021	UCJ	Bog Jn	Rome Street Jn	Bog Jn – Rome Street Jn	1	07	1	23	Y	Y	N	N	N	N	N	N
+London-North-Western-North	1012	NW4023	ULR	Upperby Jn	London Road Jn	Upperby Jn – London Road Jn	0	00	0	34	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1012	NW4025	MCG	Currock Jn	Change of ELR (Site of Former Forks Jn)	Currock Jn – Change of ELR (Site of Former Forks Jn)	0	00	0	29	Y	Y	Y	Y	N	Y	Y	Y
+London-North-Western-North	1012	NW4025	SCG	Change of ELR (Site of Former Forks Jn)	Bog Jn	Change of ELR (Site of Former Forks Jn) – Bog Jn	0	29	0	44	Y	Y	Y	Y	N	Y	Y	Y
+London-North-Western-North	1012	NW4027	BSN	Bruntill Branch Jn	Stainton Jn via Down and Up Brunthill Branch Siding	Bruntill Branch Jn – Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1012	NW4027	ETC	End of line Buffer Stops	Network Rail Boundary / Brunthill via Down and Up Brunthill line	End of line Buffer Stops – Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	6	95	6	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1012	NW4029	GJH	Mossband Jn	Network Rail Boundary	Mossband Jn – Network Rail Boundary	3	02	0	24	–	–	–	–	–	–	–	–	Line Out of Use
+London-North-Western-North	1012	NW4031	GSW	Gretna Jn	Route Boundary (SC031)	Gretna Jn – Route Boundary (SC031)	116	13	115	40	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1012	NW4033	CBC1	Carnforth North Jn	Carnforth Station Jn	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1012	NW4033	CBC1	Carnforth Station Jn	Limit of Electrification (Carnforth)	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1012	NW4033	CBC1	Limit of Electrification (Carnforth)	Whitehaven	Limit of Electrification (Carnforth) – Whitehaven	0	60	74	66	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1012	NW4033	CBC1	Whitehaven	Bransty SB (Change of ELR)	Whitehaven – Bransty SB (Change of ELR)	74	66	74	73	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1012	NW4033	CBC2	Bransty SB (Change of ELR)	Change of ELR (Maryport)	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	Y *	S1	S1	N	N	N	N	N	S1 Between Workington Main No.2 SB (6m 53ch) and Change of ELR (Maryport) the following combinations are permitted to run: Up to 2665(h), S21 TT x 2500(w) on FAA, FKA, IKA wagons 2595(h), S11 TT, S14 FT x 2500(w) on IFA, FIA wagons

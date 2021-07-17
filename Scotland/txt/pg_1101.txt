@@ -1,43 +1,52 @@
-                                                                                              OFFICIAL
+                                                                              OFFICIAL
 
 
 
 
-                                                                         Scotland Route Sectional Appendix Module SCRC
+                                                         Scotland Route Sectional Appendix Module SCRC
+Line of    Line of Route / Sector Description                                     Gauge                                                 Notes
+Route
 
-Table D5B – Locomotive Gauge Clearance Table
-                                                                                                                                                                    Last Updated: 20/04/2019
-To be read in conjunction with General Notes.
-•   All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
-•   Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
-•   Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
-    below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
-    Compatibility prior to operation over Network Rail infrastructure.
-•   Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
-•   Gauge clearance for steam locomotives is considered under a separate process.
-The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
-Y         Route conforms to locomotive gauge without restriction.
-R         Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
-N         Route does not conform to locomotive gauge
-Line of    ELR      Line of Route / Sector                 oooo oooo oooo oooo RA Loco Gauge Notes
-route               Description                             M    Ch M      Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                                    W6   W7       W8          W9     W9Plus   W10    W10A    W12
 
-SC001      WCM1 Route Boundary (NW4001) (Gretna         12          30     25    66    10          Y
-                Jn) – Lockerbie
-SC001      WCM1 Lockerbie – Law Jn                      25          66     84    08    10          Y
-SC001      WCM2 Law Jn – Junction with Coatbridge       84          08     89    51    10          Y
-                lines (Lesmahagow Jn)
-SC001      WCM2 Junction with Coatbridge lines          89          51     95    14    8           Y
-                (Lesmahagow Jn) – Newton East Jn
-SC001      WCM2 Newton East Jn – Newton Hamilton Jn 95              14     95    47    10          Y
-                (SC0023) via South Connecting line
-SC001      WCM2 Newton Kirkhill Jn (SC0023) – Newton 95             77     96    34    10          Y
-                West Jn via North Connecting line
-SC001      WCM2 Newton East Jn – Newton West Jn         95          14     96    34    8           Y
-SC001      WCM2 Newton West Jn – Rutherglen East Jn     96          34     98    32    8           Y
-SC001      WCM2 Rutherglen East Jn – Larkfield Jn       98          32    100    65    10          Y
-SC001      WCM2 Larkfield Jn – Eglinton St Jn          100          65    101    39    8           Y
-SC001      WCM2 Eglinton St Jn – Bridge St Jn          101          39    101    53    8           Y
-SC001      WCM2 Bridge St Jn – Glasgow Central         101          53    102    27    8           Y
-SC003      ECA1 Carstairs South Jn – Carstairs East Jn  73          17     73    48    10          Y
-October 2009                                                                            139
+
+SC119      Greenhill Lower Jn – Carmuirs West Jn    Y     Y        Y          Y           N    N         N   N
+SC119      Carmuirs West Jn – Stirling Middle Jn    Y     Y        Y          N           N    N         N   N
+SC119      Stirling Middle Jn – Perth South Jn      Y*    Y        S1         N           N    N         N   N     S1   The following combinations are permitted:
+                                                                                                                        Up to:
+                                                                                                                        2590 high x 2500 wide box on FCA
+                                                                                                                        All Lines
+                                                                                                                        2590 high x 2550 wide box
+                                                                                                                        on FKA IKA wagons
+                                                                                                                        All Lines
+                                                                                                                        Safeway refrigerated box on IKA FKA IFA
+                                                                                                                        FIA wagon
+                                                                                                                        2896 high x 2500 wide box
+                                                                                                                        on FKA wagons
+                                                                                                                        Up Line
+                                                                                                                        2675 high x 2550 wide box
+                                                                                                                        on FCA wagons
+                                                                                                                        Up Line
+                                                                                                                        2896 high x 2600 wide box
+                                                                                                                        on IKA wagons
+                                                                                                                        Up line 30 mph at Br.66
+                                                                                                                        [140m 09ch]
+SC119      Perth South Jn – Dundee Central Jn       Y*    Y        Y          N           N    N         N   N
+SC123      Bathgate – Airdrie                       Y     Y        Y          Y           N    Y         N   N
+SC123      Airdrie – Sunnyside Jn                   Y     Y        N          N           N    N         N   N
+SC123      Sunnyside Jn – High Street Jn            Y*    Y        Y          N           N    N         N   N
+SC123      High Street Jn – Knightswood North Jn    Y*    Y        N          N           N    N         N   N
+SC123      Knightswood North Jn – Craigendoran Jn   Y*    Y        Y          N           N    N         N   N
+SC123      Craigendoran Jn – Helensburgh Central    Y*    N        N          N           N    N         N   N
+SC125      Hyndland East Jn – Dalmuir (via Yoker)   Y*    Y        N          N           N    N         N   N
+SC127      Sunnyside Jn – Gunnie Yard Goods Line)   –     –        –          –           –    –         –   –     Line Out of Use
+           (OOU)
+SC129      Springburn – Bellgrove Jn                Y     Y        Y          N           N    N         N   N
+SC129      Sighthill East Jn – Glasgow Works        Y*    N        N          N           N    N         N   N
+           (Springburn) (Railcare Ltd)
+SC131      High Street Jn – Shields Jn              Y*    Y        Y          N           N    N         N   N
+SC133      Westerton Jn – Milngavie                 Y*    Y        N          N           N    N         N   N
+
+
+
+  October 2009                                                          131

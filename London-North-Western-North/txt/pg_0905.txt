@@ -5,41 +5,42 @@
 
 
 
-NW4001 WCM1 Carlisle – Mossband Jn (Including              0   00       7   57    Y     Y        Y   N    Y     N    R1   R4   R4 R1    5mph Carlisle platform 4
-            Kingmoor Yard Goods lines)                                                                               R2           R2    Prohibited Carlisle platform 3
-                                                                                                                     R3                 with deflated suspension
-                                                                                                                                   R3   5mph Carlisle platform 3
-                                                                                                                                   R4   Prohibited Carlisle platforms 7
-                                                                                                                                        &8
-NW4001 WCM1 Mossband Jn – Gretna Jn                        7   57       8   57    Y     Y        Y   N    Y     N    Y    Y    Y
-NW4001 WCM1 Gretna Jn – Route Boundary (SC001)             8   57      12   30    Y     Y        Y   N    Y     N    Y    Y    Y
-            (Gretna Green)
-NW4001 UCJ      Upperby Bridge Jn – Upperby Bridge       67    58      68   23    Y     Y        Y   N    N     N    Y    N    Y
-NW4003 PDB      Preston Fylde Jn – End of line             0   00       1   59    N     N        N   N    N     N    N    N    N   Line out of use
-NW4005 PBN      Preston Fylde Jn – Kirkham North Jn        0   33       8   28    Y     Y        Y   N    N     N    Y    N    N
-NW4005 PBN      Kirkham North Jn – Poulton Jn              8   28      14   40    Y     Y        Y   N    N     N    Y    N    N
-NW4005 PBN      Poulton Jn – Blackpool North             14    40      17   49    Y     Y        Y   N    N     N    Y    N    N
-NW4007 KBS1     Kirkham North Jn – Blackpool South         8   28      20   00    Y     Y        Y   N    N     N    Y    N    N
-NW4009 WPS      Poulton – End of line                    14    40      18   08    N     N        N   N    N     N    N    N    N   Line out of use from 14m 75ch to
-                                                                                                                                   the end of the line
-                                                                                                                                   NC/G1/2001/LNW294
-NW4011 MSM      Morecambe South Jn – Morecambe             0   00       2   12    Y     Y        Y   N    N     N    Y    N    N
-                Buffer Stops
-NW4013 HBL      Hest Bank Jn – Bare Lane Jn                0   00       1   30    Y     Y        Y   N    N     N    Y    N    N
-NW4017 MHH      Morecambe Jn – Heysham Port                0   00       4   01    Y     Y        Y   N    N     N    Y    N    N
-NW4019 OXW      Oxenholme – Windermere                     0   00      10   15    Y     Y        Y   N    N     N    Y    N    N
-NW4021 UCJ      Upperby Jn – Bog Jn                        0   38       1   07    Y     Y        Y   N    N     N    Y    N    N
-NW4021 UCJ      Bog Jn – Rome St Jn                        1   07       1   23    Y     Y        Y   N    N     N    Y    N    N
-NW4023 ULR      Upperby Jn – London Rd Jn                  0   00       0   34    Y     Y        Y   N    N     N    Y    N    Y
-NW4025 MCG      Currock Jn – Bog Jn                        0   00       0   44    Y     Y        N   N    N     N    N    N    N
-NW4027 BSN      Bruntill Branch Jn – Stainton Jn via       0   66       0    2    N     N        N   N    N     N    N    N    N
-                Down and Up Brunthill Branch Siding
-NW4027 ETC      End of line Buffer Stops – Network       96     9      95    6    N     N        N   N    N     N    N    N    N
-                Rail Boundary / Brunthill via Down and
-                Up Brunthill line
-NW4029 GJH      Mossband Jn – Bush-on-Esk West Jn          3   02       1   06    N     N        N   N    N     N    N    N    E
-NW4029 GJH      Bush-on-Esk West Jn – Network Rail         1   06       0   24    N     N        N   N    N     N    N    N    N   Line out of use
-                Boundary
-NW4031 GSW      Gretna Jn – Route Boundary (SC031)       116   13    115    40    Y     Y        Y   N    N     N    Y    Y    N
-                (Eastriggs)
-October 2009                                                                                35
+NW1004 RRN2     Route Boundary (MD345) (Cannock           14   00      14   69    Y     Y        Y   N    N     N    N   Y   N
+                Change of ELR) – Rugeley North Jn
+NW1005 KCS1     Kidsgrove Jn – Crewe South Jn             0    00       8   27    Y     Y        Y   N    Y     N    Y   Y   N
+NW1007 SYC      Route Boundary (GW735) (Crewe Jn)         2    60       1   41    Y     Y        Y   N    N     Y    Y   N   N
+                – Limit of Electrification
+NW1007 SYC      Limit of Electrification – Crewe South    1    41       0   00    Y     Y        Y   N    N     Y    Y   N   N
+                Jn
+NW1009 BHI      Basford Hall Jn – Site of former         156   16    158    76    Y     Y        Y   N    Y     N    Y   Y   Y
+                Sydney Bridge Jn (Independent lines)
+NW1009 CMP1 Site of former Sydney Bridge Jn –            158   76    162    28    Y     Y        Y   N    Y     N    Y   N   Y
+            Sandbach South Jn (Independent
+            lines)
+NW1011 GSG      Gresty Lane Jn – Salop Goods Jn           0    00       0   37    Y     Y        Y   N    Y     N    Y   N   N
+NW1013 CSG      Crewe Sorting Sidings North – Gresty     157   26    157    47    Y     Y        Y   N    Y     N    Y   N   N
+                Lane
+NW1015 CIL      Salop Goods Jn – Crewe North Jn          157   64    158    18    Y     Y        Y   N    N     N    Y   N   N
+                (Chester Independent lines)
+NW1017 LLI      Salop Goods Jn – Boundary                157   71    158    73    Y     Y        Y   N    Y     N    Y   Y   Y
+                (NW1001) (Crewe Coal Yard –
+                Liverpool Independent lines)
+NW1019 CHW1/ Acton Grange Jn – Warrington South           16   19      17   76    Y     Y        Y   N    Y     N    Y   Y   N
+       2     Jn (Helsby lines)
+NW1021 WEE      Winwick Jn – Earlestown East Jn          185   49    187    10    Y     Y        Y   N    Y     N    Y   Y   Y
+NW1021 DSE      Earlestown East Jn – Newton-le-           14   75      16   19    Y     Y        Y   N    Y     N    Y   Y   Y
+                Willows Jn (Electrified section)
+NW1021 NGJ      Newton-le-Willows Jn – Golborne Jn        0    00       0   53    Y     Y        Y   N    Y     N    Y   Y   Y
+NW1023 HOB2     Haydock Branch Jn – End of line           0    00       0   53    N     N        N   N    N     N    N   N   N
+NW1025 IMG      Bamfurlong Sidings Jn – Ince Moss Jn      0    18       0   78    Y     Y        Y   N    N     N    Y   N   N
+NW1027 PSR1     Preston South Jn – Preston Docks          21   39      21   47    N     N        N   N    N     N    N   N   N
+                Branch (Change of ELR)
+NW1027 PSR2     Preston Docks Branch (Change of           0    00       0   40    N     N        N   N    N     N    N   N   N
+                ELR) – Network Rail Boundary (Ribble
+                Steam Railway)
+NW2001 WJL1     NW1001 (Weaver Jn) – Ditton East Jn 174        53    182    67    Y     Y        Y   N    Y     N    Y   N   Y
+NW2001 WJL2     Ditton East Jn – Speke East Jn           182   67    186    72    Y     Y        Y   N    Y     N    Y   N   Y
+NW2001 WJL3     Speke Est Jn – Edge Hill East Jn         186   72    191    75    Y     Y        Y   N    Y     N    Y   N   Y
+NW2001 WJL4     Edge Hill East Jn – Liverpool Lime       191   75    193    52    Y     Y        Y   N    Y     N    Y   N   Y
+                Street
+October 2009                                                                                31

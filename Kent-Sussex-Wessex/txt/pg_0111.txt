@@ -1,62 +1,81 @@
-                                                           OFFICIAL
+                                                  OFFICIAL
 
 
 Kent / Sussex / Wessex Routes Sectional Appendix Module KSW1
 
 
 
+                                                                                       GSM-R
+                  LINE/PLATFORM                     LOCATION   CONTROLLING
+LOCATION                                 SIGNAL                                        CONTACT
+                  (DIRECTION)                       CODE       SIGNAL BOX/PANEL
+                                                                                       NUMBER
 
-GSM-R GENERAL INSTRUCTION
-TW5 Section 24 - Known Searching Network Locations
-The locations in the table below have encountered a temporary reduction in radio coverage with the GSM-R system which
-may result in registration problems and the ability of the driver to contact the signaller. This will be presented to the Driver
-on the DCP as ‘searching for network’.
+                  Up Brighton Slow                             Victoria ASC Panel
+Balham                                   VC151      993                                74 3104 01
+                  (Down direction)                             2B
 
-Drivers must carry out the ‘Pending Registration’ process on the radio and continue their journey.
+                                                               Three Bridges Panel
+East Croydon      Up Siding Exit         T1070      993                                74 3281 01
+                                                               1B
 
-     Location                Fault Number       Comments                                      Outcome
-     Hilsea                  FMS 283097         Coverage issues                               Area tested and no
-                                                                                              fault found
-     Camberley               FMS FRI            Coverage/Interference issues.                 Investigation ongoing
-                             283625.
-     Canterbury West         NA                 Registration issues due to interference       Fixed – Repeater
-                                                                                              installed
-     Hayes                   NA                 Registration issues due to interference       Fixed – Repeater
-                                                                                              installed
+                  Down Redhill
+Redhill                                  T1312      993        Three Bridges Panel 3   74 3284 01
+                  (Up direction)
 
-TW5 Section 24 - Known Misrouted Call Locations
+                  Up Redhill
+Redhill                                  T1317      993        Three Bridges Panel 3   74 3284 01
+                  (Down direction)
 
-The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls may
-misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
+                  Up Fast
+Gatwick Airport                          T1161      993        Three Bridges Panel 4   74 3285 01
+                  (Down direction)
 
-Drivers are instructed to use the phone book to contact the signaller from these locations.
+Crawley New
+                  Up Siding Exit         T1179      993        Three Bridges Panel 4   74 3285 01
+Yard
 
-      Location                                     Fault              Comments                          Outcome
-                                                   Number
-      Aldershot South Junction – Up Ash            322915             Calls are misrouted to Woking
-      Branch: GD960                                                   ASC instead of Guildford
-      Crystal Palace                               NA                 GSM-R calls from trains at        Fixed –
-                                                                      Crystal Palace being received     Changes to
-                                                                      at TBASC panel A.                 coverage
-                                                                                                        design
-      Tattenham Corner                             FMS FRI-           Misrouted calls                   Fixed –
-                                                   292073                                               GSMR
-                                                                                                        Power
-                                                                                                        increased on
-                                                                                                        serving site
+Crawley New       Down Slow
+                                         T1182      993        Three Bridges Panel 4   74 3285 01
+Yard              (Up direction)
 
-GSM-R Faults and Failures Response
+                  Platform 4
+Three Bridges                            T1203      993        Three Bridges Panel 4   74 3285 01
+                  (Up direction)
 
-Version 1.1
+Haywards Heath    Up Siding North Exit   T1226      993        Three Bridges Panel 5   74 3286 01
 
-Purpose
+SO510 LONDON BRIDGE TO EPSOM
 
-To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+Bricklayers       Up Slow                                      London Bridge –
+                                         L1559      992                                74 2108 01
+Arms Jn           (Down direction)                             Panel 8
 
-Appendix 1 covers the response to system faults from a single fixed terminal through to failures of the infrastructure
-resulting in loss of coverage in a geographical area.
+Bricklayers       Down Fast                                    London Bridge –
+                                         L1560      992                                74 2108 01
+Arms Jn           (Up direction)                               Panel 8
+
+Bricklayers       Down Fast                                    London Bridge –
+                                         L1558      992                                74 2108 01
+Arms Jn           (Up direction)                               Panel 8
+
+                  Up Slow                                      London Bridge –
+New Cross Gate                           L1573      992                                74 2108 01
+                  (Down direction)                             Panel 8
+
+                  Down Fast                                    London Bridge –
+New Cross Gate                           L1578      992                                74 2108 01
+                  (Up direction)                               Panel 8
+
+                  Down Slow                                    London Bridge –
+New Cross Gate                           L1580      992                                74 2108 01
+                  (Up direction)                               Panel 8
+
+                  Down Fast                                    London Bridge –
+New Cross Gate                           L1586      992                                74 2108 01
+                  (Up direction)                               Panel 8
 
 
 
 
-December 2009                                                93GA
+December 2009                                        93D

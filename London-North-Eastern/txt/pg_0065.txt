@@ -1,72 +1,67 @@
-                                                        OFFICIAL
+                                                    OFFICIAL
 
 
 London North Eastern Route Sectional Appendix Module LN1
 
 
 
+                                                                      CONTROLLING        GSM-R
+                    LINE/PLATFORM                          LOCATION
+LOCATION                                    SIGNAL                    SIGNAL             CONTACT
+                    (DIRECTION)                            CODE
+                                                                      BOX/PANEL          NUMBER
 
-TW5 SECTION 24 – KNOWN MISROUTED CALL LOCATIONS
+                                                                      York Roc – Leeds
+Kildwick LC         Up Shipley - Down       L4545          998        North              74 8211 01
+                                                                      West workstation
 
-The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls
-may misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
+                                                                      York Roc – Leeds
+Kildwick LC         Down Shipley - Up       L4546          998        North              74 8211 01
+                                                                      West workstation
 
-Drivers are instructed to use the phone book to contact the signaller from these locations.
+                                                                      York Roc – Leeds
+Skipton South Jn    Up Shipley - Down       L4549          998        North              74 8211 01
+                                                                      West workstation
 
+                                                                      York Roc – Leeds
+Skipton             Down Stabling Siding    L4551          998        North              74 8211 01
+                                                                      West workstation
 
-         Location                 Fault Number             Comments            Outcome
+                                                                      York Roc – Leeds
+Skipton Middle Jn   Up Siding 1             L4558          998        North              74 8211 01
+                                                                      West workstation
 
-         Wakefield Westgate       FMS YOR -540359          Misrouted calls     Fixed – data fill changed
+                                                                      York Roc – Leeds
+Skipton Middle Jn   Up Siding 2             L4556          998        North              74 8211 01
+                                                                      West workstation
 
-TW5 SECTION 24 – KNOWN NON-TD REGISTRATION LOCATIONS
+                                                                      York Roc – Leeds
+Skipton Middle Jn   Up Siding 3             L4554          998        North              74 8211 01
+                                                                      West workstation
 
-The locations in the table below are known areas where the lack of Train Describers results in registration problems.
-There will also be a likelihood of misrouted calls to the signaller if the ‘contact signaller’ button is pressed.
+Hellifield          Down Main               HD53           996        Hellifield         74 6425 01
 
-Drivers are instructed to register using the wildcard and not follow GSM-R bulletin 21 until the alias plates are added
-to the signals. The Driver is also instructed to use the phone book to contact the signaller from these locations.
+Hellifield          Down Main               HD27           996        Hellifield         74 6425 01
 
-         Location                            Fault Number           Comments                      Outcome
+Hellifield          Down Loop               HD34           996        Hellifield         74 6425 01
 
-         Bradford Interchange                NA                     No Alias plate in place       TBC
+Hellifield          Up Loop                 HD6            996        Hellifield         74 6425 01
 
+Hellifield          Down Loop               HD51           996        Hellifield         74 6425 01
 
-LIMITED COVERAGE ON FREIGHT ONLY BRANCH LINES
+LN928 SHIPLEY EAST JN. TO BRADFORD FORSTER SQUARE
 
-The freight-only branch lines listed in the table below are sections of permanent poor GSM-R coverage. These
-areas of poor coverage are in tunnels and deep cuttings resulting in GSM-R calls may be unreliable, as with
-previous NRN coverage. If a train is in a poor coverage area at the time the emergency call is initiated, the train
-radio will receive the emergency call as soon as there is sufficient GSM-R coverage.
+                                                                      York Roc – Leeds
+Shipley South Jn    Crossleys Siding        L4532          998        North              74 8211 01
+                                                                      West workstation
 
-SECTION                      SA        ELR        Start    Start       End       End          GSM-R Predicted Poor
-                                                  Miles    Chains      Miles     Chains       Coverage Details
-
-Pelaw Junction to Jarrow                                                                      Poor coverage: JAW1
-                             LN670     JAW1       0        9           3         36
-(NR Boundary)                                                                                 3m0ch - 3m36ch
-
-Saltburn West to Boulby                                                                       Poor coverage: SSK1
-                             LN642     SSK1       27       5           34        29
-Mine (NR Boundary)                                                                            29m25ch - 30m05ch
-
-Embsay Junction                                                                               Poor coverage through
-(former) to Skipton          LN930     SKS1       220      64          221       68           Haw Bank Tunnel: SKS1
-Middle Junction                                                                               220m77ch - 221m07ch
-
-
-
-GSM-R FAULTS AND FAILURES RESPONSE
-
-VERSION 1.1
-
-PURPOSE
-
-To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
-
-Appendix covers the response to system faults from a single fixed terminal through to failures of the infrastructure
-resulting in loss of coverage in a geographical area.
+                                                                      York Roc – Leeds
+                    Down Forster Square -
+Shipley South Jn                            L4534          998        North              74 8211 01
+                    Up
+                                                                      West workstation
 
 
 
 
-December 2006                                             28ZG
+December 2006                                         28ZE

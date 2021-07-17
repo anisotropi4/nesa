@@ -1,20 +1,18 @@
 Kent-Sussex-Wessex	0838	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
-Kent-Sussex-Wessex	0838	SO510	LBW	Bricklayers Arms Jn	New Cross Gate Up Jn	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	ELL1	New Cross Gate Up Jn	Network Rail Boundary / Up ELL	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	LBW	New Cross Gate Up Jn	New Cross Gate Down Jn	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	ELL1	New Cross Gate Down Jn	Network Rail Boundary / Down ELL	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	LBW	New Cross Gate Down Jn	Sydenham Down Jn	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	LBW	Sydenham Down Jn	Norwood Jn	Sydenham Down Jn – Norwood Jn	6	51	8	55	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	LBW	Norwood Jn	Norwood Fork Jn	Norwood Jn – Norwood Fork Jn	8	55	9	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	LBW	Norwood Fork Jn	Cottage Jn / Windmill Bridge Jn	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	NFE	Norwood Fork Jn	Sutton	Norwood Fork Jn – Sutton	9	33	14	75	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO510	NFE	Sutton	Epsom Downs	Sutton – Epsom Downs	14	75	18	60	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO520	TBH1	Three Bridges	Crawley	Three Bridges – Crawley	29	21	30	49	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO520	TBH1	Crawley	Horsham Jn	Crawley – Horsham Jn	30	49	37	39	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO520	TBH1	Horsham Jn	Horsham	Horsham Jn – Horsham	37	39	37	56	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO520	TBH1	Horsham	Billingshurst	Horsham – Billingshurst	37	56	44	71	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO520	TBH1	Billingshurst	Arundel Jn	Billingshurst – Arundel Jn	44	71	59	75	N	N	N	N	N	
-Kent-Sussex-Wessex	0838	SO520	TBH2	Arundel Jn	Barnham	Arundel Jn – Barnham	19	01	22	29	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	0838	SO520	TBH2	Barnham	Route Boundary (SW110) (Havant Jn)	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	Y	Y	Y	N	R1 R2 R3 R4 R5	R1 Prohibited Chichester platform 1 with crush deflated suspension R2 Prohibited Chichester West Sidings R3 Prohibited Bosham platform 2 with crush deflated suspension R4 Prohibited Inlands Road Crossing with crush deflated suspension R5 OPPOS between Up Main line and Chichester Up Reception line
-Kent-Sussex-Wessex	0838	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	0838	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	Y	Y	Y	N	Y	
+Kent-Sussex-Wessex	0838	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill North Jn	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill Substation via platforms 1 and 2	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Herne Hill South Jn	Beckenham Jn	Herne Hill South Jn – Beckenham Jn	4	06	8	43	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Beckenham Jn	Shortlands Jn	Beckenham Jn – Shortlands Jn	8	43	9	57	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	VIR	Shortlands Jn	Bickley Jn	Shortlands Jn – Bickley Jn	9	57	12	38	N	N	N	N	N
+Kent-Sussex-Wessex	0838	SO110	TLP1	Bickley Jn	Petts Wood (Fast Tonbridge Loop)	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	N	N	N	N	N

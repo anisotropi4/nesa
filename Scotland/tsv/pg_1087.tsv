@@ -1,6 +1,19 @@
-Scotland	1087	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1087					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-Scotland	1087	SC001	Gretna Jn – Law Jn (via Beattock)	Gretna Jn	Law Jn (via Beattock)	Y *	Y	Y	Y	N	Y	N	N	
-Scotland	1087	SC001	Law Jn – Larkfield Jn	Law Jn	Larkfield Jn	Y *	Y	Y	Y	N	Y	N	N	
-Scotland	1087	SC001	Larkfield Jn – Eglinton Street	Larkfield Jn	Eglinton Street	Y	Y	Y	N	N	N	N	N	
-Scotland	1087	SC001	Eglinton Street – Glasgow Central	Eglinton Street	Glasgow Central	Y *	Y	N	N	N	N	N	N	
+Scotland	1087	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Scotland	1087	SC143	OBN1	Crianlarich Jn	Lower Crianlarich GF	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	5	N	N	N	N	N	N
+Scotland	1087	SC143	OBN2	Lower Crianlarich GF	Inverhaggernie No.1 LC	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	5	N	N	N	N	N	N
+Scotland	1087	SC143	OBN2	Inverhaggernie No.1 LC	Oban	Inverhaggernie No.1 LC – Oban	31	00	71	44	5	N	N	N	N	N	N
+Scotland	1087	SC145	MLG1	Fort William	Change of ELR	Fort William – Change of ELR	0	05	1	27	5	N	N	N	N	N	N
+Scotland	1087	SC145	MLG2	Change of ELR	Mallaig	Change of ELR – Mallaig	0	00	39	39	5	N	N	N	N	N	N
+Scotland	1087	SC147	ECM8	Route Boundary (LN600) (Heaton South)	Prestonpans Jn	Route Boundary (LN600) (Heaton South) – Prestonpans Jn	69	67	9	67	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECM8	Prestonpans Jn	Calton South Tunnel	Prestonpans Jn – Calton South Tunnel	9	67	0	29	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECM9	Calton South Tunnel	Waverley East End	Calton South Tunnel – Waverley East End	0	29	0	21	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y
+Scotland	1087	SC147	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	R1	Y	Y	Y	Prohibited Haymarket East Jn - Haymarket Central Jn on the Up North
+Scotland	1087	SC147	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y

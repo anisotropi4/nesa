@@ -7,38 +7,39 @@
 
 Line of   ELR    Line of Route / Sector Description         oooo oooo oooo oooo RA         43 47/2 47/4 47/7 56 57 58 Notes
 route                                                        M    Ch   M    Ch 000         00 000 00 00 000 000 000 ooooooooooooooooooooooooo
-SC077     ARH    Ardrossan South Beach – Adrossan             30    44    31    35    10   Y     Y   Y    Y        Y   Y   Y
-                 Harbour
-SC079     HUN    Hunterston – Hunterston Low Level Sdgs       0     00     0    36    10   N     Y   Y    Y        Y   Y   Y
-                 (Goods Line)
-SC081     BYL    Byrehill Jn – Dubbs Jn                       0     60     0    00    10   Y     Y   Y    Y        Y   Y   Y
-SC085     AYH1   Ayr Harbour – Newton Jn (Goods Line)         0     17     0    00    10   N     Y   Y    Y        Y   Y   Y
-SC087     ANN    Newton Jn – Mauchline (Goods Line)           39    42    50    16    10   Y     Y   Y    Y        Y   Y   Y
-SC089     KCH1   Annbank – Change of ELR                      43    52    48    73    10   N     Y   Y    Y        Y   Y   Y
-SC089     KCH2   Change of ELR – Killoch Colliery (Goods      0     00     3    43    10   N     Y   Y    Y        Y   Y   Y
-                 Line)
-SC091     WAT    Dalrymple Jn – Chalmerston (Goods Line)      43    53    52    70    8    N     Y   Y    Y        Y   Y   Y
-SC093     SCM1   Motherwell – Mossend South                   89    51    91    08    10   Y     Y   Y    Y        Y   Y   Y
-SC093     SCM2   Mossend South – Whifflet North Jn            91    08    94    05    10   Y     Y   Y    Y        Y   Y   Y
-SC093     SCM3   Whifflet North Jn – Gartsherrie South Jn     94    05    95    64    10   Y     Y   Y    Y        Y   Y   Y
-                 (Limit of OLE)
-SC093     SCM3   Gartsherrie South Jn (Limit of OLE) –        95    64   106    63    10   Y     Y   Y    Y        Y   Y   Y
-                 Greenhill Lower Jn
-SC097     SYE    Whifflet South Jn – Sunnyside Jn (Goods      9     63     8    43    10   Y     Y   Y    Y        Y   Y   Y
-                 Line)
-SC099     RSL2   Whifflet North Jn – Change of ELR            0     00     0    34    10   Y     Y   Y    Y        Y   Y   Y
-SC099     RSL1   Change of ELR – Langloan Jn                  6     59     6    34    10   Y     Y   Y    Y        Y   Y   Y
-SC099     RCB    Langloan Jn – Rutherglen East Jn             6     34     0    04    10   Y     Y   Y    Y        Y   Y   Y
-SC101     RCB    Coatbridge Jn – Langloan Jn                  7     03     6    34    10   Y     Y   Y    Y        Y   Y   Y
-SC103     CBD1   Garnqueen North Jn – Gartcosh Jn             1     33     0    00    10   Y     Y   Y    Y        Y   Y   Y
-SC103     CBD2   Gartcosh Jn – Change of ELR                  97    09   103    41    10   Y     Y   Y    Y        Y   Y   Y
-SC103     SGN    Change of ELR – Cowlairs West Jn             0     61     -0   20    10   Y     Y   Y    Y        Y   Y   Y
-SC105     GHE    Gartsherrie South Jn – Gartcosh Jn           95    64    97    06    10   Y     Y   Y    Y        Y   Y   Y
-SC106     PNS    Sighthill West Jn – Cowlairs South Jn        0     30     0    00    8    Y     Y   Y    Y        Y   Y   Y
-                 (Chord Line)
-SC107     ECM9   Waverley East End – Edinburgh Waverley       0     21     0    00    10   Y     Y   Y    Y        Y   Y   Y
-SC107     EGM4   Edinburgh Waverley – Waverley West End       0     00     0    15    10   Y     Y   Y    Y        Y   Y   Y
-                 (South Lines)
+SC007     EGS2   Midcalder Jn – Holytown Jn                   23    11     1    27     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
+                                                                                                                                    STNC NC/G1/2010/ICP-RA/SC012 applies until
+                                                                                      R1                                            30/09/2014
+SC009     LNK    Lanark – Lanark Jn                           2     45     0    03    5    Y     N   N    N        N   N   N
+SC011     WWD    Law Jn – Holytown Jn                         84    08    89    66    10   Y     Y   Y    Y        Y   Y   Y
+SC011     EGS2   Holytown Jn – Mossend East Jn                1     27     0    40    10   Y     Y   Y    Y        Y   Y   Y
+SC011     EGS1   Mossend East Jn – Uddingston Jn              3     63     0    03    10   Y     Y   Y    Y        Y   Y   Y
+SC013     SHR    Wishaw Central Jn – Shieldmuir Jn            86    63    87    43    10   Y     Y   Y    Y        Y   Y   Y
+SC015     MDN    Mossend East Jn – Mossend North Jn           0     40     0    06    10   Y     Y   Y    Y        Y   Y   Y
+                 (North Curve)
+SC017     MDE    Mossend East Jn – Mossend South Jn           0     31     0    00    10   Y     Y   Y    Y        Y   Y   Y
+                 (East Curve)
+SC019     MDW    Mossend South Jn – Mossend West Jn           91    08    91    50    10   Y     Y   Y    Y        Y   Y   Y
+                 (West Curve)
+SC021     COS2   Coltness – Change of ELR                     0     09     0    00    10   N     Y   Y    Y        Y   Y   Y
+SC021     COS1   Change of ELR – Garriongill Jn               14    15    15    29    10   N     Y   Y    Y        Y   Y   Y
+SC023     HMN1   Motherwell – Change of ELR                   0     08     1    44    7    Y     Y   Y    Y        Y   Y   Y
+SC023     HMN2   Change of ELR – Newton, Hamilton Jn          6     61     0    00    7    Y     Y   Y    Y        Y   Y   Y
+SC024     LRK    Larkhall – Haughhead Jn                      3     00     0    00    10   Y     Y   Y    Y        Y   Y   Y
+SC025     ARG1   Rutherglen Central Jn – Bridgeton Yard       0     00     0    43    10   Y     Y   Y    Y        Y   Y   Y
+                 North End
+SC025     ARG2   Bridgeton Yard North End – Exhibition        0     86     4    03    10   Y     Y   Y    Y        Y   Y   Y
+                 Centre
+SC025     ARG2   Exhibition Centre – Finnieston East Jn       4     03     4    41    10   Y     Y   Y    Y        Y   Y   Y
+                 (Down line)
+SC025     ARG2   Exhibition Centre – Finnieston West Jn       4     03     4    74    10   Y     Y   Y    Y        Y   Y   Y
+                 (Up line)
+SC027     RNC    Rutherglen West Jn – Rutherglen North Jn     0     00     0    29    10   Y     Y   Y    Y        Y   Y   Y
+                 (West Curve)
+SC029     CLY    Larkfield Jn – Terminus Jn                  101    01   101    62    10   Y     Y   Y    Y        Y   Y   Y
+SC029     BRD    Terminus Jn – Shields Jn via Through        101    62   102    16    10   Y     Y   Y    Y        Y   Y   Y
+                 Terminus lines
+SC029     CLY    Terminus Jn – Shields Jn                    101    62   102    16    10   Y     Y   Y    Y        Y   Y   Y
 
 
-October 2009                                                                     84
+October 2009                                                                     80

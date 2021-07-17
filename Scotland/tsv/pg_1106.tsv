@@ -1,24 +1,12 @@
-Scotland	1106	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1106	SC105	GHE	Gartsherrie South Jn	Gartcosh Jn	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	10	Y	
-Scotland	1106	SC106	PNS	Sighthill West Jn	Cowlairs South Jn (Chord line)	Sighthill West Jn – Cowlairs South Jn (Chord line)	0	30	0	00	8	Y	
-Scotland	1106	SC107	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	
-Scotland	1106	SC107	EGM4	Edinburgh Waverley	Waverley West End (South lines)	Edinburgh Waverley – Waverley West End (South lines)	0	00	0	15	10	Y	
-Scotland	1106	SC107	ECN1	Edinburgh Waverley	Waverley West End (North lines)	Edinburgh Waverley – Waverley West End (North lines)	0	00	0	15	10	Y	
-Scotland	1106	SC107	EGM3	Waverley West End	Haymarket (South lines)	Waverley West End – Haymarket (South lines)	0	15	1	19	10	Y	
-Scotland	1106	SC107	ECN2	Waverley West End	Haymarket (North lines)	Waverley West End – Haymarket (North lines)	0	15	1	19	10	Y	
-Scotland	1106	SC107	EGM2	Haymarket	Haymarket East Jn (South lines)	Haymarket – Haymarket East Jn (South lines)	46	02	45	72	10	Y	
-Scotland	1106	SC107	ECN2	Haymarket	Haymarket East Jn (North lines)	Haymarket – Haymarket East Jn (North lines)	1	19	1	29	10	Y	
-Scotland	1106	SC107	EGM2	Haymarket East Jn	Haymarket Central Jn (South lnes)	Haymarket East Jn – Haymarket Central Jn (South lnes)	45	72	45	35	10	Y	
-Scotland	1106	SC107	ECN2	Haymarket East Jn	Haymarket Central Jn (North lnes)	Haymarket East Jn – Haymarket Central Jn (North lnes)	1	29	1	66	10	Y	
-Scotland	1106	SC107	EGM2	Haymarket Central Jn	Haymarket West Jn (South lnes)	Haymarket Central Jn – Haymarket West Jn (South lnes)	45	35	44	73	10	Y	
-Scotland	1106	SC107	ECN2	Haymarket Central Jn	Haymarket West Jn (North lines)	Haymarket Central Jn – Haymarket West Jn (North lines)	1	66	2	41	10	Y	
-Scotland	1106	SC107	EGM1	Haymarket West Jn	Cowlairs West Jn	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	R1 R2	R1 Prohibited between Newbridge Jn and Winchburgh Jn on the Up line R2 Prohibited between Polmont Jn and Falkirk High on the Up South Passenger Loop
-Scotland	1106	SC107	EGM1	Cowlairs West Jn	Glasgow Queen Street	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	R1	R1 Prohibited between Cowlairs South Jn and Glasgow Queen Street on the Down line
-Scotland	1106	SC109	PMT	Polmont Jn	Grangemouth Jn	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	
-Scotland	1106	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	
-Scotland	1106	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	0	-02	10	Y	
-Scotland	1106	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	
-Scotland	1106	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	Y	
-Scotland	1106	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	Y	
-Scotland	1106	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	10	Y	
-Scotland	1106	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8	Y	
+Scotland	1106	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+Scotland	1106					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+Scotland	1106	SC193	Welsh's Bridge Jn – Rose Street Jn	Welsh's Bridge Jn	Rose Street Jn	Y	Y	Y	N	N	N	N	N
+Scotland	1106	SC193	Welsh's Bridge Jn – Inverness Harbour	Welsh's Bridge Jn	Inverness Harbour	Y	Y	Y	N	N	N	N	N
+Scotland	1106	SC195	Aberdeen to Elgin	Aberdeen	Elgin	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: 2590 high x 2500 wide box, on KFA wagon 2770 high x 2500 wide box, on IKA wagon 2896 wide x 2500 wide box, on FLA wagon 2590 wide x 2600 wide box, on IFA wagon Safeway refrigerated box on IKA wagon All Lines
+Scotland	1106	SC195	Elgin – Inverness	Elgin	Inverness	Y *	Y	N	N	N	N	N	N
+Scotland	1106	SC197	Kittybrewster – Waterloo Goods (Goods Line)	Kittybrewster	Waterloo Goods (Goods Line)	Y	Y	Y	N	N	N	N	N
+Scotland	1106	SC199	Keith Branch	Keith Branch		Y	N	N	N	N	N	N	N
+Scotland	1106	SC201	Alves GF – Burghead (Goods Line)	Alves GF	Burghead (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1106	SC203	Inverness – Wick	Inverness	Wick	Y *	Y	Y	N	N	N	N	N
+Scotland	1106	SC205	Dingwall – Kyle of Lochalsh	Dingwall	Kyle of Lochalsh	Y *	Y	N	N	N	N	N	N
+Scotland	1106	SC207	Georgemas Junction – Thurso	Georgemas Junction	Thurso	Y *	Y	Y	N	N	N	N	N

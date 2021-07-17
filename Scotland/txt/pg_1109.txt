@@ -1,52 +1,43 @@
-                                                                                          OFFICIAL
+                                                                                              OFFICIAL
 
 
 
 
-                                                                      Scotland Route Sectional Appendix Module SCRC
-Line of   ELR     Line of Route / Sector                    oo   oo    oo    oo   RA Loco Gauge Notes
-route             Description                               oo   oo    oo    oo   000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                                            M    Ch    M     Ch
-SC147     ECM9 Waverley East End – Edinburgh                 0   21      0   00    10          Y
-               Waverley
-SC147     EGM4 Edinburgh Waverley – Waverley West            0   00      0   15    10          Y
-               End (South lines)
-SC147     ECN1 Edinburgh Waverley – Waverley West            0   00      0   15    10          Y
-               End (North lines)
-SC147     EGM3 Waverley West End – Haymarket                 0   15      1   19    10          Y
-               (South lines)
-SC147     ECN2 Waverley West End – Haymarket                 0   15      1   19    10          Y
-               (North lines)
-SC147     EGM2 Haymarket – Haymarket East Jn                46   02     45   72    10          Y
-               (South lines)
-SC147     ECN2 Haymarket – Haymarket East Jn                 1   19      1   29    10          Y
-               (North lines)
-SC147     EGM2 Haymarket East Jn – Haymarket                45   72     45   35    10          Y
-               Central Jn (South lines)
-SC147     ECN2 Haymarket East Jn – Haymarket                 1   29      1   66    10          Y
-               Central Jn (North lines)
-SC147     EGM2 Haymarket Central Jn – Haymarket             45   35     44   73    10          Y
-               West Jn (South lines)
-SC147     ECN2 Haymarket Central Jn – Haymarket              1   66      2   41    10          Y
-               West Jn (North lines)
-SC149     NBK  North Berwick – Drem Jn                      22   22     18   15    5           Y
-SC151     LHS1 Portobello – Leith South Yard (Goods          0   00      2   20    10          Y
-               line)
-SC153     CPH  Craigentinny – Powderhall (Goods              0   00      1   78    10          Y
-               line)
-SC155     MHL1 Monktonhall Jn – Change of ELR                0   11      5   60    10          Y
-SC155     MHL2 Change of ELR – Millerhill East Jn            1   40      0   28    10          Y
-SC155     MHL3 Millerhill East Jn – Millerhill Yard          0   00      0   19    10          Y
-               (Goods line)
-SC157     MLE  Millerhill South Jn – Millerhill East Jn      0   09      0   28    10          Y
-               (Goods line)
-SC159     NDE2 Millerhill West Jn – Millerhill South Jn /    6   52      5   72    10          Y
-               Millerhill Yard
-SC161     NDE1 Millerhill Yard – Junction with Niddrie       5   52      3   36    10          Y
-               West line
-SC161     SUB1 Junction with Niddrie West line –             3   36      3   30    10          Y
-               Portobello
+                                                                         Scotland Route Sectional Appendix Module SCRC
 
+Table D5B – Locomotive Gauge Clearance Table
+                                                                                                                                                                    Last Updated: 20/04/2019
+To be read in conjunction with General Notes.
+•   All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
+•   Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
+•   Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
+    below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
+    Compatibility prior to operation over Network Rail infrastructure.
+•   Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
+•   Gauge clearance for steam locomotives is considered under a separate process.
+The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
+Y         Route conforms to locomotive gauge without restriction.
+R         Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
+N         Route does not conform to locomotive gauge
+Line of    ELR      Line of Route / Sector                 oooo oooo oooo oooo RA Loco Gauge Notes
+route               Description                             M    Ch M      Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
 
-
-October 2009                                                                        147
+SC001      WCM1 Route Boundary (NW4001) (Gretna         12          30     25    66    10          Y
+                Jn) – Lockerbie
+SC001      WCM1 Lockerbie – Law Jn                      25          66     84    08    10          Y
+SC001      WCM2 Law Jn – Junction with Coatbridge       84          08     89    51    10          Y
+                lines (Lesmahagow Jn)
+SC001      WCM2 Junction with Coatbridge lines          89          51     95    14    8           Y
+                (Lesmahagow Jn) – Newton East Jn
+SC001      WCM2 Newton East Jn – Newton Hamilton Jn 95              14     95    47    10          Y
+                (SC0023) via South Connecting line
+SC001      WCM2 Newton Kirkhill Jn (SC0023) – Newton    95          77     96    34    10          Y
+                West Jn via North Connecting line
+SC001      WCM2 Newton East Jn – Newton West Jn         95          14     96    34    8           Y
+SC001      WCM2 Newton West Jn – Rutherglen East Jn     96          34     98    32    8           Y
+SC001      WCM2 Rutherglen East Jn – Larkfield Jn       98          32    100    65    10          Y
+SC001      WCM2 Larkfield Jn – Eglinton St Jn          100          65    101    39    8           Y
+SC001      WCM2 Eglinton St Jn – Bridge St Jn          101          39    101    53    8           Y
+SC001      WCM2 Bridge St Jn – Glasgow Central         101          53    102    27    8           Y
+SC003      ECA1 Carstairs South Jn – Carstairs East Jn  73          17     73    48    10          Y
+October 2009                                                                            139

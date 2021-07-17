@@ -1,26 +1,52 @@
-                                                                                  OFFICIAL
+                                                                                 OFFICIAL
 
 
-                                                               LNW North Route Sectional Appendix Module NWRC
-
-
-
-Line of ELR    Line of Route / Sector Description        oooo oooo oooo oooo 165 168 170 175 180 185 220 221 222 Notes
-route                                                     M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-NW9903 SJC     Change of Mileage (Wennington) – Change     9    45     0   31    N    N      N   N   N    N     N   N   N
-               of Mileage (Site of former Carnforth East
-               Jn)
-NW9903 CEC     Change of Mileage (Site of former           0    25     0   04    N    N      N   N   N    N     N   N   N
-               Carnforth East Jn) – Carnforth Station Jn
-NW9907 WAR     Appleby North Jn – Appleby West Jn        277    27   277   56    N    N      N   N   N    N     N   N   N
-NW9907 EDE     Network Rail Boundary (Warcop) – End of    11    03    11   46    N    N      N   N   N    N     N   N   N
-               Line
-NW9909 NEC2    Route Boundary (LN682) (Corby Gates) –     58    00    59   26    N    N      N   N   N    E     Y   Y   N
-               Petteril Bridge Jn
-NW9911 NGD     London Road Jn – Bog Jn (Newcastle          0    00     0   25    N    N      N   N   N    E     N   N   N
-               Goods Lines)
+                                                              LNW North Route Sectional Appendix Module NWRC
 
 
 
+Line of ELR     Line of Route / Sector Description      oooo oooo oooo oooo 165 168 170 175 180 185 220 221 222 Notes
+route                                                    M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
 
-October 2009                                                                         16R
+NW6009 WBS1 Windsor Bridge North Jn – Crow Nest Jn        1    66    14   64    N    N      N   Y    Y    R1   Y   Y   N R1   15mph Swinton Up platform
+                                                                                                          R2             R2   15mph Moorside Down platform
+                                                                                                          R3             R3   15mph Walkden Up platform
+NW6009   WBS2   Crow Nest Jn – Wigan Station Jn          14    64    17   44    N    N      N   Y    Y    Y    Y   Y   N
+NW6009   WBS2   Wigan Station Jn – Wigan Wallgate Jn     17    44    18   04    N    N      N   N    N    N    N   N   N
+NW6009   WBS3   Wigan Wallgate Jn – Southport            18    04    35   27    N    N      N   N    N    N    N   N   N
+NW6011   BBB    Bolton East Jn – Blackburn Bolton Jn     10    31    24   08    N    N      N   N    N    R1   Y   Y   N R1    15mph Hall I’th’Wood Down platform
+                                                                                                          R2             R2   30mph Bromley Cross Up platform
+                                                                                                          R3             R3   30mph Darwen Down platform
+                                                                                                          R4             R4   15mph BBB1/65 Bolton Road underbridge
+                                                                                                                               23m46ch single
+NW6013 LCN  Lostock Jn – Crow Nest Jn                    13    39    17   18    N    N      N   Y    Y    Y    Y   Y   N
+NW6015 WKL1 Wigan Wallgate Jn – Change of Mileage        18    04    19   48    N    N      N   N    N    N    N   N   N
+            (Pemberton)
+NW6015 WKL2 Change of Mileage (Pemberton) – Kirkby       19    09    29   40    N    N      N   N    N    N    N   N   N
+NW7001 MVM Manchester Victoria East Jn (Man Vic West      0    09     1   30    N    N      Y   Y    E    Y    Y   Y   N
+            Jn – East Jn on NW6005) – Miles Platting
+            Jn
+NW7001 MPR1 Miles Platting Jn – Brewery Jn                1    30     1   52    N    N      N   Y    E    Y    Y   Y   N
+NW7001 MPR1 Brewery Jn –Thorpes Bridge Jn                 1    52     2   17    N    N      N   Y    E    Y    Y   Y   N
+NW7001 MVN2 Thorpes Bridge Jn – Castleton South Jn        2    17     8   21    N    N      N   E    E    Y    Y   Y   N R1 Prohibited between Newton Heath TMD and
+                                                                                                R1   R1                     Castleton South Jn
+NW7001 MVN2 Castleton South Jn – Castleton East Jn        8    21     8   52    N    N      N   N    N    Y    Y   Y   N
+NW7001 MVN2 Castleton East Jn – Hall Royd Jn              8    52    19   61    N    N      N   N    R1   Y    Y   Y   N R1     Prohibited between Castleton East Jn
+                                                                                                                                and Todmorden.
+NW7001 MVN2 Hall Royd Jn – Route Boundary (LN854)        19    61    22   62    N    N      N   N    Y    Y    Y   Y   N
+            (Turners Lane Jn)
+NW7005 CEH  Castleton East Jn – Castleton North Jn        0    00     0   37    N    N      N   N    N    N    N   N   N
+NW7005 CPI1 Castleton South Jn – Castleton North Jn       8    21     8   50    N    N      N   N    N    N    N   N   N
+NW7005 CPI2 Castleton North Jn – Network Rail / East      8    50     9   04    N    N      N   N    N    N    N   N   N
+            Lancashire Railway Boundary (Hopwood)
+NW7006 SFO  Todmorden Viaduct Jn – Stansfield Hall Jn     0     0     0   18    N    N      N   N    N    E    Y   Y   N
+NW7007 FCO  Farington Curve Jn – Ormskirk                25    64    12   15    N    N      N   N    N    N    N   N   N
+NW7009 FHR1 Farington Curve Jn - Lostock Hall Depot       0    00     0   75    N    N      N   N    N    Y    Y   Y   N
+NW7009 FHR2 Lostock Hall Depot – Lostock Hall Jn          0    75     1   42    N    N      N   N    N    Y    Y   Y   N
+NW7009 FHR3 Lostock Hall Jn – Change of ELR (Site of      1    42     2   10    N    N      N   N    N    Y    Y   Y   N
+            Former Bamber Bridge Jn)
+NW7009 FHR4 Change of ELR (Site of Former Bamber          2    10    10   11    N    N      N   N    N    Y    Y   Y   N
+            Bridge Jn) – Blackburn Bolton Jn
+NW7009 FHR4 Blackburn Bolton Jn – Blackburn              10    11    10   42    N    N      N   N    N    R1   Y   Y   N R1 Prohibited Blackburn platform 3
+NW7009 FHR5 Blackburn – Daisyfield Jn                    10    42    11   09    N    N      N   N    N    Y    Y   Y   N
+October 2009                                                                        16N

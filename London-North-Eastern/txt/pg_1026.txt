@@ -1,45 +1,46 @@
                                                                                        OFFICIAL
 
 
-                                                                       LNE Route Sectional Appendix Module LNRC
+                                                                      LNE Route Sectional Appendix Module LNRC
 
 
 
-Line of ELR     Line of Route / Sector Description          M     Ch   M     Ch   170 172 180 185 195 220 221 222 Notes
-route
-LN627 LEN3      Boldon East Jn – Boldon West Jn              94   63    95   16   N    N     Y    Y    Y    Y     Y   N
-LN627 LEN3      Boldon West Jn – Pelaw Metro Jn              95   16    97   64   N    N     Y    Y    Y    Y     Y   N
-LN627 LEN3      Pelaw Metro Jn – Park Lane Jn                97   64   100   65   N    N     Y    R1   Y    Y     Y   N   R1   30mph Heworth Up platform
-LN627 LEN3      Park Lane Jn – High Level Bridge Jn         100   65   101   33   N    N     Y    Y    N    Y     Y   N
-LN627 LEN3      High Level Bridge Jn – Newcastle East Jn 101      33   101   59   N    N     Y    Y    N    Y     Y   N
-LN628 NEK       South Hylton – Sunderland South Jn           3    20    0    00   N    N     N    N    N    N     N   N
-LN629 PDL       Pelaw Metro Jn – Network Rail Boundary       97   64    98   01   N    N     N    N    N    N     N   N
-                (Metro Operating)
-LN630 PUL       Pelaw Metro Jn – Network Rail Boundary       97   64    97   77   N    N     N    N    N    N     N   N
-                (Metro Operating)
-LN631 DSN1      Darlington South Jn – Eaglescliffe South     0    29    8    58   N    N    R1    Y    Y    Y     Y   N   R1   15mph Dinsdale Up platform
-                Jn
-LN632 DSN2      Stockton Cut Jn – Redcar Change of           10   13    21   72   N    N    R1    Y    R2   N     N   N   R1   Prohibited between Thornaby and Redcar Change of
-                Mileage                                                                                                        Mileage
-                                                                                                                          R2   Prohibited British Steel Redcar Up platform with deflated
-                                                                                                                               secondary suspension
-LN632 DSN3      Redcar Change of Mileage – Saltburn          22   16    27   57   N    N     N    R1   Y    N     N   N   R1   Prohibited Church Lane Level Crossing (23m 20ch) to
-                                                                                                                               Saltburn
-LN634 MBW1 Guisborough Jn – Battersby Jn                     0    00    10   54   N    N     N    R1   N    N     N   N   R1   Prohibited between Nunthorpe and Battersby Jn
-LN634 MBW2 Battersby Jn (End of Line) – Grosmont Jn          11   61    29   66   N    N     N    N    N    N     N   N
-LN634 MBW3 Grosmont Jn – Whitby                              24   44    30   61   N    N     N    N    N    N     N   N
-LN636 No ELR Beam Mill Jn – Network Rail Boundary            18   03    18   67   N    N     N    N    N    N     N   N
-LN638 WCI       Shell Jn – Network Rail Boundary             0    00    1    03   N    N     N    N    N    N     N   N
-LN642 SSK1      Saltburn West Jn – Network Rail              27   05    34   29   N    N     N    N    N    N     N   N
-                Boundary (Cleveland Potash)
-LN644 BOH       Hartburn Jn – Bowesfield SB (Hartburn        0    00    0    44   N    N     Y    Y    Y    N     N   N
-                Curve)
-LN646 STF       Norton-on-Tees South – Ferryhill South       0    00    10   72   N    N     Y    Y    Y    Y     Y   N
-                Jn
-LN648 NWE       Norton-on-Tees West – Norton-on-Tees         0    29    0    00   N    N     Y    N    N    Y     Y   N
-                East
-LN652 POC1      Billingham Jn – Phillips Siding Jn           0    00    3    25   N    N     N    N    N    N     N   N
-LN652 POC2      Phillips Siding Jn – Seal Sands Branch Jn    3    25    5    01   N    N     N    N    N    N     N   N
+Line of ELR     Line of Route / Sector Description              oooo oooo oooo oooo 142 143 144 150 153 155 156 158 159 Notes
+route                                                            M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooo
+                                                                                                                        o
+LN758    BKS    Brancliffe East Jn – St Catherines Jn             0    00    15   17     N        N   N   N      N   N   N   N   N
+LN758    BKS    St Catherines Jn – Low Ellers Curve Jn           15    17    15   55     N        N   N   N      N   N   N   N   N
+LN758    BKS    Low Ellers Curve Jn – Kirk Sandall Jn            15    55    20   49     N        N   N   N      N   N   N   N   N
+LN760    HAC    Firbeck Jn – Harworth Colliery                   11    20    14   21     N        N   N   N      N   N   N   N   N   Line out of use (temporarily) until 09
+                                                                                                                                     May 2015
+                                                                                                                                     NC/G1/2011/LNE/STNC/002
+LN762    YDS    St Catherines Jn – Decoy South Jn (St            15    17    15   71     N        N   N   N      N   N   N   N   N
+                Catherines Curve)
+LN764    UDS    Low Ellers Curve Jn – Potteric Carr Jn           15    55    16   56     N        N   N   N      N   N   N   N   N
+LN766    HJB    Bentley Jn – Hexthorpe Jn (Doncaster Avoiding     3    24     0   00     N        N   N   Y      Y   Y   Y   Y   N
+                Line)
+LN768    PSE    Route Boundary (LN3273) (Mansfield) –           143    00   154   30     N        N   N   Y      Y   Y   Y   Y   N
+                Shireoaks East Jn
+LN772    SWP    Warsop Jn – Shirebrook Jn                         0    00     0   45     N        N   Y   N      N   N   N   N   N
+LN774    BAC2   Barrow Hill North Jn – Seymour Jn SB            149    53   152   21     N        N   N   N      N   N   N   N   N
+LN774    BAC3   Seymour Jn SB – Oxcroft Disposal Point          155    06     0   78     N        N   N   N      N   N   N   N   N
+LN776    HLF1   Hall Lane Jn – Change of ELR                      0    44     0   00     N        N   N   N      N   N   N   N   N
+LN776    HLF2   Change of ELR – Foxlow Jn                       150    47   150   64     N        N   N   N      N   N   N   N   N
+LN778    BOC1   Seymour Jn – Bolsover                             7    51     5   21     N        N   N   N      N   N   N   N   N   Line out of use between Site of former
+                                                                                                                                     Markham Colliery Jn and Bolsover
+                                                                                                                                     NC/G1/2010/LNE/020V
+LN782    SHW    Woodend Jn – Shireoaks West Jn                  153    71   154   36     N        N   N   N      N   N   N   N   N
+LN784    HIM    High Marnham – Thoresby Colliery Jn              27    48    17   16     N        N   N   Y      N   N   N   N   N
+LN784    HIM    Thoresby Colliery Jn – Warsop Jn                 17    16    10   59     N        N   N   Y      N   N   N   N   N
+LN784    HIM    Warsop Jn – Shirebrook South Jn                  10    59    10   19     N        N   N   Y      N   N   N   N   N
+LN784    HIM    Shirebrook South Jn – Shirebrook East Jn         10    19     9   72     N        N   N   Y      N   N   N   N   N
+LN786    BEC    Boughton Jn – Network Rail Boundary               0    00     4   22     N        N   N   N      N   N   N   N   N   Line out of use from 01m 0ch to
+                (Bevercotes Colliery)                                                                                                Network Rail Boundary (Bevercotes
+                                                                                                                                     Colliery)
+                                                                                                                                     LN213/PJ1037
+LN788    TYC    Thoresby Colliery Jn – Thoresby Colliery          0    00     0   42     N        N   N   N      N   N   N   N   N
 
 
- October 2009                                                                              25B
+
+
+October 2009                                                                              13

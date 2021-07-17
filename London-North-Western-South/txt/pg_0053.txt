@@ -1,61 +1,69 @@
-                                                             OFFICIAL
+                                                          OFFICIAL
 LNW South Route Sectional Appendix Module LNW(S)1
 
 
 
 
-Explanation of Table A terms and symbols
-Index & Key To Symbols
-Unless indicated otherwise all information is shown with the Down direction being down the page and the Up direction
-being up the page.
-Location Column
-Station names are shown in CAPITALS.
-Ground Frames are indicated by the letters GF, Emergency Ground Frames by the letters EGF, Ground Switch Panels by
-the letters GSP, and Shunt Frames by the letters SF. Where trains may be shut in, a letter “S” in a circle is shown.
-Level crossings are indicated by the letters LC and one of the abbreviations below, following the name of the crossing:
+5.        Modes of Operation
+ATP has seven modes of operation which have the following meaning :-
+Self Test                    An automatic, computer-driven test of the trainborne ATP equipment.
+Data Entry                   The setting up of trainborne ATP equipment to input the individual characteristics of the
+                             train.
+Full Supervision             Provides supervision of train speed to within the braking curve for conditions which exist
+                             ahead (restrictive signals, buffer stops, speed changes etc.), also protects against trains
+                             rolling away.
+Partial Supervision          Available providing Data Entry has been properly carried out, but where track data is not
+                             provided. Also applies when it is necessary to pass a signal at danger, enter an occupied
+                             section, make a reversal or after a recoverable fault.
+Shunt                        Used for slow speed movements, especially where train formation is likely to vary. Train
+                             speed is supervised to 20 mph.
+Temporary Isolation          Used when passing consecutive signals at Danger, also when assisting a failed train.
+Non-Recoverable Fault        Will require the train borne equipment to be (‘Fxx’) completely isolated.
+Recoverable Fault            Temporary removal of Full Supervision pending (‘Exx’) detection of correct lineside data.
+
+6.        Faults and failures - categories
+Failures of the ATP system are categorised into three levels. These are:-
+Level 1                       ‘Wrong Side’ failure where no speed target is displayed under restrictive circumstances, or
+                              where the target speed displayed is higher than it should be.
+Level 2                        ‘Right Side’ failures - non recoverable fault affecting trainborne equipment. These are
+                              identified by an alpha-numeric code in the main cab display window.
+Level 3                        ‘Right Side’ - recoverable failures of lineside equipment identified by an alpha-numeric code
+                              in the main cab display window.
+(see Driver’s Manual for full explanation of fault codes).
+
+7.        Faults and failures - immediate actions
+In the event of any fault or failure being apparent affecting ATP equipment, suitable action must be taken as shown in the
+following table. All concerned must ensure that the correct FAULT CATEGORY, as defined in Clause 6, is quoted on each
+occasion.
+LEVEL 1                                        LEVEL 2                              LEVEL 3
+WRONG SIDE FAILURE                             RIGHT SIDE FAILURE NON-              RIGHT SIDE
+                                               RECOVERABLE                          FAILURERECOVERABLE
+Driver stops train at next practicable         Driver stops train at next           Fault should not be reported where a
+signal.                                        practicable location.                notice has been issued showing a
+Driver isolates ATP if fault is non            Driver isolates ATP.                 temporary disconnection of the ATP
+recoverable.                                   Driver informs Signaller.            lineside equipment at that location.
+Driver informs Signaller.                      Signaller informs Network Rail       Driver should only advise the Signaller
+Signaller informs Network Rail Control and     Control.                             if delay has been incurred.
+gets a fault logged with the NR                Network Rail Control informs the
+Infrastructure Controller.                     appropriate TOC Control.
+Network Rail Control informs the
+appropriate TOC Controls and the NR
+Infrastructure Controller.
+Signaller advises Drivers of all subsequent
+ATP-fitted trains of the circumstances and
+instructs them to disregard the ATP
+indications in the area concerned. This
+cautioning must continue until ATP track
+equipment has been declared in order.
+Faults and failures affecting ATP equipment must be reported fully and promptly. Failure to do so may cause essential data
+concerning performance of the equipment to be lost. Reporting of LEVEL 1 faults to the Signaller ensures that subsequent
+Drivers are suitably advised that the ATP may be unreliable at a specific location. It will also ensure that the on-train
+equipment is investigated without delay.
+8.        Faults and failures - subsequent actions
+Drivers must complete an ATP Report Form at the end of the journey (or when relieved if sooner) as shown below, whether
+or not they had previously reported the fault verbally as instructed in Clause 7.
 
 
-    •         Crossings operated by a Signaller or Crossing Keeper
-        MCG           Manned Level Crossing (gates) operated locally by a signaller or crossing keeper
-        MCB           Manned Level Crossing (full barriers) operated locally by a signaller or crossing keeper
-        CCTV          Manual Level Crossing (full barriers) remotely supervised via closed circuit television
-        RC            Manual Level Crossing (full barriers) remotely controlled
-        OD            Manual Level Crossing (full barriers) normally automatically operated with obstacle detection
 
 
-    •         Automatic Crossings
-        AHBC          Automatic Half-Barrier crossing – monitored by signaller
-        ABCL          Automatic Barrier Crossing - road warning lights and barriers monitored by train crew
-        R/G           Miniature Red/Green Warning Lights (including Miniature Stop Lights)
-        AOCL          Automatic Open Crossing - road warning lights monitored by train crew
-        AOCL+B        Automatic Open Crossing (half barriers) monitored by train crew. The rules applicable
-                      to ABCL level crossings apply to this type of crossing.
-
-
-X shown after the above abbreviations for level crossing type (e.g. AHBC-X, AOCL-X) indicates that the crossing
-concerned works automatically for movements in the wrong direction.
-
-
-    •         Other crossings
-        TMO           Train Crew Operated
-        OPEN          Open crossing without road warning lights
-        UWC           User Worked Crossing
-        UWB           Crossing with User Worked Barriers
-        [T]           Accommodation / occupation crossing equipped with telephone.
-        UI            Accommodation/occupation or footpath level crossing equipped with User Information equipment
-        BW            Bridleway Crossing
-
-
-Token Exchange Points on “Radio Electronic Token Block” lines and “No Signaller Token with Remote Crossing Loops”
-lines are identified by the letters - TEP.
-Overhead Line Neutral Sections are indicated by the letters OHNS.
-Mileage Column
-Mileage is shown in miles and chains. (1 mile = 1760 yards / 1.6 km, 1 chain = 22 yards / 20.11 metres)
-Where the lineside mileage changes, the entry is shown:
-                                                     47 02
-                                                      0 00
-
-
-
-
-December 2009                                                     43
+December 2009                                                 29

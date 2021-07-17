@@ -1,22 +1,26 @@
-London-North-Eastern	1228	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1228	LN736	MAC3	Thrumpton West Jn (Up)	Manton Wood	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	8	Y	
-London-North-Eastern	1228	LN736	MAC3	Manton Wood	Brancliffe East Jn	Manton Wood – Brancliffe East Jn	58	54	53	57	8	Y	
-London-North-Eastern	1228	LN736	MAC3	Brancliffe East Jn	Woodburn Jn	Brancliffe East Jn – Woodburn Jn	53	57	42	29	8	Y	
-London-North-Eastern	1228	LN736	NUJ2	Woodburn Jn	Site of Former Nunnery Jn	Woodburn Jn – Site of Former Nunnery Jn	42	29	41	68	8	Y	
-London-North-Eastern	1228	LN736	NUJ1	Site of Former Nunnery Jn	Nunnery Main Line Jn	Site of Former Nunnery Jn – Nunnery Main Line Jn	159	33	158	77	8	Y	
-London-North-Eastern	1228	LN738	MWN	Great Coates No. 1	Network Rail Boundary (ABP)	Great Coates No. 1 – Network Rail Boundary (ABP)	108	34	108	44	8	Y	
-London-North-Eastern	1228	LN740	MWN	Marsh West Jn	Network Rail Boundary (ABP)	Marsh West Jn – Network Rail Boundary (ABP)	107	69	108	44	8	Y	
-London-North-Eastern	1228	LN740	PYE2	Network Rail Boundary (ABP)	Site of Former Queens Road Jn	Network Rail Boundary (ABP) – Site of Former Queens Road Jn	4	33	0	00	8	Y	
-London-North-Eastern	1228	LN740	PYE1	Site of Former Queens Road Jn	Immingham East Jn	Site of Former Queens Road Jn – Immingham East Jn	106	50	106	31	8	Y	
-London-North-Eastern	1228	LN740	BRI2	Immingham East Jn	Humber Road Jn	Immingham East Jn – Humber Road Jn	106	31	104	05	8	Y	
-London-North-Eastern	1228	LN741	HAU	Habrough	Ulceby South Jn	Habrough – Ulceby South Jn	0	32	1	45	8	Y	
-London-North-Eastern	1228	LN742	KIL2	Killingholme	Immingham West Change of Mileage	Killingholme – Immingham West Change of Mileage	2	70	0	00	8	Y	
-London-North-Eastern	1228	LN742	KIL1	Immingham West Change of Mileage	Humber Rd Jn	Immingham West Change of Mileage – Humber Rd Jn	105	10	104	05	8	Y	
-London-North-Eastern	1228	LN742	BRI2	Humber Rd Jn	Ulceby North Jn	Humber Rd Jn – Ulceby North Jn	104	05	100	44	8	Y	
-London-North-Eastern	1228	LN742	BRI1	Ulceby North Jn	Brocklesby West Jn	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	8	Y	
-London-North-Eastern	1228	LN744	BAR	Ulceby North Jn	Barton on Humber	Ulceby North Jn – Barton on Humber	100	44	110	18	8	Y	
-London-North-Eastern	1228	LN746	TYB1	Cottam Power Station	Clarborough Jn	Cottam Power Station – Clarborough Jn	71	79	68	32	8	Y	
-London-North-Eastern	1228	LN748	WHR	Retford Western Jn	Thrumpton West Jn	Retford Western Jn – Thrumpton West Jn	64	29	63	28	8	Y	
-London-North-Eastern	1228	LN750	MAC3	Woodburn Jn	Deepcar	Woodburn Jn – Deepcar	42	29	33	35	8	Y	
-London-North-Eastern	1228	LN752	DOW	Wrawby Jn	Marshgate Jn	Wrawby Jn – Marshgate Jn	33	34	0	03	8	R1	R1 Prohibited Scunthorpe Up bay platform
-London-North-Eastern	1228	LN754	SAN	Scunthorpe Foreign Ore Branch	0	Scunthorpe Foreign Ore Branch – 0	0	00	1	16	10	Y	
+London-North-Eastern	1228	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1228					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Eastern	1228	LN736	West Burton East Jn to West Burton West Jn East End Reception & Departure Lines	West Burton East Jn	West Burton West Jn East End Reception & Departure Lines	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1228	LN736	West Burton East Jn – West Burton West Jn West End Reception & Departure Lines	West Burton East Jn	West Burton West Jn West End Reception & Departure Lines	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1228	LN738	Great Coates No. 1 – Union Dock	Great Coates No. 1	Union Dock	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1228	LN740	Grimsby, Marsh West Jn – Humber Road Jn	Grimsby, Marsh West Jn	Humber Road Jn	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1228	LN740	Immingham East Jn – Immingham NR/ABP Boundary [ 106m 50ch ]	Immingham East Jn	Immingham NR/ABP Boundary [ 106m 50ch ]	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1228	LN741	Habrough Jn – Ulceby South Jn	Habrough Jn	Ulceby South Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1228	LN742	Killingholme – Brocklesby East & West Jns	Killingholme	Brocklesby East & West Jns	Y	Y	Y	N	N	Y	N	Y
+London-North-Eastern	1228	LN744	Ulceby North Jn – Barton On Humber	Ulceby North Jn	Barton On Humber	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN746	Cottam Power Station Branch	Cottam Power Station Branch		Y	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN748	Retford Western Jn – Thrumpton West Jn	Retford Western Jn	Thrumpton West Jn	Y	Y	Y	Y	N	N	N	N
+London-North-Eastern	1228	LN750	Woodburn Jn – Deepcar	Woodburn Jn	Deepcar	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN752	Wrawby Jn – Marshgate Jn	Wrawby Jn	Marshgate Jn	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1228	LN754	Scunthorpe Foreign Ore Branch	Scunthorpe Foreign Ore Branch		Y	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN756	Scunthorpe Trent Jn – Roxby	Scunthorpe Trent Jn	Roxby	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1228	LN758	Brancliffe East Jn – St Catherine's Jn [ 14m 62ch ]	Brancliffe East Jn	St Catherine's Jn [ 14m 62ch ]	Y	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Brancliffe East Jn and Dinnington Jn
+London-North-Eastern	1228	LN758	St Catherine's Jn [ 14m 62ch ] – Low Ellers Curve Jn [ 15m 55ch ]	St Catherine's Jn [ 14m 62ch ]	Low Ellers Curve Jn [ 15m 55ch ]	Y	Y	Y	Y	N	N	N	N
+London-North-Eastern	1228	LN758	Low Ellers Curve Jn [15m 55ch] – Kirk Sandall Jn	Low Ellers Curve Jn [15m 55ch]	Kirk Sandall Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN758	Maltby Colliery Branch	Maltby Colliery Branch		Y	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN760	Firbeck Jn –– Harworth Colliery	Firbeck Jn	– Harworth Colliery	Y	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN762	St. Catherines Jn – Decoy South Jn (St. Catherine's Curve)	St. Catherines Jn	Decoy South Jn (St. Catherine's Curve)	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1228	LN764	Low Ellers Curve	Low Ellers Curve		Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1228	LN766	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	Bentley Jn	Hexthorpe Jn (Doncaster Avoiding Line)	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1228	LN768	Mansfield Woodhouse – Shireoaks East Jn	Mansfield Woodhouse	Shireoaks East Jn	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1228	LN772	Warsop Jn – Shirebrook Jn	Warsop Jn	Shirebrook Jn	Y	N	N	N	N	N	N	N

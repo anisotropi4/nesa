@@ -1,46 +1,47 @@
                                                                                     OFFICIAL
 
 
-                                                                    LNE Route Sectional Appendix Module LNRC
+                                                                 LNE Route Sectional Appendix Module LNRC
 
 
 
-Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo RA       60   66   67        68     70   73 97/3    Notes
-route           Description                              M    Ch M Ch               0000 0000 0000             0000 0000 0000
-LN126    DCF    Hitchin North Jn – Hitchin East Jn       32   53    34   05    9     Y         Y   Y     Y      Y    Y    Y
-LN135    EMP    Route Boundary (EA1560) (Ely West        98   40   100   66    9     Y         Y   Y     Y      Y    Y    Y
-                Jn) – Crescent Jn
-LN147    PMJ    Helpston Jn – Route Boundary             16   71    13   60    9     Y         Y   Y     Y      Y    Y    Y
-                (LN3615)
-LN150    SPD5   Flyover East – Decoy North Jn           116   20   117   46    8     Y         Y   Y     Y      Y    Y    Y
-LN155    LCJ    Flyover East Jn – Loversall Jn (Up      152   79   152   36    8     Y         Y   Y     Y      Y    Y    Y
-                Loversall Curve)
-LN160    LCR    Loversall Carr Jn – Rossington Colliery 152   00   152   12    8     Y         Y   Y     Y      Y    Y    Y
-                Jn
-LN160    FWR1 Rossington Colliery Jn – Flyover West 152       12   153   19    8     Y         Y   Y     Y      Y    Y    Y
-              Jn
-LN165    HPW    Route Boundary (EA1370) (Harringay        0   14    0    03    9     Y         Y   Y     Y      Y    Y    Y
-                Park Jn) – Harringay Jn
-LN170    WEB    Werrington Jn – Site of Former           79   34    92   58    8     Y         Y   Y     Y      Y    Y    Y
-                Spalding South Jn
-LN170    SPD1   Site of Former Spalding South Jn –       44   07    62   14    8     Y         Y   Y     Y      Y    Y    Y
-                Sleaford South Jn
-LN170    SPD2   Sleaford South Jn – Sleaford North Jn    62   14    63   48    8     Y         Y   Y     Y      Y    Y    Y
-LN170    SPD2   Sleaford North Jn – Site of Former       63   48    81   25    8     Y         Y   Y     Y      Y    Y    Y
-                Greetwell West Jn
-LN170    SPD3   Site of Former Greetwell West Jn –       81   25    98   56    8     Y         Y   Y     Y      Y    Y    Y
-                Trent East Jn
-LN170    MAC3 Trent East Jn – Trent West Jn              73   25    73   11    8     Y         Y   Y     Y      Y    Y    Y
-LN170    SPD4   Trent West Jn – Bessacarr Jn             98   68   115   72    8     Y         Y   Y     Y      Y    Y    Y
-LN170    SPD5   Bessacarr Jn – Doncaster, Flyover       115   72   116   20    8     Y         Y   Y     Y      Y    Y    Y
-                East Jn
-LN175    SSE    Sleaford South Jn – Sleaford East Jn      0   00    0    43    8     Y         Y   Y     Y      Y    Y    Y
-LN180    SNW    Sleaford West Jn – Sleaford North Jn      1   34    3    42    8     Y         Y   Y     Y      Y    Y    Y
-LN185    ABE1   Allington West Jn – Site of Former        0   00    4    08    8     Y         Y   Y     Y      Y    Y    Y
-                Barkston East Jn
-LN185    GRS1 Barkston East Jn – Site of Former         110   12   112   00    8     Y         Y   Y     Y      Y    Y    Y
-              Honington Jn
+Line of ELR    Line of Route / Sector Description         oooo oooo oooo oooo RA 37/5 37/7 43 47/2 47/4 47/7 56 57 58 59                  Notes
+route                                                      M    Ch M Ch 000 000 37/9 000 000 000 000 000 000 000 000
+                                                                                            000
+
+LN185 GRS2     Sleaford West Jn – Sleaford East Jn        120   29   121   21   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN185 GRS2     Sleaford East Jn – Site of Former Boston   121   21   137   06   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+               Sleaford Line Jn
+LN185 GRS3     Site of Former Boston Sleaford Line Jn –   106   70   107   24   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+               Boston
+LN185 GRS3     Boston – Site of Former Firsby East Jn     107   24   122   22   7      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN185 GRS4     Site of Former Firsby East Jn - Skegness     0   28    9    17   7     R1    R1     R1   R1   R1   R1   R1   R1   R1   R1 R1   Prohibited Skegness platform 7
+                                                                                                   R2                                    R2   Prohibited Skegness platforms 3
+                                                                                                                                              and 6
+LN190 ACD      Allington East Jn – Allington North Jn       0   00    0    25   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+               (Allington Chord)
+LN195 NOG1 Nottingham Branch Jn – Route Boundary          106   08   111   60   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+           (LN3635) (Rectory Jn SB)
+LN200 NOB3     Wrawby Jn – Pelham Street Jn                12   55    41   26   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN206 NOB1     Route Boundary (LN3625) (Nottingham East    16   02    32   00   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+               Jn) – Coulson Change of ELR
+LN206 NOB2     Coulson Change of ELR – Boultham Jn         32   00    32   40   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN206 NOB2     Boultham Jn – West Holmes Jn                32   40    32   70   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN210 NSE      Newark Crossing South Jn – Newark            0   00    0    21   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+               Crossing East Jn
+LN215 BHP      Boultham Jn – Pyewipe Jn                     0   00    0    65   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN220 BCB      Bessacarr Jn – Black Carr Jn               115   72   116   44   8      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN235 FWR1 Rossington Colliery Jn – End of Line           152   12   151   69   9      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN235 FWR2 Rossington Colliery – End of Line              153   31   151   69   9      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN600 ECM2 Shaftholme Jn – Temple Hirst Jn                160   16   169   16   9      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN600 ECM3 Temple Hirst Jn – Colton Jn                    169   16   182   79   10     Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN600 ECM4 Colton Jn – Colton North Jn                    182   79   183   65   9      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN600 ECM4 Colton North Jn – York Station                 183   65   188   40   9      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+LN600 ECM5 York Station – Birtley Jn                        0   00    75   26   9*     Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+           *         York platform 2 RA3, platform 4
+           RA8 and platform 5 RA8
+LN600 ECM5 Birtley Jn – Low Fell Jn (including via Tyne    75   26    77   37   9      Y       Y   Y    Y    Y    Y    Y    Y    Y    Y
+           Yard)
 
 
-
-October 2009                                                                             63
+October 2009                                                                           59

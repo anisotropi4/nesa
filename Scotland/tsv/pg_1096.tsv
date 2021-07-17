@@ -1,16 +1,10 @@
 Scotland	1096	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1096					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-Scotland	1096	SC171	Princes Street Gardens – Haymarket Central Jn	Princes Street Gardens	Haymarket Central Jn	Y *	Y	R1	R1	N	N	N	N	R1 W8 W9 Prohibited both Lines Haymarket North Tunnel
-Scotland	1096	SC171	Haymarket West Jn – Thornton North Jn	Haymarket West Jn	Thornton North Jn	Y *	Y	N	N	N	N	N	N	
-Scotland	1096	SC171	Thornton North Jn – Ladybank Jn	Thornton North Jn	Ladybank Jn	Y *	Y	Y	N	N	N	N	N	
-Scotland	1096	SC171	Ladybank Jn – Dundee	Ladybank Jn	Dundee	Y *	Y	N	N	N	N	N	N	
-Scotland	1096	SC173	Inverkeithing Central Jn – Thornton North Jn (via Cowdenbeath)	Inverkeithing Central Jn	Thornton North Jn (via Cowdenbeath)	Y *	Y	Y	N	N	N	N	N	
-Scotland	1096	SC175	Rosyth Dockyard – Inverkeithing South Jn (Goods Line)	Rosyth Dockyard	Inverkeithing South Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
-Scotland	1096	SC176	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Y	Y	N	N	N	N	N	N	
-Scotland	1096	SC177	Thornton North Jn – Methil Power Station (Goods Line)	Thornton North Jn	Methil Power Station (Goods Line)	Y	N	N	N	N	N	N	N	
-Scotland	1096	SC178	Thornton South Jn – Thornton West Jn	Thornton South Jn	Thornton West Jn	Y	Y	N	N	N	N	N	N	
-Scotland	1096	SC181	Ladybank Jn – Hilton Jn	Ladybank Jn	Hilton Jn	Y	Y	Y	N	N	N	N	N	
-Scotland	1096	SC183	Stirling Middle Jn – (Kincardine (Clackmannan) Jn)	Stirling Middle Jn	(Kincardine (Clackmannan) Jn)	Y	Y	Y	Y	N	N	N	N	
-Scotland	1096	SC183	(Kincardine (Clackmannan) Jn) – Charlestown Jn	(Kincardine (Clackmannan) Jn)	Charlestown Jn	Y	N	N	N	N	N	N	N	
-Scotland	1096	SC185	Elbowend Jn – Crombie RNAD (Goods Line)	Elbowend Jn	Crombie RNAD (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1096	SC187	Glencraig GF – Bowhill (Goods Line)	Glencraig GF	Bowhill (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1096					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+Scotland	1096	SC001	Newton East Jn – Newton West Jn via South Connecting Line,Newton Station and North Connecting Line	Newton East Jn	Newton West Jn via South Connecting Line,Newton Station and North Connecting Line	Y	Y	Y	Y	N	Y	N	N
+Scotland	1096	SC003	Carstairs South Jn – Haymarket East Jn	Carstairs South Jn	Haymarket East Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford Jn to Haymarket East Jn
+Scotland	1096	SC005	Carstairs Station Jn – Carstairs East Jn	Carstairs Station Jn	Carstairs East Jn	Y	Y	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED Carstairs platform 1 R2 PROHIBITED Carstairs platform 2 R3 PROHIBITED Carstairs Through Siding
+Scotland	1096	SC007	Midcalder Jn – Holytown Jn	Midcalder Jn	Holytown Jn	Y *	R1	S1	N	N	N	N	N	R1 W7 15mph on Up Line Br.59 Shotts Station [8m 38ch] S1 The following combinations are permitted: 2590 high x 2500 wide box on FSA/FTA KFA wagons. All lines 2590 high x 2550 wide box on FEA FSA/FTA KFA wagons All lines 2896 high x 2500 wide box on FLA wagons Down line ONLY 2896 high x 2500 wide box on FLA wagons Up line 15 mph at Br 59 Shotts Station [08m 38ch]
+Scotland	1096	SC009	Lanark – Lanark Jn	Lanark	Lanark Jn	Y *	N	N	N	N	N	N	N
+Scotland	1096	SC011	Law Jn – Uddingston Jn (via Holytown)	Law Jn	Uddingston Jn (via Holytown)	Y *	Y	Y	Y	N	Y	N	N
+Scotland	1096	SC013	Wishaw Central Jn – Shieldmuir Jn	Wishaw Central Jn	Shieldmuir Jn	Y	Y	Y	Y	N	Y	N	N
+Scotland	1096	SC015	Mossend East Jn – Mossend North Jn (North Curve)	Mossend East Jn	Mossend North Jn (North Curve)	Y	Y	Y	Y	N	Y	N	N

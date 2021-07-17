@@ -1,12 +1,11 @@
-London-North-Eastern	1237	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1237	LN920	AWP	Anlaby Road Jn	West Parade North Jn	Anlaby Road Jn – West Parade North Jn	0	00	0	24	8	Y	
-London-North-Eastern	1237	LN922	TJC3	Whitehall West Jn	Skipton	Whitehall West Jn – Skipton	195	57	221	01	8	R1 R2	R1 Prohibited between the connection to the Kirkstall Loop and Apperley Jn on the Up Shipley Main line R2 Prohibited between Keighley Station Jn and Steeton & Silsden on the Up Shipley Main line
-London-North-Eastern	1237	LN922	TJC3	Skipton	Site of Former Skipton North Jn Change of ELR	Skipton – Site of Former Skipton North Jn Change of ELR	221	21	221	68	8	Y	
-London-North-Eastern	1237	LN922	SKW1	Site of Former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of Former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	8	Y	
-London-North-Eastern	1237	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	7	R1	R1 Prohibited Guiseley Down platform
-London-North-Eastern	1237	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	7	Y	
-London-North-Eastern	1237	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	5	Y	
-London-North-Eastern	1237	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	8	Y	
-London-North-Eastern	1237	LN930	SKS1	Skipton Middle	Site of Former Embsay Jn	Skipton Middle – Site of Former Embsay Jn	222	68	220	64	8	Y	
-London-North-Eastern	1237	LN930	SKS2	Site of Former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of Former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	8	Y	
-London-North-Eastern	1237	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	8	Y	
+London-North-Eastern	1237	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1237					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Eastern	1237	LN3258	Bestwood Park Jn – Calverton Colliery	Bestwood Park Jn	Calverton Colliery	Y	N	N	N	N	N	N	N
+London-North-Eastern	1237	LN3261	Trent South Jn – Toton South Jn (High Level Lines)	Trent South Jn	Toton South Jn (High Level Lines)	Y *	Y	N	N	N	N	N	N
+London-North-Eastern	1237	LN3264	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1237	LN3270	Codnor Park Jn – Ironville Jn GF	Codnor Park Jn	Ironville Jn GF	-	-	-	-	-	-	-	-	Section now classified as a siding and subsumed by LN3207
+London-North-Eastern	1237	LN3273	Codnor Park Jn – Shirebrook Jn	Codnor Park Jn	Shirebrook Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1237	LN3340	Alrewas (Inclusive) – Wichnor Jn	Alrewas (Inclusive)	Wichnor Jn	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1237	LN3501	Derby London Road Jn – Tamworth (Exclusive)	Derby London Road Jn	Tamworth (Exclusive)	Y *	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED Derby London Road Jn to Stenson Jn R2 PROHIBITED from New Wetmore Sidings R3 PROHIBITED from Central Rivers Depot
+London-North-Eastern	1237	LN3505	North Stafford Jn – Stoke Jn (Exclusive)	North Stafford Jn	Stoke Jn (Exclusive)	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1237	LN3515	Melbourne Jn – Sinfin	Melbourne Jn	Sinfin	Y	N	N	N	N	N	N	N

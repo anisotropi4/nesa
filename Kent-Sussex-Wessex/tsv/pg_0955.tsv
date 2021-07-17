@@ -1,15 +1,22 @@
-Kent-Sussex-Wessex	0955	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	0955					W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
-Kent-Sussex-Wessex	0955	SO130	St Johns Jn – Lewisham (exclusive) (SO300)	St Johns Jn	Lewisham (exclusive) (SO300)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO130	Parks Bridge Jn – Ladywell Jn (exclusive) (Ladywell Loop)	Parks Bridge Jn	Ladywell Jn (exclusive) (Ladywell Loop)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO130	Courthill Loop Jn North (exclusive) – Courthill Loop Jn South (SO330)	Courthill Loop Jn North (exclusive)	Courthill Loop Jn South (SO330)	Y	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO130	Chislehurst: Reversible and Up Chatham Loops	Chislehurst: Reversible and Up Chatham Loops		Y *	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO130	Saltwood Jn – Continental Jn (NR / Eurotunnel interface)	Saltwood Jn	Continental Jn (NR / Eurotunnel interface)	Y	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO130	Lee Spur Jn – Lee Loop Jn (SO310)	Lee Spur Jn	Lee Loop Jn (SO310)	Y	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO140	Swanley – Ashford	Swanley	Ashford	Y *	Y	Y	S1	N	N	N	N	S1 The following combinations are permitted, up to: 2770 (h) x 2550 (w) box on FIA IFA wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2553 (h) x 2500 (w) box on IFB wagons All Lines
-Kent-Sussex-Wessex	0955	SO140	Otford – Sevenoaks	Otford	Sevenoaks	Y	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO150	Sittingbourne Western Jn – Sheerness-on- Sea	Sittingbourne Western Jn	Sheerness-on- Sea	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO150	Sittingbourne Eastern Jn – Sittingbourne Middle Jn	Sittingbourne Eastern Jn	Sittingbourne Middle Jn	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO160	Faversham – Dover Priory	Faversham	Dover Priory	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0955	SO170	Tonbridge – Mountfield Tunnel (inclusive)	Tonbridge	Mountfield Tunnel (inclusive)	Y *	S	N	N	N	N	N	N	S1 The following combination is permitted, up to: 2438 (h) x 2438 (w) box on KFA wagons 25 mph Br TTH-103 Castle Farm [51m 37ch]
-Kent-Sussex-Wessex	0955	SO170	Mountfield Tunnel (exclusive) – Bo Peep Jn	Mountfield Tunnel (exclusive)	Bo Peep Jn	S *	N	N	N	N	N	N	N	S1 The following combinations are permitted, up to: 2438 (h) x 2438 (w) box on FEA wagons 25 mph Up Line Br. TTH-114 Whatlington B [53m 79ch]
+Kent-Sussex-Wessex	0955	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Kent-Sussex-Wessex	0955	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	7	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	7*	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	4	N	N	N	N	N	N
+Kent-Sussex-Wessex	0955	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	6	N	N	N	N	N	N
+Kent-Sussex-Wessex	0955	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	4	N	N	N	N	N	N
+Kent-Sussex-Wessex	0955	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	8	N	N	R1	N	N	N	R1 Prohibited Nuffield - Godstone Tip on the Up
+Kent-Sussex-Wessex	0955	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn – Eastbourne	21	39	23	75	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO600	WJB	Willingdon Jn	Connection - St Leonards LMD	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO600	WJB	Connection - St Leonards LMD	Bo Peep Jn	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	7	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	7	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0955	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn – Lewes	0	14	7	77	8	N	N	Y	N	N	N

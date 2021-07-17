@@ -1,14 +1,18 @@
-Scotland	1101	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1101	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn)	Lockerbie	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	10	Y	
-Scotland	1101	SC001	WCM1	Lockerbie	Law Jn	Lockerbie – Law Jn	25	66	84	08	10	Y	
-Scotland	1101	SC001	WCM2	Law Jn	Junction with Coatbridge lines (Lesmahagow Jn)	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	10	Y	
-Scotland	1101	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn)	Newton East Jn	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	8	Y	
-Scotland	1101	SC001	WCM2	Newton East Jn	Newton Hamilton Jn (SC0023) via South Connecting line	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting line	95	14	95	47	10	Y	
-Scotland	1101	SC001	WCM2	Newton Kirkhill Jn (SC0023)	Newton West Jn via North Connecting line	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting line	95	77	96	34	10	Y	
-Scotland	1101	SC001	WCM2	Newton East Jn	Newton West Jn	Newton East Jn – Newton West Jn	95	14	96	34	8	Y	
-Scotland	1101	SC001	WCM2	Newton West Jn	Rutherglen East Jn	Newton West Jn – Rutherglen East Jn	96	34	98	32	8	Y	
-Scotland	1101	SC001	WCM2	Rutherglen East Jn	Larkfield Jn	Rutherglen East Jn – Larkfield Jn	98	32	100	65	10	Y	
-Scotland	1101	SC001	WCM2	Larkfield Jn	Eglinton St Jn	Larkfield Jn – Eglinton St Jn	100	65	101	39	8	Y	
-Scotland	1101	SC001	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	
-Scotland	1101	SC001	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	
-Scotland	1101	SC003	ECA1	Carstairs South Jn	Carstairs East Jn	Carstairs South Jn – Carstairs East Jn	73	17	73	48	10	Y	
+Scotland	1101	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+Scotland	1101					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+Scotland	1101	SC119	Greenhill Lower Jn – Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn	Y	Y	Y	Y	N	N	N	N
+Scotland	1101	SC119	Carmuirs West Jn – Stirling Middle Jn	Carmuirs West Jn	Stirling Middle Jn	Y	Y	Y	N	N	N	N	N
+Scotland	1101	SC119	Stirling Middle Jn – Perth South Jn	Stirling Middle Jn	Perth South Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2500 wide box on FCA All Lines 2590 high x 2550 wide box on FKA IKA wagons All Lines Safeway refrigerated box on IKA FKA IFA FIA wagon 2896 high x 2500 wide box on FKA wagons Up Line 2675 high x 2550 wide box on FCA wagons Up Line 2896 high x 2600 wide box on IKA wagons Up line 30 mph at Br.66 [140m 09ch]
+Scotland	1101	SC119	Perth South Jn – Dundee Central Jn	Perth South Jn	Dundee Central Jn	Y *	Y	Y	N	N	N	N	N
+Scotland	1101	SC123	Bathgate – Airdrie	Bathgate	Airdrie	Y	Y	Y	Y	N	Y	N	N
+Scotland	1101	SC123	Airdrie – Sunnyside Jn	Airdrie	Sunnyside Jn	Y	Y	N	N	N	N	N	N
+Scotland	1101	SC123	Sunnyside Jn – High Street Jn	Sunnyside Jn	High Street Jn	Y *	Y	Y	N	N	N	N	N
+Scotland	1101	SC123	High Street Jn – Knightswood North Jn	High Street Jn	Knightswood North Jn	Y *	Y	N	N	N	N	N	N
+Scotland	1101	SC123	Knightswood North Jn – Craigendoran Jn	Knightswood North Jn	Craigendoran Jn	Y *	Y	Y	N	N	N	N	N
+Scotland	1101	SC123	Craigendoran Jn – Helensburgh Central	Craigendoran Jn	Helensburgh Central	Y *	N	N	N	N	N	N	N
+Scotland	1101	SC125	Hyndland East Jn – Dalmuir (via Yoker)	Hyndland East Jn	Dalmuir (via Yoker)	Y *	Y	N	N	N	N	N	N
+Scotland	1101	SC127	Sunnyside Jn – Gunnie Yard Goods Line) (OOU)	Sunnyside Jn	Gunnie Yard Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1101	SC129	Springburn – Bellgrove Jn	Springburn	Bellgrove Jn	Y	Y	Y	N	N	N	N	N
+Scotland	1101	SC129	Sighthill East Jn – Glasgow Works (Springburn) (Railcare Ltd)	Sighthill East Jn	Glasgow Works (Springburn) (Railcare Ltd)	Y *	N	N	N	N	N	N	N
+Scotland	1101	SC131	High Street Jn – Shields Jn	High Street Jn	Shields Jn	Y *	Y	Y	N	N	N	N	N
+Scotland	1101	SC133	Westerton Jn – Milngavie	Westerton Jn	Milngavie	Y *	Y	N	N	N	N	N	N

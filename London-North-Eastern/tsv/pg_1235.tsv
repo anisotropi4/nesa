@@ -1,21 +1,25 @@
-London-North-Eastern	1235	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1235	LN880	YMS	Commencement of single line section @ 0m 18ch to Scarborough (Platforms 1 to 5)	Scarborough (Platforms 1 to 5)	Commencement of single line section @ 0m 18ch to Scarborough (Platforms 1 to 5) – Scarborough (Platforms 1 to 5)	0	18	42	06	8	R1 R2 R3	R1 Prohibited Scarborough platform 3 R2 Prohibited Scarborough platform 4 R3 Prohibited Scarborough platform 5
-London-North-Eastern	1235	LN880	YMS	York (Platform 2 and maintenance sidings)	Connection to Up line	York (Platform 2 and maintenance sidings) – Connection to Up line	0	00	0	15	3	Y	
-London-North-Eastern	1235	LN882	WAG1	Wakefield Kirkgate West Jn	Calder Bridge Jn	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	8	Y	
-London-North-Eastern	1235	LN882	WAG1	Calder Bridge Jn	Crofton West Jn	Calder Bridge Jn – Crofton West Jn	48	28	49	40	8	Y	
-London-North-Eastern	1235	LN882	WAG1	Crofton West Jn	Knottingley West Jn	Crofton West Jn – Knottingley West Jn	49	40	58	20	8	Y	
-London-North-Eastern	1235	LN882	WAG1	Knottingley West Jn	Engine Shed Jn	Knottingley West Jn – Engine Shed Jn	58	20	73	52	8	Y	
-London-North-Eastern	1235	LN882	WAG2	Engine Shed Jn	Goole Potters Grange Jn	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	8	Y	
-London-North-Eastern	1235	LN884	OAJ	Oakenshaw South Jn	Oakenshaw Jn	Oakenshaw South Jn – Oakenshaw Jn	49	41	48	76	8	Y	
-London-North-Eastern	1235	LN886	TJC3	Monk Bretton	Oakenshaw South Jn	Monk Bretton – Oakenshaw South Jn	176	22	181	75	8	Y	
-London-North-Eastern	1235	LN886	OSC	Oakenshaw South Jn	Crofton East Jn	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	8	Y	
-London-North-Eastern	1235	LN888	KWS	Shaftholme Jn	Knottingley West Jn	Shaftholme Jn – Knottingley West Jn	68	75	58	20	9	Y	
-London-North-Eastern	1235	LN888	FKW	Knottingley West Jn	Ferrybridge North Jn	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	9	Y	
-London-North-Eastern	1235	LN892	PEF	Pontefract East Jn	Ferrybridge South Jn	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	8	Y	
-London-North-Eastern	1235	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	9	Y	
-London-North-Eastern	1235	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	8	Y	
-London-North-Eastern	1235	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	8	Y	
-London-North-Eastern	1235	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	8	Y	
-London-North-Eastern	1235	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	8	Y	
-London-North-Eastern	1235	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	8	Y	
-London-North-Eastern	1235	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	8	Y	
+London-North-Eastern	1235	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1235					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Eastern	1235	LN904	Hambleton South Jn – Hambleton West Jn	Hambleton South Jn	Hambleton West Jn	Y	Y	Y	Y	N	Y	N	Y
+London-North-Eastern	1235	LN906	Hambleton East Jn – Hambleton North Jn	Hambleton East Jn	Hambleton North Jn	Y	Y	Y	Y	N	Y	N	Y
+London-North-Eastern	1235	LN908	Selby West Jn – Canal Jn	Selby West Jn	Canal Jn	Y	Y	Y	Y	N	Y	N	Y
+London-North-Eastern	1235	LN910	Temple Hirst Jn – Selby South Jn	Temple Hirst Jn	Selby South Jn	Y	Y	Y	R1	N	R1	N	R1	R1 Prohibited from Selby South Up sidings
+London-North-Eastern	1235	LN912	Thorne Jn – Gilberdyke Jn	Thorne Jn	Gilberdyke Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1235	LN914	West Parade Jn (Hull) – West Parade North Jn	West Parade Jn (Hull)	West Parade North Jn	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA- U wagons
+London-North-Eastern	1235	LN914	West Parade North Jn – Seamer West Jn	West Parade North Jn	Seamer West Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN916	Hessle Road – Saltend	Hessle Road	Saltend	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1235	LN918	Springbank North Jn – Walton Street Jn	Springbank North Jn	Walton Street Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN920	Anlaby Road Jn – West Parade North Jn	Anlaby Road Jn	West Parade North Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN922	Whitehall West Jn – Hellifield South Jn	Whitehall West Jn	Hellifield South Jn	Y *	Y	N	N	N	N	N	N
+London-North-Eastern	1235	LN924	Apperley Jn – Ilkley	Apperley Jn	Ilkley	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN926	Dockfield Jn – Esholt Jn	Dockfield Jn	Esholt Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN928	Shipley East Jn – Bradford Forster Square	Shipley East Jn	Bradford Forster Square	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN930	Skipton Middle Jn – Rylstone	Skipton Middle Jn	Rylstone	Y	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN932	Shipley South Jn – Shipley West Jn	Shipley South Jn	Shipley West Jn	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN3140	Bedford St. John's (Exclusive) – Bedford Station	Bedford St. John's (Exclusive)	Bedford Station	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1235	LN3201	St. Pancras – Cricklewood	St. Pancras	Cricklewood	Y *	R1	R1	N	N	N	N	N	R1 W8 W7 Prohibited EXCEPT Up Hendon, Down Hendon between Cricklewood Curve Jn and West Hampstead North Jn
+London-North-Eastern	1235	LN3201	Cricklewood – Bedford	Cricklewood	Bedford	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1235	LN3201	Bedford – Wellingborough	Bedford	Wellingborough	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1235	LN3201	Wellingborough – Wigston Sth Jn	Wellingborough	Wigston Sth Jn	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S, IFA- U wagons
+London-North-Eastern	1235	LN3201	Wigston South Jn – Leicester	Wigston South Jn	Leicester	Y *	Y	R1	R1	N	R1	N	N	R1 PROHIBITED Wigston South Jn to Wigston North Jn
+London-North-Eastern	1235	LN3201	Leicester – Ratcliffe Jn	Leicester	Ratcliffe Jn	Y	Y	R1	R1	N	R1	N	N	R1 PROHIBITED Sytton South Jn to Ratcliffe Jn

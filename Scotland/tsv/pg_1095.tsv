@@ -1,17 +1,6 @@
 Scotland	1095	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1095					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-Scotland	1095	SC151	Portobello – Leith South Yard (Goods Line)	Portobello	Leith South Yard (Goods Line)	Y	Y	Y	N	N	N	N	N	
-Scotland	1095	SC153	Craigentinny – Powderhall (Goods Line)	Craigentinny	Powderhall (Goods Line)	Y	Y	N	N	N	N	N	N	
-Scotland	1095	SC155	Monktonhall Jn – Millerhill Yard (Goods Line)	Monktonhall Jn	Millerhill Yard (Goods Line)	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Millerhill Yard sidings
-Scotland	1095	SC157	Millerhill South Jn – Millerhill East Jn (Goods Line)	Millerhill South Jn	Millerhill East Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
-Scotland	1095	SC159	End of Line (former Bilston Br) – Millerhill South Jn (Goods Line)	End of Line (former Bilston Br)	Millerhill South Jn (Goods Line)	Y	N	N	N	N	N	N	N	
-Scotland	1095	SC159	Millerhill South Jn – Millerhill Yard Goods Line)	Millerhill South Jn	Millerhill Yard Goods Line)	Y	Y	Y	Y	N	N	N	N	
-Scotland	1095	SC161	Millerhill Yard – Portobello	Millerhill Yard	Portobello	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Nidrie South Jn to Portobello
-Scotland	1095	SC163	Portobello – Niddrie West	Portobello	Niddrie West	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1095	SC165	Niddrie South Jn – Niddrie West Jn	Niddrie South Jn	Niddrie West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1095	SC165	Niddrie West Jn – Craiglockhart Jn	Niddrie West Jn	Craiglockhart Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1095	SC165	Craiglockhart Jn – Gorgie Jn	Craiglockhart Jn	Gorgie Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1095	SC165	Gorgie Jn – Haymarket West Jn	Gorgie Jn	Haymarket West Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1095	SC167	Craiglockhart Jn – Slateford Jn	Craiglockhart Jn	Slateford Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford east sidings
-Scotland	1095	SC169	Gorgie Jn – Haymarket Central Jn	Gorgie Jn	Haymarket Central Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1095	SC171	Edinburgh Waverley – Princes Street Gardens	Edinburgh Waverley	Princes Street Gardens	Y *	R1	R1	R1	N	N	N	N	R1 W9 prohibited EXCEPT all through routes Edinburgh Waverley Station and Lines W & Z between Edinburh Waverley and Princes Street Gardens W9 W8 W7 prohibited Lines X & Y between Edinburh Waverley and Princes Street Gardens
+Scotland	1095					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+Scotland	1095	SC001	Gretna Jn – Law Jn (via Beattock)	Gretna Jn	Law Jn (via Beattock)	Y *	Y	Y	Y	N	Y	N	N
+Scotland	1095	SC001	Law Jn – Larkfield Jn	Law Jn	Larkfield Jn	Y *	Y	Y	Y	N	Y	N	N
+Scotland	1095	SC001	Larkfield Jn – Eglinton Street	Larkfield Jn	Eglinton Street	Y	Y	Y	N	N	N	N	N
+Scotland	1095	SC001	Eglinton Street – Glasgow Central	Eglinton Street	Glasgow Central	Y *	Y	N	N	N	N	N	N

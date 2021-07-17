@@ -1,25 +1,21 @@
 Scotland	1000	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
-Scotland	1000	SC175	RHD1	Change of ELR	Inverkeithing South Jn (Goods Line)	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N	N	
-Scotland	1000	SC176	IGE	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	N	N	N	N	N	N	
-Scotland	1000	SC177	MTL1	Thornton North Jn	Change of ELR	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	N	
-Scotland	1000	SC177	MTL2	Change of ELR	Methill Power Station (Goods Line)	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N	N	
-Scotland	1000	SC178	CWH3	Thornton South Jn	Thornton West Jn	Thornton South Jn – Thornton West Jn	35	38	34	62	N	N	N	N	N	H	
-Scotland	1000	SC181	CDC1	Ladybank Jn	Change of ELR	Ladybank Jn – Change of ELR	0	03	14	10	N	N	N	N	N	H	
-Scotland	1000	SC181	CDC2	Change of ELR	Hilton Jn	Change of ELR – Hilton Jn	44	18	45	66	N	N	N	N	N	H	
-Scotland	1000	SC183	SAA	Stirling Middle Jn	Change of ELR	Stirling Middle Jn – Change of ELR	0	00	8	14	N	N	N	N	N	N	
-Scotland	1000	SC183	KNE1	Change of ELR	Longannet	Change of ELR – Longannet	0	00	5	62	N	N	N	N	N	N	
-Scotland	1000	SC183	KNE1	Longannet	Change of ELR	Longannet – Change of ELR	5	62	14	14	N	N	N	N	N	N	
-Scotland	1000	SC183	KNE2	Change of ELR	Charlestown Jn	Change of ELR – Charlestown Jn	14	14	15	39	N	N	N	N	N	N	
-Scotland	1000	SC189	CRE	Westfield	Change of Mileage	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	
-Scotland	1000	SC189	CRE	Change of Mileage	Redford Jn (Goods Line)	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	
-Scotland	1000	SC191	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	N	N	H	
-Scotland	1000	SC191	ECN2	Dundee	Camperdown Jn	Dundee – Camperdown Jn	59	14	59	77	N	N	N	N	N	H	
-Scotland	1000	SC191	ECN3	Camperdown Jn	Change of ELR (Arbroath SB)	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	N	N	N	N	N	H	
-Scotland	1000	SC191	ECN4	Change of ELR (Arbroath SB)	Change of ELR (Montrose)	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	N	N	N	N	N	H	
-Scotland	1000	SC191	ECN5	Change of ELR (Montrose)	Craiginches	Change of ELR (Montrose) – Craiginches	203	11	239	55	N	N	N	N	N	H	
-Scotland	1000	SC191	ECN5	Craiginches	Aberdeen	Craiginches – Aberdeen	239	55	241	06	N	N	N	N	N	H R1	R1 Prohibited Aberdeen platforms 5 & 7
-Scotland	1000	SC193	HGL1	Perth South Jn	Change of ELR	Perth South Jn – Change of ELR	150	61	158	38	N	N	N	N	N	H	
-Scotland	1000	SC193	HGL2	Change of ELR	Stanley Jn	Change of ELR – Stanley Jn	7	02	7	07	N	N	N	N	N	H	
-Scotland	1000	SC193	HGL2	Stanley Jn	Milburn Jn	Stanley Jn – Milburn Jn	7	07	143	39	N	N	N	N	N	N	
-Scotland	1000	SC193	HGL2	Milburn Jn	Welsh's Bridge Jn	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	N	N	H	
-Scotland	1000	SC193	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	H	
+Scotland	1000	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	Y	Y	Y	R1	Y	H	R1 Prohibited with deflated suspension
+Scotland	1000	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	R1	Y	H	R1 Prohibited with deflated suspension
+Scotland	1000	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	Y	Y	H
+Scotland	1000	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	Y	Y	H
+Scotland	1000	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	Y	Y	H
+Scotland	1000	SC125	YKR	Hyndland West Jn	Dalmuir Park Jn	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	Y	Y	H
+Scotland	1000	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	Y	Y	H
+Scotland	1000	SC131	HST	High Street Jn	Connection to Smithy Lye through line	High Street Jn – Connection to Smithy Lye through line	0	04	2	00	N	N	N	N	N	H
+Scotland	1000	SC131	HST	Connection to Smithy Lye through line	Shields Jn	Connection to Smithy Lye through line – Shields Jn	2	00	2	35	N	N	N	N	N	H
+Scotland	1000	SC133	MGE	Westerton Jn	Milngavie	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	Y	Y	H
+Scotland	1000	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	Y	Y	H

@@ -1,22 +1,20 @@
 Kent-Sussex-Wessex	0894	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0894	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO550	RTT	Redhill(SO500)	Tonbridge	Redhill(SO500) – Tonbridge	22	40	42	16	Y	Y	R1	N	N	N	N	R1 30mph Leigh Up platform
-Kent-Sussex-Wessex	0894	SO560	RSJ	Redhill	Reigate	Redhill –Reigate	22	40	24	27	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn –Eastbourne	21	39	23	75	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO600	WJB	Willingdon Jn	Connection - St Leonards LMD	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO600	WJB	Connection - St Leonards LMD	Bo Peep Jn	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn –Hastings	60	69	62	33	Y	Y	R1	N	N	N	N	R1 30mph Leigh Up platform
-Kent-Sussex-Wessex	0894	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	Y	Y	R1	N	N	N	N	R1 Prohibited between Ore start / end of electrification and Appledore
-Kent-Sussex-Wessex	0894	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn –Lewes	0	14	7	77	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO620	KJE1/2	Lewes	Southerham Jn [Duplicated on SO590]	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO630	BLI1	Hove Jn	Hove platforms 2 and 3	Hove Jn – Hove platforms 2 and 3	1	28	1	35	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0894	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0894	SO130	XTD	Metropolitan Jn	Borough Market Jn	Metropolitan Jn – Borough Market Jn	1	31	1	50	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	CBM	Cannon Street Substation	Borough Market Jn	Cannon Street Substation – Borough Market Jn	0	20	0	38	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Borough Market Jn	London Bridge platforms 1-9	Borough Market Jn – London Bridge platforms 1-9	1	50	1	69	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	London Bridge platforms 1-9	North Kent East Jn	London Bridge platforms 1-9 – North Kent East Jn	1	69	4	25	Y	Y	R1 R2	N	N	N	N	R1 Prohibited between Blue Anchor and North Kent East Jn R2 No.5 Down line, clear to crossovers to and from Sussex side lines and Up Passenger Loop between London Bridge and Spa Road Jn
+Kent-Sussex-Wessex	0894	SO130	XTD	North Kent East Jn	Tanners Hill Jn	North Kent East Jn – Tanners Hill Jn	4	25	5	29	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Tanners Hill Jn	Parks Bridge Jn	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	LLL	Parks Bridge Jn	Ladywell Jn	Parks Bridge Jn – Ladywell Jn	6	14	6	29	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Parks Bridge Jn	Courthill Loop South Jn	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Courthill Loop South Jn	Hither Green Jn	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Hither Green Jn	Lee Spur Jn	Hither Green Jn – Lee Spur Jn	7	04	7	44	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Lee Spur Jn	Chislehurst Jn	Lee Spur Jn – Chislehurst Jn	7	44	11	33	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	CSM1	Chislehurst Jn	St Mary Cray Down Jn via Reversible Chatham Loop	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	CSM3	Chislehurst Jn	Hawkwood Jn (Up Chatham Loop)	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Chislehurst Jn	Petts Wood Jns	Chislehurst Jn – Petts Wood Jns	11	33	12	27	Y	Y	N	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Petts Wood Jns	Sevenoaks Substation	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Sevenoaks Substation	Tonbridge West Jn	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Tonbridge West Jn	Tonbridge East Jn	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Tonbridge East Jn	Paddock Wood	Tonbridge East Jn – Paddock Wood	29	55	34	67	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0894	SO130	XTD	Paddock Wood	Ashford (Jn with Maidstone line)	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	Y	Y	Y	N	N	N	N

@@ -1,46 +1,45 @@
-                                                                                          OFFICIAL
+                                                                                     OFFICIAL
 
 
 
 
-                                                                     Scotland Route Sectional Appendix Module SCRC
+                                                                Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector                       oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
-route            Description                                   M Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 oooooooooooooooooooooooooo
-                                                                                                      (MOD)            o
-SC147     ECN2   Haymarket Central Jn – Haymarket               1    66   2    41    Y      Y        Y   N   N   N   N   Y   N
+Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+route            Description                              M Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 oooooooooooooooooooooooooo
+                                                                                                 (MOD)            o
+SC097     SYE    Whifflet South Jn – Sunnyside Jn          9    63    8    43   Y      Y    EH      N   N   N   N   Y   N
+                 (Goods Line)
+SC099     RSL2   Whifflet North Jn – Change of ELR         0    00    0    34   Y      Y        Y   N   N   N   N   Y   N
+SC099     RSL1   Change of ELR – Langloan Jn               6    59    6    34   Y      Y        Y   N   N   N   N   Y   N
+SC099     RCB    Langloan Jn – Rutherglen East Jn          6    34    0    04   Y      Y        Y   N   N   N   N   Y   N
+SC101     RCB    Coatbridge Jn – Langloan Jn               7    03    6    34   Y      Y    EH      N   N   N   N   Y   N
+SC103     CBD1   Garnqueen North Jn – Gartcosh Jn          1    33    0    00   Y      Y        Y   N   N   N   N   Y   N
+SC103     CBD2   Gartcosh Jn – Change of ELR               97   09   103   41   Y      Y        Y   N   N   N   N   Y   E
+SC103     SGN    Change of ELR – Cowlairs West Jn          0    61    -0   20   Y      Y        Y   N   N   N   N   Y   N
+SC105     GHE    Gartsherrie South Jn – Gartcosh Jn        95   64    97   06   Y      Y        Y   N   N   N   N   Y   E
+SC106     PNS    Sighthill West Jn – Cowlairs South Jn     0    30    0    00   Y      Y        Y   N   N   N   N   Y   N
+                 (Chord Line)
+SC107     ECM9   Waverley East End – Edinburgh             0    21    0    00   Y      Y        Y   N   N   N   Y   Y   Y
+                 Waverley
+SC107     EGM4   Edinburgh Waverley – Waverley West        0    00    0    15   Y      Y        Y   N   N   N   Y   Y   Y
+                 End (South Lines)
+SC107     ECN1   Edinburgh Waverley – Waverley West        0    00    0    15   Y      Y        Y   N   N   N   Y   Y   Y
+                 End (North Lines)
+SC107     EGM3   Waverley West End – Haymarket             0    15    1    19   Y      Y        Y   N   N   N   Y   Y   Y
+                 (South Lines)
+SC107     ECN2   Waverley West End – Haymarket             0    15    1    19   Y      Y        Y   N   N   N   Y   Y   R1 R1   Prohibited between 00m 32 ch to
+                 (North Lines)                                                                                                  Haymarket (North lines)
+SC107     EGM2   Haymarket – Haymarket East Jn (South      46   02    45   72   Y      Y        Y   N   N   N   Y   Y   Y
+                 Lines)
+SC107     ECN2   Haymarket – Haymarket East Jn (North      1    19    1    29   Y      Y        Y   N   N   N   Y   Y   N
+                 Lines)
+SC107     EGM2   Haymarket East Jn – Haymarket             45   72    45   35   Y      Y        Y   N   N   N   Y   Y   N
+                 Central Jn (South Lines)
+SC107     ECN2   Haymarket East Jn – Haymarket             1    29    1    66   Y      Y        Y   N   N   N   Y   Y   N
+                 Central Jn (North Lines)
+SC107     EGM2   Haymarket Central Jn – Haymarket          45   35    44   73   Y      Y        Y   N   N   N   Y   Y   N
+                 West Jn (South Lines)
+SC107     ECN2   Haymarket Central Jn – Haymarket          1    66    2    41   Y      Y        Y   N   N   N   N   Y   N
                  West Jn (North Lines)
-SC149     NBK    North Berwick – Drem Jn                        22   22   18   15    Y      Y        Y   N   N   N   N   N   N
-SC151     LHS1   Portobello – Leith South Yard (Goods           0    00   2    20    N      N        N   N   N   N   N   N   N
-                 Line)
-SC153     CPH    Craigentinny – Powderhall (Goods               0    00   1    78    N      N        N   N   N   N   N   N   N
-                 Line)
-SC155     MHL1   Monktonhall Jn – Change of ELR                 0    11   5    60    Y      Y        Y   N   N   N   Y   Y   N
-SC155     MHL2   Change of ELR – Millerhill East Jn             1    40   0    28    Y      Y        Y   N   N   N   Y   Y   N
-SC155     MHL3   Millerhill East Jn – Millerhill Yard           0    00   0    19    Y      Y        Y   N   N   N   Y   Y   N
-                 (Goods Line)
-SC157     MLE    Millerhill South Jn – Millerhill East Jn       0    09   0    28    Y      Y        Y   N   N   N   Y   N   N
-                 (Goods Line)
-SC159     NDE2   Millerhill West Jn – Millerhill South Jn /     6    52   5    72    N      N        N   N   N   N   N   N   N
-                 Millerhill Yard
-SC161     NDE1   Millerhill Yard – Junction with Niddrie        5    52   3    36    Y      Y        Y   N   N   N   Y   Y   N
-                 West Line
-SC161     SUB1   Junction with Niddrie West Line –              3    36   3    30    Y      Y        Y   N   N   N   Y   N   N
-                 Portobello
-SC161     MHL4   Newcraighall East Jn – Network Rail /          00   00   00    08   N      N        N   N   N   N   N   N   N
-                 Abellio Scotrail Boundary
-SC163     SUB1   Portobello – Change of ELR                     3    30   4    00    Y      Y        Y   N   N   N   Y   Y   N
-SC163     SUB2   Change of ELR – Niddrie West                   6    69   6    30    Y      Y        Y   N   N   N   Y   Y   N
-SC164     NNS    Newcraighall North Jn – Newcraighall           4    63   5    02    R1     R1       N   N   N   N   N   N   N   R1   55mph maximum speed
-                 South Jn                                                            R2     R2                                   R2   All passenger trains, except when
-                                                                                                                                      operated by Class 158 or 170
-                                                                                                                                      DMUs, require a Special Operating
-                                                                                                                                      Instruction
-SC164     SBO    Newcraighall South Jn – Tweedbank              5    02   35   34    R1     R1       N   N   N   N   N   N   N   R1   55mph maximum speed
-                                                                                     R2     R2                                   R2   All passenger trains, except when
-                                                                                                                                      operated by Class 158 or 170
-                                                                                                                                      DMUs, require a Special Operating
-                                                                                                                                      Instruction
-SC165     MHY    Niddrie South Jn – Niddrie West Jn             7    06   6    30    Y      Y        Y   N   N   N   Y   N   N
-
-October 2009                                                                         58
+October 2009                                                                    54

@@ -1,19 +1,26 @@
-London-North-Eastern	1236	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1236	LN898	HUL2	Selby South Jn	Site of Former Barlby Jn	Selby South Jn – Site of Former Barlby Jn	31	12	30	40	8	Y	
-London-North-Eastern	1236	LN898	HUL1	Site of Former Barlby Jn	Anlaby Road Jn	Site of Former Barlby Jn – Anlaby Road Jn	30	40	0	73	8	Y	
-London-North-Eastern	1236	LN898	HUL1	Anlaby Road Jn	Hull	Anlaby Road Jn – Hull	0	73	0	00	8	R1 R2 R3 R4 R5	R1 Prohibited between Anlaby Road Jn and West Parade Jn and on the Up Main line R2 Prohibited Hull platform 2 R3 Prohibited Hull platform 4 R4 Prohibited Hull platform 5 R5 Prohibited Hull Dock platform A
-London-North-Eastern	1236	LN900	HUE	Neville Hill West Jn	Hunslet East	Neville Hill West Jn – Hunslet East	0	00	0	55	10	Y	
-London-North-Eastern	1236	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	9	Y	
-London-North-Eastern	1236	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	10	Y	
-London-North-Eastern	1236	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	10	Y	
-London-North-Eastern	1236	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	9	Y	
-London-North-Eastern	1236	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	9	Y	
-London-North-Eastern	1236	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	9	Y	
-London-North-Eastern	1236	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	8	Y	
-London-North-Eastern	1236	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	8	Y	
-London-North-Eastern	1236	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	8	R1	R1 Prohibited on the Down line
-London-North-Eastern	1236	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	7	Y	
-London-North-Eastern	1236	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	6	R1 R2	R1 Prohibited from Bridlington platform 4 (Down line) R2 Prohibited from Bridlington bay platform 7
-London-North-Eastern	1236	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	8	Y	
-London-North-Eastern	1236	LN916	HJS	Springbank North Jn	Network Rail Boundary	Springbank North Jn – Network Rail Boundary	1	38	5	62	7	Y	
-London-North-Eastern	1236	LN918	SPW	Springbank North Jn	Walton Street Jn	Springbank North Jn – Walton Street Jn	1	54	1	29	8	Y	
+London-North-Eastern	1236	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1236					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Eastern	1236	LN3201	Ratcliffe Jn – Spondon	Ratcliffe Jn	Spondon	Y *	Y	R1	R1	R1	R1	R1	R1	R1 Between Trent West Jn and Sheet Stores Jn only
+London-North-Eastern	1236	LN3201	Spondon – Derby London Rd Jn	Spondon	Derby London Rd Jn	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1236	LN3201	Derby London Road Jn – Clay Cross Sth Jn	Derby London Road Jn	Clay Cross Sth Jn	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1236	LN3201	Clay Cross Sth Jn – Tapton Jn (Chesterfield)	Clay Cross Sth Jn	Tapton Jn (Chesterfield)	Y *	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED on the Up Fast between former Clay Cross South Jn and Tapton Jn R2 PROHIBITED on the Down Fast between former Clay Cross South Jn and Tapton Jn
+London-North-Eastern	1236	LN3201	Wymington Deviation	Wymington Deviation		Y *	Y	N	N	N	N	N	N
+London-North-Eastern	1236	LN3201	Chaddesden Sidings – Derby Jn	Chaddesden Sidings	Derby Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3204	Trent South Jn – Nottingham East Jn	Trent South Jn	Nottingham East Jn	Y *	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Trent East Jn to Nottingham East Jn
+London-North-Eastern	1236	LN3207	Trent East Jn – Chesterfield South Jn	Trent East Jn	Chesterfield South Jn	Y *	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED from Toton Yards R2 PROHIBITED from Stapleford and Sandiacre Yards R3 PROHIBITED from Codnor Park Sidings
+London-North-Eastern	1236	LN3207	Toton North Jn – Staton and Staveley Sidings (Mapperley Goods Branch)	Toton North Jn	Staton and Staveley Sidings (Mapperley Goods Branch)	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3210	Junction Road Jn – Carlton Road Jn (Tottenham Lines)	Junction Road Jn	Carlton Road Jn (Tottenham Lines)	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3213	Moorgate – Kentish Town Jn	Moorgate	Kentish Town Jn	N	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3214	Canal Tunnel Jn – Belle Isle Jn	Canal Tunnel Jn	Belle Isle Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3219	Cricklewood Curve Jn –o Dudding Hill Jn	Cricklewood Curve Jn	o Dudding Hill Jn	Y *	Y	N	N	N	N	N	N
+London-North-Eastern	1236	LN3222	Brent Curve Jn – Dudding Hill Jn	Brent Curve Jn	Dudding Hill Jn	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1236	LN3228	Trent East Jn – Sheet Stores Jn	Trent East Jn	Sheet Stores Jn	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1236	LN3231	Wigston South Jn – Glen Parva Jn	Wigston South Jn	Glen Parva Jn	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1236	LN3232	Wigston North Jn – Hinckley	Wigston North Jn	Hinckley	Y *	Y	Y	Y	N	Y	N	N
+London-North-Eastern	1236	LN3234	Syston East Jn – Syston North Jn	Syston East Jn	Syston North Jn	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1236	LN3237	Loughborough South Jn – Hotchley Hill	Loughborough South Jn	Hotchley Hill	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1236	LN3240	Little Eaton Jn –o Denby	Little Eaton Jn	o Denby	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3246	Ambergate Jn – Matlock	Ambergate Jn	Matlock	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3249	Lenton South Jn – Lenton North Jn	Lenton South Jn	Lenton North Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3252	Mansfield Jn to Trowell South Jn	Mansfield Jn	Trowell South Jn	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1236	LN3255	Radford Jn – Kirkby Lane End Jn	Radford Jn	Kirkby Lane End Jn	Y	N	N	N	N	N	N	N

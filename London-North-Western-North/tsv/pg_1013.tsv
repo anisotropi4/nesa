@@ -1,22 +1,24 @@
 London-North-Western-North	1013	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1013										W6A W7 W8 W9 W9Plus W10 W10A W12								
-London-North-Western-North	1013						M	Ch	M	Ch									
-London-North-Western-North	1013	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	Y*	N	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7011	LHL	Farington Jn	Limit of electrification	Farington Jn – Limit of electrification	0	00	0	56	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7011	LHL	Limit of electrification	Lostock Hall Jn (Lostock Hall lines)	Limit of electrification – Lostock Hall Jn (Lostock Hall lines)	0	56	0	77	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7015	PRG	End of line (Padiham Power Station Sidings)	Rose Grove West Jn	End of line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1013	NW7017	GJC	Gannow Jn	Colne	Gannow Jn – Colne	21	03	27	37	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7019	MPR2	Thorpes Bridge Jn	Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1013	NW7021	MVL1	Miles Platting Jn	Philips Park West Jn	Miles Platting Jn – Philips Park West Jn	1	30	1	59	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1013	NW7021	MVL1	Philips Park West Jn	Baguley Fold Jn	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7021	MVL1	Baguley Fold Jn	Ashton Moss North Jn	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7021	MVL1	Ashton Moss North Jn	Stalybridge Jn	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	Y *	S1	N	N	N	N	N	N	S1 The following combinations only are permitted to run: Up to 2438(h) x 2438(w) on FEA KFA FRA FIA IFA wagons 2603(h) x 2438(w) on IFA/FIA FKA/IKA wagons 2896(h) x 2438(w) on KTA wagons
-London-North-Western-North	1013	NW7021	MVL2	Stalybridge Jn	Stalybridge Tunnel Jn	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7021	MVL3	Stalybridge Tunnel Jn	Route Boundary (LN860)	Stalybridge Tunnel Jn – Route Boundary (LN860)	8	08	15	11	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7023	BPP	Philips Park West Jn	Brewery Jn	Philips Park West Jn – Brewery Jn	0	00	0	18	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1013	NW7025	PPA1	Philips Park West Jn	Philips Park South Jn	Philips Park West Jn – Philips Park South Jn	1	59	2	07	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1013										W6A	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Western-North	1013						M	Ch	M	Ch								
+London-North-Western-North	1013	NW4033	CBC3	Change of ELR (Maryport)	Carlisle South Jn	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	Y *	S1	S1	N	N	N	N	N	S1 The following combinations are permitted to run: Up to 2665(h), S21 TT x 2500(w) on FAA, FKA, IKA wagons 2595(h), S11 TT, S14 FT x 2500(w) on IFA, FIA wagons
+London-North-Western-North	1013	NW4041	DAP	Dalton Jn	Park South Jn	Dalton Jn – Park South Jn	0	00	0	76	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1013	NW5001	CMP1	Crewe North Jn	Sandbach North Jn	Crewe North Jn – Sandbach North Jn	158	17	162	62	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP1	Sandbach North Jn	Wilmslow South Jn	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP1	Wilmslow South Jn	Cheadle Hulme North Jn	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP1	Cheadle Hulme North Jn	Edgeley Jn No.1	Cheadle Hulme North Jn – Edgeley Jn No.1	180	67	182	36	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP2	Edgeley Jn No.1	Edgeley Jn	Edgeley Jn No.1 – Edgeley Jn	182	36	182	59	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP2	Edgeley Jn	Slade Lane Jn	Edgeley Jn – Slade Lane Jn	182	59	186	46	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP2	Slade Lane Jn	Ardwick Jn	Slade Lane Jn – Ardwick Jn	186	46	188	08	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP2	Ardwick Jn	Manchester Piccadilly East Jn	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5001	CMP2	Manchester Piccadilly East Jn	Manchester Piccadilly	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1013	NW5003	STY	Wilmslow South Jn	Heald Green South Jn	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5003	STY	Heald Green South Jn	Heald Green North Jn	Heald Green South Jn – Heald Green North Jn	2	50	3	13	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5003	STY	Heald Green North Jn	Slade Lane Jn	Heald Green North Jn – Slade Lane Jn	3	13	9	44	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1013	NW5005	SMA	Heald Green South Jn	Heald Green West Jn	Heald Green South Jn – Heald Green West Jn	1	48	1	10	Y	N	N	N	N	N	N	N
+London-North-Western-North	1013	NW5007	MIA	Manchester Airport	Heald Green North Jn	Manchester Airport – Heald Green North Jn	0	00	1	51	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1013	NW5008	NBS	Norton Bridge North Jn	Stone Jn	Norton Bridge North Jn – Stone Jn	3	57	0	00	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1013	NW5009	CMD2	Colwich Jn	Stone Jn	Colwich Jn – Stone Jn	38	61	20	36	Y *	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1013	NW5009	CMD2	Stone Jn	Stoke Jn	Stone Jn – Stoke Jn	20	36	21	04	Y *	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1013	NW5009	CMD2	Stoke Jn	Glebe Street Jn	Stoke Jn – Glebe Street Jn	21	04	20	10	Y *	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1013	NW5009	CMD2	Glebe Street Jn	Change of ELR	Glebe Street Jn – Change of ELR	20	10	15	65	Y *	Y	Y	Y	Y	Y	Y	Y

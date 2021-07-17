@@ -1,19 +1,26 @@
-Kent-Sussex-Wessex	1018	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	442	444	450	455	456	458	508	700	Notes
-Kent-Sussex-Wessex	1018	SW230	HOU	New Kew Jn	Old Kew Jn	New Kew Jn – Old Kew Jn	9	34	10	01	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW230	BOK5	Old Kew Jn	Route Boundary (EA1330) (Kew East Jn)	Old Kew Jn – Route Boundary (EA1330) (Kew East Jn)	3	69	3	61	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SW230	HOU	Old Kew Jn	Hounslow Jn	Old Kew Jn – Hounslow Jn	10	01	14	09	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW230	HJW	Hounslow Jn	Whitton Jn	Hounslow Jn – Whitton Jn	14	09	14	39	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW230	HOU	Hounslow Jn	Feltham Jn	Hounslow Jn – Feltham Jn	14	09	14	38	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW245	TSJ	Jn (Twickenham)	Strawberry Hill Jn	Jn (Twickenham) – Strawberry Hill Jn	11	48	12	27	Y	N	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW245	SHF	Strawberry Hill Jn	Fulwell Jn	Strawberry Hill Jn – Fulwell Jn	12	27	12	56	Y	N	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW245	TSJ	Strawberry Hill Jn	Shacklegate Jn	Strawberry Hill Jn – Shacklegate Jn	12	27	12	58	Y	N	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW250	SWE	Staines	Windsor and Eton Riverside	Staines – Windsor and Eton Riverside	19	02	25	48	Y	N	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW255	VWW	Virginia Water Jn	Addlestone Jn	Virginia Water Jn – Addlestone Jn	24	73	19	74	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW255	AJB	Addlestone Jn	Byfleet Jn	Addlestone Jn – Byfleet Jn	0	00	0	67	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW255	VWW	Addlestone Jn	Weybridge	Addlestone Jn – Weybridge	19	74	19	12	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1018	SW260	AAV	Ascot	Ash Vale Jn	Ascot – Ash Vale Jn	28	79	40	57	N	N	Y	N	Y	Y	N	N	
-Kent-Sussex-Wessex	1018	SW265	GTW1	Guilford	Change of ELR	Guilford – Change of ELR	30	27	35	50	N	Y	Y	E	R1	Y	N	N	R1 15mph Guildford platforms 6 & 7
-Kent-Sussex-Wessex	1018	SW265	GTW2	Change of ELR	Aldershot South Jn	Change of ELR – Aldershot South Jn	48	34	50	01	N	Y	Y	E	Y	Y	N	N	
-Kent-Sussex-Wessex	1018	SW265	NSA	Aldershot South Jn	Aldershot North Jn	Aldershot South Jn – Aldershot North Jn	50	01	50	43	N	Y	Y	N	N	Y	N	N	
-Kent-Sussex-Wessex	1018	SW265	GTW2	Aldershot South Jn	Wokingham Jn	Aldershot South Jn – Wokingham Jn	50	01	61	74	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SW300	RSJ	Route Boundary (Sussex SO560) (Redhill)	Shalford Jn	Route Boundary (Sussex SO560) (Redhill) – Shalford Jn	33	10	41	62	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	377	378	380	387	Notes
+Kent-Sussex-Wessex	1018	SW220	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SO250]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SO250]	2	39	2	50	E	Y	Y	Y	Y	N	Y
+Kent-Sussex-Wessex	1018	SW220	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SO250]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SO250]	0	63	0	68	Y	Y	Y	Y	Y	EH	Y
+Kent-Sussex-Wessex	1018	SW220	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SO250]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SO250]	0	71	3	42	Y	Y	Y	Y	Y	EH	Y
+Kent-Sussex-Wessex	1018	SW225	PPW	Point Pleasant Jn – Network Rail Boundary (TfL	District Line)	Point Pleasant Jn – Network Rail Boundary (TfL – District Line)	5	09	5	67	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW225	PPW	Network Rail Boundary (TfL – District Line)	Wimbledon North Jn (TfL infrastructure)	Network Rail Boundary (TfL – District Line) – Wimbledon North Jn (TfL infrastructure)	5	67	8	26	N	R1	H R1	N	N	N	N	R1 10mph Wimbledon Park Down platform
+Kent-Sussex-Wessex	1018	SW230	HOU	Barnes	New Kew Jn	Barnes – New Kew Jn	7	07	9	34	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW230	NKE2	New Kew Jn	Route Boundary (EA1330) (Kew East Jn)	New Kew Jn – Route Boundary (EA1330) (Kew East Jn)	9	34	9	64	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW230	HOU	New Kew Jn	Old Kew Jn	New Kew Jn – Old Kew Jn	9	34	10	01	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW230	BOK5	Old Kew Jn	Route Boundary (EA1330) (Kew East Jn)	Old Kew Jn – Route Boundary (EA1330) (Kew East Jn)	3	69	3	61	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW230	HOU	Old Kew Jn	Hounslow Jn	Old Kew Jn – Hounslow Jn	10	01	14	09	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW230	HJW	Hounslow Jn	Whitton Jn	Hounslow Jn – Whitton Jn	14	09	14	39	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW230	HOU	Hounslow Jn	Feltham Jn	Hounslow Jn – Feltham Jn	14	09	14	38	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW245	TSJ	Jn (Twickenham)	Strawberry Hill Jn	Jn (Twickenham) – Strawberry Hill Jn	11	48	12	27	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW245	SHF	Strawberry Hill Jn	Fulwell Jn	Strawberry Hill Jn – Fulwell Jn	12	27	12	56	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW245	TSJ	Strawberry Hill Jn	Shacklegate Jn	Strawberry Hill Jn – Shacklegate Jn	12	27	12	58	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW250	SWE	Staines	Windsor and Eton Riverside	Staines – Windsor and Eton Riverside	19	02	25	48	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW255	VWW	Virginia Water Jn	Addlestone Jn	Virginia Water Jn – Addlestone Jn	24	73	19	74	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW255	AJB	Addlestone Jn	Byfleet Jn	Addlestone Jn – Byfleet Jn	0	00	0	67	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW255	VWW	Addlestone Jn	Weybridge	Addlestone Jn – Weybridge	19	74	19	12	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1018	SW260	AAV	Ascot	Ash Vale Jn	Ascot – Ash Vale Jn	28	79	40	57	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW265	GTW1	Guilford	Change of ELR	Guilford – Change of ELR	30	27	35	50	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW265	GTW2	Change of ELR	Aldershot South Jn	Change of ELR – Aldershot South Jn	48	34	50	01	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW265	NSA	Aldershot South Jn	Aldershot North Jn	Aldershot South Jn – Aldershot North Jn	50	01	50	43	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW265	GTW2	Aldershot South Jn	Wokingham Jn	Aldershot South Jn – Wokingham Jn	50	01	61	74	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1018	SW300	RSJ	Route Boundary (Sussex SO560) (Redhill)	Shalford Jn	Route Boundary (Sussex SO560) (Redhill) – Shalford Jn	33	10	41	62	N	N	N	N	N	N	N

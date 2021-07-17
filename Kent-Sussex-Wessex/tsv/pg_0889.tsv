@@ -1,21 +1,24 @@
-Kent-Sussex-Wessex	0889	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0889	SO250	WLL	Kensington Olympia	Northbound AC/DC changeover	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	Y	Y	R1	N	N	N	N	R1 20mph Peckham Rye platform 4 Down Catford Loop line
-Kent-Sussex-Wessex	0889	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn –Ravensbourne Jn	6	09	10	44	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars –Blackfriars Jn	0	35	0	63	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn –Metropolitan Jn	0	63	1	14	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0889	SO290	NKL	Charlton Jn	Charlton	Charlton Jn –Charlton	7	35	7	44	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0889	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	CH	M	Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
+Kent-Sussex-Wessex	0889	SO600	WJB	Willingdon Jn	Connection - St Leonards LMD	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO600	WJB	Connection - St Leonards LMD	Bo Peep Jn	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn – Lewes	0	14	7	77	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0889	SO620	KJE1/2	Lewes	Southerham Jn [Duplicated on SO590]	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	N	Y	N	N	N	N	N	N	N	N	Y
+Kent-Sussex-Wessex	0889	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	N	Y	Y	Y	R1	R1	N	N	N	R1	Y	R1 Prohibited Brighton platform 1
+Kent-Sussex-Wessex	0889	SO630	BLI1	Hove Jn	Hove platforms 2 and 3	Hove Jn – Hove platforms 2 and 3	1	28	1	35	N	Y	Y	Y	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0889	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	N	Y	Y	Y	Y	Y	N	N	N	Y	N
+Kent-Sussex-Wessex	0889	SO630	BLI1	Hove Up platform loop and platforms 2, and 3	Arundel Jn	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	N	N	Y	Y	N	N	N	N	N	N	Y
+Kent-Sussex-Wessex	0889	SO630	BLI1	Arundel Jn	Littlehampton Jn (Change of Mileage)	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	N	N	N	N	N	N	N	N	N	N	Y
+Kent-Sussex-Wessex	0889	SO630	FJL	Littlehampton Jn	Ford Jn	Littlehampton Jn – Ford Jn	60	57	60	26	N	N	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	0889	SO630	BLI2	Littlehampton Jn (Change of Mileage)	Littlehampton	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	N	N	N	N	N	N	N	N	N	N	Y
+Kent-Sussex-Wessex	0889	SO640	BBR	Barnham	Bognor Regis	Barnham – Bognor Regis	22	29	25	75	N	N	N	N	N	N	N	N	N	N	Y
+Kent-Sussex-Wessex	0889	SO645	ATL	Battersea Park	Factory Jn	Battersea Park – Factory Jn	7	27	6	67	N	Y	N	N	Y	Y	N	Y	Y	Y	N
+Kent-Sussex-Wessex	0889	SO645	ATL	Factory Jn	Wandsworth Road Jn	Factory Jn – Wandsworth Road Jn	6	67	6	53	N	Y	N	N	Y	Y	N	Y	Y	Y	Y
+Kent-Sussex-Wessex	0889	SO645	ATL	Wandsworth Road Jn	Shepherds Lane Jn	Wandsworth Road Jn – Shepherds Lane Jn	6	53	5	68	N	Y	N	N	Y	Y	N	Y	Y	Y	Y
+Kent-Sussex-Wessex	0889	SO645	ATL	Shepherds Lane Jn	Crofton Road Jn	Shepherds Lane Jn – Crofton Road Jn	5	68	3	67	N	E	N	N	Y	Y	N	Y	Y	Y	Y
+Kent-Sussex-Wessex	0889	SO645	ATL	Crofton Road Jn	Peckham Rye Jn	Crofton Road Jn – Peckham Rye Jn	3	67	3	47	N	E	N	N	Y	Y	N	N	N	N	Y

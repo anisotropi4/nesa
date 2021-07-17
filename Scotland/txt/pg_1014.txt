@@ -1,44 +1,45 @@
-                                                                                      OFFICIAL
+                                                                                     OFFICIAL
 
 
 
 
-                                                                 Scotland Route Sectional Appendix Module SCRC
+                                                                Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector                   oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
-route            Description                               M Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 oooooooooooooooooooooooooo
-                                                                                                  (MOD)            o
-SC173     CWH3   Change of ELR (Lochgelly) – Thornton       27   00    34   62   Y      Y        Y   N   N   N   N   Y   N
-                 West Jn
-SC173     TNW    Thornton West Jn – Thornton North Jn       0    70    0    00   Y      Y        Y   N   N   N   N   Y   N
-SC175     RHD2   Rosyth Dockyard – Change of ELR            1    21    1    00   N      N        N   N   N   N   N   N   N
-SC175     RHD1   Change of ELR – Inverkeithing South        1    00    0    02   N      N        N   N   N   N   N   N   N
-                 Jn (Goods Line)
-SC176     IGE    Inverkeithing North Jn – Inverkeithing     0    33    0    00   EH     EH   EH      N   N   N   N   N   N
-                 East Jn (Inverkeithing Curve)
-SC177     MTL1   Thornton North Jn – Change of ELR          0    11    4    65   N      N        N   N   N   N   N   N   N
-SC177     MTL2   Change of ELR – Methill Power Station      7    34    6    48   N      N        N   N   N   N   N   N   N
-                 (Goods Line)
-SC178     CWH3   Thornton South Jn – Thornton West Jn       35   38    34   62   Y      Y        Y   N   N   N   N   Y   N
-SC181     CDC1   Ladybank Jn – Change of ELR                0    03    14   10   Y      Y        Y   N   N   N   N   Y   N
-SC181     CDC2   Change of ELR – Hilton Jn                  44   18    45   66   Y      Y        Y   N   N   N   N   Y   N
-SC183     SAA    Stirling Middle Jn – Change of ELR         0    00    8    14   Y      Y        Y   N   N   N   N   N   N
-SC183     KNE1   Change of ELR – Longannet                  0    00    5    62   Y      Y        Y   N   N   N   N   N   N
-SC183     KNE1   Longannet – Change of ELR                  5    62    14   14   Y      Y        Y   N   N   N   N   N   N
-SC183     KNE2   Change of ELR – Charlestown Jn             14   14    15   39   Y      Y        Y   N   N   N   N   N   N
-SC189     CRE    Westfield – Change of Mileage              28   77    33   04   N      N        N   N   N   N   N   N   N
-SC189     CRE    Change of Mileage – Redford Jn             33   28    33   45   N      N        N   N   N   N   N   N   N
-                 (Goods Line)
-SC191     ECN2   Dundee Central Jn – Dundee                 58   69    59   14   Y      Y        Y   N   N   N   N   Y   N
-SC191     ECN2   Dundee – Camperdown Jn                     59   14    59   77   Y      Y        Y   N   N   N   N   Y   N
-SC191     ECN3   Camperdown Jn – Change of ELR              0    21    17   17   Y      Y        Y   N   N   N   N   Y   N
-                 (Arbroath SB)
-SC191     ECN4   Change of ELR (Arbroath SB) –              17   55    33   28   Y      Y        Y   N   N   N   N   Y   N
-                 Change of ELR (Montrose)
-SC191     ECN5   Change of ELR (Montrose) –                203   11   239   55   Y      Y        Y   N   N   N   N   Y   N
-                 Craiginches
-SC191     ECN5   Craiginches – Aberdeen                    239   55   241   06   Y      Y        Y   N   N   N   N   Y   N
-SC193     HGL1   Perth South Jn – Change of ELR            150   61   158   38   Y      Y        Y   N   N   N   N   Y   N
-SC193     HGL2   Change of ELR – Stanley Jn                 7    02    7    07   Y      Y        Y   N   N   N   N   Y   N
-
-October 2009                                                                     60
+Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+route            Description                              M Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 oooooooooooooooooooooooooo
+                                                                                                 (MOD)            o
+SC123     NEM1   Drumgelloch – Change of ELR               11   70    11   60   Y      Y        Y   N   N   N   N    Y   N
+SC123     NEM2   Change of ELR – High Street Jn            11   60    0    28   Y      Y        Y   N   N   N   N    Y   E R1   Prohibited between Change of ELR
+                                                                                                                         R1     and Belgrove Jn
+SC123     NEM2   High Street Jn – Change of ELR            0    28    0    00   Y      Y        Y   N   N   N   N    Y   N
+SC123     NEM3   Change of ELR – Finnieston East Jn        0    00    2    19   Y      Y        Y   N   N   N   N    Y   N
+SC123     NEM3   Finnieston East Jn – Finnieston West      2    19    2    53   Y      Y        Y   N   N   N   N    Y   N
+                 Jn (Down Line)
+SC123     NEM3   Finnieston East Jn – Finnieston West      2    19    2    53   Y      Y        Y   N   N   N   N    Y   N
+                 Jn (Up Line)
+SC123     NEM3   Finnieston West Jn – Hyndland North       2    53    4    28   Y      Y        Y   N   N   N   N    Y   N
+                 Jn
+SC123     NEM3   Hyndland North Jn – Change of ELR         4    28    4    63   Y      Y        Y   N   N   N   N    Y   N
+SC123     NEM4   Change of ELR – Knightswood North         0    00    0    74   Y      Y        Y   N   N   N   N    Y   N
+                 Jn
+SC123     NEM5   Knightswood North Jn – Change of          5    67    13   40   Y      Y        Y   N   N   N   N    Y   N
+                 ELR (Between Bowling and Dumbarton
+                 East)
+SC123     NEM6   Change of ELR (Between Bowling and       113   46   116   00   Y      Y        Y   N   N   N   N    Y   N
+                 Dumbarton East) – Change of ELR
+                 (Dumbarton East)
+SC123     NEM7   Change of ELR (Dumbarton East) –          15   51    22   76   Y      Y        Y   N   N   N   N    Y   N
+                 Craigendoran Jn
+SC123     NEM7   Craigendoran Jn – Helensburgh             22   76    24   31   Y      Y        Y   N   N   N   N    N   N
+                 Central
+SC125     YKR    Hyndland East Jn – Hyndland West Jn       0    00    0    22   Y      Y        Y   N   N   N   N    Y   N
+SC125     YKR    Hyndland West Jn – Dalmuir Park Jn        0    22    4    73   Y      Y        Y   N   N   N   N    Y   N
+SC129     SGN    Springburn – Bellgrove Jn                 0    42    2    58   Y      Y        Y   N   N   N   N    Y   E
+SC131     HST    High Street Jn – Connection to Smithy     0    04    2    00   Y      Y    EH      N   N   N   EH   Y   E
+                 Lye Through Line
+SC131     HST    Connection to Smithy Lye Through Line     2    00    2    35   Y      Y    EH      N   N   N   EH   Y   E
+                 – Shields Jn
+SC133     MGE    Westerton Jn – Milngavie                  6    19    9    35   Y      Y        Y   N   N   N   N    N   N
+SC135     BCH    Dalreoch Jn – Balloch                     16   39    20   38   Y      Y        Y   N   N   N   N    N   N
+SC136     HYD    Hyndland North Jn – Hyndland West Jn      0    00    0    16    Y     Y        Y   N   N   N   N    Y   N
+October 2009                                                                    56

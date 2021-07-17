@@ -1,13 +1,9 @@
-London-North-Eastern	1221	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1221	LN101	ECM1	Kings Cross	Copenhagen Jn	Kings Cross – Copenhagen Jn	0	00	0	64	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Copenhagen Jn	Holloway South/North Jns	Copenhagen Jn – Holloway South/North Jns	0	64	1	44	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Holloway South/North Jns	Wood Green North Jn	Holloway South/North Jns – Wood Green North Jn	1	44	5	07	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Wood Green North Jn	Langley Jn	Wood Green North Jn – Langley Jn	5	07	25	73	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Langley Jn	St Neots	Langley Jn – St Neots	25	73	51	58	9	Y	
-London-North-Eastern	1221	LN101	ECM1	St Neots	Fletton Jn	St Neots – Fletton Jn	51	58	75	02	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Fletton Jn	Peterborough	Fletton Jn – Peterborough	75	02	76	29	8	Y	
-London-North-Eastern	1221	LN101	ECM1	Peterborough	Newark North Gate	Peterborough – Newark North Gate	76	29	120	08	9	Y	
-London-North-Eastern	1221	LN101	PMJ	Peterborough	Helpston Jn via Stamford lines	Peterborough – Helpston Jn via Stamford lines	22	19	16	71	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Newark North Gate	Retford	Newark North Gate – Retford	120	08	138	49	8	Y	
-London-North-Eastern	1221	LN101	ECM1	Retford	Loversall Carr Jn	Retford – Loversall Carr Jn	138	49	150	00	9	Y	
-London-North-Eastern	1221	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	9	Y	
+London-North-Eastern	1221	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+London-North-Eastern	1221					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Eastern	1221	LN101	Peterborough – Doncaster, Marshgate Jn	Peterborough	Doncaster, Marshgate Jn	R1	Y	Y	Y	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R1 PNA wagons restricted to 40mph through Newark North Gate when operating in tare condition R2 PROHIBITED Werrington Jn to South Yorkshire Jn R3 PROHIBITED on the Up Platform Loop through Doncaster platform 1 R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED on the Down Platform Loop through Doncaster platform 8 R7 PROHIBITED from Doncaster West Yard R8 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Goods R9 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Slow R10 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Up Slow R11 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Thorne Slow R12 PROHIBITED Werrington Jn to Shaftholme Jn R13 PROHIBITED on Peterborough Eastfield South Down Arrival R14 PROHIBITED on Peterborough Eastfield North Down Departure
+London-North-Eastern	1221	LN101	Doncaster, Marshgate Jn – Shaftholme Jn	Doncaster, Marshgate Jn	Shaftholme Jn	Y *	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1221	LN101	Helpston Junction – Peterborough (Stamford Lines)	Helpston Junction	Peterborough (Stamford Lines)	Y	Y	Y	Y	N	N	N	N
+London-North-Eastern	1221	LN101	Decoy North Junction – Bridge Junction (Down Side Sidings)	Decoy North Junction	Bridge Junction (Down Side Sidings)	Y	Y	Y	Y	N	N	N	N
+London-North-Eastern	1221	LN101	Potteric Carr Junction – Bridge Junction (Up Side Sidings)	Potteric Carr Junction	Bridge Junction (Up Side Sidings)	Y	Y	Y	Y	N	N	N	N
+London-North-Eastern	1221	LN105	Moorgate – Finsbury Park Jn	Moorgate	Finsbury Park Jn	N	N	N	N	N	N	N	N
+London-North-Eastern	1221	LN110	Canonbury West Jn – Finsbury Park Jn	Canonbury West Jn	Finsbury Park Jn	Y	Y	Y	Y	Y	Y	Y	Y

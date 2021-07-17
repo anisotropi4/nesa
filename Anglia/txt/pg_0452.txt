@@ -1,49 +1,48 @@
-                                                              Anglia Route Sectional Appendix Module AR2
-
-Line of   ELR    Line of Route / Sector             oooo oooo oooo oooo RA 59 60 66 67 68 70 73 97/3 MPV Notes
-route            Description                         M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-                                                                            0
-EA1360    CAW    Route Boundary (LN3219)             5   72   6    04     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 (Cricklewood Curve Jn) – Dudding
-                 Hill Jn
-EA1360    BDH    Route Boundary (LN3222) (Brent      0   54   1    03     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Curve Jn) – Dudding Hill Jn
-EA1360    CAW    Dudding Hill Jn – Neasden Jn        6   04   7    02     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-EA1360    NJN    Neasden Jn – Route Boundary         6   56   6    51     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 (MD715) (Neasden South Jn)
-EA1360    CAW    Neasden Jn – Acton Canal Wharf      7   02   8    45     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Jn
-EA1360    ACW    Acton Canal Wharf Jn – Route        0   35   0    11     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Boundary (MD170) (Willesden Jn)
-EA1360    CAW    Acton Canal Wharf Jn – Acton        8   45   8    77     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Wells Jn (Change of Mileage)
-EA1360    WAW    Acton Wells Jn (Change of           6   19   6    76     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Mileage) – Route Boundary
-                 (MD167) Willesden West London
-                 Jn)
-EA1360    CAW    Acton Wells Jn (Change of           0   63   0    66     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Mileage) – Acton Wells Jn
-EA1370    GOJ    Gospel Oak Jn – Junction Rd Jn      0   00   0    58     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-EA1370    JRT2   Junction Rd Jn – Route Boundary     2   42   2    38     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 (LN3210) (Carlton Rd Jn)
-EA1370    TAH1   Junction Rd Jn – Harringay Park     2   42   4    15     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Jn
-EA1370    HPW    Harringay Park Jn – Route           0   25   0    14     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Boundary (LN165) (Harringay Jn)
-EA1370    TAH1   Harringay Park Jn – South           4   15   5    65     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Tottenham West Jn
-EA1370    TAH1   South Tottenham West Jn – South     5   65   5    73     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Tottenham East Jn
-EA1370    TAH2   South Tottenham East Jn –           5   73   11   79     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Woodgrange Park Jn
-EA1370    TAH3   Woodgrange Park Jn – Barking       11   79   13   12     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Station Jn
-EA1370    TAH3   Barking Station Jn – Barking       13   12   13   42     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Tilbury Jn West
-EA1370    TAH4   Barking Station Jn – Barking       13   12   13   62     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Platform 1
+                                                                                  OFFICIAL
 
 
+                                                             Anglia Route Sectional Appendix Module AR2
+
+Line of ELR Line of Route / Sector                 oooo oooo oooo oooo RA 59 60 66 67 68 70 73 97/3 MPV Notes
+route       Description                             M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+                                                                           0
+EA1310 WMB Willesden High Level Jn – Route          0   43   0    09     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+           Boundary (MD160) (Mitre Bridge Jn)
+EA1310 BOK4 Willesden High Level Jn – Former Old    0   00   0    34     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+            Oak Jn (change of mileage)
+EA1310 BOK4 Former Old Oak Jn (change of            0   34   0    66     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+            mileage) – Acton Wells Jn
+            (Connection EA1360)
+EA1310 BOK5 Acton Wells Jn (Connection to           0   66   0    72     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+            EA1360) – Acton Wells Jn
+            (Connection to GW130)
+EA1310 AWL Acton Wells Jn – Route Boundary          0   49   0    39     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+           (GW130) (Acton East Jn)
+EA1310 BOK5 Acton Wells Jn (Connection to           0   72   1    73     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+            GW130) – Acton Central (Limit of AC)
+EA1310 BOK5 Acton Central (Limit of AC) – South     1   73   2    52     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+            Acton Jn
+EA1310 SAR1 South Acton Jn – Gunnersbury Jn         2   52   3    12     8    N    Y       Y   Y    Y     Y   Y    Y    Y
+EA1310 SAR2 Gunnersbury Jn – Richmond               9   72   12   39     4    N    R1   R1     N    N     N   R1   R1   R2 R1    10mph over River Thames Bridge (No
+                                                                                                                                 29) (10m 48ch between Gunnersbury
+                                                                                                                                 and Kew Gardens)
+                                                                                                                            R2   10mph in laden condition over River
+                                                                                                                                 Thames Bridge (No 29) at 10m 48ch
+                                                                                                                                 (between Gunnersbury and Kew
+                                                                                                                                 Gardens)
+EA1320 CRC1 Route Boundary (MD145) (Camden          5   42   5    10     8    Y    Y       Y   Y    Y     Y   Y    Y    Y
+       /2   Jn) – Camden Road West Jn
+EA1320 BOK1 Camden Road West Jn – Camden            5   10   4    64     8    Y    Y       Y   Y    Y     Y   Y    Y    Y
+            Road Central Jn
+EA1320 CRF1 Camden Road Central Jn – Route          0   51   0    20     8    Y    Y       Y   Y    Y     Y   Y    Y    Y
+            Boundary (LN115) (North London
+            Incline)
+EA1320 BOK1 Camden Road Central Jn –                4   64   3    12     8    Y    Y       Y   Y    Y     Y   Y    Y    Y
+            Canonbury West Jn
+EA1320 CFP    Canonbury West Jn – Route Boundary    3   12   3    20     8    Y    Y       Y   Y    Y     Y   Y    Y    Y
+              (LN110) (Finsbury Park)
+EA1320 BOK1 Canonbury West Jn – Dalston             3   12   2    21     8    Y    Y       Y   Y    Y     Y   Y    Y    Y
+            Western Jn
 
 
-August 2006                                                                         306TA
+August 2006                                                                         306R

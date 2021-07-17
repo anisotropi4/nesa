@@ -1,21 +1,18 @@
 Scotland	0996	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
-Scotland	0996	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	Y	Y	Y	R1	Y	H	R1 Prohibited with deflated suspension
-Scotland	0996	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	R1	Y	H	R1 Prohibited with deflated suspension
-Scotland	0996	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC125	YKR	Hyndland West Jn	Dalmuir Park Jn	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC131	HST	High Street Jn	Connection to Smithy Lye through line	High Street Jn – Connection to Smithy Lye through line	0	04	2	00	N	N	N	N	N	H	
-Scotland	0996	SC131	HST	Connection to Smithy Lye through line	Shields Jn	Connection to Smithy Lye through line – Shields Jn	2	00	2	35	N	N	N	N	N	H	
-Scotland	0996	SC133	MGE	Westerton Jn	Milngavie	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	Y	Y	H	
-Scotland	0996	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	Y	Y	H	
+Scotland	0996	SC059	AYR1	Shields Jn	Change of ELR (Paisley Gilmour Street)	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	AYR2	Change of ELR (Paisley Gilmour Street)	Change of ELR (Brown Street crossover)	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	AYR3	Change of ELR (Brown Street crossover)	Change of ELR (Dalry)	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	AYR4	Change of ELR (Dalry)	Change of ELR (Barassie Jn)	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	AYR5	Change of ELR (Barassie Jn)	Change of ELR (Between Troon and Prestwick International Airport)	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport)	Falkland Jn	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	AYR6	Falkland Jn	Ayr	Falkland Jn – Ayr	38	73	40	49	Y	Y	Y	Y	Y	H
+Scotland	0996	SC059	STR1	Ayr	Dalrymple Jn	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	N	N	H
+Scotland	0996	SC059	STR1	Dalrymple Jn	Change of ELR (Girvan)	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	N	N	H
+Scotland	0996	SC059	STR2	Change of ELR (Girvan)	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	N	N	H
+Scotland	0996	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	Change of ELR (Stranraer Yard GF)	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	N	N	H
+Scotland	0996	SC059	STR4	Change of ELR (Stranraer Yard GF)	End of Line	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	N	N	H
+Scotland	0996	SC061	CNL	Shields Jn	Corkerhill	Shields Jn – Corkerhill	1	05	3	11	Y	Y	Y	Y	R1	H	R1 Only for access to / from Shields Depot
+Scotland	0996	SC061	CNL	Corkerhill	Paisley Canal	Corkerhill – Paisley Canal	3	11	7	00	Y	Y	Y	Y	N	N
+Scotland	0996	SC063	CND1	Cardonald Jn	Cardonald North Jn	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N
+Scotland	0996	SC063	CND2	Cardonald North Jn	Deanside (Goods Line)	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N
+Scotland	0996	SC065	GOU1	Paisley (Wallneuk Jn)	Change of ELR	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	Y	Y	Y	Y	Y	H

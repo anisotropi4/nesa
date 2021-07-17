@@ -1,17 +1,25 @@
-London-North-Eastern	1025	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Noteso
-London-North-Eastern	1025	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	N	N	R1	R2	N	Y	Y	R3	R1 Prohibited Newcastle platforms 9 and 10 R2 Prohibited Newcastle platform 9 with deflated suspension R3 Prohibited Newcastle Station platforms 5, 6, 7, 8, 9, 10, 11 and 12
-London-North-Eastern	1025	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	N	N	Y	Y	N	Y	Y	Y	
-London-North-Eastern	1025	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	N	N	E	R1	N	Y	Y	Y	R1 Prohibited Manors Down platform when laden
-London-North-Eastern	1025	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	R1	N	E	Y	N	Y	Y	R2	R1 Prohibited between Heaton South Jn and Berwick upon Tweed R2 Prohibited between Berwick upon Tweed Up Goods Loop (67m 38ch) and Route Boundary (SC147) (Prestonpans Jn)
-London-North-Eastern	1025	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	N	N	Y	Y	N	Y	Y	Y	
-London-North-Eastern	1025	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1025	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	Y	N	Y	Y	N	
-London-North-Eastern	1025	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	
-London-North-Eastern	1025	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1025	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1025	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1025	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1025	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	N	N	Y	R1 R2	R3	Y	Y	N	R1 30mph LEN3/151 Oxbridge Lane underbridge 59m32ch Down line R2 15mph Stockton Up platform R3 Prohibited between Northallerton East Jn and Eaglescliffe South Jn
-London-North-Eastern	1025	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	N	N	Y	R1 R2	Y	Y	Y	N	R1 Prohibited Hartlepool Bay platform R2 Prohibtied Hartlepool Up (disused) platform
-London-North-Eastern	1025	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1025	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	N	N	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1025	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1025	LN736	MAC3	West Burton East Jn	Thrumpton West Jn (Up)	West Burton East Jn – Thrumpton West Jn (Up)	72	18	63	28	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1025	LN736	MAC3	Thrumpton West Jn (Up)	Manton Wood	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1025	LN736	MAC3	Manton Wood	Brancliffe East Jn	Manton Wood – Brancliffe East Jn	58	54	53	57	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1025	LN736	MAC3	Brancliffe East Jn	Woodburn Jn	Brancliffe East Jn – Woodburn Jn	53	57	42	29	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1025	LN736	NUJ2	Woodburn Jn	Site of Former Nunnery Jn	Woodburn Jn – Site of Former Nunnery Jn	42	29	41	68	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1025	LN736	NUJ1	Site of Former Nunnery Jn	Nunnery Main Line Jn	Site of Former Nunnery Jn – Nunnery Main Line Jn	159	33	158	77	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1025	LN738	MWN	Great Coates No. 1	Network Rail Boundary (ABP)	Great Coates No. 1 – Network Rail Boundary (ABP)	108	34	108	44	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN740	MWN	Marsh West Jn	Network Rail Boundary (ABP)	Marsh West Jn – Network Rail Boundary (ABP)	107	69	108	44	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN740	PYE2	Network Rail Boundary (ABP)	Site of Former Queens Road Jn	Network Rail Boundary (ABP) – Site of Former Queens Road Jn	4	33	0	00	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN740	PYE1	Site of Former Queens Road Jn	Immingham East Jn	Site of Former Queens Road Jn – Immingham East Jn	106	50	106	31	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN740	BRI2	Immingham East Jn	Humber Road Jn	Immingham East Jn – Humber Road Jn	106	31	104	05	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN741	HAU	Habrough	Ulceby South Jn	Habrough – Ulceby South Jn	0	32	1	45	Y	Y	Y	Y	Y	N	Y	Y	N
+London-North-Eastern	1025	LN742	KIL2	Killingholme	Immingham West Change of Mileage	Killingholme – Immingham West Change of Mileage	2	70	0	00	N	N	N	N	N	N	R1	R1	N	R1 See Sectional Appendix Local Instructions
+London-North-Eastern	1025	LN742	KIL1	Immingham West Change of Mileage	Humber Rd Jn	Immingham West Change of Mileage – Humber Rd Jn	105	10	104	05	N	N	N	N	N	N	Y	Y	N
+London-North-Eastern	1025	LN742	BRI2	Humber Rd Jn	Ulceby North Jn	Humber Rd Jn – Ulceby North Jn	104	05	100	44	N	N	N	N	N	N	Y	Y	N
+London-North-Eastern	1025	LN742	BRI1	Ulceby North Jn	Brocklesby West Jn	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	R1	R1	R1	R1	R1	N	Y	Y	N	R1 Prohibited between Ulceby South Jn and Brocklesby West Jn
+London-North-Eastern	1025	LN744	BAR	Ulceby North Jn	Barton on Humber	Ulceby North Jn – Barton on Humber	100	44	110	18	Y	Y	Y	Y	Y	N	Y	Y	N
+London-North-Eastern	1025	LN746	TYB1	Cottam Power Station	Clarborough Jn	Cottam Power Station – Clarborough Jn	71	79	68	32	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN748	WHR	Retford Western Jn	Thrumpton West Jn	Retford Western Jn – Thrumpton West Jn	64	29	63	28	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1025	LN750	MAC3	Woodburn Jn	Deepcar	Woodburn Jn – Deepcar	42	29	33	35	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN752	DOW	Wrawby Jn	Marshgate Jn	Wrawby Jn – Marshgate Jn	33	34	0	03	Y	Y	Y	Y	Y	R1	Y	Y	N	R1 Prohibited between Wrawby Jn and Thorne Jn
+London-North-Eastern	1025	LN754	SAN	Scunthorpe Foreign Ore Branch		Scunthorpe Foreign Ore Branch	0	00	1	16	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN756	NOP1	Scunthorpe Trent Jn	Site of Former Dawes Lane Jn	Scunthorpe Trent Jn – Site of Former Dawes Lane Jn	0	00	0	28	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1025	LN756	NOP2	Site of Former Dawes Lane Jn	NR Boundary (Roxby)	Site of Former Dawes Lane Jn – NR Boundary (Roxby)	0	25	3	60	N	N	N	N	N	N	N	N	N

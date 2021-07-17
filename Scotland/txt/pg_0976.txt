@@ -3,43 +3,42 @@
 
 
 
-                                                                Scotland Route Sectional Appendix Module SCRC
+                                                                  Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170                180    185     220    221 Notes
-route                                                M    Ch   M    Ch 0000                0000   0000   0000   0000 ooooooooooooooooooooooooooo
-SC011     EGS2   Holytown Jn – Mossend East Jn             1    27     0   40        Y      N      Y      Y      Y
-SC011     EGS1   Mossend East Jn – Uddingston Jn           3    63     0   03        Y      N      Y      Y      Y
-SC013     SHR    Wishaw Central Jn – Shieldmuir Jn         86   63    87   43        N      N      Y      Y      Y
-SC015     MDN    Mossend East Jn – Mossend North Jn        0    40     0   06        N      N      Y      N      N
-                 (North Curve)
-SC017     MDE    Mossend East Jn – Mossend South Jn        0    31     0   00        N      N      N      Y      Y
-                 (East Curve)
-SC019     MDW    Mossend South Jn – Mossend West Jn        91   08    91   50        N      N      Y      Y      Y
-                 (West Curve)
-SC021     COS2   Coltness – Change of ELR                  0    09     0   00        N      N      N      N      N
-SC021     COS1   Change of ELR – Garriongill Jn            14   15    15   29        N      N      N      N      N
-SC023     HMN1   Motherwell – Change of ELR                0    08     1   44        N      N      Y      Y      Y
-SC023     HMN2   Change of ELR – Newton, Hamilton Jn       6    61     0   00        N      N      Y      Y      Y
-SC024     LRK    Larkhall – Haughhead Jn                   3    00     0   00        N      N      N      N      N
-SC025     ARG1   Rutherglen Central Jn – Bridgeton Yard    0    00     0   43        N      N      N      N      N
-                 North End
-SC025     ARG2   Bridgeton Yard North End – Exhibition     0    86     4   03        N      N      N      N      N
-                 Centre
-SC025     ARG2   Exhibition Centre – Finnieston East Jn    4    03     4   41        N      N      N      N      N
-                 (Down line)
-SC025     ARG2   Exhibition Centre – Finnieston West Jn    4    03     4   74        N      N      N      N      N
-                 (Up line)
-SC027     RNC    Rutherglen West Jn – Rutherglen North     0    00     0   29        N      N      N      N      N
-                 Jn (West Curve)
-SC029     CLY    Larkfield Jn – Terminus Jn               101   01   101   62        Y      N      E      Y      Y
-SC029     BRD    Terminus Jn – Shields Jn via Through     101   62   102   16        Y      N      E      Y      Y
-                 Terminus lines
-SC029     CLY    Terminus Jn – Shields Jn                 101   62   102   16        Y      N      E      Y      Y
-SC031     GSW    Route Boundary (NW4031) (Gretna Jn)      115   40   109   00        N      N      Y      Y      Y
-                 – Old Route boundary (109m 00ch
-                 between Eastriggs and Annan)
-SC031     GSW    Old Route boundary (109m 00ch            109    0    33   44        N      N      Y      Y      Y
-                 between Eastriggs and Annan) –
-                 Change of ELR
+Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 142 143 144 150 153 156 158 Notes
+route                                                M    Ch   M    Ch 0000 0000 0000 0000 000 0000 0000 ooooooooooooooooooooooooooo
+                                                                                            0
+SC191     ECN2   Dundee Central Jn – Dundee                  58   69    59    14     N   N      N   Y    Y        Y   Y
+SC191     ECN2   Dundee – Camperdown Jn                      59   14    59    77     N   N      N   Y    Y        Y   Y
+SC191     ECN3   Camperdown Jn – Change of ELR               0    21    17    17     N   N      N   Y    Y        Y   Y
+                 (Arbroath SB)
+SC191     ECN4   Change of ELR (Arbroath SB) – Change        17   55    33    28     N   N      N   Y    Y        Y   Y
+                 of ELR (Montrose)
+SC191     ECN5   Change of ELR (Montrose) –                 203   11   239    55     N   N      N   Y    Y        Y   Y
+                 Craiginches
+SC191     ECN5   Craiginches – Aberdeen                     239   55   241    06     N   N      N   Y    Y        Y   Y
+SC193     HGL1   Perth South Jn – Change of ELR             150   61   158    38     N   N      N   Y    Y        Y   Y
+SC193     HGL2   Change of ELR – Stanley Jn                  7    02      7   07     N   N      N   Y    Y        Y   Y
+SC193     HGL2   Stanley Jn – Milburn Jn                     7    07   143    39     N   N      N   Y    R1       Y   Y   R1 40mph Kingussie Up platform 2
+SC193     HGL2   Milburn Jn – Welsh's Bridge Jn             117   37   117    56     N   N      N   Y    Y        Y   Y
+SC193     RSW    Welsh's Bridge Jn – Rose Street Jn         117   56   118    03     N   N      N   E    E        E   E
+SC193     HGL2   Welsh's Bridge Jn – Inverness platforms    117   56   118    03     N   N      N   Y    Y        Y   Y
+                 1-4
+SC195     ECN5   Aberdeen – Change of ELR                   241   06   241    08     N   N      N   Y    Y        Y   Y
+SC195     ANI1   Change of ELR – Keith Jn SB                 0    00    53    05     N   N      N   Y    Y        Y   Y
+SC195     ANI2   Keith Jn SB – Forres                        30   40      0   00     N   N      N   Y    Y        Y   Y
+SC195     ANI3   Forres – Milburn Jn                        119   26   143    39     N   N      N   Y    Y        Y   Y
+SC195     HGL2   Milburn Jn – Welsh's Bridge Jn             117   37   117    56     N   N      N   Y    Y        Y   Y
+SC195     RSW    Welsh's Bridge Jn – Rose Street Jn         117   56   118    03     N   N      N   E    E        E   E
+SC195     HGL2   Welsh's Bridge Jn – Inverness platforms    117   56   118    03     N   N      N   Y    Y        Y   Y
+                 1-4
+SC197     WRO    Kittybrewster – Waterloo Goods (Goods       1    62      0   03     N   N      N   N    N        N   N
+                 Line)
+SC199     DFN    Keith Jn – End of Line                      53   06    53    36     N   N      N   Y    Y        Y   Y
+SC203     RSW    Welsh's Bridge Jn – Rose Street Jn         117   56   118    03     N   N      N   E    E        E   E
+SC203     WCK    Inverness platforms 5-7 – Rose Street Jn    0    02      0   18     N   N      N   Y    Y        Y   R1 R1   10mph Inverness platform 6
+SC203     WCK    Rose Street Jn – Invergordon                0    18    31    37     N   N      N   Y    Y        Y   Y
+SC203     WCK    Invergordon – Georgemas Jn                  31   37   147    20     N   N      N   Y    Y        Y   Y
 
-October 2009                                                                    22
+
+October 2009                                                                    18

@@ -1,20 +1,15 @@
 Anglia	0461	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Anglia	0461	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	8	N	N	Y	N	N	N	
-Anglia	0461	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	8	N	N	Y	N	N	N	
-Anglia	0461	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	8	N	N	Y	N	N	N	
-Anglia	0461	EA1325	ELL2	Canal Jn	Lewisham (TFL Infrastructure)	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	8	N	N	Y	N	N	N	
-Anglia	0461	EA1327	ELL3	Silwood Jn	ELL/Network Rail Boundary (TFL Infrastructure)	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	8	N	N	Y	N	N	N	
-Anglia	0461	EA1327	ELL4	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	8	N	N	Y	N	N	N	
-Anglia	0461	EA1330	BOK 5	South Acton Jn	Kew East Jn	South Acton Jn – Kew East Jn	2	52	3	27	8	N	N	Y	N	N	N	
-Anglia	0461	EA1330	NKE1	Kew East Jn	Route Boundary (SW230) (New Kew Jn)	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	8	N	N	Y	N	N	N	
-Anglia	0461	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	8	N	N	Y	N	N	N	
-Anglia	0461	EA1340	LLS2	Lea Jn	High Meads Jn	Lea Jn – High Meads Jn	0	51	0	65	8	Y	Y	Y	Y	N	Y	
-Anglia	0461	EA1350	CHM	Channelsea North Jn	High Meads Jn	Channelsea North Jn – High Meads Jn	0	00	0	15	8	Y	Y	Y	Y	N	N	
-Anglia	0461	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	8	Y	Y	Y	Y	N	Y	
-Anglia	0461	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	8	N	N	Y	N	N	N	
-Anglia	0461	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	8	N	N	Y	N	N	N	
-Anglia	0461	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	8	N	N	Y	N	N	N	
-Anglia	0461	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	8	N	N	Y	N	N	N	
-Anglia	0461	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	8	N	N	Y	N	N	N	
-Anglia	0461	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	8	N	N	Y	N	N	N	
-Anglia	0461	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	8	N	N	Y	N	N	N	
+Anglia	0461	EA1160	BGK	Bethnal Green East Jn	Reading Lane Jn	Bethnal Green East Jn – Reading Lane Jn	1	10	2	55	4	R1 R2	R1 R2	N	R1 R2	N	N	R1 10mph maximum speed except for movements permitted by R2 R2 Single light engines and/or single headed locomotives hauled passenger and infrastructure measurement trains are permitted to run at line speed subject to the following restrictions: Fast lines 20mph over Bridge 1361 (2m 38ch) Suburban lines 20mph over Bridge 1337 (01m 20ch) NC/G1/2010/CP-RA/EA001V until 31 March 2022
+Anglia	0461	EA1160	BGK	Reading Lane Jn	Hackney Downs North Jn	Reading Lane Jn – Hackney Downs North Jn	2	55	3	04	4	R1	R1	N	R1	N	N	R1 10mph maximum speed
+Anglia	0461	EA1160	BGK	Hackney Downs North Jn	Coppermill Jn	Hackney Downs North Jn – Coppermill Jn	3	04	4	74	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1160	BGK	Coppermill Jn	Tottenham South Jn	Coppermill Jn – Tottenham South Jn	4	74	5	41	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1160	BGK	Tottenham South Jn	Bishops Stortford (Cannons Mill Lane Footpath LC (R/G-X)	Tottenham South Jn – Bishops Stortford (Cannons Mill Lane Footpath LC (R/G-X)	5	41	31	31	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1161	BGK	(Cannons Mill Lane Footpath LC (R/G- X) Stansted Mountfitchet	Shepreth Branch Jn	(Cannons Mill Lane Footpath LC (R/G- X) Stansted Mountfitchet – Shepreth Branch Jn	31	31	53	06	8	R1	R1	Y	R1	N	N	R1 See Sectional Appendix Local Instructions
+Anglia	0461	EA1161	BGK	Shepreth Branch Jn	Ely Dock Jn	Shepreth Branch Jn – Ely Dock Jn	53	06	69	79	8	R1	R1	R2	R1	H	N	R1 See Sectional Appendix Local Instructions R2 Prohibited Cambridge Bay platform 3
+Anglia	0461	EA1161	BGK	Ely Dock Jn	Ely North Jn	Ely Dock Jn – Ely North Jn	69	79	71	68	8	R1	R1	Y	R1	H	N	R1 See Sectional Appendix Local Instructions
+Anglia	0461	EA1162	BGK	Ely North Jn	Kings Lynn	Ely North Jn – Kings Lynn	71	68	96	75	8	R1	R1	Y	R1	N	N	R1 See Sectional Appendix Local Instructions
+Anglia	0461	EA1170	HDT	Hackney Downs North Jn	Seven Sisters Jn	Hackney Downs North Jn – Seven Sisters Jn	3	04	5	70	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1170	HDT	Seven Sisters Jn	Bury Street Jn	Seven Sisters Jn – Bury Street Jn	5	70	9	20	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1170	ENT	Bury Street Jn	Enfield Town	Bury Street Jn – Enfield Town	9	20	10	55	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1180	GRE	Reading Lane Jn	Navarino Road Jn (Graham Rd Curve)	Reading Lane Jn – Navarino Road Jn (Graham Rd Curve)	2	55	2	79	8	Y	Y	Y	Y	N	N
+Anglia	0461	EA1190	HDT	Bury Street Jn	Cheshunt Jn	Bury Street Jn – Cheshunt Jn	9	20	14	28	8	Y	Y	Y	Y	N	N

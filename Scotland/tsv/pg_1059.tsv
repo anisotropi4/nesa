@@ -1,23 +1,20 @@
 Scotland	1059	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1059	SC091	WAT	Dalrymple Jn	Chalmerston (Goods Line)	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC093	SCM1	Motherwell	Mossend South	Motherwell – Mossend South	89	51	91	08	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC093	SCM2	Mossend South	Whifflet North Jn	Mossend South – Whifflet North Jn	91	08	94	05	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC093	SCM3	Whifflet North Jn	Gartsherrie South Jn (Limit of OLE)	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC093	SCM3	Gartsherrie South Jn (Limit of OLE)	Greenhill Lower Jn	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC097	SYE	Whifflet South Jn	Sunnyside Jn (Goods Line)	Whifflet South Jn – Sunnyside Jn (Goods Line)	9	63	8	43	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC099	RSL2	Whifflet North Jn	Change of ELR	Whifflet North Jn – Change of ELR	0	00	0	34	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC099	RSL1	Change of ELR	Langloan Jn	Change of ELR – Langloan Jn	6	59	6	34	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC099	RCB	Langloan Jn	Rutherglen East Jn	Langloan Jn – Rutherglen East Jn	6	34	0	04	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC101	RCB	Coatbridge Jn	Langloan Jn	Coatbridge Jn – Langloan Jn	7	03	6	34	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC103	CBD1	Garnqueen North Jn	Gartcosh Jn	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC103	CBD2	Gartcosh Jn	Change of ELR	Gartcosh Jn – Change of ELR	97	09	103	41	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC103	SGN	Change of ELR	Cowlairs West Jn	Change of ELR – Cowlairs West Jn	0	61	-0	20	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC105	GHE	Gartsherrie South Jn	Gartcosh Jn	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC106	PNS	Sighthill West Jn	Cowlairs South Jn (Chord Line)	Sighthill West Jn – Cowlairs South Jn (Chord Line)	0	30	0	00	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1059	SC107	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1059	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC029	CLY	Larkfield Jn	Terminus Jn	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC029	BRD	Terminus Jn	Shields Jn via Through Terminus lines	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC029	CLY	Terminus Jn	Shields Jn	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	GSW	Route Boundary (NW4031) (Gretna Jn)	Old Route boundary (109mch between Eastriggs and Annan)	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109mch between Eastriggs and Annan)	115	40	109	00	8	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	GSW	Old Route boundary (109mch between Eastriggs and Annan)	Change of ELR	Old Route boundary (109mch between Eastriggs and Annan) – Change of ELR	109	0	33	44	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	GBK	Change of ELR	Muirhouse South Jn	Change of ELR – Muirhouse South Jn	23	44	1	18	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	MEN2	Muirhouse South Jn	Muirhouse Central Jn	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	MEN1	Muirhouse Central Jn	Eglinton St Jn	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC031	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC035	KSH	Bank Jn	Network Rail Boundary (Connel Park LC) / Knockshinnoch	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC036	GNN	Greenburn Jn	Greenburn Open Cast (Goods Line)	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC037	RIC1	Kay Park Jn	Bellfield	Kay Park Jn – Bellfield	0	00	1	06	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC037	RIC2	Bellfield	Riccarton (Goods Line)	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC039	BAK	Kilmarnock	Barassie	Kilmarnock – Barassie	0	05	7	56	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	SC045	EKE	East Kilbride	Busby Jn	East Kilbride – Busby Jn	7	60	0	40	5	N	R1 R2 R3 R4 R5	N	N	N	N	N	R1 Infrastructure maintenance purposes only R2 Prohibited from hauling vehicles that exceed RA5 R3 Double Heading is prohibited R4 20mph maximum speed R5 10mph over bridge 33 (3m 49ch)
+Scotland	1059	SC047	LFS2	Muirhouse South Jn	Change of ELR	Muirhouse South Jn – Change of ELR	1	19	0	61	10	Y	Y	Y	Y	Y	Y	Y

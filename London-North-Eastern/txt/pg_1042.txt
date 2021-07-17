@@ -1,43 +1,45 @@
-                                                                                    OFFICIAL
+                                                                                       OFFICIAL
 
 
-                                                                    LNE Route Sectional Appendix Module LNRC
+                                                                       LNE Route Sectional Appendix Module LNRC
 
 
 
+Line of ELR     Line of Route / Sector Description          M     Ch   M     Ch   170 172 180 185 195 220 221 222 Notes
+route
+LN627 LEN3      Boldon East Jn – Boldon West Jn              94   63    95   16   N    N     Y    Y    Y    Y     Y   N
+LN627 LEN3      Boldon West Jn – Pelaw Metro Jn              95   16    97   64   N    N     Y    Y    Y    Y     Y   N
+LN627 LEN3      Pelaw Metro Jn – Park Lane Jn                97   64   100   65   N    N     Y    R1   Y    Y     Y   N   R1   30mph Heworth Up platform
+LN627 LEN3      Park Lane Jn – High Level Bridge Jn         100   65   101   33   N    N     Y    Y    N    Y     Y   N
+LN627 LEN3      High Level Bridge Jn – Newcastle East Jn 101      33   101   59   N    N     Y    Y    N    Y     Y   N
+LN628 NEK       South Hylton – Sunderland South Jn           3    20    0    00   N    N     N    N    N    N     N   N
+LN629 PDL       Pelaw Metro Jn – Network Rail Boundary       97   64    98   01   N    N     N    N    N    N     N   N
+                (Metro Operating)
+LN630 PUL       Pelaw Metro Jn – Network Rail Boundary       97   64    97   77   N    N     N    N    N    N     N   N
+                (Metro Operating)
+LN631 DSN1      Darlington South Jn – Eaglescliffe South     0    29    8    58   N    N    R1    Y    Y    Y     Y   N   R1   15mph Dinsdale Up platform
+                Jn
+LN632 DSN2      Stockton Cut Jn – Redcar Change of           10   13    21   72   N    N    R1    Y    R2   N     N   N   R1   Prohibited between Thornaby and Redcar Change of
+                Mileage                                                                                                        Mileage
+                                                                                                                          R2   Prohibited British Steel Redcar Up platform with deflated
+                                                                                                                               secondary suspension
+LN632 DSN3      Redcar Change of Mileage – Saltburn          22   16    27   57   N    N     N    R1   Y    N     N   N   R1   Prohibited Church Lane Level Crossing (23m 20ch) to
+                                                                                                                               Saltburn
+LN634 MBW1 Guisborough Jn – Battersby Jn                     0    00    10   54   N    N     N    R1   N    N     N   N   R1   Prohibited between Nunthorpe and Battersby Jn
+LN634 MBW2 Battersby Jn (End of Line) – Grosmont Jn          11   61    29   66   N    N     N    N    N    N     N   N
+LN634 MBW3 Grosmont Jn – Whitby                              24   44    30   61   N    N     N    N    N    N     N   N
+LN636 No ELR Beam Mill Jn – Network Rail Boundary            18   03    18   67   N    N     N    N    N    N     N   N
+LN638 WCI       Shell Jn – Network Rail Boundary             0    00    1    03   N    N     N    N    N    N     N   N
+LN642 SSK1      Saltburn West Jn – Network Rail              27   05    34   29   N    N     N    N    N    N     N   N
+                Boundary (Cleveland Potash)
+LN644 BOH       Hartburn Jn – Bowesfield SB (Hartburn        0    00    0    44   N    N     Y    Y    Y    N     N   N
+                Curve)
+LN646 STF       Norton-on-Tees South – Ferryhill South       0    00    10   72   N    N     Y    Y    Y    Y     Y   N
+                Jn
+LN648 NWE       Norton-on-Tees West – Norton-on-Tees         0    29    0    00   N    N     Y    N    N    Y     Y   N
+                East
+LN652 POC1      Billingham Jn – Phillips Siding Jn           0    00    3    25   N    N     N    N    N    N     N   N
+LN652 POC2      Phillips Siding Jn – Seal Sands Branch Jn    3    25    5    01   N    N     N    N    N    N     N   N
 
-Table D1B (East Midlands) – Route clearance of diesel multiple units
-                                                                                                                                                     Last Updated: 21/03/2020
-To be read in conjunction with General Notes.
 
-
-Line of ELR       Line of Route / Sector                oooo oooo oooo oooo 168 170 172 180 195 220 221 222         Notes
-route             Description                            M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-LN3140      BBM Route Boundary (MD140) (Bedford St.       16   07    16   50   N     N        E    N    N      N    N    N   R1   Prohibited with footsteps fitted
-                Johns) – Bedford Station Jn                                                   R1
-LN3140     SPC1 Bedford Station Jn – Bedford Station      49   60    49   65   N     N        E    N    N      N    N    N   R1   Prohibited with footsteps fitted
-                (Via Up and Down Bletchley line)                                              R1
-LN3201     SPC1 St. Pancras platforms 1, 2, 3 and 4 -      0   12    5    09   E     Y        E    N    N      Y    Y    Y   R1   Prohibited between St Pancras platforms
-                Cricklewood                                                                   R1                                  1, 2, 3 and 4 and Carlton Road Jn
-LN3201     SPC1 Cricklewood – Change of ELR                5   09    50   00   E     Y        E    N    N      Y    Y    Y
-                (Bedford)
-LN3201     SPC2 Change of ELR (Bedford) – Change of       50   00    64   78   E     Y        E    N    N      R1   R1   Y   R1   90mph between Sharnbrook and
-                ELR (Wellingborough)                                                                                              Wellingborough Station
-LN3201     SPC3 Change of ELR (Wellingborough) –          64   78    95   38   E     Y        E    N    N      R1   R1   Y   R1   90mph between Sharnbrook and
-                Change of ELR (Wigston South Jn)                                                                                  Wellingborough Station
-LN3201     SPC4 Change of ELR (Wigston South Jn) –        95   38    98   73   E     Y        E    N    N      Y    Y    Y
-                Change of ELR (Leicester)
-LN3201     SPC5 Change of ELR (Leicester) –               98   73    99   07   E     Y        E    N    N      Y    Y    Y
-                Leicester
-LN3201     SPC5 Leicester – Ratcliffe Jn                  99   07   118   34   E     Y        E    N    N      Y    Y    Y
-LN3201     SPC5 Ratcliffe Jn – Change of ELR             118   34   118   60   E     Y        E    N    N      Y    Y    Y
-                (Ratcliffe)
-LN3201     SPC6 Change of ELR (Ratcliffe) – Change of    118   60   126   27   E     Y        E    N    Y      Y    Y    Y
-                ELR (Spondon)
-LN3201     SPC7 Change of ELR (Spondon) – London         126   27   128   23   E     Y        E    E    Y      Y    Y    Y
-                Road Jn
-LN3201     SPC8 London Road Jn – Derby Jn                127   54   128   08   E     Y        E    E    Y      Y    Y    Y   R1   Prohibited Derby platforms 3 and 4
-                                                                                                   R1
-
-
-October 2009                                                                             29
+ October 2009                                                                              25B

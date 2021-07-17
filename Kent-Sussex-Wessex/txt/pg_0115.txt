@@ -1,4 +1,4 @@
-                                                            OFFICIAL
+                                                           OFFICIAL
 
 
 Kent / Sussex / Wessex Routes Sectional Appendix Module KSW1
@@ -6,35 +6,57 @@ Kent / Sussex / Wessex Routes Sectional Appendix Module KSW1
 
 
 
-International passenger and ECS trains - additional
-signs
-The following signs apply to the Drivers of International passenger and ECS trains only:-
+GSM-R GENERAL INSTRUCTION
+TW5 Section 24 - Known Searching Network Locations
+The locations in the table below have encountered a temporary reduction in radio coverage with the GSM-R system which
+may result in registration problems and the ability of the driver to contact the signaller. This will be presented to the Driver
+on the DCP as ‘searching for network’.
 
-End of Restriction Indicator (shown below)
-Indicates to the Drivers of trains formed of a Class 373 unit that the rear of his train is clear of a speed restriction or
-conductor rail gap. The indicator has a white background with the lettering and triangle back.
+Drivers must carry out the ‘Pending Registration’ process on the radio and continue their journey.
+
+     Location                Fault Number       Comments                                      Outcome
+     Hilsea                  FMS 283097         Coverage issues                               Area tested and no
+                                                                                              fault found
+     Camberley               FMS FRI            Coverage/Interference issues.                 Investigation ongoing
+                             283625.
+     Canterbury West         NA                 Registration issues due to interference       Fixed – Repeater
+                                                                                              installed
+     Hayes                   NA                 Registration issues due to interference       Fixed – Repeater
+                                                                                              installed
+
+TW5 Section 24 - Known Misrouted Call Locations
+
+The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls may
+misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
+
+Drivers are instructed to use the phone book to contact the signaller from these locations.
+
+      Location                                     Fault              Comments                          Outcome
+                                                   Number
+      Aldershot South Junction – Up Ash            322915             Calls are misrouted to Woking
+      Branch: GD960                                                   ASC instead of Guildford
+      Crystal Palace                               NA                 GSM-R calls from trains at        Fixed –
+                                                                      Crystal Palace being received     Changes to
+                                                                      at TBASC panel A.                 coverage
+                                                                                                        design
+      Tattenham Corner                             FMS FRI-           Misrouted calls                   Fixed –
+                                                   292073                                               GSMR
+                                                                                                        Power
+                                                                                                        increased on
+                                                                                                        serving site
+
+GSM-R Faults and Failures Response
+
+Version 1.1
+
+Purpose
+
+To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+
+Appendix 1 covers the response to system faults from a single fixed terminal through to failures of the infrastructure
+resulting in loss of coverage in a geographical area.
 
 
 
 
-Class 373 “No Go” Indicator (shown below)
-Indicates to the Drivers of trains formed of a Class 373 unit routes that they are prohibited from, unless specially
-authorised. The indicator has a blue surround, yellow lettering, with a red cross on a yellow background.
-
-
-
-
-                                                South East (Kent, Sussex, Wessex) Territory GI - Dated: 02/12/06
-
-
-International Passenger and ECS trains - defect
-reporting
-Defects affecting the running of International Passenger and ECS trains will be reported to the Signaller via the
-International Train Radio. The Signaller must advise Network Rail Control of the details who, in turn, must advise the
-EUKL. Duty Control Manager.
-                                                South East (Kent, Sussex, Wessex) Territory GI - Dated: 02/12/06
-
-
-
-
-December 2009                                                   95
+December 2009                                                93GA

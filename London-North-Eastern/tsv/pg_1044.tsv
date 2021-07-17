@@ -1,21 +1,22 @@
-London-North-Eastern	1044	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1044	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	N	N	N	N	N	N	N	N	
-London-North-Eastern	1044	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
-London-North-Eastern	1044	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	N	Y	N	N	Y	N	N	Y	
-London-North-Eastern	1044	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	N	Y	N	N	Y	N	N	Y	
-London-North-Eastern	1044	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	N	Y	N	N	R1	N	N	Y	R1 Prohibited between Trent South Jn and Meadow Lane Jn
-London-North-Eastern	1044	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	N	Y	N	N	Y	N	N	Y	
-London-North-Eastern	1044	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	Y	N	N	N	N	N	Y	
-London-North-Eastern	1044	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	N	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1044	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	E	Y	E	E R1	N	Y	Y	R2	R1 Prohibited between Barton South Jn and Route Boundary (MD501) Kingsbury Jn R2 Prohibited between Wichnor Jn and Route Boundary (MD501) Kingsbury Jn
-London-North-Eastern	1044	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1044	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	N	
-London-North-Eastern	1044	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	E	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1044	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	E	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1044	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1044	LN702	BWC	Bedlington North	Network Rail Boundary (Lynemouth Colliery)	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN704	ISC	Newsham North Jn	Network Rail Boundary (Blyth Bates Terminal)	Newsham North Jn – Network Rail Boundary (Blyth Bates Terminal)	0	00	0	36	N	N	N	N	N	N	N	N	Line out of use NME/2010/LNE/006 and NME/2010/LNE009
+London-North-Eastern	1044	LN706	WSB	West Sleekburn Jn	North Blyth	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN708	MWJ	Winning Jn	Marchey's House Jn	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN736	MAC3	Cleethorpes	Grimsby Docks	Cleethorpes – Grimsby Docks	112	40	110	11	Y	N	N	Y	Y	N	N	N
+London-North-Eastern	1044	LN736	MAC3	Grimsby Docks	Marsh West Jn	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	N	N	Y	Y	N	N	N
+London-North-Eastern	1044	LN736	MAC3	Marsh West Jn	Wrawby Jn	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	N	N	Y	Y	N	N	N
+London-North-Eastern	1044	LN736	MAC3	Wrawby Jn	West Burton East Jn	Wrawby Jn – West Burton East Jn	94	12	72	18	N	N	N	R1	Y	N	N	N	R1 15mph Gainsborough Central Up platform 1
+London-North-Eastern	1044	LN736	MAC3	West Burton East Jn	Thrumpton West Jn (Up)	West Burton East Jn – Thrumpton West Jn (Up)	72	18	63	28	N	N	N	Y	Y	N	N	N
+London-North-Eastern	1044	LN736	MAC3	Thrumpton West Jn (Up)	Manton Wood	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	N	N	N	Y	Y	N	N	N
+London-North-Eastern	1044	LN736	MAC3	Manton Wood	Brancliffe East Jn	Manton Wood – Brancliffe East Jn	58	54	53	57	R1	N	N	Y	Y	N	N	N	R1 Prohibited between Shireoaks East Jn and Brancliffe East Jn
+London-North-Eastern	1044	LN736	MAC3	Brancliffe East Jn	Woodburn Jn	Brancliffe East Jn – Woodburn Jn	53	57	42	29	R1	N	N	Y	Y	R1	R1	R1	R1 Prohibited between Brancliffe East Jn and Woodhouse Jn
+London-North-Eastern	1044	LN736	NUJ2	Woodburn Jn	Site of former Nunnery Jn	Woodburn Jn – Site of former Nunnery Jn	42	29	41	68	Y	N	N	R1	Y	Y	Y	Y	R1 5mph Darnall Down platform
+London-North-Eastern	1044	LN736	NUJ1	Site of former Nunnery Jn	Nunnery Main Line Jn	Site of former Nunnery Jn – Nunnery Main Line Jn	159	33	158	77	Y	N	N	Y	Y	Y	Y	Y
+London-North-Eastern	1044	LN738	MWN	Great Coates No. 1	Network Rail Boundary (ABP)	Great Coates No. 1 – Network Rail Boundary (ABP)	108	34	108	44	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN740	MWN	Marsh West Jn	Network Rail Boundary (ABP)	Marsh West Jn – Network Rail Boundary (ABP)	107	69	108	44	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN740	PYE2	Network Rail Boundary (ABP)	Site of former Queens Road Jn	Network Rail Boundary (ABP) – Site of former Queens Road Jn	4	33	0	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN740	PYE1	Site of former Queens Road Jn	Immingham East Jn	Site of former Queens Road Jn – Immingham East Jn	106	50	106	31	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN740	BRI2	Immingham East Jn	Humber Road Jn	Immingham East Jn – Humber Road Jn	106	31	104	05	N	N	N	N	N	N	N	N
+London-North-Eastern	1044	LN741	HAU	Habrough	Ulceby South Jn	Habrough – Ulceby South Jn	0	32	1	45	Y	N	N	Y	N	N	N	N
+London-North-Eastern	1044	LN742	KIL2	Killingholme	Immingham West Change of Mileage	Killingholme – Immingham West Change of Mileage	2	70	0	00	N	N	N	N	N	N	N	N

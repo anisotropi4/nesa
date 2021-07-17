@@ -1,17 +1,22 @@
 Scotland	1046	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1046	SC145	MLG2	Change of ELR	Mallaig	Change of ELR – Mallaig	0	00	39	39	5	Y	R1 R2 R3	R4 R5	R1 R2 R3	N	R1 R2 R3	N	R1 30mph over bridge 29 (6m 18ch) R2 20mph over bridge 051 (Drumsalie) (10m 19ch) R3 10mph over bridge 134 (31m 04ch) R4 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R5 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1046	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn)	Prestonpans Jn	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	69	67	9	67	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECM8	Prestonpans Jn	Calton South Tunnel	Prestonpans Jn – Calton South Tunnel	9	67	0	29	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECM9	Calton South Tunnel	Waverley East End	Calton South Tunnel – Waverley East End	0	29	0	21	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC147	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1046	SC149	NBK	North Berwick	Drem Jn	North Berwick – Drem Jn	22	22	18	15	5	Y	N	N	N	N	N	N	
+Scotland	1046	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	SCM3	Carmuirs West Jn	Stirling Middle Jn	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	SCM3	Stirling Middle Jn	Change of ELR (Dunblane)	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	SCM4	Change of ELR (Dunblane)	Perth South Jn	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	SCM5	Perth South Jn	Change of Mileage	Perth South Jn – Change of Mileage	150	61	151	03	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	SCM5	Change of Mileage	Dundee Central Jn	Change of Mileage – Dundee Central Jn	21	01	0	36	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC119	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1046	SC123	NBE	Bathgate	Change of ELR	Bathgate – Change of ELR	25	18	25	00	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM1	Change of ELR	Drumgelloch	Change of ELR – Drumgelloch	25	00	11	70	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	5	R1	R1	R1	R1	R1	R1	N	R1 10mph over bridge 240/116 (0m 18ch)
+Scotland	1046	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	5	Y	Y	Y	Y	Y	Y	N
+Scotland	1046	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	7 R1	R2	R2	R2	R2	R2	R2	R2	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014 R2 10mph over bridge 240/128 (2m 24ch)
+Scotland	1046	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	5 R1	R2	R2	R2 R3	R2	N	N	N	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014 R2 10mph over bridge 240/128 (2m 24ch) R3 Route prohibited to Class 47/4 locomotives that conform to RA7
+Scotland	1046	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	7	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1046	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	10	Y	Y	Y	Y	Y	Y	Y

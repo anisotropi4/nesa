@@ -1,46 +1,51 @@
-                                                                                     OFFICIAL
+                                                                                       OFFICIAL
 
 
-                                                                LNE Route Sectional Appendix Module LNRC
-
-
-
-    Line of    ELR    Line of Route / Sector                  oooo oooo oooo oooo RA Loco Gauge Notes
-    route             Description                              M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-    LN642      SSK1   Saltburn West Jn – Network Rail          27   05    34   29    8          Y
-                      Boundary (Cleveland Potash)
-    LN644      BOH    Hartburn Jn – Bowesfield SB               0   00     0   44    8          Y
-                      (Hartburn Curve)
-    LN646      STF    Norton-on-Tees South – Ferryhill          0   00    10   72    8          Y
-                      South Jn
-    LN648      NWE    Norton-on-Tees West – Norton-on-          0   29     0   00    8          Y
-                      Tees East
-    LN652      POC1   Billingham Jn – Phillips Siding Jn        0   00     3   25    8          Y
-    LN652      POC2   Phillips Siding Jn – Seal Sands           3   25     5   01    8          Y
-                      Branch Jn
-    LN652      SES    Seal Sands Branch Jn – End of NR          0   00     2   44    8          Y
-                      maintenance
-    LN656      SOT    Seaton Snook Jn – Seaton-on-Tees          0   00     1   51    8          Y
-    LN662      HNB    Ryhope Grange – Hendon                    0   00     1   53    8          Y
-    LN664      BNW    Boldon East Jn – Boldon North Jn          0   00     0   20    8          Y
-    LN666      BGE    Boldon West Jn – Boldon North Jn          0   00     0   32    8          Y
-    LN666      GLT    Boldon North Jn – Tyne Dock               0   32     1   26    8          Y
-    LN670      JAW1   Pelaw Jn – Network Rail Boundary          0   09     3   36    8          Y
-                      (Shell Mex Depot Jarrow)
-    LN672      FEP    Wardley – Pelaw Jn                       19   70    20   75    8          R1     R1   Prohibited between Wardley and Pelaw Jn on the Down Leamside
-                                                                                                            line
-    LN674      HLK    High Level Bridge Jn – Greensfield Jn     0   00     0   21    8          Y
-                      (West Curve)
-    LN676      PLG1   Park Lane Jn – Site of Former High      100   65   101   15    8          Y
-                      Street Jn
-    LN676      PLG2   Site of Former High Street Jn –           0   00     0   21    8          Y
-                      Greensfield Jn
-    LN676      HLK    Greensfield Jn – King Edward Bridge       0   16     0   48    8          Y
-                      South Jn
-    LN678      DAE1   Darlington North Jn – Site of Former     44   36    44   64    8          Y
-                      Parkgate Jn
+                                                                       LNE Route Sectional Appendix Module LNRC
 
 
 
+ Line of       Line of Route / Sector                                                Gauge                            Notes
+ Route         Description
+                                                            W6    W7      W8     W9     W9Plus     W10 W10A W12
+ LN646         Norton-on-Tees South – Ferryhill South Y          Y       S1     N       N          N   N    N         S1 The following combinations are
+               Jn                                                                                                        permitted:
+                                                                                                                         2146 h x 2500 w box on FCA wagons
+                                                                                                                         All lines
+                                                                                                                         2667 h x 2500 w box on FKA wagons
+                                                                                                                         All lines
+                                                                                                                         2665 h x 2500 w (S21) 2675 h x 2500
+                                                                                                                         w box on FKA wagons Up Line
+                                                                                                                      STNC NC/G1/2009/ICP-G/LNE007 applies, valid to
+                                                                                                                      30/12/11
+ LN648         Norton-on-Tees West – Norton-on-         Y        Y       Y      N       N          N     N        N
+               Tees East
+ LN652         Billingham Jn – Phillips Road            Y        Y       Y      N       N          N     N        N
+ LN652         Belasis Lane – Seal Sands via Phillips   Y        N       N      N       N          N     N        N
+               Road
+ LN652         Belasis Lane Junction – ICI Haverton     Y        Y       Y      N       N          N     N        N       Part not NR Infrastructure
+               Hill
+ LN656         Seaton-on-Tees Branch                    Y        N       N      N       N          N     N        N
+ LN662         Ryhope Grange – Hendon                   Y        Y       Y      N       N          N     N        N
+ LN664         Boldon East Jn – Boldon North Jn         Y        Y       Y      Y       N          Y     N        Y
+ LN666         Boldon West Jn – Tyne Dock (NR limit)    Y        Y       Y      Y       N          Y     N        N
+               [ 1m 26ch ]
+ LN670         Jarrow Branch                            Y        N       N      N       N          N     N        N
+ LN672         Wardley – Pelaw Jn                       -        -       -      -       -          -     -        -       Line 'Out of Use (Temporary)'
+ LN674         High Level Bridge Jn – Greensfield Jn    Y*       Y       Y      N       N          N     N        N
+               (West Curve)
+ LN676         Park Lane Jn – King Edward Bridge        Y        Y       Y      Y       N          Y     N        N
+               South Jn
+ LN678         Darlington North Jn – Eastgate           S1 *     N       N      N       N          N     N        N   S1 Freight vehicles conforming to the
+                                                                                                                         W6a profile are permitted, EXCEPT
+                                                                                                                         IFA-S IFA-U wagons
 
-October 2009                                                                             112
+                                                                                                                          Line not NR Infrastructure beyond
+                                                                                                                          Bishop Auckland
+ LN682         King Edward Bridge South Jn –            Y*       Y       Y      N       N          N     N        N
+               Norwood Jn
+
+
+
+
+October 2009                                                                                93

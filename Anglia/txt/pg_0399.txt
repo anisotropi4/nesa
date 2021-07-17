@@ -1,43 +1,45 @@
-                                                                  Anglia Route Sectional Appendix Module AR2
-
-Line of ELR Line of Route / Sector                    oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357 Notes
-route       Description                                M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000    0000 MOD ooooooooooooooooooooooooooo
-EA1220 TLA    Stansted East Jn –Stansted Airport        34   26     36    67   N    Y      Y   N     Y    Y    H   N    N   N
-EA1230 SBR    Route Boundary (LN125) (Royston) –        45   60     55    26 R1     R2    R2   N    R2   R2    H   N    N   N R1     Must only run with D.C. shoe gear
-              Shepreth Branch Jn                                             R2                                                      removed
-                                                                                                                                R2   See Sectional Appendix Local
-                                                                                                                                     Instructions
-EA1270 MIT    Kings Lynn Jn – Middleton towers           0   22      3    44   N    N      N   N     N    N    N   N    N   N
-EA1270 MIT    Kings Lynn Jn – Kings Lynn Yard            0   22      0    00   N    N      N   N     N    N    N   N    N   N
-              branch end
-EA1280 SDC    Stratford Central Jn East – Temple         3   76      4    45   N    Y      Y   N     Y    Y    H   R1   N   N R1     ECS only between Stratford and Temple
-              Mills East Jn. (Via Platforms 11 & 12                                                                                  Mills East Jn
-              at Stratford)
-EA1280 SDC    Temple Mills East Jn – Coppermill Jn       4   45      7    14   N    Y      Y   N     Y    Y    H   E    N   N R1     Prohibited Ruckholt Road Jn to
-                                                                                                                   R1                Coppermill Jn
-EA1290 TSE2 Tottenham South Jn – Change of               5   41      5    54   N    Y      Y   N     Y    Y    H   N    N   N
-            mileage
-EA1290 TSE1 Change of mileage – South                    6   22      5    73   N    Y      Y   N     Y    Y    H   N    N   N
-            Tottenham East Jn
-EA1300 SSL    South Tottenham West Jn – Seven            0   13      0    00   N    Y      Y   N     Y    Y    H   N    N   N
-              Sisters Jn
-EA1310 BOK2 Camden Road West Jn – Gospel Oak             0   00      1    10   Y    N      N   E     N    N    Y   E    N   N
-            Jn
-EA1310 BOK2 Gospel Oak Jn – Kensal Green Jn              1   10      5    10   Y    N      N   E     N    N    Y   E    N   N
-EA1310 KGC Kensal Green Jn – Route Boundary              0   00      0    21   Y    N      N   E     N    N    Y   N    N   N
-           (MD155) (Harlesden Jn)
-EA1310 KGW Kensal Green Jn – Route Boundary              5   10      5    25   Y    N      N   N     N    N    H   N    N   N
-           (MD150) (Willesden Suburban Jn)
-EA1310 BOK3 Kensal Green Jn – Willesden High             5   10      5    48   Y    N      N   E     N    N    Y   E    N   N
-            Level Jn
-EA1310 WMB Willesden High Level Jn – Route               0   43      0    09   Y    N      N   E     N    N    Y   N    N   N
-           Boundary (MD160) (Mitre Bridge Jn)
-EA1310 BOK4 Willesden High Level Jn – Former Old         0   00      0    34   Y    N      N   N     N    N    H   E    N   N
-            Oak Jn (change of mileage)
-EA1310 BOK4 Former Old Oak Jn (change of                 0   34      0    66   Y    N      N   N     N    N    H   E    N   N
-            mileage) – Acton Wells Jn
-            (Connection EA1360)
+                                                                                          OFFICIAL
 
 
+                                                                   Anglia Route Sectional Appendix Module AR2
 
-August 2006                                                                              294
+Table D2A – Route clearance of electric multiple units
+                                                                                                                                                   Last Updated: 03/04/2021
+To be read in conjunction with General Notes.
+357 MOD = 357 (Modified) and refers to Class 357 units that have had 65mm removed from the width of their footsteps
+
+Line of ELR Line of Route / Sector                   oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357 Notes
+route       Description                               M    Ch M Ch 000 000 000 000 000 000 000 000 000 MOD ooooooooooooooooooooooooooo
+EA1010 LTN1 Liverpool Street platforms 1-10 –            0    00     0    22    Y     Y      Y       N   Y   Y        H   R1   Y    Y   R1   Prohibited Liverpool Street platforms 1,
+            Liverpool St (L) IECC                                                                                                            2, 3 and 4
+EA1010 LVS      Liverpool Street platforms 11-17 –       0    00     0    22    Y     Y      Y       N   Y   Y        H   Y    Y    Y
+                Liverpool St (L) IECC
+EA1010 LTN1 Liverpool St (L) IECC – Bethnal Green        0    22      1   10    Y     Y      Y       N   Y   Y        H   R1   Y    Y   R1   Prohibited Liverpool Street Station Throat
+            East Jn                                                                                                                          to Bethnal Green West Jn on the Down
+                                                                                                                                             and Up Suburban lines
+EA1010 LTN1 Bethnal Green East Jn – Mile End             1    10     2    02    Y     Y      Y       N   Y   Y        H   Y    Y    Y
+EA1010 LTN1 Mile End – Bow Jn                            2    02     2    74    Y     Y      Y       N   Y   Y        H   Y    Y    Y
+EA1010 LTN1 Bow Jn – Carpenters Road South Jn            2    74     3    54    Y     Y      Y       N   Y   Y        H   Y    Y    Y
+EA1010 LTN1 Carpenters Road South Jn – Stratford         3    54     3    70    Y     Y      Y       N   Y   Y        H   Y    Y    Y
+            Central Jn West
+EA1010 LTN1 Stratford Central Jn West – Stratford        3    70     3    75    Y     Y      Y       N   Y   Y        Y   Y    Y    Y
+            Central Jn East
+EA1010 LTN1 Stratford Central Jn East – Forest           3    75     5    63    Y     Y      Y       N   Y   Y        Y   Y    Y    Y
+            Gate Jn
+EA1010 LTN1 Forest Gate Jn – Ilford Depot London         5    63     7    63    Y     Y      Y       N   Y   Y        Y   Y    E    R1 R1    Prohibited Ilford platform 3
+            End                                                                                                                R1
+EA1010 LTN1 Ilford Depot London End – Seven              7    63     8    45   R1     Y      Y       N   Y   Y        Y   Y    N    R2 R1    Prohibited with shoe gear fitted
+            Kings                                                                                                                      R2    Prohibited Seven Kings platforms 1 and
+                                                                                                                                             2 (Down Main) – with deflated
+                                                                                                                                             suspension
+EA1011 LTN1 Seven Kings – Romford Jn                     8    45    12    39   R1     Y      Y       N   Y   Y        Y   Y    N    Y   R1   Prohibited with shoe gear fitted
+EA1011 LTN1 Romford Jn – Shenfield Jn                   12    39    20    22   R1     Y      Y       N   Y   Y        Y   Y    N    R2 R1    Prohibited with shoe gear fitted
+                                                                                                                                    R3 R2    Prohibited Gidea Park platform 1 and
+                                                                                                                                             50mph through platform 2 with deflated
+                                                                                                                                             suspension
+                                                                                                                                        R3   Prohibited Brentwood Station platform 3
+                                                                                                                                             (Up Electric Line)
+EA1011 LTN1 Shenfield Jn – Witham Jn                    20    22    38    55   R1     Y      Y       N   Y   Y        Y   N    N    N R1     Prohibited with shoe gear fitted
+EA1011 LTN1 Witham Jn – Marks Tey Jn                    38    55    46    49   R1     Y      Y       N   Y   Y        Y   N    N    N R1     Prohibited with shoe gear fitted
+
+August 2006                                                                               291

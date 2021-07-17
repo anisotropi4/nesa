@@ -1,21 +1,13 @@
 Kent-Sussex-Wessex	0892	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0892	SO500	VTB3	Change of Mileage (Quarry / Fast lines)–Three Bridges		Change of Mileage (Quarry / Fast lines)–Three Bridges	21	15	29	21	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	VTB3	Three Bridges	Copyhold Jn	Three Bridges – Copyhold Jn	29	21	36	73	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	CJA1	Copyhold Jn	Change of Mileage	Copyhold Jn – Change of Mileage	36	73	36	33	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	CJA2	Change of Mileage	Ardingly Sidings	Change of Mileage – Ardingly Sidings	0	00	0	70	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	VTB3	Copyhold Jn	Keymer Jn	Copyhold Jn – Keymer Jn	36	73	40	69	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	VTB3	Keymer Jn	Preston Park Jn	Keymer Jn – Preston Park Jn	40	69	49	43	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	PPH	Preston Park Jn	Hove Jn	Preston Park Jn – Hove Jn	49	21	50	44	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO500	VTB3	Preston Park Jn	Brighton	Preston Park Jn – Brighton	49	43	50	49	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	Bricklayers Arms Jn	New Cross Gate Up Jn	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	ELL1	New Cross Gate Up Jn	Network Rail Boundary / Up ELL	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	New Cross Gate Up Jn	New Cross Gate Down Jn	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	ELL1	New Cross Gate Down Jn	Network Rail Boundary / Down ELL	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	New Cross Gate Down Jn	Sydenham Down Jn	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	Sydenham Down Jn	Norwood Jn	Sydenham Down Jn – Norwood Jn	6	51	8	55	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	Norwood Jn	Norwood Fork Jn	Norwood Jn –Norwood Fork Jn	8	55	9	33	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	LBW	Norwood Fork Jn	Cottage Jn / Windmill Bridge Jn	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	NFE	Norwood Fork Jn	Sutton	Norwood Fork Jn – Sutton	9	33	14	75	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO510	NFE	Sutton	Epsom Downs	Sutton – Epsom Downs	14	75	18	60	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0892	SO520	TBH1	Three Bridges	Crawley	Three Bridges –Crawley	29	21	30	49	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0892	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	Y	Y	R1	N	N	N	N	R1 Prohibited Victoria platforms 4 and 6
+Kent-Sussex-Wessex	0892	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0892	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill North Jn	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	Y	Y	Y	N	N	N	N

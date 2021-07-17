@@ -1,23 +1,17 @@
-London-North-Eastern	1117	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-London-North-Eastern	1117	LN3228	TES	Trent East ELR Change	Sheet Stores Jn.	Trent East ELR Change – Sheet Stores Jn.	0	00	0	30	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1117	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3237	RUD	Loughborough South Jn	Network Rail / GCR (N) Boundary	Loughborough South Jn – Network Rail / GCR (N) Boundary	92	45	92	49	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
-London-North-Eastern	1117	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	Y	Y	N	N	N	N	N	
-London-North-Eastern	1117	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	Y	Y	Y	EH	N	Y	N	
-London-North-Eastern	1117	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1117	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1117	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	R1	N	N	N	R1	Y	R2 R3	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R3 Prohibited Newcastle platform 4 with deflated suspension
+London-North-Eastern	1117	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	N	N	N	N	N	E R1	R1 Prohibited between Newcastle Forth Jn and Newcastle West Jn
+London-North-Eastern	1117	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1117	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN627	LLP1	Longlands Jn (Down line)	Boroughbridge Road LC	Longlands Jn (Down line) – Boroughbridge Road LC	28	58	29	72	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN627	LLP3	Longlands Jn (Up line)	Boroughbridge Road LC	Longlands Jn (Up line) – Boroughbridge Road LC	0	69	0	00	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1117	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited between Norton-on-Tees South Jn and Billingham Jn
+London-North-Eastern	1117	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	Y	Y	Y	N	N	N	R1	Y	N	R1 Prohibited Hartlepool Bay and Up (disused) platforms
+London-North-Eastern	1117	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	Y	Y	Y	N	N	N	Y	Y	N
+London-North-Eastern	1117	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
+London-North-Eastern	1117	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
+London-North-Eastern	1117	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed

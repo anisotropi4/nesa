@@ -1,19 +1,15 @@
-Kent-Sussex-Wessex	0939	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Kent-Sussex-Wessex	0939	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill North Jn	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill Substation via platforms 1 and 2	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	0939	SO110	VIR	Herne Hill South Jn	Beckenham Jn	Herne Hill South Jn – Beckenham Jn	4	06	8	43	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	VIR	Beckenham Jn	Shortlands Jn	Beckenham Jn – Shortlands Jn	8	43	9	57	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	VIR	Shortlands Jn	Bickley Jn	Shortlands Jn – Bickley Jn	9	57	12	38	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	TLP1	Bickley Jn	Petts Wood (Fast Tonbridge Loop)	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	8	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0939	SO110	TLP2	Bickley Jn	Petts Wood (Slow Tonbridge Loop)	Bickley Jn – Petts Wood (Slow Tonbridge Loop)	12	49	13	35	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0939	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	57	58	59	60	66	67	68	70	73	97/3	Notes
+Kent-Sussex-Wessex	0939	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	Y	Y	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibtied on the Up Catford Loop
+Kent-Sussex-Wessex	0939	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	Y	Y	Y	Y	Y	Y	Y	R1 R2	Y	Y	R1 Prohibited Down Catford Loop line between Crofton Park and Catford R2 Prohibited Up Catford Loop line between Bellingham and Beckenham Hill
+Kent-Sussex-Wessex	0939	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	Y	Y	Y	Y	Y	Y	Y	N	Y	Y
+Kent-Sussex-Wessex	0939	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	N	N	N	N	N	R1 R2 R3 R4	N	R1 15mph though Farringdon R2 OHLE must be isolated R3 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment R4 Prohibited in DC mode
+Kent-Sussex-Wessex	0939	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	N	N	N	N	N	R1 R2 R3	N	R1 OHLE must be isolated R2 Locomotives must not stand under bridges, tunnels and insulators, positioned directly above the track, as the exhaust can damage the Overhead Line Equipment R3 Prohibited in DC mode
+Kent-Sussex-Wessex	0939	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	Y	Y	N	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	8	Y	Y	N	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	Y	Y	N	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	Y	Y	N	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0939	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y

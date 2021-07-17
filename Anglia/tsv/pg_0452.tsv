@@ -1,20 +1,16 @@
 Anglia	0452	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	MPV	Notes
-Anglia	0452	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD167) Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) Willesden West London Jn)	6	19	6	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1360	CAW	Acton Wells Jn (Change of Mileage)	Acton Wells Jn	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	GOJ	Gospel Oak Jn	Junction Rd Jn	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	JRT2	Junction Rd Jn	Route Boundary (LN3210) (Carlton Rd Jn)	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH1	Junction Rd Jn	Harringay Park Jn	Junction Rd Jn – Harringay Park Jn	2	42	4	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	HPW	Harringay Park Jn	Route Boundary (LN165) (Harringay Jn)	Harringay Park Jn – Route Boundary (LN165) (Harringay Jn)	0	25	0	14	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH1	Harringay Park Jn	South Tottenham West Jn	Harringay Park Jn – South Tottenham West Jn	4	15	5	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH1	South Tottenham West Jn	South Tottenham East Jn	South Tottenham West Jn – South Tottenham East Jn	5	65	5	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH2	South Tottenham East Jn	Woodgrange Park Jn	South Tottenham East Jn – Woodgrange Park Jn	5	73	11	79	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH3	Woodgrange Park Jn	Barking Station Jn	Woodgrange Park Jn – Barking Station Jn	11	79	13	12	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH3	Barking Station Jn	Barking Tilbury Jn West	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Anglia	0452	EA1370	TAH4	Barking Station Jn	Barking Platform 1	Barking Station Jn – Barking Platform 1	13	12	13	62	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0452	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	BOK5	Acton Wells Jn (Connection to EA1360)	Acton Wells Jn (Connection to GW130)	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connection to GW130)	0	66	0	72	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	AWL	Acton Wells Jn	Route Boundary (GW130) (Acton East Jn)	Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	BOK5	Acton Wells Jn (Connection to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connection to GW130) – Acton Central (Limit of AC)	0	72	1	73	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	8	N	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	4	N	R1	R1	N	N	N	R1	R1	R2	R1 10mph over River Thames Bridge (No 29) (10m 48ch between Gunnersbury and Kew Gardens) R2 10mph in laden condition over River Thames Bridge (No 29) at 10m 48ch (between Gunnersbury and Kew Gardens)
+Anglia	0452	EA1320	CRC1 /2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0452	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	8	Y	Y	Y	Y	Y	Y	Y	Y	Y

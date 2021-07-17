@@ -5,59 +5,78 @@ Kent / Sussex / Wessex Routes Sectional Appendix Module KSW1
 
 
 
-     Station                     Platform                      Length (cars)   Length (metres)
-     Charlton                    Platform 1                    12              242.0
-                                 Platform 2                    12              243.6
-     Chartham                    Platform 1                    4               130.2
-                                 Platform 2                    4               121.4
-     Chatham                     Platform 1                    12              249.0
-                                 Platform 2                    12              249.0
-     Chelsfield                  Platform 1                    12              249.4
-                                 Platform 2                    12              244.6
-     Chestfield & Swalecliffe    Platform 1                    12              287.5
-                                 Platform 2                    12              281.7
-     Chilham                     Platform 1                    4               88.4
-                                 Platform 2                    4               88.2
-     Chislehurst                 Platform 1                    12              247.7
-                                 Platform 2                    12              247.3
-                                 Platform 3                    12              247.1
-                                 Platform 4                    12              248.4
-     City Thameslink             Platform 1                    12              275.0
-                                 Platform 2                    12              275.0
-     Clapham High Street         Platform 1                    4               102.3
-                                 Platform 2                    4               102.3
-     Clock House                 Platform 1                    12              296.2
-                                 Platform 2                    12              283.8
-     Crayford                    Platform 1                    12              285.9
-                                 Platform 2                    12              288.3
-     Crofton Park                Platform 1                    8               167.7
-                                 Platform 2                    8               163.5
-     Crowhurst                   Platform 1                    8               169.0
-                                 Platform 2                    12              248.0
-     Cuxton                      Platform 1                    4               97.0
-                                 Platform 2                    4               77.0
-     Dartford                    Platform 1                    12              207.0
-                                 Platform 2                    12              207.0
-                                 Platform 3                    12              225.0
-                                 Platform 4                    12              225.0
-     Deal                        Platform 1                    8               196.0
-                                 Platform 2                    8               183.0
-     Denmark Hill                Platform 1                    8               166.1
-                                 Platform 2                    8               165.4
-                                 Platform 3                    8               165.5
-                                 Platform 4                    8               165.8
-     Deptford                    Platform 1                    12              241.8
-                                 Platform 2                    12              243.4
-     Doleham                     Platform 1                    1               40.0
-     Dover Priory                Platform 1                    12              245.0
-                                 Platform 2                    10              209.3
-                                 Platform 3                    8               181.9
-     Dumpton Park                Platform 1                    12              247.1
-                                 Platform 2                    12              250.9
-     Dunton Green                Platform 1                    12              281.4
-                                 Platform 2                    12              279.7
+                                                                                   GSM-R
+                  LINE/PLATFORM                     LOCATION   CONTROLLING
+LOCATION                                 SIGNAL                                    CONTACT
+                  (DIRECTION)                       CODE       SIGNAL BOX/PANEL
+                                                                                   NUMBER
+
+
+SW170 WESTBURY TO WILTON JUNCTION
+
+                  Up Warminster
+Wilton GF                                G/F7       994        Salisbury           74 4218 01
+                  (Down direction)
+
+Wilton GF         Down Warminster        G/F8       994        Salisbury           74 4218 01
+
+Wilton Jn         Goods Line Exit        G/F6       994        Salisbury           74 4218 01
+
+SW180 RAYNES PARK TO HORSHAM
+
+                  Up Portsmouth                                Wimbledon ASC –
+Leatherhead                              W1195      993                            74 4115 01
+                  (Down direction)                             Panel 4
+
+SW190 NEW MALDEN TO SHEPPERTON
+
+                  Down Strawberry Hill
+Shacklegate Jn                           F413       994        Feltham Panel 1     74 4100 01
+                  (Up direction)
+
+SW200 HAMPTON COURT JUNCTION TO GUILDFORD (VIA COBHAM)
+
+                  Down line
+Horsley                                  GD1322     994        Guildford Panel 2   74 4111 01
+                  (Up direction)
+
+SW210 CLAPHAM JUNCTION TO READING
+
+                  Platform 1
+Richmond                                 F399       994        Feltham Panel 1     74 4100 01
+                  (Up direction)
+
+                  Platform 5
+Twickenham                               F402       994        Feltham Panel 1     74 4100 01
+                  (Up direction)
+
+Staines           East Siding exit       F471       994        Feltham Panel 3     74 4102 01
+
+                  Up Main
+Ascot                                    F501       994        Feltham Panel 4     74 4103 01
+                  (Down direction)
+
+SW230 BARNES TO FELTHAM JUNCTION (VIA HOUNSLOW)
+
+                  Platform 1
+Hounslow                                 F445       994        Feltham Panel 2     74 4101 01
+                  (Down direction)
+
+                  Platform 2
+Hounslow                                 F444       994        Feltham Panel 2     74 4101 01
+                  (Up direction)
+
+SW245 TWICKENHAM TO SHACKLEGATE JUNCTION
+
+                  Down Strawberry Hill
+Strawberry Hill                          F419       994        Feltham Panel 1     74 4100 01
+                  (Down direction)
+
+                  Up Strawberry Hill                                               74 4100 01
+Shacklegate Jn                           F416       994        Feltham Panel 1
+                  (Down direction)
 
 
 
 
-December 2009                                        105
+December 2009                                       102C

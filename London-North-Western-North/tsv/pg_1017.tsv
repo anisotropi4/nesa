@@ -1,14 +1,22 @@
 London-North-Western-North	1017	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1017										W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Western-North	1017						M	Ch	M	Ch									
-London-North-Western-North	1017	NW9901	SKW1	Route Boundary (LN922) (Gargrave)	Settle Jn	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1017	NW9901	SAC	Settle Jn	Petteril Bridge Jn	Settle Jn – Petteril Bridge Jn	234	44	307	12	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1017	NW9901	NEC2	Petteril Bridge Jn	London Road Jn	Petteril Bridge Jn – London Road Jn	59	26	59	45	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	1017	NW9901	NEC2	London Road Jn	Carlisle South Jn	London Road Jn – Carlisle South Jn	59	45	60	02	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1017	NW9903	SKW1	Settle Jn	Change of ELR (Site of former Wennington Jn)	Settle Jn – Change of ELR (Site of former Wennington Jn)	234	44	249	44	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1017	NW9903	SJC	Change of ELR (Site of former Wennington Jn)	Change of ELR (Site of former Carnforth East Jn)	Change of ELR (Site of former Wennington Jn) – Change of ELR (Site of former Carnforth East Jn)	9	45	0	31	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1017	NW9903	CEC	Change of ELR (Site of Former Carnforth East Jn)	Carnforth Station Jn	Change of ELR (Site of Former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1017	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	Y	N	N	N	N	N	N	N	Line Not in Regular Use
-London-North-Western-North	1017	NW9907	EDE	Network Rail Boundary (Warcop)	End of line	Network Rail Boundary (Warcop) – End of line	11	03	11	46	Y	N	N	N	N	N	N	N	Line Not in Regular Use
-London-North-Western-North	1017	NW9909	NEC2	Route Boundary (LN682) (Scotby)	Petteril Bridge Jn	Route Boundary (LN682) (Scotby) – Petteril Bridge Jn	58	00	59	26	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1017	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods lines)	London Road Jn – Bog Jn (Newcastle Goods lines)	0	00	0	25	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1017										W6A	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Western-North	1017						M	Ch	M	Ch								
+London-North-Western-North	1017	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1017	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1017	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1017	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	Y*	N	N	N	N	N	N	N
+London-North-Western-North	1017	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1017	NW7011	LHL	Farington Jn	Limit of electrification	Farington Jn – Limit of electrification	0	00	0	56	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7011	LHL	Limit of electrification	Lostock Hall Jn (Lostock Hall lines)	Limit of electrification – Lostock Hall Jn (Lostock Hall lines)	0	56	0	77	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1017	NW7015	PRG	End of line (Padiham Power Station Sidings)	Rose Grove West Jn	End of line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	–	–	–	–	–	–	–	–	Line Out of Use
+London-North-Western-North	1017	NW7017	GJC	Gannow Jn	Colne	Gannow Jn – Colne	21	03	27	37	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1017	NW7019	MPR2	Thorpes Bridge Jn	Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1017	NW7021	MVL1	Miles Platting Jn	Philips Park West Jn	Miles Platting Jn – Philips Park West Jn	1	30	1	59	Y *	Y	Y	Y	N	N	N	N
+London-North-Western-North	1017	NW7021	MVL1	Philips Park West Jn	Baguley Fold Jn	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	Y *	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7021	MVL1	Baguley Fold Jn	Ashton Moss North Jn	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	Y *	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7021	MVL1	Ashton Moss North Jn	Stalybridge Jn	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	Y *	S1	N	N	N	N	N	N	S1 The following combinations only are permitted to run: Up to 2438(h) x 2438(w) on FEA KFA FRA FIA IFA wagons 2603(h) x 2438(w) on IFA/FIA FKA/IKA wagons 2896(h) x 2438(w) on KTA wagons
+London-North-Western-North	1017	NW7021	MVL2	Stalybridge Jn	Stalybridge Tunnel Jn	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	Y *	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7021	MVL3	Stalybridge Tunnel Jn	Route Boundary (LN860)	Stalybridge Tunnel Jn – Route Boundary (LN860)	8	08	15	11	Y *	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7023	BPP	Philips Park West Jn	Brewery Jn	Philips Park West Jn – Brewery Jn	0	00	0	18	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1017	NW7025	PPA1	Philips Park West Jn	Philips Park South Jn	Philips Park West Jn – Philips Park South Jn	1	59	2	07	Y *	Y	Y	Y	N	N	N	N

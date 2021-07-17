@@ -1,17 +1,25 @@
-Kent-Sussex-Wessex	0870	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
-Kent-Sussex-Wessex	0870	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	R1	Y	R2	Y	Y	Y	N	Y	Y	Y	Y	R1 Prohibited Victoria platforms 6, 7 and 8 R2 Prohibited Victoria platforms 3, 4, 5, 6, 7 and 8
-Kent-Sussex-Wessex	0870	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	Y	Y	Y	Y	Y	N	N	N	N	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	Y	Y	N	N	R1	R1	N	Y	Y	Y	Y	R1 Chatham Reversible only
-Kent-Sussex-Wessex	0870	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	N	N	N	N	N	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0870	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	Y	Y	N	N	R1	R1	N	Y	Y	Y	Y	R1 Chatham Reversible only
-Kent-Sussex-Wessex	0870	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	N	E	Y	N	Y	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	N	Y	N	N	Y	Y	E	N	N	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill North Jn	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	N	Y	N	N	Y	Y	E	N	N	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	HHT	Route Boundary Kent (Herne Hill South Jn)	Tulse Hill Substation via platforms 1 and 2	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	N	R1	N	N	Y	Y	E	N	N	Y	Y	R1 OPPOS applies Tulse Hill platforms 1 & 2 in both directions
-Kent-Sussex-Wessex	0870	SO110	VIR	Herne Hill South Jn	Beckenham Jn	Herne Hill South Jn – Beckenham Jn	4	06	8	43	Y	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Beckenham Jn	Shortlands Jn	Beckenham Jn – Shortlands Jn	8	43	9	57	Y	N	N	N	N	N	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0870	SO110	VIR	Shortlands Jn	Bickley Jn	Shortlands Jn – Bickley Jn	9	57	12	38	Y	E	N	N	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0870	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0870	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	Y	Y	Y	N	N	N	Y	Y	EH	Y
+Kent-Sussex-Wessex	0870	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	Y	Y	Y	N	N	N	Y	Y	EH	Y
+Kent-Sussex-Wessex	0870	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0870	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0870	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0870	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0870	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	Y	H	N	Y	N	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0870	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	Y	H	N	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	Y	H	N	N	N	R1	N	N	Y	R1 Route prohibited to Classes 377/1, 377/3, 377/4, 377/6 and 377/7
+Kent-Sussex-Wessex	0870	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	Y	H	N	N	Y	R1	N	N	Y	R1 Route prohibited to Classes 377/1, 377/3, 377/4, 377/6 and 377/7
+Kent-Sussex-Wessex	0870	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0870	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0870	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0870	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0870	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0870	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0870	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0870	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only

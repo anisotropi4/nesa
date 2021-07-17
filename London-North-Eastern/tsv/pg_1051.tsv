@@ -1,22 +1,23 @@
-London-North-Eastern	1051	LN666	BGE	Boldon West Jn	Boldon North Jn	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	314	315	317	318	319	321	322	325
-London-North-Eastern	1051	LN666	GLT	Boldon North Jn	Tyne Dock	Boldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN670	JAW1	Pelaw Jn	Network Rail Boundary (Shell Mex Depot Jarrow)	Pelaw Jn – Network Rail Boundary (Shell Mex Depot Jarrow)	0	09	3	36	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN672	FEP	Wardley	Pelaw Jn	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN674	HLK	High Level Bridge Jn	Greensfield Jn (West Curve)	High Level Bridge Jn – Greensfield Jn (West Curve)	0	00	0	21	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1051	LN676	PLG1	Park Lane Jn	Site of former High Street Jn	Park Lane Jn – Site of former High Street Jn	100	65	101	15	EH	EH	EH	EH	EH	N	EH	EH	
-London-North-Eastern	1051	LN676	PLG2	Site of former High Street Jn	Greensfield Jn	Site of former High Street Jn – Greensfield Jn	0	00	0	21	EH	EH	EH	EH	EH	N	EH	EH	
-London-North-Eastern	1051	LN676	HLK	Greensfield Jn	King Edward Bridge South Jn	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1051	LN678	DAE1	Darlington North Jn	Site of former Parkgate Jn	Darlington North Jn – Site of former Parkgate Jn	44	36	44	64	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN678	DAE1	Site of former Parkgate Jn	Shildon SB	Site of former Parkgate Jn – Shildon SB	0	00	8	29	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN678	DAE2	Shildon SB	Bishop Auckland	Shildon SB – Bishop Auckland	8	29	11	23	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN682	NEC1	King Edward Bridge South Jn	Norwood Jn	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN682	NEC1	Norwood Jn	Site of former Blaydon East Jn	Norwood Jn – Site of former Blaydon East Jn	1	71	5	28	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN682	NEC2	Site of former Blaydon East Jn	Route Boundary (NW9909) (Petteril Bridge Jn)	Site of former Blaydon East Jn – Route Boundary (NW9909) (Petteril Bridge Jn)	3	78	58	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN684	NLF	Low Fell Jn	Limit of Electrification	Low Fell Jn – Limit of Electrification	0	00	1	26	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN684	NLF	Limit of Electrification	Norwood Jn	Limit of Electrification – Norwood Jn	1	26	1	42	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN694	BNE	Benton North Jn	Site of former Earsdon Jn	Benton North Jn – Site of former Earsdon Jn	0	00	2	53	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN694	EJM	Site of former Earsdon Jn	Morpeth North Jn	Site of former Earsdon Jn – Morpeth North Jn	7	08	20	47	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN696	HJM	Hepscott Jn	Morpeth Jn	Hepscott Jn – Morpeth Jn	19	44	20	47	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN700	BWO2	Butterwell Jn	Signal B1	Butterwell Jn – Signal B1	0	00	0	48	N	N	N	N	N	N	N	N	
-London-North-Eastern	1051	LN702	BWC	Bedlington North	Network Rail Boundary (Lynemouth Colliery)	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N	
+London-North-Eastern	1051	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1051	LN880	YMS	York (platform 2 and maintenance sidings)	Connection to Up line	York (platform 2 and maintenance sidings) – Connection to Up line	0	0	0	15	N	N	N	Y	Y	N	N	Y
+London-North-Eastern	1051	LN882	WAG1	Wakefield Kirkgate West Jn	Calder Bridge Jn	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	Y	N	R1	Y	Y	R2	R2	Y	R1 5mph Wakefield Kirkgate platform 3 with deflated suspension R2 Prohibited Wakefield Kirkgate platform 3 when laden. Must use up Goole Line (reversible)
+London-North-Eastern	1051	LN882	WAG1	Calder Bridge Jn	Crofton West Jn	Calder Bridge Jn – Crofton West Jn	48	28	49	40	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1051	LN882	WAG1	Crofton West Jn	Knottingley West Jn	Crofton West Jn – Knottingley West Jn	49	40	58	20	E	N	Y	E R1 R2	Y	Y	Y	Y	R1 Prohibited between Crofton East Jn and Knottingley West Jn R2 Prohibited with deflated suspension
+London-North-Eastern	1051	LN882	WAG1	Knottingley West Jn	Engine Shed Jn	Knottingley West Jn – Engine Shed Jn	58	20	73	52	N	N	Y	N	Y	N	N	Y
+London-North-Eastern	1051	LN882	WAG2	Engine Shed Jn	Goole Potters Grange Jn	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	N	N	Y	N	Y	N	N	Y
+London-North-Eastern	1051	LN884	OAJ	Oakenshaw South Jn	Oakenshaw Jn.	Oakenshaw South Jn – Oakenshaw Jn.	49	41	48	76	N	N	N	N	N	N	N	N
+London-North-Eastern	1051	LN886	TJC3	Monk Bretton	Oakenshaw South Jn	Monk Bretton – Oakenshaw South Jn	176	22	18 1	75	N	N	N	N	N	Y	Y	Y
+London-North-Eastern	1051	LN886	OSC	Oakenshaw South Jn	Crofton East Jn	Oakenshaw South Jn – Crofton East Jn	181	75	18 3	04	N	N	N	N	N	Y	Y	Y
+London-North-Eastern	1051	LN888	CJS	Stainforth Jn	Thorpe Marsh Jn	Stainforth Jn – Thorpe Marsh Jn	166	70	16 3	76	N	N	N	Y	N	N	N	N
+London-North-Eastern	1051	LN888	HTM	Thorpe Marsh Jn	Haywood Jn	Thorpe Marsh Jn – Haywood Jn	69	56	67	66	N	N	N	N	N	N	N	N
+London-North-Eastern	1051	LN888	KWS	Haywood Jn	Knottingley West Jn	Haywood Jn – Knottingley West Jn	67	66	58	20	E	N	Y	N	N	Y	Y	Y
+London-North-Eastern	1051	LN888	FKW	Knottingley West Jn	Ferrybridge North Jn	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	N	N	Y	N	N	Y	Y	Y
+London-North-Eastern	1051	LN889	KWS	Shaftholme Jn	Haywood Jn	Shaftholme Jn – Haywood Jn	68	75	67	66	N	N	Y	N	N	Y	Y	Y
+London-North-Eastern	1051	LN892	PEF	Pontefract East Jn	Ferrybridge South Jn	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	N	N	Y	N	Y	N	N	Y
+London-North-Eastern	1051	LN894	KES	Knottingley South Jn	Knottingley East Jn	Knottingley South Jn – Knottingley East Jn	0	00	0	20	N	N	N	N	N	N	N	N
+London-North-Eastern	1051	LN896	DRA1	Drax Branch Jn	Drax Power Station (NR Boundary)	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N	N
+London-North-Eastern	1051	LN898	HUL4	Neville Hill East Jn	Micklefield Jn	Neville Hill East Jn – Micklefield Jn	18	25	10	63	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1051	LN898	HUL4	Micklefield Jn	Micklefield Change of ELR	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1051	LN898	HUL3	Micklefield Change of ELR	Gascoigne Wood Jn	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1051	LN898	HUL3	Gascoigne Wood Jn	Selby West Jn	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1051	LN898	HUL3	Selby West Jn	Selby South Jn	Selby West Jn – Selby South Jn	0	36	0	00	Y	N	Y	Y	Y	N	N	Y

@@ -1,15 +1,27 @@
 Anglia	0418	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Anglia	0418	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	Y	Y	N	N	N	N	N	
-Anglia	0418	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	Y	Y	N	N	N	N	N	
-Anglia	0418	EA1320	CRC1/2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-Anglia	0418	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	Y	Y	Y	EH	N	Y	EH	
-Anglia	0418	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	Y	Y	Y	EH R1	N	Y	EH	R1 Prohibited with footsteps fitted
-Anglia	0418	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	Y	Y	Y	EH	N	Y	N	
-Anglia	0418	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	Y	Y	Y	N	N	Y	N	
-Anglia	0418	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	Y	Y	Y	EH	N	Y	N	
-Anglia	0418	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	Y	Y	Y	EH	N	Y	N	
-Anglia	0418	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	Y	Y	Y	EH	N	Y	N	
-Anglia	0418	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	Y	Y	Y	EH	N	Y	N	
-Anglia	0418	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	Y	Y	Y	EH	N	Y	N	
-Anglia	0418	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	N	N	N	N	
-Anglia	0418	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	R1 R2 R3	R1 R2 R3	N	N	N	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure
+Anglia	0418	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	Y	Y	Y	N	N	R1	N	R1 Prohibited from using the last 25 metres at the buffer stop end of Norwich Royal Dock Siding 1
+Anglia	0418	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	Y	Y	N	N	N	N	N
+Anglia	0418	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	Y	Y	N	N	N	N	N
+Anglia	0418	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	Y	Y	N	N	N	N	N
+Anglia	0418	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	Y	Y	N	N	N	N	N
+Anglia	0418	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	Y	Y	N	N	N	N	N
+Anglia	0418	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	Y	Y	N	N	N	N	N
+Anglia	0418	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	Y	Y	N	N	N	N	N
+Anglia	0418	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	Y	Y	N	N	N	N	N
+Anglia	0418	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	Y	Y	N	N	N	N	N
+Anglia	0418	EA1100	STB	Colne Jn	Colchester Town	Colne Jn – Colchester Town	53	30	53	76	Y	Y	N	N	N	N	N
+Anglia	0418	EA1110	TWN	Thorpe-Le-Soken Jn	Walton-On-Naze	Thorpe-Le-Soken Jn – Walton-On-Naze	65	19	70	15	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	Y	Y	Y	N	N	Y	N
+Anglia	0418	EA1120	MAH	Manningtree East Jn	Harwich International Port	Manningtree East Jn – Harwich International Port	59	67	68	72	Y	Y	Y	N	N	Y	N

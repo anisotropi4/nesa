@@ -1,21 +1,24 @@
-London-North-Western-North	1008	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1008										W6A	W7	W8	W9	W9Plus	W10	W10 A	W12	
-London-North-Western-North	1008						M	Ch	M	Ch									
-London-North-Western-North	1008	NW4011	MSM	Morecambe South Jn	Morecambe Buffer Stops	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1008	NW4013	HBL	Hest Bank Jn	Bare Lane Jn	Hest Bank Jn – Bare Lane Jn	0	00	1	30	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1008	NW4017	MHH	Morecambe Jn	Heysham Port	Morecambe Jn – Heysham Port	0	00	4	01	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1008	NW4019	OXW	Oxenholme	Windermere	Oxenholme – Windermere	0	00	10	15	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1008	NW4021	UCJ	Upperby Jn	Bog Jn	Upperby Jn – Bog Jn	0	38	1	07	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1008	NW4021	UCJ	Bog Jn	Rome Street Jn	Bog Jn – Rome Street Jn	1	07	1	23	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	1008	NW4023	ULR	Upperby Jn	London Road Jn	Upperby Jn – London Road Jn	0	00	0	34	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1008	NW4025	MCG	Currock Jn	Change of ELR (Site of Former Forks Jn)	Currock Jn – Change of ELR (Site of Former Forks Jn)	0	00	0	29	Y	Y	Y	Y	N	Y	Y	Y	
-London-North-Western-North	1008	NW4025	SCG	Change of ELR (Site of Former Forks Jn)	Bog Jn	Change of ELR (Site of Former Forks Jn) – Bog Jn	0	29	0	44	Y	Y	Y	Y	N	Y	Y	Y	
-London-North-Western-North	1008	NW4027	BSN	Bruntill Branch Jn	Stainton Jn via Down and Up Brunthill Branch Siding	Bruntill Branch Jn – Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1008	NW4027	ETC	End of line Buffer Stops	Network Rail Boundary / Brunthill via Down and Up Brunthill line	End of line Buffer Stops – Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	6	95	6	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1008	NW4029	GJH	Mossband Jn	Network Rail Boundary	Mossband Jn – Network Rail Boundary	3	02	0	24	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1008	NW4031	GSW	Gretna Jn	Route Boundary (SC031)	Gretna Jn – Route Boundary (SC031)	116	13	115	40	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1008	NW4033	CBC1	Carnforth North Jn	Carnforth Station Jn	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1008	NW4033	CBC1	Carnforth Station Jn	Limit of Electrification (Carnforth)	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1008	NW4033	CBC1	Limit of Electrification (Carnforth)	Whitehaven	Limit of Electrification (Carnforth) – Whitehaven	0	60	74	66	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1008	NW4033	CBC1	Whitehaven	Bransty SB (Change of ELR)	Whitehaven – Bransty SB (Change of ELR)	74	66	74	73	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1008	NW4033	CBC2	Bransty SB (Change of ELR)	Change of ELR (Maryport)	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	Y *	S1	S1	N	N	N	N	N	S1 Between Workington Main No.2 SB (6m 53ch) and Change of ELR (Maryport) the following combinations are permitted to run: Up to 2665(h), S21 TT x 2500(w) on FAA, FKA, IKA wagons 2595(h), S11 TT, S14 FT x 2500(w) on IFA, FIA wagons
+London-North-Western-North	1008	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	Gauge								Notes
+London-North-Western-North	1008	NW1007	SYC	Route Boundary (GW735) (Nantwich)	Gresty Green	Route Boundary (GW735) (Nantwich) – Gresty Green	2	60	1	18	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1008	NW1007	SYC	Gresty Green	Crewe South Jn	Gresty Green – Crewe South Jn	1	18	0	00	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1009	BHI	Basford Hall Jn	Former site of Sydney Bridge Jn (Independent lines)	Basford Hall Jn – Former site of Sydney Bridge Jn (Independent lines)	156	16	158	76	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1009	CMP1	Former site of Sydney Bridge Jn	Sandbach South Jn (Independent lines)	Former site of Sydney Bridge Jn – Sandbach South Jn (Independent lines)	158	76	162	28	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1011	GSG	Gresty Lane Jn	Salop Goods Jn	Gresty Lane Jn – Salop Goods Jn	0	00	0	37	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1013	CSG	Crewe Sorting Sidings North	Gresty Lane	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1015	CIL	Salop Goods Jn	Crewe North Jn (Chester Independent lines)	Salop Goods Jn – Crewe North Jn (Chester Independent lines)	157	64	158	18	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1008	NW1017	LLI	Salop Goods Jn	Crewe Coal Yard (Liverpool Independent lines)	Salop Goods Jn – Crewe Coal Yard (Liverpool Independent lines)	157	71	158	73	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1019	CHW1/ 2	Acton Grange Jn	Warrington South Jn (Helsby lines)	Acton Grange Jn – Warrington South Jn (Helsby lines)	16	19	17	76	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1021	WEE	Winwick Jn	Earlestown East Jn	Winwick Jn – Earlestown East Jn	185	49	187	10	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1021	DSE	Earlestown East Jn	Newton-le-Willows Jn	Earlestown East Jn – Newton-le-Willows Jn	14	75	16	19	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1021	NGJ	Newton-le-Willows Jn	Golborne Jn	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW1023	HOB2	Haydock Branch Jn	End of line (Former Kelbit PS)	Haydock Branch Jn – End of line (Former Kelbit PS)	0	00	0	53	Y	N	N	N	N	N	N	N
+London-North-Western-North	1008	NW1025	IMG	Bamfurlong Sidings Jn	Ince Moss Jn (Ince Moss Goods lines)	Bamfurlong Sidings Jn – Ince Moss Jn (Ince Moss Goods lines)	0	18	0	78	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1008	NW1027	PSR1	Preston South Jn	Preston Docks Branch ELR Change	Preston South Jn – Preston Docks Branch ELR Change	21	39	21	47	Y	N	N	N	N	N	N	N
+London-North-Western-North	1008	NW1027	PSR2	Preston Docks Branch ELR Change	Network Rail Boundary (Ribble Steam Railway)	Preston Docks Branch ELR Change – Network Rail Boundary (Ribble Steam Railway)	0	00	0	40	Y	N	N	N	N	N	N	N
+London-North-Western-North	1008	NW2001	WJL1	Weaver Jn	Ditton East Jn	Weaver Jn – Ditton East Jn	174	53	182	67	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW2001	WJL2	Ditton East Jn	Speke East Jn	Ditton East Jn – Speke East Jn	182	67	186	72	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW2001	WJL3	Speke Est Jn	Edge Hill East Jn	Speke Est Jn – Edge Hill East Jn	186	72	191	75	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW2001	WJL4	Edge Hill East Jn	Liverpool Lime Street	Edge Hill East Jn – Liverpool Lime Street	191	75	193	52	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1008	NW2003	RDB	Runcorn	Network Rail Boundary (Runcorn Dock Branch)	Runcorn – Network Rail Boundary (Runcorn Dock Branch)	0	02	0	69	Y	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW2005	SCR	Speke East Jn	Garston Jn	Speke East Jn – Garston Jn	22	59	23	52	Y *	Y	Y	Y	N	Y	N	N
+London-North-Western-North	1008	NW2007	AEG	Allerton East Jn	Garston Jn	Allerton East Jn – Garston Jn	0	00	0	28	Y	Y	Y	Y	N	Y	N	N

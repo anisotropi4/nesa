@@ -1,21 +1,27 @@
-Kent-Sussex-Wessex	0917	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
-Kent-Sussex-Wessex	0917	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn –Canterbury Road Jn	3	08	3	24	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn –Ravensbourne Jn	6	09	10	44	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0917	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0917	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	R1	R1	N	Y	Y	Y	Y	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0917	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	8	R1	R1	N	Y	Y	Y	Y	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0917	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	R1	R1	N	Y	Y	Y	Y	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0917	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	R1	R1	N	Y	Y	Y	Y	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0917	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	8	R1	R1	N	Y	Y	Y	Y	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0917	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	6	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0917	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO290	NKL	Charlton	Slade Green Jn	Charlton –Slade Green Jn	7	44	15	36	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0917	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0917	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
+Kent-Sussex-Wessex	0917	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn – Lewes	0	14	7	77	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO620	KJE1/2	Lewes	Southerham Jn [Duplicated on SO590]	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	7	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	7	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	7	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO630	BLI1	Hove Jn	Hove platforms 2 and 3	Hove Jn – Hove platforms 2 and 3	1	28	1	35	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO630	BLI1	Hove Up platform loop and platforms 2, and 3	Arundel Jn	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	8	R1	R1	R1	R1	R1	R1	R1	R1 20mph over Bridge 453 Shoreham Viaduct (6m 40ch)
+Kent-Sussex-Wessex	0917	SO630	BLI1	Arundel Jn	Littlehampton Jn (Change of Mileage)	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO630	FJL	Littlehampton Jn	Ford Jn	Littlehampton Jn – Ford Jn	60	57	60	26	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO630	BLI2	Littlehampton Jn (Change of Mileage)	Littlehampton	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO640	BBR	Barnham	Bognor Regis	Barnham – Bognor Regis	22	29	25	75	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO645	ATL	Battersea Park	Factory Jn	Battersea Park – Factory Jn	7	27	6	67	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO645	ATL	Factory Jn	Wandsworth Road Jn	Factory Jn – Wandsworth Road Jn	6	67	6	53	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO645	ATL	Wandsworth Road Jn	Shepherds Lane Jn	Wandsworth Road Jn – Shepherds Lane Jn	6	53	5	68	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO645	ATL	Shepherds Lane Jn	Crofton Road Jn	Shepherds Lane Jn – Crofton Road Jn	5	68	3	67	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO645	ATL	Crofton Road Jn	Peckham Rye Jn	Crofton Road Jn – Peckham Rye Jn	3	67	3	47	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BBJ	Balham Jn (SO500)	Leigham Jn	Balham Jn (SO500) – Leigham Jn	4	69	6	31	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BBJ	Leigham Jn	West Norwood Jn	Leigham Jn – West Norwood Jn	6	31	6	58	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BBJ	West Norwood Jn	Crystal Palace platforms 1 and 2	West Norwood Jn – Crystal Palace platforms 1 and 2	6	58	8	56	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	SCP	Crystal Palace platforms 3 - 6	Sydenham Up Jn	Crystal Palace platforms 3 - 6 – Sydenham Up Jn	7	52	6	49	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BBJ	Crystal Palace platforms 1 and 2	Bromley Up Jn	Crystal Palace platforms 1 and 2 – Bromley Up Jn	8	56	9	36	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BJN1	Bromley Up Jn	Norwood North Jn	Bromley Up Jn – Norwood North Jn	9	36	9	75	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BBJ	Bromley Up Jn	Bromley Down Jn	Bromley Up Jn – Bromley Down Jn	9	36	9	48	8	Y	Y	Y	Y	Y	Y	Y
+Kent-Sussex-Wessex	0917	SO650	BJN2	Bromley Down Jn	Norwood North Jn	Bromley Down Jn – Norwood North Jn	9	48	9	75	8	Y	Y	Y	Y	Y	Y	Y

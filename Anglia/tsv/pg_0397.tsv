@@ -1,25 +1,11 @@
-Anglia	0397	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	325	345	357	357 MOD	Notes
-Anglia	0397	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	R1	Y	Y	N	Y	Y	Y	N	N	N	R1 Prohibited with shoe gear fitted
-Anglia	0397	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	N	Y	Y	N	Y	Y	Y	N	N	N	
-Anglia	0397	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	Y	Y	Y	N	Y	Y	H	E	E	E	
-Anglia	0397	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	N	N	Y	N	N	N	H	E	Y	Y	
-Anglia	0397	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	N	Y	R1	N	Y	Y	H	N	N	N	R1 Between Romford platform 1 and Upminster platform 6 only
-Anglia	0397	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	N	Y	N	N	Y	Y	H	N	N	R1	R1 Prohibited Rayleigh Station Down platform 2 with deflated suspension
-Anglia	0397	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	N	Y	N	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	N	Y	Y	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	N	N	N	N	N	N	H	N	N	N	
-Anglia	0397	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	N	Y	N	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	N	Y	N	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	N	Y	N	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1100	STB	Colne Jn	Colchester Town	Colne Jn – Colchester Town	53	30	53	76	N	Y	N	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1110	TWN	Thorpe-Le-Soken Jn	Walton-On- Naze	Thorpe-Le-Soken Jn – Walton-On- Naze	65	19	70	15	N	Y	N	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	N	N	Y	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	N	N	Y	N	Y	Y	H	N	N	N	
-Anglia	0397	EA1120	MAH	Manningtree East Jn	Harwich International Port	Manningtree East Jn – Harwich International Port	59	67	68	72	N	N	Y	N	Y	Y	H	N	N	N	
+Anglia	0397	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	171	172	175	180	220	221	222	Notes
+Anglia	0397	EA1540	SOB1	Chippenham Jn	Site of Former Snailwell Jn	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	N	N	N	N	N	N	N
+Anglia	0397	EA1540	SOB2	Site of Former Snailwell Jn	Ely Dock Jn	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	N	N	N	N	N	N	N
+Anglia	0397	EA1550	EWC	Ely North Jn	Ely West Jn (Ely West Curve)	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	N	N	N	N	N	N	N
+Anglia	0397	EA1560	EMP	Ely North Jn	Ely West Jn	Ely North Jn – Ely West Jn	71	63	72	39	N	N	N	Y	N	N	Y
+Anglia	0397	EA1560	EMP	Ely West Jn	Route Boundary (LN135) (Peterborough)	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	N	N	N	R1	N	N	R1	R1 Must be planned as a non-stop train between Cambridge and Peterborough
+Anglia	0397	EA1570	WIG	March East Jn	Whitemoor Jn	March East Jn – Whitemoor Jn	85	78	86	18	N	N	N	N	N	N	N
+Anglia	0397	EA1570	MWL	March West Jn	Whitemoor Jn	March West Jn – Whitemoor Jn	0	00	0	13	N	N	N	N	N	N	N
+Anglia	0397	EA1570	WIG	Whitemoor Jn	Wisbech	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	Line out of use (temporarily)
+Anglia	0397	EA1580	ETN	Ely North Jn	Trowse Jn	Ely North Jn – Trowse Jn	71	72	123	00	N	N	N	N	N	N	Y
+Anglia	0397	EA1744	BFC	Europa Jn	Boss Hall Jn	Europa Jn – Boss Hall Jn	0	00	0	63	N	N	N	N	N	N	N

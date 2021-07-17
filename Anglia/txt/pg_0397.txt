@@ -1,41 +1,26 @@
+                                                                                OFFICIAL
+
+
                                                                Anglia Route Sectional Appendix Module AR2
 
-Line of ELR Line of Route / Sector                  oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357 Notes
-route       Description                              M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000    0000 MOD ooooooooooooooooooooooooooo
-EA1011 LTN1 Marks Tey Jn – Colchester Jn             46   49    51    65   R1    Y     Y    N     Y    Y    Y   N   N   N R1    Prohibited with shoe gear fitted
-EA1011 LTN1 Colchester Jn – Manningtree South Jn     51   65    59    46    N    Y     Y    N     Y    Y    Y   N   N   N
-EA1011 LTN1 Manningtree South Jn – Manningtree       59   46    59    69    N    Y     Y    N     Y    Y    Y   N   N   N
-            North Jn
-EA1011 LTN1 Manningtree North Jn – Ipswich           59   69    68    59    N    Y     Y    N     Y    Y    Y   N   N   N
-EA1012 LTN1 Ipswich – East Suffolk Jn                68   59    69    41    N    Y     Y    N     Y    Y    Y   N   N   N
-EA1012 LTN1 East Suffolk Jn – Trowse Jn (EA1013)     69   41   113    68    N    Y     Y    N     Y    Y    Y   N   N   N
-EA1013 LTN2 Trowse Jn – Trowse Swing Bridge         123   00   123    37    N    Y     Y    N     Y    Y    Y   N   N   N
-EA1013 NCW Trowse Swing Bridge – Wensum Jn            0   00     0    28    N    Y     Y    N     Y    Y    Y   N   N   N
-           (EA1470 / ELR NOL 0m 60ch) via
-           Through Sidings / Wensum Curve
-EA1013 LTN2 Trowse Swing Bridge – Norwich           123   37   124    09    N    Y     Y    N     Y    Y    Y   N   N   N
-EA1020 CNS    Carpenters Rd South Jn – Carpenters     1   12     0    70    Y    Y     Y    N     Y    Y    H   E   E   E
-              Rd North Jn
-EA1030 FGW Forest Gate Jn – Woodgrange Park Jn        0   00     0    31    N    N     Y    N     N    N    H   E   Y   Y
-EA1040 ROU Romford – Upminster                        0   00     3    30    N    Y    R1    N     Y    Y    H   N   N   N R1    Between Romford platform 1 and
-                                                                                                                                Upminster platform 6 only
-EA1050 SSV    Shenfield Jn – Southend Victoria       20   22    41    42    N    Y     N    N     Y    Y    H   N   N   R1 R1   Prohibited Rayleigh Station Down
-                                                                                                                                platform 2 with deflated suspension
-EA1060 WIS    Wickford Jn – Southminster             29   13    45    42    N    Y     N    N     Y    Y    H   N   N   N
-EA1070 BRA    Witham – Braintree                     24   15    17    71    N    Y     Y    N     Y    Y    H   N   N   N
-EA1080 SUD    Marks Tey Jn – Sudbury                 45   53     58   32    N    N     N    N     N    N    H   N   N   N
-EA1090 COC Colchester Jn – Clacton                   52   28    69    56    N    Y     N    N     Y    Y    H   N   N   N
-EA1100 STB    East Gate Jn – Colne Jn                53   14    53    30    N    Y     N    N     Y    Y    H   N   N   N
-EA1100 CTH    Hythe Jn – Colne Jn                     0   22     0    00    N    Y     N    N     Y    Y    H   N   N   N
-EA1100 STB    Colne Jn – Colchester Town             53   30    53    76    N    Y     N    N     Y    Y    H   N   N   N
-EA1110 TWN Thorpe-Le-Soken Jn – Walton-On-           65   19    70    15    N    Y     N    N     Y    Y    H   N   N   N
-           Naze
-EA1120 MAH Manningtree South Jn – Manningtree        59   35    59    67    N    N     Y    N     Y    Y    H   N   N   N
-           East Jn
-EA1120 NTE    Manningtree North Jn – Manningtree      0   00     0    24    N    N     Y    N     Y    Y    H   N   N   N
-              East Jn
-EA1120 MAH Manningtree East Jn – Harwich             59   67    68    72    N    N     Y    N     Y    Y    H   N   N   N
-           International Port
+Line of ELR Line of Route / Sector                oooo oooo oooo oooo 171 172 175 180 220 221 222   Notes
+route       Description                            M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+EA1540 SOB1 Chippenham Jn – Site of Former          0    63    0    00   N     N       N    N     N     N   N
+            Snailwell Jn
+EA1540 SOB2 Site of Former Snailwell Jn – Ely       1    54    12   33   N     N       N    N     N     N   N
+            Dock Jn
+EA1550 EWC Ely North Jn – Ely West Jn (Ely West     71   63    72   63   N     N       N    N     N     N   N
+           Curve)
+EA1560 EMP Ely North Jn – Ely West Jn               71   63    72   39   N     N       N    Y     N     N   Y
+EA1560 EMP Ely West Jn – Route Boundary             72   39    98   40   N     N       N   R1     N     N   R1 R1    Must be planned as a non-stop train between
+           (LN135) (Peterborough)                                                                                    Cambridge and Peterborough
+EA1570 WIG    March East Jn – Whitemoor Jn          85   78    86   18   N     N       N    N     N     N   N
+EA1570 MWL March West Jn – Whitemoor Jn             0    00    0    13   N     N       N    N     N     N   N
+EA1570 WIG    Whitemoor Jn – Wisbech                86   18    93   60   N     N       N    N     N     N   N   Line out of use (temporarily)
+EA1580 ETN    Ely North Jn – Trowse Jn              71   72   123   00   N     N       N    N     N     N   Y
+EA1744 BFC    Europa Jn – Boss Hall Jn               0   00    0    63   N     N       N    N     N     N   N
 
 
-August 2006                                                                          292
+
+
+August 2006                                                                     290C

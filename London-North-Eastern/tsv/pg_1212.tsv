@@ -1,18 +1,21 @@
-London-North-Eastern	1212	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1212					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Eastern	1212	LN826	Doncaster South Yorkshire Jn – Swinton Jn North / South	Doncaster South Yorkshire Jn	Swinton Jn North / South	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1212	LN828	Mexborough Jn – Aldwarke Jn via Kilnhurst	Mexborough Jn	Aldwarke Jn via Kilnhurst	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1212	LN830	Aldwarke Jn – Woodburn Jn	Aldwarke Jn	Woodburn Jn	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Up Tinsley R2 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Down Tinsley R3 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Up Tinsley R4 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Down Tinsley
-London-North-Eastern	1212	LN832	Doncaster Bridge Jn – St James Jn	Doncaster Bridge Jn	St James Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1212	LN836	Doncaster, Marshgate Jn – Hare Park Jn	Doncaster, Marshgate Jn	Hare Park Jn	Y *	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1212	LN836	Hare Park Jn – Neville Hill East Jn	Hare Park Jn	Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN838	Leeds Armley Jn – York Skelton Jn via Harrogate	Leeds Armley Jn	York Skelton Jn via Harrogate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile and above 3650mm in height 10mph speed restriction through Wescoe Hill Tunnel on the Down: and 10mph speed restriction through Br39 on the Down. The Rail Head Treatment Train FEA wagon is permitted without restriction.
-London-North-Eastern	1212	LN840	Leeds Engine Shed Jn – Whitehall East Jn	Leeds Engine Shed Jn	Whitehall East Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN842	Stainforth Jn – Applehurst Jn	Stainforth Jn	Applehurst Jn	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN842	Applehurst Jn – Adwick Jn	Applehurst Jn	Adwick Jn	Y *	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN842	Skellow Jn – Adwick Jn	Skellow Jn	Adwick Jn	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1212	LN844	Applehurst Loop	Applehurst Loop		Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN846	Carcroft Jn – Skellow Jn	Carcroft Jn	Skellow Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1212	LN848	Hare Park Jn – Crofton West Jn	Hare Park Jn	Crofton West Jn	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1212	LN850	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	Wakefield Westgate South Jn	Wakefield Kirkgate West Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1212	LN852	Holbeck Jn – Bradford Interchange	Holbeck Jn	Bradford Interchange	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1212	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	70	73	97/3	Notes
+London-North-Eastern	1212	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC1	St Pancras platforms 1, 2, 3 and 4	Cricklewood	St Pancras platforms 1, 2, 3 and 4 - Cricklewood	0	12	5	09	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester)	Change of ELR (Wigston South Jn) – Change of ELR (Leicester)	95	38	98	73	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC5	Change of ELR (Leicester)	Leicester	Change of ELR (Leicester) – Leicester	98	73	99	07	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	8	Y	Y	Y	Y	Y	Y	Y	Y

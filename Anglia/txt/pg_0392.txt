@@ -1,41 +1,46 @@
+                                                                                   OFFICIAL
+
+
                                                                   Anglia Route Sectional Appendix Module AR2
 
 Line of ELR Line of Route / Sector                    oooo oooo oooo oooo 171 172 175 180 220 221 222   Notes
 route       Description                                M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-EA1360 CAW Acton Wells Jn (Change of Mileage) –         0    63   0    66   Y     E       Y    Y     Y     Y   N
-           Acton Wells Jn
-EA1370 GOJ    Gospel Oak Jn – Junction Rd Jn            0    00   0    58   N     Y       N    E     N     N   N
-EA1370 JRT2 Junction Rd Jn – Route Boundary             2    42   2    38   N     E       N    N     N     N   N
-            (LN3210) (Carlton Rd Jn)
-EA1370 TAH1 Junction Rd Jn – Harringay Park Jn          2    42   4    15   N     Y       N    E     N     N   N
-EA1370 HPW Harringay Park Jn – Route Boundary           0    25   0    14   N     E       N    E     N     N   N
-           (LN165) (Harringay Jn)
-EA1370 TAH1 Harringay Park Jn – South Tottenham         4    15   5    65   N     Y       N    N     N     N   N
-            West Jn
-EA1370 TAH1 South Tottenham West Jn – South             5    65   5    73   N     Y       N    N     N     N   N
+EA1230 SBR    Route Boundary (LN125) (Royston) –        45   60   55   26   N     N         N   R1   N     N   R1 R1    Must be planned as a non-stop train between
+              Shepreth Branch Jn                                                                                        Hitchin and Cambridge
+EA1270 MIT    Kings Lynn Jn – Middleton towers          0    22   3    44   N     N         N   N    N     N   N
+EA1270 MIT    Kings Lynn Jn – Kings Lynn Yard           0    22   0    00   N     N         N   N    N     N   N
+              branch end
+EA1280 SDC    Stratford Central Jn East – Temple        3    76   4    45   N     R1        N   N    N     N   N   R1   Route prohibited to Class 172/2 and 172/3
+              Mills East Jn. (Via Platforms 11 & 12
+              at Stratford)
+EA1280 SDC    Temple Mills East Jn – Coppermill Jn      4    45   7    14   N     R1        N   N    N     N   N   R1   Route prohibited to Class 172/2 and 172/3
+EA1290 TSE2 Tottenham South Jn – Change of              5    41   5    54   N     R1        N   N    N     N   N   R1   Route prohibited to Class 172/2 and 172/3
+            mileage
+EA1290 TSE1 Change of mileage – South                   6    22   5    73   N     R1        N   N    N     N   N   R1   Route prohibited to Class 172/2 and 172/3
             Tottenham East Jn
-EA1370 TAH2 South Tottenham East Jn –                   5    73   11   79   N     Y       N    N     N     N   N
-            Woodgrange Park Jn
-EA1370 TAH3 Woodgrange Park Jn – Barking                11   79   13   12   N     Y       N    N     N     N   N
-            Station Jn
-EA1370 TAH3 Barking Station Jn – Barking Tilbury        13   12   13   42   N     Y       N    N     N     N   N
-            Jn West
-EA1370 TAH4 Barking Station Jn – Barking Platform       13   12   13   62   N     Y       N    N     N     N   N
-            1
-EA1380 FSS1 Fenchurch Street – Gas Factory Jn           0    00   2    57   N     N       N    N     N     N   N
-EA1380 FSS1 Gas Factory Jn – East Ham Depot             2    57   6    18   N     N       N    N     N     N   N
-EA1380 FSS1 East Ham Depot – Barking Tilbury Jn         6    18   7    33   N     E       N    N     N     N   N   R1   Route prohibited to Class 172/2 and 172/3
-            West                                                                  R1
-EA1380 FSS2 Barking Tilbury Jn West – Barking           7    33   7    60   N     N       N    N     N     N   N
-            Tilbury Jn East
-EA1380 FSS2 Barking Tilbury Jn East – Upminster         7    60   15   20   N     N       N    N     N     N   N
-EA1380 FSS2 Upminster – Southend Central                15   20   35   55   N     N       N    N     N     N   N
-EA1380 FSS3 Southend Central – Shoeburyness             35   55   39   40   N     N       N    N     N     N   N
-EA1390 TLL    Barking Tilbury Line Jn East – Former     7    60   22   06   N     N       N    N     N     N   N
-              Tilbury West Jn
-EA1390 TLL    Former Tilbury West Jn – Pitsea Jn        22   06   32   43   N     N       N    N     N     N   N
-EA1400 GFB    Gas Factory Jn – Bow Jn                   2    57   3    47   N     N       N    N     N     N   N
-EA1410 FSS2 Upminster – Upminster East Jn               15   20   15   39   N     N       N    N     N     N   N
+EA1300 SSL    South Tottenham West Jn – Seven           0    13   0    00   N     N         N   N    N     N   N
+              Sisters Jn
+EA1310 BOK2 Camden Road West Jn – Gospel Oak            0    00   1    10   N     Y         N   E    N     N   Y
+            Jn
+EA1310 BOK2 Gospel Oak Jn – Kensal Green Jn             1    10   5    10   N     Y         N   E    N     N   Y
+EA1310 KGC Kensal Green Jn – Route Boundary             0    00   0    21   N     E         N   E    N     N   N   R1   Route prohibited to Class 172/2 and 172/3
+           (MD155) (Harlesden Jn)                                                 R1
+EA1310 KGW Kensal Green Jn – Route Boundary             5    10   5    25   N     R1        N   N    N     N   N   R1   Prohibited to Class 172/2 and 172/3 when laden
+           (MD150) (Willesden Suburban Jn)
+EA1310 BOK3 Kensal Green Jn – Willesden High            5    10   5    48   N     Y         N   E    N     N   Y   R1    Underbridge 6a Euston Local lines intersection
+            Level Jn                                                                            R1                       (05m 37ch) prohibited with deflated suspension
+EA1310 WMB Willesden High Level Jn – Route              0    43   0    09   N     Y         N   N    N     N   N
+           Boundary (MD160) (Mitre Bridge Jn)
+EA1310 BOK4 Willesden High Level Jn – Former Old        0    00   0    34   N     Y         N   E    N     N   Y
+            Oak Jn (change of mileage)
+EA1310 BOK4 Former Old Oak Jn (change of                0    34   0    66   R1    Y         N   E    N     N   Y   R1   Prohibited between Former Old Oak Jn (change of
+            mileage) – Acton Wells Jn                                                                                   mileage) and Acton Wells Signal Box
+            (Connection EA1360)
+EA1310 BOK5 Acton Wells Jn (Connection to               0    66   0    72   Y     Y         N   E    N     N   Y
+            EA1360) – Acton Wells Jn (Connecton
+            to GW130)
+EA1310 AWL Acton Wells Jn – Route Boundary              0    49   0    39   Y     E         Y   E    Y     Y   Y
+           (GW130) (Acton East Jn)
 
 
-August 2006                                                                        290A
+August 2006                                                                           288

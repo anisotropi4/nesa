@@ -1,17 +1,23 @@
-London-North-Eastern	1207	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1207					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Eastern	1207	LN646	Norton-on-Tees South – Ferryhill South Jn	Norton-on-Tees South	Ferryhill South Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: 2146 h x 2500 w box on FCA wagons All lines 2667 h x 2500 w box on FKA wagons All lines 2665 h x 2500 w (S21) 2675 h x 2500 w box on FKA wagons Up Line STNC NC/G1/2009/ICP-G/LNE007 applies, valid to 30/12/11
-London-North-Eastern	1207	LN648	Norton-on-Tees West – Norton-on- Tees East	Norton-on-Tees West	Norton-on- Tees East	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1207	LN652	Billingham Jn – Phillips Road	Billingham Jn	Phillips Road	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1207	LN652	Belasis Lane – Seal Sands via Phillips Road	Belasis Lane	Seal Sands via Phillips Road	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1207	LN652	Belasis Lane Junction – ICI Haverton Hill	Belasis Lane Junction	ICI Haverton Hill	Y	Y	Y	N	N	N	N	N	Part not NR Infrastructure
-London-North-Eastern	1207	LN656	Seaton-on-Tees Branch	Seaton-on-Tees Branch		Y	N	N	N	N	N	N	N	
-London-North-Eastern	1207	LN662	Ryhope Grange – Hendon	Ryhope Grange	Hendon	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1207	LN664	Boldon East Jn – Boldon North Jn	Boldon East Jn	Boldon North Jn	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Eastern	1207	LN666	Boldon West Jn – Tyne Dock (NR limit) [ 1m 26ch ]	Boldon West Jn	Tyne Dock (NR limit) [ 1m 26ch ]	Y	Y	Y	Y	N	Y	N	N	
-London-North-Eastern	1207	LN670	Jarrow Branch	Jarrow Branch		Y	N	N	N	N	N	N	N	
-London-North-Eastern	1207	LN672	Wardley – Pelaw Jn	Wardley	Pelaw Jn	-	-	-	-	-	-	-	-	Line 'Out of Use (Temporary)'
-London-North-Eastern	1207	LN674	High Level Bridge Jn – Greensfield Jn (West Curve)	High Level Bridge Jn	Greensfield Jn (West Curve)	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1207	LN676	Park Lane Jn – King Edward Bridge South Jn	Park Lane Jn	King Edward Bridge South Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Eastern	1207	LN678	Darlington North Jn – Eastgate	Darlington North Jn	Eastgate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons Line not NR Infrastructure beyond Bishop Auckland
-London-North-Eastern	1207	LN682	King Edward Bridge South Jn – Norwood Jn	King Edward Bridge South Jn	Norwood Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1207	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+London-North-Eastern	1207	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	7	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3535	BCJ	Birmingham Curve Jn	Branson Jn	Birmingham Curve Jn – Branson Jn	126	40	127	19	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	9	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1207	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y

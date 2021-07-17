@@ -1,11 +1,19 @@
 Anglia	0394	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	171	172	175	180	220	221	222	Notes
-Anglia	0394	EA1540	SOB1	Chippenham Jn	Site of Former Snailwell Jn	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	N	N	N	N	N	N	N	
-Anglia	0394	EA1540	SOB2	Site of Former Snailwell Jn	Ely Dock Jn	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	N	N	N	N	N	N	N	
-Anglia	0394	EA1550	EWC	Ely North Jn	Ely West Jn (Ely West Curve)	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	N	N	N	N	N	N	N	
-Anglia	0394	EA1560	EMP	Ely North Jn	Ely West Jn	Ely North Jn – Ely West Jn	71	63	72	39	N	N	N	Y	N	N	Y	
-Anglia	0394	EA1560	EMP	Ely West Jn	Route Boundary (LN135) (Peterborough)	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	N	N	N	R1	N	N	R1	R1 Must be planned as a non-stop train between Cambridge and Peterborough
-Anglia	0394	EA1570	WIG	March East Jn	Whitemoor Jn	March East Jn – Whitemoor Jn	85	78	86	18	N	N	N	N	N	N	N	
-Anglia	0394	EA1570	MWL	March West Jn	Whitemoor Jn	March West Jn – Whitemoor Jn	0	00	0	13	N	N	N	N	N	N	N	
-Anglia	0394	EA1570	WIG	Whitemoor Jn	Wisbech	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	Line out of use (temporarily)
-Anglia	0394	EA1580	ETN	Ely North Jn	Trowse Jn	Ely North Jn – Trowse Jn	71	72	123	00	N	N	N	N	N	N	Y	
-Anglia	0394	EA1744	BFC	Europa Jn	Boss Hall Jn	Europa Jn – Boss Hall Jn	0	00	0	63	N	N	N	N	N	N	N	
+Anglia	0394	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	N	N	N	N	N	N	N
+Anglia	0394	EA1325	ELL2	Canal Jn	Lewisham (TFL Infrastructure)	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	N	N	N	N	N	N	N
+Anglia	0394	EA1327	ELL3	Silwood Jn	ELL/Network Rail Boundary (TFL Infrastructure)	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	N	N	N	N	N	N	N
+Anglia	0394	EA1327	ELL4	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	N	N	N	N	N	N	N
+Anglia	0394	EA1330	BOK 5	South Acton Jn	Kew East Jn	South Acton Jn – Kew East Jn	2	52	3	27	N	N	N	N	N	N	N
+Anglia	0394	EA1330	NKE1	Kew East Jn	Route Boundary (SW230) (New Kew Jn)	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	N	N	N	N	N	N	N
+Anglia	0394	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	N	N	N	N	N	N	N
+Anglia	0394	EA1340	LLS2	Lea Jn	High Meads Jn	Lea Jn – High Meads Jn	0	51	0	65	N	N	N	N	N	N	N
+Anglia	0394	EA1350	CHM	Channelsea North Jn	High Meads Jn	Channelsea North Jn – High Meads Jn	0	00	0	15	N	N	N	N	N	N	N
+Anglia	0394	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	N	N	N	N	N	N	N
+Anglia	0394	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	N	E	N	N	N	N	Y
+Anglia	0394	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	N	E	N	N	N	N	Y
+Anglia	0394	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	E	N	N	N	N	N
+Anglia	0394	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	N	E	N	N	N	N	N
+Anglia	0394	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	E	N	N	N	N	N
+Anglia	0394	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	N	E R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
+Anglia	0394	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	N	E	Y	Y	Y	Y	N
+Anglia	0394	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD167) Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) Willesden West London Jn)	6	19	6	76	Y	N	Y	Y	Y	Y	N

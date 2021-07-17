@@ -1,20 +1,21 @@
-Scotland	1015	SC193	HGL2	Stanley Jn	Milburn Jn	Stanley Jn – Milburn Jn	7	07	143	39	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC193	HGL2	Milburn Jn	Welsh's Bridge Jn	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC193	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC193	HGL2	Welsh's Bridge Jn	Inverness platforms 1-4	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	Y	Y	Y	N	N	N	N	R1	N	R1 Prohibited Inverness platform 4
-Scotland	1015	SC195	ECN5	Aberdeen	Change of ELR	Aberdeen – Change of ELR	241	06	241	08	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC195	ANI1	Change of ELR	Keith Jn SB	Change of ELR – Keith Jn SB	0	00	53	05	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC195	ANI2	Keith Jn SB	Forres	Keith Jn SB – Forres	30	40	0	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC195	ANI3	Forres	Milburn Jn	Forres – Milburn Jn	119	26	143	39	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC195	HGL2	Milburn Jn	Welsh's Bridge Jn	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1015	SC195	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC195	HGL2	Welsh's Bridge Jn	Inverness platforms 1-4	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1015	SC197	WRO	Kittybrewster	Waterloo Goods (Goods Line)	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	N	N	N	N	N	N	N	N	N	
-Scotland	1015	SC199	DFN	Keith Jn	End of Line	Keith Jn – End of Line	53	06	53	36	N	N	N	N	N	N	N	N	N	
-Scotland	1015	SC203	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1015	SC203	WCK	Inverness platforms 5-7	Rose Street Jn	Inverness platforms 5-7 – Rose Street Jn	0	02	0	18	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1015	SC203	WCK	Rose Street Jn	Invergordon	Rose Street Jn – Invergordon	0	18	31	37	Y	Y	Y	N	N	N	N	R1	N	R1 Prohibited Ness Viaduct – Invergordon
-Scotland	1015	SC203	WCK	Invergordon	Georgemas Jn	Invergordon – Georgemas Jn	31	37	147	20	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1015	SC203	WCK	Georgemas Jn	Wick	Georgemas Jn – Wick	147	20	161	35	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1015	SC205	KYL	Dingwall	Kyle of Lochalsh	Dingwall – Kyle of Lochalsh	0	19	63	64	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1015	SC207	TSO	Georgemas Jn	Thurso	Georgemas Jn – Thurso	0	00	6	50	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1015	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+Scotland	1015	SC141	WHL	Craigendoran Jn	Crianlarich Jn	Craigendoran Jn – Crianlarich Jn	0	01	36	30	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1015	SC141	WHL	Crianlarich Jn	Fort William	Crianlarich Jn – Fort William	36	30	99	37	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1015	SC143	OBN1	Crianlarich Jn	Lower Crianlarich GF	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1015	SC143	OBN2	Lower Crianlarich GF	Inverhaggernie No.1 LC	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1015	SC143	OBN2	Inverhaggernie No.1 LC	Oban	Inverhaggernie No.1 LC – Oban	31	00	71	44	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1015	SC145	MLG1	Fort William	Change of ELR	Fort William – Change of ELR	0	05	1	27	Y	Y	Y	N	N	N	N	N	N
+Scotland	1015	SC145	MLG2	Change of ELR	Mallaig	Change of ELR – Mallaig	0	00	39	39	Y	Y	Y	N	N	N	N	N	N
+Scotland	1015	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn)	Prestonpans Jn	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	54	50	9	67	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	ECM8	Prestonpans Jn	Calton South Tunnel	Prestonpans Jn – Calton South Tunnel	9	67	0	29	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	ECM9	Calton South Tunnel	Waverley East End	Calton South Tunnel – Waverley East End	0	29	0	21	Y	Y	Y	N	N	N	Y	Y	N
+Scotland	1015	SC147	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited betweenm 32 ch to Haymarket (North lines)
+Scotland	1015	SC147	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	N	N	N	Y	Y	Y
+Scotland	1015	SC147	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	Y	Y	N	N	N	Y	Y	N
+Scotland	1015	SC147	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	Y	Y	N	N	N	Y	Y	N
+Scotland	1015	SC147	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	Y	Y	N	N	N	Y	Y	N
+Scotland	1015	SC147	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	Y	Y	N	N	N	Y	Y	N

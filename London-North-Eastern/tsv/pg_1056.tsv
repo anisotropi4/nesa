@@ -1,23 +1,27 @@
-London-North-Eastern	1056	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	Notes
-London-North-Eastern	1056	LN836	DOL2	Site of former West Riding Jn	Copley Hill West Jn	Site of former West Riding Jn – Copley Hill West Jn	175	32	184	65	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1056	LN836	DOL2	Copley Hill West Jn	Whitehall West Jn	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1056	LN836	DOL2	Whitehall West Jn	Whitehall East Jn	Whitehall West Jn – Whitehall East Jn	185	25	185	28	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1056	LN836	DOL2	Whitehall East Jn	Leeds	Whitehall East Jn – Leeds	185	28	185	70	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1056	LN836	HUL4	Leeds	Neville Hill East Jn	Leeds – Neville Hill East Jn	20	50	18	25	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1056	LN838	LEH1	Armley Jn	Site of former Pannal Jn	Armley Jn – Site of former Pannal Jn	0	12	14	60	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN838	LEH2	Site of former Pannal Jn	Site of former Crimple Jn	Site of former Pannal Jn – Site of former Crimple Jn	14	60	15	20	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN838	LEH3	Site of former Crimple Jn	Harrogate	Site of former Crimple Jn – Harrogate	15	20	17	24	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN838	HAY2	Harrogate	Site of former Starbeck North Jn	Harrogate – Site of former Starbeck North Jn	20	38	18	60	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN838	HAY1	Site of former Starbeck North Jn	Skelton Jn	Site of former Starbeck North Jn – Skelton Jn	18	60	1	50	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN840	TJC3	Leeds Engine Shed Jn	Whitehall East Jn	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN842	CJS	Thorpe Marsh Jn	Applehurst Jn	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN842	CJS	Applehurst Jn	Skellow Jn	Applehurst Jn – Skellow Jn	163	27	160	59	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN842	SKA	Skellow Jn	Adwick Jn	Skellow Jn – Adwick Jn	0	61	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN844	JCA	Applehurst Jn	Joan Croft Jn	Applehurst Jn – Joan Croft Jn	0	49	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN846	CJS	Carcroft Jn	Skellow Jn	Carcroft Jn – Skellow Jn	160	08	160	59	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN848	HPC	Hare Park Jn	Crofton West Jn	Hare Park Jn – Crofton West Jn	171	70	173	22	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN850	WWK	Wakefield Westgate South Jn	Wakefield Kirkgate West Jn	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	0	00	0	26	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN852	LBE1	Holbeck Jn	Site of former Laisterdyke East Jn	Holbeck Jn – Site of former Laisterdyke East Jn	0	02	6	49	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN852	LBE2	Site of former Laisterdyke East Jn	Site of former Laisterdyke West Jn	Site of former Laisterdyke East Jn – Site of former Laisterdyke West Jn	190	24	190	60	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN852	LBE3	Site of former Laisterdyke West Jn	Site of former Hammerton Street Jn	Site of former Laisterdyke West Jn – Site of former Hammerton Street Jn	190	60	191	30	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN852	LBE4	Site of former Hammerton Street Jn	Mill Lane Jn	Site of former Hammerton Street Jn – Mill Lane Jn	191	30	191	75	N	N	N	N	N	N	N	N	
+London-North-Eastern	1056	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1056	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	N	N	Y	Y	Y	Y	N	N
+London-North-Eastern	1056	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	Y	N	N	N	Y	Y	Y	Y	N	N
+London-North-Eastern	1056	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1056	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1056	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360) (Dudding Hill)	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	N	N	N	N	Y	Y	Y	Y	N	N
+London-North-Eastern	1056	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	N	N	N	N	Y	Y	Y	Y	N	N
+London-North-Eastern	1056	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3228	TES	Trent East ELR Change	Sheet Stores Jn	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	Y	N	N	N	Y	Y	Y	Y	R1	R1	R1 15mph Hinckley Up platform
+London-North-Eastern	1056	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	N	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1056	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1056	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	Y	N	N	N	Y	Y	Y	Y	Y	N
+London-North-Eastern	1056	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	Y	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1056	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y

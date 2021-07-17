@@ -1,21 +1,24 @@
-London-North-Eastern	1064	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	Notes
-London-North-Eastern	1064	LN101	ECM1	Newark North Gate	Retford	Newark North Gate – Retford	120	08	138	49	Y	N	N	N	N	E R1 R2	N	N	R1 Prohibited via bridge 303a 138m38ch (Worksop – Gainsborough line underbridge) Down Fast R2 25mph Grantham Station platform 4
-London-North-Eastern	1064	LN101	ECM1	Retford	Loversall Carr Jn	Retford – Loversall Carr Jn	138	49	150	00	Y	N	N	N	N	E	N	N	
-London-North-Eastern	1064	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	Y	R1	N	N	N	E R2 R3	N	N	R1 Between Doncaster platforms 1, 3, 4, 6, 7 and 8 and Marshgate Jn only R2 Prohibited Doncaster platform 7 R3 15mph Doncaster platform 1
-London-North-Eastern	1064	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	H	N	E	E	E	N	N	E	
-London-North-Eastern	1064	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	Y	N	N	N	N	N	E	E	
-London-North-Eastern	1064	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	R1	N	N	N	N	R1	N	N	R1 No more than 18 electric trains per line may operate over the Hertford Loop in any one hour period
-London-North-Eastern	1064	LN120	HDB	Langley Jn via Hertford	Stevenage platform 5 (End of line)	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN125	SBR	Cambridge Jn	Route Boundary (EA1230)	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	H	N	N	N	N	R1	N	N	R1 See Sectional Appendix Local Instructions
-London-North-Eastern	1064	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	05	N	N	N	N	N	Y	N	N	
-London-North-Eastern	1064	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	H	N	N	N	N	N	N	N	
-London-North-Eastern	1064	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	H	N	N	N	N	N	EH	E	
-London-North-Eastern	1064	LN170	WEB	Werrington Jn	Site of former Spalding South Jn	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	H	N	N	N	N	N	N	N	
+London-North-Eastern	1064	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
+London-North-Eastern	1064	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN180	SNW	Sleaford West Jn	Sleaford North Jn	Sleaford West Jn – Sleaford North Jn	1	34	3	42	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	ABE1	Allington West Jn	Site of former Barkston East Jn	Allington West Jn – Site of former Barkston East Jn	0	00	4	08	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	GRS1	Barkston East Jn	Site of former Honington Jn	Barkston East Jn – Site of former Honington Jn	110	12	112	00	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	GRS2	Site of former Honington Jn	Sleaford West Jn	Site of former Honington Jn – Sleaford West Jn	112	00	120	29	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	GRS2	Sleaford West Jn	Sleaford East Jn	Sleaford West Jn – Sleaford East Jn	120	29	121	21	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	GRS2	Sleaford East Jn	Site of former Boston Sleaford Line Jn	Sleaford East Jn – Site of former Boston Sleaford Line Jn	121	21	137	06	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	GRS3	Site of former Boston Sleaford Line Jn	Boston	Site of former Boston Sleaford Line Jn – Boston	106	70	107	24	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN185	GRS3	Boston	Site of former Firsby East Jn	Boston – Site of former Firsby East Jn	107	24	122	22	N	N	N	N	N	N	N	N		N	N	R1 Prohibited Newcastle platforms 3, 5, 6, 9, 10 and 11
+London-North-Eastern	1064	LN185	GRS4	Site of former Firsby East Jn	Skegness	Site of former Firsby East Jn - Skegness	0	28	9	17	N	N	N	N	N	N	N	N		N	N
+London-North-Eastern	1064	LN190	ACD	Allington East Jn	Allington North Jn (Allington Chord)	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN215	BHP	Boultham Jn	Pyewipe Jn	Boultham Jn – Pyewipe Jn	0	00	0	65	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN220	BCB	Bessacarr Jn	Black Carr Jn	Bessacarr Jn – Black Carr Jn	115	72	116	44	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN235	FWR1	Rossington Colliery Jn	End of Line	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN235	FWR2	Rossington Colliery	End of Line	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N			
+London-North-Eastern	1064	LN600	ECM2	Shaftholme Jn	Temple Hirst Jn	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	Y	Y	N	Y	Y			

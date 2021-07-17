@@ -1,17 +1,23 @@
 London-North-Western-North	1010	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1010										W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Western-North	1010						M	Ch	M	Ch									
-London-North-Western-North	1010	NW5009	CMD1	Change of ELR	Kidsgrove Jn	Change of ELR – Kidsgrove Jn	13	68	16	00	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1010	NW5009	CMD1	Kidsgrove Jn	Macclesfield Hibel Road (Change of ELR)	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR)	13	68	0	00	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1010	NW5009	MCH	Macclesfield Hibel Road (Change of ELR)	Cheadle Hulme North Jn	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1010	NW5010	SCQ1	Glebe Street Jn	Change of Mileage	Glebe Street Jn – Change of Mileage	20	08	20	33	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1010	NW5010	SCQ1	Change of Mileage	Change of Mileage (Site of Former Milton Jn)	Change of Mileage – Change of Mileage (Site of Former Milton Jn)	0	00	3	51	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1010	NW5010	SCQ2	Change of Mileage (Site of Former Milton Jn)	Change of Mileage (Site of Former Leek Brook Jn)	Change of Mileage (Site of Former Milton Jn) – Change of Mileage (Site of Former Leek Brook Jn)	0	00	6	65	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1010	NW5010	SCQ3	Change of Mileage (Site of Former Leek Brook Jn)	Caldon Quarry	Change of Mileage (Site of Former Leek Brook Jn) – Caldon Quarry	0	00	8	01	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1010	NW5011	HNS	Heaton Norris Jn	Guide Bridge Station Jn	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	Y * R1	Y	S1	N	N	N	N	N	R1 * applies between Heaton Norris Jn and Denton Jn (4m 13ch) S1 Between Heaton Norris Jn and Denton Jn (4m 13ch) the following combinations are permitted to run Up to: 2591(h) x 2500(w) on FEA FCA FSA/FTA wagons 2591(h) x 2500(w) on KFA wagons 2896(h) x 2500(w) on FLA wagons S16FT up to 2550(w) on KFA wagons S17FT up to 2550(w) on FEA FSA/FTA wagons
-London-North-Western-North	1010	NW5012	NSS	Route Boundary (LN3505)	Stoke Jn	Route Boundary (LN3505) – Stoke Jn	1	40	0	00	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	1010	NW5013	DJO1	Denton Jn	Change of Mileage (Site of Former Crowthorne Jn)	Denton Jn – Change of Mileage (Site of Former Crowthorne Jn)	4	10	5	28	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1010	NW5013	DJO2	Change of Mileage (Site of Former Crowthorne Jn)	Change of Mileage (Site of Former Ashton Moss South Jn)	Change of Mileage (Site of Former Crowthorne Jn) – Change of Mileage (Site of Former Ashton Moss South Jn)	0	53	1	19	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1010	NW5013	AMJ	Change of Mileage (Site of Former Ashton Moss South Jn)	Ashton Moss North Jn	Change of Mileage (Site of Former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1010	NW5015	HAJ	Hadfield	Dinting East Jn	Hadfield – Dinting East Jn	12	61	12	00	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1010	NW5015	HAJ	Dinting East Jn	Dinting West Jn	Dinting East Jn – Dinting West Jn	12	00	11	66	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	1010										W6A	W7	W8	W9	W9Plus	W10	W10A	W12
+London-North-Western-North	1010						M	Ch	M	Ch								
+London-North-Western-North	1010	NW3005	WSJ2	Sectional Appendix Boundary (GW731)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Sectional Appendix Boundary (GW731) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW – Saltney Jn	202	60	212	06	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	Y * R1	Y	N	N	N	N	N	N	R1 * applies between Wrexham General (0m 49ch) and Wrexham Exchange Jn
+London-North-Western-North	1010	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3007	WDB2	Change of ELR (Hawarden Bridge)	Change of ELR (Site of Former Dee Marsh Jn West)	Change of ELR (Hawarden Bridge) – Change of ELR (Site of Former Dee Marsh Jn West)	14	15	14	00	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3007	WDB3	Change of ELR (Site of Former Dee Marsh Jn West)	Route Boundary Wales / LNW (Burton Point)	Change of ELR (Site of Former Dee Marsh Jn West) – Route Boundary Wales / LNW (Burton Point)	14	00	11	00	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3007	WDB3	Route Boundary Wales / LNW (Burton Point)	Bidston Dee Jn	Route Boundary Wales / LNW (Burton Point) – Bidston Dee Jn	11	00	0	08	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3009	CVS	Chester North Jn	Chester South Jn	Chester North Jn – Chester South Jn	0	36	0	13	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1010	NW3011	CRR1	Chester West Jn	Hooton South Jn	Chester West Jn – Hooton South Jn	0	16	7	68	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3013	HHJ	Hooton South Jn	Ellesmere Port (Limit of DC electrification)	Hooton South Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	Y	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3013	HHJ	Ellesmere Port (Limit of DC electrification)	Helsby Jn	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of line	Llandudno Jn – Blaenau Ffestiniog, End of line	0	30	27	53	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3019	GLA	Gaerwen Jn	Amlwch (Network Rail Boundary)	Gaerwen Jn – Amlwch (Network Rail Boundary)	0	00	17	37	–	–	–	–	–	–	–	–	Line Out of Use
+London-North-Western-North	1010	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	Y	Y	Y	N	N	N	N	N
+London-North-Western-North	1010	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	Y	N	N	N	N	N	N	N
+London-North-Western-North	1010	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3023	SJD	Skelton Jn	Deansgate Jn	Skelton Jn – Deansgate Jn	0	00	0	33	Y *	Y	N	N	N	N	N	N
+London-North-Western-North	1010	NW3023	CDM1	Deansgate Jn	Change of ELR (Altrincham)	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	Y *	Y	N	N	N	N	N	N

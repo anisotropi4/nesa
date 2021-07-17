@@ -1,20 +1,22 @@
-London-North-Eastern	1024	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1024	LN190	ACD	Allington East Jn	Allington North Jn (Allington Chord)	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	N	N	Y	N	N	N	N	Y	
-London-North-Eastern	1024	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	Y	N	R1	N	N	N	N	R2	R1 Prohibited between Allington West Jn and Route Boundary (LN3635) (Rectory Jn SB) R2 Between Allington West Jn and Route Boundary (LN3635) (Rectory Jn SB), when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1024	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1024	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	Y	N	R1	N	N	N	N	Y	R1 Prohibited between Route Boundary (LN3625) (Nottingham East Jn) and Newark Crossing East Jn
-London-North-Eastern	1024	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	N	Y	N	N	N	N	Y	
-London-North-Eastern	1024	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	Y	N	Y	N	N	N	N	Y	
-London-North-Eastern	1024	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	N	Y	N	N	N	N	Y	
-London-North-Eastern	1024	LN215	BHP	Boultham Jn	Pyewipe Jn	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	N	Y	N	N	N	N	N	
-London-North-Eastern	1024	LN220	BCB	Bessacarr Jn	Black Carr Jn	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	N	Y	Y	N	N	N	N	
-London-North-Eastern	1024	LN235	FWR1	Rossington Colliery Jn	End of Line	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N	
-London-North-Eastern	1024	LN235	FWR2	Rossington Colliery	End of Line	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N	
-London-North-Eastern	1024	LN600	ECM2	Shaftholme Jn	Temple Hirst Jn	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1024	LN600	ECM3	Temple Hirst Jn	Colton Jn	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1024	LN600	ECM4	Colton Jn	Colton North Jn	Colton Jn – Colton North Jn	182	79	183	65	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1024	LN600	ECM4	Colton North Jn	York Station	Colton North Jn – York Station	183	65	188	40	R1	N	Y	Y	Y	Y	Y	Y	R1 Prohibited York platforms 1
-London-North-Eastern	1024	LN600	ECM5	York Station	Birtley Jn	York Station – Birtley Jn	0	00	75	26	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1024	LN600	ECM5	Birtley Jn	Low Fell Jn (including via Tyne Yard)	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1024	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1024	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	N	N	Y	Y	N	Y	Y	Y	
+London-North-Eastern	1024	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1024	LN676	HLK	Greensfield Jn	King Edward Bridge South Jn	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN678	DAE1	Darlington North Jn	Site of Former Parkgate Jn	Darlington North Jn – Site of Former Parkgate Jn	44	36	44	64	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN678	DAE1	Site of Former Parkgate Jn	Shildon SB	Site of Former Parkgate Jn – Shildon SB	0	00	8	29	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN678	DAE2	Shildon SB	Bishop Auckland	Shildon SB – Bishop Auckland	8	29	11	23	Y	Y	Y	Y	R1	R1	Y	Y	Y	R1 Prohibited Shildon Up platform and Bishop Auckland Single platform with deflated suspension
+London-North-Eastern	1024	LN682	NEC1	King Edward Bridge South Jn	Norwood Jn	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	Y	Y	Y	Y	R1	R1	R1	R1	R1	R1 See Sectional Appendix Local Instructions
+London-North-Eastern	1024	LN682	NEC1	Norwood Jn	Site of Former Blaydon East Jn	Norwood Jn – Site of Former Blaydon East Jn	1	71	5	28	Y	Y	Y	Y	R1	R1	R1	R1	R1	R1 See Sectional Appendix Local Instructions
+London-North-Eastern	1024	LN682	NEC2	Site of Former Blaydon East Jn	Route Boundary (NW9909) (Petteril Bridge Jn)	Site of Former Blaydon East Jn – Route Boundary (NW9909) (Petteril Bridge Jn)	3	78	58	00	Y	Y	Y	Y	R1 R2	R1 R2	R2	R2	R2	R1 Prohibited Haltwhistle Down platform with deflated suspension R2 See Sectional Appendix Local Instructions
+London-North-Eastern	1024	LN684	NLF	Low Fell Jn	Limit of Electrification	Low Fell Jn – Limit of Electrification	0	00	1	26	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN684	NLF	Limit of Electrification	Norwood Jn	Limit of Electrification – Norwood Jn	1	26	1	42	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN694	BNE	Benton North Jn	Site of Former Earsdon Jn	Benton North Jn – Site of Former Earsdon Jn	0	00	2	53	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN694	EJM	Site of Former Earsdon Jn	Morpeth North Jn	Site of Former Earsdon Jn – Morpeth North Jn	7	08	20	47	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN696	HJM	Hepscott Jn	Morpeth Jn	Hepscott Jn – Morpeth Jn	19	44	20	47	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1024	LN700	BWO2	Butterwell Jn	Signal B1	Butterwell Jn – Signal B1	0	00	0	48	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1024	LN702	BWC	Bedlington North	Network Rail Boundary (Lynemouth Colliery)	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1024	LN704	ISC	Newsham North Jn	Network Rail Boundary (Blyth Bates Terminal)	Newsham North Jn – Network Rail Boundary (Blyth Bates Terminal)	0	00	0	36	N	N	N	N	N	N	N	N	N	Line out of use NME/2010/LNE/006 and NME/2010/LNE009
+London-North-Eastern	1024	LN706	WSB	West Sleekburn Jn	North Blyth	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1024	LN708	MWJ	Winning Jn	Marchey's House Jn	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1024	LN736	MAC3	Cleethorpes	Grimsby Docks	Cleethorpes – Grimsby Docks	112	40	110	11	Y	Y	Y	Y	Y	R1	Y	Y	N	R1 Prohibited Cleethorpes platform 1
+London-North-Eastern	1024	LN736	MAC3	Grimsby Docks	Marsh West Jn	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1024	LN736	MAC3	Marsh West Jn	Wrawby Jn	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1024	LN736	MAC3	Wrawby Jn	West Burton East Jn	Wrawby Jn – West Burton East Jn	94	12	72	18	Y	Y	Y	Y	Y	Y	Y	Y	N

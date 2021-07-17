@@ -8,39 +8,40 @@
 Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
 route            Description                              M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
                                                                                                                             ooo
-SC123     NEM1   Drumgelloch – Change of ELR               11   70    11   60        Y          Y   Y       R1   Y   H   R1   Prohibited with deflated
-                                                                                                                              suspension
-SC123     NEM2   Change of ELR – High Street Jn            11   60    0    28        Y          Y   Y       R1   Y   H   R1   Prohibited with deflated
-                                                                                                                              suspension
-SC123     NEM2   High Street Jn – Change of ELR             0   28    0    00        Y          Y   Y        Y   Y   H
-SC123     NEM3   Change of ELR – Finnieston East Jn         0   00    2    19        Y          Y   Y        Y   Y   H
-SC123     NEM3   Finnieston East Jn – Finnieston West       2   19    2    53        Y          Y   Y        Y   Y   H
-                 Jn (Down Line)
-SC123     NEM3   Finnieston East Jn – Finnieston West       2   19    2    53        Y          Y   Y        Y   Y   H
-                 Jn (Up Line)
-SC123     NEM3   Finnieston West Jn – Hyndland North        2   53    4    28        Y          Y   Y        Y   Y   H
-                 Jn
-SC123     NEM3   Hyndland North Jn – Change of ELR          4   28    4    63        Y          Y   Y        Y   Y   H
-SC123     NEM4   Change of ELR – Knightswood North          0   00    0    74        Y          Y   Y        Y   Y   H
-                 Jn
-SC123     NEM5   Knightswood North Jn – Change of           5   67    13   40        Y          Y   Y        Y   Y   H
-                 ELR (Between Bowling and Dumbarton
-                 East)
-SC123     NEM6   Change of ELR (Between Bowling and       113   46   116   00        Y          Y   Y        Y   Y   H
-                 Dumbarton East) – Change of ELR
-                 (Dumbarton East)
-SC123     NEM7   Change of ELR (Dumbarton East) –          15   51    22   76        Y          Y   Y        Y   Y   H
-                 Craigendoran Jn
-SC123     NEM7   Craigendoran Jn – Helensburgh             22   76    24   31        Y          Y   Y        Y   Y   H
-                 Central
-SC125     YKR    Hyndland East Jn – Hyndland West Jn        0   00    0    22        Y          Y   Y        Y   Y   H
-SC125     YKR    Hyndland West Jn – Dalmuir Park Jn         0   22    4    73        Y          Y   Y        Y   Y   H
-SC129     SGN    Springburn – Bellgrove Jn                  0   42    2    58        Y          Y   Y        Y   Y   H
-SC131     HST    High Street Jn – Connection to Smithy      0   04    2    00        N          N   N        N   N   H
-                 Lye through line
-SC131     HST    Connection to Smithy Lye through line      2   00    2    35        N          N   N        N   N   H
-                 – Shields Jn
-SC133     MGE    Westerton Jn – Milngavie                   6   19    9    35        Y          Y   Y        Y   Y   H
-SC135     BCH    Dalreoch Jn – Balloch                     16   39    20   38        Y          Y   Y        Y   Y   H
+SC059     AYR1   Shields Jn – Change of ELR (Paisley        1   00    6    53        Y          Y   Y        Y   Y    H
+                 Gilmour Street)
+SC059     AYR2   Change of ELR (Paisley Gilmour             6   73    7    00        Y          Y   Y        Y   Y    H
+                 Street) – Change of ELR (Brown Street
+                 crossover)
+SC059     AYR3   Change of ELR (Brown Street                7   00   23    00        Y          Y   Y        Y   Y    H
+                 crossover) – Change of ELR (Dalry)
+SC059     AYR4   Change of ELR (Dalry) – Change of         23   00   33    08        Y          Y   Y        Y   Y    H
+                 ELR (Barassie Jn)
+SC059     AYR5   Change of ELR (Barassie Jn) –              0   00    2    15        Y          Y   Y        Y   Y    H
+                 Change of ELR (Between Troon and
+                 Prestwick International Airport)
+SC059     AYR6   Change of ELR (Between Troon and          35   05   38    73        Y          Y   Y        Y   Y    H
+                 Prestwick International Airport) –
+                 Falkland Jn
+SC059     AYR6   Falkland Jn – Ayr                         38   73   40    49        Y          Y   Y        Y   Y    H
+SC059     STR1   Ayr – Dalrymple Jn                        40   49   43    53        N          N   N        N   N    H
+SC059     STR1   Dalrymple Jn – Change of ELR              43   53   61    60        N          N   N        N   N    H
+                 (Girvan)
+SC059     STR2   Change of ELR (Girvan) – Change of         0   00   30    67        N          N   N        N   N    H
+                 ELR (Betweeen Challoch LC and
+                 Dunragit SB & LC)
+SC059     STR3   Change of ELR (Betweeen Challoch          46   54   53    05        N          N   N        N   N    H
+                 LC and Dunragit SB & LC) – Change of
+                 ELR (Stranraer Yard GF)
+SC059     STR4   Change of ELR (Stranraer Yard GF) –       53   05   54    05        N          N   N        N   N    H
+                 End of Line
+SC061     CNL    Shields Jn – Corkerhill                    1   05    3    11        Y          Y   Y        Y   R1   H   R1   Only for access to / from
+                                                                                                                               Shields Depot
+SC061     CNL    Corkerhill – Paisley Canal                 3   11    7    00        Y          Y   Y        Y   N    N
+SC063     CND1   Cardonald Jn – Cardonald North Jn          0   00    0    36        N          N   N        N   N    N
+SC063     CND2   Cardonald North Jn – Deanside              0   36    1    54        N          N   N        N   N    N
+                 (Goods Line)
+SC065     GOU1   Paisley (Wallneuk Jn) – Change of          6   34    6    53        Y          Y   Y        Y   Y    H
+                 ELR
 
-October 2009                                                                    42
+October 2009                                                                    38

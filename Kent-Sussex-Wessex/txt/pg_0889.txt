@@ -1,45 +1,49 @@
+                                                                                      OFFICIAL
+
+
                                                             Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                 oo     oo    oo    oo   MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
-route           Description                            oo     oo    oo    oo   0000 0000 00000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
-                                                       M      Ch    M     Ch              00 0000 0000 (MOD)
-SO250 WLL       Kensington Olympia – Northbound         3      42     5   16    Y      Y        Y    N      N      N        N
-                AC/DC changeover
-SO250 WLL       Northbound AC/DC changeover –           5      16     5   43    Y      Y        Y    N      N      N        N
-                Southbound AC/DC changeover
-SO250 WLL       Southbound AC/DC changeover –           5      43     5   65    Y      Y        Y    N      N      N        N
-                Route Boundary (MD166) (Mitre
-                Bridge Jn)
-SO260 CAT       Brixton Jn – Canterbury Road Jn         3      08     3   24    Y      Y        N    N      N      N        N
-SO260 CAT       Canterbury Road Jn – Cambria Jn         3      24     3   68    Y      Y        N    N      N      N        N
-SO260 CAT       Cambria Jn – Nunhead Jn                 3      68     6   09    Y      Y        R1   N      N      N        N   R1   20mph Peckham Rye platform 4 Down
-                                                                                                                                     Catford Loop line
-SO260 CAT       Nunhead Jn – Ravensbourne Jn            6      09    10   44    Y      Y        N    N      N      N        N
-SO260 RVC       Ravensbourne Jn – Shortlands Jn via     0      00     0   48    Y      Y        N    N      N      N        N
-                Ravensbourne Chord
-SO260 CAT       Ravensbourne Jn – Shortlands Jn        10      44    10   73    Y      Y        N    N      N      N        N
-SO280 MCL       Route Boundary (LN3213) (Kentish        0      66     0   00    N      N        N    N      N      N        N
-                Town Jn) – ELR change (Former
-                Farringdon Jn)
-SO280 FTL       ELR change (Former Farringdon Jn) –     0      00     0   39    N      N        N    N      N      N        N
-                Snow Hill Tunnel (Change of Mileage)
-SO280 HHH       Snow Hill Tunnel (Change of Mileage)    0      21     0   35    N      N        N    N      N      N        N
-                – Blackfriars
-SO280   HHH     Blackfriars – Blackfriars Jn            0      35     0   63    Y      Y        N    N      N      N        N
-SO280   BMJ     Blackfriars Jn – Metropolitan Jn        0      63     1   14    Y      Y        Y    N      N      N        N
-SO280   HHH     Blackfriars Jn – Loughborough Jn        0      63     3   36    Y      Y        Y    N      N      N        N
-SO280   LTC     Loughborough Jn – Cambria Jn            3      34     3   62    Y      Y        N    N      N      N        N
-SO280   LOC     Loughborough Jn – Canterbury Road       3      39     3   79    Y      Y        Y    N      N      N        N
-                Jn
-SO280 HHH       Loughborough Jn – Herne Hill North      3      36     4   30    Y      Y        Y    N      N      N        N
-                Jn
-SO290 NKL       North Kent East Jn (SO130) –            4      25     7   35    Y      Y        N    N      N      N        N
-                Charlton Jn
-SO290 NKL       Charlton Jn – Charlton                  7      35     7   44    Y      Y        N    N      N      N        N
+Line of ELR     Line of Route / Sector                 M      CH    M       Ch   395 442 444 450 455 456 458 465 466            508   700 Notes
+route           Description                                                      000 000 000 000 000 000 000 000 000
+SO600 WJB    Willingdon Jn – Connection - St           20      36    32     21   N   N    N      N   N    N     N    N      N   N     N
+             Leonards LMD
+SO600 WJB    Connection - St Leonards LMD – Bo         32      21    32     76   N   N    N      N   N    N     N    N      N   N     N
+             Peep Jn
+SO600 TTH    Bo Peep Jn – Hastings                     60      69    62     33   N   N    N      N   N    N     N    N      N   N     N
+SO600 ATH    Hastings – Ore Start / End of             82      34    81     42   N   N    N      N   N    N     N    N      N   N     N
+             Electrification
+SO600 ATH    Ore Start / End of Electrification – Jn   81      42    56     20   N   N    N      N   N    N     N    N      N   N     N
+             with Hastings line
+SO620 BTL    Montpelier Jn – Lewes                      0      14     7     77   N   Y    N      N   Y    Y     N    N      N   Y     Y
+SO620 KJE1/2 Lewes – Southerham Jn [Duplicated         49      74    51     11   N   Y    N      N   N    N     N    N      N   N     Y
+             on SO590]
+SO620 STS    Southerham Jn – Newhaven Harbour          51      11    56     55   N   N    N      N   N    N     N    N      N   N     N
+             Jn
+SO620 NHB    Newhaven Harbour Jn – Wharf Road          56      55    57     78   N   N    N      N   N    N     N    N      N   N     N
+             (Newhaven Marine)
+SO620 STS    Newhaven Harbour Jn – Seaford             56      55    58     77   N   N    N      N   N    N     N    N      N   N     N
+SO630 BLI1   Brighton platforms 1 and 2 – Hove Jn       0      00     1     28   N   Y    Y      Y   R1   R1    N    N      N   R1    Y   R1   Prohibited Brighton platform 1
+SO630 BLI1   Hove Jn – Hove platforms 2 and 3           1      28     1     35   N   Y    Y      Y   Y    Y     N    N      N   Y     Y
+SO630 PPH    Hove Jn – Hove Up platform loop via       50      48    51     02   N   Y    Y      Y   Y    Y     N    N      N   Y     N
+             platform 1
+SO630 BLI1   Hove Up platform loop and platforms       1       28    19     01   N   N    Y      Y   N    N     N    N      N   N     Y
+             2, and 3 – Arundel Jn
+SO630 BLI1   Arundel Jn – Littlehampton Jn             19      01    19     25   N   N    N      N   N    N     N    N      N   N     Y
+             (Change of Mileage)
+SO630 FJL    Littlehampton Jn – Ford Jn                60      57    60     26   N   N    N      N   N    N     N    N      N   N     N
+SO630 BLI2   Littlehampton Jn (Change of Mileage)      60      57    62     03   N   N    N      N   N    N     N    N      N   N     Y
+             – Littlehampton
+SO640 BBR    Barnham – Bognor Regis                    22      29    25     75   N   N    N      N   N    N     N    N      N   N     Y
+SO645 ATL    Battersea Park – Factory Jn                7      27     6     67   N   Y    N      N   Y    Y     N    Y      Y   Y     N
+SO645 ATL    Factory Jn – Wandsworth Road Jn            6      67     6     53   N   Y    N      N   Y    Y     N    Y      Y   Y     Y
+SO645 ATL    Wandsworth Road Jn – Shepherds             6      53     5     68   N   Y    N      N   Y    Y     N    Y      Y   Y     Y
+             Lane Jn
+SO645 ATL    Shepherds Lane Jn – Crofton Road Jn       5       68       3   67   N   E    N      N   Y    Y     N    Y      Y   Y     Y
+SO645 ATL    Crofton Road Jn – Peckham Rye Jn          3       67       3   47   N   E    N      N   Y    Y     N    N      N   N     Y
 
 
 
 
-December 2009                                                                              42
+December 2009                                                                            36

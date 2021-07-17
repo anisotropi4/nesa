@@ -1,21 +1,13 @@
-London-North-Western-North	1005	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	Gauge								Notes
-London-North-Western-North	1005	NW2009	SDJ2	End of line (Latchford)	Ditton East Jn	End of line (Latchford) – Ditton East Jn	10	06	18	55	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1005	NW2011	WOA1	Walton Old Jn	Arpley Jn	Walton Old Jn – Arpley Jn	0	68	0	00	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1005	NW2015	DSE	Ordsall Lane Jn	Newton-le-Willows Jn	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1005	NW2015	DSE	Newton-le-Willows Jn	Earlestown East Jn (Electrified section)	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1005	NW2015	DSE	Earlestown East Jn	Edge Hill	Earlestown East Jn – Edge Hill	14	75	1	78	Y * R1	Y	Y	Y	N	N	N	N	R1 * applies between between Bootle Branch Jn (1m 78ch) and Edge Hill
-London-North-Western-North	1005	NW2017	SCN	Eccles Station Jn	Weaste Branch Network Rail / MSC Boundary	Eccles Station Jn – Weaste Branch Network Rail / MSC Boundary	0	00	0	54	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1005	NW2019	PJL	Parkside Jn	Lowton Jn (East Curve lines)	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1005	NW2021	EEE	Earlestown South Jn	Earlestown West Jn (Liverpool Curve)	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1005	NW2023	SBH3	Springs Branch Jn	Gerards Bridge Jn	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1005	NW2023	SBH2	Gerards Bridge Jn	St Helens Station Jn	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1005	NW2023	SBH1	St Helens Station Jn	Huyton Jn	St Helens Station Jn – Huyton Jn	5	12	0	-18	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1005	NW2025	SHS1	St Helens Station Jn	Sutton Oak Network Rail Boundary	St Helens Station Jn – Sutton Oak Network Rail Boundary	7	15	6	04	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1005	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road LC Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road LC Network Rail Boundary (MDHC)	0	14	5	53	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1005	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1005	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	41	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1005	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	41	178	66	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1005	NW3001	CNH2	Chester East Jn	Change of ELR (Chester Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Chester Windmill Lane Tunnel)	178	66	179	56	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1005	NW3001	CNH3	Change of ELR (Chester Windmill Lane Tunnel)	Route Boundary LNW / Wales (Rockcliffe Hall)	Change of ELR (Chester Windmill Lane Tunnel) – Route Boundary LNW / Wales (Rockcliffe Hall)	179	56	188	40	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1005	NW3001	CNH3	Route Boundary LNW / Wales (Rockcliffe Hall)	Holyhead	Route Boundary LNW / Wales (Rockcliffe Hall) – Holyhead	188	40	263	56	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1005	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	Y *	Y	N	N	N	N	N	N	
+London-North-Western-North	1005	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Western-North	1005	NW9021	BEJ	Buxton	Hazel Grove East Jn	Buxton – Hazel Grove East Jn	19	09	2	35	8	R1 R2 R3 R4	R1 Prohibited between Dove Holes and Chapel-en-le-Frith on the Down Main line R2 Prohibited between Dove Holes and Chapel-en-le-Frith on the Up Main line R3 Prohibited between New Mills Newtown and Disley on the Down Main line R4 Prohibited between New Mills Newtown and Disley on the Up Main line
+London-North-Western-North	1005	NW9901	SKW1	Route Boundary (LN922) (Gargrave)	Settle Jn	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	8	Y
+London-North-Western-North	1005	NW9901	SAC	Settle Jn	Petteril Bridge Jn	Settle Jn – Petteril Bridge Jn	234	44	307	12	8	Y
+London-North-Western-North	1005	NW9901	NEC2	Petteril Bridge Jn	London Road Jn	Petteril Bridge Jn – London Road Jn	59	26	59	45	8	Y
+London-North-Western-North	1005	NW9901	NEC2	London Road Jn	Carlisle South Jn	London Road Jn – Carlisle South Jn	59	45	60	02	8	Y
+London-North-Western-North	1005	NW9903	SKW1	Settle Jn	Change of Mileage (Wennington)	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	8	Y
+London-North-Western-North	1005	NW9903	SJC	Change of Mileage (Wennington)	Change of Mileage (Site of former Carnforth East Jn)	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	8	R1	R1 Prohibited on the Down Branch line
+London-North-Western-North	1005	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn)	Carnforth Station Jn	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	8	Y
+London-North-Western-North	1005	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	7	Y
+London-North-Western-North	1005	NW9907	EDE	Network Rail Boundary (Warcop)	End of Line	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	7	Y
+London-North-Western-North	1005	NW9909	NEC2	Route Boundary (LN682) (Corby Gates)	Petteril Bridge Jn	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	8	Y
+London-North-Western-North	1005	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods lines)	London Road Jn – Bog Jn (Newcastle Goods lines)	0	00	0	25	8	Y

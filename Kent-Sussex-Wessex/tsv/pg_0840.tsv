@@ -1,15 +1,22 @@
-Kent-Sussex-Wessex	0840	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn – Lewes	0	14	7	77	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO620	KJE1/2	Lewes	Southerham Jn [Duplicated on SO590]	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	Y	Y	Y	N	R1	R1 Prohibited Brighton Up platform 2 with crush deflated suspension
-Kent-Sussex-Wessex	0840	SO630	BLI1	Hove Jn	Hove platforms 2 and 3	Hove Jn – Hove platforms 2 and 3	1	28	1	35	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	0840	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	Y	Y	Y	N	R1 R2 R3	R1 Prohibited Hove platform 1 with crush deflated suspension R2 Prohibited Hove Carriage Sidings R3 OPPOS between Hove Jn and Hove
-Kent-Sussex-Wessex	0840	SO630	BLI1	Hove Up platform loop and platforms 2, and 3	Arundel Jn	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	Y	Y	Y	N	R1 R2 R3 R4 R5 R6	R1 Prohibited Portslade platforms 1 and 2 with crush deflated suspension R2 Prohibited Southwick platform 2 with deflated suspension R3 Prohibited Shoreham-by-Sea Down platform 2 with deflated suspension R4 Prohibited Worthing platform 3 with crush deflated suspension R5 Prohibited Goring-by-Sea platform 1 with crush deflated suspension R6 Prohibited Goring-by-Sea platform 2 with deflated suspension
-Kent-Sussex-Wessex	0840	SO630	BLI1	Arundel Jn	Littlehampton Jn (Change of Mileage)	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO630	FJL	Littlehampton Jn	Ford Jn	Littlehampton Jn – Ford Jn	60	57	60	26	N	N	N	N	N	
-Kent-Sussex-Wessex	0840	SO630	BLI2	Littlehampton Jn (Change of Mileage)	Littlehampton	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	N	N	N	N	N	
+Kent-Sussex-Wessex	0840	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0840	SO130	LLL	Parks Bridge Jn	Ladywell Jn	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Parks Bridge Jn	Courthill Loop South Jn	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Courthill Loop South Jn	Hither Green Jn	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Hither Green Jn	Lee Spur Jn	Hither Green Jn – Lee Spur Jn	7	04	7	44	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Lee Spur Jn	Chislehurst Jn	Lee Spur Jn – Chislehurst Jn	7	44	11	33	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	CSM1	Chislehurst Jn	St Mary Cray Down Jn via Reversible Chatham Loop	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	CSM2	Chislehurst Jn	Hawkwood Jn (Up Chatham Loop)	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Chislehurst Jn	Petts Wood Jns	Chislehurst Jn – Petts Wood Jns	11	33	12	27	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Petts Wood Jns	Sevenoaks Substation	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Sevenoaks Substation	Tonbridge West Jn	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Tonbridge West Jn	Tonbridge East Jn	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Tonbridge East Jn	Paddock Wood	Tonbridge East Jn – Paddock Wood	29	55	34	67	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Paddock Wood	Ashford (Jn with Maidstone line)	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Ashford (Jn with Maidstone line)	Ashford Station	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Ashford Station	Ashford (Jn with Hastings line)	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Ashford (Jn with Hastings line)	Ashford (Jn with Canterbury Line)	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Ashford (Jn with Canterbury Line)	Saltwood Jn	Ashford (Jn with Canterbury Line) – Saltwood Jn	56	35	66	38	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Saltwood Jn	Folkestone Central	Saltwood Jn – Folkestone Central	66	38	69	73	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Folkestone Central	Folkestone East Staff Halt	Folkestone Central – Folkestone East Staff Halt	69	73	70	73	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO130	XTD	Folkestone East Staff Halt	Dover Substation	Folkestone East Staff Halt – Dover Substation	70	73	76	45	N	N	N	N	N
+Kent-Sussex-Wessex	0840	SO140	SBJ	Swanley Jn (SO110)	Otford Jn	Swanley Jn (SO110) – Otford Jn	17	46	24	53	N	N	N	N	N

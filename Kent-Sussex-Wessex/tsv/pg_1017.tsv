@@ -1,17 +1,20 @@
-Kent-Sussex-Wessex	1017	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	442	444	450	455	456	458	508	700	Notes
-Kent-Sussex-Wessex	1017	SW210	RDG1	Clapham Jn	Point Pleasant Jn	Clapham Jn – Point Pleasant Jn	3	74	5	09	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1017	SW210	RDG1	Point Pleasant Jn	Richmond	Point Pleasant Jn – Richmond	5	09	9	57	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1017	SW210	RDG1	Richmond	Virginia Water	Richmond – Virginia Water	9	57	23	15	R1	Y	Y	R1	R1	Y	R1	N	R1 20mph Staines Down platform
-Kent-Sussex-Wessex	1017	SW210	RDG1	Virginia Water	Wokingham Jn	Virginia Water – Wokingham Jn	23	15	36	35	N	N	Y	R1	Y	Y	N	N	R1 10mph Ascot Down platform
-Kent-Sussex-Wessex	1017	SW210	RDG2	Wokingham Jn	Reading Spur Jn	Wokingham Jn – Reading Spur Jn	61	72	67	76	N	N	Y	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	1017	SW210	RNJ	Reading Spur Jn	Route Boundary (GW190) (Reading New Jn)	Reading Spur Jn – Route Boundary (GW190) (Reading New Jn)	68	00	67	76	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1017	SW210	RDG2	Reading Spur Jn	Reading Southern Jn	Reading Spur Jn – Reading Southern Jn	67	76	68	25	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	1017	SW210	RLL	Route Boundary Western (Reading East Main Jn)	Reading Southern Jn	Route Boundary Western (Reading East Main Jn) – Reading Southern Jn	35	35	0	00	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1017	SW210	RDG2	Reading Southern Jn	Reading platforms 4, 5 and 6	Reading Southern Jn – Reading platforms 4, 5 and 6	68	25	68	68	N	N	Y	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	1017	SW220	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SO250]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SO250]	2	39	2	50	N	Y	N	Y	Y	N	N	E	
-Kent-Sussex-Wessex	1017	SW220	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SO250]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SO250]	0	63	0	68	N	Y	Y	Y	Y	EH	Y	E	
-Kent-Sussex-Wessex	1017	SW220	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SO250]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SO250]	0	71	3	42	N	Y	Y	Y	Y	EH	Y	E	
-Kent-Sussex-Wessex	1017	SW225	PPW	Point Pleasant Jn – Network Rail Boundary (TfL	District Line)	Point Pleasant Jn – Network Rail Boundary (TfL – District Line)	5	09	5	67	Y	Y	R1 R2	Y	Y	R2 R3	R1	N	R1 30mph between East Putney and Network Rail Boundary (TfL – District Line) R2 Prohibited with the power controller beyond Notch 2 R3 30mph maximum
-Kent-Sussex-Wessex	1017	SW225	PPW	Network Rail Boundary (TfL – District Line)	Wimbledon North Jn (TfL infrastructure)	Network Rail Boundary (TfL – District Line) – Wimbledon North Jn (TfL infrastructure)	5	67	8	26	R1	Y	R2 R3	R1	R1	R2 R3	R1	N	R1 10mph Wimbledon Park Down platform line R2 Prohibited with the power controller beyond Notch 2 R3 30mph maximum
-Kent-Sussex-Wessex	1017	SW230	HOU	Barnes	New Kew Jn	Barnes – New Kew Jn	7	07	9	34	Y	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1017	SW230	NKE2	New Kew Jn	Route Boundary (EA1330) (Kew East Jn)	New Kew Jn – Route Boundary (EA1330) (Kew East Jn)	9	34	9	64	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1017	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	377	378	380	387	Notes
+Kent-Sussex-Wessex	1017	SW180	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	Y	H	Y	N	N	Y
+Kent-Sussex-Wessex	1017	SW180	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn (SO520) [Duplicated in SO680]	Route Boundary Sussex (Leatherhead) – Horsham jn (SO520) [Duplicated in SO680]	21	09	35	34	N	Y	H	Y	N	N	Y
+Kent-Sussex-Wessex	1017	SW185	MPC	Motspur Park	Chessington South	Motspur Park – Chessington South	9	57	13	73	N	R1	H R1	N	N	N	N	R1 10mph Chessington South Up sidings (former Platform line)
+Kent-Sussex-Wessex	1017	SW190	NMS1	New Malden	Fulwell Jn	New Malden – Fulwell Jn	9	62	14	53	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1017	SW190	NMS2	Fulwell Jn	Shepperton	Fulwell Jn – Shepperton	12	56	18	73	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1017	SW195	HAM	Hampton Court Jn	Hampton Court Up line	Hampton Court Jn – Hampton Court Up line	13	27	14	76	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1017	SW195	HAM	Hampton Court Jn	Hampton Court Down line	Hampton Court Jn – Hampton Court Down line	13	27	14	76	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1017	SW200	NGL	Hampton Court Jn	Effingham Jn	Hampton Court Jn – Effingham Jn	13	27	21	04	N	Y	H	N	N	N	N
+Kent-Sussex-Wessex	1017	SW200	NGL	Effingham Jn	Guilford	Effingham Jn – Guilford	21	04	29	70	N	Y	H	R1 R2 R3 R4	N	N	Y	R1 Prohibited Guildford Down Main platform 4 R2 Prohibited Guildford Up Main platform 5 R3 Prohibited Guildford Up Ash platforms 6 and 7 R4 Prohibited Guildford Down Ash platform 8
+Kent-Sussex-Wessex	1017	SW205	LEJ	Leatherhead	Effingham Jn	Leatherhead – Effingham Jn	18	02	22	15	N	Y	H	Y	N	N	Y
+Kent-Sussex-Wessex	1017	SW210	RDG1	Clapham Jn	Point Pleasant Jn	Clapham Jn – Point Pleasant Jn	3	74	5	09	N	Y	H	N	Y	N	N
+Kent-Sussex-Wessex	1017	SW210	RDG1	Point Pleasant Jn	Richmond	Point Pleasant Jn – Richmond	5	09	9	57	N	Y	H	N	Y	N	N
+Kent-Sussex-Wessex	1017	SW210	RDG1	Richmond	Virginia Water	Richmond – Virginia Water	9	57	23	15	N	R1	H R1	N	N	N	N	R1 20mph Staines Down platform
+Kent-Sussex-Wessex	1017	SW210	RDG1	Virginia Water	Wokingham Jn	Virginia Water – Wokingham Jn	23	15	36	35	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1017	SW210	RDG2	Wokingham Jn	Reading Spur Jn	Wokingham Jn – Reading Spur Jn	61	72	67	76	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1017	SW210	RNJ	Reading Spur Jn	Route Boundary (GW190) (Reading New Jn)	Reading Spur Jn – Route Boundary (GW190) (Reading New Jn)	68	00	67	76	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1017	SW210	RDG2	Reading Spur Jn	Reading Southern Jn	Reading Spur Jn – Reading Southern Jn	67	76	68	25	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1017	SW210	RLL	Route Boundary Western (Reading East Main Jn)	Reading Southern Jn	Route Boundary Western (Reading East Main Jn) – Reading Southern Jn	35	35	0	00	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1017	SW210	RDG2	Reading Southern Jn	Reading platforms 4, 5 and 6	Reading Southern Jn – Reading platforms 4, 5 and 6	68	25	68	68	N	N	N	N	N	N	N

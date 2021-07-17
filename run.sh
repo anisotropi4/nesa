@@ -56,6 +56,7 @@ do
         echo Create gauge report ${ROUTE}
         ./collate-gauge.py ${ROUTE}
     fi
+    find ${ROUTE} -name \*.tsv -exec sed -i 's/\t$//' {} \;
 done
 
 for ROUTE in $(jq -r '.[] | keys[]' section-list.json)
@@ -72,3 +73,8 @@ do
         echo
     done
 done
+
+echo Create md files
+if [ ! -z Anglia/anglia-text.md ]; then
+    ./format-md.py
+fi

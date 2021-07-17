@@ -1,25 +1,17 @@
-Scotland	1103	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1103	SC031	GSW	Route Boundary (NW4031) (Gretna Jn)	Old Route boundary (109mch between Eastriggs and Annan)	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109mch between Eastriggs and Annan)	115	40	109	00	8	Y	
-Scotland	1103	SC031	GSW	Old Route boundary (109mch between Eastriggs and Annan)	Change of ELR	Old Route boundary (109mch between Eastriggs and Annan) – Change of ELR	109	00	33	44	10	R1	R1 Prohibited between Kirkconell and New Cumock on the Up line
-Scotland	1103	SC031	GBK	Change of ELR	Muirhouse South Jn	Change of ELR – Muirhouse South Jn	23	44	1	18	10	Y	
-Scotland	1103	SC031	MEN2	Muirhouse South Jn	Muirhouse Central Jn	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	10	Y	
-Scotland	1103	SC031	MEN1	Muirhouse Central Jn	Eglinton St Jn	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	10	R1	R1 Prohibited between Muirhouse North Jn and Eglington St Jn on the Up line
-Scotland	1103	SC031	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	
-Scotland	1103	SC031	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	
-Scotland	1103	SC035	KSH	Bank Jn	Network Rail Boundary (Connel Park LC) / Knockshinnoch	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	10	Y	
-Scotland	1103	SC036	GNN	Greenburn Jn	Greenburn Open Cast (Goods Line)	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	10	Y	
-Scotland	1103	SC037	RIC1	Kay Park Jn	Bellfield	Kay Park Jn – Bellfield	0	00	1	06	10	Y	
-Scotland	1103	SC037	RIC2	Bellfield	Riccarton (Goods Line)	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	Y	
-Scotland	1103	SC039	BAK	Kilmarnock	Barassie	Kilmarnock – Barassie	0	05	7	56	10	R1	R1 Prohibited between Gatehead and Shewalton Moor on the Single line
-Scotland	1103	SC045	EKE	East Kilbride	Busby Jn	East Kilbride – Busby Jn	7	60	0	40	5	R1 R2	R1 Prohibited between Bushby Jn and East Kilbride on the Down line R2 Prohibited between Bushby Jn and East Kilbride on the Up line
-Scotland	1103	SC047	LFS2	Muirhouse South Jn	Change of ELR	Muirhouse South Jn – Change of ELR	1	19	0	61	10	Y	
-Scotland	1103	SC047	LFS1	Change of ELR	Larkfield Jn	Change of ELR – Larkfield Jn	101	17	101	01	10	Y	
-Scotland	1103	SC049	TSS	Muirhouse Central Jn	Terminus Jn	Muirhouse Central Jn – Terminus Jn	0	04	0	40	10	Y	
-Scotland	1103	SC051	CTC	Muirhouse Central Jn	Cathcart North Jn (via Cathcart)	Muirhouse Central Jn – Cathcart North Jn (via Cathcart)	5	19	1	63	3	R1	R1 Prohibited between Muirhouse Central Jn and Pollokshields West on the Down line (Inner) Cathcart Circle
-Scotland	1103	SC051	CTC	Cathcart North Jn	Muirhouse North Jn (via Crosshill)	Cathcart North Jn – Muirhouse North Jn (via Crosshill)	1	63	0	00	7	Y	
-Scotland	1103	SC053	NNH	Neilston	Cathcart West Jn	Neilston – Cathcart West Jn	108	45	100	77	5	Y	
-Scotland	1103	SC055	WCM2	Newton, Hamilton Jn	Newton Kirkhill Jn	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	10	Y	
-Scotland	1103	SC055	KHL	Newton Kirkhill Jn	Cathcart West Jn	Newton Kirkhill Jn – Cathcart West Jn	95	77	100	77	7	Y	
-Scotland	1103	SC057	CNC	Cathcart East Jn	Cathcart North Jn	Cathcart East Jn – Cathcart North Jn	0	45	0	00	7	Y	
-Scotland	1103	SC059	WCM2	Glasgow Central	Bridge St Jn	Glasgow Central – Bridge St Jn	102	27	101	53	8	Y	
-Scotland	1103	SC059	AYR1	Bridge St Jn	Cook St	Bridge St Jn – Cook St	0	00	0	19	8	Y	
+Scotland	1103	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+Scotland	1103					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+Scotland	1103	SC151	Portobello – Leith South Yard (Goods Line)	Portobello	Leith South Yard (Goods Line)	Y	Y	Y	N	N	N	N	N
+Scotland	1103	SC153	Craigentinny – Powderhall (Goods Line)	Craigentinny	Powderhall (Goods Line)	Y	Y	N	N	N	N	N	N
+Scotland	1103	SC155	Monktonhall Jn – Millerhill Yard (Goods Line)	Monktonhall Jn	Millerhill Yard (Goods Line)	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Millerhill Yard sidings
+Scotland	1103	SC157	Millerhill South Jn – Millerhill East Jn (Goods Line)	Millerhill South Jn	Millerhill East Jn (Goods Line)	Y	Y	Y	N	N	N	N	N
+Scotland	1103	SC159	End of Line (former Bilston Br) – Millerhill South Jn (Goods Line)	End of Line (former Bilston Br)	Millerhill South Jn (Goods Line)	Y	N	N	N	N	N	N	N
+Scotland	1103	SC159	Millerhill South Jn – Millerhill Yard Goods Line)	Millerhill South Jn	Millerhill Yard Goods Line)	Y	Y	Y	Y	N	N	N	N
+Scotland	1103	SC161	Millerhill Yard – Portobello	Millerhill Yard	Portobello	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Nidrie South Jn to Portobello
+Scotland	1103	SC163	Portobello – Niddrie West	Portobello	Niddrie West	Y	Y	Y	Y	Y	Y	Y	Y
+Scotland	1103	SC165	Niddrie South Jn – Niddrie West Jn	Niddrie South Jn	Niddrie West Jn	Y	Y	Y	Y	Y	Y	Y	Y
+Scotland	1103	SC165	Niddrie West Jn – Craiglockhart Jn	Niddrie West Jn	Craiglockhart Jn	Y	Y	Y	Y	Y	Y	Y	Y
+Scotland	1103	SC165	Craiglockhart Jn – Gorgie Jn	Craiglockhart Jn	Gorgie Jn	Y	Y	Y	Y	N	N	N	N
+Scotland	1103	SC165	Gorgie Jn – Haymarket West Jn	Gorgie Jn	Haymarket West Jn	Y	Y	Y	Y	N	N	N	N
+Scotland	1103	SC167	Craiglockhart Jn – Slateford Jn	Craiglockhart Jn	Slateford Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford east sidings
+Scotland	1103	SC169	Gorgie Jn – Haymarket Central Jn	Gorgie Jn	Haymarket Central Jn	Y	Y	Y	Y	N	N	N	N
+Scotland	1103	SC171	Edinburgh Waverley – Princes Street Gardens	Edinburgh Waverley	Princes Street Gardens	Y *	R1	R1	R1	N	N	N	N	R1 W9 prohibited EXCEPT all through routes Edinburgh Waverley Station and Lines W & Z between Edinburh Waverley and Princes Street Gardens W9 W8 W7 prohibited Lines X & Y between Edinburh Waverley and Princes Street Gardens

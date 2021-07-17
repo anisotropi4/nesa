@@ -1,16 +1,21 @@
-London-North-Eastern	1039	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1039	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	Y	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Eastern	1039	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	Y	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Eastern	1039	LN3201	SPC1	St. Pancras platforms 1, 2 ,3 and 4	Cricklewood	St. Pancras platforms 1, 2 ,3 and 4 - Cricklewood	0	12	5	09	Y	N	N	N	Y	E	E	Y	R1 R2	R1 R2	R1 15mph West Hampstead Thameslink Down Fast platform 4 R2 5mph Cricklewood Up Fast platform 3
-London-North-Eastern	1039	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	Y	N	N	N	Y	E	E	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 Prohibited Hendon Down Slow platform R2 Prohibited Hendon Up Slow platform R3 5mph Cricklewood Up Fast platform 3 R4 15mph Luton Airport Parkway Up Slow platform
-London-North-Eastern	1039	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	Y	N	N	N	Y	E R1	E R1	Y	R2	R2	R1 Passenger operation between Bedford platforms 1-3 and Bedford St Johns only. R2 Prohibited Wellingborough Up and Down Slow Platform 3
-London-North-Eastern	1039	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	Y	N	N	N	Y	E	E	Y	R1 R2 R3 R4 R5	R1 R2 R3 R4 R5	R1 Prohibited Wellingborough Up and Down Slow Platform 3 R2 30mph Wellingborough Up platform 2 R3 15mph Kettering Down Slow platform 2 R4 5mph Market Harborough Down platform R5 15mph Harborough Road underbridge 88m 07ch (between East Langton - Kibworth) up and down lines
-London-North-Eastern	1039	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester )	Change of ELR (Wigston South Jn) – Change of ELR (Leicester )	95	38	98	73	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC5	Change of ELR (Leicester )	Leicester	Change of ELR (Leicester ) – Leicester	98	73	99	07	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1039	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1039	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1039	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	Y	N	N	N	N	N	N	N
+London-North-Eastern	1039	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	E	E	N	N	N	N	N
+London-North-Eastern	1039	LN170	WEB	Werrington Jn	Site of former Spalding South Jn	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	Y	N	Y	N	N	N	N	N
+London-North-Eastern	1039	LN170	SPD1	Site of former Spalding South Jn	Sleaford South Jn	Site of former Spalding South Jn – Sleaford South Jn	44	07	62	14	Y	N	Y	N	N	N	N	N
+London-North-Eastern	1039	LN170	SPD2	Sleaford South Jn	Sleaford North Jn	Sleaford South Jn – Sleaford North Jn	62	14	63	48	Y	N	Y	N	N	N	N	N
+London-North-Eastern	1039	LN170	SPD2	Sleaford North Jn	Site of former Greetwell West Jn	Sleaford North Jn – Site of former Greetwell West Jn	63	48	81	25	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1039	LN170	SPD3	Site of former Greetwell West Jn	Trent East Jn	Site of former Greetwell West Jn – Trent East Jn	81	25	98	56	R1	N	R2	N	Y	N	N	R3	R1 15 mph through Gainsborough Lea Road Down line platform R2 Prohibited Lincoln platform 2 with deflated suspension R3 Prohibited between West Holmes Jn and Trent East Jn
+London-North-Eastern	1039	LN170	MAC3	Trent East Jn	Trent West Jn	Trent East Jn – Trent West Jn	73	25	73	11	Y	N	Y	N	Y	N	N	N
+London-North-Eastern	1039	LN170	SPD4	Trent West Jn	Bessacarr Jn	Trent West Jn – Bessacarr Jn	98	68	115	72	Y	N	Y	Y	N	N	N	N
+London-North-Eastern	1039	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	Y	N	Y	Y	N	N	N	N
+London-North-Eastern	1039	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1039	LN180	SNW	Sleaford West Jn	Sleaford North Jn	Sleaford West Jn – Sleaford North Jn	1	34	3	42	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1039	LN185	ABE1	Allington West Jn	Site of former Barkston East Jn	Allington West Jn – Site of former Barkston East Jn	0	00	4	08	Y	N	R1	N	N	N	N	Y	R1 Prohibited between Allington West Jn and Allington North Jn
+London-North-Eastern	1039	LN185	GRS1	Barkston East Jn	Site of former Honington Jn	Barkston East Jn – Site of former Honington Jn	110	12	112	00	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1039	LN185	GRS2	Site of former Honington Jn	Sleaford West Jn	Site of former Honington Jn – Sleaford West Jn	112	00	120	29	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1039	LN185	GRS2	Sleaford West Jn	Sleaford East Jn	Sleaford West Jn – Sleaford East Jn	120	29	121	21	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1039	LN185	GRS2	Sleaford East Jn	Site of former Boston Sleaford Line Jn	Sleaford East Jn – Site of former Boston Sleaford Line Jn	121	21	137	06	Y	N	N	N	N	N	N	N
+London-North-Eastern	1039	LN185	GRS3	Site of former Boston Sleaford Line Jn	Boston	Site of former Boston Sleaford Line Jn – Boston	106	70	107	24	Y	N	N	N	N	N	N	N
+London-North-Eastern	1039	LN185	GRS3	Boston	Site of former Firsby East Jn	Boston – Site of former Firsby East Jn	107	24	122	22	Y	N	N	N	N	N	N	N
+London-North-Eastern	1039	LN185	GRS4	Site of former Firsby East Jn	Skegness	Site of former Firsby East Jn - Skegness	0	28	9	17	Y	N	N	N	N	N	N	N

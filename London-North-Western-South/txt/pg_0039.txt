@@ -1,69 +1,88 @@
-                                                          OFFICIAL
+                                                         OFFICIAL
 LNW South Route Sectional Appendix Module LNW(S)1
 
 
 
+                                                                                CONTROLLING          GSM-R
+                     LINE/PLATFORM                               LOCATION
+  LOCATION                                     SIGNAL                            SIGNAL BOX/        CONTACT
+                       (DIRECTION)                                CODE
+                                                                                    PANEL           NUMBER
 
-5.        Modes of Operation
-ATP has seven modes of operation which have the following meaning :-
-Self Test                    An automatic, computer-driven test of the trainborne ATP equipment.
-Data Entry                   The setting up of trainborne ATP equipment to input the individual characteristics of the
-                             train.
-Full Supervision             Provides supervision of train speed to within the braking curve for conditions which exist
-                             ahead (restrictive signals, buffer stops, speed changes etc.), also protects against trains
-                             rolling away.
-Partial Supervision          Available providing Data Entry has been properly carried out, but where track data is not
-                             provided. Also applies when it is necessary to pass a signal at danger, enter an occupied
-                             section, make a reversal or after a recoverable fault.
-Shunt                        Used for slow speed movements, especially where train formation is likely to vary. Train
-                             speed is supervised to 20 mph.
-Temporary Isolation          Used when passing consecutive signals at Danger, also when assisting a failed train.
-Non-Recoverable Fault        Will require the train borne equipment to be (‘Fxx’) completely isolated.
-Recoverable Fault            Temporary removal of Full Supervision pending (‘Exx’) detection of correct lineside data.
-
-6.        Faults and failures - categories
-Failures of the ATP system are categorised into three levels. These are:-
-Level 1                       ‘Wrong Side’ failure where no speed target is displayed under restrictive circumstances, or
-                              where the target speed displayed is higher than it should be.
-Level 2                        ‘Right Side’ failures - non recoverable fault affecting trainborne equipment. These are
-                              identified by an alpha-numeric code in the main cab display window.
-Level 3                        ‘Right Side’ - recoverable failures of lineside equipment identified by an alpha-numeric code
-                              in the main cab display window.
-(see Driver’s Manual for full explanation of fault codes).
-
-7.        Faults and failures - immediate actions
-In the event of any fault or failure being apparent affecting ATP equipment, suitable action must be taken as shown in the
-following table. All concerned must ensure that the correct FAULT CATEGORY, as defined in Clause 6, is quoted on each
-occasion.
-LEVEL 1                                        LEVEL 2                              LEVEL 3
-WRONG SIDE FAILURE                             RIGHT SIDE FAILURE NON-              RIGHT SIDE
-                                               RECOVERABLE                          FAILURERECOVERABLE
-Driver stops train at next practicable         Driver stops train at next           Fault should not be reported where a
-signal.                                        practicable location.                notice has been issued showing a
-Driver isolates ATP if fault is non            Driver isolates ATP.                 temporary disconnection of the ATP
-recoverable.                                   Driver informs Signaller.            lineside equipment at that location.
-Driver informs Signaller.                      Signaller informs Network Rail       Driver should only advise the Signaller
-Signaller informs Network Rail Control and     Control.                             if delay has been incurred.
-gets a fault logged with the NR                Network Rail Control informs the
-Infrastructure Controller.                     appropriate TOC Control.
-Network Rail Control informs the
-appropriate TOC Controls and the NR
-Infrastructure Controller.
-Signaller advises Drivers of all subsequent
-ATP-fitted trains of the circumstances and
-instructs them to disregard the ATP
-indications in the area concerned. This
-cautioning must continue until ATP track
-equipment has been declared in order.
-Faults and failures affecting ATP equipment must be reported fully and promptly. Failure to do so may cause essential data
-concerning performance of the equipment to be lost. Reporting of LEVEL 1 faults to the Signaller ensures that subsequent
-Drivers are suitably advised that the ATP may be unreliable at a specific location. It will also ensure that the on-train
-equipment is investigated without delay.
-8.        Faults and failures - subsequent actions
-Drivers must complete an ATP Report Form at the end of the journey (or when relieved if sooner) as shown below, whether
-or not they had previously reported the fault verbally as instructed in Clause 7.
+MD501 TAMWORTH (INCLUSIVE) TO BIRMINGHAM, PROOF HOUSE JUNCTION
 
 
+                                                                            WMSC Washwood
+Heartlands Park GF     Recess Line 1 Exit        WP8937       997@                                 74 6004 01
+                                                                            Heath WS
+
+                                                                            WMSC Washwood
+Heartlands Park GF     Recess Line 2 Exit        WP8935       997@                                 74 6004 01
+                                                                            Heath WS
+
+                                                                            WMSC Washwood
+Heartlands Park GF     Recess Line 3 Exit        WP8931       997@                                 74 6004 01
+                                                                            Heath WS
+
+                                                                            WMSC Washwood
+Heartlands Park GF     Engineers Siding Exit     WP8991       997@                                 74 6004 01
+                                                                            Heath WS
+
+                                                                            WMSC Washwood
+Heartlands Park GF     Siding Exit               WP8992       997@                                 74 6004 01
+                                                                            Heath WS
+
+MD555 NUNEATON NORTH JN TO WATER ORTON EAST JN
+
+                       Down Arley                                           WMSC Water Orton
+Daw Mill West Jn                                 NW1274       998@                                 74 6005 01
+                       (Up Direction)                                       WS
+
+MD701 MARYLEBONE TO AYNHO JUNCTION
+
+Neasden Jn             Up/Down Goods (Up         NJ4          991           Neasden Jn             74 9123 01
+                       Direction)
+
+MD900 ABBOTSWOOD JN TO STOKE WORKS JN VIA WORCESTER SHRUB HILL
+
+Worcester Shrub
+                       Up Through Siding         SH59         995           Worcester Shrub Hill   74 5274 01
+Hill
 
 
-December 2009                                                 29
+Worcester Shrub
+                       Platform 1 - Up           SH10         995           Worcester Shrub Hill   74 5274 01
+Hill
+
+
+Worcester Shrub
+                       Platform 1 – Down         SH75         995           Worcester Shrub Hill   74 5274 01
+Hill
+
+
+Worcester Shrub
+                       Platform 2 - Up           SH7          995           Worcester Shrub Hill   74 5274 01
+Hill
+
+
+Worcester Shrub
+                       Platform 2 - Down         SH77         995           Worcester Shrub Hill   74 5274 01
+Hill
+
+
+Worcester Shrub
+                       Platform 3                SH11         995           Worcester Shrub Hill   74 5274 01
+Hill
+
+
+Worcester Shrub        Worcester                 SH24         995           Worcester Shrub Hill   74 5274 01
+Hill                   LMD/Carriage Sidings
+
+Worcester Shrub
+                       Sidings Exit              SH61B        995           Worcester Shrub Hill   74 5274 01
+Hill
+
+
+
+
+December 2009                                              24A

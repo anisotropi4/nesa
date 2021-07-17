@@ -1,24 +1,23 @@
-London-North-Eastern	1179	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Eastern	1179	LN826	SJM1	Site of Former Mexborough North Jn	Swinton Jn South	Site of Former Mexborough North Jn – Swinton Jn South	167	15	166	56	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN828	WME	Mexborough Jn	Aldwarke Jn	Mexborough Jn – Aldwarke Jn	10	17	7	26	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN830	WME	Aldwarke Jn	Woodburn Jn	Aldwarke Jn – Woodburn Jn	7	25	0	00	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN832	SJB	Doncaster, Bridge Jn	St. James Jn	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN836	DOL1	Doncaster Marshgate Jn	Hare Park Jn	Doncaster Marshgate Jn – Hare Park Jn	156	28	171	70	9	R1	R1	Y	R1	R1	N	R1 Prohibited from using the unwired main to main crossover at Wintersett
-London-North-Eastern	1179	LN836	DOL1	Hare Park Jn	Site of Former West Riding Jn	Hare Park Jn – Site of Former West Riding Jn	171	70	175	32	9	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1179	LN836	DOL2	Site of Former West Riding Jn	Copley Hill West Jn	Site of Former West Riding Jn – Copley Hill West Jn	175	32	184	65	9	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1179	LN836	DOL2	Copley Hill West Jn	Whitehall West Jn	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	9	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1179	LN836	DOL2	Whitehall West Jn	Whitehall East Jn	Whitehall West Jn – Whitehall East Jn	185	25	185	28	9	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1179	LN836	DOL2	Whitehall East Jn	Leeds	Whitehall East Jn – Leeds	185	28	185	70	8	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1179	LN836	HUL4	Leeds	Neville Hill East Jn	Leeds – Neville Hill East Jn	20	50	18	25	8	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1179	LN838	LEH1	Armley Jn	Site of Former Pannal Jn	Armley Jn – Site of Former Pannal Jn	0	12	14	60	8	H	H	Y	H	H	N	
-London-North-Eastern	1179	LN838	LEH2	Site of Former Pannal Jn	Site of Former Crimple Jn	Site of Former Pannal Jn – Site of Former Crimple Jn	14	60	15	20	8	H	H	Y	H	H	N	
-London-North-Eastern	1179	LN838	LEH3	Site of Former Crimple Jn	Harrogate	Site of Former Crimple Jn – Harrogate	15	20	17	24	8	H R1	H R1	Y	H R1	H R1	N	R1 Prohibited between Hornbeam Park and Harrogate
-London-North-Eastern	1179	LN838	HAY2	Harrogate	Site of Former Starbeck North Jn	Harrogate – Site of Former Starbeck North Jn	20	38	18	60	8	N	N	R1	N	N	N	R1 Prohibited Harrogate Bay platform 2
-London-North-Eastern	1179	LN838	HAY1	Site of Former Starbeck North Jn	Skelton Jn	Site of Former Starbeck North Jn – Skelton Jn	18	60	1	50	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN840	TJC3	Leeds Engine Shed Jn	Whitehall East Jn	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	8	H	H	Y	H	H	N	
-London-North-Eastern	1179	LN842	CJS	Thorpe Marsh Jn	Applehurst Jn	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN842	CJS	Applehurst Jn	Skellow Jn	Applehurst Jn – Skellow Jn	163	27	160	59	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN842	SKA	Skellow Jn	Adwick Jn	Skellow Jn – Adwick Jn	0	61	0	00	8	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN844	JCA	Applehurst Jn	Joan Croft Jn	Applehurst Jn – Joan Croft Jn	0	49	0	00	9	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN846	CJS	Carcroft Jn	Skellow Jn	Carcroft Jn – Skellow Jn	160	08	160	59	9	N	N	Y	N	N	N	
-London-North-Eastern	1179	LN848	HPC	Hare Park Jn	Crofton West Jn	Hare Park Jn – Crofton West Jn	171	70	173	22	8	H	H	Y	H	H	N	
+London-North-Eastern	1179	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+London-North-Eastern	1179	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn)	Dore South Jn	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	TJC1	Dore South Jn	Sheffield Station	Dore South Jn – Sheffield Station	153	71	158	40	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	TJC1	Sheffield Station	Nunnery Main Line Jn	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	TJC1	Nunnery Main Line Jn	Site of Former Grimesthorpe Jn	Nunnery Main Line Jn – Site of Former Grimesthorpe Jn	158	77	160	47	8	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited on the Down Main between Nunnery Main Line Jn and Mill Race Jn
+London-North-Eastern	1179	LN804	TJC2	Site of Former Grimesthorpe Jn	Site of Masborough South Jn	Site of Former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	TJC3	Site of Former Masborough South Jn	Swinton Jn South	Site of Former Masborough South Jn – Swinton Jn South	161	77	166	56	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	SMJ1	Swinton Jn North	Site of Former Wath Curve Jn	Swinton Jn North – Site of Former Wath Curve Jn	167	03	168	64	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	SMJ2	Site of Former Wath Curve Jn	Ferrybridge South Jn	Site of Former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	SMJ2	Ferrybridge South Jn	Site of Former Burton Salmon Jn	Ferrybridge South Jn – Site of Former Burton Salmon Jn	2	38	0	00	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	SMJ3	Site of Former Burton Salmon Jn	Milford Jn	Site of Former Burton Salmon Jn – Milford Jn	16	69	15	07	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	10	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN806	CHR	Route Boundary (LN3201) (Tapton Jn)	Masborough Jn	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN807	MAS	Dore South Jn	Dore West Jn	Dore South Jn – Dore West Jn	153	73	154	16	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN808	DWS	Dore Station Jn	Dore West Jn	Dore Station Jn – Dore West Jn	0	60	0	00	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN808	MAS	Dore West Jn	Route Boundary (NW9001) (Chinley North Jn)	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN809	BTJ	Shepcote Lane West Jn	Tinsley Yard East End	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	10	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN810	SEL	Shepcote Lane West Jn	Tinsley South Jn	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	10	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN812	BLJ	Shepcote Lane East Jn	Broughton Lane Jn	Shepcote Lane East Jn – Broughton Lane Jn	161	20	161	67	10	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN816	BEW	Beighton Jn	Woodhouse Jn	Beighton Jn – Woodhouse Jn	48	06	46	56	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN818	HCD	Holmes Jn	Rotherham Central Jn	Holmes Jn – Rotherham Central Jn	0	00	0	62	10	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1179	LN824	SKM	Moorthorpe Jn	South Kirkby Jn	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	8	Y	Y	Y	Y	Y	Y	Y

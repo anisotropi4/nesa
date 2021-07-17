@@ -1,22 +1,28 @@
 Scotland	0985	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	0985	SC171	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	N	Y	Y	Y	
-Scotland	0985	SC171	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	N	Y	Y	Y	
-Scotland	0985	SC171	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	N	Y	Y	Y	
-Scotland	0985	SC171	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	N	Y	Y	Y	
-Scotland	0985	SC171	ECN2	Haymarket West Jn	Dundee Central Jn	Haymarket West Jn – Dundee Central Jn	2	41	58	69	Y	N	N	Y	Y	
-Scotland	0985	SC171	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	Y	N	N	Y	Y	
-Scotland	0985	SC173	CWH1	Inverkeithing Central Jn	Change of ELR (Cowdenbeath)	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	Y	N	N	Y	Y	
-Scotland	0985	SC173	CWH2	Change of ELR (Cowdenbeath)	Change of ELR (Lochgelly)	Change of ELR (Cowdenbeath) – Change of ELR (Lochgelly)	0	00	0	70	Y	N	N	Y	Y	
-Scotland	0985	SC173	CWH3	Change of ELR (Lochgelly)	Thornton West Jn	Change of ELR (Lochgelly) – Thornton West Jn	27	00	34	62	Y	N	N	Y	Y	
-Scotland	0985	SC173	TNW	Thornton West Jn	Thornton North Jn	Thornton West Jn – Thornton North Jn	0	70	0	00	Y	N	N	Y	Y	
-Scotland	0985	SC175	RHD2	Rosyth Dockyard	Change of ELR	Rosyth Dockyard – Change of ELR	1	21	1	00	N	N	N	N	N	
-Scotland	0985	SC175	RHD1	Change of ELR	Inverkeithing South Jn (Goods Line)	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N	
-Scotland	0985	SC176	IGE	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	Y	N	N	Y	Y	
-Scotland	0985	SC177	MTL1	Thornton North Jn	Change of ELR	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	
-Scotland	0985	SC177	MTL2	Change of ELR	Methill Power Station (Goods Line)	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N	
-Scotland	0985	SC178	CWH3	Thornton South Jn	Thornton West Jn	Thornton South Jn – Thornton West Jn	35	38	34	62	Y	N	N	Y	Y	
-Scotland	0985	SC181	CDC1	Ladybank Jn	Change of ELR	Ladybank Jn – Change of ELR	0	03	14	10	Y	N	N	Y	Y	
-Scotland	0985	SC181	CDC2	Change of ELR	Hilton Jn	Change of ELR – Hilton Jn	44	18	45	66	Y	N	N	Y	Y	
-Scotland	0985	SC183	SAA	Stirling Middle Jn	Change of ELR	Stirling Middle Jn – Change of ELR	0	00	8	14	R1	N	N	N	N	R1 Prohibited between Alloa Town and Change of ELR (8m 14ch)
-Scotland	0985	SC183	KNE1	Change of ELR	Longannet	Change of ELR – Longannet	0	00	5	62	N	N	N	N	N	
-Scotland	0985	SC183	KNE1	Longannet	Change of ELR	Longannet – Change of ELR	5	62	14	14	N	N	N	N	N	
+Scotland	0985	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	Y	N	Y	Y	Y
+Scotland	0985	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	Y	N	Y	Y	Y
+Scotland	0985	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	Y	N	Y	Y	Y
+Scotland	0985	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	Y	N	N	Y	Y
+Scotland	0985	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	Y	N	N	Y	Y
+Scotland	0985	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	Y	N	Y	N	N
+Scotland	0985	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	Y	N	N	Y	Y
+Scotland	0985	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	Y	N	N	N	N
+Scotland	0985	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	Y	N	N	N	N
+Scotland	0985	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	N	N
+Scotland	0985	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	Y	N	N	N	N
+Scotland	0985	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	R1	N	N	N	N	R1 Prohibited except for the purpose of setting back behind Signals ECL290 or ECL292
+Scotland	0985	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	Y	N	N	Y	Y
+Scotland	0985	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	Y	N	Y	Y	Y
+Scotland	0985	SC119	SCM3	Carmuirs West Jn	Stirling Middle Jn	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	Y	N	Y	Y	Y
+Scotland	0985	SC119	SCM3	Stirling Middle Jn	Change of ELR (Dunblane)	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	Y	N	Y	Y	Y
+Scotland	0985	SC119	SCM4	Change of ELR (Dunblane)	Perth South Jn	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	Y	N	N	Y	Y
+Scotland	0985	SC119	SCM5	Perth South Jn	Change of Mileage	Perth South Jn – Change of Mileage	150	61	151	03	Y	N	N	Y	Y
+Scotland	0985	SC119	SCM5	Change of Mileage	Dundee Central Jn	Change of Mileage – Dundee Central Jn	21	01	0	36	Y	N	N	Y	Y
+Scotland	0985	SC119	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	Y	N	N	Y	Y
+Scotland	0985	SC123	NBE	Bathgate	Change of ELR	Bathgate – Change of ELR	25	18	25	00	Y	N	Y	N	N
+Scotland	0985	SC123	NEM1	Change of ELR	Drumgelloch	Change of ELR – Drumgelloch	25	00	11	70	Y	N	Y	N	N
+Scotland	0985	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	N	N	Y	N	N
+Scotland	0985	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	N	N	R1 R2 R3 R4 R5	N	N	R1 Prohibited High Street Up platform with deflated suspension R2 15mph Coatdyke Up platform R3 15mph Blairehill Up platform R4 15mph Easterhouse Down platform R5 Prohibited between Shettleston and High Street Jn
+Scotland	0985	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	N	N	N	N	N
+Scotland	0985	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	N	N	N	N	N
+Scotland	0985	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	N	N	N	N	N

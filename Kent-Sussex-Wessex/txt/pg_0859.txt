@@ -1,47 +1,43 @@
+                                                                                     OFFICIAL
+
+
                                                            Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                oo     oo    oo    oo 313 319 325 373 375 376 377 378 380 387 Notes
-route           Description                           oo     oo    oo    oo 000 000 000 000 000 000 000 000 000 000 ooooooooooooooooooooooooooo
+Line of ELR     Line of Route / Sector                oo     oo    oo    oo    170     171       172    220    221 Notes
+route           Description                           oo     oo    oo    oo   0000    0000      0000   0000   0000 ooooooooooooooooooooooooooo
                                                       M      Ch    M     Ch
-SO130 XTD       Chislehurst Jn – Petts Wood Jns       11      33    12   27   N    R1   H    N    Y   Y    Y    N    N     Y R1   Prohibited from Slow lines
-SO130 XTD       Petts Wood Jns – Sevenoaks            12      27    21   74   N    R1   Y    N    Y   Y    Y    N    N     Y R1   Prohibited on Slow lines between Petts
-                Substation                                                                                                        Wood Jns and Orpington
-SO130 XTD       Sevenoaks Substation – Tonbridge      21      74    29   35   N    E    Y    N    Y   Y    Y    N    N     Y R1   75mph maximum speed
-                West Jn                                                            R1
-SO130 XTD       Tonbridge West Jn – Tonbridge East    29      35    29   55   N    E    Y    N    Y   Y    Y    E    N     Y R1   75mph maximum speed
-                Jn                                                                 R1                                        R2   Prohibited Tonbridge platform 4
-                                                                                   R2
-SO130 XTD       Tonbridge East Jn – Paddock Wood      29      55    34   67   N    E    Y    N    Y   Y    Y    E    N     Y R1   75mph maximum speed
-                                                                                   R1
-SO130 XTD       Paddock Wood – Ashford (Jn with       34      67    55   54   N    E    Y    N    Y   Y    Y    E   EH     Y R1   75mph maximum speed
-                Maidstone line)                                                    R1                               R2       R2   Prohibited between Paddock Wood and
-                                                                                                                                  Chart Leacon Depot
-SO130 XTD       Ashford (Jn with Maidstone line) –    55      54    56   09   N    E    Y    R4   Y   Y    Y    E   EH     Y R1   75mph maximum speed
-                Ashford Station                                                    R1                                        R2   Prohibited Ashford platform 1 (Up platform
-                                                                                   R2                                             loop)
-                                                                                   R3                                        R3   25mph Ashford platform 2 (Up Slow)
-                                                                                                                             R4   Permitted Down / Up West Chord and
-                                                                                                                                  Down / Up East Chords to CTRL interface,
-                                                                                                                                  via Ashford platforms 3, 4, 5 & 6
-SO130 XTD       Ashford Station – Ashford (Jn with    56      09    56   20   N    E    Y    R4   Y   Y    R5   E    N       R1   75mph maximum speed
-                Hastings line)                                                     R1                                        R2   Prohibited Ashford platform 1 (Up platform
-                                                                                   R2                                             loop)
-                                                                                   R3                                        R3   25mph Ashford platform 2 (Up Slow)
-                                                                                                                             R4   Permitted Down / Up West Chord and
-                                                                                                                                  Down / Up East Chords to CTRL interface,
-                                                                                                                                  via Ashford platforms 3, 4, 5 & 6
-                                                                                                                             R5   Class 377/1 and 377/5 only
-SO130 XTD       Ashford (Jn with Hastings line) –     56      20    56   35   N    N    N    R1   Y   Y    R2   E    N     N R1   Permitted Down / Up West Chord and
-                Ashford (Jn with Canterbury Line)                                                                                 Down / Up East Chords to CTRL interface,
-                                                                                                                                  via Ashford platforms 3, 4, 5 & 6
-                                                                                                                             R2   Class 377/1 and 377/5 only
-SO130 XTD       Ashford (Jn with Canterbury Line) –   56      35    66   38   N    N    N    N    Y   Y    R1   N    N     N R1   Class 377/1 and 377/5 only
-                Saltwood Jn
-SO130 XTD       Saltwood Jn – Folkestone Central      66      38    69   73   N    N    N    R1   Y   Y    R2   N    N     N R1   Permitted Down / Up West Chord and
-                                                                                                                                  Down / Up East Chords to CTRL interface
-                                                                                                                             R2   Class 377/1 and 377/5 only
+SO510 LBW       Bricklayers Arms Jn – New Cross        2      12     2   60     N       Y        N      N       N
+                Gate Up Jn
+SO510 ELL1      New Cross Gate Up Jn – Network Rail    5      51     5   49     N       N        N      N       N
+                Boundary / Up ELL
+SO510 LBW       New Cross Gate Up Jn – New Cross       2      60     3   10     N       Y        N      N       N
+                Gate Down Jn
+SO510 ELL1      New Cross Gate Down Jn – Network       6      02     5   79     N       N        N      N       N
+                Rail Boundary / Down ELL
+SO510 LBW       New Cross Gate Down Jn –               3      10     6   51     N       Y        N      N       N
+                Sydenham Down Jn
+SO510 LBW       Sydenham Down Jn – Norwood Jn          6      51     8   55     N       Y        N      N       N
+SO510 LBW       Norwood Jn – Norwood Fork Jn           8      55     9   33     N       Y        N      Y       Y
+SO510 LBW       Norwood Fork Jn – Cottage Jn /         9      33     9   64     N       Y        N      Y       Y
+                Windmill Bridge Jn
+SO510 NFE       Norwood Fork Jn – Sutton               9      33    14   75     N       Y        N      N       N
+SO510 NFE       Sutton – Epsom Downs                  14      75    18   60     N       N        N      N       N
+SO520 TBH1      Three Bridges – Crawley               29      21    30   49     N       Y        N      N       N
+SO520 TBH1      Crawley – Horsham Jn                  30      49    37   39     N       Y        N      N       N
+SO520 TBH1      Horsham Jn – Horsham                  37      39    37   56     N      R1        N      N       N    R1    5mph Horsham Down Loop platform 4
+                                                                                       R2                            R2    15mph Horsham Up Main platform 2
+SO520 TBH1      Horsham – Billingshurst               37      56    44   71     N      R1        N      N       N    R1    5mph Horsham Down Loop platform 4
+                                                                                       R2                            R2    15mph Horsham Up Main platform 2
+                                                                                       R3                            R3    15mph Billingshurst Down platform
+SO520 TBH1      Billingshurst – Arundel Jn            44      71    59   75     N      R1        N      N       N    R1    15mph Billingshurst Down platform
+                                                                                       R2                            R2    20mph Pulborough Up platform
+SO520 TBH2      Arundel Jn – Barnham                  19      01    22   29     Y      R1        N      N       N    R1    5mph Ford Down platform
+SO520 TBH2      Barnham – Route Boundary (SW110)      22      29    35   35     Y       Y        N      N       N
+                (Havant Jn)
 
 
-December 2009                                                                           20
+
+
+December 2009                                                                           16L

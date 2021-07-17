@@ -1,18 +1,21 @@
-London-North-Western-North	0977	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes	
-London-North-Western-North	0977	NW2001	Weaver Jn. – Liverpool Lime Street	Weaver Jn.	Liverpool Lime Street	8	SB1C (W9) R1	R2	R1 R2	SB1C Weaver Jn. – Edge Hill only. RA9/10 loaded freight vehicles are normally permitted between Weaver Jn. and Edge Hill only, but may also be permitted between Edge Hill and Liverpool Lime Street subject to the Territory Track Engineer granting special dispensation. Between Wavertree Jn. and Edge Hill station such vehicles must only be routed on the Down and Up Ditton Fast lines.
-London-North-Western-North	0977	NW2003	Runcorn - I.C.I. Salt Works (Runcorn Dock Branch)	Runcorn	I.C.I. Salt Works (Runcorn Dock Branch)	8	W6A Ex. (W8)	R	R	ELR: RDB, Bridge No.4 (Folly Lane, Siding Line) vehicles which exceed the RA of the line are prohibited.
-London-North-Western-North	0977	NW2005	Speke Jn. - Garston Jn.	Speke Jn.	Garston Jn.	8	SB1C (W9)	Y		
-London-North-Western-North	0977	NW2007	Allerton East Jn. - Garston Jn.	Allerton East Jn.	Garston Jn.	8	SB1C (W9)	Y		
-London-North-Western-North	0977	NW2009	Arpley Jn. - Ditton East Jn	Arpley Jn.	Ditton East Jn	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0977	NW2011	Walton Old Jn. - Arpley Jn.	Walton Old Jn.	Arpley Jn.	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0977	NW2015	Ordsall Lane Jn. - Edge Hill	Ordsall Lane Jn.	Edge Hill	8	R1 R2	R3	R1 R2 R3	W12 Ordsall Lane Jn – Newton-le-Willows Jn SBC1 (W9) Newton-le-Willows Jn to Edge Hill ELR: DSE, Br.107 – RA9/10 loaded freight vehicles restricted to 30mph over bridge 20mch and 19m 60ch.
-London-North-Western-North	0977	NW2017	Eccles – Weaste	Eccles	Weaste	8	/	Y		
-London-North-Western-North	0977	NW2019	Parkside Jn. - Lowton Jn. (East Curve lines).	Parkside Jn.	Lowton Jn. (East Curve lines).	8	W6A Ex. (W12)	R	R	RA9/10 vehicles restricted to 10mph throughout.
-London-North-Western-North	0977	NW2021	Earlestown South. Jn. - Earlestown West Jn. (Liverpool Curve).	Earlestown South. Jn.	Earlestown West Jn. (Liverpool Curve).	8	SB1C (W9)	Y		
-London-North-Western-North	0977	NW2023	Springs Branch Jn. - Huyton Jn. (St. Helens lines)	Springs Branch Jn.	Huyton Jn. (St. Helens lines)	7	W9 & W10	Y		
-London-North-Western-North	0977	NW2025	St. Helens Station Jn. - Ravenhead Jn. (Out of use)	St. Helens Station Jn.	Ravenhead Jn. (Out of use)	-	W6A Ex. (W8)	-		
-London-North-Western-North	0977	NW2027	Edge Hill, Bootle Branch Jn. - Regent Road L.C.	Edge Hill, Bootle Branch Jn.	Regent Road L.C.	8	SB1C (W9)	Y		
-London-North-Western-North	0977	NW2029	Olive Mount Jn to Edge Lane Jn	Olive Mount Jn	Edge Lane Jn	8	W9 & W10	Y		
-London-North-Western-North	0977	NW3001	Crewe North Jn. – Chester East Jn.	Crewe North Jn.	Chester East Jn.	8	W6A Ex. (W7)	Y		
-London-North-Western-North	0977	NW3001	Chester East Jn – Holyhead	Chester East Jn	Holyhead	8	W6A Ex. (W7)	R1	R1	RA9/10 vehicles are restricted to 20mph between Valley and Ty Croes (256m 60ch to 255m 40ch) in the Up direction only.
-London-North-Western-North	0977	NW3003	Chester East Jn – Acton Grange Jn.	Chester East Jn	Acton Grange Jn.	8	W6A Ex. (W7)	R	R	CHW1 Br.9 (2m 56ch), Br.62 (13m 40ch), Br.63 (13m 40ch), Br.64 (13m 74ch): RA9/10 vehicles are restricted to 50mph over these bridges.
+London-North-Western-North	0977	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0977	NW9005	CNB2	Change of Mileage (Site of Former Peak Forest Jn)	Change of Mileage (Site of Former Buxton Jn)	Change of Mileage (Site of Former Peak Forest Jn) – Change of Mileage (Site of Former Buxton Jn)	0	00	0	28	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9005	CNB3	Change of Mileage (Site of Former Buxton Jn)	Buxton SB	Change of Mileage (Site of Former Buxton Jn) – Buxton SB	161	15	164	52	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9005	CNB4	Buxton SB	Buxton Sidings	Buxton SB – Buxton Sidings	164	52	165	12	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9007	TTA1	New Mills South Jn	Marple Wharf Jn	New Mills South Jn – Marple Wharf Jn	172	17	177	23	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9007	TTA1	Marple Wharf Jn	Romiley Jn	Marple Wharf Jn – Romiley Jn	177	23	178	33	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9007	TTA1	Romiley Jn	Brinnington (Change of Mileage)	Romiley Jn – Brinnington (Change of Mileage)	178	33	181	00	7	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9007	TTA2	Brinnington (Change of Mileage)	Ashburys East Jn	Brinnington (Change of Mileage) – Ashburys East Jn	42	77	46	24	7	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9009	MRH	Marple Wharf Jn	Rose Hill Buffer Stop	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9011	RYH1	Romiley Jn	Woodley Jn	Romiley Jn – Woodley Jn	178	33	179	44	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9011	RYH2	Woodley Jn	Hyde Jn	Woodley Jn – Hyde Jn	8	74	6	16	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9013	WJP1	Woodley Jn	Bredbury Sidings	Woodley Jn – Bredbury Sidings	40	53	39	58	7	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9017	NMC1/ 2	Hazel Grove High Level Jn	Cheadle Jn	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9017	WJP1	Cheadle Jn	Northenden Jn	Cheadle Jn – Northenden Jn	35	64	33	52	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9019	BUX	Buxton	Brigg’s Sidings	Buxton – Brigg’s Sidings	0	00	4	70	8	N	N	Y	N	N	N
+London-North-Western-North	0977	NW9021	BEJ	Buxton	Hazel Grove East Jn	Buxton – Hazel Grove East Jn	19	09	2	35	8	N	N	R1	N	N	N	R1 Prohibited Chapel-en-le-Frith - Dove Holes on the Down & Up
+London-North-Western-North	0977	NW9901	SKW1	Route Boundary (LN922) (Gargrave)	Settle Jn	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	8	H R1	H R1	Y	H R1	N	N	R1 Prohibited between Route Boundary (LN922) (Gargrave) and Hellifield
+London-North-Western-North	0977	NW9901	SAC	Settle Jn	Petteril Bridge Jn	Settle Jn – Petteril Bridge Jn	234	44	307	12	8	H R1 R2 R3 R4 R5	H R1 R2 R3 R4 R5	Y	H R1 R2 R3 R4 R5	N	N	R1 10mph Down OB64 (246m 60ch - 247mch) R2 15mph Up OB106 (255m 60ch - 255m 40ch) R3 15mph Down OB280 (286m 60ch - 287mch) R4 15mph Down OB328 (299m 60ch - 300mch) R5 15mph Down OB346 (304mch - 304m 20ch)
+London-North-Western-North	0977	NW9901	NEC2	Petteril Bridge Jn	London Road Jn	Petteril Bridge Jn – London Road Jn	59	26	59	45	8	H	H	Y	H	H	H
+London-North-Western-North	0977	NW9901	NEC2	London Road Jn	Carlisle South Jn	London Road Jn – Carlisle South Jn	59	45	60	02	8	H	H	Y	H	H	H
+London-North-Western-North	0977	NW9903	SKW1	Settle Jn	Change of Mileage (Wennington)	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	8	H	H	Y	H	N	N

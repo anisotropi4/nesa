@@ -1,53 +1,63 @@
-                                                                                    OFFICIAL
+LNW South Route Sectional Appendix Module LNW(S)2
 
 
-                                                               LNW South Route Sectional Appendix Module LNW(S) RC
+MD306 - BIRMINGHAM NEW STREET TO ASHCHURCH (EXCL.) (VIA
+DUNHAMPSTEAD)
+BROMSGROVE
+
+Assisting locomotive in rear between Bromsgrove and Blackwell
+The head code of the assisting locomotive will be 0B00 for all movements including the period of time it is assisting a train
+in the rear on the Lickey Incline.
+Up trains requiring assistance must normally be brought to a stand at signal BA7612 on the Up Bromsgrove Loop
+(Platform 1) or (by exception) signal BA3614 on the Up Gloucester line (Platform 2) to enable the assisting locomotive to
+proceed onto the rear of the train. Signals BA7612 or BA3614 will be maintained at danger and reminder appliances
+applied to the appropriate signal.
+The Driver of the assisting locomotive and the Signaller at WMSC Bromsgrove Workstation must reach a clear
+understanding as to whether the assisting locomotive will return to Bromsgrove or continue to Saltley after a train has
+been assisted up the Lickey Incline.
+Once the assisting locomotive has dropped onto the rear of the train, the Signaller at WMSC Bromsgrove Workstation
+must not authorise any movement in or out of the Bromsgrove Tamper Siding until the Driver of the assisting locomotive
+has confirmed the locomotive is on rear of the train and ready to assist the train.
+When the assisting locomotive is on the rear of the train the Driver must contact the Signaller at WMSC Bromsgrove
+Workstation via the GSM-R Radio and confirm the assisting locomotive is on rear of the train and is ready to commence
+assisting the train.
+The Signaller at WMSC Bromsgrove Workstation will repeat the message back to the Driver of the assisting locomotive
+and give an indication of the time before the movement of the train can commence if this is likely to be a prolonged period
+of time.
+The Signaller at WMSC Bromsgrove Workstation must contact the Driver of the train requiring assistance and confirm the
+assisting locomotive is on the rear of the train and ready to provide assistance and to wait for the signal, giving an
+indication of the time before the movement can commence if this is likely to be a prolonged period of time.
+Before clearing signal BA7612 or BA3614 for the train being assisted to commence the movement up the Lickey Incline
+the Signaller at WMSC Bromsgrove Workstation must ensure there is no risk of bringing the train to a stand on the Lickey
+Incline and the route must be cleared for the movement to proceed as far as signal BA3598 at Blackwell.
+When the Signaller at WMSC Bromsgrove Workstation has cleared signal BA7612 or BA3614 for the movement to
+commence the associated OFF Indicators will illuminate to inform the Driver of the assisting locomotive that the signal is
+displaying a proceed aspect.
+Blocking Of Adjacent Lines
+If the Driver of the assisting locomotive has to work or walk on the outside of the train and requires the adjacent running
+line to be blocked, the Driver of the assisting locomotive must contact the Signaller at WMSC Bromsgrove Workstation
+and request the adjacent running line to be blocked to traffic in accordance with Rule Book Module TW1 Section 46.
+Assisting Locomotive Leaving The Train At Blackwell
+If the assisting locomotive is to return to Bromsgrove it must be brought to a stand at Blackwell on the Barnt Green side of
+ground position light signal BA1613.
+If the assisting locomotive is returning to Saltley the Driver must follow the train at a safe distance and bring the locomotive
+to a stand at signal BA3598 at Blackwell and in accordance with Rule Book Module TW1 Section 15.2 not pass signal
+BA3598 until it has returned to danger and cleared again.
+Certain Locomotives (66055 – 66059) are fitted with special cab equipment which automatically disengages the central
+auto-couplers. Should this equipment fail to operate correctly, the assisting locomotive must continue attached to the rear
+of the train concerned. The Driver of the assisting locomotive must immediately contact the Signaller at WMSC Kings
+Norton Workstation via GSM-R, explain the circumstances and act on the instructions received. No further attempt must
+be made to operate the automatic uncoupling equipment.
+In addition to the Driver of the assisting locomotive contacting the Signaller at WMSC Kings Norton Workstation to advise
+the assisting locomotive has failed to detach, the Signaller will receive an automatic alarm which states: BANKING
+LOCOMOTIVE FAILED TO DETACH. The Signaller at WMSC Kings Norton Workstation must route the train to the Kings
+Norton Arrival & Departure line where the assisting locomotive can be detached.
+The Drivers of the assisting locomotive and the train locomotive must then come to a clear understanding regarding the
+detaching of the assisting locomotive. When the assisting locomotive has been detached the Driver of the assisting
+locomotive must advise the Signaller at WMSC Kings Norton Workstation accordingly. If the Kings Norton Arrival &
+Departure line is not available for the purpose of detaching the assisting locomotive, then the train must be routed to
+Washwood Heath Up Yard where the assisting locomotive will be detached.
+                                                                                                          Dated: 21/10/2017
 
 
-
-Line of ELR     Line of Route / Sector                    oo   oo   oo    oo RA Loco Gauge Notes
-route           Description                               oo   oo   oo    oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                                          M    Ch   M     Ch
-MD301   RBS2    Galton Jn – Wolverhampton Crane            3   64   12    60   8         Y
-                Street Jn
-MD301   RBS2    Wolverhampton Crane Street Jn –           12   60   14    43   8         Y
-                Bushbury Jn (Change of Mileage)
-MD301   RBS3    Bushbury Jn (Change of Mileage) –         15   32   23    30   8         Y
-                Route Boundary (NW1002) (Stafford
-                Trent Valley Jn No.1)
-MD305   BAG1    Change of Mileage (Birmingham New         42   35   47    20   8        R1       R1   Prohibited between Birmingham New St and Five Ways on the Up
-                Street) – Lifford West Jn                                                             line
-MD305   BAG1    Lifford West Jn – King's Norton Station   47   20   47    48   8         Y
-                Jn
-MD305   BAG1    King's Norton Station Jn – King's         47   48   48    02   8         Y
-                Norton Jn (Change of Mileage)
-MD305   BAG2    King's Norton Jn (Change of Mileage)      46   77   51    58   8        R1       R1 Prohibited between Northfield and Longbridge Jn on the Up Slow line
-                – Barnt Green Jn
-MD305   BAG2    Barnt Green Jn – Route Boundary           51   58   52    40   8         Y
-                (GW400) (Blackwell)
-MD310   BEA     Barnt Green Jn – Redditch                 51   58   56    60   8        R1       R1   Prohibited Barnt Green platform 4 (Down line)
-                                                                                        R2       R2   Prohibited Alvechurch Station (Single Line)
-MD315   SAS     Stechford South Jn – Stechford North   -0      20    -0   04   8        Y
-                Jn (via Up Line)
-MD315   SAS     Stechford North Jn – Aston South Jn    -0      04     2   61   8         Y
-MD320   RBS1    Proof House Jn – Curzon Street Jn     112      19   112   07   8         Y
-                (Change of Mileage)
-MD320   PBJ     Curzon Street Jn (Change of Mileage)    0      00     1   60   8         Y
-                – Aston South Jn
-MD320   PBJ     Aston South Jn – Aston North Jn         1      60    1    73   8         Y
-MD320   PBJ     Aston North Jn – Bescot Jn              1      73    8    50   8         Y
-MD320   PBJ     Bescot Jn – Bushbury Jn                 8      50   15    32   8         Y
-MD325   SSP     Soho South Jn – Perry Barr West Jn      2      71    0    39   8         Y
-MD325   PBL     Perry Barr West Jn – Perry Barr North   0      29    0    00   8         Y
-                Jn
-MD330   SCL     Soho East Jn – Soho North Jn            0      00     0   22   8         Y
-MD335   SSP     Perry Barr West Jn – Perry Barr South   0      39     0   00   8         Y
-                Jn
-MD340   ALC1    Aston North Jn – Sutton Coldfield       0      00     5   00   8         Y
-                Change of ELR
-MD340   ALC2    Sutton Coldfield Change of ELR –        5      00   13    33   8         Y
-                Lichfield City Jn
-
-
-
-December 2009                                                                            52
+December 2009                                                260A

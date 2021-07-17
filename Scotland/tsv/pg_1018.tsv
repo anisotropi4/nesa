@@ -1,21 +1,25 @@
-Scotland	1018	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Scotland	1018	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	Y	Y	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
-Scotland	1018	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
-Scotland	1018	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC011	EGS1	Mossend East Jn	Uddingston Jn	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC013	SHR	Wishaw Central Jn	Shieldmuir Jn	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC015	MDN	Mossend East Jn	Mossend North Jn (North Curve)	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC017	MDE	Mossend East Jn	Mossend South Jn (East Curve)	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC019	MDW	Mossend South Jn	Mossend West Jn (West Curve)	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC021	COS2	Coltness	Change of ELR	Coltness – Change of ELR	0	09	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC021	COS1	Change of ELR	Garriongill Jn	Change of ELR – Garriongill Jn	14	15	15	29	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC023	HMN1	Motherwell	Change of ELR	Motherwell – Change of ELR	0	08	1	44	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC023	HMN2	Change of ELR	Newton, Hamilton Jn	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC024	LRK	Larkhall	Haughhead Jn	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC025	ARG1	Rutherglen Central Jn	Bridgeton Yard North End	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC025	ARG2	Bridgeton Yard North End	Exhibition Centre	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC025	ARG2	Exhibition Centre	Finnieston East Jn (Down line)	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1018	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1018	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+Scotland	1018	SC173	CWH3	Change of ELR (Lochgelly)	Thornton West Jn	Change of ELR (Lochgelly) – Thornton West Jn	27	00	34	62	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC173	TNW	Thornton West Jn	Thornton North Jn	Thornton West Jn – Thornton North Jn	0	70	0	00	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC175	RHD2	Rosyth Dockyard	Change of ELR	Rosyth Dockyard – Change of ELR	1	21	1	00	N	N	N	N	N	N	N	N	N
+Scotland	1018	SC175	RHD1	Change of ELR	Inverkeithing South Jn (Goods Line)	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N	N	N	N	N
+Scotland	1018	SC176	IGE	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	Y	Y	EH	N	N	N	N	N	N
+Scotland	1018	SC177	MTL1	Thornton North Jn	Change of ELR	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	N	N	N	N
+Scotland	1018	SC177	MTL2	Change of ELR	Methill Power Station (Goods Line)	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N	N	N	N	N
+Scotland	1018	SC178	CWH3	Thornton South Jn	Thornton West Jn	Thornton South Jn – Thornton West Jn	35	38	34	62	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC181	CDC1	Ladybank Jn	Change of ELR	Ladybank Jn – Change of ELR	0	03	14	10	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC181	CDC2	Change of ELR	Hilton Jn	Change of ELR – Hilton Jn	44	18	45	66	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC183	SAA	Stirling Middle Jn	Change of ELR	Stirling Middle Jn – Change of ELR	0	00	8	14	Y	Y	Y	N	N	N	N	N	N
+Scotland	1018	SC183	KNE1	Change of ELR	Longannet	Change of ELR – Longannet	0	00	5	62	Y	Y	Y	N	N	N	N	N	N
+Scotland	1018	SC183	KNE1	Longannet	Change of ELR	Longannet – Change of ELR	5	62	14	14	Y	Y	Y	N	N	N	N	N	N
+Scotland	1018	SC183	KNE2	Change of ELR	Charlestown Jn	Change of ELR – Charlestown Jn	14	14	15	39	Y	Y	Y	N	N	N	N	N	N
+Scotland	1018	SC189	CRE	Westfield	Change of Mileage	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	N	N	N
+Scotland	1018	SC189	CRE	Change of Mileage	Redford Jn (Goods Line)	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	N	N	N
+Scotland	1018	SC191	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC191	ECN2	Dundee	Camperdown Jn	Dundee – Camperdown Jn	59	14	59	77	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC191	ECN3	Camperdown Jn	Change of ELR (Arbroath SB)	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC191	ECN4	Change of ELR (Arbroath SB)	Change of ELR (Montrose)	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC191	ECN5	Change of ELR (Montrose)	Craiginches	Change of ELR (Montrose) – Craiginches	203	11	239	55	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC191	ECN5	Craiginches	Aberdeen	Craiginches – Aberdeen	239	55	241	06	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC193	HGL1	Perth South Jn	Change of ELR	Perth South Jn – Change of ELR	150	61	158	38	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1018	SC193	HGL2	Change of ELR	Stanley Jn	Change of ELR – Stanley Jn	7	02	7	07	Y	Y	Y	N	N	N	N	Y	N

@@ -12,7 +12,9 @@ import pdfplumber as pp
 pd.set_option('display.max_columns', None)
 
 PARSER = argparse.ArgumentParser(description='Extract data from PDFs')
-PARSER.add_argument('route', type=str, nargs='?', default='Kent-Sussex-Wessex', help='name of route')
+#PARSER.add_argument('route', type=str, nargs='?', default='Western', help='name of route')
+#PARSER.add_argument('route', type=str, nargs='?', default='Kent-Sussex-Wessex', help='name of route')
+PARSER.add_argument('route', type=str, nargs='?', default='London-North-Western-South', help='name of route')
 
 ARGS, _ = PARSER.parse_known_args()
 ROUTE = dirname(ARGS.route) or ARGS.route
@@ -41,7 +43,7 @@ def get_files(string, this_path):
             filepath = string_in_file(string, d + '/' + filename)
             if filepath:
                 files += (filepath, )
-    return files
+    return sorted(files)
 
 def get_tabledata(this_path):
     tabledata = ()
@@ -62,7 +64,10 @@ def get_filelist(route):
     files = get_files('ROUTE CLEARANCE', '{}/txt'.format(route))
     fpath = dirname(files[0])
     filelist = tuple(f for f in files if string_in_file('Table of Contents', f))
-    return filelist + tuple(s for s in get_files('LOCAL INSTRUCTIONS', fpath) if s > files[0])
+    start = filelist[0]
+    filelist = sorted([i for k in ['LIST OF MODULE PAGES AND DATES', 'LOCAL INSTRUCTIONS'] for i in get_files(k, fpath) if i > start])
+    end = filelist[0] if len(filelist) > 0 else None
+    return (start, end)
 
 RO = re.compile('( [0]+)|:$')
 RA = re.compile('[^\w ]')

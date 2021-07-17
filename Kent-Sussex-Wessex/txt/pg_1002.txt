@@ -1,28 +1,46 @@
-                                                             Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                                                                        OFFICIAL
+
+
+                                                              Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                 oooo oooo oooo oooo 166 170 171 172 180 220 221 Notes
-route           Description                             M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-SW230 HJW       Hounslow Jn – Whitton Jn                14      09    14   39    N      N         N   N     N     N      N
-SW230 HOU       Hounslow Jn – Feltham Jn                14      09    14   38    N      N         N   N     Y     N      N
-SW245 TSJ       Jn (Twickenham) – Strawberry Hill Jn    11      48    12   27    N      N         N   N     N     N      N
-SW245 SHF       Strawberry Hill Jn – Fulwell Jn         12      27    12   56    N      N         N   N     N     N      N
-SW245 TSJ       Strawberry Hill Jn – Shacklegate Jn     12      27    12   58    N      N         N   N     N     N      N
-SW250 SWE       Staines – Windsor and Eton Riverside    19      02    25   48    N      N         N   N     N     N      N
-SW255 VWW       Virginia Water Jn – Addlestone Jn       24      73    19   74    N      Y         N   N     N     N      N
-SW255 AJB       Addlestone Jn – Byfleet Jn               0      00     0   67    N      Y         N   N     N     N      N
-SW255 VWW       Addlestone Jn – Weybridge               19      74    19   12    N      N         N   N     N     N      N
-SW260 AAV       Ascot – Ash Vale Jn                     28      79    40   57    N      N         N   N     N     N      N
-SW265 GTW1      Guilford – Change of ELR                30      27    35   50    R1     N         N   N     N     Y      Y   R1   Prohibited Guildford platform 1
-SW265 GTW2      Change of ELR – Aldershot South Jn      48      34    50   01    Y      N         N   N     N     Y      Y
-SW265 NSA       Aldershot South Jn – Aldershot North    50      01    50   43    N      N         N   N     N     N      N
+Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo 121 150 153 156 158 159 165 Notes
+route           Description                              M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+SW210 RDG1      Virginia Water – Wokingham Jn            23      15    36   35    Y      N        N   N     R1     R1     Y   R1   50mph between Virgina Water and
+                                                                                                            R2     R2              Wokingham
+                                                                                                            R3     R3         R2   20mph Ascot station Down line
+                                                                                                            R4     R4         R3   Prohibited through Ascot on the Up line
+                                                                                                                              R4   20mph Bracknell station Down line
+SW210 RDG2      Wokingham Jn – Reading Spur Jn           61      72    67   76    Y      N        N   N      Y     Y     R1   R1   Wokingham permitted on the Up line
+                                                                                                                                   (towards Bracknell) clear of position light
+                                                                                                                                   signal WM15 for movements back over
+                                                                                                                                   crossover
+SW210 RNJ       Reading Spur Jn – Route Boundary         68      00    67   76    Y      N        N   N      Y     Y      Y
+                (GW190) (Reading New Jn)
+SW210 RDG2      Reading Spur Jn – Reading Southern       67      76    68   25    Y      N        N   N      Y     Y      Y
                 Jn
-SW265 GTW2      Aldershot South Jn – Wokingham Jn       50      01    61   74    Y      N         N   N     N     Y      Y
-SW300 RSJ       Route Boundary (Sussex SO560)           33      10    41   62    Y      N         N   N     N     Y      Y
-                (Redhill) – Shalford Jn
+SW210 RLL       Route Boundary Western (Reading          35      35     0   00    N      Y        N   N      Y     Y      Y
+                East Main Jn) – Reading Southern Jn
+SW210 RDG2      Reading Southern Jn – Reading            68      25    68   68    Y      N        N   N      Y     Y      Y
+                platforms 4, 5 and 6
+SW220 CKL       Latchmere Jn No.3 – Latchmere Jn          2      39     2   50    Y      Y        N   N      Y     Y      N
+                No.1 [Duplicated in SO250]
+SW220 WLL       Latchmere Jn No.1 – Latchmere Jn          0      63     0   68    Y      Y        N   N      Y     Y      N
+                No.2 [Duplicated in SO250]
+SW220 WLL       Latchmere Jn No.2 – Kensington            0      71     3   42    Y      Y        N   N      Y     Y      N
+                Olympia [Duplicated in SO250]
+SW225 PPW       Point Pleasant Jn – Network Rail          5      09     5   67    Y      N        N   N      Y     Y      N
+                Boundary (TfL – District Line)
+SW225 PPW       Network Rail Boundary (TfL – District     5      67     8   26    Y      N        N   N     R1     R1     N   R1   10mph Wimbledon Park Down platform
+                Line) – Wimbledon North Jn (TfL
+                infrastructure)
+SW230 HOU       Barnes – New Kew Jn                       7      07     9   34    Y      N        N   N      Y     Y      N
+SW230 NKE2      New Kew Jn – Route Boundary               9      34     9   64    Y      N        N   N      N     N      N
+                (EA1330) (Kew East Jn)
+SW230 HOU       New Kew Jn – Old Kew Jn                   9      34    10   01    Y      N        N   N      Y     Y      N
+SW230 BOK5      Old Kew Jn – Route Boundary               3      69     3   61    Y      N        N   N      N     N      N
+                (EA1330) (Kew East Jn)
+SW230 HOU       Old Kew Jn – Hounslow Jn                 10      01    14   09    Y      N        N   N     R1     R1     N   R1   30mph Isleworth Up platform
 
-
-
-
-December 2009                                                                               105
+December 2009                                                                                97

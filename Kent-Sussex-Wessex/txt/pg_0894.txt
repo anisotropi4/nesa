@@ -1,43 +1,49 @@
+                                                                                      OFFICIAL
+
+
                                                             Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
 Line of ELR     Line of Route / Sector                 oo     oo    oo    oo   MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
 route           Description                            oo     oo    oo    oo   0000 0000 00000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
-                                                       M      Ch    M     Ch              00 0000 0000 (MOD)
-SO540   SCU1 Hurst Green Jn – Uckfield                 21      35    46   08    Y      Y       N     N      N      N        N
-SO550   RTT  Redhill (SO500) – Tonbridge               22      40    42   16    Y      Y       R1    N      N      N        N   R1   30mph Leigh Up platform
-SO560   RSJ  Redhill – Reigate                         22      40    24   27    Y      Y       N     N      N      N        N
-SO560   RSJ  Reigate – Route Boundary (SW300)          24      27    33   10    Y      Y       N     N      N      N        N
-             (Shalford Jn)
-SO590 KJE1   Keymer Jn – Lewes                         40      69    49   74    Y      Y       N     N      N      N        N
-SO590 KJE1/2 Lewes – Southerham Jn [Duplicated         49      74    51   11    Y      Y       N     N      N      N        N
-             on SO620]
-SO590 KJE3   Southerham Jn – Willingdon Jn              9      14    21   39    Y      Y       N     N      N      N        N
-SO590 KJE3   Willingdon Jn – Eastbourne                21      39    23   75    Y      Y       N     N      N      N        N
-SO600 WJB    Willingdon Jn – Connection - St           20      36    32   21    Y      Y       N     N      N      N        N
-             Leonards LMD
-SO600 WJB    Connection - St Leonards LMD – Bo         32      21    32   76    Y      Y       N     N      N      N        N
-             Peep Jn
-SO600 TTH    Bo Peep Jn – Hastings                     60      69    62   33    Y      Y       R1    N      N      N        N   R1   30mph Leigh Up platform
-SO600 ATH    Hastings – Ore Start / End of             82      34    81   42    Y      Y       N     N      N      N        N
-             Electrification
-SO600 ATH    Ore Start / End of Electrification – Jn   81      42    56   20    Y      Y       R1    N      N      N        N   R1   Prohibited between Ore start / end of
-             with Hastings line                                                                                                      electrification and Appledore
-SO620 BTL    Montpelier Jn – Lewes                      0      14     7   77    Y      Y       N     N      N      N        N
-SO620 KJE1/2 Lewes – Southerham Jn [Duplicated         49      74    51   11    Y      Y       N     N      N      N        N
-             on SO590]
-SO620 STS    Southerham Jn – Newhaven Harbour          51      11    56   55    Y      Y       N     N      N      N        N
-             Jn
-SO620 NHB    Newhaven Harbour Jn – Wharf Road          56      55    57   78    Y      Y       N     N      N      N        N
-             (Newhaven Marine)
-SO620 STS    Newhaven Harbour Jn – Seaford             56      55    58   77    Y      Y       N     N      N      N        N
-SO630 BLI1   Brighton platforms 1 and 2 – Hove Jn       0      00     1   28    Y      Y       N     N      N      N        N
-SO630 BLI1   Hove Jn – Hove platforms 2 and 3           1      28     1   35    Y      Y       Y     N      N      N        N
-SO630 PPH    Hove Jn – Hove Up platform loop via       50      48    51   02    Y      Y       Y     N      N      N        N
-             platform 1
+                                                       M      Ch    M     Ch               00 0000 0000 (MOD)
+SO130 XTD       Metropolitan Jn – Borough Market Jn     1      31     1   50    Y      Y         Y   N      N      N        N
+SO130 CBM       Cannon Street Substation – Borough      0      20     0   38    Y      Y         N   N      N      N        N
+                Market Jn
+SO130 XTD       Borough Market Jn – London Bridge       1      50     1   69    Y      Y         Y   N      N      N        N
+                platforms 1-9
+SO130 XTD       London Bridge platforms 1-9 – North     1      69     4   25    Y      Y        R1   N      N      N        N   R1   Prohibited between Blue Anchor and
+                Kent East Jn                                                                    R2                                   North Kent East Jn
+                                                                                                                                R2   No.5 Down line, clear to crossovers to
+                                                                                                                                     and from Sussex side lines and Up
+                                                                                                                                     Passenger Loop between London
+                                                                                                                                     Bridge and Spa Road Jn
+SO130   XTD     North Kent East Jn – Tanners Hill Jn    4      25     5   29    Y      Y         N   N      N      N        N
+SO130   XTD     Tanners Hill Jn – Parks Bridge Jn       5      29     6   14    Y      Y         N   N      N      N        N
+SO130   LLL     Parks Bridge Jn – Ladywell Jn           6      14     6   29    Y      Y         N   N      N      N        N
+SO130   XTD     Parks Bridge Jn – Courthill Loop        6      14     6   21    Y      Y         N   N      N      N        N
+                South Jn
+SO130 XTD       Courthill Loop South Jn – Hither        6      21     7   04    Y      Y         N   N      N      N        N
+                Green Jn
+SO130 XTD       Hither Green Jn – Lee Spur Jn           7      04     7   44    Y      Y         N   N      N      N        N
+SO130 XTD       Lee Spur Jn – Chislehurst Jn            7      44    11   33    Y      Y         N   N      N      N        N
+SO130 CSM1      Chislehurst Jn – St Mary Cray Down     11      33    11   71    Y      Y         N   N      N      N        N
+                Jn via Reversible Chatham Loop
+SO130 CSM3      Chislehurst Jn – Hawkwood Jn (Up       11      33    11   66    Y      Y         N   N      N      N        N
+                Chatham Loop)
+SO130 XTD       Chislehurst Jn – Petts Wood Jns        11      33    12   27    Y      Y         N   N      N      N        N
+SO130 XTD       Petts Wood Jns – Sevenoaks             12      27    21   74    Y      Y         Y   N      N      N        N
+                Substation
+SO130 XTD       Sevenoaks Substation – Tonbridge       21      74    29   35    Y      Y         Y   N      N      N        N
+                West Jn
+SO130 XTD       Tonbridge West Jn – Tonbridge East     29      35    29   55    Y      Y         Y   N      N      N        N
+                Jn
+SO130 XTD       Tonbridge East Jn – Paddock Wood       29      55    34   67    Y      Y         Y   N      N      N        N
+SO130 XTD       Paddock Wood – Ashford (Jn with        34      67    55   54    Y      Y         Y   N      N      N        N
+                Maidstone line)
 
 
 
 
-December 2009                                                                            44C
+December 2009                                                                              39

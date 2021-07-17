@@ -1,45 +1,44 @@
-                                                                                         OFFICIAL
+                                                                                          OFFICIAL
 
 
 
 
-                                                                 Scotland Route Sectional Appendix Module SCRC
+                                                                  Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
-route            Description                              M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
-                                                                                                                            ooo
-SC109     PMT    Grangemouth Jn – Carmuirs East Jn         23   75    25   79        N          N   N        N   N   H
-SC109     CMS    Carmuirs East Jn – Carmuirs West Jn        0   40    -0    2        N          N   N        N   N   H
-SC109     SCM3   Carmuirs West Jn – Greenhill Lower Jn    108   74   106   62        N          N   N        N   N   H
-SC109     GHL    Greenhill Lower Jn – Greenhill Upper       0   52    0    00        N          N   N        N   N   H
-                 Jn
-SC110     PMT    Carmuirs East Jn – Larbert Jn             25   79    26   35        N          N   N        N   N   H
-SC111     NBE    Newbridge Jn – Bathgate                   35   21    25   18        Y          Y   Y        Y   Y   H
-SC113     DMY    Winchburgh Jn – Dalmeny Jn                34   54    39   03        N          N   N        N   N   H
-SC115     MRL1   Cowlairs West Jn – Maryhill Park Jn        8   26    5    51        N          N   N        N   N   H
-SC115     MRL2   Maryhill Park Jn – Knightswood North       4   40    5    67        N          N   N        N   N   H
-                 Jn
-SC1150    MLA    Maryhill Park Jn – Anniesland              0   00    0    70        N          N   N        N   N   H
-SC116     CSN    Cowlairs East Jn – Cowlairs North Jn       0   00    0    21        N          N   N        N   N   H
-SC117     GMH    Grangemouth Jn – Grangemouth               0   00    3    67        N          N   N        N   N   N
-SC119     GHL    Greenhill Upper Jn – Greenhill Lower       0   00    0    52        N          N   N        N   N   H
-                 Jn
-SC119     SCM3   Greenhill Lower Jn – Carmuirs West Jn    106   62   108   74        N          N   N        N   N   H
+Line of   ELR     Line of Route / Sector                  oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
+route             Description                              M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
+                                                                                                                             ooo
+SC031     GBK     Change of ELR – Muirhouse South Jn        23   44    1    18        N          N   N        N   N   H    R1   Prohibited Barrhead platform
+                                                                                                                      R1        3 (Bay platform)
+SC031     MEN2    Muirhouse South Jn – Muirhouse             0   00    0    15        N          N   N        N   N   H
+                  Central Jn
+SC031     MEN1    Muirhouse Central Jn – Eglinton St Jn      0   19    0    70        Y          Y   Y        Y   Y   Y
+SC031     WCM2 Eglinton St Jn – Bridge St Jn               101   39   101   53        Y          Y   Y        Y   Y   Y
+SC031     WCM2 Bridge St Jn – Glasgow Central              101   53   102   27        Y          Y   Y        Y   Y   Y
+SC035     KSH     Bank Jn – Network Rail Boundary           54   05    55   28        N          N   N        N   N   N
+                  (Connel Park LC) / Knockshinnoch
+SC036     GNN     Greenburn Jn – Greenburn Open Cast         0   00    0    55        N          N   N        N   N   N
+                  (Goods Line)
+SC037     RIC1    Kay Park Jn – Bellfield                    0   00    1    06        N          N   N        N   N   N
+SC037     RIC2    Bellfield – Riccarton (Goods Line)         2   20    1    75        N          N   N        N   N   N
+SC039     BAK     Kilmarnock – Barassie                      0   05    7    56        N          N   N        N   N   H
+SC045     EKE     East Kilbride – Busby Jn                   7   60    0    40        N          N   N        N   N   N
+SC047     LFS2    Muirhouse South Jn – Change of ELR         1   19    0    61        N          N   N        N   N   H
+SC047     LFS1    Change of ELR – Larkfield Jn             101   17   101   01        N          N   N        N   N   H
+SC049     TSS     Muirhouse Central Jn – Terminus Jn         0   04    0    40        Y          Y   Y        Y   Y   H
+SC051     CTC     Muirhouse Central Jn – Cathcart North      5   19    1    63        Y          Y   Y        Y   Y   H
+                  Jn (via Cathcart)
+SC051     CTC     Cathcart North Jn – Muirhouse North        1   63    0    00        Y          Y   Y        Y   Y   H
+                  Jn (via Crosshill)
+SC053     NNH     Neilston – Cathcart West Jn              108   45   100   77        Y          Y   Y        Y   Y   H
+SC055     WCM2 Newton, Hamilton Jn – Newton Kirkhill        95   53    95   77        Y          Y   Y        Y   Y   H
+               Jn
+SC055     KHL     Newton Kirkhill Jn – Cathcart West Jn     95   77   100   77        Y          Y   Y        Y   Y   H
+SC057     CNC     Cathcart East Jn – Cathcart North Jn       0   45    0    00        Y          Y   Y        Y   Y   H
+SC059     WCM2 Glasgow Central – Bridge St Jn              102   27   101   53        Y          Y   Y        Y   Y   Y
+SC059     AYR1    Bridge St Jn – Cook St                     0   00    0    19        Y          Y   Y        Y   Y   Y
+SC059     LYE     Cook St – High St Line (Smithy Lye         0   00    0    44        N          N   N        N   N   N
+                  through line)
+SC059     AYR1    Cook St – Shields Jn                       0   19    1    00        Y          Y   Y        Y   Y   Y
 
-
-SC119     SCM3   Carmuirs West Jn – Stirling Middle Jn    108   76   118   08        N          N   N        N   N   H
-SC119     SCM3   Stirling Middle Jn – Change of ELR       118   08   123   40        N          N   N        N   N   H
-                 (Dunblane)
-SC119     SCM4   Change of ELR (Dunblane) – Perth         123   40   150   61        N          N   N        N   N   H
-                 South Jn
-SC119     SCM5   Perth South Jn – Change of Mileage       150   61   151   03        N          N   N        N   N   H    R1   5mph Perth platform 2
-                                                                                                                     R1
-SC119     SCM5   Change of Mileage – Dundee Central        21   01    0    36        N          N   N        N   N   H    R1   5mph Perth platform 2
-                 Jn                                                                                                  R1
-SC119     ECN2   Dundee Central Jn – Dundee                58   69    59   14        N          N   N        N   N   H
-SC123     NBE    Bathgate – Change of ELR                  25   18    25   00        Y          Y   Y        N   Y   H
-SC123     NEM1   Change of ELR – Drumgelloch               25   00    11   70        Y          Y   Y       R1   Y   H    R1   Prohibited between Change
-                                                                                                                               of ELR to Bathgate
-
-
-October 2009                                                                    41
+October 2009                                                                     37

@@ -1,28 +1,15 @@
-Anglia	0473	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Anglia	0473	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	8	Y	
-Anglia	0473	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	8	R1	R1 Prohibited Harold Wood platform 3 (Up Electric line)
-Anglia	0473	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	8	Y	
-Anglia	0473	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	8	Y	
-Anglia	0473	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	8	R1 R2	R1 Prohibited Colchester platform 3 (Up Main line) R2 Prohibited Colchester platform 6 (Up Bay line)
-Anglia	0473	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	8	R1	R1 Prohibited Manningtree Down Refuge Siding (former platform 4)
-Anglia	0473	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	8	Y	
-Anglia	0473	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	8	R1	R1 Prohibited through Ipswich Tunnel (Up line)
-Anglia	0473	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	8	Y	
-Anglia	0473	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	8	Y	
-Anglia	0473	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	8	Y	
-Anglia	0473	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470/ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470/ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	8	Y	
-Anglia	0473	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	8	R1	R1 Prohibited Norwich Royal Dock No 1
-Anglia	0473	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	8	Y	
-Anglia	0473	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	8	Y	
-Anglia	0473	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	8	Y	
-Anglia	0473	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	7	Y	
-Anglia	0473	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	7	Y	
-Anglia	0473	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	6	Y	
-Anglia	0473	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	6	Y	
-Anglia	0473	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	7	Y	
-Anglia	0473	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	7	Y	
-Anglia	0473	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	7	Y	
-Anglia	0473	EA1100	STB	Colne Jn	Colchester town	Colne Jn – Colchester town	53	30	53	76	7	Y	
-Anglia	0473	EA1110	TWN	Thorpe-le-Soken Jn	Walton-On- Naze	Thorpe-le-Soken Jn – Walton-On- Naze	65	19	70	15	7	Y	
-Anglia	0473	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	8	Y	
-Anglia	0473	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	8	Y	
+Anglia	0473	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge									Notes
+Anglia	0473					GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12
+Anglia	0473	EA1380	Barking Tilbury Jn West – Upminster	Barking Tilbury Jn West	Upminster	N	Y *	Y	Y	R1 R2	N	Y	N	N	R1 W9 Prohibited on up line through Upminster station (Platform 1). Platform 2 is Bi-directional R2 15mph at Bridge 30 at 14m 20ch London side of Upminster on Up and Down lines.
+Anglia	0473	EA1380	Upminster – Shoeburyness	Upminster	Shoeburyness	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0473	EA1390	Barking Tilbury Line Jn East – Former Tilbury West Jn	Barking Tilbury Line Jn East	Former Tilbury West Jn	R1	Y	Y	Y	Y	N	Y	N	N	R1 GB1/2 between the following locations and via the following lines only: • Exchange Sidings Nos 1, 2 & 3 and Hanson Sidings/Ford Motor Company Sidings (via Ford Motor Company Connecting line) • Exchange Sidings Nos 1, 2 & 3 and the CTRL lines (via the Ripple Lane Chords) • Ripple Lane West Yard Siding No 1 and Exchange Sidings Nos 1, 2 & 3 (via Renwick Road Jn) • Ripple Lane West Yard Siding No 1 and western entrance to Barking Freightliner Depot (via the Goods lines) Ripple Lane West Yard Siding No 1 and Stora Sidings.
+Anglia	0473	EA1390	Former Tilbury West Jn – Pitsea via Tilbury	Former Tilbury West Jn	Pitsea via Tilbury	N	Y	Y	Y	R1	N	R1	N	N	R1 W9 and W10 between former Tilbury West Jn and Thames Haven Jn only.
+Anglia	0473	EA1400	Gas Factory Jn – Bow Jn	Gas Factory Jn	Bow Jn	N	Y *	N	N	N	N	N	N	N
+Anglia	0473	EA1410	Upminster – West Thurrock Jn	Upminster	West Thurrock Jn	N	Y *	Y	Y	Y	N	Y	N	N
+Anglia	0473	EA1420	Thames Haven Jn – Thames Haven	Thames Haven Jn	Thames Haven	N	Y *	Y	Y	Y	N	Y	N	N
+Anglia	0473	EA1430	East Suffolk Jn – Westerfield Jn	East Suffolk Jn	Westerfield Jn	N	Y	Y	Y	N	N	Y	N	N
+Anglia	0473	EA1430	Westerfield Jn – Oulton Broad North Jn	Westerfield Jn	Oulton Broad North Jn	N	Y	N	N	N	N	N	N	N
+Anglia	0473	EA1440	Westerfield Jn – Felixstowe Beach Jn	Westerfield Jn	Felixstowe Beach Jn	N	Y*	Y	Y	N	N	Y	N	N
+Anglia	0473	EA1440	Felixstowe Beach Jn– Felixstowe Town	Felixstowe Beach Jn– Felixstowe Town		N	Y *	Y	Y	N	N	N	N	N
+Anglia	0473	EA1450	Trimley – Port of Felixstowe North Quay Terminal	Trimley	Port of Felixstowe North Quay Terminal	N	Y *	Y	Y	N	N	Y	N	N
+Anglia	0473	EA1460	Felixstowe Beach Jn – Felixstowe Beach	Felixstowe Beach Jn	Felixstowe Beach	N	Y	Y	Y	N	N	Y	N	N

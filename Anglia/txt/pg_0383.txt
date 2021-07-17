@@ -1,42 +1,47 @@
-                                                                Anglia Route Sectional Appendix Module AR2
-
-EA1370 TAH2   South Tottenham East Jn –                5   73    11   79    Y     N     N     N     N        N   N
-              Woodgrange Park Jn
-EA1370 TAH3   Woodgrange Park Jn – Barking            11   79    13   12    Y     N     N     N     N        N   N
-              Station Jn
-EA1370 TAH3   Barking Station Jn – Barking Tilbury    13   12    13   42    Y     N     N     N     N        N   N
-              Jn West
-EA1370 TAH4   Barking Station Jn – Barking Platform   13   12    13   62    Y     N     N     N     N        N   N
-              1
-EA1380 FSS1   Fenchurch Street – Gas Factory Jn        0   00     2   57    N     N     N     N     N        N   N
-EA1380 FSS1   Gas Factory Jn – East Ham Depot          2   57     6   18    N     N     N     N     N        N   N
-EA1380 FSS1   East Ham Depot – Barking Tilbury Jn      6   18     7   33    E     N     N     N     N        N   N
-              West
-EA1380 FSS2   Barking Tilbury Jn West – Barking        7   33     7   60    N     N     N     N     N        N   N
-              Tilbury Jn East
-EA1380 FSS2   Barking Tilbury Jn East – Upminster      7   60    15   20    N     N     N     N     N        N   N
-EA1380 FSS2   Upminster – Southend Central            15   20    35   55    N     N     N     N     N        N   N
-EA1380 FSS3   Southend Central – Shoeburyness         35   55    39   40    N     N     N     N     N        N   N
-EA1390 TLL    Barking Tilbury Line Jn East – Former    7   60    22   06    N     N     N     N     N        N   N
-              Tilbury West Jn
-EA1390 TLL    Former Tilbury West Jn – Pitsea Jn      22   06    32   43    N     N     N     N     N        N   N
-EA1400 GFB    Gas Factory Jn – Bow Jn                  2   57     3   47    N     N     N     N     N        N   N
-EA1410 FSS2   Upminster – Upminster East Jn           15   20    15   39    N     N     N     N     N        N   N
-EA1410 UPG    Upminster East Jn – West Thurrock Jn     0   00     6   56    N     N     N     N     N        N   N
-EA1420 THN    Thames Haven Jn – Thames Haven          26   41    30   18    N     N     N     N     N        N   N
-EA1430 ESK    East Suffolk Jn – Westerfield Jn        69   41    73   23    Y     Y     Y     N     N        N   Y
-EA1430 ESK    Westerfield Jn – Oulton Broad North     73   23   116   27   R1    R1     R1    N     N        N   R1   R1 Prohibited unless TCA fitted
-              Jn
-EA1440 FEL    Westerfield Jn – Felixstowe Beach Jn    73   23    83   57    Y     Y     Y     N     N        N   Y
-EA1440 FEL    Felixstowe Beach Jn – Felixstowe        83   57    84   30    Y     Y     Y     N     N        N   Y
-              town
-EA1450 TFN    Trimley – Port of Felixstowe North       0   00     0   18    N     N     N     N     N        N   N
-              Quay Terminal
-EA1460 FED    Felixstowe Beach Jn – Felixstowe        83   57    86   34    N     N     N     N     N        N   N
-              Beach
-EA1470 NOL    Thorpe Jn – Limit of Electrification     0   09     0   79    Y     Y     Y     Y     N        N   Y
-EA1470 NOL    Limit of Electrification – Reedham Jn    0   79    12   34    Y    R1     Y     Y     N        N   Y    R1 Prohibited Cantley Down platform with
-                                                                                                                         deflated suspension
+                                                                                  OFFICIAL
 
 
-August 2006                                                                      284B
+                                                                 Anglia Route Sectional Appendix Module AR2
+
+Line of ELR   Line of Route / Sector                 oooo oooo oooo oooo 150 153 156 158 165 168 170   Notes
+route         Description                             M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+EA1310 KGW    Kensal Green Jn – Route Boundary          5   10     5   25    Y     N     N     N     E        E    N   R1   Route prohibited to Class 165/1
+              (MD150) (Willesden Suburban Jn)                                                        R1
+
+EA1310 BOK3   Kensal Green Jn – Willesden High          5   10     5   48    Y     N     N     N     E        E    Y   R1 Route prohibited to Class 165/1
+              Level Jn                                                                               R1       R2       R2 Prohibited with deflated suspension
+
+EA1310 WMB    Willesden High Level Jn – Route           0   43     0   09    Y     N     N     N     N        N    N
+              Boundary (MD160) (Mitre Bridge Jn)
+EA1310 BOK4   Willesden High Level Jn – Former Old     0    00     0   34    Y     N     N     N     E        E    Y   R1   Route Prohibited to Class 165/1
+              Oak Jn (change of mileage)                                                             R1       R2       R2   Prohibited with deflated suspension
+EA1310 BOK4   Former Old Oak Jn (change of             0    34     0   66    Y     N     N     N     E        E    Y   R1   Route Prohibited to Class 165/1
+              mileage) – Acton Wells Jn                                                              R1       R2       R2   Prohibited with deflated suspension
+              (Connection EA1360)
+EA1310 BOK5   Acton Wells Jn (Connection to            0    66     0   72    Y     N     N     N     E        E    Y   R1   Route Prohibited to Class 165/1
+              EA1360) – Acton Wells Jn                                                               R1       R2       R2   Prohibited with deflated suspension
+              (Connection to GW130)
+EA1310 AWL    Acton Wells Jn – Route Boundary           0   49     0   39    Y     N     N     Y     E        E    N   R1 Route prohibited to Class 165/1
+              (GW130) (Acton East Jn)                                                                R1
+
+EA1310 BOK5   Acton Wells Jn (Connection to            0    72     1   73    Y     N     N     N     N        N    Y
+              GW130) – Acton Central (Limit of AC)
+EA1310 BOK5   Acton Central (Limit of AC) – South       1   73     2   52    Y     N     N     N     N        N    Y
+              Acton Jn
+EA1310 SAR1   South Acton Jn – Gunnersbury Jn           2   52     3   12    Y     N     N     N     N        N    Y
+EA1310 SAR2   Gunnersbury Jn – Richmond                 9   72    12   39    Y     N     N     N     N        N    Y
+EA1320 CRC1/2 Route Boundary (MD145) (Camden            5   42     5   10    Y     N     N     N     N        N    Y
+              Jn) – Camden Road West Jn
+EA1320 BOK1   Camden Road West Jn – Camden              5   10     4   64    Y     N     N     N     E        E    Y   R1 Prohibited with deflated suspension
+              Road Central Jn                                                                                 R1
+EA1320 CRF1   Camden Road Central Jn – Route            0   51     0   20    Y     N     N     N     N        N    E
+              Boundary (LN115) (North London
+              Incline)
+EA1320 BOK1   Camden Road Central Jn –                  4   64     3   12    Y     N     E     N     E        E    Y   R1 Prohibited with deflated suspension
+              Canonbury West Jn                                                                               R1
+EA1320 CFP    Canonbury West Jn – Route Boundary        3   12     3   20    Y     N     E     N     N        N    E
+              (LN110) (Finsbury Park)
+
+
+
+August 2006                                                                        283

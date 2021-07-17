@@ -1,45 +1,64 @@
-                                                           OFFICIAL
+                                                          OFFICIAL
 LNW South Route Sectional Appendix Module LNW(S)1
 
 
 
 
-Working of ground frames
-Unlocked from Signal Box. The ground frame operator must telephone the Signaller and come to a clear understanding
-regarding the movements to be made and request him to unlock the frame. The Signaller must inform the ground frame
-operator when the frame has been unlocked. Where a plunger working in connection with a release lever at the ground
-frame is provided, it must be pressed and held in until the lever is out of the catch. When the movements have been
-completed, and the train is clear of the points ready to depart or has been shunted into the siding(s) clear of the running
-line(s), and the ground frame levers placed in the normal position, the ground frame operator must inform the Signaller
-accordingly and request him to lock the ground frame. The Signaller must inform the ground frame operator when this has
-been done. Until this advice is received, the ground frame operator must not rejoin the train or allow it to proceed.
-At Ground Frames where separate telephone ringing facilities are not provided, the “Attend Telephone” bell code 3-3-3-3
-must be used by the person requiring to speak to the Signaller, or vice versa.
-If the ground frame operator observes any irregularity on the running lines or should a running line be fouled, he must
-immediately advise the Signaller and where bell communication is provided, in order to obtain the Signaller's attention
-without delay he must give six or more beats on the bell in rapid succession. The ground frame operator must also take
-whatever protective action is required.
-At ground frames, where bell communication is also provided with the signal box, the following code must be used if there
-is a failure of the telephone:-
-To Signal Box
+Lines equipped with automatic train protection (ATP)
+1.       Scope
+The following routes are equipped with the SEL ATP system:
+         Marylebone to Aynho Junction (inclusive) (to signals NA4763 and NA9769 in the Down direction and from signals
+         OL3094 and OL9090 in the Up direction).
+         Neasden South Junction to Harrow-on-the-Hill
+         Amersham to Aylesbury Vale Parkway (including siding and depot exit signals).
+         Princes Risborough to Aylesbury.
+         Bicester South West Chord lines (signals ME210 and ME212 only).
+ATP trainborne equipment is fitted to Class 165 / 168 / 172 trains operated by Chiltern Railways Ltd.
 
-Unlock ground frame                                                           2
-Train shunted clear of running line(s)-lock ground frame                      3
-Train on running line ready to depart-lock ground frame                       5
-These codes will be acknowledged by repetition when the ground frame          6
-has been unlocked/locked Running line(s) fouled
-From Signal Box
+2.       General
+ATP is a supplementary safety feature which, providing it is available, must be used by Drivers trained in its use.
+ATP-fitted trains must not enter service (loaded or empty) with ATP inoperative. Should ATP become inoperative on an
+ATP-fitted train while conveying passengers, the train must be taken out of service in accordance with Chiltern Railways
+Ltd procedure for withdrawing trains from service in compliance with Rail Industry Standard RIS-3447-TOM Defective On-
+Train Equipment.
+All Rules, Regulations and other Instructions continue to apply in the same way as for lines not fitted with ATP equipment
+but additional Instructions (as shown herein) apply in respect of Temporary and Emergency Speed Restrictions.
+Note : Partial ATP supervision is provided for any train on which the ATP equipment has been set up irrespective of
+whether the line is ATP fitted.
 
-Clear running line(s) for train to pass                                       7
-To be acknowledged by repetition and code 3 sent when the line(s) have
-been cleared
-The call attention signal, 1 beat, must be sent and acknowledged before the required code is sent. Should the Signaller be
-unable to re-lock the ground frame and special emergency instructions are not in force, he must not allow a following train
-to proceed until an assurance has been received that the points have been firmly secured in the normal position or the
-failure has been rectified.
-                                                                             LNW South Route GI - Dated: 07/10/06
+3.     Description of the System
+ATP consists of two elements:-
+Track equipment - fitted to the lines described above - which updates the trainborne equipment with information
+regarding the line conditions ahead. It consists of beacons and loops of varying lengths, positioned in the four-foot of the
+line to which they apply, on the approach to fixed signals, permissible speed changes and (in some cases) buffer stops.
+and
+Trainborne equipment - fitted to the trains described above - through which the Driver, providing the train’s
+characteristics have been correctly input, receives information relating to the maximum permitted speed of the train.
+
+4.       Principles of Operation
+ATP has the following modes of operation which have the following meaning:
+. Full Supervision by ATP is obtained on ATP fitted lines where the on-train equipment measures the actual speed of the
+train and compares this to a target speed. A target speed is calculated by the on-train computer based on maximum
+permitted line speed, the condition of the line ahead as indicated by fixed signals, buffer stops, any Temporary Speed
+Restriction imposed, together with the maximum permitted speed of the train.
+Where necessary, ATP will provide a warning to Drivers of the need to reduce their speed. If the train speed is not
+reduced sufficiently, ATP will intervene and brake the train to match the target speed.
+Where track equipment is not available, or unable to update the target information, the trainborne ATP will operate in
+Partial Supervision Mode, supervising to the maximum train speed only.
+If it is necessary for a train to pass a signal at Danger or to undertake shunting movements or make an unsignalled wrong
+direction movement, the Driver must select either ‘PSS’ (Pass Stop Signal) or ‘Shunting’ mode as appropriate.
+Where it is necessary to pass two or more consecutive signals at danger, the Driver must carry out a Temporary Isolation
+of the equipment. The equipment must be switched on again whilst the train is stationary at the last signal affected.
+
+Where an Emergency Speed Restriction (ESR) is imposed, full supervision will not be immediately available until the track
+equipment has been re-programmed to accommodate the Speed Restriction. During this period the ATP will not supervise
+or impose for the lower line-speed of the restriction.
+ATP acts on the information received at the previous beacon or loop. Should the signal aspect change after the train has
+passed over the last loop or beacon, the display in the main window will not be updated.
+ATP acts as an additional safety aid to Drivers and does NOT relieve them of their general responsibility laid
+down in the Rule Book to observe fixed and hand signals, and regulate their speed accordingly.
 
 
 
 
-December 2009                                                 42
+December 2009                                                 28

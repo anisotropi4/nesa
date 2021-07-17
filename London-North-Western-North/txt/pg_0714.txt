@@ -5,60 +5,62 @@ LNW North Route Sectional Appendix Module NWF
 
 
 
-7. Manchester ROC – Manchester North Workstation area
-Miles Platting Jn. and Vitriol Works
-Thorpes Bridge JN and GMC Siding (incl.)
-Philips Park West Jn. and Brewery Jn.
-Philips Park West Jn. and Ashburys West Jn.
-Baguley Fold Jn. and Philips Park South Jn.
-8. Ditton signal box area
-Carterhouse Jn. and Ditton East Jn.
-Runcorn Station and Ditton East Jn.
-Ditton East Jn. to Speke Jn.
-9. Rugby ROC – Stafford Workstation area
-Down and Up Norton Bridge lines between Yarnfield Jn and Little Bridgeford Jn / Searchlight Lane Jn
-Norton Bridge East Chord throughout.
-All lines between Doxey Junction (exclusive) and Basford Hall (limits of Rugby ROC, Stafford Workstation signalling at
-154m 40ch)
+Rule Book Module G1 – General safety responsibilities and
+personal track safety for non track workers
+Section 5 – Communications procedure
+Using GSM-R berth triggered messages and non-verbal acknowledgements to caution drivers.
+
+Signallers can set up automated messages to caution train drivers for:
+•   Poor railhead conditions.
+•   Animals on the line (but not inside tunnels).
+•   Wheel Impact Load Detector Activations.
+•   Defective Emergency indicators.
+•     Unusual events (Not Track or Signalling).
+All trains fitted with GSM-R will receive the broadcast message. Drivers of services not fitted with version 3.5 software do not
+have an ST button so must disregard the GSM-R berth triggered safety broadcast and bring their train to a stand at the
+protecting signal.
+The berth triggered broadcast will be in the LNW North area.
+Methodology
+1. Signaller records the berth triggered safety broadcast to a set script and stores it on the system. The message must be
+      reviewed and checked before transmission, whenever possible.
+2. Signaller sets up the berth triggered safety broadcast at the appropriate signal berth(s).
+3. Signaller will maintain the protecting signal at danger with a reminder. This is the signal where the train would be stopped
+      and cautioned if the Signaller does not receive the acknowledgement.
+4. The safety broadcast will be made automatically to each train occupying the designated berth(s).
+5. The Driver acknowledges that the safety broadcast has been received and that it has been understood by pressing the
+      GSM-R ST Button.
+6. The protecting signal is maintained at danger until the signaller has received an acknowledgement’ (ACK) message from the
+      Driver.
+7. When the acknowledgement is received, the signaller may remove the signal reminder and clear the protecting signal for the
+      train that sent the acknowledgement
+8. If the acknowledgement message is not received (or the signaller gets a “message failed” or “not sent” alert) the protecting
+      signal remains at danger and the train will be stopped and the message passed verbally.
+9. The signaller must replace the reminder on the signalling controls to maintain the protecting signal at danger until the next
+      driver has been cautioned.
+10. Train drivers must obey the instructions given by the GSM-R message over the affected section of line.
+Broadcast Message Content
+Poor Railhead
+‘This is a safety broadcast from the signaller at ___________. There are low/exceptionally poor* railhead conditions at/on* the
+approach to ______________. Only acknowledge if you have fully understood this message. To acknowledge, press the ST
+Button. End of safety broadcast
+*Delete as appropriate
+Animals on or near the line
+‘This is a safety broadcast from the signaller at ___________. There are animals on or near the line at/between*
+______________ and* ______________*. Only acknowledge if you have fully understood this message. To acknowledge, press
+the ST Button. End of safety broadcast.
+*Delete as appropriate
+Defective Emergency Indicators
+‘This is a safety broadcast from the signaller at ___________. There is a defective emergency indicator for a __mph emergency
+speed restriction at ______________. Only acknowledge if you have fully understood this message. To acknowledge, press the
+ST Button. End of safety broadcast
+*Delete as appropriate
+Wheel Impact Load Detection
+‘This is a safety broadcast from the signaller at ___________. There has been a wheel impact load detection alert for your train,
+continue at __mph and obey all signals. Only acknowledge if you have fully understood this message. To acknowledge, press
+the ST Button. End of safety broadcast
+*Delete as appropriate
 
 
-                                                                                LNW North Route GI - Dated: 31/05/16
 
 
-Rule Book Module DC – Electrified lines
-Section 3.1 – Treating the CRE as being live
-Additional instructions concerning personal safety on lines electrified by the DC conductor rail system within Network Rail
-London North Western Route (North) will be found as follows:
-•   the Work Instruction titled ‘Work Instructions for DC Electrified Lines in the Liverpool Area’, or,
-•   the General Instruction shown in this publication titled ‘Instructions to traincrews working other than DC electric trains
-    and other staff who are required to work over, or in the vicinity of, DC electrified lines in the Liverpool area’.
-Staff working on the DC electrified lines in the Liverpool area should refer to the ‘Work Instructions for DC Electrified Lines
-in the Liverpool Area.’ The general instruction contained in this sectional appendix is intended primarily as a ‘working
-over’ document for traincrew and others who come into contact with the DC network at boundary locations such as Hunts
-Cross, Chester and Bidston and who do not work primarily on DC electrified lines.
-                                                                                LNW North Route GI - Dated: 24/12/11
-
-
-Rule Book Module AC - Electrified lines
-Section 14 - Instructions for examining the OLE
-On receiving a report from a Driver of an ADD activation the requirements of this instruction should be complied with
-provided all the following conditions apply:
-    •   The train involved is a Virgin class 390 (Pendolino).
-    •   No loss of OHL supply has occurred (no tripping).
-    •   The pantograph in use at the time of the ADD activation has been lowered and the second pantograph has been
-        raised, no loss of OHL supply occurred (no tripping).
-The next train through the section on the affected line must be cautioned to examine the line at a speed not exceeding
-20mph from point of ADD to the location where the previous train came to a stand. In this circumstance there is no
-requirement to examine from an adjacent line.
-Where primary means of supporting the OLE is by a headspan wire then the 20mph speed restriction must be applied on
-all lines until the above examination procedure is carried out successfully on each line or is proved clear by alternative
-means.
-Provided the examination(s) report no issues and there is no further ADD activation or tripping occurrences, normal
-working may resume.
-The infrastructure maintenance OHL teams must be called to inspect/patrol as normal by the ECO.
-                                                                                LNW North Route GI - Dated: 24/12/11
-
-
-
-
-October 2009                                                  10
+October 2009                                                8

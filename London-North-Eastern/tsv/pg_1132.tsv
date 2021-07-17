@@ -1,20 +1,23 @@
-London-North-Eastern	1132	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	25	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-London-North-Eastern	1132	LN859	GRD	Greetland Jn	Dryclough Jn	Greetland Jn – Dryclough Jn	1	11	0	00	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn)	Springwood Jn	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	9	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MVL3	Springwood Jn	Change of ELR (Heaton Lodge Jn)	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	9	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MVL3	Change of ELR (Heaton Lodge Jn)	Heaton Lodge Jn (Up line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	9	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MVL4	Change of ELR (Heaton Lodge Jn)	Heaton Lodge East Jn (Down Line)	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down Line)	29	00	29	74	9	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MVN2	Heaton Lodge Jn	Heaton Lodge East Jn	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	9	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MVN2	Heaton Lodge East Jn	Thornhill LNW Jn	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN860	MDL1	Thornhill LNW Jn	Copley Hill East Jn	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN861	BBW	Bradley Jn	Bradley Wood Jn	Bradley Jn – Bradley Wood Jn	0	00	1	17	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN862	PED2	Barnsley Station Jn	Site of Former Barnsley Jn	Barnsley Station Jn – Site of Former Barnsley Jn	6	43	0	00	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN862	PED1	Site of Former Barnsley Jn	Site of Former Huddersfield Jn	Site of Former Barnsley Jn – Site of Former Huddersfield Jn	29	13	28	37	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN862	PEH	Site of Former Huddersfield Jn	Lockwood	Site of Former Huddersfield Jn – Lockwood	13	42	1	18	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN862	PEH	Lockwood	Springwood Jn	Lockwood – Springwood Jn	1	18	0	40	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN862	MVL3	Springwood Jn	Huddersfield	Springwood Jn – Huddersfield	0	40	0	00	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN864	DRS1	Dewsbury Railway Street	Change of Mileage	Dewsbury Railway Street – Change of Mileage	0	10	0	00	6	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN864	DRS1	Change of Mileage	Dewsbury East Jn	Change of Mileage – Dewsbury East Jn	0	27	0	00	6	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN868	SHB	Wincobank Jn	Site of Former Quarry Jn	Wincobank Jn – Site of Former Quarry Jn	161	52	173	48	8	Y	Y	Y	N	Y	Y	Y	R1	R1 Prohibited in both directions between Elsecar and Wombwell stations.
-London-North-Eastern	1132	LN868	PED2	Site of Former Quarry Jn	Barnsley Station Jn	Site of Former Quarry Jn – Barnsley Station Jn	7	50	6	43	8	Y	Y	Y	N	Y	Y	Y	Y	
-London-North-Eastern	1132	LN868	BAH2	Barnsley Station Jn	Site of Former Crigglestone Jn	Barnsley Station Jn – Site of Former Crigglestone Jn	52	58	45	56	7	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1132	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1132	LN3228	TES	Trent East ELR Change	Sheet Stores Jn.	Trent East ELR Change – Sheet Stores Jn.	0	00	0	30	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1132	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3237	RUD	Loughborough South Jn	Network Rail / GCR (N) Boundary	Loughborough South Jn – Network Rail / GCR (N) Boundary	92	45	92	49	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1132	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	Y	Y	N	N	N	N	N
+London-North-Eastern	1132	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	Y	Y	Y	EH	N	Y	N
+London-North-Eastern	1132	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	Y	Y	Y	N	N	N	N
+London-North-Eastern	1132	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	Y	Y	Y	N	N	N	N

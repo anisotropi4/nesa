@@ -1,16 +1,22 @@
-London-North-Eastern	1046	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
-London-North-Eastern	1046	LN101	ECM1	Kings Cross	Copenhagen Jn	Kings Cross – Copenhagen Jn	0	00	0	64	Y	Y	Y	Y	Y	N	Y	Y	H	N	N	
-London-North-Eastern	1046	LN101	ECM1	Copenhagen Jn	Holloway South / North Jns	Copenhagen Jn – Holloway South / North Jns	0	64	1	44	Y	Y	Y	Y	Y	E	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Holloway South / North Jns	Wood Green North Jn	Holloway South / North Jns – Wood Green North Jn	1	44	5	07	Y	Y	Y	Y	Y	E R1	Y	Y	Y	N	E R2 R3	R1 Prohibited between Hornsey and Wood Green North Jn R2 Prohibited between Hornsey and Wood Green South Jn Down Slow Line with footsteps fitted R3 Prohibited Holloway South / North Jns to Finsbury Park South Jn.
-London-North-Eastern	1046	LN101	ECM1	Wood Green North Jn	Langley Jn	Wood Green North Jn – Langley Jn	5	07	25	73	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Langley Jn	St Neots	Langley Jn – St Neots	25	73	51	58	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	St Neots	Fletton Jn	St Neots – Fletton Jn	51	58	75	02	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Fletton Jn	Peterborough	Fletton Jn – Peterborough	75	02	76	29	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Peterborough	Newark North Gate	Peterborough – Newark North Gate	76	29	120	08	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	PMJ	Peterborough	Helpston Jn via Stamford lines	Peterborough – Helpston Jn via Stamford lines	22	19	16	71	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Newark North Gate	Retford	Newark North Gate – Retford	120	08	138	49	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Retford	Loversall Carr Jn	Retford – Loversall Carr Jn	138	49	150	00	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	Y	Y	Y	Y	Y	N	Y	Y	Y	R1	N	R1 Between Doncaster platforms 1, 3, 4, 6, 7 and 8 and Marshgate Jn only
-London-North-Eastern	1046	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N	
-London-North-Eastern	1046	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	Y	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1046	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	Y	N	N	Y	N	N	N	N	H	N	N	
+London-North-Eastern	1046	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1046	LN778	BOC1	Seymour Jn	Bolsover	Seymour Jn – Bolsover	7	51	5	21	N	N	N	N	N	N	N	N	Line out of use between Site of former Markham Colliery Jn and Bolsover NC/G1/2010/LNE/020V
+London-North-Eastern	1046	LN782	SHW	Woodend Jn	Shireoaks West Jn	Woodend Jn – Shireoaks West Jn	153	71	154	36	Y	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN784	HIM	High Marnham	Thoresby Colliery Jn	High Marnham – Thoresby Colliery Jn	27	48	17	16	N	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN784	HIM	Thoresby Colliery Jn	Warsop Jn	Thoresby Colliery Jn – Warsop Jn	17	16	10	59	N	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN784	HIM	Warsop Jn	Shirebrook South Jn	Warsop Jn – Shirebrook South Jn	10	59	10	19	N	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN784	HIM	Shirebrook South Jn	Shirebrook East Jn	Shirebrook South Jn – Shirebrook East Jn	10	19	9	72	N	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN786	BEC	Boughton Jn	Network Rail Boundary (Bevercotes Colliery)	Boughton Jn – Network Rail Boundary (Bevercotes Colliery)	0	00	4	22	N	N	N	N	N	N	N	N	Line out of use from 01m 0ch to Network Rail Boundary (Bevercotes Colliery) LN213/PJ1037
+London-North-Eastern	1046	LN788	TYC	Thoresby Colliery Jn	Thoresby Colliery	Thoresby Colliery Jn – Thoresby Colliery	0	00	0	42	N	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN802	WKC	Welbeck Colliery Jn	Network Rail Boundary (RJB)	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	N	N	N	N	N	N	N	N
+London-North-Eastern	1046	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn)	Dore South Jn	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	Y	N	E	N	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	TJC1	Dore South Jn	Sheffield Station	Dore South Jn – Sheffield Station	153	71	158	40	Y	N	E	R1	Y	Y	Y	Y	R1 Prohibited between Dore South Jn and Dore Station Jn
+London-North-Eastern	1046	LN804	TJC1	Sheffield Station	Nunnery Main Line Jn	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	TJC1	Nunnery Main Line Jn	Site of former Grimesthorpe Jn	Nunnery Main Line Jn – Site of former Grimesthorpe Jn	158	77	160	47	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	TJC2	Site of former Grimesthorpe Jn	Site of Masborough South Jn	Site of former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	TJC3	Site of former Masborough South Jn	Swinton Jn South	Site of former Masborough South Jn – Swinton Jn South	161	77	166	56	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	SMJ1	Swinton Jn North	Site of former Wath Curve Jn	Swinton Jn North – Site of former Wath Curve Jn	167	03	168	64	Y	N	N	Y	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	SMJ2	Site of former Wath Curve Jn	Ferrybridge South Jn	Site of former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	R1	N	N	R1	Y	Y	Y	Y	R1 Prohibited between Moorthorpe Jn and Ferrybridge South Jn
+London-North-Eastern	1046	LN804	SMJ2	Ferrybridge South Jn	Site of former Burton Salmon Jn	Ferrybridge South Jn – Site of former Burton Salmon Jn	2	38	0	00	N	N	Y	N	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	SMJ3	Site of former Burton Salmon Jn	Milford Jn	Site of former Burton Salmon Jn – Milford Jn	16	69	15	07	N	N	Y	N	Y	Y	Y	Y
+London-North-Eastern	1046	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	N	Y	Y	Y	Y	Y	Y

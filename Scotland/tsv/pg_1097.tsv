@@ -1,7 +1,18 @@
 Scotland	1097	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1097					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-Scotland	1097	SC189	Westfield – Redford Jn (Goods Line)	Westfield	Redford Jn (Goods Line)	Y	N	N	N	N	N	N	N	
-Scotland	1097	SC191	Dundee to Aberdeen	Dundee	Aberdeen	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: 2590 high x 2500 wide box, on KFA wagon 2770 high x 2500 wide box, on IKA wagon 2896 wide x 2500 wide box, on FLA wagon 2590 wide x 2600 wide box, on IFA wagon Safeway refrigerated box on IKA wagon All Lines
-Scotland	1097	SC193	Perth South Jn – Stanley Jn	Perth South Jn	Stanley Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2550 wide box on FKA IKA wagons Safeway refrigerated box on IKA FKA IFA FIA wagon All Lines
-Scotland	1097	SC193	Stanley Jn – Pitlochry	Stanley Jn	Pitlochry	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2550 wide box on FKA IKA wagons Safeway refrigerated box on IKA FKA IFA FIA wagon All Lines
-Scotland	1097	SC193	Pitlochry – Inverness	Pitlochry	Inverness	Y *	Y	Y	N	N	N	N	N	
+Scotland	1097					W6	W7	W8	W9	W9Plus	W10	W10A	W12
+Scotland	1097	SC017	Mossend East Jn – Mossend South Jn (East Curve)	Mossend East Jn	Mossend South Jn (East Curve)	Y	Y	Y	Y	N	Y	N	N
+Scotland	1097	SC019	Mossend South Jn – Mossend West Jn (West Curve)	Mossend South Jn	Mossend West Jn (West Curve)	Y	Y	Y	Y	N	Y	N	N
+Scotland	1097	SC021	Coltness – Garriongill Jn	Coltness	Garriongill Jn	Y	N	N	N	N	N	N	N
+Scotland	1097	SC023	Motherwell – Newton, Hamilton Jn (via Hamilton)	Motherwell	Newton, Hamilton Jn (via Hamilton)	Y *	Y	Y	N	N	N	N	N
+Scotland	1097	SC024	Larkhall – Haughhead Jn	Larkhall	Haughhead Jn	Y	N	N	N	N	N	N	N
+Scotland	1097	SC025	Rutherglen Central Jn – Finnieston incl. Bridgeton Yard (via Arrival Line) (Goods Line)	Rutherglen Central Jn	Finnieston incl. Bridgeton Yard (via Arrival Line) (Goods Line)	Y *	R1	N	N	N	N	N	N	R1 W7 traffic prohibited from using Bridgeton Yard Arrival Line
+Scotland	1097	SC027	Rutherglen West Jn – Rutherglen North Jn (West Curve)	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Y	N	N	N	N	N	N	N
+Scotland	1097	SC029	Larkfield Jn – Shields Jn Incl. Shields Jn – Terminus Jn (Up Through Terminus)	Larkfield Jn – Shields Jn Incl. Shields Jn	Terminus Jn (Up Through Terminus)	Y	Y	Y	Y	N	N	N	N
+Scotland	1097	SC031	Gretna Jn – Dumfries	Gretna Jn	Dumfries	Y *	Y	Y	N	N	N	N	N
+Scotland	1097	SC031	Dumfries to Kilmarnock GB&K Jn	Dumfries	Kilmarnock GB&K Jn	Y *	Y	Y	R1	N	N	N	N	R1 W9 prohibited EXCEPT to traffic working from / to SC039 Kilmarnock to Barrasie Line using Kilmarnock Platform 3 Line between 33m 47ch and 33m 78ch ONLY.
+Scotland	1097	SC031	Kilmarnock GB&K Jn to Eglinton Street Jn	Kilmarnock GB&K Jn	Eglinton Street Jn	Y *	Y	N	N	N	N	N	N
+Scotland	1097	SC033	Dumfries to Maxwelltown (Goods Line) (OOU)	Dumfries	Maxwelltown (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1097	SC035	Bank Jn – Greenburn Jn (Goods Line)	Bank Jn	Greenburn Jn (Goods Line)	Y	N	N	N	N	N	N	N
+Scotland	1097	SC035	Greenburn Jn – Knockshinnoch (Goods Line) (OOU)	Greenburn Jn	Knockshinnoch (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1097	SC036	Greenburn Jn – Greenburn Open Cast (Goods Line)	Greenburn Jn	Greenburn Open Cast (Goods Line)	Y	N	N	N	N	N	N	N
+Scotland	1097	SC037	Kay Park Jn – Riccarton (Goods Line)	Kay Park Jn	Riccarton (Goods Line)	Y	N	N	N	N	N	N	N

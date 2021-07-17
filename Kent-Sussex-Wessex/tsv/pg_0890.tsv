@@ -1,22 +1,23 @@
-Kent-Sussex-Wessex	0890	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0890	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO300	BEX	Lewisham Jn	Blackheath Jn	Lewisham Jn – Blackheath Jn	5	74	7	14	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO300	BTC	Blackheath Jn	Charlton Jn	Blackheath Jn – Charlton Jn	7	14	8	67	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO300	BEX	Blackheath Jn	Perry Street Fork Jn	Blackheath Jn –Perry Street Fork Jn	7	14	15	07	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO300	PSF	Perry Street Fork Jn	Slade Green Jn	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO300	BEX	Perry Street Fork Jn	Crayford Creek Jn	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	Hither Green Jn (SO290)	Lee Loop Jn	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	LEE	Lee Loop Jn	Lee Spur Jn	Lee Loop Jn – Lee Spur Jn	0	00	0	29	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	Lee Loop Jn	Lee	Lee Loop Jn –Lee	7	29	7	66	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	Lee	Crayford Spur ‘B’ Jcn	Lee –Crayford Spur ‘B’ Jcn	7	66	16	11	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	CRA	Crayford Spur ‘B’ Jn	Crayford Spur ‘A’ Jn	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	Crayford Spur ‘B’ Jcn	Dartford Jn	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	Dartford Jn	Hoo Jn	Dartford Jn –Hoo Jn	16	75	27	19	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	HooJn–Strood Jn		HooJn–Strood Jn	27	19	31	16	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	HDR	Strood Jn	Rochester Bridge Jn	Strood Jn – Rochester Bridge Jn	31	16	31	34	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO310	PWS2	Strood Jn	Maidstone West Change of Mileage	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO320	HTG	Hoo Jn	Grain LC and Sidings beyond	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0890	SO330	NTL	Nunhead Jn (SO260)	Lewisham Jn	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0890	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	CH	M	Ch	395	442	444	450	455	456	458	465	466	508	700	Notes
+Kent-Sussex-Wessex	0890	SO650	BBJ	Balham Jn (SO500)	Leigham Jn	Balham Jn (SO500) – Leigham Jn	4	69	6	31	N	R1	N	N	Y	Y	N	N	N	Y	Y	R1 Prohibited Streatham Hill Depot Down Sidings No. 1, 2, 3
+Kent-Sussex-Wessex	0890	SO650	BBJ	Leigham Jn	West Norwood Jn	Leigham Jn – West Norwood Jn	6	31	6	58	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO650	BBJ	West Norwood Jn	Crystal Palace platforms 1 and 2	West Norwood Jn – Crystal Palace platforms 1 and 2	6	58	8	56	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO650	SCP	Crystal Palace platforms 3 - 6	Sydenham Up Jn	Crystal Palace platforms 3 - 6 – Sydenham Up Jn	7	52	6	49	N	E	N	N	Y	Y	N	N	N	Y	R1	R1 Prohibited Crystal Palace platforms 3-6 - Crystal Palace Tunnel Jn
+Kent-Sussex-Wessex	0890	SO650	BBJ	Crystal Palace platforms 1 and 2	Bromley Up Jn	Crystal Palace platforms 1 and 2 – Bromley Up Jn	8	56	9	36	N	R1	N	N	Y	Y	N	N	N	Y	Y	R1 5mph Crystal Palace Down platform
+Kent-Sussex-Wessex	0890	SO650	BJN1	Bromley Up Jn	Norwood North Jn	Bromley Up Jn – Norwood North Jn	9	36	9	75	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO650	BBJ	Bromley Up Jn	Bromley Down Jn	Bromley Up Jn – Bromley Down Jn	9	36	9	48	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO650	BJN2	Bromley Down Jn	Norwood North Jn	Bromley Down Jn – Norwood North Jn	9	48	9	75	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO650	BBJ	Bromley Down Jn	Beckenham Jn	Bromley Down Jn – Beckenham Jn	9	48	11	62	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO660	PAT	Purley (S0500)	Caterham	Purley (S0500) – Caterham	15	13	19	70	N	N	N	N	Y	Y	N	N	N	Y	R1	R1 Prohibited Purley - Purley (Chipsread line) Jn (Up)
+Kent-Sussex-Wessex	0890	SO660	TAT	Purley (S0500)	Tattenham Corner	Purley (S0500) – Tattenham Corner	15	13	23	37	N	N	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	South Bermondsey Jn (SO510)	Old Kent Road Jn	South Bermondsey Jn (SO510) – Old Kent Road Jn	1	49	2	32	N	E	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Old Kent Road Jn	Peckham Rye Jn	Old Kent Road Jn – Peckham Rye Jn	2	32	3	47	N	E	N	N	N	N	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Peckham Rye Jn	Tulse Hill North Jn	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	N	E	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	WTH	Tulse Hill	West Norwood Jn	Tulse Hill – West Norwood Jn	6	14	6	41	N	R1	N	N	Y	Y	N	N	N	Y	Y	R1 OPPOS applies in both directions
+Kent-Sussex-Wessex	0890	SO680	LTH	Tulse Hill	Leigham Jn	Tulse Hill – Leigham Jn	6	20	6	40	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Tulse Hill North Jn	Streatham Jn	Tulse Hill North Jn – Streatham Jn	6	07	7	57	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	SSC	Streatham Jn	Streatham Common Jn	Streatham Jn – Streatham Common Jn	7	57	8	10	N	Y	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Streatham Jn	Streatham South Jn (a)	Streatham Jn – Streatham South Jn (a)	7	57	8	09	N	N	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Streatham South Jn (a)	Streatham South Jn (b)	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	N	N	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Streatham South Jn (b)	Streatham South Jn (c)	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	N	N	N	N	Y	Y	N	N	N	Y	Y
+Kent-Sussex-Wessex	0890	SO680	BTH1	Streatham South Jn (c)	Change of Mileage	Streatham South Jn (c) – Change of Mileage	8	15	13	45	N	N	N	N	Y	Y	N	N	N	Y	Y

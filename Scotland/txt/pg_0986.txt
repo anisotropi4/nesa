@@ -5,40 +5,41 @@
 
                                                                  Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170                 180    185     220    221 Notes
+Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170                  180    185    220    221 Notes
 route                                                M    Ch   M    Ch 0000                 0000   0000   0000   0000 ooooooooooooooooooooooooooo
-SC183     KNE2   Change of ELR – Charlestown Jn             14   14    15   39        N      N      N      N      N
-SC189     CRE    Westfield – Change of Mileage              28   77    33   04        N      N      N      N      N
-SC189     CRE    Change of Mileage – Redford Jn (Goods      33   28    33   45        N      N      N      N      N
-                 Line)
-SC191     ECN2   Dundee Central Jn – Dundee                 58   69    59   14        Y      N      N      Y      Y
-SC191     ECN2   Dundee – Camperdown Jn                     59   14    59   77        Y      N      N      Y      Y
-SC191     ECN3   Camperdown Jn – Change of ELR              0    21    17   17        Y      N      N      Y      Y
-                 (Arbroath SB)
-SC191     ECN4   Change of ELR (Arbroath SB) – Change       17   55    33   28        Y      N      N      Y      Y
-                 of ELR (Montrose)
-SC191     ECN5   Change of ELR (Montrose) –                203   11   239   55        Y      N      N      Y      Y
-                 Craiginches
-SC191     ECN5   Craiginches – Aberdeen                    239   55   241   06        Y      N      N      Y      Y
-SC193     HGL1   Perth South Jn – Change of ELR            150   61   158   38        Y      N      N      N      N
-SC193     HGL2   Change of ELR – Stanley Jn                 7    02    7    07        Y      N      N      N      N
-SC193     HGL2   Stanley Jn – Milburn Jn                    7    07   143   39        Y      N      N      N      N
-SC193     HGL2   Milburn Jn – Welsh's Bridge Jn            117   37   117   56        Y      N      N      N      N
-SC193     RSW    Welsh's Bridge Jn – Rose Street Jn        117   56   118   03        E      N      N      N      N
-SC193     HGL2   Welsh's Bridge Jn – Inverness platforms   117   56   118   03        Y      N      N      N      N
-                 1-4
-SC195     ECN5   Aberdeen – Change of ELR                  241   06   241   08        Y      N      N      N      N
-SC195     ANI1   Change of ELR – Keith Jn SB                0    00    53   05        Y      N      N      N      N
-SC195     ANI2   Keith Jn SB – Forres                       30   40    0    00        Y      N      N      N      N
-SC195     ANI3   Forres – Milburn Jn                       119   26   143   39        Y      N      N      N      N
-SC195     HGL2   Milburn Jn – Welsh's Bridge Jn            117   37   117   56        Y      N      N      N      N
-SC195     RSW    Welsh's Bridge Jn – Rose Street Jn        117   56   118   03        E      N      N      N      N
-SC195     HGL2   Welsh's Bridge Jn – Inverness platforms   117   56   118   03        Y      N      N      N      N
-                 1-4
-SC197     WRO    Kittybrewster – Waterloo Goods (Goods      1    62    0    03        N      N      N      N      N
-                 Line)
-SC199     DFN    Keith Jn – End of Line                     53   06    53   36        Y      N      N      N      N
+SC123     NEM3   Finnieston East Jn – Finnieston West Jn    2    19     2   53        N      N      N      N      N
+                 (Up Line)
+SC123     NEM3   Finnieston West Jn – Hyndland North Jn     2    53     4   28        N      N      N      N      N
+SC123     NEM3   Hyndland North Jn – Change of ELR          4    28     4   63        N      N      N      N      N
+SC123     NEM4   Change of ELR – Knightswood North Jn       0    00     0   74        N      N      N      N      N
+SC123     NEM5   Knightswood North Jn – Change of ELR       5    67    13   40        N      N      N      N      N
+                 (Between Bowling and Dumbarton East)
+SC123     NEM6   Change of ELR (Between Bowling and        113   46   116   00        N      N      N      N      N
+                 Dumbarton East) – Change of ELR
+                 (Dumbarton East)
+SC123     NEM7   Change of ELR (Dumbarton East) –           15   51    22   76        N      N      N      N      N
+                 Craigendoran Jn
+SC123     NEM7   Craigendoran Jn – Helensburgh Central      22   76    24   31        N      N      N      N      N
+SC125     YKR    Hyndland East Jn – Hyndland West Jn        0    00     0   22        N      N      N      N      N
+SC125     YKR    Hyndland West Jn – Dalmuir Park Jn         0    22     4   73        N      N      N      N      N
+SC129     SGN    Springburn – Bellgrove Jn                  0    42     2   58        N      N      N      R1    R1   R1   Prohibited between Sighthill East Jn and
+                                                                                                                           Bellgrove Jn
+SC131     HST    High Street Jn – Connection to Smithy      0    04     2   00        Y      N      N      N      N
+                 Lye Through Line
+SC131     HST    Connection to Smithy Lye Through Line      2    00     2   35        Y      N      E      N      N
+                 – Shields Jn
+SC133     MGE    Westerton Jn – Milngavie                   6    19     9   35        E      N      N      N      N   R1   Prohibited between Bearsden and
+                                                                                      R1                                   Milngavie
+SC135     BCH    Dalreoch Jn – Balloch                      16   39    20   38        N      N      N      N      N
+SC136     HYD    Hyndland North Jn – Hyndland West Jn       0    00     0   16        N      N      N      N      N
+SC141     WHL    Craigendoran Jn – Crianlarich Jn           0    01    36   30        N      N      N      N      N
+SC141     WHL    Crianlarich Jn – Fort William              36   30    99   37        N      N      N      N      N
+SC143     OBN1   Crianlarich Jn – Lower Crianlarich GF      0    00     0   44        N      N      N      N      N
+SC143     OBN2   Lower Crianlarich GF – Inverhaggernie      30   23    31   00        N      N      N      N      N
+                 No.1 LC
+SC143     OBN2   Inverhaggernie No.1 LC – Oban              31   00    71   44        N      N      N      N      N
+SC145     MLG1   Fort William – Change of ELR               0    05     1   27        N      N      N      N      N
 
 
 
-October 2009                                                                     32
+October 2009                                                                     28

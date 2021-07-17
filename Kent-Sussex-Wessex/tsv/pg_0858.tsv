@@ -1,12 +1,24 @@
-Kent-Sussex-Wessex	0858	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0858	SO130	XTD	Borough Market Jn	London Bridge platforms 1-9	Borough Market Jn – London Bridge platforms 1-9	1	50	1	69	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0858	SO130	XTD	London Bridge platforms 1-9	North Kent East Jn	London Bridge platforms 1-9 – North Kent East Jn	1	69	4	25	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0858	SO130	XTD	North Kent East Jn	Tanners Hill Jn	North Kent East Jn – Tanners Hill Jn	4	25	5	29	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0858	SO130	XTD	Tanners Hill Jn	Parks Bridge Jn	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0858	SO130	LLL	Parks Bridge Jn	Ladywell Jn	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	Y	Y	R1	N	N	Y	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0858	SO130	XTD	Parks Bridge Jn	Courthill Loop South Jn	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	Y	H R1	N	Y	Y	Y	N	N	Y	R1 60mph maximum speed
-Kent-Sussex-Wessex	0858	SO130	XTD	Courthill Loop South Jn	Hither Green Jn	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	N	Y	H R1	N	Y	Y	Y	N	N	Y	R1 60mph maximum speed
-Kent-Sussex-Wessex	0858	SO130	XTD	Hither Green Jn	Lee Spur Jn	Hither Green Jn – Lee Spur Jn	7	04	7	44	N	R1	H R2	N	Y	Y	Y	N	N	Y	R1 Slow lines only R2 60mph maximum speed
-Kent-Sussex-Wessex	0858	SO130	XTD	Lee Spur Jn	Chislehurst Jn	Lee Spur Jn – Chislehurst Jn	7	44	11	33	N	R1 R2	H R3 R4 R5 R6	N	Y	Y	R7	N	N	Y	R1 Between London end of Grove Park Station (08m 55ch (Slows to Fasts Double Jn)) and Chislehurst Jn use fast lines and Grove Park bay platform 1 (reversible) only R2 Prohibited Grove Park Down Washer line and Up sidings R3 60mph maximum speed R4 Between London end of Grove Park Station (08m 55ch (Slows to Fasts Double Jn)) and Chislehurst Jn use fast lines R5 25mph through Grove Park (fast lines). R6 Access to Grove Park Up Sidings via 924/925 points R7 Prohibited Grove Park Up and Down Washer line and Up sidings
-Kent-Sussex-Wessex	0858	SO130	CSM1	Chislehurst Jn	St Mary Cray Down Jn via Reversible Chatham Loop	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	N	Y	N	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0858	SO130	CSM3	Chislehurst Jn	Hawkwood Jn (Up Chatham Loop)	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	N	Y	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0858	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
+Kent-Sussex-Wessex	0858	SO500	VTB1	Pouparts Jn	Falcon Jn	Pouparts Jn – Falcon Jn	2	03	2	66	N	Y	N	N	N
+Kent-Sussex-Wessex	0858	SO500	WLL	Falcon Jn	Latchmere No1 Jn via Clapham Jn platforms 16 and 17	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	N	R1	N	R1	R1	R1 OPPOS applies between crossover VC289 points and Falcon Jn VC290/292 points
+Kent-Sussex-Wessex	0858	SO500	VTB1	Falcon Jn	Balham Jn	Falcon Jn – Balham Jn	2	66	4	69	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	VTB1	Balham Jn	Streatham North Jn	Balham Jn – Streatham North Jn	4	69	6	14	N	Y	N	Y	N
+Kent-Sussex-Wessex	0858	SO500	SNS	Streatham North Jn	Streatham South Jn via Reversible Fast Spur	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	N	N	N	N
+Kent-Sussex-Wessex	0858	SO500	SLJ	Streatham North Jn	Streatham South Jn via Slow Spurs	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	N	N	N	N	N
+Kent-Sussex-Wessex	0858	SO500	VTB1	Streatham North Jn	Selhurst Jn	Streatham North Jn – Selhurst Jn	6	14	9	43	N	Y	N	Y	N
+Kent-Sussex-Wessex	0858	SO500	WCS	Selhurst Jn	Gloucester Road Jn	Selhurst Jn – Gloucester Road Jn	9	44	9	62	N	N	N	N	N
+Kent-Sussex-Wessex	0858	SO500	VTB1	Selhurst Jn	Windmill Bridge Jn	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	N	Y	N	Y	N
+Kent-Sussex-Wessex	0858	SO500	VTB2	Windmill Bridge Jn	South Croydon Jn	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	VTB2	South Croydon Jn	Stoats Nest Jn	South Croydon Jn – Stoats Nest Jn	11	29	14	20	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	RED1/2	Stoats Nest Jn	Redhill	Stoats Nest Jn – Redhill	14	20	22	40	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	RED1/2	Redhill	Change of Mileage (Redhill / Slow lines) Via Redhill	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	VTB2	Stoats Nest Jn	Change of Mileage (Quarry / Fast lines)	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	VTB3	Change of Mileage (Quarry / Fast lines)	Three Bridges	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	VTB3	Three Bridges	Copyhold Jn	Three Bridges – Copyhold Jn	29	21	36	73	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	CJA1	Copyhold Jn	Change of Mileage	Copyhold Jn – Change of Mileage	36	73	36	33	N	N	N	N	N
+Kent-Sussex-Wessex	0858	SO500	CJA2	Change of Mileage	Ardingly Sidings	Change of Mileage – Ardingly Sidings	0	00	0	70	N	N	N	N	N
+Kent-Sussex-Wessex	0858	SO500	VTB3	Copyhold Jn	Keymer Jn	Copyhold Jn – Keymer Jn	36	73	40	69	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	VTB3	Keymer Jn	Preston Park Jn	Keymer Jn – Preston Park Jn	40	69	49	43	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO500	PPH	Preston Park Jn	Hove Jn	Preston Park Jn – Hove Jn	49	21	50	44	N	Y	N	N	N
+Kent-Sussex-Wessex	0858	SO500	VTB3	Preston Park Jn	Brighton	Preston Park Jn – Brighton	49	43	50	49	N	Y	N	Y	Y
+Kent-Sussex-Wessex	0858	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	N	Y	N	N	N

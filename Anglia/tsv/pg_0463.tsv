@@ -1,21 +1,19 @@
 Anglia	0463	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Anglia	0463	EA1380	FSS3	Southend Central	Shoeburyness	Southend Central – Shoeburyness	35	55	39	40	8	Y	Y	Y	Y	N	N	
-Anglia	0463	EA1390	TLL	Barking Tilbury Line Jn East	Former Tilbury West Jn	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	8	Y	Y	Y	Y	N	Y	
-Anglia	0463	EA1390	TLL	Former Tilbury West Jn	Pitsea Jn	Former Tilbury West Jn – Pitsea Jn	22	06	32	43	8	Y	Y	Y	Y	N	N	
-Anglia	0463	EA1400	GFB	Gas Factory Jn	Bow Jn	Gas Factory Jn – Bow Jn	2	57	3	47	3	N	N	N	N	N	N	
-Anglia	0463	EA1410	FSS2	Upminster	Upminster East Jn	Upminster – Upminster East Jn	15	20	15	39	8	Y	Y	Y	Y	N	N	
-Anglia	0463	EA1410	UPG	Upminster East Jn	West Thurrock Jn	Upminster East Jn – West Thurrock Jn	0	00	6	56	8	Y	Y	Y	Y	N	N	
-Anglia	0463	EA1420	THN	Thames Haven Jn	Thames Haven	Thames Haven Jn – Thames Haven	26	41	30	18	8	N	N	Y	N	N	N	
-Anglia	0463	EA1430	ESK	East Suffolk Jn	Westerfield Jn	East Suffolk Jn – Westerfield Jn	69	41	73	23	8	R1	N	Y	N	R1	R1	R1 Prohibited between Signal CO401 on the Down line and Westerfield Jn
-Anglia	0463	EA1430	ESK	Westerfield Jn	Oulton Broad North Jn	Westerfield Jn – Oulton Broad North Jn	73	23	116	27	7	N	N	Y	N	N	N	
-Anglia	0463	EA1440	FEL	Westerfield Jn	Felixstowe Beach Jn	Westerfield Jn – Felixstowe Beach Jn	73	23	83	57	7	N	N	Y	N	N	N	
-Anglia	0463	EA1440	FEL	Felixstowe Beach Jn	Felixstowe town	Felixstowe Beach Jn – Felixstowe town	83	57	84	30	7	N	N	Y	N	N	N	
-Anglia	0463	EA1450	TFN	Trimley	Port of Felixstowe North Quay Terminal	Trimley – Port of Felixstowe North Quay Terminal	0	00	0	18	7	N	N	Y	N	N	N	
-Anglia	0463	EA1460	FED	Felixstowe Beach Jn	Felixstowe Beach	Felixstowe Beach Jn – Felixstowe Beach	83	57	86	34	7	N	N	Y	N	N	N	
-Anglia	0463	EA1470	NOL	Thorpe Jn	Limit of Electrification	Thorpe Jn – Limit of Electrification	0	09	0	79	7	H R1	N	Y	H	N	N	R1 The Battery Isolating Switch must be left in the open position
-Anglia	0463	EA1470	NOL	Limit of Electrification	Reedham Jn	Limit of Electrification – Reedham Jn	0	79	12	34	7	H R1	N	Y	H	N	N	R1 The Battery Isolating Switch must be left in the open position
-Anglia	0463	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	7	N	N	Y	H	N	N	
-Anglia	0463	EA1480	WHC 1	Whitlingham Jn	North Walsham (End of Station Loop)	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	6	N	N	N	N	N	N	
-Anglia	0463	EA1480	WHC 1	North Walsham (End of Station Loop)	Change of Mileage (Site of Former Roughton Road Jn)	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	6	N	N	N	N	N	N	
-Anglia	0463	EA1480	WHC 2	Change of Mileage (Site of Former Roughton Road Jn)	Change of Mileage (Site of Former Runton East Jn)	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	6	N	N	N	N	N	N	
-Anglia	0463	EA1480	WHC 3	Change of Mileage (Site of Former Runton East Jn)	Cromer	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	6	N	N	N	N	N	N	
+Anglia	0463	EA1310	BOK5	Acton Wells Jn (Connection to EA1360)	Acton Wells Jn (Connecton to GW130)	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connecton to GW130)	0	66	0	72	8	Y	Y	Y	Y	N	N
+Anglia	0463	EA1310	AWL	Acton Wells Jn	Route Boundary (GW130) (Acton East Jn)	Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	8	N	N	Y	N	N	N
+Anglia	0463	EA1310	BOK5	Acton Wells Jn (Connecton to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connecton to GW130) – Acton Central (Limit of AC)	0	72	1	73	8	Y	Y	Y	Y	N	N
+Anglia	0463	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	8	N	N	Y	N	N	N
+Anglia	0463	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	8	N	N	Y	N	N	N
+Anglia	0463	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	4	N	N	N	N	N	N
+Anglia	0463	EA1320	CRC1 /2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	8	Y	Y	Y	Y	H	Y
+Anglia	0463	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	8	Y	Y	Y	Y	H	Y
+Anglia	0463	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	8	N	N	Y	N	H	Y
+Anglia	0463	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	8	Y	Y	Y	Y	H	Y
+Anglia	0463	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	8	Y	Y	Y	Y	H	Y
+Anglia	0463	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	8	Y	Y	Y	Y	N	Y
+Anglia	0463	EA1320	DWW 1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	8	Y	Y	Y	Y	N	R1	R1 5mph through Dalston Kingsland down platform
+Anglia	0463	EA1320	DWW 2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	8	Y	Y	Y	Y	N	Y
+Anglia	0463	EA1320	DWW 2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	8	Y	Y	Y	Y	N	Y
+Anglia	0463	EA1320	DWW 2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	8	Y	Y	Y	Y	N	Y
+Anglia	0463	EA1320	DWW 2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	8	N	N	Y	N	N	N
+Anglia	0463	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	8	N	N	Y	N	N	N

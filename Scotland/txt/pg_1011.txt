@@ -1,4 +1,4 @@
-                                                                                    OFFICIAL
+                                                                                     OFFICIAL
 
 
 
@@ -8,39 +8,37 @@
 Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
 route            Description                              M Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 oooooooooooooooooooooooooo
                                                                                                  (MOD)            o
-SC141     WHL    Craigendoran Jn – Crianlarich Jn          0    01   36   30   Y      Y        Y   N   N    N   N   Y   N
-SC141     WHL    Crianlarich Jn – Fort William             36   30   99   37   Y      Y        Y   N   N    N   N   Y   N
-SC143     OBN1   Crianlarich Jn – Lower Crianlarich GF     0    00   0    44   Y      Y        Y   N   N    N   N   Y   N
-SC143     OBN2   Lower Crianlarich GF – Inverhaggernie     30   23   31   00   Y      Y        Y   N   N    N   N   Y   N
-                 No.1 LC
-SC143     OBN2   Inverhaggernie No.1 LC – Oban             31   00   71   44   Y      Y        Y   N   N    N   N   Y   N
-SC145     MLG1   Fort William – Change of ELR              0    05   1    27   Y      Y        Y   N   N    N   N   N   N
-SC145     MLG2   Change of ELR – Mallaig                   0    00   39   39   Y      Y        Y   N   N    N   N   N   N
-SC147     ECM8   Route Boundary (LN600) (Heaton            54   50   9    67   Y      Y        Y   N   N    N   Y   Y   Y
-                 South Jn) – Prestonpans Jn
-SC147     ECM8   Prestonpans Jn – Calton South Tunnel      9    67   0    29   Y      Y        Y   N   N    N   Y   Y   Y
-SC147     ECM9   Calton South Tunnel – Waverley East       0    29   0    21   Y      Y        Y   N   N    N   Y   Y   N
-                 End
-SC147     ECM9   Waverley East End – Edinburgh             0    21   0    00   Y      Y        Y   N   N    N   Y   Y   Y
-                 Waverley
-SC147     EGM4   Edinburgh Waverley – Waverley West        0    00   0    15   Y      Y        Y   N   N    N   Y   Y   Y
-                 End (South Lines)
-SC147     ECN1   Edinburgh Waverley – Waverley West        0    00   0    15   Y      Y        Y   N   N    N   Y   Y   Y
-                 End (North Lines)
-SC147     EGM3   Waverley West End – Haymarket             0    15   1    19   Y      Y        Y   N   N    N   Y   Y   Y
-                 (South Lines)
-SC147     ECN2   Waverley West End – Haymarket             0    15   1    19   Y      Y        Y   N   N    N   Y   Y   R1 R1   Prohibited between 00m 32 ch to
-                 (North Lines)                                                                                                  Haymarket (North lines)
-SC147     EGM2   Haymarket – Haymarket East Jn (South      46   02   45   72   Y      Y        Y   N   N    N   Y   Y   Y
-                 Lines)
-SC147     ECN2   Haymarket – Haymarket East Jn (North      1    19   1    29   Y      Y        Y   N   N    N   Y   Y   N
-                 Lines)
-SC147     EGM2   Haymarket East Jn – Haymarket             45   72   45   35   Y      Y        Y   N   N    N   Y   Y   N
-                 Central Jn (South Lines)
-SC147     ECN2   Haymarket East Jn – Haymarket             1    29   1    66   Y      Y        Y   N   N    N   Y   Y   N
-                 Central Jn (North Lines)
-SC147     EGM2   Haymarket Central Jn – Haymarket          45   35   44   73   Y      Y        Y   N   N    N   Y   Y   N
-                 West Jn (South Lines)
-
-
-October 2009                                                                   57
+SC059     STR4   Change of ELR (Stranraer Yard GF) –       53   05    54   05   Y      Y        Y   N   N   N   N   N   N
+                 End of Line
+SC061     CNL    Shields Jn – Corkerhill                   1    05    3    11   Y      Y        Y   N   N   N   N   Y   E
+SC061     CNL    Corkerhill – Paisley Canal                3    11    7    00   R1     R1   R1      N   N   N   N   N   N   R1   Prohibited when overhead line
+                                                                                                                                 equipment is energised
+SC063     CND1   Cardonald Jn – Cardonald North Jn         0    00    0    36   N      N        N   N   N   N   N   N   N
+SC063     CND2   Cardonald North Jn – Deanside (Goods      0    36    1    54   N      N        N   N   N   N   N   N   N
+                 Line)
+SC065     GOU1   Paisley (Wallneuk Jn) – Change of ELR     6    34    6    53   Y      Y        Y   N   N   N   N   N   N
+SC065     GOU2   Change of ELR – Bishopton                107   70   112   60   Y      Y        Y   N   N   N   N   N   N
+SC065     GOU2   Bishopton – Gourock                      112   60   126   58   Y      Y        Y   N   N   N   N   N   N
+SC067     WYS    Wemyss Bay Jn – Wemyss Bay                0    00    10   03   Y      Y        Y   N   N   N   N   N   N
+SC073     LGS1   Kilwinning Jn – Change of ELR             25   65    30   44   Y      Y        Y   N   N   N   N   N   N
+SC073     LGS2   Change of ELR – Fairlie High Siding       30   44    38   69   Y      Y        Y   N   N   N   N   N   N
+SC073     LGS2   Fairlie High Siding – Largs               38   69    42   07   Y      Y        Y   N   N   N   N   N   N
+SC077     ARH    Ardrossan South Beach – Adrossan          30   44    31   35   Y      Y        Y   N   N   N   N   N   N
+                 Harbour
+SC079     HUN    Hunterston – Hunterston Low Level         0    00    0    36   N      N        N   N   N   N   N   N   N
+                 Sdgs (Goods Line)
+SC081     BYL    Byrehill Jn – Dubbs Jn                    0    60    0    00   Y      Y        Y   N   N   N   N   N   N
+SC085     AYH1   Ayr Harbour – Newton Jn (Goods Line)      0    17    0    00   N      N        N   N   N   N   N   N   N
+SC087     ANN    Newton Jn – Mauchline (Goods Line)        39   42    50   16   Y      Y        Y   N   N   N   N   N   N
+SC089     KCH1   Annbank – Change of ELR                   43   52    48   73   N      N        N   N   N   N   N   N   N
+SC089     KCH2   Change of ELR – Killoch Colliery          0    00    3    43   N      N        N   N   N   N   N   N   N
+                 (Goods Line)
+SC091     WAT    Dalrymple Jn – Chalmerston (Goods         43   53    52   70   N      N        N   N   N   N   N   N   N
+                 Line)
+SC093     SCM1   Motherwell – Mossend South                89   51    91   08   Y      Y        Y   N   N   N   Y   Y   E
+SC093     SCM2   Mossend South – Whifflet North Jn         91   08    94   05   Y      Y        Y   N   N   N   N   Y   E
+SC093     SCM3   Whifflet North Jn – Gartsherrie South     94   05    95   64   Y      Y        Y   N   N   N   N   Y   E
+                 Jn (Limit of OLE)
+SC093     SCM3   Gartsherrie South Jn (Limit of OLE) –     95   64   106   63   Y      Y        Y   N   N   N   N   Y   N
+                 Greenhill Lower Jn
+October 2009                                                                    53

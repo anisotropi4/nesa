@@ -1,16 +1,23 @@
-London-North-Eastern	1022	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1022	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	R1	N	R2 R3	R4	Y	R5	R5	R6 R7	R1 Prohibited Doncaster platforms 2 R2 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R3 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R4 Prohibited between Loversall Carr Jn and Black Carr Jn R5 Prohibited between Loversall Carr Jn and Doncaster R6 Shall be planned for Fast / Main lines only R7 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
-London-North-Eastern	1022	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1022	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N	
-London-North-Eastern	1022	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	N	
-London-North-Eastern	1022	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	E	N	E	N	N	N	N	Y	
-London-North-Eastern	1022	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	E	E	E	N	N	N	N	Y	
-London-North-Eastern	1022	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	Y	N	Y	N	N	N	N	Y	
-London-North-Eastern	1022	LN120	HDB	Langley Jn via Hertford	Stevenage platform 5 (End of line)	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1022	LN125	SBR	Cambridge Jn	Route Boundary (EA1230)	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	E	N	R1	N	N	N	N	R1	R1 Must be planned as a non-stop train between Hitchin and Cambridge
-London-North-Eastern	1022	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	05	E	N	Y	N	N	N	N	N	
-London-North-Eastern	1022	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	Y	N	R1	N	N	N	N	R1	R1 Must be planned as a non-stop train between Cambridge and Peterborough.
-London-North-Eastern	1022	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	Y	N	N	N	N	N	N	Y	
-London-North-Eastern	1022	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	Y	N	Y	Y	N	N	N	N	
-London-North-Eastern	1022	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	Y	N	Y	N	N	N	N	N	
-London-North-Eastern	1022	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1022	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1022	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1022	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1022	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Pelaw Metro Jn	Park Lane Jn	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	Park Lane Jn	High Level Bridge Jn	Park Lane Jn – High Level Bridge Jn	100	65	101	33	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN627	LEN3	High Level Bridge Jn	Newcastle East Jn	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1022	LN628	NEK	South Hylton	Sunderland South Jn	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	Y	N	N	N	N	N
+London-North-Eastern	1022	LN629	PDL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1022	LN630	PUL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1022	LN631	DSN1	Darlington South Jn	Eaglescliffe South Jn	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	R1	Y	Y	Y	Y	Y	Y	Y	Y	R1 Drivers of Down passenger trains stopping at Allens West must bring the train to a stand 1 car length in rear of UN23 signal
+London-North-Eastern	1022	LN632	DSN2	Stockton Cut Jn	Redcar Change of Mileage	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	Y	Y	Y	Y	Y	Y	Y	Y	Y

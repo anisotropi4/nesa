@@ -1,24 +1,18 @@
-Kent-Sussex-Wessex	0904	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-Kent-Sussex-Wessex	0904	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0904	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0904	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0904	SO290	NKL	North Kent East Jn (SO130)	CharltonJn	North Kent East Jn (SO130) – CharltonJn	4	25	7	35	6	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO300	BEX	Lewisham Jn	Blackheath Jn	Lewisham Jn – Blackheath Jn	5	74	7	14	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO300	BTC	Blackheath Jn	Charlton Jn	Blackheath Jn –Charlton Jn	7	14	8	67	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO300	BEX	Blackheath Jn	Perry Street Fork Jn	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO300	PSF	Perry Street Fork Jn	Slade Green Jn	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO300	BEX	Perry Street Fork Jn	Crayford Creek Jn	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	HDR	Hither Green Jn (SO290)	Lee Loop Jn	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	LEE	Lee Loop Jn	Lee Spur Jn	Lee Loop Jn –Lee Spur Jn	0	00	0	29	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	HDR	Lee Loop Jn	Lee	Lee Loop Jn –Lee	7	29	7	66	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	HDR	Lee	Crayford Spur ‘B’ Jcn	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	CRA	Crayford Spur ‘B’ Jn	Crayford Spur ‘A’ Jn	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	HDR	Crayford Spur ‘B’ Jcn	Dartford Jn	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0904	SO310	HDR	Dartford Jn	Hoo Jn	Dartford Jn –Hoo Jn	16	75	27	19	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Kent-Sussex-Wessex	0904	SO680	BTH1	Peckham Rye Jn	Tulse Hill North Jn	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	WTH	Tulse Hill	West Norwood Jn	Tulse Hill – West Norwood Jn	6	14	6	41	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	LTH	Tulse Hill	Leigham Jn	Tulse Hill – Leigham Jn	6	20	6	40	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH1	Tulse Hill North Jn	Streatham Jn	Tulse Hill North Jn – Streatham Jn	6	07	7	57	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	SSC	Streatham Jn	Streatham Common Jn	Streatham Jn – Streatham Common Jn	7	57	8	10	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH1	Streatham Jn	Streatham South Jn (a)	Streatham Jn – Streatham South Jn (a)	7	57	8	09	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH1	Streatham South Jn (a)	Streatham South Jn (b)	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH1	Streatham South Jn (b)	Streatham South Jn (c)	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH1	Streatham South Jn (c)	Change of Mileage	Streatham South Jn (c) – Change of Mileage	8	15	13	45	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH2	Change of Mileage	Route Boundary Wessex (Epsom)	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH2	Route Boundary Sussex (Ewell East)	Epsom (Change of ELR) [Duplicated in SW180]	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SW180]	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO680	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn [Duplicated in SW180]	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO700	SMS1	Streatham South Jn (c)	Wimbledon platforms 9 and 10	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO700	SMS2	Wimbledon platforms 9 and 10	Wimbledon West Jn	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	Y	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0904	SO700	SMS2	Wimbledon West Jn	Sutton	Wimbledon West Jn – Sutton	7	51	12	50	Y	Y	Y	N	N	N	N

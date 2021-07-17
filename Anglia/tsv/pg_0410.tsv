@@ -1,21 +1,27 @@
 Anglia	0410	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0410	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	N	N	N	N	Y	E	EH	E	N	E R1	R1 Prohibited Up East London and Down East London lines
-Anglia	0410	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	N	N	N	N	Y	E	EH	E	N	E	
-Anglia	0410	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	N	N	N	N	Y	E	EH	E	N	E	
-Anglia	0410	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	N	N	N	N	Y	E	EH	E	N	N	
-Anglia	0410	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	N	N	N	N	Y	Y	EH	E	N	N	
-Anglia	0410	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1325	ELL2	Canal Jn	Lewisham (TFL Infrastructure)	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1327	ELL3	Silwood Jn	ELL/Network Rail Boundary (TFL Infrastructure)	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1327	ELL4	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0410	EA1330	BOK 5	South Acton Jn	Kew East Jn	South Acton Jn – Kew East Jn	2	52	3	27	N	N	Y	N	N	N	N	N	N	N	
-Anglia	0410	EA1330	NKE1	Kew East Jn	Route Boundary (SW230) (New Kew Jn)	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	N	N	H R1	N	N	N	N	N	N	N	R1 OPPOS applies between Kew East Jn and New Kew Jn
-Anglia	0410	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	N	N	Y	N	N	N	N	N	N	N	
-Anglia	0410	EA1340	LLS2	Lea Jn	High Meads Jn	Lea Jn – High Meads Jn	0	51	0	65	N	N	N	N	E	N	N	E	N	N	
-Anglia	0410	EA1350	CHM	Channelsea North Jn	High Meads Jn	Channelsea North Jn – High Meads Jn	0	00	0	15	E	N	N	N	E	Y	N	E	N	N	
-Anglia	0410	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	E	N	N	N	E	Y	N	E	N	N	
-Anglia	0410	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	N	N	N	N	N	N	N	N	N	N	
+Anglia	0410	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	E	N	N	N	N	N	N	N	N	N
+Anglia	0410	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	R1	N	N	N	N	R1	N	N	N	N	R1 Prohibited Norwich Royal Dock Siding 1
+Anglia	0410	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	E	N	N	N	N	Y	N	E	N	N
+Anglia	0410	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	N	N	N	N	E	E	N	R1	N	N	R1 Prohibited in crush laden condition with deflated suspension Woodgrange Park Up platform
+Anglia	0410	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	E	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	E	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	E	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	R1	N	N	N	N	R1	N	N	N	N	R1 40mph maximum speed
+Anglia	0410	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	N	N	N	N	N	N	N	N	N	N
+Anglia	0410	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1100	STB	Colne Jn	Colchester Town	Colne Jn – Colchester Town	53	30	53	76	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1110	TWN	Thorpe-Le-Soken Jn	Walton-On- Naze	Thorpe-Le-Soken Jn – Walton-On- Naze	65	19	70	15	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1120	MAH	Manningtree East Jn	Harwich International Port	Manningtree East Jn – Harwich International Port	59	67	68	72	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1120	MAH	Harwich International Port	Harwich town	Harwich International Port – Harwich town	68	72	70	61	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1130	GRW	Halifax Jn	Griffin Wharf Boundary	Halifax Jn – Griffin Wharf Boundary	0	00	0	47	N	N	N	N	N	N	N	N	N	N
+Anglia	0410	EA1150	CST	Channelsea South Jn	Stratford Central Jn West	Channelsea South Jn – Stratford Central Jn West	0	29	0	00	E	N	N	N	Y	Y	EH	E	N	N
+Anglia	0410	EA1160	BGK	Bethnal Green East Jn	Reading Lane Jn	Bethnal Green East Jn – Reading Lane Jn	1	10	2	55	N	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1160	BGK	Reading Lane Jn	Hackney Downs North Jn	Reading Lane Jn – Hackney Downs North Jn	2	55	3	04	N	N	N	N	N	Y	N	N	N	N
+Anglia	0410	EA1160	BGK	Hackney Downs North Jn	Coppermill Jn	Hackney Downs North Jn – Coppermill Jn	3	04	4	74	N	N	N	N	N	Y	N	N	N	N

@@ -1,12 +1,24 @@
-London-North-Eastern	1210	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1210					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Eastern	1210	LN774	Barrow Hill North Jn – Oxcroft Disposal Point	Barrow Hill North Jn	Oxcroft Disposal Point	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN776	Hall Lane Jn – Foxlow Jn	Hall Lane Jn	Foxlow Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN778	Seymour Jn to Bolsover	Seymour Jn	Bolsover	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN782	Woodend Jn – Shireoaks West Jn	Woodend Jn	Shireoaks West Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN784	High Marnham – Thoresby Colliery Jn	High Marnham	Thoresby Colliery Jn	-	-	-	-	-	-	-	-	Line Out of Use (Temporary)
-London-North-Eastern	1210	LN784	Thoresby Colliery Jn – Shirebrook East Jn	Thoresby Colliery Jn	Shirebrook East Jn	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN786	Bevercotes Colliery Branch	Bevercotes Colliery Branch		-	-	-	-		-		-	Line not normally in use
-London-North-Eastern	1210	LN788	Thoresby Colliery Branch	Thoresby Colliery Branch		Y	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN802	Welbeck Colliery Branch	Welbeck Colliery Branch		Y	N	N	N	N	N	N	N	
-London-North-Eastern	1210	LN804	Tapton Jn – Dore South Jn	Tapton Jn	Dore South Jn	Y *	Y Up Line S1 Down Line	Y Up Line S1 Down Line	N	N	N	N	N	S1 The following combinations are permitted: 2590 h x 2438 w box 2590 h x 2500 w box on FEA FSA/FTA KFA wagons Down Line 2615 h x 2500 w (S16) FT 2615 h x 2550 w (S16) FT on KFA wagons Down Line 2625 h x 2500 w (S17) FT 2625 h x 2550 w (S17) FT on FEA FSA/FTA wagons Down Line 2896 h x 2438 w box 2896 h x 2500 w box on FLA wagons Down Line STNC NC/G1/2009/ICP-G/LNE009 applies, valid to 31/12/12
+London-North-Eastern	1210	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	o M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	Notes
+London-North-Eastern	1210	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	5	N	N	N	N	N	N	N
+London-North-Eastern	1210	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	3	N	N	N	N	N	N	N
+London-North-Eastern	1210	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360) (Dudding Hill)	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3228	TES	Trent East ELR Change	Sheet Stores Jn.	Trent East ELR Change – Sheet Stores Jn.	0	00	0	30	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	8	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1210	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	7	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1210	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	8	Y	Y	Y	Y	Y	Y	Y
