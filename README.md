@@ -14,7 +14,9 @@ The downloadable NESA data is available [here](https://www.networkrail.co.uk/ind
 |[London North-Western North](London-North-Western-North/london-north-western-north-text.md)|[London North-Western North](London-North-Western-North/london-north-western-north-tsv.md)|[London North-Western North](London-North-Western-North/london-north-western-north-clearance.xlsx)|
 |[London North-Western South](London-North-Western-South/london-north-western-south-text.md)|[London North-Western South](London-North-Western-South/london-north-western-south-tsv.md)|[London North-Western South](London-North-Western-South/london-north-western-south-clearance.xlsx)|
 |[Scotland](Scotland/scotland-text.md)|[Scotland](Scotland/scotland-tsv.md)|[Scotland](Scotland/scotland-clearance.xlsx)|
-|[Western and Wales](Western-and-Wales/western-and-wales-text.md)|[Western and Wales](Western-and-Wales/western-and-wales-tsv.md)|[Western and Wales](Western-and-Wales/western-and-wales-clearance.xlsx)|
+|[Western](Western/western-text.md)|[Western](Western/western-tsv.md)|[Western](Western/western-clearance.xlsx)|
+
+* Note: South Wales data is now in `Western`, and North Wales in `London North Western North`.
 
 ## Data Source
 The PDF files for these seven routes are available [here](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
