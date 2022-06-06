@@ -1,22 +1,17 @@
 Western	0807	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
-Western	0807	GW864	Cogan Jn to Penarth	Cogan Jn	Penarth	6	6	6				
-Western	0807	GW870	Barry to Bridgend (VOG)	Barry	Bridgend (VOG)	8	10	10	Over Bridge at 09m 04 ½ch (Ford Jn – St Athan) Over Bridge at 10m 06ch (Ford Jn – St Athan)	20 MPH 50 MPH	20 MPH 50 MPH		Applies to HTA, BAA & BBA wagons only Applies to HTA, BAA & BBA wagons only
-Western	0807	GW874	Llynfi Jn to Tondu	Llynfi Jn	Tondu	6	10	10	THROUGHOUT	20 MPH	20 MPH	
-Western	0807	GW874	Tondu to Maesteg	Tondu	Maesteg	6	7B	7B				
-Western	0807	GW877	Tondu to Port Talbot Dks (OVE)	Tondu	Port Talbot Dks (OVE)	6	10	10				
-Western	0807	GW890	Court Sart Jn / Up Flying Loop Jn to Morlais Jn	Court Sart Jn / Up Flying Loop Jn	Morlais Jn	8	10	10				
-Western	0807	GW8901	Dynevor Jn to Jersey Marine Jn South	Dynevor Jn	Jersey Marine Jn South	6	10	10				
-Western	0807	GW892	Cwmgwrach to Burrows Sidings	Cwmgwrach	Burrows Sidings	6	9	9				
-Western	0807	GW893	Onllwyn to Neath and Brecon Jn	Onllwyn	Neath and Brecon Jn	6	9	9				
-Western	0807	GW894	Jersey Marine Jn North to Jersey Marine Jn South	Jersey Marine Jn North	Jersey Marine Jn South	6	10	10				
-Western	0807	GW897	Grovesend Colliery Loop Jn to Hendy Jn	Grovesend Colliery Loop Jn	Hendy Jn	6	9	9				
-Western	0807	GW900	Pilning to Landore	Pilning	Landore	8	10	10				
-Western	0807	GW900	Landore to Llandeilo Jn	Landore	Llandeilo Jn	7	10	10				
-Western	0807	GW900	Llandeilo Jn to Clarbeston Road	Llandeilo Jn	Clarbeston Road	8	10	10				
-Western	0807	GW900	Clarbeston Road to Fishguard Hbr	Clarbeston Road	Fishguard Hbr	7	9B	9B				
-Western	0807	GW9001	Landore Jn to Swansea	Landore Jn	Swansea	7	8	8				
-Western	0807	GW906	Swansea Loop East Jn to Swansea Loop West Jn	Swansea Loop East Jn	Swansea Loop West Jn	7	8	8				
-Western	0807	GW910	Craven Arms Jn to Morlais Jn (CWL)	Craven Arms Jn	Morlais Jn (CWL)	5	5	5	Line subject to Light Railway Order. See Track / Structures Engineer for detail			
-Western	0807	GW910	Morlais Jn to Llandeilo Jn	Morlais Jn	Llandeilo Jn	8	10	10				
-Western	0807	GW915	G.C.G to Pantyffynnon	G.C.G	Pantyffynnon	5	5	5	Ammanford 12m 36¾ch	10mph	10mph		Applies to Class 66 locomotives only
-Western	0807	GW930	Carmarthen Jn to Carmarthen Stn	Carmarthen Jn	Carmarthen Stn	8	10	10				
+Western	0807	GW606	Cowley Bridge Jn to Crediton	Cowley Bridge Jn	Crediton	6	10	10	THROUGHOUT Over Bridge No. 543 at 177m 21ch	30 MPH 20 MPH	30 MPH 20 MPH
+Western	0807	GW606	Crediton to Barnstaple	Crediton	Barnstaple	5	5	5	THROUGHOUT (Class 66 locos prohibited beyond 210m 28ch)	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0807	GW608	Crediton to Coleford (Meldon Line)	Crediton	Coleford (Meldon Line)	6	10	10	THROUGHOUT Over Bridge No.567 at 182m 38ch	20 MPH 10 MPH	20 MPH 10 MPH
+Western	0807	GW610	Crannaford LC to Exeter St Davids	Crannaford LC	Exeter St Davids	8	8	8		
+Western	0807	GW611	Exmouth Jn to Exmouth	Exmouth Jn	Exmouth	6	6	6	THROUGHOUT	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0807	GW618	Newton Abbot to Heathfield	Newton Abbot	Heathfield	6	10	10					Dangerous Goods prohibited
+Western	0807	GW620	Newton Abbot to Paignton	Newton Abbot	Paignton	6	9B	8B		
+Western	0807	GW628	Laira Jn/Lipson Jn to Plymouth Friary	Laira Jn/Lipson Jn	Plymouth Friary	7	9	9		
+Western	0807	GW628	Plymouth Friary to Cattewater	Plymouth Friary	Cattewater	5	9	9		
+Western	0807	GW637	St Budeaux Jn to Ernesettle	St Budeaux Jn	Ernesettle	4	8	8		
+Western	0807	GW637	Ernesettle to Gunnislake	Ernesettle	Gunnislake	4	8B	8B	Over Tamerton Viaduct (225m 01ch - 224m 76ch)	05 MPH	05 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0807	GW640	Liskeard to Coombe / Moorswater	Liskeard	Coombe / Moorswater	4	9	9		
+Western	0807	GW642	Moorswater / Coombe to Looe	Moorswater / Coombe	Looe	4	4	4		
+Western	0807	GW650	Lostwithiel to Carne Point	Lostwithiel	Carne Point	8	9	9		
+Western	0807	GW660	Par to St Blazey	Par	St Blazey	7	9	9		
+Western	0807	GW660	St Blazey Jn to Goonbarrow Jn	St Blazey Jn	Goonbarrow Jn	6	9	9		

@@ -1,22 +1,20 @@
 Western	0806	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
-Western	0806	GW773	Machen Quarry to Park Jn	Machen Quarry	Park Jn	6	8	8	Over Bridge - 01m 05 ¼ch	10 MPH	10 MPH	
-Western	0806	GW780	Park Jn to Ebbw Jn	Park Jn	Ebbw Jn	8	10	10				
-Western	0806	GW784	Alexandra Dock to Newport Dk	Alexandra Dock	Newport Dk	8	10	10				
-Western	0806	GW790	Pengam Jn to Cardiff Docks	Pengam Jn	Cardiff Docks	7	10	10				
-Western	0806	GW810	Rhymney to Ystrad Mynach	Rhymney	Ystrad Mynach	6	6	6	Over Bridge at 17m 09 ½ch (Pengam – Gilfach Fargoed)	10 MPH	10 MPH		Applies to all wagons empty or loaded & locomotives
-Western	0806	GW810	Ystrad Mynach to Cardiff Queen St	Ystrad Mynach	Cardiff Queen St	6	9	9				
-Western	0806	GW820	Cwmbargoed to Ystrad Mynach Sth	Cwmbargoed	Ystrad Mynach Sth	8	9	9				
-Western	0806	GW828	Coryton to Heath Jn	Coryton	Heath Jn	6	6	6				
-Western	0806	GW830	Merthyr Tydfil to Abercynon	Merthyr Tydfil	Abercynon	6	8B	8B	THROUGHOUT	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
-Western	0806	GW830	Abercynon to Pontypridd	Abercynon	Pontypridd	6	10	10	THROUGHOUT	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
-Western	0806	GW830	Pontypridd to Radyr	Pontypridd	Radyr	6	10	10				
-Western	0806	GW830	Radyr to to Cardiff Cent via Llandaff	Radyr to	Cardiff Cent via Llandaff	8	9	9				
-Western	0806	GW830	Cardiff Cent to Barry	Cardiff Cent	Barry	8	10	10				
-Western	0806	GW830	Barry to Barry Island	Barry	Barry Island	6	6	6					Freight trains above 390 tonnes are not allowed to pass any other train on Barry Island Viaduct
-Western	0806	GW834	Hirwaun to Aberdare	Hirwaun	Aberdare	6	10	10	Over Bridge at 22m 31 ½ ch	30 MPH	30 MPH	
-Western	0806	GW834	Aberdare to Abercynon	Aberdare	Abercynon	6	10	10	Over Bridge at 18m 47 ½ ch	20 MPH	20 MPH	
-Western	0806	GW835	Treherbert to Pontypridd Jn	Treherbert	Pontypridd Jn	6	9B	9B	Over Bridge at 23m 09ch Over Bridge at 22m 07 ½ ch Over Bridge at 21m 33 ½ ch Over Bridge at 21m 11 ¾ ch Over Bridge at 15m ½ ch Over Bridge at 13m 20 ¾ ch	40 MPH 20 MPH 40 MPH 40 MPH 20 MPH 10 MPH	40 MPH 20 MPH 40 MPH 40 MPH 20 MPH 10 MPH	
-Western	0806	GW839	Queen Street to Cardiff Bay	Queen Street	Cardiff Bay	6	6	6				
-Western	0806	GW840	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines	Radyr Jn	Cardiff, Radyr Branch Jn via City Lines	8	10	10				
-Western	0806	GW850	Leckwith Loop Jn South to Leckwith Loop North Jn	Leckwith Loop Jn South	Leckwith Loop North Jn	8	10	10				
-Western	0806	GW860	Penarth Curve North Jn to Penarth Curve South Jn	Penarth Curve North Jn	Penarth Curve South Jn	8	10	10				
+Western	0806	GW454	Severn Beach to Narroways Hill	Severn Beach	Narroways Hill	7	8B	8B	Severn Beach to 5m 06ch Over Bridge at 3m 06ch (Cheltenham Road Viaduct) 2m 10ch through Narroways Hill Jn	25 MPH 05 MPH 15 MPH	25 MPH 05 MPH 15 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0806	GW480	Swindon to Standish Jn	Swindon	Standish Jn	8	10	10		
+Western	0806	GW490	Gloucester Yard Jn to Horton Road Jn	Gloucester Yard Jn	Horton Road Jn	8	10	10		
+Western	0806	GW500	Reading to Westbury via Newbury	Reading	Westbury via Newbury	8	10	10		
+Western	0806	GW500	Westbury to Cogload Jn via Westbury & Frome avoiding Line	Westbury	Cogload Jn via Westbury & Frome avoiding Line	8	10	10	Over Bridge at 117m 60ch (Blatchbridge Jn - East Somerset)	20 MPH	20 MPH
+Western	0806	GW5001	Beechgrove GF to Westbury South Jn	Beechgrove GF	Westbury South Jn	8	10	10		
+Western	0806	GW510	Westbury North Jn to Bathampton Jn	Westbury North Jn	Bathampton Jn	8	10	10		
+Western	0806	GW520	Westbury East Loop Jn to Hawkeridge Jn	Westbury East Loop Jn	Hawkeridge Jn	8	10	10		
+Western	0806	GW523	Thingley Jn to Bradford Jn	Thingley Jn	Bradford Jn	8	10	10		
+Western	0806	GW528	North Somerset Jn to Bristol West Jn via SPM	North Somerset Jn	Bristol West Jn via SPM	8	10B	10B		
+Western	0806	GW530	North Somerset Jn to Dr Day’s Jn	North Somerset Jn	Dr Day’s Jn	8	10	10		
+Western	0806	GW540	Filton Jn to Patchway Jn	Filton Jn	Patchway Jn	8	10	10	Over Bridge at 05m 22 ½ch (Patchway - Filton Jn)	20 MPH	20 MPH
+Western	0806	GW5401	Filton West Jn to Patchway Jn	Filton West Jn	Patchway Jn	7	10	10		
+Western	0806	GW548	Parson Street Jn to Portbury	Parson Street Jn	Portbury	8	10	10		
+Western	0806	GW560	Heywood Rd Jn to Fairwood Jn via Westbury	Heywood Rd Jn	Fairwood Jn via Westbury	8	10	10					Westbury Down reception line contains a curve with a radius of 86 metres between signal W202 and points 858. All vehicles using this line must be capable of negotiating such a curve
+Western	0806	GW570	Clink Road Jn to Blatchbridge Jn via Frome	Clink Road Jn	Blatchbridge Jn via Frome	8	10	10		
+Western	0806	GW572	Frome North Jn to Whatley Quarry	Frome North Jn	Whatley Quarry	6	10	10		
+Western	0806	GW580	East Somerset Jn to Cranmore	East Somerset Jn	Cranmore	8	10	10		
+Western	0806	GW600	Wootton Bassett Jn to Pilning	Wootton Bassett Jn	Pilning	8	10	10		

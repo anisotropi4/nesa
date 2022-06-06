@@ -1,11 +1,21 @@
-Western	0706	GW628	FRY	Former Friary Jn	Turnchapel Branch Jn	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	N	N	Y	Y	Y	N	N	R1	R1	R1 Prohibited beyond Class 158 stop board (245m 13 ch) (A maximum of 3 x 158/9 car lengths can be accommodated)
-Western	0706	GW628	TUR/ CWR	Turnchapel Branch Jn	Buffer Stops	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	R1	N	N	N	N	N	R1 Prior to operation the method of working shall be agreed with the local Infrastructure Manager’s operations team
-Western	0706	GW628	FRY	Turnchapel Branch Jn	Plymouth Friary	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	N	N	N	Y	N	N	N	N	N
-Western	0706	GW637	DAC	St Budeaux Jn	Buffer Stops (Beyond Bere Alston)	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	E	N	N	Y	Y	N	N	R1	R1	R1 Prohibited between St Budeaux Victoria Road Station and Buffer Stops (Beyond Bere Alston)
-Western	0706	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0706	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0706	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0706	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	6	66	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0706	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	N	N	N	N	N	N	N	N	N
-Western	0706	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	N	N	N	N	N	N	N	N	N
-Western	0706	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	E	N	N	Y	Y	N	N	Y	Y
+Western	0706	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western	0706	GW401	BAG 2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW401	CHL	Gloucester Barnwood Jn (Change of ELR)	Gloucester Yard Jn (Change of ELR)	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW401	BGL1	Gloucester Yard Jn (Change of ELR)	Change of ELR	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW401	BGL2	Change of ELR	Standish Jn	Change of ELR – Standish Jn	94	60	99	69	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW401	BGL2	Standish Jn	Yate South Jn (Change of ELR)	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW401	YAT	Yate South Jn (Change of ELR)	Westerleigh Jn	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW425	SAW/ SSS	Berkeley Road Jn	Sharpness (Network Rail Boundary)	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N	N	N	N	N
+Western	0706	GW430	THO	Yate Middle Jn	Tytherington	Yate Middle Jn – Tytherington	0	00	6	24	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0706	GW440	BGL2	Yate South Jn	Westerleigh Yard	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N	N	N	N	N
+Western	0706	GW450	FEC	Stoke Gifford Jn No.1	Change of ELR	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0706	GW450	BSW	Change of ELR	Bristol East Jn	Change of ELR – Bristol East Jn	4	50	0	26	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0706	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0706	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0706	GW4501	AMB	Holesmouth Jn	Avonmouth (Bristol Bulk Handling Terminal)	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	N	N	N	N
+Western	0706	GW451	FWC	Filton Jn No 2	Filton West Jn No.2	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0706	GW454	AMB	Severn Beach	St Andrews Jn (Change of ELR)	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	E	Y	Y	Y	Y	N	N	R1	R1	R1 15mph Severn Beach platform
+Western	0706	GW454	CNX	St Andrews Jn (Change of ELR)	Narroways Hill Jn	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	E	Y	Y	Y	Y	N	N	R1	R1	R1 15mph Avonmouth platforms
+Western	0706	GW480	SWM 1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	E	Y	Y	Y	Y	E	E	R1	R1	R1 Prohibited Kemble Tamper Siding
+Western	0706	GW490	SWM 2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	E	Y	Y	Y	Y	E	E	Y	Y
+Western	0706	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	E	E	E	Y	E	E	E	E	E

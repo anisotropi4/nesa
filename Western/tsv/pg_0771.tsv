@@ -1,22 +1,26 @@
 Western	0771	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Western	0771	GW900	BSW	Ableton Lane Tunnel	Severn Tunnel Jn	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Severn Tunnel Jn	Maindee West Jn	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Maindee West Jn	Cardiff East Jn	Maindee West Jn – Cardiff East Jn	158	16	170	18	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Cardiff West Jn	Court Sart Jn	Cardiff West Jn – Court Sart Jn	170	56	206	58	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Court Sart Jn	Llandore Jn	Court Sart Jn – Llandore Jn	206	58	214	62	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Llandore Jn	Llandeilo Jn	Llandore Jn – Llandeilo Jn	214	62	223	49	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Llandeilo Jn	Carmarthen Bridge Jn	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Carmarthen Bridge Jn	Whitland Jn	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	SWM2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW910	CWL1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
-Western	0771	GW910	CWL2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
-Western	0771	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
-Western	0771	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
-Western	0771	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
-Western	0771	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0771	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	5	Y	R1	Y	N	Y	Y	R1	Y	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
+Western	0771	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW730	SHL	Severn Bridge Jn	Craven Arms Jn	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW730	SHL	Craven Arms Jn	Shelwick Jn	Craven Arms Jn – Shelwick Jn	20	01	49	26	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW730	SHL	Shelwick Jn	Site of former Rotherwas Jn	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW730	HDC	Site of former Rotherwas Jn	Site of former Red Hill Jn	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW730	HNL1	Site of former Red Hill Jn	Maindee West Jn	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn)	Abbey Foregate Jn	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW731	WSJ2	Abbey Foregate Jn	Crewe Jn	Abbey Foregate Jn – Crewe Jn	171	15	171	57	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW731	WSJ2	Crewe Jn	Route Boundary (NW3005) (Wrexham General)	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW732	AFE	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW733	SBA1/ 2	Sutton Bridge Jn	Welshpool	Sutton Bridge Jn – Welshpool	0	00	33	70	7	Y	Y	Y	Y	Y	Y	Y	B
+Western	0771	GW733	SBA2	Welshpool	Aberystwyth	Welshpool – Aberystwyth	33	70	95	60	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
+Western	0771	GW734	DJP	Dovey Jn	Pwllheli	Dovey Jn – Pwllheli	78	60	132	70	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
+Western	0771	GW735	SYC	Crewe Jn	Route Boundary (NW1007) (Limit of Electrification)	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW736	GNQ1	Gobowen South	Commencement of single line board	Gobowen South – Commencement of single line board	0	00	0	16	5	Y	R1	Y	N	Y	Y	R1	N	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
+Western	0771	GW740	MAI	Maindee East Jn	Maindee North Jn	Maindee East Jn – Maindee North Jn	41	65	41	33	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW750	BNC	Hereford Yard Jn	Brecon Curve Jn	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW750	HNL2	Brecon Curve Jn	MEB Siding	Brecon Curve Jn – MEB Siding	149	44	149	78	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW770	EBW	Ebbw Vale Parkway	Site of Former Aberbeeg Jn	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	5	Y	R1	Y	Y	Y	Y	R1	Y	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
+Western	0771	GW770	WVL	Site of Former Aberbeeg Jn	Park Jn	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	5	Y	R1	Y	Y	Y	Y	R1	Y	R1 Route prohibited to Class 20 and 37/5 locomotives that conform to RA6
+Western	0771	GW770	GAE	Park Jn	Gaer Jn (Western Valley Line)	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW773	BJR	Machen Quarry	Site of Former Bassaleg Jn	Machen Quarry – Site of Former Bassaleg Jn	4	69	0	00	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW773	WVL	Site of Former Bassaleg Jn	Park Jn (Machen Branch)	Site of Former Bassaleg Jn – Park Jn (Machen Branch)	2	05	1	10	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW780	WVL	Park Jn	Park Jn SB	Park Jn – Park Jn SB	1	02	0	74	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0771	GW780	NWN	Park Jn SB	Ebbw Jn	Park Jn SB – Ebbw Jn	0	54	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y

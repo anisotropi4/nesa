@@ -1,13 +1,20 @@
-Western	0723	GW680	FAL1-3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	N	N	N	N	N	N	N	N	N	N	N
-Western	0723	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	N	N	N	N	N	N	N	N	N	N	N
-Western	0723	GW700	BAG2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	E	Y	N	Y	N	R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/0 and 172/1
-Western	0723	GW700	SWM2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	E R1	Y	N	Y	N	R2 R3	Y	Y	Y	Y	N	R1 Prohibited between Gloucester and Route Boundary Wales R2 Route prohibited to Class 172/0 and 172/1 R3 Prohibited between Gloucester West Jn and Route Boundary Wales
-Western	0723	GW700	SWM2	Route Boundary Wales	Severn Tunnel Jn	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	N	Y	N	Y	N	N	Y	Y	Y	Y	N
-Western	0723	GW710	NO ELR	Llanwern Works East	Llanwern Works West via BSS (Corus Infrastructure)	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	N	N	N	N	N	N	N	N	N	N	N
-Western	0723	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	N	N	N	N	N	N	N	N	N	N	N
-Western	0723	GW730	SHL	Severn Bridge Jn	Craven Arms Jn	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	N	N	N	R1	N	N	Y	Y	N	N	N	R1 Prohibited between Sutton Bridge Jn and Craven Arms Jn
-Western	0723	GW730	SHL	Craven Arms Jn	Shelwick Jn	Craven Arms Jn – Shelwick Jn	20	01	49	26	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0723	GW730	SHL	Shelwick Jn	Site of former Rotherwas Jn	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	R1	R1	N	R2	N	R2 R3	Y	Y	Y	Y	N	R1 Prohibited between Hereford Diesel Depot sidings and Site of Former Rotherwas Jn R2 Class 172/2 and 172/3 prohibited between Hereford Station and Site of former Rotherwas Jn R3 Route prohibited to Class 172/1
-Western	0723	GW730	HDC	Site of former Rotherwas Jn	Site of former Red Hill Jn	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	N	N	N	N	N	N	Y	Y	Y	Y	N
-Western	0723	GW730	HNL1	Site of former Red Hill Jn	Maindee West Jn	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	N	N	N	R1	N	N	Y	Y	Y	Y	N	R1 Prohibited between Site of former Red Hill Jn and Maindee North Jn
-Western	0723	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn)	Abbey Foregate Jn	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	N	N	Y	Y	N	N	Y	N	N	Y	N
+Western	0723	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	N	R1	N	N	N	N	Y	Y	Y	Y	N	R1 Prohibited Stoke Gifford Jn No 2 - Filton West Jn
+Western	0723	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	N	N	N	N	N	N	Y	Y	Y	Y	N
+Western	0723	GW4501	AMB	Holesmouth Jn	Avonmouth (Bristol Bulk Handling Terminal)	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	N	N	N	N	N	N
+Western	0723	GW451	FWC	Filton Jn No 2	Filton West Jn No.2	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	Y	Y	N	N	N	N	Y	Y	Y	Y	N
+Western	0723	GW454	AMB	Severn Beach	St Andrews Jn (Change of ELR)	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	N	Y	N	N	N	N	R1	R1	R1	R1	N	R1 Prohibited between Severn Beach Station and Holesmouth Jn
+Western	0723	GW454	CNX	St Andrews Jn (Change of ELR)	Narroways Hill Jn	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	N	Y	N	N	N	N	Y	Y	Y	Y	N
+Western	0723	GW480	SWM1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	E R1 R2	Y	N	N	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0 R2 20mph Stroud Down platform
+Western	0723	GW490	SWM2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	E R1	Y	N	Y	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0
+Western	0723	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	BKE	Oxford Road Jn	Southcote Jn	Oxford Road Jn – Southcote Jn	36	67	37	62	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	BKE	Southcote Jn	Route Boundary (SW125) (Basingstoke)	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	Y	Y	N	Y	N	N	N	Y	Y	Y	N
+Western	0723	GW500	BHL	Southcote Jn	Change of ELR	Southcote Jn – Change of ELR	37	62	81	19	Y	Y	N	N	N	N	Y	Y	R1	R1	N	R1 100mph on the Up Westbury line from Newbury Racecourse to Midgham
+Western	0723	GW500	SWY	Change of ELR	Heywood Road Jn (Change of ELR)	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	Y	Y	N	N	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	Y	Y	N	N	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0723	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	N	Y	N	Y	N	N	N	Y	Y	Y	N
+Western	0723	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	N	Y	N	N	N	N	Y	Y	R1	R1	N	R1 90mph between Somerton Tunnel and Cogload Jn
+Western	0723	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	N	Y	N	Y	N	N	N	N	N	N	N

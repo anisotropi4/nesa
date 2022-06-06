@@ -1,23 +1,19 @@
-Western	0727	GW894	JER	Jersey Marine Jn North	Jersey Marine Jn South	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	N	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW897	HDY	Grovesend Colliery Loop Jn	Hendy Jn	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	N	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW900	BSW	Ableton Lane Tunnel	Severn Tunnel Jn	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	N	Y	N	Y	N	N	Y	Y	Y	Y	N
-Western	0727	GW900	SWM2	Severn Tunnel Jn	Maindee West Jn	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	N	Y	N	Y	N	N	Y	Y	Y	Y	N
-Western	0727	GW900	SWM2	Maindee West Jn	Cardiff East Jn	Maindee West Jn – Cardiff East Jn	158	16	170	18	N	Y	N	Y	N	N	Y	Y	Y	Y	N
-Western	0727	GW900	SWM2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	N	Y	N	Y	N	N	Y	Y	Y	Y	N
-Western	0727	GW900	SWM2	Cardiff West Jn	Court Sart Jn	Cardiff West Jn – Court Sart Jn	170	56	206	58	N	R1	N	R2	N	N	Y	Y	Y	Y	N	R2 ECS only Bridgend River Bridge Crossover (193mch) to Court Sart Jn
-Western	0727	GW900	SWM2	Court Sart Jn	Llandore Jn	Court Sart Jn – Llandore Jn	206	58	214	62	N	N	N	E	N	N	Y	Y	Y	Y	N
-Western	0727	GW900	SWM2	Llandore Jn	Llandeilo Jn	Llandore Jn – Llandeilo Jn	214	62	223	49	N	N	N	E R1	N	N	Y	Y	N	N	N	Prohibited between Swansea Loop West Jn (216mch) and Llandeilo Jn
-Western	0727	GW900	SWM2	Llandeilo Jn	Carmarthen Bridge Jn	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW900	SWM2	Carmarthen Bridge Jn	Whitland Jn	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW900	SWM2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	N	N	N	E R1	N	N	Y	Y	Y	Y	N	Prohibited between Crossover (Down Sidings 215m 62ch) and Swansea
-Western	0727	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	N	N	N	E R1	N	N	Y	Y	N	N	N	Prohibited between Crossover (Down Sidings 215m 62ch) and Swansea
-Western	0727	GW910	CWL1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	Y	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW910	CWL2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	R1 R2	N	N	N	N	N	Y	Y	N	N	N	R1 Prohibited Between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
-Western	0727	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	N	N	N	N	N	N	R1	R1	N	N	N	R1 Prohibited Llandovery Down platform
-Western	0727	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0727	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N	N	N
+Western	0727	GW731	WSJ2	Abbey Foregate Jn	Crewe Jn	Abbey Foregate Jn – Crewe Jn	171	15	171	57	N	N	Y	Y	N	N	Y	R1 R2	N	R3 R4 R5	N	R1 Prohibited between Abbey Foregate Jn and Severn Bridge Jn R2 Prohibited between Shrewsbury and Crew Jn R3 3mph Shrewsbury platforms 3, 4 and 5 with deflated suspension R4 Prohibited Shrewsbury Bay platform 6 R5 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)
+Western	0727	GW731	WSJ2	Crewe Jn	Route Boundary (NW3005) (Wrexham General)	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	N	N	Y	Y	N	N	Y	N	N	R1	N	R1 3mph Ruabon Up and Down platforms with deflated suspension
+Western	0727	GW732	AFE	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	N	N	N	Y	N	N	Y	N	N	N	N
+Western	0727	GW733	SBA1/ 2	Sutton Bridge Jn	Welshpool	Sutton Bridge Jn – Welshpool	0	00	33	70	N	N	N	Y	N	N	N	N	N	N	N
+Western	0727	GW733	SBA2	Welshpool	Aberystwyth	Welshpool – Aberystwyth	33	70	95	60	N	N	N	Y	N	N	N	N	N	N	N
+Western	0727	GW734	DJP	Dovey Jn	Pwllheli	Dovey Jn – Pwllheli	78	60	132	70	N	N	N	Y	N	N	N	N	N	N	N
+Western	0727	GW735	SYC	Crewe Jn	Route Boundary (NW1007) (Limit of Electrification)	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	N	N	Y	Y	N	N	Y	N	N	R1	N	R1 3mph Whitchurch Up platform with deflated suspension
+Western	0727	GW736	GNQ1	Gobowen South	Commencement of single line board	Gobowen South – Commencement of single line board	0	00	0	16	N	N	N	N	N	N	N	N	N	N	N
+Western	0727	GW740	MAI	Maindee East Jn	Maindee North Jn	Maindee East Jn – Maindee North Jn	41	65	41	33	N	N	N	Y	N	N	Y	Y	N	N	N
+Western	0727	GW750	BNC	Hereford Yard Jn	Brecon Curve Jn	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	N	N	N	N	N	N	N	N	N	N	N
+Western	0727	GW750	HNL2	Brecon Curve Jn	MEB Siding	Brecon Curve Jn – MEB Siding	149	44	149	78	N	N	N	N	N	N	N	N	N	N	N
+Western	0727	GW770	EBW	Ebbw Vale Parkway	Site of Former Aberbeeg Jn	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	N	N	N	Y	N	N	Y	N	N	N	N
+Western	0727	GW770	WVL	Site of Former Aberbeeg Jn	Park Jn	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	N	N	N	Y	N	N	Y	N	N	N	N
+Western	0727	GW770	GAE	Park Jn	Gaer Jn (Western Valley Line)	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	N	N	N	Y	N	N	Y	N	N	N	N
+Western	0727	GW773	BJR	Machen Quarry	Site of Former Bassaleg Jn	Machen Quarry – Site of Former Bassaleg Jn	4	69	0	00	N	N	N	N	N	N	N	N	N	N	N
+Western	0727	GW773	WVL	Site of Former Bassaleg Jn	Park Jn (Machen Branch)	Site of Former Bassaleg Jn – Park Jn (Machen Branch)	2	05	1	10	N	N	N	Y	N	N	N	N	N	N	N
+Western	0727	GW780	WVL	Park Jn	Park Jn SB	Park Jn – Park Jn SB	1	02	0	74	N	N	N	Y	N	N	Y	N	N	N	N
+Western	0727	GW780	NWN	Park Jn SB	Ebbw Jn	Park Jn SB – Ebbw Jn	0	54	0	00	N	N	N	Y	N	N	Y	N	N	N	N
+Western	0727	GW784	NLL	Alexandra Dock Jn	Network Rail Boundary (Newport Docks)	Alexandra Dock Jn – Network Rail Boundary (Newport Docks)	159	60	160	27	N	N	N	N	N	N	N	N	N	N	N

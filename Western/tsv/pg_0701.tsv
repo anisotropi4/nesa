@@ -1,21 +1,14 @@
 Western	0701	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
-Western	0701	GW108	MLN 4	Change of ELR	St Erth Jn	Change of ELR – St Erth Jn	305	67	320	73	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0701	GW108	MLN 4	St Erth Jn	Penzance	St Erth Jn – Penzance	320	73	326	50	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0701	GW110	ANL	Old Oak Common West	Greenford East Jn	Old Oak Common West – Greenford East Jn	3	20	7	15	E	E	E	E	E	E	E	N	N
-Western	0701	GW110	ANL	Greenford East Jn	Greenford West Jn	Greenford East Jn – Greenford West Jn	7	15	7	48	E	E	E	E	E	E	E	N	N
-Western	0701	GW110	ANL	Greenford West Jn	Route Boundary (MD705) (Northolt Jn)	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	E	E	E	E	E	E	E	N	N
-Western	0701	GW117	GEC	Greenford East Jn	Greenford South Jn	Greenford East Jn – Greenford South Jn	8	70	8	45	E	E	E	E	E	E	E	N	N
-Western	0701	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn)	Acton East Jn	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	E	E	E	E	N	N	N	E	E
-Western	0701	GW174	WEL 1	West Ealing Jn	Drayton Green Jn	West Ealing Jn – Drayton Green Jn	6	56	7	03	E	E	E	E	E	E	E	N	N
-Western	0701	GW174	WEL 1	Drayton Green Jn	Greenford South Jn	Drayton Green Jn – Greenford South Jn	7	03	8	45	E	E	E	E	E	E	E	N	N
-Western	0701	GW174	WEL 1	Greenford South Jn	Greenford LUL Bay Jn	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	E	E	E	E	E	E	E	N	N
-Western	0701	GW174	WEL 1	Greenford LUL Bay Jn	Greenford West Jn	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	E	E	E	E	E	E	E	N	N
-Western	0701	GW175	WEL 2	Greenford LUL Bay Jn	Greenford Station	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	N	N	N	N	N	N	N	N	N
-Western	0701	GW176	HAN	Hanwell Jn	Drayton Green Jn	Hanwell Jn – Drayton Green Jn	0	00	0	36	E	E	E	E	E	E	E	N	N
-Western	0701	GW178	BRB	Southall	Brentford Goods	Southall – Brentford Goods	0	00	2	70	N	N	N	N	N	N	N	N	N
-Western	0701	GW180	HLL	Heathrow Airport Jn (Up and Down Main)	NR Boundary (BAA)	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	N	N	N	N	N	N	N	N	N
-Western	0701	GW182	STA	West Drayton Jn	End of Branch (Colnbrook)	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	N	N	N	N	N	N	N	N	N
-Western	0701	GW184	WIN	Slough	Windsor & Eton Central	Slough – Windsor & Eton Central	18	36	21	19	E	N	N	E	N	N	N	N	N
-Western	0701	GW185	WBB	Maidenhead	Bourne End	Maidenhead – Bourne End	24	19	28	55	E	N	N	E	N	N	N	N	N
-Western	0701	GW185	MWB	Bourne End GF	Marlow	Bourne End GF – Marlow	0	06	2	54	E	N	N	E	N	N	N	N	N
-Western	0701	GW187	HEN	Twyford	Henley-on-Thames	Twyford – Henley-on-Thames	31	01	35	48	E	N	N	E	N	N	N	N	N
+Western	0701	GW103	MLN 1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	E	N	N	E	N	N	N	E R1	E R1	R1 Prohibited Paddington platforms 1, 2 and 4
+Western	0701	GW103	MLN 1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	Hanwell Jn	Heathrow Airport Jn (Down Main)	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	Heathrow Airport Jn (Down Main)	Stockley Bridge Jn (Limit of Electrification)	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	Stockley Bridge Jn (Limit of Electrification)	Slough	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	E	E	E	E	E	E	E	E R1	E R1	R1 Prohibited West Drayton Up / Down Goods line platform
+Western	0701	GW103	MLN 1	Slough	Maidenhead Jn	Slough – Maidenhead Jn	18	36	24	24	E	E	E	E	E	E	E	E R1	E R1	R1 Prohibited Twyford platform 5
+Western	0701	GW103	MLN 1	Maidenhead Jn	Henley Branch Jn	Maidenhead Jn – Henley Branch Jn	24	24	31	04	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	Henley Branch Jn	Reading New Jn	Henley Branch Jn – Reading New Jn	31	04	35	40	E	E	E	E	E	E	E	E	E
+Western	0701	GW103	MLN 1	Reading New Jn	Westbury Line Jn	Reading New Jn – Westbury Line Jn	35	40	36	17	E	E	E	Y	E	E	E	E	E
+Western	0701	GW103	RLL	Reading East Jn	Route Boundary (SW210) (Reading Southern Jn)	Reading East Jn - Route Boundary (SW210) (Reading Southern Jn)	35	61	35	38	N	N	N	E	N	N	N	N	N
+Western	0701	GW103	MLN 1	Westbury Line Jn	Reading West Jn	Westbury Line Jn – Reading West Jn	36	17	36	78	E	E	E	Y	E	E	E	E	E

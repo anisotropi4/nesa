@@ -1,25 +1,22 @@
 Western	0795	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0795	GW834	ABD/ MOA	Cwmbach Change of ELR	Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	6	Y	Y	N	N	N	Y	N	Y
-Western	0795	GW835	THT	End of Line	Treherbert	End of Line – Treherbert	23	69	23	54	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW835	THT	Treherbert	Pontypridd Jn	Treherbert – Pontypridd Jn	23	54	13	04	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW839	CAM	Queen Street South Jn	Cardiff Bay	Queen Street South Jn – Cardiff Bay	0	66	0	02	6	N	N	N	N	N	Y	N	Y
-Western	0795	GW840	RAD	Radyr Jn	Leckwith Loop South Jn	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW840	RAD	Leckwith Loop South Jn	Penarth Curve North Jn	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW840	RAD	Penarth Curve North Jn	Radyr Branch Jn	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW850	CLL	Leckwith Loop South Jn	Leckwith Loop North Jn	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW860	CPL	Penarth Curve North Jn	Penarth Curve South Jn	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW864	PTH	Cogan Jn	Penarth	Cogan Jn – Penarth	0	01	1	12	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW870	VOG	Barry Jn	Bridgend Bay Platform	Barry Jn – Bridgend Bay Platform	0	00	19	04	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW871	FOR	Ford Siding GF	Network Rail Boundary (Ford Works, Waterton)	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW874	BAL	Llynfi Jn	Tondu Jn	Llynfi Jn – Tondu Jn	0	07	2	70	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW874	BAL	Tondu Jn	Maesteg	Tondu Jn – Maesteg	2	70	8	06	6	N	Y	N	N	N	Y	N	Y
-Western	0795	GW877	POR	Tondu Jn	Cefn Jn	Tondu Jn – Cefn Jn	0	00	2	43	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW877	OVE	Cefn Jn	Margam Abbey Works East Jn	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW877	OVE	Margam Abbey Works East Jn	Margam East Jn	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW877	OVE	Margam East Jn	Margam Yard Jn	Margam East Jn – Margam Yard Jn	1	40	0	79	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW877	OVE	Margam Yard Jn	Network Rail Boundary (Port Talbot Docks)	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW890	SDI1	Briton Ferry Up Flying Loop Jn	Dynover Jn	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW890	SDI1	Dynover Jn	Jersey Marine Jn North	Dynover Jn – Jersey Marine Jn North	207	67	208	33	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW890	SDI1	Jersey Marine Jn North	Change of Mileage	Jersey Marine Jn North – Change of Mileage	208	33	208	49	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW890	SDI2	Change of Mileage	Grovesend Colliery Loop Jn	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW890	SDI2	Grovesend Colliery Loop Jn	Morlais Jn	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW637	DAC	St Budeaux Jn	Buffer Stops (Beyond Bere Alston)	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	4	N	R1	N	N	N	N	N	R1	R1 5mph over Tamerton Viaduct (224m 78ch)
+Western	0795	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	4	N	B	N	N	N	N	N	B
+Western	0795	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	4	N	Y	N	N	Y	N	N	Y
+Western	0795	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	4	N	Y	N	N	N	N	N	Y
+Western	0795	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	6	66	4	N	Y	N	N	Y	N	N	Y
+Western	0795	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	4	N	Y	N	N	Y	N	N	Y
+Western	0795	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	8	Y	Y	Y	N	N	Y	Y	Y
+Western	0795	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	7	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW660	NEW	St Blazey Jn	Newquay	St Blazey Jn – Newquay	282	16	302	49	6	R1	B R2	N	N	R2 R3	R2	N	R2	R1 Prohibited between Goonbarrow and Newquay R2 20mph over bridge NEW-28936 (289m 36ch) R3 Trains working to / from a possession, or to assist a failed train in an emergency. Prior permission must be obtained from Network Rail Control
+Western	0795	GW672	SDS	Burngullow Jn	Drinnick Mill	Burngullow Jn – Drinnick Mill	288	26	291	31	6	Y	Y	N	N	N	Y	N	Y
+Western	0795	GW672	SDS	Drinnick Mill	Parkandillack	Drinnick Mill – Parkandillack	291	31	293	52	5	Y	Y	N	N	N	N	N	Y
+Western	0795	GW680	FAL1- 3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	6	N	Y	N	N	N	Y	N	Y
+Western	0795	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	5	N	B	N	N	N	N	N	Y
+Western	0795	GW700	BAG2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW700	SWM2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW700	SWM2	Route Boundary Wales	Severn Tunnel Jn	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW710	NO ELR	Llanwern Works East	Llanwern Works West via BSS (Corus Infrastructure)	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	8	R1	R1	R1	R1	R1	R1	Y	R1	R1 See Sectional Appendix Local Instructions
+Western	0795	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW730	SHL	Severn Bridge Jn	Craven Arms Jn	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW730	SHL	Craven Arms Jn	Shelwick Jn	Craven Arms Jn – Shelwick Jn	20	01	49	26	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0795	GW730	SHL	Shelwick Jn	Site of former Rotherwas Jn	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	8	Y	Y	Y	Y	Y	Y	Y	Y

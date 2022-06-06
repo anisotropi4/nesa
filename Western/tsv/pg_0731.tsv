@@ -1,20 +1,11 @@
-Western	0731	GW105	MLN1	Swindon Jn	Wootton Bassett Jn	Swindon Jn – Wootton Bassett Jn	77	36	83	07	H	N	N	N	Y
-Western	0731	GW105	MLN1	Wootton Bassett Jn	Thingley Jn	Wootton Bassett Jn – Thingley Jn	83	07	96	10	H	N	N	N	N
-Western	0731	GW105	MLN1	Thingley Jn	North Somerset Jn	Thingley Jn – North Somerset Jn	96	10	117	46	H	N	N	N	N
-Western	0731	GW105	MLN1	North Somerset Jn	Feeder Bridge Jn	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	H	N	N	N	N
-Western	0731	GW105	MLN1	Feeder Bridge Jn	Bristol East Jn	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	H	N	N	N	N
-Western	0731	GW105	MLN1	Bristol East Jn	Bristol West Jn	Bristol East Jn – Bristol West Jn	118	02	118	58	H	N	N	N	N
-Western	0731	GW105	MLN1	Bristol West Jn	Parson Street Jn	Bristol West Jn – Parson Street Jn	118	58	120	28	H	N	N	N	N
-Western	0731	GW105	MLN1	Parson Street Jn	Worle Jn	Parson Street Jn – Worle Jn	120	28	135	11	H	N	N	N	N
-Western	0731	GW105	MLN1	Worle Jn	Uphill Jn (direct)	Worle Jn – Uphill Jn (direct)	135	11	138	04	H	N	N	N	N
-Western	0731	GW105	MLN1	Uphill Jn	Fordgate	Uphill Jn – Fordgate	138	04	154	12	H	N	N	N	N
-Western	0731	GW107	WSM	Worle Jn	Uphill Jn via Weston-Super-Mare	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	H	N	N	N	N
-Western	0731	GW108	MLN1	Fordgate	Cogload Jn (Up)	Fordgate – Cogload Jn (Up)	154	12	158	23	H	N	N	N	N
-Western	0731	GW108	MLN1	Cogload Jn (Up)	Norton Fitzwarren Jn (Connection - West Somerset Railway)	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	H	N	N	N	N
-Western	0731	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway)	Cowley Bridge Jn	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	H	N	N	N	N
-Western	0731	GW108	MLN1	Cowley Bridge Jn	Exeter St Davids Jn	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	H	N	N	N	N
-Western	0731	GW108	MLN1	Exeter St Davids Jn	Newton Abbot East Jn	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	H	N	N	N	N
-Western	0731	GW108	MLN1	Newton Abbot East Jn	Newton Abbot West Jn	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	H	N	N	N	N
-Western	0731	GW108	MLN1	Newton Abbot West Jn	Tavistock Jn Yard	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	H	N	N	N	N
-Western	0731	GW108	MLN1	Tavistock Jn Yard	Laira Jn	Tavistock Jn Yard – Laira Jn	242	55	243	67	H	N	N	N	N
-Western	0731	GW108	MLN1	Laira Jn	Lipson Jn	Laira Jn – Lipson Jn	243	67	244	35	H	N	N	N	N
+Western	0731	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N	N	N
+Western	0731	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW940	CAN/ CNW	Up Sidings No.2 GF	Carmarthen Bridge Jn	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW950	PEM	Whitland Jn	Pembroke RA Change	Whitland Jn – Pembroke RA Change	259	01	284	22	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW950	PEM	Pembroke RA Change	Pembroke Dock	Pembroke RA Change – Pembroke Dock	284	22	286	26	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW960	SWM2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW960	SWM2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0731	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N	N	N	N	N
+Western	0731	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N	N	N	N	N

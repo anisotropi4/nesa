@@ -1,12 +1,7 @@
-Western	0827	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0827	GW103	MLN1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	8	R1 R2	R1 Prohibited Paddington platform 6 R2 Prohibited Paddington platform 7
-Western	0827	GW103	MLN1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	8	Y
-Western	0827	GW103	MLN1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	8	Y
-Western	0827	GW103	MLN1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	8	Y
-Western	0827	GW103	MLN1	Hanwell Jn	Heathrow Airport Jn (Down Main)	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	8	Y
-Western	0827	GW103	MLN1	Heathrow Airport Jn (Down Main line)	Stockley Bridge Jn (Limit of Electrification)	Heathrow Airport Jn (Down Main line) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	8	Y
-Western	0827	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification)	Slough	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	8	Y
-Western	0827	GW103	MLN1	Slough	Maidenhead Jn	Slough – Maidenhead Jn	18	36	24	24	8	Y
-Western	0827	GW103	MLN1	Maidenhead Jn	Henley Branch Jn	Maidenhead Jn – Henley Branch Jn	24	24	31	04	8	Y
-Western	0827	GW103	MLN1	Henley Branch Jn	Reading New Jn	Henley Branch Jn – Reading New Jn	31	04	35	40	8	Y
-Western	0827	GW103	MLN1	Reading New Jn	Westbury Line Jn	Reading New Jn – Westbury Line Jn	35	40	36	17	8	R1	R1 Prohibited Reading platform 7 (Down Main line)
+Western	0827	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+Western	0827					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
+Western	0827	GW900	Pilning – Severn Tunnel Junction(s)	Pilning	Severn Tunnel Junction(s)	Y *	Y	Y	N	N	N	N	N
+Western	0827	GW900	Severn Tunnel Junction – Maindee West Jn	Severn Tunnel Junction	Maindee West Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA IDA wagons
+Western	0827	GW900	Maindee West Jn – Cardiff East Jn	Maindee West Jn	Cardiff East Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA wagons ALL LINES 2896(h) x 2500(w) on IDA wagons Newport New Tunnel Only
+Western	0827	GW900	Cardiff East Jn – Court Sart Jn / Up Flying Loop Jn	Cardiff East Jn	Court Sart Jn / Up Flying Loop Jn	Y *	Y	Y	N	N	N	N	N
+Western	0827	GW900	Court Sart Jn / Up Flying Loop Jn – Llandore Jn	Court Sart Jn / Up Flying Loop Jn	Llandore Jn	Y *	N	N	N	N	N	N	N

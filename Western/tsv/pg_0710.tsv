@@ -1,22 +1,20 @@
-Western	0710	GW871	FOR	Ford Siding GF	Network Rail Boundary (Ford Works, Waterton)	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	N	N	N	N	N	N	N	N	N
-Western	0710	GW874	BAL	Llynfi Jn	Tondu Jn	Llynfi Jn – Tondu Jn	0	07	2	70	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW874	BAL	Tondu Jn	Maesteg	Tondu Jn – Maesteg	2	70	8	06	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW877	POR	Tondu Jn	Cefn Jn	Tondu Jn – Cefn Jn	0	00	2	43	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW877	OVE	Cefn Jn	Margam Abbey Works East Jn	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW877	OVE	Margam Abbey Works East Jn	Margam East Jn	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	N	N	N	N	N	N	N	N	N
-Western	0710	GW877	OVE	Margam East Jn	Margam Yard Jn	Margam East Jn – Margam Yard Jn	1	40	0	79	N	N	N	N	N	N	N	N	N
-Western	0710	GW877	OVE	Margam Yard Jn	Network Rail Boundary (Port Talbot Docks)	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	N	N	N	N	N	N	N	N	N
-Western	0710	GW890	SDI1	Briton Ferry Up Flying Loop Jn	Dynover Jn	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW890	SDI1	Dynover Jn	Jersey Marine Jn North	Dynover Jn – Jersey Marine Jn North	207	67	208	33	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW890	SDI1	Jersey Marine Jn North	Change of Mileage	Jersey Marine Jn North – Change of Mileage	208	33	208	49	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW890	SDI2	Change of Mileage	Grovesend Colliery Loop Jn	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW890	SDI2	Grovesend Colliery Loop Jn	Morlais Jn	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW8901	RSB	Dynevor Jn	Jersey Marine South Jn	Dynevor Jn – Jersey Marine South Jn	19	16	20	24	N	N	N	N	N	N	N	N	N
-Western	0710	GW892	VON	Network Rail Boundary (Cwmgwrach)	Neath & Brecon Jn	Network Rail Boundary (Cwmgwrach) – Neath & Brecon Jn	33	14	41	17	N	N	N	N	N	N	N	N	N
-Western	0710	GW892	VON	Neath & Brecon Jn	Burrows Sidings	Neath & Brecon Jn – Burrows Sidings	41	17	46	30	N	N	N	N	N	N	N	N	N
-Western	0710	GW893	NAB	Network Rail Boundary (Onllwyn)	Neath and Brecon Jn	Network Rail Boundary (Onllwyn) – Neath and Brecon Jn	10	10	0	01	N	N	N	N	N	N	N	N	N
-Western	0710	GW894	JER	Jersey Marine Jn North	Jersey Marine Jn South	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	N	N	N	N	N	N	N	N	N
-Western	0710	GW897	HDY	Grovesend Colliery Loop Jn	Hendy Jn	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW900	BSW	Ableton Lane Tunnel	Severn Tunnel Jn	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW900	SWM 2	Severn Tunnel Jn	Maindee West Jn	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW900	SWM 2	Maindee West Jn	Cardiff East Jn	Maindee West Jn – Cardiff East Jn	158	16	170	18	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW660	NEW	St Blazey Jn	Newquay	St Blazey Jn – Newquay	282	16	302	49	E	N	N	Y	Y	N	N	N	N
+Western	0710	GW672	SDS	Burngullow Jn	Drinnick Mill	Burngullow Jn – Drinnick Mill	288	26	291	31	N	N	N	N	N	N	N	N	N
+Western	0710	GW672	SDS	Drinnick Mill	Parkandillack	Drinnick Mill – Parkandillack	291	31	293	52	N	N	N	N	N	N	N	N	N
+Western	0710	GW680	FAL1 -3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	E	N	N	Y	Y	N	N	Y	Y
+Western	0710	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	E	N	N	Y	Y	N	N	Y	R1
+Western	0710	GW700	BAG 2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0710	GW700	SWM 2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW700	SWM 2	Route Boundary Wales	Severn Tunnel Jn	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW710	NO ELR	Llanwern Works East	Llanwern Works West via BSS (Corus Infrastructure)	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	N	N	N	N	N	N	N	N	N
+Western	0710	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	N	N	N	N	N	N	N	N	N
+Western	0710	GW730	SHL	Severn Bridge Jn	Craven Arms Jn	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	E	R1	R1	Y	Y	Y	Y	Y	Y	R1 Prohibited between Severn Bridge Jn and Sutton Bridge Jn
+Western	0710	GW730	SHL	Craven Arms Jn	Shelwick Jn	Craven Arms Jn – Shelwick Jn	20	01	49	26	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW730	SHL	Shelwick Jn	Site of former Rotherwas Jn	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW730	HDC	Site of former Rotherwas Jn	Site of former Red Hill Jn	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW730	HNL1	Site of former Red Hill Jn	Maindee West Jn	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0710	GW731	WSJ 2	Route Boundary (MD801) (Madeley Jn)	Abbey Foregate Jn	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	E	N	N	Y	Y	Y	Y	Y	Y
+Western	0710	GW731	WSJ 2	Abbey Foregate Jn	Crewe Jn	Abbey Foregate Jn – Crewe Jn	171	15	171	57	E	R1 R2	R1 R2	Y	Y	Y	Y	Y	Y	R1 Prohibited between Abbey Foregate Jn and Shrewsbury R2 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)
+Western	0710	GW731	WSJ 2	Crewe Jn	Route Boundary (NW3005) (Wrexham General)	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	E	E	E	Y	Y	Y	Y	Y	Y
+Western	0710	GW732	AFE	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	E	N	N	Y	Y	Y	Y	Y	Y
+Western	0710	GW733	SBA1 /2	Sutton Bridge Jn	Welshpool	Sutton Bridge Jn – Welshpool	0	00	33	70	E	N	N	N	N	N	N	Y	Y

@@ -1,22 +1,24 @@
-Western	0785	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0785	GW103	MLN1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Hanwell Jn	Heathrow Airport Jn (Down Main)	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Heathrow Airport Jn (Down Main)	Stockley Bridge Jn (Limit of Electrification)	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification)	Slough	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Slough	Maidenhead Jn	Slough – Maidenhead Jn	18	36	24	24	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Maidenhead Jn	Henley Branch Jn	Maidenhead Jn – Henley Branch Jn	24	24	31	04	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Henley Branch Jn	Reading New Jn	Henley Branch Jn – Reading New Jn	31	04	35	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Reading New Jn	Westbury Line Jn	Reading New Jn – Westbury Line Jn	35	40	36	17	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	RLL	Reading East Jn	Route Boundary (SW210 ) (Reading Southern Jn)	Reading East Jn – Route Boundary (SW210 ) (Reading Southern Jn)	35	61	35	38	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Westbury Line Jn	Reading West Jn	Westbury Line Jn – Reading West Jn	36	17	36	78	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Reading West Jn	Didcot East Jn	Reading West Jn – Didcot East Jn	36	78	52	66	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Didcot East Jn	Chester Line Jn	Didcot East Jn – Chester Line Jn	52	66	53	12	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Chester Line Jn	Foxhall Jn	Chester Line Jn – Foxhall Jn	53	12	53	55	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW103	MLN1	Foxhall Jn	Uffington	Foxhall Jn – Uffington	53	55	66	39	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 120mph maximum speed between Swindon and Didcot (Up Main 64m 70ch to 63m 40ch)
-Western	0785	GW105	MLN1	Uffington	Swindon Jn	Uffington – Swindon Jn	66	39	77	36	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW105	MLN1	Swindon Jn	Wootton Bassett Jn	Swindon Jn – Wootton Bassett Jn	77	36	83	07	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW105	MLN1	Wootton Bassett Jn	Thingley Jn	Wootton Bassett Jn – Thingley Jn	83	07	96	10	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0785	GW105	MLN1	Thingley Jn	North Somerset Jn	Thingley Jn – North Somerset Jn	96	10	117	46	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	59	Notes
+Western	0785	GW840	RAD	Leckwith Loop South Jn	Penarth Curve North Jn	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW840	RAD	Penarth Curve North Jn	Radyr Branch Jn	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW850	CLL	Leckwith Loop South Jn	Leckwith Loop North Jn	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW860	CPL	Penarth Curve North Jn	Penarth Curve South Jn	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW864	PTH	Cogan Jn	Penarth	Cogan Jn – Penarth	0	01	1	12	6	Y	Y	N	Y	N	N	N	N
+Western	0785	GW870	VOG	Barry Jn	Bridgend Bay Platform	Barry Jn – Bridgend Bay Platform	0	00	19	04	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW871	FOR	Ford Siding GF	Network Rail Boundary (Ford Works, Waterton)	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	8	N	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW874	BAL	Llynfi Jn	Tondu Jn	Llynfi Jn – Tondu Jn	0	07	2	70	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW874	BAL	Tondu Jn	Maesteg	Tondu Jn – Maesteg	2	70	8	06	6	N	Y	Y	Y	N	N	N	N
+Western	0785	GW877	POR	Tondu Jn	Cefn Jn	Tondu Jn – Cefn Jn	0	00	2	43	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW877	OVE	Cefn Jn	Margam Abbey Works East Jn	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW877	OVE	Margam Abbey Works East Jn	Margam East Jn	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW877	OVE	Margam East Jn	Margam Yard Jn	Margam East Jn – Margam Yard Jn	1	40	0	79	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW877	OVE	Margam Yard Jn	Network Rail Boundary (Port Talbot Docks)	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	6	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW890	SDI1	Briton Ferry Up Flying Loop Jn	Dynover Jn	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW890	SDI1	Dynover Jn	Jersey Marine Jn North	Dynover Jn – Jersey Marine Jn North	207	67	208	33	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW890	SDI1	Jersey Marine Jn North	Change of Mileage	Jersey Marine Jn North – Change of Mileage	208	33	208	49	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW890	SDI2	Change of Mileage	Grovesend Colliery Loop Jn	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW890	SDI2	Grovesend Colliery Loop Jn	Morlais Jn	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW890 1	RSB	Dynevor Jn	Jersey Marine South Jn	Dynevor Jn – Jersey Marine South Jn	19	16	20	24	6	N	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW892	VON	Network Rail Boundary (Cwmgwrach)	Neath & Brecon Jn	Network Rail Boundary (Cwmgwrach) – Neath & Brecon Jn	33	14	41	17	6	N	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW892	VON	Neath & Brecon Jn	Burrows Sidings	Neath & Brecon Jn – Burrows Sidings	41	17	46	30	6	N	Y	Y	Y	Y	Y	Y	Y
+Western	0785	GW893	NAB	Network Rail Boundary (Onllwyn)	Neath and Brecon Jn	Network Rail Boundary (Onllwyn) – Neath and Brecon Jn	10	10	0	01	6	N	Y	Y	Y	Y	Y	Y	Y

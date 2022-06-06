@@ -1,11 +1,19 @@
-Western	0714	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	165	166 RHM	168	170	171	172	175	180	220	221	222	Notes
-Western	0714	GW103	MLN1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	R1	Y	Y	N	N	R2 R3	Y	Y	R4	R4	R5	R1 10 mph Kensal Green CSP Carriage lines 1 and 2 when laden R2 Prohibited Paddington platform 2 R3 15mph Paddington platform 4 R4 100mph maximum speed R5 Prohibited between Paddington and Kensal Green
-Western	0714	GW103	MLN1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	Y	Y	Y	N	N	Y	Y	Y	R1	R1	Y	R1 100mph maximum speed
-Western	0714	GW103	MLN1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	Y	Y	Y	N	Y	Y	Y	Y	R1	R1	Y	R1 100mph maximum speed
-Western	0714	GW103	MLN1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	Y	Y	Y	N	Y	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0714	GW103	MLN1	Hanwell Jn	Heathrow Airport Jn (Down Main)	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	Y	Y	Y	N	N	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0714	GW103	MLN1	Heathrow Airport Jn (Down Main)	Stockley Bridge Jn (Limit of Electrification)	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	Y	Y	Y	N	N	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0714	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification)	Slough	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	Y	Y	Y	N	N	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0714	GW103	MLN1	Slough	Maidenhead Jn	Slough – Maidenhead Jn	18	36	24	24	Y	Y	Y	N	N	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0714	GW103	MLN1	Maidenhead Jn	Henley Branch Jn	Maidenhead Jn – Henley Branch Jn	24	24	31	04	Y	Y	Y	N	N	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0714	GW103	MLN1	Henley Branch Jn	Reading New Jn	Henley Branch Jn – Reading New Jn	31	04	35	40	Y	Y	Y	N	N	R1	Y	Y	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0714	GW900	SWM 2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	SWM 2	Cardiff West Jn	Court Sart Jn	Cardiff West Jn – Court Sart Jn	170	56	206	58	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	SWM 2	Court Sart Jn	Llandore Jn	Court Sart Jn – Llandore Jn	206	58	214	62	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	SWM 2	Llandore Jn	Llandeilo Jn	Llandore Jn – Llandeilo Jn	214	62	223	49	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	SWM 2	Llandeilo Jn	Carmarthen Bridge Jn	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	SWM 2	Carmarthen Bridge Jn	Whitland Jn	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	SWM 2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW910	CWL 1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW910	CWL 2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	E	Y	Y	Y	Y	Y	R1 R2	E	E	R1 Prohibited between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
+Western	0714	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	E	Y	Y	Y	Y	Y	N	E	E
+Western	0714	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	E	Y	Y	Y	Y	Y	N	E R1	E R1	R1 5mph Ffairfach platform
+Western	0714	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	E	Y	Y	Y	Y	Y	N	Y	Y
+Western	0714	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0714	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N
+Western	0714	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N

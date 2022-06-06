@@ -1,24 +1,30 @@
 Western	0759	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
-Western	0759	GW900	SWM 2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	Y	Y	Y	N	N	N	N
-Western	0759	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	Y	Y	Y	N	N	N	N
-Western	0759	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	Y	Y	Y	N	N	N	N
-Western	0759	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	Y	Y	Y	N	N	N	N
-Western	0759	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	Y	Y	Y	N	N	N	N
-Western	0759	GW910	CWL1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	Y	Y	Y	N	N	N	N
-Western	0759	GW910	CWL2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	Y	Y	Y	N	N	N	N
-Western	0759	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	Y	Y	R1	N	N	N	N	R1 5mph through Llandovery Platforms
-Western	0759	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	Y	Y	Y	N	N	N	N
-Western	0759	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	Y	Y	Y	N	N	N	N
-Western	0759	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	Y	Y	Y	N	N	N	N
-Western	0759	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N
-Western	0759	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N
-Western	0759	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	Y	Y	Y	N	N	R1	N	R1 Prohibited between Camarthen Station and End of Line
-Western	0759	GW940	CAN/ CNW	Up Sidings No.2 GF	Carmarthen Bridge Jn	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	Y	Y	Y	N	N	N	N
-Western	0759	GW950	PEM	Whitland Jn	Pembroke RA Change	Whitland Jn – Pembroke RA Change	259	01	284	22	Y	Y	Y	N	N	N	N
-Western	0759	GW950	PEM	Pembroke RA Change	Pembroke Dock	Pembroke RA Change – Pembroke Dock	284	22	286	26	Y	Y	Y	N	N	N	N
-Western	0759	GW960	SWM 2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	Y	Y	Y	N	N	N	N
-Western	0759	GW960	SWM 2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	Y	Y	Y	N	N	N	N
-Western	0759	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	Y	Y	Y	N	N	N	N
-Western	0759	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	Y	Y	Y	N	N	N	N
-Western	0759	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N
-Western	0759	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N
+Western	0759	GW820	PTA	Site of Former Penallta Jn	Ystrad Mynach South Jn	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	N	N	N	N	N	N	N
+Western	0759	GW828	CRY	Coryton	Heath Jn	Coryton – Heath Jn	2	57	0	15	Y	Y	N	N	N	N	N
+Western	0759	GW830	CAM	Merthyr Tydfil	Abercynon Jn	Merthyr Tydfil – Abercynon Jn	24	44	16	35	Y	Y	N	N	N	N	N
+Western	0759	GW830	CAM	Abercynon Jn	Pontypridd Jn	Abercynon Jn – Pontypridd Jn	16	35	13	04	Y	Y	N	N	N	N	N
+Western	0759	GW830	CAM	Pontypridd Jn	Radyr Jn	Pontypridd Jn – Radyr Jn	13	04	5	23	Y	Y	N	N	N	N	N
+Western	0759	GW830	CAM	Radyr Jn	Queen Street North Jn	Radyr Jn – Queen Street North Jn	5	23	1	17	Y	Y	N	N	N	N	N
+Western	0759	GW830	CAM	Queen Street North Jn	Queen Street South Jn	Queen Street North Jn – Queen Street South Jn	1	17	0	66	Y	Y	N	N	N	N	N
+Western	0759	GW830	CEJ	Queen Street South Jn	Cardiff East Jn	Queen Street South Jn – Cardiff East Jn	0	22	0	00	Y	Y	N	N	N	N	N
+Western	0759	GW830	SWM 2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	Y	Y	Y	N	N	N	N
+Western	0759	GW830	BRY	Cardiff West Jn	Barry Jn	Cardiff West Jn – Barry Jn	0	10	8	16	Y	Y	Y	N	N	N	N
+Western	0759	GW830	BRY	Barry Jn	Buffer Stops (Barry Island)	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	Y	Y	Y	N	N	N	N
+Western	0759	GW834	VON	Network Rail Boundary	Aberdare	Network Rail Boundary – Aberdare	26	62	22	34	Y	Y	N	N	N	N	N
+Western	0759	GW834	VON/ ALK	Aberdare	Cwmbach Change of ELR	Aberdare – Cwmbach Change of ELR	22	34	20	68	Y	Y	N	N	N	N	N
+Western	0759	GW834	ABD/ MOA	Cwmbach Change of ELR	Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	Y	Y	N	N	N	N	N
+Western	0759	GW835	THT	End of Line	Treherbert	End of Line – Treherbert	23	69	23	54	Y	Y	N	N	N	N	N
+Western	0759	GW835	THT	Treherbert	Pontypridd Jn	Treherbert – Pontypridd Jn	23	54	13	04	Y	Y	N	N	N	N	N
+Western	0759	GW839	CAM	Queen Street South Jn	Cardiff Bay	Queen Street South Jn – Cardiff Bay	0	66	0	02	Y	Y	N	N	N	N	N
+Western	0759	GW840	RAD	Radyr Jn	Leckwith Loop South Jn	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	Y	Y	Y	N	N	N	N
+Western	0759	GW840	RAD	Leckwith Loop South Jn	Penarth Curve North Jn	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	Y	Y	Y	N	N	N	N
+Western	0759	GW840	RAD	Penarth Curve North Jn	Radyr Branch Jn	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	Y	Y	Y	N	N	N	N
+Western	0759	GW850	CLL	Leckwith Loop South Jn	Leckwith Loop North Jn	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	Y	Y	Y	N	N	N	N
+Western	0759	GW860	CPL	Penarth Curve North Jn	Penarth Curve South Jn	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	Y	Y	Y	N	N	N	N
+Western	0759	GW864	PTH	Cogan Jn	Penarth	Cogan Jn – Penarth	0	01	1	12	Y	Y	Y	N	N	N	N
+Western	0759	GW870	VOG	Barry Jn	Bridgend Bay Platform	Barry Jn – Bridgend Bay Platform	0	00	19	04	Y	Y	Y	N	N	N	N
+Western	0759	GW871	FOR	Ford Siding GF	Network Rail Boundary (Ford Works, Waterton)	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	N	N	N	N	N	N	N
+Western	0759	GW874	BAL	Llynfi Jn	Tondu Jn	Llynfi Jn – Tondu Jn	0	07	2	70	Y	Y	Y	N	N	N	N
+Western	0759	GW874	BAL	Tondu Jn	Maesteg	Tondu Jn – Maesteg	2	70	8	06	Y	Y	N	N	N	N	N
+Western	0759	GW877	POR	Tondu Jn	Cefn Jn	Tondu Jn – Cefn Jn	0	00	2	43	Y	Y	Y	N	N	N	N
+Western	0759	GW877	OVE	Cefn Jn	Margam Abbey Works East Jn	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	Y	Y	Y	N	N	N	N

@@ -1,14 +1,23 @@
-Western	0730	GW103	MLN1	Hanwell Jn	Heathrow Airport Jn (Down Main)	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	H	Y	Y	R1	R2 R3 R4 R5 R6	R1 Route prohibited to Class 360/1 R2 Prohibited Hanwell Bridge Up and Down Goods Loops R3 Prohibited Southall Down East Sidings R4 Prohibited West Siding Southall West Jn R5 Prohibited Hayes Up Sidings R6 100mph maximum speed
-Western	0730	GW103	MLN1	Heathrow Airport Jn (Down Main)	Stockley Bridge Jn (Limit of Electrification)	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	H	N	Y	N	R1	R1 100mph maximum speed
-Western	0730	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification)	Slough	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	H	N	Y	N	R1	R1 Prohibited Langley Sidings
-Western	0730	GW103	MLN1	Slough	Maidenhead Jn	Slough – Maidenhead Jn	18	36	24	24	H	N	R1	N	R2 R3	R1 Prohibited Maidenhead platforms 1 and 4 with crush deflated suspension R2 Prohibited Slough Up Goods Loop and Estate Sidings R3 Prohibited with air bags deflated / failed secondary suspension Maidenhead platform 4
-Western	0730	GW103	MLN1	Maidenhead Jn	Henley Branch Jn	Maidenhead Jn – Henley Branch Jn	24	24	31	04	H	N	Y	N	R1	R1 Prohibitied Twyford platform 2 in crush deflated
-Western	0730	GW103	MLN1	Henley Branch Jn	Reading New Jn	Henley Branch Jn – Reading New Jn	31	04	35	40	H	N	Y	N	R1	R1 Prohibitied Twyford platform 2 in crush deflated
-Western	0730	GW103	MLN1	Reading New Jn	Westbury Line Jn	Reading New Jn – Westbury Line Jn	35	40	36	17	H	N	R1	N	Y	R1 Prohibited Reading platform 12 with deflated suspension
-Western	0730	GW103	RLL	Reading East Jn	Route Boundary (SW210) (Reading Southern Jn)	Reading East Jn – Route Boundary (SW210) (Reading Southern Jn)	35	61	35	38	N	N	N	N	N
-Western	0730	GW103	MLN1	Westbury Line Jn	Reading West Jn	Westbury Line Jn – Reading West Jn	36	17	36	78	H	N	Y	N	R1	R1 Prohibited Reading West Jn Sidings
-Western	0730	GW103	MLN1	Reading West Jn	Didcot East Jn	Reading West Jn – Didcot East Jn	36	78	52	66	H	N	R1 R2	N	R3	R1 Prohibited Tilehurst to Didcot East Jn R2 20mph Tilehurst platform 1 Down Main line R3 Prohibited Reading West Jn Sidings
-Western	0730	GW103	MLN1	Didcot East Jn	Chester Line Jn	Didcot East Jn – Chester Line Jn	52	66	53	12	H	N	N	N	Y
-Western	0730	GW103	MLN1	Chester Line Jn	Foxhall Jn	Chester Line Jn – Foxhall Jn	53	12	53	55	H	N	N	N	Y
-Western	0730	GW103	MLN1	Foxhall Jn	Uffington	Foxhall Jn – Uffington	53	55	66	39	H	N	N	N	Y
-Western	0730	GW105	MLN1	Uffington	Swindon Jn	Uffington – Swindon Jn	66	39	77	36	H	N	N	N	Y
+Western	0730	GW894	JER	Jersey Marine Jn North	Jersey Marine Jn South	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	N	N	N	N	N	N	N	N	N	N	N
+Western	0730	GW897	HDY	Grovesend Colliery Loop Jn	Hendy Jn	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	N	N	N	N	N	N	N	N	N	N	N
+Western	0730	GW900	BSW	Ableton Lane Tunnel	Severn Tunnel Jn	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	N	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0730	GW900	SWM2	Severn Tunnel Jn	Maindee West Jn	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	N	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0730	GW900	SWM2	Maindee West Jn	Cardiff East Jn	Maindee West Jn – Cardiff East Jn	158	16	170	18	N	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0730	GW900	SWM2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	N	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0730	GW900	SWM2	Cardiff West Jn	Court Sart Jn	Cardiff West Jn – Court Sart Jn	170	56	206	58	N	R1	N	R2	N	N	Y	Y	Y	Y	N	R2 ECS only Bridgend River Bridge Crossover (193mch) to Court Sart Jn
+Western	0730	GW900	SWM2	Court Sart Jn	Llandore Jn	Court Sart Jn – Llandore Jn	206	58	214	62	N	N	N	E	N	N	Y	Y	Y	Y	N
+Western	0730	GW900	SWM2	Llandore Jn	Llandeilo Jn	Llandore Jn – Llandeilo Jn	214	62	223	49	N	N	N	E R1	N	N	Y	Y	N	N	N	Prohibited between Swansea Loop West Jn (216mch) and Llandeilo Jn
+Western	0730	GW900	SWM2	Llandeilo Jn	Carmarthen Bridge Jn	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW900	SWM2	Carmarthen Bridge Jn	Whitland Jn	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW900	SWM2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	N	N	N	E R1	N	N	Y	Y	Y	Y	N	Prohibited between Crossover (Down Sidings 215m 62ch) and Swansea
+Western	0730	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	N	N	N	E R1	N	N	Y	Y	N	N	N	Prohibited between Crossover (Down Sidings 215m 62ch) and Swansea
+Western	0730	GW910	CWL1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	Y	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW910	CWL2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	R1 R2	N	N	N	N	N	Y	Y	N	N	N	R1 Prohibited Between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
+Western	0730	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	N	N	N	N	N	N	Y	R1	N	N	N	R1 Prohibited Llandovery Down platform
+Western	0730	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	N	N	N	N	N	N	Y	Y	N	N	N
+Western	0730	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N	N	N

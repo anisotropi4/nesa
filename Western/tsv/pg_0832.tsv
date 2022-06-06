@@ -1,23 +1,25 @@
 Western	0832	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0832	GW480	SWM1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	8	R1	R1 Prohibtied from the 'Cirencester' bay platform/siding at Kemble Station
-Western	0832	GW490	SWM2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	8	Y
-Western	0832	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	8	Y
-Western	0832	GW500	BKE	Oxford Road Jn	Southcote Jn	Oxford Road Jn – Southcote Jn	36	67	37	62	8	Y
-Western	0832	GW500	BKE	Southcote Jn	Route Boundary (SW125) (Basingstoke)	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	8	Y
-Western	0832	GW500	BHL	Southcote Jn	Change of ELR	Southcote Jn – Change of ELR	37	62	81	19	8	Y
-Western	0832	GW500	SWY	Change of ELR	Heywood Road Jn (Change of ELR)	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	8	Y
-Western	0832	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding lines)	94	44	97	02	8	Y
-Western	0832	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	8	Y
-Western	0832	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	8	Y
-Western	0832	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	8	Y
-Western	0832	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	6	Y
-Western	0832	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	8	Y
-Western	0832	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	8	Y
-Western	0832	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	8	Y
-Western	0832	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	8	R1 R2	R1 Prohibited through Dundas Aqueduct (Down Trowbridge line) R2 Prohibited through Dundas Aqueduct (Up Trowbridge line)
-Western	0832	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	8	Y
-Western	0832	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	8	Y
-Western	0832	GW528	BRL	North Somerset Jn	Bristol West Jn via St. Philips Marsh	North Somerset Jn – Bristol West Jn via St. Philips Marsh	0	00	1	08	8	Y
-Western	0832	GW530	BLL	Feeder Bridge Jn	Dr. Day's Jn (Rhubarb Loop)	Feeder Bridge Jn – Dr. Day's Jn (Rhubarb Loop)	117	50	117	73	8	Y
-Western	0832	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	8	Y
-Western	0832	GW5401	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	7	Y
+Western	0832	GW108	MLN1	Lipson Jn	Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	Lipson Jn – Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	244	35	246	15	8	Y
+Western	0832	GW108	MLN2	Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	St Budeaux Jn	Change of ELR (Site of Former Devonport Jn / Cornwall Loop) – St Budeaux Jn	247	28	250	00	8	Y
+Western	0832	GW108	MLN2	St Budeaux Jn	Change of ELR	St Budeaux Jn – Change of ELR	250	00	256	38	8	Y
+Western	0832	GW108	MLN3	Change of ELR	Liskeard Jn	Change of ELR – Liskeard Jn	256	40	264	66	8	R1	R1 Prohibited at Lostwithiel Signal Box on the Down Main line
+Western	0832	GW108	MLN3	Liskeard Jn	Lostwithiel Jn	Liskeard Jn – Lostwithiel Jn	264	66	277	54	8	Y
+Western	0832	GW108	MLN3	Lostwithiel Jn	Par Loop Jn	Lostwithiel Jn – Par Loop Jn	277	54	281	57	8	Y
+Western	0832	GW108	MLN3	Par Loop Jn	Burngullow Jn	Par Loop Jn – Burngullow Jn	281	57	288	26	8	Y
+Western	0832	GW108	MLN3	Burngullow Jn	Penwithers Jn	Burngullow Jn – Penwithers Jn	288	26	301	25	7	Y
+Western	0832	GW108	MLN3	Penwithers Jn	Change of ELR	Penwithers Jn – Change of ELR	301	25	305	65	7	Y
+Western	0832	GW108	MLN4	Change of ELR	St Erth Jn	Change of ELR – St Erth Jn	305	67	320	73	7	Y
+Western	0832	GW108	MLN4	St Erth Jn	Penzance	St Erth Jn – Penzance	320	73	326	50	7	R1	R1 Prohibited Penzance platform 4
+Western	0832	GW110	ANL	Old Oak Common West	Greenford East Jn	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y
+Western	0832	GW110	ANL	Greenford East Jn	Greenford West Jn	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y
+Western	0832	GW110	ANL	Greenford West Jn	Route Boundary (MD705) (Northolt Jn)	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y
+Western	0832	GW117	GEC	Greenford East Jn	Greenford South Jn	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y
+Western	0832	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn)	Acton East Jn	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	8	Y
+Western	0832	GW174	WEL1	West Ealing Jn	Drayton Green Jn	West Ealing Jn – Drayton Green Jn	6	56	7	03	8	Y
+Western	0832	GW174	WEL1	Drayton Green Jn	Greenford South Jn	Drayton Green Jn – Greenford South Jn	7	03	8	45	8	Y
+Western	0832	GW174	WEL1	Greenford South Jn	Greenford LUL Bay Jn	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	8	Y
+Western	0832	GW174	WEL1	Greenford LUL Bay Jn	Greenford West Jn	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	8	Y
+Western	0832	GW175	WEL2	Greenford LUL Bay Jn	Greenford Station	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	8	Y
+Western	0832	GW176	HAN	Hanwell Jn	Drayton Green Jn	Hanwell Jn – Drayton Green Jn	0	00	0	36	8	Y
+Western	0832	GW178	BRB	Southall	Brentford Goods	Southall – Brentford Goods	0	00	2	70	8	Y
+Western	0832	GW180	HLL	Heathrow Airport Jn (Up and Down Main)	NR Boundary (BAA)	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	8	N
