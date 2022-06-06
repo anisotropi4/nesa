@@ -4,48 +4,49 @@
 
 
                                                                 Scotland Route Sectional Appendix Module SCRC
-Line of   ELR    Line of Route / Sector               oo   oo    oo    oo    RA Loco Gauge Notes
-route            Description                          oo   oo    oo    oo    000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                                      M    Ch    M     Ch
-SC163     SUB1   Portobello – Change of ELR            3   30      4    00   10          Y
-SC163     SUB2   Change of ELR – Niddrie West          6   69      6    30   10          Y
-SC165     MHY    Niddrie South Jn – Niddrie West Jn    7   06      6    30   10          Y
-SC165     SUB2   Niddrie West Jn – Gorgie Jn           6   30      0    45   10          Y
-SC165     GGE    Gorgie Jn – Haymarket West Jn         0   00      0    41   10          Y
-SC167     CKT    Craiglockhart Jn – Slateford Jn       0   00      0    48   10          Y
-SC169     SUB2   Gorgie Jn – Haymarket Central Jn      0   45      0    11   10          Y
-SC171     ECM9   Waverley East End – Edinburgh         0   21      0    00   10          Y
-                 Waverley
-SC171     EGM4   Edinburgh Waverley – Waverley West    0   00      0    15   10          Y
-                 End (South lines)
-SC171     ECN1   Edinburgh Waverley – Waverley West    0   00      0    15   10          Y
-                 End (North lines)
-SC171     EGM3   Waverley West End – Haymarket         0   15      1    19   10          Y
-                 (South Lines)
-SC171     ECN2   Waverley West End – Haymarket         0   15      1    19   10          Y
-                 (North lines)
-SC171     EGM2   Haymarket – Haymarket East Jn        46   02     45    72   10          Y
-                 (South lines)
-SC171     ECN2   Haymarket – Haymarket East Jn         1   19      1    29   10          Y
-                 (North lines)
-SC171     EGM2   Haymarket East Jn – Haymarket        45   72     45    35   10          Y
-                 Central Jn (South lines)
-SC171     ECN2   Haymarket East Jn – Haymarket         1   29      1    66   10          Y
-                 Central Jn (North lines)
-SC171     EGM2   Haymarket Central Jn – Haymarket     45   35     44    73   10          Y
-                 West Jn (South lines)
-SC171     ECN2   Haymarket Central Jn – Haymarket      1   66      2    41   10          Y
-                 West Jn (North lines)
-SC171     ECN2   Haymarket West Jn – Dundee Central    2   41     58    69   8          R1     R1   Prohibited through Kinghorn Tunnel on the Up line
-                 Jn                                                                     R2     R2   Prohibited between Cupar and Leuchars on the Down line
-                                                                                        R3     R3   Prohibited between Cupar and Leuchars on the Up line
-                                                                                        R4     R4   Prohibited between Tay Bridge South and Dundee Central Jn on the
-                                                                                                    Up line
-SC171     ECN2 Dundee Central Jn – Dundee             58   69     59    14   8           Y
-SC173     CWH1 Inverkeithing Central Jn – Change of   13   21     22    76   8           Y
-               ELR (Cowdenbeath)
+Line of   ELR    Line of Route / Sector              oo    oo    oo    oo    RA Loco Gauge Notes
+route            Description                         oo    oo    oo    oo    000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                                     M     Ch    M     Ch
+SC059     LYE  Cook St – High St Line (Smithy Lye     0    00      0    44   8           Y
+               through line)
+SC059     AYR1 Cook St – Shields Jn                   0    19      1    00   8           Y
+SC059     AYR1 Shields Jn – Change of ELR (Paisley    1    00      6    53   10          Y
+               Gilmour Street)
+SC059     AYR2 Change of ELR (Paisley Gilmour         6    73      7    00   10          Y
+               Street) – Change of ELR (Brown
+               Street crossover)
+SC059     AYR3 Change of ELR (Brown Street            7    00     23    00   10          Y
+               crossover) – Change of ELR (Dalry)
+SC059     AYR4 Change of ELR (Dalry) – Change of      23   00     33    08   10          Y
+               ELR (Barassie Jn)
+SC059     AYR5 Change of ELR (Barassie Jn) –          0    00      2    15   10          Y
+               Change of ELR (Between Troon and
+               Prestwick International Airport)
+SC059     AYR6 Change of ELR (Between Troon and       35   05     38    73   10          Y
+               Prestwick International Airport) –
+               Falkland Jn
+SC059     AYR6 Falkland Jn – Ayr                      38   73     40    49   8           Y
+SC059     STR1 Ayr – Dalrymple Jn                     40   49     43    53   8           Y
+SC059     STR1 Dalrymple Jn – Change of ELR           43   53     61    60   5           N
+               (Girvan)
+SC059     STR2 Change of ELR (Girvan) – Change of     0    00     30    67   5           Y
+               ELR (Betweeen Challoch LC and
+               Dunragit SB & LC)
+SC059     STR3 Change of ELR (Betweeen Challoch       46   54     53    05   5           Y
+               LC and Dunragit SB & LC) – Change
+               of ELR (Stranraer Yard GF)
+SC059     STR4 Change of ELR (Stranraer Yard GF) –    53   05     54    05   5           Y
+               End of Line
+SC061     CNL  Shields Jn – Corkerhill                1    05      3    11   10          Y
+SC061     CNL  Corkerhill – Paisley Canal             3    11      7    00   10          Y
+SC063     CND1 Cardonald Jn – Cardonald North Jn      0    00      0    36   9           Y
+SC063     CND2 Cardonald North Jn – Deanside          0    36      1    54   9           Y
+               (Goods Line)
+SC065     GOU1 Paisley (Wallneuk Jn) – Change of      6    34      6    53   7          R1     R1   Prohibited between Paisley Gilmour St and Change of ELR on the
+               ELR                                                                                  Up Gourock line
+SC065     GOU2 Change of ELR – Bishopton             107   70    112    60   7          R1     R1   Prohibited between Change of ELR and Paisley St James on the Up
+                                                                                                    Gourock line
 
 
 
-
-October 2009                                                                  148
+October 2009                                                                  142

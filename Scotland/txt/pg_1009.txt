@@ -1,46 +1,46 @@
-                                                                                     OFFICIAL
+                                                                                        OFFICIAL
 
 
 
 
                                                                 Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
-route            Description                              M Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 oooooooooooooooooooooooooo
-                                                                                                 (MOD)            o
-SC029     BRD    Terminus Jn – Shields Jn via Through     101   62   102   16   Y      Y        Y   N   N   N   N    Y    N
-                 Terminus lines
-SC029     CLY    Terminus Jn – Shields Jn                 101   62   102   16   Y      Y        Y   N   N   N   N    Y    E
-SC031     GSW    Route Boundary (NW4031) (Gretna          115   40   109   00   Y      Y        Y   N   N   N   N    Y    N
-                 Jn) – Old Route boundary (109m 00ch
-                 between Eastriggs and Annan)
-SC031     GSW    Old Route boundary (109m 00ch            109   0     33   44   Y      Y        Y   N   N   N   N    Y    E R1     Prohibited between Old Route
-                 between Eastriggs and Annan) –                                                                           R1       Boundary (109m 00ch between
-                 Change of ELR                                                                                                     Eastriggs and Annan) and South
-                                                                                                                                   End Kilmarnock Viaduct (33m
-                                                                                                                                   73ch)
-SC031     GBK    Change of ELR – Muirhouse South Jn        23   44    1    18   Y      Y        Y   N   N   N   N    R1   E   R1   Prohibited Barrhead platform 3
-SC031     MEN2   Muirhouse South Jn – Muirhouse            0    00    0    15   Y      Y        Y   N   N   N   N    Y    E
-                 Central Jn
-SC031     MEN1   Muirhouse Central Jn – Eglinton St Jn     0    19    0    70   Y      Y        Y   N   N   N   Y    Y    E
-SC031     WCM2   Eglinton St Jn – Bridge St Jn            101   39   101   53   Y      Y        Y   N   Y   N   Y    Y    Y
-SC031     WCM2   Bridge St Jn – Glasgow Central           101   53   102   27   Y      Y        Y   N   Y   N   Y    Y    Y
-SC035     KSH    Bank Jn – Network Rail Boundary           54   05    55   28   N      N        N   N   N   N   N    N    N
-                 (Connel Park LC) / Knockshinnoch
-SC036     GNN    Greenburn Jn – Greenburn Open Cast        0    00    0    55   N      N        N   N   N   N   N    N    N
-                 (Goods Line)
-SC037     RIC1   Kay Park Jn – Bellfield                   0    00    1    06   N      N        N   N   N   N   N    N    N
-SC037     RIC2   Bellfield – Riccarton (Goods Line)        2    20    1    75   N      N        N   N   N   N   N    N    N
-SC039     BAK    Kilmarnock – Barassie                     0    05    7    56   Y      Y        Y   N   N   N   N    N    E R1     Prohibited between Kilmarnock
-                                                                                                                          R1       Plant Depot (00m 20ch) and
-                                                                                                                                   Barassie
-SC045     EKE    East Kilbride – Busby Jn                  7    60    0    40   N      N        N   N   N   N   N    N    N
-SC047     LFS2   Muirhouse South Jn – Change of ELR        1    19    0    61   Y      Y        Y   N   N   N   N    Y    E
-SC047     LFS1   Change of ELR – Larkfield Jn             101   17   101   01   Y      Y        Y   N   N   N   N    Y    E
-SC049     TSS    Muirhouse Central Jn – Terminus Jn        0    04    0    40   Y      Y        Y   N   N   N   N    N    N
-SC051     CTC    Muirhouse Central Jn – Cathcart North     5    19    1    63   Y      Y        Y   N   N   N   R1   Y    N   R1   Prohibited between Cathcart West
-                 Jn (via Cathcart)                                                                                                 Jn and Cathcart North Jn
-SC051     CTC    Cathcart North Jn – Muirhouse North       1    63    0    00   Y      Y        Y   N   N   N   N    Y    N
-                 Jn (via Crosshill)
+Line of   ELR    Line of Route / Sector                 oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
+route            Description                             M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
+                                                                                                                           ooo
+SC171     ECM9   Waverley East End – Edinburgh             0   21    0    00        Y          Y   Y        Y   Y   Y
+                 Waverley
+SC171     EGM4   Edinburgh Waverley – Waverley West        0   00    0    15        Y          Y   Y        Y   Y   Y
+                 End (South Lines)
+SC171     ECN1   Edinburgh Waverley – Waverley West        0   00    0    15        Y          Y   Y        Y   Y   Y
+                 End (North Lines)
+SC171     EGM3   Waverley West End – Haymarket             0   15    1    19        Y          Y   Y        Y   Y   Y
+                 (South Lines)
+SC171     ECN2   Waverley West End – Haymarket             0   15    1    19        Y          Y   Y        Y   Y   Y
+                 (North Lines)
+SC171     EGM2   Haymarket – Haymarket East Jn            46   02   45    72        Y          Y   Y        Y   Y   Y
+                 (South Lines)
+SC171     ECN2   Haymarket – Haymarket East Jn (North      1   19    1    29        Y          Y   Y        Y   Y   Y
+                 Lines)
+SC171     EGM2   Haymarket East Jn – Haymarket            45   72   45    35        Y          Y   Y        Y   Y   H
+                 Central Jn (South Lines)
+SC171     ECN2   Haymarket East Jn – Haymarket             1   29    1    66        Y          Y   Y        Y   Y   H
+                 Central Jn (North Lines)
+SC171     EGM2   Haymarket Central Jn – Haymarket         45   35   44    73        Y          Y   Y        N   Y   H
+                 West Jn (South Lines)
+SC171     ECN2   Haymarket Central Jn – Haymarket          1   66    2    41        Y          Y   Y        N   Y   H
+                 West Jn (North Lines)
+SC171     ECN2   Haymarket West Jn – Dundee Central        2   41   58    69        N          N   N        N   N   H    R1   30mph Burntisland Up
+                 Jn                                                                                                 R1        platform
+SC171     ECN2   Dundee Central Jn – Dundee               58   69   59    14        N          N   N        N   N   H
+SC173     CWH1   Inverkeithing Central Jn – Change of     13   21   22    76        N          N   N        N   N   H
+                 ELR (Cowdenbeath)
+SC173     CWH2   Change of ELR (Cowdenbeath) –             0   00    0    70        N          N   N        N   N   H
+                 Change of ELR (Lochgelly)
+SC173     CWH3   Change of ELR (Lochgelly) – Thornton     27   00   34    62        N          N   N        N   N   H
+                 West Jn
+SC173     TNW    Thornton West Jn – Thornton North Jn      0   70    0    00        N          N   N        N   N   H
+SC175     RHD2   Rosyth Dockyard – Change of ELR           1   21    1    00        N          N   N        N   N   N
 
-October 2009                                                                    51
+
+October 2009                                                                   45

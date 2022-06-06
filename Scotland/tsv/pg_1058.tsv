@@ -1,20 +1,12 @@
-Scotland	1058	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1058	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
-Scotland	1058	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	5	N	R1 R2	N	N	N	N	Y	R1 Infrastructure maintenanance purposes only R2 Prohibited from hauling haul vehicles that exceed RA5
-Scotland	1058	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC011	EGS1	Mossend East Jn	Uddingston Jn	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC013	SHR	Wishaw Central Jn	Shieldmuir Jn	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC015	MDN	Mossend East Jn	Mossend North Jn (North Curve)	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC017	MDE	Mossend East Jn	Mossend South Jn (East Curve)	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC019	MDW	Mossend South Jn	Mossend West Jn (West Curve)	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC021	COS2	Coltness	Change of ELR	Coltness – Change of ELR	0	09	0	00	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC021	COS1	Change of ELR	Garriongill Jn	Change of ELR – Garriongill Jn	14	15	15	29	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC023	HMN1	Motherwell	Change of ELR	Motherwell – Change of ELR	0	08	1	44	7	N	Y	R1 R2	Y	Y	Y	Y	R1 20mph over bridge 045/046 (1m 42ch) R2 20mph over bridge 045/047 (1m 12ch)
-Scotland	1058	SC023	HMN2	Change of ELR	Newton, Hamilton Jn	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	N	Y	R1 R2 R3 R4	Y	Y	Y	Y	R1 20mph over bridge 045/045B (6m 37ch) R2 40mph over bridge 045/060 (3m 73ch) R3 40mph over bridge 045/062 (3m 31ch) R4 40mph over bridge 045/065 (2m 45ch)
-Scotland	1058	SC024	LRK	Larkhall	Haughhead Jn	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC025	ARG1	Rutherglen Central Jn	Bridgeton Yard North End	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC025	ARG2	Bridgeton Yard North End	Exhibition Centre	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1058	SC025	ARG2	Exhibition Centre	Finnieston East Jn (Down line)	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1058	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1058	SC165	MHY	Niddrie South Jn	Niddrie West Jn	Niddrie South Jn – Niddrie West Jn	7	06	6	30	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC165	SUB2	Niddrie West Jn	Gorgie Jn	Niddrie West Jn – Gorgie Jn	6	30	0	45	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC165	GGE	Gorgie Jn	Haymarket West Jn	Gorgie Jn – Haymarket West Jn	0	00	0	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC167	CKT	Craiglockhart Jn	Slateford Jn	Craiglockhart Jn – Slateford Jn	0	00	0	48	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC169	SUB2	Gorgie Jn	Haymarket Central Jn	Gorgie Jn – Haymarket Central Jn	0	45	0	11	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC171	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC171	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC171	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC171	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC171	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1058	SC171	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	Y	

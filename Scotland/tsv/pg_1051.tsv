@@ -1,15 +1,24 @@
 Scotland	1051	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1051	SC151	LHS1	Portobello	Leith South Yard (Goods Line)	Portobello – Leith South Yard (Goods Line)	0	00	2	20	10	N	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC153	CPH	Craigentinny	Powderhall (Goods Line)	Craigentinny – Powderhall (Goods Line)	0	00	1	78	10	N	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC155	MHL1	Monktonhall Jn	Change of ELR	Monktonhall Jn – Change of ELR	0	11	5	60	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC155	MHL2	Change of ELR	Millerhill East Jn	Change of ELR – Millerhill East Jn	1	40	0	28	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC155	MHL3	Millerhill East Jn	Millerhill Yard (Goods Line)	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC157	MLE	Millerhill South Jn	Millerhill East Jn (Goods Line)	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC159	NDE2	Millerhill West Jn	Millerhill South Jn / Millerhill Yard	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC161	NDE1	Millerhill Yard	Junction with Niddrie West Line	Millerhill Yard – Junction with Niddrie West Line	5	52	3	36	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC161	SUB1	Junction with Niddrie West Line	Portobello	Junction with Niddrie West Line – Portobello	3	36	3	30	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC161	MHL4	Newcraighall East Jn	Network Rail / Abellio Scotrail Boundary	Newcraighall East Jn – Network Rail / Abellio Scotrail Boundary	00	00	00	08	N	N	N	N	N	N	N	N
-Scotland	1051	SC163	SUB1	Portobello	Change of ELR	Portobello – Change of ELR	3	30	4	00	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC163	SUB2	Change of ELR	Niddrie West	Change of ELR – Niddrie West	6	69	6	30	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1051	SC164	NNS	Newcraighall North Jn	Newcraighall South Jn	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	3	N	R1	R1	R1	N	N	N	R1 55mph maximum speed
-Scotland	1051	SC164	SBO	Newcraighall South Jn	Tweedbank	Newcraighall South Jn – Tweedbank	5	02	35	34	3	N	R1 R2 R3	R1 R2 R3 R4 R5	R1 R2 R3	N	N	N	R1 55mph maximum speed R2 30mph maximum speed over the following: UB011/070 (27m 46ch) UB011/056 (22m 04ch) UB011/054 (21m 58ch) R3 RA6 vehicles 30mph maximum speed over the following: UB011/072 (28m 31ch) UB011/067 (25m 44ch) R4 RA7 vehicles 20mph maximum speed over the following: UB011/072 (28m 31ch) UB011/067 (25m 44ch) R5 30mph maximum speed over the following: UB011/061 (24m 03ch) UB011/060 (23m 59ch) UB011/053 (21m 40ch)
+Scotland	1051	SC107	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	EGM1	Haymarket West Jn	Cowlairs West Jn	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC107	EGM1	Cowlairs West Jn	Glasgow Queen Street	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC109	PMT	Polmont Jn	Grangemouth Jn	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1051	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1051	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	5	Y	N	N	N	N	N	N	
+Scotland	1051	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	Y	Y	Y	Y	Y	Y	

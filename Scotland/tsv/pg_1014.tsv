@@ -1,22 +1,25 @@
 Scotland	1014	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1014	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	N	N	N	N	Y	E R1	R1 Prohibited between Change of ELR and Belgrove Jn
-Scotland	1014	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	N	N	N	N	N	N
-Scotland	1014	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC125	YKR	Hyndland West Jn	Dalmuir Park Jn	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1014	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	N	N	N	N	Y	E
-Scotland	1014	SC131	HST	High Street Jn	Connection to Smithy Lye Through Line	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	Y	Y	EH	N	N	N	EH	Y	E
-Scotland	1014	SC131	HST	Connection to Smithy Lye Through Line	Shields Jn	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	Y	Y	EH	N	N	N	EH	Y	E
-Scotland	1014	SC133	MGE	Westerton Jn	Milngavie	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	N	N	N	N	N	N
-Scotland	1014	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	N	N	N	N	N	N
-Scotland	1014	SC136	HYD	Hyndland North Jn	Hyndland West Jn	Hyndland North Jn – Hyndland West Jn	0	00	0	16	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1014	SC003	ECA1	Carstairs South Jn	Carstairs East Jn	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1014	SC003	ECA2	Carstairs East Jn	Slateford Jn	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1014	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1014	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1014	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	Y	Y	N	N	N	N	N	N	N	
+Scotland	1014	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC011	EGS1	Mossend East Jn	Uddingston Jn	Mossend East Jn – Uddingston Jn	3	63	0	03	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC013	SHR	Wishaw Central Jn	Shieldmuir Jn	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC015	MDN	Mossend East Jn	Mossend North Jn (North Curve)	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC017	MDE	Mossend East Jn	Mossend South Jn (East Curve)	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC019	MDW	Mossend South Jn	Mossend West Jn (West Curve)	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC021	COS2	Coltness	Change of ELR	Coltness – Change of ELR	0	09	0	00	N	N	N	N	N	N	N	N	N	
+Scotland	1014	SC021	COS1	Change of ELR	Garriongill Jn	Change of ELR – Garriongill Jn	14	15	15	29	N	N	N	N	N	N	N	N	N	
+Scotland	1014	SC023	HMN1	Motherwell	Change of ELR	Motherwell – Change of ELR	0	08	1	44	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC023	HMN2	Change of ELR	Newton, Hamilton Jn	Change of ELR – Newton, Hamilton Jn	6	61	0	00	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1014	SC024	LRK	Larkhall	Haughhead Jn	Larkhall – Haughhead Jn	3	00	0	00	Y	Y	N	N	N	N	N	N	N	
+Scotland	1014	SC025	ARG1	Rutherglen Central Jn	Bridgeton Yard North End	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1014	SC025	ARG2	Bridgeton Yard North End	Exhibition Centre	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1014	SC025	ARG2	Exhibition Centre	Finnieston East Jn (Down line)	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1014	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1014	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1014	SC029	CLY	Larkfield Jn	Terminus Jn	Larkfield Jn – Terminus Jn	101	01	101	62	Y	Y	Y	N	N	N	N	Y	N	

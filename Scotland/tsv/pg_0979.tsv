@@ -1,20 +1,21 @@
-Scotland	0979	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	0979	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn)	Lockerbie	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM1	Lockerbie	Law Jn	Lockerbie – Law Jn	25	66	84	08	R1	N	Y	Y	Y	R1 Prohibited Carstairs Up platform with deflated suspension
-Scotland	0979	SC001	WCM2	Law Jn	Junction with Coatbridge lines (Lesmahagow Jn)	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn)	Newton East Jn	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Newton East Jn	Newton Hamilton Jn (SC0023) via South Connecting Line	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Newton Kirkhill Jn (SC0023)	Newton West Jn via North Connecting Line	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Newton East Jn	Newton West Jn	Newton East Jn – Newton West Jn	95	14	96	34	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Newton West Jn	Rutherglen East Jn	Newton West Jn – Rutherglen East Jn	96	34	98	32	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Rutherglen East Jn	Larkfield Jn	Rutherglen East Jn – Larkfield Jn	98	32	100	65	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Larkfield Jn	Eglinton St Jn	Larkfield Jn – Eglinton St Jn	100	65	101	39	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	N	Y	Y	Y
-Scotland	0979	SC001	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	Y	N	Y	Y	Y
-Scotland	0979	SC003	ECA1	Carstairs South Jn	Carstairs East Jn	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	N	Y	Y	Y
-Scotland	0979	SC003	ECA2	Carstairs East Jn	Slateford Jn	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	N	Y	Y	Y
-Scotland	0979	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	N	Y	Y	Y
-Scotland	0979	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	N	Y	Y	Y
-Scotland	0979	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	R1	N	Y	Y	Y	R1 Prohibited Hartwood Down platform
-Scotland	0979	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	N	N	N	N	N
-Scotland	0979	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	Y	N	R1	Y	Y	R1 60mph maximum speed
+Scotland	0979	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0979	SC145	MLG1	Fort William	Change of ELR	Fort William – Change of ELR	0	05	1	27	N	N	N	Y	Y	Y	N	
+Scotland	0979	SC145	MLG2	Change of ELR	Mallaig	Change of ELR – Mallaig	0	00	39	39	N	N	N	Y	Y	Y	N	
+Scotland	0979	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn)	Prestonpans Jn	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	69	67	9	67	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0979	SC147	ECM8	Prestonpans Jn	Calton South Tunnel	Prestonpans Jn – Calton South Tunnel	9	67	0	29	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0979	SC147	ECM9	Calton South Tunnel	Waverley East End	Calton South Tunnel – Waverley East End	0	29	0	21	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0979	SC147	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC147	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC149	NBK	North Berwick	Drem Jn	North Berwick – Drem Jn	22	22	18	15	N	N	N	Y	Y	Y	Y	
+Scotland	0979	SC151	LHS1	Portobello	Leith South Yard (Goods Line)	Portobello – Leith South Yard (Goods Line)	0	00	2	20	N	N	N	N	N	N	N	
+Scotland	0979	SC153	CPH	Craigentinny	Powderhall (Goods Line)	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N	N	N	
+Scotland	0979	SC155	MHL1	Monktonhall Jn	Change of ELR	Monktonhall Jn – Change of ELR	0	11	5	60	N	N	N	N	N	N	N	

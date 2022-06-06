@@ -1,46 +1,46 @@
-                                                                                         OFFICIAL
+                                                                                          OFFICIAL
 
 
 
 
-                                                                 Scotland Route Sectional Appendix Module SCRC
+                                                                  Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
-route            Description                              M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
-                                                                                                                            ooo
-SC123     NEM1   Drumgelloch – Change of ELR               11   70    11   60        Y          Y   Y       R1   Y   H   R1   Prohibited with deflated
-                                                                                                                              suspension
-SC123     NEM2   Change of ELR – High Street Jn            11   60    0    28        Y          Y   Y       R1   Y   H   R1   Prohibited with deflated
-                                                                                                                              suspension
-SC123     NEM2   High Street Jn – Change of ELR             0   28    0    00        Y          Y   Y        Y   Y   H
-SC123     NEM3   Change of ELR – Finnieston East Jn         0   00    2    19        Y          Y   Y        Y   Y   H
-SC123     NEM3   Finnieston East Jn – Finnieston West       2   19    2    53        Y          Y   Y        Y   Y   H
-                 Jn (Down Line)
-SC123     NEM3   Finnieston East Jn – Finnieston West       2   19    2    53        Y          Y   Y        Y   Y   H
-                 Jn (Up Line)
-SC123     NEM3   Finnieston West Jn – Hyndland North        2   53    4    28        Y          Y   Y        Y   Y   H
-                 Jn
-SC123     NEM3   Hyndland North Jn – Change of ELR          4   28    4    63        Y          Y   Y        Y   Y   H
-SC123     NEM4   Change of ELR – Knightswood North          0   00    0    74        Y          Y   Y        Y   Y   H
-                 Jn
-SC123     NEM5   Knightswood North Jn – Change of           5   67    13   40        Y          Y   Y        Y   Y   H
-                 ELR (Between Bowling and Dumbarton
-                 East)
-SC123     NEM6   Change of ELR (Between Bowling and       113   46   116   00        Y          Y   Y        Y   Y   H
-                 Dumbarton East) – Change of ELR
-                 (Dumbarton East)
-SC123     NEM7   Change of ELR (Dumbarton East) –          15   51    22   76        Y          Y   Y        Y   Y   H
-                 Craigendoran Jn
-SC123     NEM7   Craigendoran Jn – Helensburgh             22   76    24   31        Y          Y   Y        Y   Y   H
-                 Central
-SC125     YKR    Hyndland East Jn – Hyndland West Jn        0   00    0    22        Y          Y   Y        Y   Y   H
-SC125     YKR    Hyndland West Jn – Dalmuir Park Jn         0   22    4    73        Y          Y   Y        Y   Y   H
-SC129     SGN    Springburn – Bellgrove Jn                  0   42    2    58        Y          Y   Y        Y   Y   H
-SC131     HST    High Street Jn – Connection to Smithy      0   04    2    00        N          N   N        N   N   H
-                 Lye through line
-SC131     HST    Connection to Smithy Lye through line      2   00    2    35        N          N   N        N   N   H
-                 – Shields Jn
-SC133     MGE    Westerton Jn – Milngavie                   6   19    9    35        Y          Y   Y        Y   Y   H
-SC135     BCH    Dalreoch Jn – Balloch                     16   39    20   38        Y          Y   Y        Y   Y   H
+Line of   ELR    Line of Route / Sector                   oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
+route            Description                               M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
+                                                                                                                             ooo
+SC011     EGS1   Mossend East Jn – Uddingston Jn             3   63    0    03        Y          Y   Y        Y   Y   Y
+SC013     SHR    Wishaw Central Jn – Shieldmuir Jn          86   63    87   43        Y          Y   Y        N   Y   Y
+SC015     MDN    Mossend East Jn – Mossend North Jn          0   40    0    06        Y          Y   Y        Y   Y   Y
+                 (North Curve)
+SC017     MDE    Mossend East Jn – Mossend South Jn          0   31    0    00        Y          Y   Y        Y   Y   Y
+                 (East Curve)
+SC019     MDW    Mossend South Jn – Mossend West Jn         91   08    91   50        Y          Y   Y        Y   Y   Y
+                 (West Curve)
+SC021     COS2   Coltness – Change of ELR                    0   09    0    00        N          N   N        N   N   N
+SC021     COS1   Change of ELR – Garriongill Jn             14   15    15   29        N          N   N        N   N   N
+SC023     HMN1   Motherwell – Change of ELR                  0   08    1    44        Y          Y   Y        Y   Y   H
+SC023     HMN2   Change of ELR – Newton, Hamilton Jn         6   61    0    00        Y          Y   Y        Y   Y   H
+SC024     LRK    Larkhall – Haughhead Jn                     3   00    0    00        Y          Y   N        Y   N   H
+SC025     ARG1   Rutherglen Central Jn – Bridgeton Yard      0   00    0    43        Y          Y   Y        Y   Y   H
+                 North End
+SC025     ARG2   Bridgeton Yard North End – Exhibition       0   86    4    03        Y          Y   Y        Y   Y   H
+                 Centre
+SC025     ARG2   Exhibition Centre – Finnieston East Jn      4   03    4    41        Y          Y   Y        Y   Y   H
+                 (Down line)
+SC025     ARG2   Exhibition Centre – Finnieston West Jn      4   03    4    74        Y          Y   Y        Y   Y   H
+                 (Up line)
+SC027     RNC    Rutherglen West Jn – Rutherglen North       0   00    0    29        Y          Y   Y        Y   E   H
+                 Jn (West Curve)
+SC029     CLY    Larkfield Jn – Terminus Jn                101   01   101   62        Y          Y   Y        Y   Y   Y
+SC029     BRD    Terminus Jn – Shields Jn via Through      101   62   102   16        Y          Y   Y        Y   Y   Y
+                 Terminus lines
+SC029     CLY    Terminus Jn – Shields Jn                  101   62   102   16        Y          Y   Y        Y   Y   Y
+SC031     GSW    Route Boundary (NW4031) (Gretna Jn)       115   40   109   00        N          N   N        N   N   H
+                 – Old Route boundary (109m 00ch
+                 between Eastriggs and Annan)
+SC031     GSW    Old Route boundary (109m 00ch             109   0     33   44        N          N   N        N   N   H    R1   Prohibited Kilmarnock
+                 between Eastriggs and Annan) –                                                                       R1        platforms 1, 2 (Bay platforms)
+                 Change of ELR                                                                                                  &4
 
-October 2009                                                                    42
+
+October 2009                                                                     36

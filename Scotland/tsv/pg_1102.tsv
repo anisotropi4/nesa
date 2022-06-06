@@ -1,15 +1,10 @@
 Scotland	1102	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1102					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1102	SC135	Dalreoch Jn – Balloch	Dalreoch Jn	Balloch	Y *	N	N	N	N	N	N	N
-Scotland	1102	SC136	Hyndland North Jn – Hyndland West Jn	Hyndland North Jn	Hyndland West Jn	Y	Y	N	N	N	N	N	N
-Scotland	1102	SC137	Clydebank Dock Jn – Rothesay Dock (Goods Line) (OOU)	Clydebank Dock Jn	Rothesay Dock (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1102	SC139	Clydebank Jn – Dalmuir Riverside (Goods Line) (OOU)	Clydebank Jn	Dalmuir Riverside (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1102	SC141	Craigendoran Jn – Fort William	Craigendoran Jn	Fort William	Y *	Y	Y	N	N	N	N	N
-Scotland	1102	SC143	Crianlarich – Oban	Crianlarich	Oban	Y *	Y	N	N	N	N	N	N
-Scotland	1102	SC143	Lower Crianlarich Siding	Lower Crianlarich Siding		N	N	N	N	N	N	N	N	Part NOT Network Rail infrastructure
-Scotland	1102	SC145	Fort William – Annat Paper Mill GF	Fort William	Annat Paper Mill GF	Y *	Y	Y	N	N	N	N	N
-Scotland	1102	SC145	Annat Paper Mill GF – Mallaig	Annat Paper Mill GF	Mallaig	Y *	Y	N	N	N	N	N	N
-Scotland	1102	SC147	Berwick – Edinburgh, Waverley East End	Berwick	Edinburgh, Waverley East End	Y *	Y	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8	R1 R2 R3 R4 R5 R6 R7 R8	R1 R2 R3 R4 R5 R6 R7 R8	R1 R2 R3 R4 R5 R6 R7 R8	R1 PROHIBITED Berwick to Territory Bounday R2 PROHIBITED Monktonhall Jn to Edinburgh, Waverley East End R3 PROHIBITED Granthouse Up and Down Passenger Loops R4 PROHIBITED Torness Up sidings R5 PROHIBITED Oxwellmains Up and Down sidings R6 PROHIBITED Dunbar Down and Up Passenger Loop R7 PROHIBITED Drem Up and Down Passenger Loops R8 PROHIBITED Prestonpans Up Passenger Loop
-Scotland	1102	SC147	Edinburgh, Waverley East End – Princes Street Gardens	Edinburgh, Waverley East End	Princes Street Gardens	Y *	Y	R1	R1	N	N	N	N	R1 W8 W9 Prohibited EXCEPT all through routes Edinburgh Waverley Station and Lines W & Z between Edinburgh Waverley and Princes Street Gardens
-Scotland	1102	SC147	Princes Street Gardens to Haymarket Central Jn	Princes Street Gardens	Haymarket Central Jn	Y *	Y	R1	R1	N	N	N	N	R1 W8 W9 Prohibited both Lines Haymarket North Tunnel
-Scotland	1102	SC149	North Berwick – Drem Jn	North Berwick	Drem Jn	Y	Y	N	N	N	N	N	N
+Scotland	1102					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+Scotland	1102	SC001	Newton East Jn – Newton West Jn via South Connecting Line,Newton Station and North Connecting Line	Newton East Jn	Newton West Jn via South Connecting Line,Newton Station and North Connecting Line	Y	Y	Y	Y	N	Y	N	N	
+Scotland	1102	SC003	Carstairs South Jn – Haymarket East Jn	Carstairs South Jn	Haymarket East Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford Jn to Haymarket East Jn
+Scotland	1102	SC005	Carstairs Station Jn – Carstairs East Jn	Carstairs Station Jn	Carstairs East Jn	Y	Y	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED Carstairs platform 1 R2 PROHIBITED Carstairs platform 2 R3 PROHIBITED Carstairs Through Siding
+Scotland	1102	SC007	Midcalder Jn – Holytown Jn	Midcalder Jn	Holytown Jn	Y *	R1	S1	N	N	N	N	N	R1 W7 15mph on Up Line Br.59 Shotts Station [8m 38ch] S1 The following combinations are permitted: 2590 high x 2500 wide box on FSA/FTA KFA wagons. All lines 2590 high x 2550 wide box on FEA FSA/FTA KFA wagons All lines 2896 high x 2500 wide box on FLA wagons Down line ONLY 2896 high x 2500 wide box on FLA wagons Up line 15 mph at Br 59 Shotts Station [08m 38ch]
+Scotland	1102	SC009	Lanark – Lanark Jn	Lanark	Lanark Jn	Y *	N	N	N	N	N	N	N	
+Scotland	1102	SC011	Law Jn – Uddingston Jn (via Holytown)	Law Jn	Uddingston Jn (via Holytown)	Y *	Y	Y	Y	N	Y	N	N	
+Scotland	1102	SC013	Wishaw Central Jn – Shieldmuir Jn	Wishaw Central Jn	Shieldmuir Jn	Y	Y	Y	Y	N	Y	N	N	
+Scotland	1102	SC015	Mossend East Jn – Mossend North Jn (North Curve)	Mossend East Jn	Mossend North Jn (North Curve)	Y	Y	Y	Y	N	Y	N	N	

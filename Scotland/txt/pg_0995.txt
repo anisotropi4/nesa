@@ -1,44 +1,45 @@
-                                                                                          OFFICIAL
+                                                                                    OFFICIAL
 
 
 
 
-                                                                  Scotland Route Sectional Appendix Module SCRC
+                                                               Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR     Line of Route / Sector                  oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
-route             Description                              M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
-                                                                                                                             ooo
-SC031     GBK     Change of ELR – Muirhouse South Jn        23   44    1    18        N          N   N        N   N   H    R1   Prohibited Barrhead platform
-                                                                                                                      R1        3 (Bay platform)
-SC031     MEN2    Muirhouse South Jn – Muirhouse             0   00    0    15        N          N   N        N   N   H
-                  Central Jn
-SC031     MEN1    Muirhouse Central Jn – Eglinton St Jn      0   19    0    70        Y          Y   Y        Y   Y   Y
-SC031     WCM2 Eglinton St Jn – Bridge St Jn               101   39   101   53        Y          Y   Y        Y   Y   Y
-SC031     WCM2 Bridge St Jn – Glasgow Central              101   53   102   27        Y          Y   Y        Y   Y   Y
-SC035     KSH     Bank Jn – Network Rail Boundary           54   05    55   28        N          N   N        N   N   N
-                  (Connel Park LC) / Knockshinnoch
-SC036     GNN     Greenburn Jn – Greenburn Open Cast         0   00    0    55        N          N   N        N   N   N
-                  (Goods Line)
-SC037     RIC1    Kay Park Jn – Bellfield                    0   00    1    06        N          N   N        N   N   N
-SC037     RIC2    Bellfield – Riccarton (Goods Line)         2   20    1    75        N          N   N        N   N   N
-SC039     BAK     Kilmarnock – Barassie                      0   05    7    56        N          N   N        N   N   H
-SC045     EKE     East Kilbride – Busby Jn                   7   60    0    40        N          N   N        N   N   N
-SC047     LFS2    Muirhouse South Jn – Change of ELR         1   19    0    61        N          N   N        N   N   H
-SC047     LFS1    Change of ELR – Larkfield Jn             101   17   101   01        N          N   N        N   N   H
-SC049     TSS     Muirhouse Central Jn – Terminus Jn         0   04    0    40        Y          Y   Y        Y   Y   H
-SC051     CTC     Muirhouse Central Jn – Cathcart North      5   19    1    63        Y          Y   Y        Y   Y   H
-                  Jn (via Cathcart)
-SC051     CTC     Cathcart North Jn – Muirhouse North        1   63    0    00        Y          Y   Y        Y   Y   H
-                  Jn (via Crosshill)
-SC053     NNH     Neilston – Cathcart West Jn              108   45   100   77        Y          Y   Y        Y   Y   H
-SC055     WCM2 Newton, Hamilton Jn – Newton Kirkhill        95   53    95   77        Y          Y   Y        Y   Y   H
-               Jn
-SC055     KHL     Newton Kirkhill Jn – Cathcart West Jn     95   77   100   77        Y          Y   Y        Y   Y   H
-SC057     CNC     Cathcart East Jn – Cathcart North Jn       0   45    0    00        Y          Y   Y        Y   Y   H
-SC059     WCM2 Glasgow Central – Bridge St Jn              102   27   101   53        Y          Y   Y        Y   Y   Y
-SC059     AYR1    Bridge St Jn – Cook St                     0   00    0    19        Y          Y   Y        Y   Y   Y
-SC059     LYE     Cook St – High St Line (Smithy Lye         0   00    0    44        N          N   N        N   N   N
-                  through line)
-SC059     AYR1    Cook St – Shields Jn                       0   19    1    00        Y          Y   Y        Y   Y   Y
+Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170                180    185    220    221 Notes
+route                                                M    Ch   M    Ch 0000               0000   0000   0000   0000 ooooooooooooooooooooooooooo
+SC171     EGM2   Haymarket East Jn – Haymarket Central    45   72   45    35        Y      N      Y      Y      Y
+                 Jn (South Lines)
+SC171     ECN2   Haymarket East Jn – Haymarket Central    1    29    1    66        Y      N      Y      Y      Y
+                 Jn (North Lines)
+SC171     EGM2   Haymarket Central Jn – Haymarket West    45   35   44    73        Y      N      Y      Y      Y
+                 Jn (South Lines)
+SC171     ECN2   Haymarket Central Jn – Haymarket West    1    66    2    41        Y      N      Y      Y      Y
+                 Jn (North Lines)
+SC171     ECN2   Haymarket West Jn – Dundee Central       2    41   58    69        Y      N      N      Y      Y
+                 Jn
+SC171     ECN2   Dundee Central Jn – Dundee               58   69   59    14        Y      N      N      Y      Y
+SC173     CWH1   Inverkeithing Central Jn – Change of     13   21   22    76        Y      N      N      Y      Y
+                 ELR (Cowdenbeath)
+SC173     CWH2   Change of ELR (Cowdenbeath) –            0    00    0    70        Y      N      N      Y      Y
+                 Change of ELR (Lochgelly)
+SC173     CWH3   Change of ELR (Lochgelly) – Thornton     27   00   34    62        Y      N      N      Y      Y
+                 West Jn
+SC173     TNW    Thornton West Jn – Thornton North Jn     0    70    0    00        Y      N      N      Y      Y
+SC175     RHD2   Rosyth Dockyard – Change of ELR          1    21    1    00        N      N      N      N      N
+SC175     RHD1   Change of ELR – Inverkeithing South Jn   1    00    0    02        N      N      N      N      N
+                 (Goods Line)
+SC176     IGE    Inverkeithing North Jn – Inverkeithing   0    33    0    00        Y      N      N      Y      Y
+                 East Jn (Inverkeithing Curve)
+SC177     MTL1   Thornton North Jn – Change of ELR        0    11    4    65        N      N      N      N      N
+SC177     MTL2   Change of ELR – Methill Power Station    7    34    6    48        N      N      N      N      N
+                 (Goods Line)
+SC178     CWH3   Thornton South Jn – Thornton West Jn     35   38   34    62        Y      N      N      Y      Y
+SC181     CDC1   Ladybank Jn – Change of ELR              0    03   14    10        Y      N      N      Y      Y
+SC181     CDC2   Change of ELR – Hilton Jn                44   18   45    66        Y      N      N      Y      Y
+SC183     SAA    Stirling Middle Jn – Change of ELR       0    00    8    14        R1     N      N      N      N   R1   Prohibited between Alloa Town and
+                                                                                                                         Change of ELR (8m 14ch)
+SC183     KNE1   Change of ELR – Longannet                0    00    5    62        N      N      N      N      N
+SC183     KNE1   Longannet – Change of ELR                5    62   14    14        N      N      N      N      N
 
-October 2009                                                                     37
+
+October 2009                                                                   31

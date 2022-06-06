@@ -1,23 +1,48 @@
-                                                                                   OFFICIAL
+                                                                                      OFFICIAL
 
 
 
 
-                                                              Scotland Route Sectional Appendix Module SCRC
+                                                                 Scotland Route Sectional Appendix Module SCRC
+Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170                  180    185    220    221 Notes
+route                                                M    Ch   M    Ch 0000                 0000   0000   0000   0000 ooooooooooooooooooooooooooo
 
-Line of   ELR   Line of Route / Sector Description oooo oooo oooo oooo 170                180    185    220    221 Notes
-route                                               M    Ch   M    Ch 0000               0000   0000   0000   0000 ooooooooooooooooooooooooooo
-SC203     RSW   Welsh's Bridge Jn – Rose Street Jn      117   56   118   03        E      N      N      N      N
-SC203     WCK   Inverness platforms 5-7 – Rose Street    0    02    0    18        E      N      N      N      N   R1   Prohibited Inverness platforms 6 and 7
-                Jn                                                                 R1
-
-SC203     WCK   Rose Street Jn – Invergordon             0    18    31   37        N      N      N      N      N
-SC203     WCK   Invergordon – Georgemas Jn               31   37   147   20        N      N      N      N      N
-SC203     WCK   Georgemas Jn – Wick                     147   20   161   35        N      N      N      N      N
-SC205     KYL   Dingwall – Kyle of Lochalsh              0    19    63   64        N      N      N      N      N
-SC207     TSO   Georgemas Jn – Thurso                    0    00    6    50        N      N      N      N      N
-
-
-
-
-October 2009                                                                  33
+SC109     PMT    Grangemouth Jn – Carmuirs East Jn          23   75    25   79        Y      N      Y      Y      Y
+SC109     CMS    Carmuirs East Jn – Carmuirs West Jn         0   40    -0    2        Y      N      Y      Y      Y
+SC109     SCM3   Carmuirs West Jn – Greenhill Lower Jn     108   74   106   62        Y      N      Y      Y      Y
+SC109     GHL    Greenhill Lower Jn – Greenhill Upper Jn     0   52     0   00        Y      N      N      Y      Y
+SC110     PMT    Carmuirs East Jn – Larbert Jn              25   79    26   35        Y      N      N      Y      Y
+SC111     NBE    Newbridge Jn – Bathgate                    35   21    25   18        Y      N      Y      N      N
+SC113     DMY    Winchburgh Jn – Dalmeny Jn                 34   54    39   03        Y      N      N      Y      Y
+SC115     MRL1   Cowlairs West Jn – Maryhill Park Jn         8   26     5   51        Y      N      N      N      N
+SC115     MRL2   Maryhill Park Jn – Knightswood North Jn     4   40     5   67        Y      N      N      N      N
+SC1150    MLA    Maryhill Park Jn – Anniesland               0   00     0   70        N      N      N      N      N
+SC116     CSN    Cowlairs East Jn – Cowlairs North Jn        0   00     0   21        Y      N      N      N      N
+SC117     GMH    Grangemouth Jn – Grangemouth                0   00     3   67        R1     N      N      N      N   R1   Prohibited except for the purpose of
+                                                                                                                           setting back behind Signals ECL290 or
+                                                                                                                           ECL292
+SC119     GHL    Greenhill Upper Jn – Greenhill Lower Jn     0   00     0   52        Y      N      N      Y      Y
+SC119     SCM3   Greenhill Lower Jn – Carmuirs West Jn     106   62   108   74        Y      N      Y      Y      Y
+SC119     SCM3   Carmuirs West Jn – Stirling Middle Jn     108   76   118   08        Y      N      Y      Y      Y
+SC119     SCM3   Stirling Middle Jn – Change of ELR        118   08   123   40        Y      N      Y      Y      Y
+                 (Dunblane)
+SC119     SCM4   Change of ELR (Dunblane) – Perth          123   40   150   61        Y      N      N      Y      Y
+                 South Jn
+SC119     SCM5   Perth South Jn – Change of Mileage        150   61   151   03        Y      N      N      Y      Y
+SC119     SCM5   Change of Mileage – Dundee Central Jn      21   01     0   36        Y      N     N       Y      Y
+SC119     ECN2   Dundee Central Jn – Dundee                 58   69    59   14        Y      N     N       Y      Y
+SC123     NBE    Bathgate – Change of ELR                   25   18    25   00        Y      N     Y       N      N
+SC123     NEM1   Change of ELR – Drumgelloch                25   00    11   70        Y      N     Y       N      N
+SC123     NEM1   Drumgelloch – Change of ELR                11   70    11   60        N      N     Y       N      N
+SC123     NEM2   Change of ELR – High Street Jn             11   60     0   28        N      N     R1      N      N   R1   Prohibited High Street Up platform with
+                                                                                                   R2                      deflated suspension
+                                                                                                   R3                 R2   15mph Coatdyke Up platform
+                                                                                                   R4                 R3   15mph Blairehill Up platform
+                                                                                                   R5                 R4   15mph Easterhouse Down platform
+                                                                                                                      R5   Prohibited between Shettleston and High
+                                                                                                                           Street Jn
+SC123     NEM2   High Street Jn – Change of ELR             0    28     0   00        N      N      N      N      N
+SC123     NEM3   Change of ELR – Finnieston East Jn         0    00     2   19        N      N      N      N      N
+SC123     NEM3   Finnieston East Jn – Finnieston West Jn    2    19     2   53        N      N      N      N      N
+                 (Down Line)
+October 2009                                                                     27

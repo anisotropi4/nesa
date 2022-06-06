@@ -1,52 +1,46 @@
-                                                                                       OFFICIAL
+                                                                                   OFFICIAL
 
 
 
 
-                                                                    Scotland Route Sectional Appendix Module SCRC
+                                                                Scotland Route Sectional Appendix Module SCRC
+
 Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 142 143 144 150 153 156 158 Notes
 route                                                M    Ch   M    Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-
-SC155     MHL2   Change of ELR – Millerhill East Jn             1   40      0    28    N   N      N   N     N       N   N
-SC155     MHL3   Millerhill East Jn – Millerhill Yard (Goods    0   00      0    19    N   N      N   N     N       N   N
+SC059     AYR2   Change of ELR (Paisley Gilmour Street)    6    73      7    00    Y    Y     Y   Y     Y       Y    E
+                 – Change of ELR (Brown Street
+                 crossover)
+SC059     AYR3   Change of ELR (Brown Street crossover)    7    00     23    00    Y    Y     Y   Y     Y       Y    E R1     60mph Lochwinnoch down platform
+                 – Change of ELR (Dalry)                                                                             R1
+SC059     AYR4   Change of ELR (Dalry) – Change of ELR     23   00     33    08    Y    Y     Y   Y     Y       Y    E R1     40mph Kilwinning up platform
+                 (Barassie Jn)                                                                                       R1 R2    Prohibited between Barassie and Change
+                                                                                                                     R2       of ELR (Barassie Jn)
+SC059     AYR5   Change of ELR (Barassie Jn) – Change      0    00      2    15    Y    Y     Y   Y     Y       Y    N
+                 of ELR (Between Troon and Prestwick
+                 International Airport)
+SC059     AYR6   Change of ELR (Between Troon and          35   05     38    73    Y    Y     Y   Y     Y       Y    N
+                 Prestwick International Airport) –
+                 Falkland Jn
+SC059     AYR6   Falkland Jn – Ayr                         38   73     40    49    Y    Y     Y   Y     Y       Y    N
+SC059     STR1   Ayr – Dalrymple Jn                        40   49     43    53    N   N      N   Y     Y       Y    N
+SC059     STR1   Dalrymple Jn – Change of ELR (Girvan)     43   53     61    60    N   N      N   Y     Y       Y    N
+SC059     STR2   Change of ELR (Girvan) – Change of        0    00     30    67    N   N      N   Y     Y       Y    N
+                 ELR (Betweeen Challoch LC and
+                 Dunragit SB & LC)
+SC059     STR3   Change of ELR (Betweeen Challoch LC       46   54     53    05    N   N      N   Y     Y       Y    N
+                 and Dunragit SB & LC) – Change of ELR
+                 (Stranraer Yard GF)
+SC059     STR4   Change of ELR (Stranraer Yard GF) –       53   05     54    05    N   N      N   Y     Y       Y    N
+                 End of Line
+SC061     CNL    Shields Jn – Corkerhill                   1    05      3    11    N   N      N   Y     Y       Y    E
+SC061     CNL    Corkerhill – Paisley Canal                3    11      7    00    N   N      N   R1   R1       R1   N   R1   Prohibited when overhead line equipment
+                                                                                                                              is energised
+SC063     CND1   Cardonald Jn – Cardonald North Jn         0    00      0    36    N   N      N   N     N       N    N
+SC063     CND2   Cardonald North Jn – Deanside (Goods      0    36      1    54    N   N      N   N     N       N    N
                  Line)
-SC157     MLE    Millerhill South Jn – Millerhill East Jn       0   09      0    28    N   N      N   N     N       N   N
-                 (Goods Line)
-SC159     NDE2   Millerhill West Jn – Millerhill South Jn /     6   52      5    72    N   N      N   N     N       N   N
-                 Millerhill Yard
-SC161     NDE1   Millerhill Yard – Junction with Niddrie        5   52      3    36    N   N      N   Y     N       Y   Y
-                 West Line
-SC161     SUB1   Junction with Niddrie West Line –              3   36      3    30    N   N      N   Y     N       Y   Y
-                 Portobello
-SC161     MHL4   Newcraighall East Jn – Network Rail /         00   00     00    08    N   N      N   N     N       E   E
-                 Abellio Scotrail Boundary
-SC163     SUB1   Portobello – Change of ELR                    3    30      4   00     N   N      N   Y     N       Y   Y
-SC163     SUB2   Change of ELR – Niddrie West                  6    69      6   30     N   N      N   Y     N       Y   Y
-SC164     NNS    Newcraighall North Jn – Newcraighall          4    63      5   02     N   N      N   N     N       N   R1 R1   Permitted up to 6-cars only
-                 South Jn
-SC164     SBO    Newcraighall South Jn – Tweedbank             5    02    35    34     N   N      N   N     N       N   R1 R1   Permitted up to 6-cars only
-SC165     MHY    Niddrie South Jn – Niddrie West Jn            7    06     6    30     N   N      N   Y     Y       Y   Y
-SC165     SUB2   Niddrie West Jn – Gorgie Jn                   6    30     0    45     N   N      N   Y     Y       Y   Y
-SC165     GGE    Gorgie Jn – Haymarket West Jn                 0    00     0    41     N   N      N   Y     Y       Y   Y
-SC167     CKT    Craiglockhart Jn – Slateford Jn               0    00     0    48     N   N      N   Y     Y       Y   Y
-SC169     SUB2   Gorgie Jn – Haymarket Central Jn              0    45     0    11     N   N      N   Y     Y       Y   Y
-SC171     ECM9    Waverley East End – Edinburgh                0    21     0    00     N   N      N   Y     Y       Y   Y
-                 Waverley
-SC171     EGM4   Edinburgh Waverley – Waverley West            0    00      0   15     N   N      N   Y     Y       Y   Y
-                 End (South Lines)
-SC171     ECN1   Edinburgh Waverley – Waverley West            0    00      0   15     N   N      N   Y     Y       Y   Y
-                 End (North Lines)
-SC171     EGM3   Waverley West End – Haymarket (South          0    15      1   19     N   N      N   Y     Y       Y   Y
-                 Lines)
-SC171     ECN2   Waverley West End – Haymarket (North          0    15      1   19     N   N      N   Y     Y       Y   Y
-                 Lines)
-SC171     EGM2   Haymarket – Haymarket East Jn (South          46   02    45    72     N   N      N   Y     Y       Y   Y
-                 Lines)
-SC171     ECN2   Haymarket – Haymarket East Jn (North          1    19      1   29     N   N      N   Y     Y       Y   Y
-                 Lines)
-SC171     EGM2   Haymarket East Jn – Haymarket Central         45   72    45    35     N   N      N   Y     Y       Y   Y
-                 Jn (South Lines)
+SC065     GOU1   Paisley (Wallneuk Jn) – Change of ELR     6    34      6    53    N   N      N   Y     Y       Y    N
+SC065     GOU2   Change of ELR – Bishopton                107   70   112     60    N   N      N   Y     Y       Y    N
+SC065     GOU2   Bishopton – Gourock                      112   60   126     E     N   N      N   Y     Y       Y    N
 
 
-
-October 2009                                                                      16
+October 2009                                                                  10

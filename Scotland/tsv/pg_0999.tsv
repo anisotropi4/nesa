@@ -1,23 +1,21 @@
 Scotland	0999	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
-Scotland	0999	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	N	N	N	N	N	H
-Scotland	0999	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	N	N	N	N	N	H
-Scotland	0999	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	N	N	N	N	N	H
-Scotland	0999	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	N	N	N	N	N	H
-Scotland	0999	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	N	N	N	N	N	H
-Scotland	0999	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	Y	Y	Y	Y	Y	H
-Scotland	0999	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	N	N	N	N	N	H
-Scotland	0999	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	N	N	N	N	N	H
-Scotland	0999	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	N	N	N	N	N	H
-Scotland	0999	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	N	N	H
-Scotland	0999	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	N	N	N	N	N	H
-Scotland	0999	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	N	N	N
-Scotland	0999	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	N	N	N	N	N	H
-Scotland	0999	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	N	N	N	N	N	H
-Scotland	0999	SC119	SCM3	Carmuirs West Jn	Stirling Middle Jn	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	N	N	N	N	N	H
-Scotland	0999	SC119	SCM3	Stirling Middle Jn	Change of ELR (Dunblane)	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	N	N	N	N	N	H
-Scotland	0999	SC119	SCM4	Change of ELR (Dunblane)	Perth South Jn	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	N	N	N	N	N	H
-Scotland	0999	SC119	SCM5	Perth South Jn	Change of Mileage	Perth South Jn – Change of Mileage	150	61	151	03	N	N	N	N	N	H R1	R1 5mph Perth platform 2
-Scotland	0999	SC119	SCM5	Change of Mileage	Dundee Central Jn	Change of Mileage – Dundee Central Jn	21	01	0	36	N	N	N	N	N	H R1	R1 5mph Perth platform 2
-Scotland	0999	SC119	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	N	N	H
-Scotland	0999	SC123	NBE	Bathgate	Change of ELR	Bathgate – Change of ELR	25	18	25	00	Y	Y	Y	N	Y	H
-Scotland	0999	SC123	NEM1	Change of ELR	Drumgelloch	Change of ELR – Drumgelloch	25	00	11	70	Y	Y	Y	R1	Y	H	R1 Prohibited between Change of ELR to Bathgate
+Scotland	0999	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn)	Lockerbie	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	Y	Y	Y	N	Y	Y	
+Scotland	0999	SC001	WCM1	Lockerbie	Law Jn	Lockerbie – Law Jn	25	66	84	08	Y	Y	Y	R1	Y	Y	R1 Prohibited between Lockerbie and Carstairs
+Scotland	0999	SC001	WCM2	Law Jn	Junction with Coatbridge lines (Lesmahagow Jn)	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn)	Newton East Jn	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Newton East Jn	Newton Hamilton Jn (SC0023) via South Connecting Line	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Newton Kirkhill Jn (SC0023)	Newton West Jn via North Connecting Line	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Newton East Jn	Newton West Jn	Newton East Jn – Newton West Jn	95	14	96	34	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Newton West Jn	Rutherglen East Jn	Newton West Jn – Rutherglen East Jn	96	34	98	32	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Rutherglen East Jn	Larkfield Jn	Rutherglen East Jn – Larkfield Jn	98	32	100	65	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Larkfield Jn	Eglinton St Jn	Larkfield Jn – Eglinton St Jn	100	65	101	39	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC001	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC003	ECA1	Carstairs South Jn	Carstairs East Jn	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC003	ECA2	Carstairs East Jn	Slateford Jn	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	Y	Y	N	Y	Y	
+Scotland	0999	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	Y	Y	Y	Y	N	Y	
+Scotland	0999	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	Y	Y	Y	Y	Y	H	
+Scotland	0999	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	Y	Y	Y	Y	Y	Y	
+Scotland	0999	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	Y	Y	Y	Y	Y	Y	

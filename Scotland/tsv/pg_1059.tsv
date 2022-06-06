@@ -1,20 +1,11 @@
-Scotland	1059	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1059	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC029	CLY	Larkfield Jn	Terminus Jn	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC029	BRD	Terminus Jn	Shields Jn via Through Terminus lines	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC029	CLY	Terminus Jn	Shields Jn	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	GSW	Route Boundary (NW4031) (Gretna Jn)	Old Route boundary (109mch between Eastriggs and Annan)	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109mch between Eastriggs and Annan)	115	40	109	00	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	GSW	Old Route boundary (109mch between Eastriggs and Annan)	Change of ELR	Old Route boundary (109mch between Eastriggs and Annan) – Change of ELR	109	0	33	44	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	GBK	Change of ELR	Muirhouse South Jn	Change of ELR – Muirhouse South Jn	23	44	1	18	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	MEN2	Muirhouse South Jn	Muirhouse Central Jn	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	MEN1	Muirhouse Central Jn	Eglinton St Jn	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC031	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC035	KSH	Bank Jn	Network Rail Boundary (Connel Park LC) / Knockshinnoch	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC036	GNN	Greenburn Jn	Greenburn Open Cast (Goods Line)	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC037	RIC1	Kay Park Jn	Bellfield	Kay Park Jn – Bellfield	0	00	1	06	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC037	RIC2	Bellfield	Riccarton (Goods Line)	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC039	BAK	Kilmarnock	Barassie	Kilmarnock – Barassie	0	05	7	56	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1059	SC045	EKE	East Kilbride	Busby Jn	East Kilbride – Busby Jn	7	60	0	40	5	N	R1 R2 R3 R4 R5	N	N	N	N	N	R1 Infrastructure maintenance purposes only R2 Prohibited from hauling vehicles that exceed RA5 R3 Double Heading is prohibited R4 20mph maximum speed R5 10mph over bridge 33 (3m 49ch)
-Scotland	1059	SC047	LFS2	Muirhouse South Jn	Change of ELR	Muirhouse South Jn – Change of ELR	1	19	0	61	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1059	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1059																		
+Scotland	1059						M	Ch	M	Ch									
+Scotland	1059	SC171	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1059	SC171	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1059	SC171	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1059	SC171	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1059	SC171	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1059	SC171	ECN2	Haymarket West Jn	Dundee Central Jn	Haymarket West Jn – Dundee Central Jn	2	41	58	69	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1059	SC171	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1059	SC173	CWH1	Inverkeithing Central Jn	Change of ELR (Cowdenbeath)	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013

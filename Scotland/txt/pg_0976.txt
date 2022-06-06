@@ -1,44 +1,45 @@
-                                                                                     OFFICIAL
+                                                                                    OFFICIAL
 
 
 
 
-                                                                  Scotland Route Sectional Appendix Module SCRC
+                                                                 Scotland Route Sectional Appendix Module SCRC
 
 Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 142 143 144 150 153 156 158 Notes
-route                                                M    Ch   M    Ch 0000 0000 0000 0000 000 0000 0000 ooooooooooooooooooooooooooo
-                                                                                            0
-SC191     ECN2   Dundee Central Jn – Dundee                  58   69    59    14     N   N      N   Y    Y        Y   Y
-SC191     ECN2   Dundee – Camperdown Jn                      59   14    59    77     N   N      N   Y    Y        Y   Y
-SC191     ECN3   Camperdown Jn – Change of ELR               0    21    17    17     N   N      N   Y    Y        Y   Y
-                 (Arbroath SB)
-SC191     ECN4   Change of ELR (Arbroath SB) – Change        17   55    33    28     N   N      N   Y    Y        Y   Y
-                 of ELR (Montrose)
-SC191     ECN5   Change of ELR (Montrose) –                 203   11   239    55     N   N      N   Y    Y        Y   Y
-                 Craiginches
-SC191     ECN5   Craiginches – Aberdeen                     239   55   241    06     N   N      N   Y    Y        Y   Y
-SC193     HGL1   Perth South Jn – Change of ELR             150   61   158    38     N   N      N   Y    Y        Y   Y
-SC193     HGL2   Change of ELR – Stanley Jn                  7    02      7   07     N   N      N   Y    Y        Y   Y
-SC193     HGL2   Stanley Jn – Milburn Jn                     7    07   143    39     N   N      N   Y    R1       Y   Y   R1 40mph Kingussie Up platform 2
-SC193     HGL2   Milburn Jn – Welsh's Bridge Jn             117   37   117    56     N   N      N   Y    Y        Y   Y
-SC193     RSW    Welsh's Bridge Jn – Rose Street Jn         117   56   118    03     N   N      N   E    E        E   E
-SC193     HGL2   Welsh's Bridge Jn – Inverness platforms    117   56   118    03     N   N      N   Y    Y        Y   Y
-                 1-4
-SC195     ECN5   Aberdeen – Change of ELR                   241   06   241    08     N   N      N   Y    Y        Y   Y
-SC195     ANI1   Change of ELR – Keith Jn SB                 0    00    53    05     N   N      N   Y    Y        Y   Y
-SC195     ANI2   Keith Jn SB – Forres                        30   40      0   00     N   N      N   Y    Y        Y   Y
-SC195     ANI3   Forres – Milburn Jn                        119   26   143    39     N   N      N   Y    Y        Y   Y
-SC195     HGL2   Milburn Jn – Welsh's Bridge Jn             117   37   117    56     N   N      N   Y    Y        Y   Y
-SC195     RSW    Welsh's Bridge Jn – Rose Street Jn         117   56   118    03     N   N      N   E    E        E   E
-SC195     HGL2   Welsh's Bridge Jn – Inverness platforms    117   56   118    03     N   N      N   Y    Y        Y   Y
-                 1-4
-SC197     WRO    Kittybrewster – Waterloo Goods (Goods       1    62      0   03     N   N      N   N    N        N   N
-                 Line)
-SC199     DFN    Keith Jn – End of Line                      53   06    53    36     N   N      N   Y    Y        Y   Y
-SC203     RSW    Welsh's Bridge Jn – Rose Street Jn         117   56   118    03     N   N      N   E    E        E   E
-SC203     WCK    Inverness platforms 5-7 – Rose Street Jn    0    02      0   18     N   N      N   Y    Y        Y   R1 R1   10mph Inverness platform 6
-SC203     WCK    Rose Street Jn – Invergordon                0    18    31    37     N   N      N   Y    Y        Y   Y
-SC203     WCK    Invergordon – Georgemas Jn                  31   37   147    20     N   N      N   Y    Y        Y   Y
+route                                                M    Ch   M    Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+SC106     PNS    Sighthill West Jn – Cowlairs South Jn      0    30      0    00    N   N      N   Y     Y       Y   Y
+                 (Chord Line)
+SC107     ECM9   Waverley East End – Edinburgh              0    21      0    00    N   N      N   Y     Y       Y   Y
+                 Waverley
+SC107     EGM4   Edinburgh Waverley – Waverley West         0    00      0    15    N   N      N   Y     Y       Y   Y
+                 End (South Lines)
+SC107     ECN1   Edinburgh Waverley – Waverley West         0    00      0    15    N   N      N   Y     Y       Y   Y
+                 End (North Lines)
+SC107     EGM3   Waverley West End – Haymarket (South       0    15      1    19    N   N      N   Y     Y       Y   Y
+                 Lines)
+SC107     ECN2   Waverley West End – Haymarket (North       0    15      1    19    N   N      N   Y     Y       Y   Y
+                 Lines)
+SC107     EGM2   Haymarket – Haymarket East Jn (South       46   02     45    72    N   N      N   Y     Y       Y   Y
+                 Lines)
+SC107     ECN2   Haymarket – Haymarket East Jn (North       1    19      1    29    N   N      N   Y     Y       Y   Y
+                 Lines)
+SC107     EGM2   Haymarket East Jn – Haymarket Central      45   72     45    35    N   N      N   Y     Y       Y   Y
+                 Jn (South Lines)
+SC107     ECN2   Haymarket East Jn – Haymarket Central      1    29      1    66    N   N      N   Y     Y       Y   Y
+                 Jn (North Lines)
+SC107     EGM2   Haymarket Central Jn – Haymarket West      45   35     44    73    N   N      N   Y     Y       Y   Y
+                 Jn (South Lines)
+SC107     ECN2   Haymarket Central Jn – Haymarket West      1    66      2    41    N   N      N   Y     Y       Y   Y
+                 Jn (North Lines)
+SC107     EGM1   Haymarket West Jn – Cowlairs West Jn       44   73      1    67    N   N      N   Y     Y       Y   Y
+SC107     EGM1   Cowlairs West Jn – Glasgow Queen           1    67      0    00    N   N      N   Y     Y       Y   Y
+                 Street
+SC109     PMT    Polmont Jn – Grangemouth Jn                21   20     23    75    N   N      N   Y     Y       Y   Y
+SC109     PMT    Grangemouth Jn – Carmuirs East Jn          23   75     25    79    N   N      N   Y     Y       Y   Y
+SC109     CMS    Carmuirs East Jn – Carmuirs West Jn        0    40     -0     2    N   N      N   Y     Y       Y   Y
+SC109     SCM3   Carmuirs West Jn – Greenhill Lower Jn     108   74   106     62    N   N      N   Y     Y       Y   Y
+SC109     GHL    Greenhill Lower Jn – Greenhill Upper Jn    0    52      0    00    N   N      N   Y     Y       Y   Y
+SC110     PMT    Carmuirs East Jn – Larbert Jn              25   79     26    35    N   N      N   Y     Y       Y   Y
+SC111     NBE    Newbridge Jn – Bathgate                    35   21     25    18    N   N      N   Y     Y       Y   Y
 
-
-October 2009                                                                    18
+October 2009                                                                   12

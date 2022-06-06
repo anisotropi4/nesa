@@ -1,44 +1,46 @@
-                                                                                              OFFICIAL
+                                                                                   OFFICIAL
 
 
 
 
-                                                                      Scotland Route Sectional Appendix Module SCRC
+                                                              Scotland Route Sectional Appendix Module SCRC
+
+Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170               180    185    220    221 Notes
+route                                                M    Ch   M    Ch 0000              0000   0000   0000   0000 ooooooooooooooooooooooooooo
+SC145     MLG2   Change of ELR – Mallaig                 0    00    39   39        N      N      N      N      N
+SC147     ECM8   Route Boundary (LN600) (Heaton South    69   67     9   67        Y      E      Y      Y      Y
+                 Jn) – Prestonpans Jn
+SC147     ECM8   Prestonpans Jn – Calton South Tunnel    9    67     0   29        Y      E      Y      Y      Y   R1   Prohibited between Craigentinny and
+                                                                                          R1                            Calton South Tunnel
+SC147     ECM9   Calton South Tunnel – Waverley East     0    29     0   21        Y      N      Y      Y      Y
+                 End
+SC147     ECM9   Waverley East End – Edinburgh           0    21     0   00        Y      N      Y      Y      Y
+                 Waverley
+SC147     EGM4   Edinburgh Waverley – Waverley West      0    00     0   15        Y      N      Y      Y      Y
+                 End (South Lines)
+SC147     ECN1   Edinburgh Waverley – Waverley West      0    00     0   15        Y      N      Y      Y      Y
+                 End (North Lines)
+SC147     EGM3   Waverley West End – Haymarket (South    0    15     1   19        Y      N      Y      Y      Y
+                 Lines)
+SC147     ECN2   Waverley West End – Haymarket (North    0    15     1   19        Y      N      Y      Y      Y
+                 Lines)
+SC147     EGM2   Haymarket – Haymarket East Jn (South    46   02    45   72        Y      N      Y      Y      Y
+                 Lines)
+SC147     ECN2   Haymarket – Haymarket East Jn (North    1    19     1   29        Y      N      Y      Y      Y
+                 Lines)
+SC147     EGM2   Haymarket East Jn – Haymarket Central   45   72    45   35        Y      N      Y      Y      Y
+                 Jn (South Lines)
+SC147     ECN2   Haymarket East Jn – Haymarket Central   1    29     1   66        Y      N      Y      Y      Y
+                 Jn (North Lines)
+SC147     EGM2   Haymarket Central Jn – Haymarket West   45   35    44   73        Y      N      Y      Y      Y
+                 Jn (South Lines)
+SC147     ECN2   Haymarket Central Jn – Haymarket West   1    66     2   41        Y      N      Y      Y      Y
+                 Jn (North Lines)
+SC149     NBK    North Berwick – Drem Jn                 22   22    18   15        Y      N      N      N      N
+SC151     LHS1   Portobello – Leith South Yard (Goods    0    00     2   20        N      N      N      N      N
+                 Line)
 
 
 
-Table D2A – Route clearance of electric multiple units
-                                                                                                                                              Last Updated: 28/03/2020
-To be read in conjunction with General Notes.
 
-Line of   ELR      Line of Route / Sector                     oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
-route              Description                                 M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
-                                                                                                                                 ooo
-SC001     WCM1 Route Boundary (NW4001) (Gretna Jn)              12   30    25   66        Y          Y   Y        N   Y   Y
-               – Lockerbie
-SC001     WCM1 Lockerbie – Law Jn                               25   66    84   08        Y          Y   Y       R1   Y   Y   R1   Prohibited between Lockerbie
-                                                                                                                                   and Carstairs
-SC001     WCM2 Law Jn – Junction with Coatbridge                84   08    89   51        Y          Y   Y        Y   Y   Y
-               lines (Lesmahagow Jn)
-SC001     WCM2 Junction with Coatbridge lines                   89   51    95   14        Y          Y   Y        Y   Y   Y
-               (Lesmahagow Jn) – Newton East Jn
-SC001     WCM2 Newton East Jn – Newton Hamilton Jn              95   14    95   47        Y          Y   Y        Y   Y   Y
-               (SC0023) via South Connecting Line
-SC001     WCM2 Newton Kirkhill Jn (SC0023) – Newton             95   77    96   34        Y          Y   Y        Y   Y   Y
-               West Jn via North Connecting Line
-SC001     WCM2 Newton East Jn – Newton West Jn                  95   14    96   34        Y          Y   Y        Y   Y   Y
-SC001     WCM2 Newton West Jn – Rutherglen East Jn              96   34    98   32        Y          Y   Y        Y   Y   Y
-SC001     WCM2 Rutherglen East Jn – Larkfield Jn                98   32   100   65        Y          Y   Y        Y   Y   Y
-SC001     WCM2 Larkfield Jn – Eglinton St Jn                   100   65   101   39        Y          Y   Y        Y   Y   Y
-SC001     WCM2 Eglinton St Jn – Bridge St Jn                   101   39   101   53        Y          Y   Y        Y   Y   Y
-SC001     WCM2 Bridge St Jn – Glasgow Central                  101   53   102   27        Y          Y   Y        Y   Y   Y
-SC003     ECA1     Carstairs South Jn – Carstairs East Jn       73   17    73   48        Y          Y   Y        Y   Y   Y
-SC003     ECA2     Carstairs East Jn – Slateford Jn             74   10    99   01        Y          Y   Y        Y   Y   Y
-SC003     ECA3     Slateford Jn – Haymarket East Jn             99   01   100   41        Y          Y   Y        Y   Y   Y
-SC005     CSP      Carstairs Station Jn – Carstairs East Jn     73   37    74   10        Y          Y   Y        N   Y   Y
-SC007     EGS2     Midcalder Jn – Holytown Jn                   23   11    1    27        Y          Y   Y        Y   N   Y
-SC009     LNK      Lanark – Lanark Jn                            2   45    0    03        Y          Y   Y        Y   Y   H
-SC011     WWD      Law Jn – Holytown Jn                         84   08    89   66        Y          Y   Y        Y   Y   Y
-SC011     EGS2     Holytown Jn – Mossend East Jn                 1   27    0    40        Y          Y   Y        Y   Y   Y
-
-October 2009                                                                         35
+October 2009                                                                  29

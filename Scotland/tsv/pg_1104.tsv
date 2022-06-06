@@ -1,16 +1,21 @@
 Scotland	1104	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1104					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1104	SC171	Princes Street Gardens – Haymarket Central Jn	Princes Street Gardens	Haymarket Central Jn	Y *	Y	R1	R1	N	N	N	N	R1 W8 W9 Prohibited both Lines Haymarket North Tunnel
-Scotland	1104	SC171	Haymarket West Jn – Thornton North Jn	Haymarket West Jn	Thornton North Jn	Y *	Y	N	N	N	N	N	N
-Scotland	1104	SC171	Thornton North Jn – Ladybank Jn	Thornton North Jn	Ladybank Jn	Y *	Y	Y	N	N	N	N	N
-Scotland	1104	SC171	Ladybank Jn – Dundee	Ladybank Jn	Dundee	Y *	Y	N	N	N	N	N	N
-Scotland	1104	SC173	Inverkeithing Central Jn – Thornton North Jn (via Cowdenbeath)	Inverkeithing Central Jn	Thornton North Jn (via Cowdenbeath)	Y *	Y	Y	N	N	N	N	N
-Scotland	1104	SC175	Rosyth Dockyard – Inverkeithing South Jn (Goods Line)	Rosyth Dockyard	Inverkeithing South Jn (Goods Line)	Y	Y	Y	N	N	N	N	N
-Scotland	1104	SC176	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Y	Y	N	N	N	N	N	N
-Scotland	1104	SC177	Thornton North Jn – Methil Power Station (Goods Line)	Thornton North Jn	Methil Power Station (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1104	SC178	Thornton South Jn – Thornton West Jn	Thornton South Jn	Thornton West Jn	Y	Y	N	N	N	N	N	N
-Scotland	1104	SC181	Ladybank Jn – Hilton Jn	Ladybank Jn	Hilton Jn	Y	Y	Y	N	N	N	N	N
-Scotland	1104	SC183	Stirling Middle Jn – (Kincardine (Clackmannan) Jn)	Stirling Middle Jn	(Kincardine (Clackmannan) Jn)	Y	Y	Y	Y	N	N	N	N
-Scotland	1104	SC183	(Kincardine (Clackmannan) Jn) – Charlestown Jn	(Kincardine (Clackmannan) Jn)	Charlestown Jn	Y	N	N	N	N	N	N	N
-Scotland	1104	SC185	Elbowend Jn – Crombie RNAD (Goods Line)	Elbowend Jn	Crombie RNAD (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1104	SC187	Glencraig GF – Bowhill (Goods Line)	Glencraig GF	Bowhill (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1104					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+Scotland	1104	SC039	Kilmarnock – Barassie	Kilmarnock	Barassie	Y	Y	Y	Y	N	N	N	N	
+Scotland	1104	SC041	Shewalton Moss – Hillhouse (Goods Line) (OOU)	Shewalton Moss	Hillhouse (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1104	SC043	Giffen – Lugton (Goods Line) (OOU)	Giffen	Lugton (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use (11-Jan-2009)
+Scotland	1104	SC045	East Kilbride – Busby Jn	East Kilbride	Busby Jn	Y *	N	N	N	N	N	N	N	
+Scotland	1104	SC047	Muirhouse South Jn – Larkfield Jn	Muirhouse South Jn	Larkfield Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1104	SC049	Muirhouse Central Jn – Terminus Jn	Muirhouse Central Jn	Terminus Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1104	SC051	Muirhouse Central Jn – Muirhouse North Jn (via Cathcart) (Cathcart Circle)	Muirhouse Central Jn	Muirhouse North Jn (via Cathcart) (Cathcart Circle)	Y *	Y	N	N	N	N	N	N	
+Scotland	1104	SC053	Neilston – Cathcart West Jn	Neilston	Cathcart West Jn	Y *	Y	N	N	N	N	N	N	
+Scotland	1104	SC055	Newton Hamilton Jn – Cathcart West Jn	Newton Hamilton Jn	Cathcart West Jn	Y *	Y	R1	R1	N	R1	N	N	R1 W10 W9 W8 prohibited EXCEPT between Newton, Hamilton Jn and Newton Kirkhill Jn to/from North Connecting Line
+Scotland	1104	SC057	Cathcart East Jn – Cathcart North Jn	Cathcart East Jn	Cathcart North Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1104	SC059	Bridge Street Jn – Shields Jn	Bridge Street Jn	Shields Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1104	SC059	Shields Jn – Falkland Jn	Shields Jn	Falkland Jn	Y *	Y	Y	R1	N	N	N	N	R1 W9 prohibited through Barassie Up Platform
+Scotland	1104	SC059	Falkland Jn – Stranraer Harbour	Falkland Jn	Stranraer Harbour	Y *	Y	Y	N	N	N	N	N	
+Scotland	1104	SC059	Cook Street – Shields Road (through siding)	Cook Street	Shields Road (through siding)	Y	Y	N	N	N	N	N	N	
+Scotland	1104	SC061	Shields Jn – Corkerhill	Shields Jn	Corkerhill	Y *	Y	N	N	N	N	N	N	
+Scotland	1104	SC061	Corkerhill – Paisley Canal	Corkerhill	Paisley Canal	R1	R1	N	N	N	N	N	N	R1 Prohibited when overhead line equipment is energised
+Scotland	1104	SC063	Cardonald Jn – Deanside (Goods Line)	Cardonald Jn	Deanside (Goods Line)	Y	Y	Y	Y	N	N	N	N	
+Scotland	1104	SC065	Paisley – Wemyss Bay Jn	Paisley	Wemyss Bay Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1104	SC065	Wemyss Bay Jn – Gourock	Wemyss Bay Jn	Gourock	Y *	Y	N	N	N	N	N	N	

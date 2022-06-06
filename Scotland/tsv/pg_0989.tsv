@@ -1,22 +1,23 @@
 Scotland	0989	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	0989	SC171	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	N	Y	Y	Y
-Scotland	0989	SC171	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	N	Y	Y	Y
-Scotland	0989	SC171	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	N	Y	Y	Y
-Scotland	0989	SC171	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	N	Y	Y	Y
-Scotland	0989	SC171	ECN2	Haymarket West Jn	Dundee Central Jn	Haymarket West Jn – Dundee Central Jn	2	41	58	69	Y	N	N	Y	Y
-Scotland	0989	SC171	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	Y	N	N	Y	Y
-Scotland	0989	SC173	CWH1	Inverkeithing Central Jn	Change of ELR (Cowdenbeath)	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	Y	N	N	Y	Y
-Scotland	0989	SC173	CWH2	Change of ELR (Cowdenbeath)	Change of ELR (Lochgelly)	Change of ELR (Cowdenbeath) – Change of ELR (Lochgelly)	0	00	0	70	Y	N	N	Y	Y
-Scotland	0989	SC173	CWH3	Change of ELR (Lochgelly)	Thornton West Jn	Change of ELR (Lochgelly) – Thornton West Jn	27	00	34	62	Y	N	N	Y	Y
-Scotland	0989	SC173	TNW	Thornton West Jn	Thornton North Jn	Thornton West Jn – Thornton North Jn	0	70	0	00	Y	N	N	Y	Y
-Scotland	0989	SC175	RHD2	Rosyth Dockyard	Change of ELR	Rosyth Dockyard – Change of ELR	1	21	1	00	N	N	N	N	N
-Scotland	0989	SC175	RHD1	Change of ELR	Inverkeithing South Jn (Goods Line)	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N
-Scotland	0989	SC176	IGE	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	Y	N	N	Y	Y
-Scotland	0989	SC177	MTL1	Thornton North Jn	Change of ELR	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N
-Scotland	0989	SC177	MTL2	Change of ELR	Methill Power Station (Goods Line)	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N
-Scotland	0989	SC178	CWH3	Thornton South Jn	Thornton West Jn	Thornton South Jn – Thornton West Jn	35	38	34	62	Y	N	N	Y	Y
-Scotland	0989	SC181	CDC1	Ladybank Jn	Change of ELR	Ladybank Jn – Change of ELR	0	03	14	10	Y	N	N	Y	Y
-Scotland	0989	SC181	CDC2	Change of ELR	Hilton Jn	Change of ELR – Hilton Jn	44	18	45	66	Y	N	N	Y	Y
-Scotland	0989	SC183	SAA	Stirling Middle Jn	Change of ELR	Stirling Middle Jn – Change of ELR	0	00	8	14	R1	N	N	N	N	R1 Prohibited between Alloa Town and Change of ELR (8m 14ch)
-Scotland	0989	SC183	KNE1	Change of ELR	Longannet	Change of ELR – Longannet	0	00	5	62	N	N	N	N	N
-Scotland	0989	SC183	KNE1	Longannet	Change of ELR	Longannet – Change of ELR	5	62	14	14	N	N	N	N	N
+Scotland	0989	SC065	GOU2	Change of ELR	Bishopton	Change of ELR – Bishopton	107	70	112	60	N	N	N	N	N	
+Scotland	0989	SC065	GOU2	Bishopton	Gourock	Bishopton – Gourock	112	60	126	58	N	N	N	N	N	
+Scotland	0989	SC067	WYS	Wemyss Bay Jn	Wemyss Bay	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	N	N	N	N	N	
+Scotland	0989	SC073	LGS1	Kilwinning Jn	Change of ELR	Kilwinning Jn – Change of ELR	25	65	30	44	N	N	N	N	N	
+Scotland	0989	SC073	LGS2	Change of ELR	Fairlie High Siding	Change of ELR – Fairlie High Siding	30	44	38	69	N	N	N	N	N	
+Scotland	0989	SC073	LGS2	Fairlie High Siding	Largs	Fairlie High Siding – Largs	38	69	42	07	N	N	N	N	N	
+Scotland	0989	SC077	ARH	Ardrossan South Beach	Adrossan Harbour	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	N	N	N	N	N	
+Scotland	0989	SC079	HUN	Hunterston	Hunterston Low Level Sdgs (Goods Line)	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	
+Scotland	0989	SC081	BYL	Byrehill Jn	Dubbs Jn	Byrehill Jn – Dubbs Jn	0	60	0	00	N	N	N	N	N	
+Scotland	0989	SC085	AYH1	Ayr Harbour	Newton Jn (Goods Line)	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	
+Scotland	0989	SC087	ANN	Newton Jn	Mauchline (Goods Line)	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	N	N	Y	Y	
+Scotland	0989	SC089	KCH1	Annbank	Change of ELR	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	
+Scotland	0989	SC089	KCH2	Change of ELR	Killoch Colliery (Goods Line)	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	
+Scotland	0989	SC091	WAT	Dalrymple Jn	Chalmerston (Goods Line)	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	
+Scotland	0989	SC093	SCM1	Motherwell	Mossend South	Motherwell – Mossend South	89	51	91	08	Y	N	Y	Y	Y	
+Scotland	0989	SC093	SCM2	Mossend South	Whifflet North Jn	Mossend South – Whifflet North Jn	91	08	94	05	Y	N	Y	Y	Y	
+Scotland	0989	SC093	SCM3	Whifflet North Jn	Gartsherrie South Jn (Limit of OLE)	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	Y	N	R1 R2	Y	Y	R1 15mph SCM3/93 Bank Street underbridge 94m55ch Up line (between Coatbridge Jn and Coatbridge Central) R2 15mph Coatbridge Central Down platform
+Scotland	0989	SC093	SCM3	Gartsherrie South Jn (Limit of OLE)	Greenhill Lower Jn	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	Y	N	R1	Y	Y	R1 15mph Greenfaulds Up platform
+Scotland	0989	SC097	SYE	Whifflet South Jn	Sunnyside Jn (Goods Line)	Whifflet South Jn – Sunnyside Jn (Goods Line)	9	63	8	43	N	N	Y	N	N	
+Scotland	0989	SC099	RSL2	Whifflet North Jn	Change of ELR	Whifflet North Jn – Change of ELR	0	00	0	34	Y	N	Y	Y	Y	
+Scotland	0989	SC099	RSL1	Change of ELR	Langloan Jn	Change of ELR – Langloan Jn	6	59	6	34	Y	N	Y	Y	Y	
+Scotland	0989	SC099	RCB	Langloan Jn	Rutherglen East Jn	Langloan Jn – Rutherglen East Jn	6	34	0	04	Y	Y	Y	Y	Y	

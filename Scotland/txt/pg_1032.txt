@@ -9,40 +9,38 @@ Line of ELR     Line of Route / Sector Description                          RA 0
 route                                                                       000 000 000 000 31/6 000 000 37/3 000 37/9 ooooooooooooooooooooooooo
                                                         oooo oooo oooo oooo                              37/4      00
                                                          M Ch M Ch                                       37/6
-SC143    OBN1   Crianlarich Jn – Lower Crianlarich GF     0   00    0    44   5    Y    Y     R1   Y    R2   N    Y    R1   N R1     Class 20 and Class 37/5 locomotives
-                                                                                                        R3                           that conform to RA6 shall apply those
-                                                                                                        R4                           restrictions applicable to the Class
-                                                                                                                                     31/4
-                                                                                                                                R2   Prohibited from hauling passenger
-                                                                                                                                     services
-                                                                                                                                R3   30mph over bridge 3 (0m 16ch)
-                                                                                                                                     (10mph when providing assistance)
-                                                                                                                                R4   Double Heading prohibited except for
-                                                                                                                                     providing assistance
-SC143    OBN2   Lower Crianlarich GF – Inverhaggernie    30   23   31    00   5    R1   R1    R1   R1   R3   N    R1   R1   N R1     30mph over bridge 158 (30m 80ch)
-                No.1 LC                                                                       R2        R4             R2     R2     Prohibited from hauling passenger
-                                                                                                        R5                           services
-                                                                                                                                R3   10mph over bridge 158 (30m 80ch)
-                                                                                                                                R4   Double Heading prohibited except for
-                                                                                                                                     providing assistance
-SC143    OBN2   Inverhaggernie No.1 LC – Oban            31   00   71    44   5    R1   R1    R1   R1   N    N    R1   R1   N R1     30mph over bridge 176 (35m 17ch)
-                                                                                   R2   R2    R2   R2             R2   R2     R2     20mph over bridge 268 (66m 16ch)
-SC145    MLG1   Fort William – Change of ELR              0   05    1    27   5    Y    Y     R1   Y    N    R2   Y    R1   N R1     Route prohibited to Class 20 and
+SC063    CND1   Cardonald Jn – Cardonald North Jn         0   00    0    36   9    Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC063    CND2   Cardonald North Jn – Deanside (Goods      0   36    1    54   9    Y    Y     Y    Y    Y    Y    Y    Y    Y
+                Line)
+SC065    GOU1   Paisley (Wallneuk Jn) – Change of ELR     6   34    6    53   7    Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC065    GOU2   Change of ELR – Bishopton               107   70   112   60    7   R2   R2    R2   R2   R2   R2   R2   R2   R2 R1    RA Change
+                                                                                                                                     STNC NC/G1/2010/ICP-RA/SC006 applies until
+                                                                              R1   R3   R3    R3   R3   R3   R3   R3   R3   R3       30/09/2014
+                                                                                                                                R2   30mph over bridge 179/065 Black
+                                                                                                                                     (Cart Water) (109m 71ch)
+                                                                                                                                R3   30mph over bridge 179/061 (River
+                                                                                                                                     Gryfe) (110m 42ch)
+SC065    GOU2   Bishopton – Gourock                     112   60   126   58    5   Y    Y     Y    Y    Y    Y    Y    Y    Y R1     RA Change
+                                                                                                                                     STNC NC/G1/2010/ICP-RA/SC006 applies until
+                                                                              R1                                                     30/09/2014
+SC067    WYS    Wemyss Bay Jn – Wemyss Bay                0   00    10   03   5    Y    Y     R1   Y    N    N    R1   Y    N R1     Route prohibited to Class 20 and
                                                                                                                                      Class 37/5 locomotives that conform
                                                                                                                                      to RA6
-                                                                                                                                R2   20mph over Lochy Viaduct (0m 55ch
-                                                                                                                                     – 0m 60ch)
-SC145    MLG2   Change of ELR – Mallaig                   0   00   39    39   5    Y    Y     R1   Y    N    R2   Y    R1   N R1     Route prohibited to Class 20 and
-                                                                                                             R3                      Class 37/5 locomotives that conform
-                                                                                                             R4                      to RA6
-                                                                                                                                R2   30mph over bridge 29 (6m 18ch)
-                                                                                                                                R3   20mph over bridge 051 (Drumsalie)
-                                                                                                                                     (10m 19ch)
-                                                                                                                                R4   10mph over bridge 134 (31m 04ch)
-SC147    ECM8   Route Boundary (LN600) (Heaton South     69   67    9    67   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
-                Jn) – Prestonpans Jn
-SC147    ECM8   Prestonpans Jn – Calton South Tunnel      9   67    0    29   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
-
-
-
-October 2009                                                                  72
+SC073    LGS1   Kilwinning Jn – Change of ELR            25   65    30   44   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC073    LGS2   Change of ELR – Fairlie High Siding      30   44    38   69   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC073    LGS2   Fairlie High Siding – Largs              38   69    42   07   5    Y    Y     R1   Y    N    N    R1   Y    N R1     Route prohibited to Class 20 and
+                                                                                                                                     Class 37/5 locomotives that conform
+                                                                                                                                     to RA6
+SC077    ARH    Ardrossan South Beach – Adrossan         30   44    31   35   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+                Harbour
+SC079    HUN    Hunterston – Hunterston Low Level         0   00    0    36   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+                Sdgs (Goods Line)
+SC081    BYL    Byrehill Jn – Dubbs Jn                    0   60    0    00   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC085    AYH1   Ayr Harbour – Newton Jn (Goods Line)      0   17    0    00   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC087    ANN    Newton Jn – Mauchline (Goods Line)       39   42    50   16   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC089    KCH1   Annbank – Change of ELR                  43   52    48   73   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+SC089    KCH2   Change of ELR – Killoch Colliery          0   00    3    43   10   Y    Y     Y    Y    Y    Y    Y    Y    Y
+                (Goods Line)
+SC091    WAT    Dalrymple Jn – Chalmerston (Goods        43   53    52   70   8    Y    Y     Y    Y    Y    Y    Y    Y    Y
+                Line)
+October 2009                                                                  66

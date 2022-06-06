@@ -1,20 +1,25 @@
 Scotland	1017	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1017	SC165	SUB2	Niddrie West Jn	Gorgie Jn	Niddrie West Jn – Gorgie Jn	6	30	0	45	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC165	GGE	Gorgie Jn	Haymarket West Jn	Gorgie Jn – Haymarket West Jn	0	00	0	41	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC167	CKT	Craiglockhart Jn	Slateford Jn	Craiglockhart Jn – Slateford Jn	0	00	0	48	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC169	SUB2	Gorgie Jn	Haymarket Central Jn	Gorgie Jn – Haymarket Central Jn	0	45	0	11	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC171	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	Y	Y	N	N	N	Y	Y	Y
-Scotland	1017	SC171	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y
-Scotland	1017	SC171	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y
-Scotland	1017	SC171	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	Y
-Scotland	1017	SC171	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited betweenm 32 ch to Haymarket (North lines)
-Scotland	1017	SC171	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	N	N	N	Y	Y	Y
-Scotland	1017	SC171	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	Y	Y	N	N	N	Y	Y	N
-Scotland	1017	SC171	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	Y	Y	N	N	N	Y	Y	N
-Scotland	1017	SC171	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	Y	Y	N	N	N	Y	Y	N
-Scotland	1017	SC171	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	Y	Y	N	N	N	Y	Y	N
-Scotland	1017	SC171	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC171	ECN2	Haymarket West Jn	Dundee Central Jn	Haymarket West Jn – Dundee Central Jn	2	41	58	69	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC171	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC173	CWH1	Inverkeithing Central Jn	Change of ELR (Cowdenbeath)	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	Y	Y	Y	N	N	N	N	Y	N
-Scotland	1017	SC173	CWH2	Change of ELR (Cowdenbeath)	Change of ELR (Lochgelly)	Change of ELR (Cowdenbeath) – Change of ELR (Lochgelly)	0	00	0	70	Y	Y	Y	N	N	N	N	Y	N
+Scotland	1017	SC059	STR4	Change of ELR (Stranraer Yard GF)	End of Line	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC061	CNL	Shields Jn	Corkerhill	Shields Jn – Corkerhill	1	05	3	11	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1017	SC061	CNL	Corkerhill	Paisley Canal	Corkerhill – Paisley Canal	3	11	7	00	R1	R1	R1	N	N	N	N	N	N	R1 Prohibited when overhead line equipment is energised
+Scotland	1017	SC063	CND1	Cardonald Jn	Cardonald North Jn	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC063	CND2	Cardonald North Jn	Deanside (Goods Line)	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC065	GOU1	Paisley (Wallneuk Jn)	Change of ELR	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC065	GOU2	Change of ELR	Bishopton	Change of ELR – Bishopton	107	70	112	60	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC065	GOU2	Bishopton	Gourock	Bishopton – Gourock	112	60	126	58	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC067	WYS	Wemyss Bay Jn	Wemyss Bay	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC073	LGS1	Kilwinning Jn	Change of ELR	Kilwinning Jn – Change of ELR	25	65	30	44	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC073	LGS2	Change of ELR	Fairlie High Siding	Change of ELR – Fairlie High Siding	30	44	38	69	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC073	LGS2	Fairlie High Siding	Largs	Fairlie High Siding – Largs	38	69	42	07	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC077	ARH	Ardrossan South Beach	Adrossan Harbour	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC079	HUN	Hunterston	Hunterston Low Level Sdgs (Goods Line)	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC081	BYL	Byrehill Jn	Dubbs Jn	Byrehill Jn – Dubbs Jn	0	60	0	00	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC085	AYH1	Ayr Harbour	Newton Jn (Goods Line)	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC087	ANN	Newton Jn	Mauchline (Goods Line)	Newton Jn – Mauchline (Goods Line)	39	42	50	16	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1017	SC089	KCH1	Annbank	Change of ELR	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC089	KCH2	Change of ELR	Killoch Colliery (Goods Line)	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC091	WAT	Dalrymple Jn	Chalmerston (Goods Line)	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	N	N	N	
+Scotland	1017	SC093	SCM1	Motherwell	Mossend South	Motherwell – Mossend South	89	51	91	08	Y	Y	Y	N	N	N	Y	Y	E	
+Scotland	1017	SC093	SCM2	Mossend South	Whifflet North Jn	Mossend South – Whifflet North Jn	91	08	94	05	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1017	SC093	SCM3	Whifflet North Jn	Gartsherrie South Jn (Limit of OLE)	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1017	SC093	SCM3	Gartsherrie South Jn (Limit of OLE)	Greenhill Lower Jn	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	Y	Y	Y	N	N	N	N	Y	N	

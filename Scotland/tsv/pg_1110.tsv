@@ -1,26 +1,16 @@
-Scotland	1110	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1110	SC003	ECA2	Carstairs East Jn	Slateford Jn	Carstairs East Jn – Slateford Jn	74	10	99	01	8	Y
-Scotland	1110	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	10	Y
-Scotland	1110	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y
-Scotland	1110	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	8	Y
-Scotland	1110	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	5	Y
-Scotland	1110	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	10	Y
-Scotland	1110	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y
-Scotland	1110	SC011	EGS1	Mossend East Jn	Uddingston Jn	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y
-Scotland	1110	SC013	SHR	Wishaw Central Jn	Shieldmuir Jn	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y
-Scotland	1110	SC015	MDN	Mossend East Jn	Mossend North Jn (North Curve)	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y
-Scotland	1110	SC017	MDE	Mossend East Jn	Mossend South Jn (East Curve)	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y
-Scotland	1110	SC019	MDW	Mossend South Jn	Mossend West Jn (West Curve)	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y
-Scotland	1110	SC021	COS2	Coltness	Change of ELR	Coltness – Change of ELR	0	09	0	00	10	Y
-Scotland	1110	SC021	COS1	Change of ELR	Garriongill Jn	Change of ELR – Garriongill Jn	14	15	15	29	10	Y
-Scotland	1110	SC023	HMN1	Motherwell	Change of ELR	Motherwell – Change of ELR	0	08	1	44	7	R1	R1 Prohibited Motherwell platform 3 (Down Hamilton Circle line)
-Scotland	1110	SC023	HMN2	Change of ELR	Newton, Hamilton Jn	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	Y
-Scotland	1110	SC024	LRK	Larkhall	Haughhead Jn	Larkhall – Haughhead Jn	3	00	0	00	10	Y
-Scotland	1110	SC025	ARG1	Rutherglen Central Jn	Bridgeton Yard North End	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y
-Scotland	1110	SC025	ARG2	Bridgeton Yard North End	Exhibition Centre	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y
-Scotland	1110	SC025	ARG2	Exhibition Centre	Finnieston East Jn (Down line)	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y
-Scotland	1110	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y
-Scotland	1110	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y
-Scotland	1110	SC029	CLY	Larkfield Jn	Terminus Jn	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y
-Scotland	1110	SC029	BRD	Terminus Jn	Shields Jn via Through Terminus lines	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y
-Scotland	1110	SC029	CLY	Terminus Jn	Shields Jn	Terminus Jn – Shields Jn	101	62	102	16	10	Y
+Scotland	1110	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+Scotland	1110					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+Scotland	1110	SC171	Princes Street Gardens – Haymarket Central Jn	Princes Street Gardens	Haymarket Central Jn	Y *	Y	R1	R1	N	N	N	N	R1 W8 W9 Prohibited both Lines Haymarket North Tunnel
+Scotland	1110	SC171	Haymarket West Jn – Thornton North Jn	Haymarket West Jn	Thornton North Jn	Y *	Y	N	N	N	N	N	N	
+Scotland	1110	SC171	Thornton North Jn – Ladybank Jn	Thornton North Jn	Ladybank Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1110	SC171	Ladybank Jn – Dundee	Ladybank Jn	Dundee	Y *	Y	N	N	N	N	N	N	
+Scotland	1110	SC173	Inverkeithing Central Jn – Thornton North Jn (via Cowdenbeath)	Inverkeithing Central Jn	Thornton North Jn (via Cowdenbeath)	Y *	Y	Y	N	N	N	N	N	
+Scotland	1110	SC175	Rosyth Dockyard – Inverkeithing South Jn (Goods Line)	Rosyth Dockyard	Inverkeithing South Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1110	SC176	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Y	Y	N	N	N	N	N	N	
+Scotland	1110	SC177	Thornton North Jn – Methil Power Station (Goods Line)	Thornton North Jn	Methil Power Station (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1110	SC178	Thornton South Jn – Thornton West Jn	Thornton South Jn	Thornton West Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1110	SC181	Ladybank Jn – Hilton Jn	Ladybank Jn	Hilton Jn	Y	Y	Y	N	N	N	N	N	
+Scotland	1110	SC183	Stirling Middle Jn – (Kincardine (Clackmannan) Jn)	Stirling Middle Jn	(Kincardine (Clackmannan) Jn)	Y	Y	Y	Y	N	N	N	N	
+Scotland	1110	SC183	(Kincardine (Clackmannan) Jn) – Charlestown Jn	(Kincardine (Clackmannan) Jn)	Charlestown Jn	Y	N	N	N	N	N	N	N	
+Scotland	1110	SC185	Elbowend Jn – Crombie RNAD (Goods Line)	Elbowend Jn	Crombie RNAD (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1110	SC187	Glencraig GF – Bowhill (Goods Line)	Glencraig GF	Bowhill (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use

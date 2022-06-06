@@ -1,14 +1,17 @@
-Scotland	1109	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1109	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn)	Lockerbie	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	10	Y
-Scotland	1109	SC001	WCM1	Lockerbie	Law Jn	Lockerbie – Law Jn	25	66	84	08	10	Y
-Scotland	1109	SC001	WCM2	Law Jn	Junction with Coatbridge lines (Lesmahagow Jn)	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	10	Y
-Scotland	1109	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn)	Newton East Jn	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	8	Y
-Scotland	1109	SC001	WCM2	Newton East Jn	Newton Hamilton Jn (SC0023) via South Connecting line	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting line	95	14	95	47	10	Y
-Scotland	1109	SC001	WCM2	Newton Kirkhill Jn (SC0023)	Newton West Jn via North Connecting line	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting line	95	77	96	34	10	Y
-Scotland	1109	SC001	WCM2	Newton East Jn	Newton West Jn	Newton East Jn – Newton West Jn	95	14	96	34	8	Y
-Scotland	1109	SC001	WCM2	Newton West Jn	Rutherglen East Jn	Newton West Jn – Rutherglen East Jn	96	34	98	32	8	Y
-Scotland	1109	SC001	WCM2	Rutherglen East Jn	Larkfield Jn	Rutherglen East Jn – Larkfield Jn	98	32	100	65	10	Y
-Scotland	1109	SC001	WCM2	Larkfield Jn	Eglinton St Jn	Larkfield Jn – Eglinton St Jn	100	65	101	39	8	Y
-Scotland	1109	SC001	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y
-Scotland	1109	SC001	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y
-Scotland	1109	SC003	ECA1	Carstairs South Jn	Carstairs East Jn	Carstairs South Jn – Carstairs East Jn	73	17	73	48	10	Y
+Scotland	1109	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
+Scotland	1109					W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+Scotland	1109	SC151	Portobello – Leith South Yard (Goods Line)	Portobello	Leith South Yard (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1109	SC153	Craigentinny – Powderhall (Goods Line)	Craigentinny	Powderhall (Goods Line)	Y	Y	N	N	N	N	N	N	
+Scotland	1109	SC155	Monktonhall Jn – Millerhill Yard (Goods Line)	Monktonhall Jn	Millerhill Yard (Goods Line)	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Millerhill Yard sidings
+Scotland	1109	SC157	Millerhill South Jn – Millerhill East Jn (Goods Line)	Millerhill South Jn	Millerhill East Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1109	SC159	End of Line (former Bilston Br) – Millerhill South Jn (Goods Line)	End of Line (former Bilston Br)	Millerhill South Jn (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1109	SC159	Millerhill South Jn – Millerhill Yard Goods Line)	Millerhill South Jn	Millerhill Yard Goods Line)	Y	Y	Y	Y	N	N	N	N	
+Scotland	1109	SC161	Millerhill Yard – Portobello	Millerhill Yard	Portobello	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Nidrie South Jn to Portobello
+Scotland	1109	SC163	Portobello – Niddrie West	Portobello	Niddrie West	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1109	SC165	Niddrie South Jn – Niddrie West Jn	Niddrie South Jn	Niddrie West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1109	SC165	Niddrie West Jn – Craiglockhart Jn	Niddrie West Jn	Craiglockhart Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1109	SC165	Craiglockhart Jn – Gorgie Jn	Craiglockhart Jn	Gorgie Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1109	SC165	Gorgie Jn – Haymarket West Jn	Gorgie Jn	Haymarket West Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1109	SC167	Craiglockhart Jn – Slateford Jn	Craiglockhart Jn	Slateford Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford east sidings
+Scotland	1109	SC169	Gorgie Jn – Haymarket Central Jn	Gorgie Jn	Haymarket Central Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1109	SC171	Edinburgh Waverley – Princes Street Gardens	Edinburgh Waverley	Princes Street Gardens	Y *	R1	R1	R1	N	N	N	N	R1 W9 prohibited EXCEPT all through routes Edinburgh Waverley Station and Lines W & Z between Edinburh Waverley and Princes Street Gardens W9 W8 W7 prohibited Lines X & Y between Edinburh Waverley and Princes Street Gardens

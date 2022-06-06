@@ -1,51 +1,64 @@
+                                                           OFFICIAL
+
+
 Scotland Route Sectional Appendix Module SC1
 
 
 
+                                                                                                        GSM-R
+                    LINE/PLATFORM                            LOCATION         CONTROLLING
+LOCATION                                       SIGNAL                                                   CONTACT
+                    (DIRECTION)                              CODE             SIGNAL BOX/PANEL
+                                                                                                        NUMBER
 
-HAULAGE OF ELECTRIC LOCOMOTIVES AND
-ELECTRIC MULTIPLE UNITS OVER NON-ELECTRIFIED
-ROUTES
-All routes within Scotland Route, except Auchmuty to Markinch sidings GF (Goods line), are cleared for the
-haulage of electric locomotives and electric multiple units with pantographs lowered and isolated.
+SC193 PERTH TO INVERNESS
 
-Note - where a Class 320 electric multiple unit is involved, the movement must not exceed 40mph.
+                    Dunkeld
+Dunkeld                                        DK12          990              Dunkeld                   74 0246 01
+                    Goods Siding Exit
 
-                                                                                  Scotland Route GI - Dated: 30/01/16
+                    Blair Atholl
+Blair Atholl                                   BA3/BA4       990              Blair Atholl              74 0244 01
+                    Down Sidings Exit
 
+                    Dalwhinnie
+Dalwhinnie                                     DW8           990              Dalwhinnie                74 0243 01
+                    Up Relief Siding Exit
 
+SC195 ABERDEEN TO INVERNESS
 
-INFRASTRUCTURE MONITORING TRAINS
-Network Rail own a fleet of specially adapted Infrastructure Monitoring vehicles which operate frequently on
-most lines on all Network Rail routes, these vehicles are painted yellow and carry Network Rail logos. Trains
-with these vehicles in them generally operate with a ‘Q’ headcode so as to denote that they are line specific.
+Huntly              Huntly Up Siding Exit      HT13          990              Huntly                    74 0251 01
 
-During movements, these vehicles can emit a powerful underframe light source which could be mistakenly
-identified as a binding brake or sparks being emitted from the bogies, and as such, does not require to be
-reported to the controlling Signaller. However, if in any doubt, then normal operating procedures should be
-applied.
+GSM-R – CAB RADIO REGISTRATION - AREA SPECIFIC 99X LOCATION CODES
 
-
-                                                                                  Scotland Route GI - Dated: 18/04/15
-
-
-LADDER RAIL TROLLEYS
-A number of trolleys have been fitted with extending ladders to facilitate the adjusting of electrification overhead
-equipment. These trolleys when being used on running lines will be dealt with in accordance with the Rule Book, Module
-T2.
-                                                                              Scotland Territory GI - Dated: 02/12/06
-
-
-LIGHTING AND EXTINGUISHING OF SIGNAL LAMPS
-Shunting Signals
-At places where shunting operations are seldom carried out after dark, the lamps of ground shunting signals need not be
-lit, but the lamps of such signals must be kept in readiness for use so that if the circumstances require the lamps to be lit
-this can be done. Should it be necessary for a shunting movement to be made during darkness at places where there are
-no lights in the ground signals, the competent person must see that the signal is cleared before any movement is made
-over points to which such signals apply.
-                                                                              Scotland Territory GI - Dated: 02/12/06
+When required to use a 99X location code (also known as ‘wild card number’) to pre-register or to register the cab radio as
+shown in the GSM-R user procedures the following area specific location code must be used in the areas covered by this
+Sectional Appendix:
+990       Scotland Route.
+                                                                                Scotland Territory GI - Dated: 17/08/19
 
 
 
+GSM-R – GENERAL INSTRUCTION
+TW5 SECTION 24 – KNOWN SEARCHING NETWORK LOCATIONS
+The locations in the table below have encountered a temporary reduction in radio coverage with the GSM-R system which
+may result in registration problems and the ability of the driver to contact the signaller. This will be presented to the Driver
+on the DCP as ‘searching for network’.
+Drivers must carry out the “Pending Registration” process on the radio and continue their journey.
+ Location               Fault           Comments                           Outcome
+                        Number
+ Cambuslang to          NA              Interference issues.               Currently under monitor
+ Newton West                            Other operator signal has
+ Junction                               been reduced
+ Neilston station       GLA             Coverage issues                    Investigation ongoing – with design group
+                        220816
+ Barrhead               TT150155        Interference                       Currently under monitor
+ Partick                TT168342        Interference                       Currently under monitor
+ Garrowhill             TT103008/       Interference                       Investigation ongoing – awaiting PMNC reworks
+                         PT8255
+ Cardross               TT147131        Coverage                           Under investigation
 
-April 2010                                                60B
+
+
+
+April 2010                                                  58

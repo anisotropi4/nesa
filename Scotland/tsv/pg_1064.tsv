@@ -1,22 +1,20 @@
 Scotland	1064	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1064	SC107	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC107	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC107	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC107	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC107	EGM1	Haymarket West Jn	Cowlairs West Jn	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	R1 R2 R3	Y	Y	Y	Y	R1 60mph over bridge 8 (Balgreen Road near Haymarket West) (44m 59ch) R2 60mph over 2A (South Gyle Road) (43mch) R3 60mph over 13A (M8 Bridge at Newbridge) (38m 24ch)
-Scotland	1064	SC107	EGM1	Cowlairs West Jn	Glasgow Queen Street	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC109	PMT	Polmont Jn	Grangemouth Jn	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1064	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	5	N	N	N	N	N	N	Y
-Scotland	1064	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1064	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	Y	Y	Y
+Scotland	1064	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
+Scotland	1064	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	5	N	R1 R2	N	N	N	N	Y	R1 Infrastructure maintenanance purposes only R2 Prohibited from hauling haul vehicles that exceed RA5
+Scotland	1064	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC011	EGS1	Mossend East Jn	Uddingston Jn	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC013	SHR	Wishaw Central Jn	Shieldmuir Jn	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC015	MDN	Mossend East Jn	Mossend North Jn (North Curve)	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC017	MDE	Mossend East Jn	Mossend South Jn (East Curve)	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC019	MDW	Mossend South Jn	Mossend West Jn (West Curve)	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC021	COS2	Coltness	Change of ELR	Coltness – Change of ELR	0	09	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC021	COS1	Change of ELR	Garriongill Jn	Change of ELR – Garriongill Jn	14	15	15	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC023	HMN1	Motherwell	Change of ELR	Motherwell – Change of ELR	0	08	1	44	7	N	Y	R1 R2	Y	Y	Y	Y	R1 20mph over bridge 045/046 (1m 42ch) R2 20mph over bridge 045/047 (1m 12ch)
+Scotland	1064	SC023	HMN2	Change of ELR	Newton, Hamilton Jn	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	N	Y	R1 R2 R3 R4	Y	Y	Y	Y	R1 20mph over bridge 045/045B (6m 37ch) R2 40mph over bridge 045/060 (3m 73ch) R3 40mph over bridge 045/062 (3m 31ch) R4 40mph over bridge 045/065 (2m 45ch)
+Scotland	1064	SC024	LRK	Larkhall	Haughhead Jn	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC025	ARG1	Rutherglen Central Jn	Bridgeton Yard North End	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC025	ARG2	Bridgeton Yard North End	Exhibition Centre	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1064	SC025	ARG2	Exhibition Centre	Finnieston East Jn (Down line)	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y	

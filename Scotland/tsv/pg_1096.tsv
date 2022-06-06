@@ -1,10 +1,19 @@
-Scotland	1096	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1096					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1096	SC001	Newton East Jn – Newton West Jn via South Connecting Line,Newton Station and North Connecting Line	Newton East Jn	Newton West Jn via South Connecting Line,Newton Station and North Connecting Line	Y	Y	Y	Y	N	Y	N	N
-Scotland	1096	SC003	Carstairs South Jn – Haymarket East Jn	Carstairs South Jn	Haymarket East Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford Jn to Haymarket East Jn
-Scotland	1096	SC005	Carstairs Station Jn – Carstairs East Jn	Carstairs Station Jn	Carstairs East Jn	Y	Y	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED Carstairs platform 1 R2 PROHIBITED Carstairs platform 2 R3 PROHIBITED Carstairs Through Siding
-Scotland	1096	SC007	Midcalder Jn – Holytown Jn	Midcalder Jn	Holytown Jn	Y *	R1	S1	N	N	N	N	N	R1 W7 15mph on Up Line Br.59 Shotts Station [8m 38ch] S1 The following combinations are permitted: 2590 high x 2500 wide box on FSA/FTA KFA wagons. All lines 2590 high x 2550 wide box on FEA FSA/FTA KFA wagons All lines 2896 high x 2500 wide box on FLA wagons Down line ONLY 2896 high x 2500 wide box on FLA wagons Up line 15 mph at Br 59 Shotts Station [08m 38ch]
-Scotland	1096	SC009	Lanark – Lanark Jn	Lanark	Lanark Jn	Y *	N	N	N	N	N	N	N
-Scotland	1096	SC011	Law Jn – Uddingston Jn (via Holytown)	Law Jn	Uddingston Jn (via Holytown)	Y *	Y	Y	Y	N	Y	N	N
-Scotland	1096	SC013	Wishaw Central Jn – Shieldmuir Jn	Wishaw Central Jn	Shieldmuir Jn	Y	Y	Y	Y	N	Y	N	N
-Scotland	1096	SC015	Mossend East Jn – Mossend North Jn (North Curve)	Mossend East Jn	Mossend North Jn (North Curve)	Y	Y	Y	Y	N	Y	N	N
+Scotland	1096	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Scotland	1096	SC171	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC171	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC171	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC171	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	R1	Y	Y	Y	R1 Prohibited Haymarket East Jn - Haymarket Central Jn on the Up North
+Scotland	1096	SC171	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC171	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	N	N	Y	N	N	Y	
+Scotland	1096	SC171	ECN2	Haymarket West Jn	Dundee Central Jn	Haymarket West Jn – Dundee Central Jn	2	41	58	69	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC171	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC173	CWH1	Inverkeithing Central Jn	Change of ELR (Cowdenbeath)	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC173	CWH2	Change of ELR (Cowdenbeath)	Change of ELR (Lochgelly)	Change of ELR (Cowdenbeath) – Change of ELR (Lochgelly)	0	00	0	70	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC173	CWH3	Change of ELR (Lochgelly)	Thornton West Jn	Change of ELR (Lochgelly) – Thornton West Jn	27	00	34	62	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC173	TNW	Thornton West Jn	Thornton North Jn	Thornton West Jn – Thornton North Jn	0	70	0	00	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC175	RHD2	Rosyth Dockyard	Change of ELR	Rosyth Dockyard – Change of ELR	1	21	1	00	8	N	N	Y	N	N	N	
+Scotland	1096	SC175	RHD1	Change of ELR	Inverkeithing South Jn (Goods Line)	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	8	N	N	Y	N	N	N	
+Scotland	1096	SC176	IGE	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC177	MTL1	Thornton North Jn	Change of ELR	Thornton North Jn – Change of ELR	0	11	4	65	8	N	N	Y	N	N	N	
+Scotland	1096	SC177	MTL2	Change of ELR	Methill Power Station (Goods Line)	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	8	N	N	Y	N	N	N	
+Scotland	1096	SC178	CWH3	Thornton South Jn	Thornton West Jn	Thornton South Jn – Thornton West Jn	35	38	34	62	8	N	N	Y	N	N	N	

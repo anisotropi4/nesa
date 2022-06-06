@@ -1,26 +1,22 @@
 Scotland	0976	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
-Scotland	0976	SC191	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC191	ECN2	Dundee	Camperdown Jn	Dundee – Camperdown Jn	59	14	59	77	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC191	ECN3	Camperdown Jn	Change of ELR (Arbroath SB)	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC191	ECN4	Change of ELR (Arbroath SB)	Change of ELR (Montrose)	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC191	ECN5	Change of ELR (Montrose)	Craiginches	Change of ELR (Montrose) – Craiginches	203	11	239	55	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC191	ECN5	Craiginches	Aberdeen	Craiginches – Aberdeen	239	55	241	06	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC193	HGL1	Perth South Jn	Change of ELR	Perth South Jn – Change of ELR	150	61	158	38	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC193	HGL2	Change of ELR	Stanley Jn	Change of ELR – Stanley Jn	7	02	7	07	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC193	HGL2	Stanley Jn	Milburn Jn	Stanley Jn – Milburn Jn	7	07	143	39	N	N	N	Y	R1	Y	Y	R1 40mph Kingussie Up platform 2
-Scotland	0976	SC193	HGL2	Milburn Jn	Welsh's Bridge Jn	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC193	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	E	E	E	E
-Scotland	0976	SC193	HGL2	Welsh's Bridge Jn	Inverness platforms 1-4	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC195	ECN5	Aberdeen	Change of ELR	Aberdeen – Change of ELR	241	06	241	08	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC195	ANI1	Change of ELR	Keith Jn SB	Change of ELR – Keith Jn SB	0	00	53	05	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC195	ANI2	Keith Jn SB	Forres	Keith Jn SB – Forres	30	40	0	00	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC195	ANI3	Forres	Milburn Jn	Forres – Milburn Jn	119	26	143	39	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC195	HGL2	Milburn Jn	Welsh's Bridge Jn	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC195	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	E	E	E	E
-Scotland	0976	SC195	HGL2	Welsh's Bridge Jn	Inverness platforms 1-4	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC197	WRO	Kittybrewster	Waterloo Goods (Goods Line)	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	N	N	N	N	N	N	N
-Scotland	0976	SC199	DFN	Keith Jn	End of Line	Keith Jn – End of Line	53	06	53	36	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC203	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	E	E	E	E
-Scotland	0976	SC203	WCK	Inverness platforms 5-7	Rose Street Jn	Inverness platforms 5-7 – Rose Street Jn	0	02	0	18	N	N	N	Y	Y	Y	R1	R1 10mph Inverness platform 6
-Scotland	0976	SC203	WCK	Rose Street Jn	Invergordon	Rose Street Jn – Invergordon	0	18	31	37	N	N	N	Y	Y	Y	Y
-Scotland	0976	SC203	WCK	Invergordon	Georgemas Jn	Invergordon – Georgemas Jn	31	37	147	20	N	N	N	Y	Y	Y	Y
+Scotland	0976	SC106	PNS	Sighthill West Jn	Cowlairs South Jn (Chord Line)	Sighthill West Jn – Cowlairs South Jn (Chord Line)	0	30	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM1	Haymarket West Jn	Cowlairs West Jn	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC107	EGM1	Cowlairs West Jn	Glasgow Queen Street	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC109	PMT	Polmont Jn	Grangemouth Jn	Polmont Jn – Grangemouth Jn	21	20	23	75	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	N	N	N	Y	Y	Y	Y	
+Scotland	0976	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	N	N	N	Y	Y	Y	Y	

@@ -1,46 +1,45 @@
-                                                                                   OFFICIAL
+                                                                                      OFFICIAL
 
 
 
 
-                                                              Scotland Route Sectional Appendix Module SCRC
+                                                                 Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170               180    185    220    221 Notes
-route                                                M    Ch   M    Ch 0000              0000   0000   0000   0000 ooooooooooooooooooooooooooo
-SC145     MLG2   Change of ELR – Mallaig                 0    00    39   39        N      N      N      N      N
-SC147     ECM8   Route Boundary (LN600) (Heaton South    69   67     9   67        Y      E      Y      Y      Y
-                 Jn) – Prestonpans Jn
-SC147     ECM8   Prestonpans Jn – Calton South Tunnel    9    67     0   29        Y      E      Y      Y      Y   R1   Prohibited between Craigentinny and
-                                                                                          R1                            Calton South Tunnel
-SC147     ECM9   Calton South Tunnel – Waverley East     0    29     0   21        Y      N      Y      Y      Y
-                 End
-SC147     ECM9   Waverley East End – Edinburgh           0    21     0   00        Y      N      Y      Y      Y
-                 Waverley
-SC147     EGM4   Edinburgh Waverley – Waverley West      0    00     0   15        Y      N      Y      Y      Y
-                 End (South Lines)
-SC147     ECN1   Edinburgh Waverley – Waverley West      0    00     0   15        Y      N      Y      Y      Y
-                 End (North Lines)
-SC147     EGM3   Waverley West End – Haymarket (South    0    15     1   19        Y      N      Y      Y      Y
-                 Lines)
-SC147     ECN2   Waverley West End – Haymarket (North    0    15     1   19        Y      N      Y      Y      Y
-                 Lines)
-SC147     EGM2   Haymarket – Haymarket East Jn (South    46   02    45   72        Y      N      Y      Y      Y
-                 Lines)
-SC147     ECN2   Haymarket – Haymarket East Jn (North    1    19     1   29        Y      N      Y      Y      Y
-                 Lines)
-SC147     EGM2   Haymarket East Jn – Haymarket Central   45   72    45   35        Y      N      Y      Y      Y
-                 Jn (South Lines)
-SC147     ECN2   Haymarket East Jn – Haymarket Central   1    29     1   66        Y      N      Y      Y      Y
-                 Jn (North Lines)
-SC147     EGM2   Haymarket Central Jn – Haymarket West   45   35    44   73        Y      N      Y      Y      Y
-                 Jn (South Lines)
-SC147     ECN2   Haymarket Central Jn – Haymarket West   1    66     2   41        Y      N      Y      Y      Y
-                 Jn (North Lines)
-SC149     NBK    North Berwick – Drem Jn                 22   22    18   15        Y      N      N      N      N
-SC151     LHS1   Portobello – Leith South Yard (Goods    0    00     2   20        N      N      N      N      N
-                 Line)
-
+Line of   ELR     Line of Route / Sector Description oooo oooo oooo oooo 170                 180    185    220    221 Notes
+route                                                 M    Ch   M    Ch 0000                0000   0000   0000   0000 ooooooooooooooooooooooooooo
+SC031     GBK     Change of ELR – Muirhouse South Jn        23   44     1   18        N      N      Y      Y      Y
+SC031     MEN2    Muirhouse South Jn – Muirhouse            0    00     0   15        N      N      Y      Y      Y
+                  Central Jn
+SC031     MEN1    Muirhouse Central Jn – Eglinton St Jn     0    19     0   70        N      N      Y      Y      Y
+SC031     WCM2 Eglinton St Jn – Bridge St Jn               101   39   101   53        Y      N      Y      Y      Y
+SC031     WCM2 Bridge St Jn – Glasgow Central              101   53   102   27        Y      N      Y      Y      Y
+SC035     KSH     Bank Jn – Network Rail Boundary           54   05    55   28        N      N      N      N      N
+                  (Connel Park LC) / Knockshinnoch
+SC036     GNN     Greenburn Jn – Greenburn Open Cast        0    00     0   55        N      N      N      N      N
+                  (Goods Line)
+SC037     RIC1    Kay Park Jn – Bellfield                   0    00     1   06        N      N      N      N      N
+SC037     RIC2    Bellfield – Riccarton (Goods Line)        2    20     1   75        N      N      N      N      N
+SC039     BAK     Kilmarnock – Barassie                     0    05     7   56        N      N      N      N      N
+SC045     EKE     East Kilbride – Busby Jn                  7    60     0   40        N      N      N      N      N
+SC047     LFS2    Muirhouse South Jn – Change of ELR        1    19     0   61        N      N      N      N      N
+SC047     LFS1    Change of ELR – Larkfield Jn             101   17   101   01        N      N      N      N      N
+SC049     TSS     Muirhouse Central Jn – Terminus Jn        0    04     0   40        N      N      N      N      N
+SC051     CTC     Muirhouse Central Jn – Cathcart North     5    19     1   63        N      N      N      Y      Y
+                  Jn (via Cathcart)
+SC051     CTC     Cathcart North Jn – Muirhouse North Jn    1    63     0   00        N      N      Y      Y      Y
+                  (via Crosshill)
+SC053     NNH     Neilston – Cathcart West Jn              108   45   100   77        N      N      N      N      N
+SC055     WCM2 Newton, Hamilton Jn – Newton Kirkhill        95   53    95   77        N      N      Y      Y      Y
+               Jn
+SC055     KHL     Newton Kirkhill Jn – Cathcart West Jn     95   77   100   77        N      N     R1      Y      Y   R1   Prohibited between Cathcart East Jn and
+                                                                                                                           Cathcart West Jn
+SC057     CNC     Cathcart East Jn – Cathcart North Jn      0    45     0   00        N      N      Y      Y      Y
+SC059     WCM2 Glasgow Central – Bridge St Jn              102   27   101   53        Y      N      Y      Y      Y
+SC059     AYR1    Bridge St Jn – Cook St                    0    00     0   19        E      N      E      Y      Y
+SC059     LYE     Cook St – High St Line (Smithy Lye        0    00     0   44        N      N      E      N      N
+                  through line)
 
 
 
-October 2009                                                                  29
+
+October 2009                                                                     23

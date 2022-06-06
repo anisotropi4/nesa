@@ -3,44 +3,35 @@
 
 
 
-                                                                Scotland Route Sectional Appendix Module SCRC
+                                                                      Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector Description ooo ooo ooo ooo RA 60   66  67                           68    70  73 97/3 Notes
-route                                                M  Ch   M  Ch 000 000 000 000                                000 000 000 ooooooooooooooooooooooooo
-SC047     LFS1   Change of ELR – Larkfield Jn             101   17   101   01    10          Y      Y    Y   Y    Y    Y    Y
-SC049     TSS    Muirhouse Central Jn – Terminus Jn        0    04     0   40    10          Y      Y    Y   Y    Y    Y    Y
-SC051     CTC    Muirhouse Central Jn – Cathcart North     5    19     1   63        3       N      R1   N   N    R1   R1   R1 R1    Route prohibited unless authorised by the
-                 Jn (via Cathcart)                                                                                                   Infrastructure Manager's structures
-                                                                                                                                     engineer
-SC051     CTC    Cathcart North Jn – Muirhouse North Jn    1    63     0   00        7       N      Y    N   Y    Y    Y    Y
-                 (via Crosshill)
-SC053     NNH    Neilston – Cathcart West Jn              108   45   100   77        5       N      R1   N   N    N    N    Y   R1   Infrastructure maintenance purposes only
-                                                                                                    R2                          R2   Prohibited from hauling vehicles that
-                                                                                                    R3                               exceed RA5
-                                                                                                    R4                          R3   20mph maximum speed
-                                                                                                    R5                          R4   Double Heading is prohibited
-                                                                                                    R6                          R5   10mph over bridge 120 (104m 49ch)
-                                                                                                    R7                          R6   10mph over bridge 128 (103m 26ch)
-                                                                                                                                R7   10mph over bridge 137 (101m 23ch)
-SC055     WCM2   Newton, Hamilton Jn – Newton Kirkhill     95   53    95   77    10          N      Y    Y   Y    Y    Y    Y
-                 Jn
-SC055     KHL    Newton Kirkhill Jn – Cathcart West Jn     95   77   100   77        7       N      Y    N   Y    Y    Y    Y
-SC057     CNC    Cathcart East Jn – Cathcart North Jn      0    45     0   00        7       N      Y    N   Y    Y    Y    Y
-SC059     WCM2   Glasgow Central – Bridge St Jn           102   27   101   53        8       Y      Y    Y   Y    Y    Y    Y
-SC059     AYR1   Bridge St Jn – Cook St                    0    00     0   19        8       Y      Y    Y   Y    Y    Y    Y
-SC059     LYE    Cook St – High St Line (Smithy Lye        0    00     0   44        8       Y      Y    Y   Y    Y    Y    Y
-                 through line)
-SC059     AYR1   Cook St – Shields Jn                      0    19     1   00        8       Y      Y    Y   Y    Y    Y    Y
-SC059     AYR1   Shields Jn – Change of ELR (Paisley       1    00     6   53    10          Y      Y    Y   Y    Y    Y    Y
-                 Gilmour Street)
-SC059     AYR2   Change of ELR (Paisley Gilmour Street)    6    73     7   00    10          Y      Y    Y   Y    Y    Y    Y
-                 – Change of ELR (Brown Street
-                 crossover)
-SC059     AYR3   Change of ELR (Brown Street               7    00    23   00    10          Y      Y    Y   Y    Y    Y    Y
-                 crossover) – Change of ELR (Dalry)
-SC059     AYR4   Change of ELR (Dalry) – Change of ELR     23   00    33   08    10          Y      Y    Y   Y    Y    Y    Y
-                 (Barassie Jn)
+
+Line of   ELR    Line of Route / Sector Description            oooo oooo oooo oooo RA         43 47/2 47/4 47/7 56 57 58 Notes
+route                                                           M    Ch   M    Ch 000         00 000 00 00 000 000 000 ooooooooooooooooooooooooo
+SC173     CWH2   Change of ELR (Cowdenbeath) – Change            0     00     0    70     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
+                 of ELR (Lochgelly)                                                                                                    STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                                                         R1
+SC173     CWH3   Change of ELR (Lochgelly) – Thornton            27    00    34    62     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
+                 West Jn                                                                                                               STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                                                         R1
+SC173     TNW    Thornton West Jn – Thornton North Jn            0     70     0    00     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
+                                                                                                                                       STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                                                         R1
+SC175     RHD2   Rosyth Dockyard – Change of ELR                 1     21     1    00    8    Y     Y   Y    Y        Y   Y   Y
+SC175     RHD1   Change of ELR – Inverkeithing South Jn          1     00     0    02    8    N     Y   Y    Y        Y   Y   Y
+                 (Goods Line)
+SC176     IGE    Inverkeithing North Jn – Inverkeithing East     0     33     0    00     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
+                 Jn (Inverkeithing Curve)                                                                                              STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                                                         R1
+SC177     MTL1   Thornton North Jn – Change of ELR               0     11     4    65    8    N     Y   Y    Y        Y   Y   Y
+SC177     MTL2   Change of ELR – Methill Power Station           7     34     6    48    8    N     Y   Y    Y        Y   Y   Y
+                 (Goods Line)
+SC178     CWH3   Thornton South Jn – Thornton West Jn            35    38    34    62    8    Y     Y   Y    Y        Y   Y   Y
+SC181     CDC1   Ladybank Jn – Change of ELR                     0     03    14    10     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
+                                                                                                                                       STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                                                         R1
 
 
 
-October 2009                                                                    98
+
+October 2009                                                                        92
