@@ -1,47 +1,43 @@
-                                                                                   OFFICIAL
+                                                                                    OFFICIAL
 
 
-                                                                Western Route Sectional Appendix Module WR2
+                                                                   Western Route Sectional Appendix Module WR2
 
-Line of      ELR   Line of Route / Sector                 oo      oo    oo    oo     RA Loco Gauge Notes
-route              Description                            oo      oo    oo    oo     000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                                          M       Ch    M     Ch
-GW182        STA   West Drayton Jn – End of Branch         13      31    16   25      8       Y
-                   (Colnbrook)
-GW184        WIN   Slough – Windsor & Eton Central         18      36    21   19      3       Y
-GW185        WBB   Maidenhead – Bourne End                 24      19    28   55      6       Y
-GW185        MWB   Bourne End GF – Marlow                   0      06     2   54      6       Y
-GW187        HEN   Twyford – Henley-on-Thames              31      01    35   48      4       Y
-GW190        RNJ   Route Boundary (SW210) (Reading         68      00    68   35      8       Y
-                   Spur Jn) – Reading New Jn
-GW200        DCL   Chester Line Jn – Route Boundary        53      12    75   00      8       Y
-                   (MD401) (Heyford)
-GW220        RWC   Reading, Oxford Road Jn – Reading       0       43     0   02      8       Y
-                   West Jn
-GW240        DEC   Didcot East Jn – Didcot North Jns       52      66    54   00      8       Y
-GW250        DWC   Foxhall Jn – Didcot West Curve Jn        0      01     0   32      8       Y
-GW260        THA   Kennington Jn – Morris Cowley           18      45    16   04      7       Y
-GW277        OXD   Oxford North Jn – Route Boundary        30      09    29   25      8       Y
-                   (MD736) (29m 25ch)
-GW300        ABW   Abbotswood Jn – Norton Jn                0      00     0   62      8       Y
-GW300        OWW   Norton Jn – Shrub Hill Jn              117      26   120   46      8       Y
-GW300        OWW   Shrub Hill Jn – Droitwich Spa Jn       120      46   126   21      8       Y
-GW300        STO   Droitwich Spa Jn – Stoke Works Jn      126      21   130   25      8       Y
-GW310        OWW   Wolvercot Jn – Norton Jn                66      32   117   26      7       Y
-GW317        OWW   Honeybourne Stratford Line Junction    102      06   101   31      7       Y
-                   – Start of branch mileage
-GW317        STD   Start of branch mileage – Long          0       00     2   70      7       Y
-                   Marston
-GW340        WAH   Shrub Hill Jn – Henwick SB (Branch     120      46   121   65      7       Y
-                   Single)
-GW340        WAH   Henwick SB – Shelwick Jn               121      65   148   11      7       R1      R1   Prohibited between Great Malvern and Malvern Wells SB on the
-                                                                                              R2           Down Main line
-                                                                                              R3      R2   Prohihited Malvern Link Up platform
-                                                                                                      R3   Prohibited through Ledbury Tunnel (Up and Down line)
-GW350        BLW   Worcester Tunnel Jn – Site of former    0       30     0   00      7       Y
-                   Rainbow Hill Jn Change of ELR
+
+Table D5C – Locomotive Gauge Clearance Table
+                                                                                                                                                             Last Updated: 21/09/2019
+Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
+Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
+    below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
+    Compatibility prior to operation over Network Rail infrastructure.
+Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
+Gauge clearance for steam locomotives is considered under a separate process.
+The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
+Y         Route conforms to locomotive gauge without restriction.
+R         Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
+N         Route does not conform to locomotive gauge
+
+Line of      ELR    Line of Route / Sector                 oooo oooo oooo oooo RA Loco Gauge Notes
+route               Description                             M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+GW103        MLN1   Paddington – Old Oak Common West           0      05     3   20    8          R1        R1   Prohibited Paddington platform 6
+                                                                                                  R2        R2   Prohibited Paddington platform 7
+GW103        MLN1   Old Oak Common West – Acton East           3      20     4   07    8           Y
+                    Jn
+GW103        MLN1   Acton East Jn – West Ealing Jn             4      07     6   54    8           Y
+GW103        MLN1   West Ealing Jn – Hanwell Jn                6      54     7   19    8           Y
+GW103        MLN1   Hanwell Jn – Heathrow Airport Jn           7      19    11   15    8           Y
+                    (Down Main)
+GW103        MLN1   Heathrow Airport Jn (Down Main line)      11      15    12   09    8           Y
+                    – Stockley Bridge Jn (Limit of
+                    Electrification)
+GW103        MLN1   Stockley Bridge Jn (Limit of              12      09    18   36    8           Y
+                    Electrification) – Slough
+GW103        MLN1   Slough – Maidenhead Jn                    18      36    24   24    8           Y
+GW103        MLN1   Maidenhead Jn – Henley Branch Jn          24      24    31   04    8           Y
+GW103        MLN1   Henley Branch Jn – Reading New Jn         31      04    35   40    8           Y
+GW103        MLN1   Reading New Jn – Westbury Line Jn         35      40    36   17    8          R1        R1   Prohibited Reading platform 7 (Down Main line)
 
 
 
 
-April 2009                                                                           526D
+April 2009                                                                            526A

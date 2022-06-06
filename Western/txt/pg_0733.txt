@@ -1,45 +1,46 @@
-                                                                            OFFICIAL
+                                                                        OFFICIAL
 
 
-                                                           Western Route Sectional Appendix Module WR2
+                                                       Western Route Sectional Appendix Module WR2
 
-GW182 STA     West Drayton Jn – End of Branch         13   31    16    25     N        N        N        N   N
-              (Colnbrook)
-GW184 WIN     Slough – Windsor & Eton Central         18   36    21    19     H        N        N        N   N
-GW185 WBB     Maidenhead – Bourne End                 24   19    28    55     H        N        N        N   N
-GW185 MWB     Bourne End GF – Marlow                  0    06     2    54     H        N        N        N   N
-GW187 HEN     Twyford – Henley-on-Thames              31   01    35    48     H        N        N        N   N
-GW190 RNJ     Route Boundary (SW210) (Reading         68   00    68    35     H        N        N        N   N
-              Spur Jn) – Reading New Jn
-GW195 RLL     Reading Southern Jn – Reading East      35   33    35    61     N        N        N        N   N
-              Jn
-GW200 DCL     Chester Line Jn – Route Boundary        53   12    75    00     H        N        N        N   N
-              (MD401) (Heyford)
-GW220 RWC     Reading, Oxford Road Jn – Reading       0    43     0    02     H        N        N        N   N
-              West Jn
-GW225 RFR     Caversham Road Jn – Oxford Road         36   25    36    74     N        N        N        N   N
-              Jn
-GW240 DEC     Didcot East Jn – Didcot North Jns       52   66    54    00     H        N        N        N   N
-GW250 DWC     Foxhall Jn – Didcot West Curve Jn       0    01     0    32     H        N        N        N   N
-GW260 THA     Kennington Jn – Morris Cowley           18   45    16    04     N        N        N        N   N
-GW277 OXD     Oxford North Jn – Route Boundary        30   09    29    25     H        N        N        N   N
-              (MD736) (29m 25ch)
-GW300 ABW     Abbotswood Jn – Norton Jn               0    00     0    62     H        N        N        N   N
-GW300 OWW Norton Jn – Shrub Hill Jn                  117   26   120    46     H        N        N        N   N
-GW300 OWW Shrub Hill Jn – Droitwich Spa Jn           120   46   126    21     H        N        N        N   N
-GW300 STO     Droitwich Spa Jn – Stoke Works Jn      126   21   130    25     H        N        N        N   N
-GW310 OWW Wolvercot Jn – Norton Jn                    66   32   117    26     H        N        N        N   N
-GW317 OWW Honeybourne Stratford Line Junction        102   06   101    31     N        N        N        N   N
-          – Start of branch mileage
-GW317 STD     Start of branch mileage – Long          0    00     2    70     N        N        N        N   N
-              Marston
-GW340 WAH     Shrub Hill Jn – Henwick SB (Branch     120   46   121    65     H        N        N        N   N
-              Single)
-GW340 WAH     Henwick SB – Shelwick Jn               121   65   148    11     H        N        N        N   N
-GW350 BLW     Worcester Tunnel Jn – Site of former    0    30     0    00     H        N        N        N   N
-              Rainbow Hill Jn Change of ELR
-GW350 WAH     Site of former Rainbow Hill Jn Change 120    64   121    65     H        N        N        N   N
-              of ELR – Henwick SB (Droitwich
-              Single)
+GW103 MLN1 Hanwell Jn – Heathrow Airport Jn       7    19    11    15     H        Y        Y        R1   R2   R1   Route prohibited to Class 360/1
+           (Down Main)                                                                                    R3   R2   Prohibited Hanwell Bridge Up and Down
+                                                                                                          R4        Goods Loops
+                                                                                                          R5   R3   Prohibited Southall Down East Sidings
+                                                                                                          R6   R4   Prohibited West Siding Southall West Jn
+                                                                                                               R5   Prohibited Hayes Up Sidings
+                                                                                                               R6   100mph maximum speed
+GW103 MLN1 Heathrow Airport Jn (Down Main) –      11   15    12    09     H        N        Y        N    R1   R1   100mph maximum speed
+           Stockley Bridge Jn (Limit of
+           Electrification)
+GW103 MLN1 Stockley Bridge Jn (Limit of           12   09    18    36     H        N        Y        N    R1   R1   Prohibited Langley Sidings
+           Electrification) – Slough
+GW103 MLN1 Slough – Maidenhead Jn                 18   36    24    24     H        N        R1       N    R2   R1   Prohibited Maidenhead platforms 1 and 4
+                                                                                                          R3        with crush deflated suspension
+                                                                                                               R2   Prohibited Slough Up Goods Loop and
+                                                                                                                    Estate Sidings
+                                                                                                               R3   Prohibited with air bags deflated / failed
+                                                                                                                    secondary suspension Maidenhead
+                                                                                                                    platform 4
+GW103 MLN1 Maidenhead Jn – Henley Branch Jn       24   24    31    04     H        N        Y        N    R1   R1   Prohibitied Twyford platform 2 in crush
+                                                                                                                    deflated
+GW103 MLN1 Henley Branch Jn – Reading New Jn      31   04    35    40     H        N        Y        N    R1   R1   Prohibitied Twyford platform 2 in crush
+                                                                                                                    deflated
+GW103 MLN1 Reading New Jn – Westbury Line Jn      35   40    36    17     H        N        R1       N    Y    R1   Prohibited Reading platform 12 with
+                                                                                                                    deflated suspension
+GW103 RLL      Reading East Jn – Route Boundary   35   61    35    38     N        N        N        N    N
+               (SW210) (Reading Southern Jn)
+GW103 MLN1 Westbury Line Jn – Reading West Jn     36   17    36    78     H        N        Y        N    R1   R1   Prohibited Reading West Jn Sidings
+GW103 MLN1 Reading West Jn – Didcot East Jn       36   78    52    66     H        N        R1       N    R3   R1   Prohibited Tilehurst to Didcot East Jn
+                                                                                            R2                 R2   20mph Tilehurst platform 1 Down Main
+                                                                                                                    line
+                                                                                                               R3   Prohibited Reading West Jn Sidings
+GW103 MLN1 Didcot East Jn – Chester Line Jn       52   66    53    12     H        N        N        N    Y
+GW103 MLN1 Chester Line Jn – Foxhall Jn           53   12    53    55     H        N        N        N    Y
+GW103 MLN1 Foxhall Jn – Uffington                 53   55    66    39     H        N        N        N    Y
+GW105 MLN1 Uffington – Swindon Jn                 66   39    77    36     H        N        N        N    Y
 
-April 2009                                                                    499C
+
+
+
+April 2009                                                               499

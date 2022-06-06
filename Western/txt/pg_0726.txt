@@ -1,46 +1,44 @@
-                                                                            OFFICIAL
+                                                                              OFFICIAL
 
 
-                                                          Western Route Sectional Appendix Module WR2
+                                                            Western Route Sectional Appendix Module WR2
 
-GW840 RAD    Radyr Jn – Leckwith Loop South Jn       4     41     0    69    N     N   N   N   N   N    N   N   N   N   N
-GW840 RAD    Leckwith Loop South Jn – Penarth        0     69     0    47    N     N   N   Y   N   N    Y   Y   N   N   N
-             Curve North Jn
-GW840 RAD    Penarth Curve North Jn – Radyr          0     47     0    25    N     N   N   Y   N   N    Y   Y   N   N   N
-             Branch Jn
-GW850 CLL    Leckwith Loop South Jn – Leckwith       0     26     0    00    N     N   N   Y   N   N    Y   Y   N   N   N
-             Loop North Jn
-GW860 CPL    Penarth Curve North Jn – Penarth        0     25     0    00    N     N   N   Y   N   N    Y   Y   N   N   N
-             Curve South Jn
-GW864 PTH    Cogan Jn – Penarth                      0     01     1    12    N     N   N   N   N   N    Y   Y   N   N   N
-GW870 VOG    Barry Jn – Bridgend Bay Platform        0     00    19    04    N     N   N   N   N   N    Y   Y   Y   Y   N
-GW871 FOR    Ford Siding GF – Network Rail           0     00     1    18    N     N   N   N   N   N    N   N   N   N   N
-             Boundary (Ford Works, Waterton)
-GW874 BAL    Llynfi Jn – Tondu Jn                    0     07     2    70    N     N   N   Y   N   N    Y   Y   N   N   N
-GW874 BAL    Tondu Jn – Maesteg                      2     70     8    06    N     N   N   Y   N   N    Y   N   N   N   N
-GW877 POR    Tondu Jn – Cefn Jn                      0     00     2    43    N     N   N   N   N   N    Y   Y   N   N   N
-GW877 OVE    Cefn Jn – Margam Abbey Works East       7     41     2    41    N     N   N   N   N   N    Y   Y   N   N   N
-             Jn
-GW877 OVE    Margam Abbey Works East Jn –            2     41     1    40    N     N   N   N   N   N    N   N   N   N   N
-             Margam East Jn
-GW877 OVE    Margam East Jn – Margam Yard Jn         1     40     0    79    N     N   N   N   N   N    N   N   N   N   N
-GW877 OVE    Margam Yard Jn – Network Rail           0     79     0    56    N     N   N   N   N   N    N   N   N   N   N
-             Boundary (Port Talbot Docks)
-GW890 SDI1   Briton Ferry Up Flying Loop Jn –       206    14   207    67    N     N   N   N   N   N    Y   Y   N   N   N
-             Dynover Jn
-GW890 SDI1   Dynover Jn – Jersey Marine Jn North    207    67   208    33    N     N   N   N   N   N    Y   Y   N   N   N
-GW890 SDI1   Jersey Marine Jn North – Change of     208    33   208    49    N     N   N   N   N   N    Y   Y   N   N   N
-             Mileage
-GW890 SDI2   Change of Mileage – Grovesend           0     00    10    05    N     N   N   N   N   N    Y   Y   N   N   N
-             Colliery Loop Jn
-GW890 SDI2   Grovesend Colliery Loop Jn – Morlais    10    05    10    64    N     N   N   N   N   N    Y   Y   N   N   N
-             Jn
-GW8901 RSB   Dynevor Jn – Jersey Marine South Jn     19    16    20    24    N     N   N   N   N   N    Y   Y   N   N   N
-GW892 VON    Network Rail Boundary (Cwmgwrach)       33    14    41    17    N     N   N   N   N   N    N   N   N   N   N
-             – Neath & Brecon Jn
-GW892 VON    Neath & Brecon Jn – Burrows Sidings     41    17    46    30    N     N   N   N   N   N    N   N   N   N   N
-GW893 NAB    Network Rail Boundary (Onllwyn) –       10    10     0    01    N     N   N   N   N   N    N   N   N   N   N
-             Neath and Brecon Jn
+GW680 FAL1-3 Penwithers Jn – Falmouth                 301    25   312    46    N      N    N   N    N   N    N   N   N   N   N
+GW690 SIV     St Erth – St Ives                       321    02   325    13    N      N    N   N    N   N    N   N   N   N   N
+GW700 BAG2 Gloucester Barnwood Jn – Horton             92    21    92    75    E      Y    N   Y    N   R1   Y   Y   Y   Y   N R1     Route prohibited to Class 172/0
+           Road Jn                                                                                                                    and 172/1
+GW700 SWM2 Horton Road Jn – Route Boundary            113    61   129    00   E       Y    N   Y    N   R2   Y   Y   Y   Y   N R1     Prohibited between Gloucester
+           Wales                                                              R1                        R3                            and Route Boundary Wales
+                                                                                                                                 R2   Route prohibited to Class 172/0
+                                                                                                                                      and 172/1
+                                                                                                                                 R3   Prohibited between Gloucester
+                                                                                                                                      West Jn and Route Boundary
+                                                                                                                                      Wales
+GW700 SWM2 Route Boundary Wales – Severn              129    00   149    14    N      Y    N   Y    N   N    Y   Y   Y   Y   N
+           Tunnel Jn
+GW710 NO      Llanwern Works East – Llanwern          153    08   156    03    N      N    N   N    N   N    N   N   N   N   N
+      ELR     Works West via BSS (Corus
+              Infrastructure)
+GW720 EUB     Network Rail Boundary (Uskmouth) –       3     07     0    00    N      N    N   N    N   N    N   N   N   N   N
+              East Usk Jn
+GW730 SHL     Severn Bridge Jn – Craven Arms Jn        0     11    20    01    N      N    N   R1   N   N    Y   Y   N   N   N R1     Prohibited between Sutton Bridge
+                                                                                                                                      Jn and Craven Arms Jn
+GW730 SHL     Craven Arms Jn – Shelwick Jn             20    01    49    26    N      N    N   N    N   N    Y   Y   N   N   N
+GW730 SHL     Shelwick Jn – Site of former             49    26    52    19   R1      R1   N   R2   N   R2   Y   Y   Y   Y   N R1     Prohibited between Hereford
+              Rotherwas Jn                                                                              R3                            Diesel Depot sidings and Site of
+                                                                                                                                      Former Rotherwas Jn
+                                                                                                                                 R2   Class 172/2 and 172/3 prohibited
+                                                                                                                                      between Hereford Station and
+                                                                                                                                      Site of former Rotherwas Jn
+                                                                                                                                 R3   Route prohibited to Class 172/1
+GW730 HDC     Site of former Rotherwas Jn – Site of    0     00     1    74    N      N    N   N    N   N    Y   Y   Y   Y   N
+              former Red Hill Jn
+GW730 HNL1    Site of former Red Hill Jn – Maindee     1     74    41    66    N      N    N   R1   N   N    Y   Y   Y   Y   N R1     Prohibited between Site of former
+              West Jn                                                                                                                 Red Hill Jn and Maindee North Jn
+GW731 WSJ2 Route Boundary (MD801) (Madeley            170    46   171    15    N      N    Y   Y    N   N    Y   N   N   Y   N
+           Jn) – Abbey Foregate Jn
 
 
-April 2009                                                                  498L
+
+
+April 2009                                                                     498I

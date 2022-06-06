@@ -1,48 +1,50 @@
-                                                                             OFFICIAL
+                                                                         OFFICIAL
 
 
-                                                           Western Route Sectional Appendix Module WR2
+                                                       Western Route Sectional Appendix Module WR2
 
-GW317 OWW Honeybourne Stratford Line Junction – 102         06   101    31    N     N   N   N   N   N    N   N   N   N   N
-          Start of branch mileage
-GW317 STD     Start of branch mileage – Long          0     00     2    70    N     N   N   N   N   N    N   N   N   N   N
-              Marston
-GW340 WAH     Shrub Hill Jn – Henwick SB (Branch     120    46   121    65    Y     Y   N   Y   N   R1   Y   Y   Y   Y   N R1     Route prohibited to Class 172/1
-              Single)
-GW340 WAH     Henwick SB – Shelwick Jn               121    65   148    11    Y     Y   N   Y   N   R1   Y   Y   Y   Y   N R1     Route prohibited to Class 172/1
-GW350 BLW     Worcester Tunnel Jn – Site of former    0     30     0    00    Y     Y   N   Y   N   R1   N   N   Y   Y   N R1     Route prohibited to Class 172/1
-              Rainbow Hill Jn Change of ELR
-GW350 WAH     Site of former Rainbow Hill Jn Change 120     64   121    65    Y     Y   N   Y   N   R1   N   Y   Y   Y   N R1     Route prohibited to Class 172/1
-              of ELR – Henwick SB (Droitwich
-              Single)
-GW370 OWW Droitwich Spa – Route Boundary             126    21   130    40    Y     Y   N   Y   N   R1   N   N   Y   Y   N R1     Route prohibited to Class 172/1
-          (MD430) (Kidderminster)
-GW401 BAG2 Route Boundary (MD306) (Ashchurch)         77    40    92    21   E      Y   N   Y   N   R4   Y   Y   Y   Y   N R1     10mph Ashchurch Up platform
-           – Gloucester Barnwood Jn (Change of                               R1                                            R2     20mph Cheltenham Spa Down
-           ELR)                                                              R2                                                   platform
-                                                                             R3                                              R3   Route prohibited to Class 165/0
-                                                                                                                             R4   Route prohibited to Class 172/0
-                                                                                                                                  and 172/1
-GW401 CHL     Gloucester Barnwood Jn (Change of       92    21    93    08   E      Y   N   Y   N   N    Y   Y   Y   Y   N R1     Route prohibited to Class 165/0
-              ELR) – Gloucester Yard Jn (Change                              R1
-              of ELR)
-GW401 BGL1    Gloucester Yard Jn (Change of ELR)      93    08    94    10   E      Y   N   Y   N   N    Y   Y   Y   Y   N R1     Route prohibited to Class 165/0
-              – Change of ELR                                                R1
-GW401 BGL2    Change of ELR – Standish Jn             94    60    99    69   E      Y   N   Y   N   N    Y   Y   Y   Y   N R1     Route prohibited to Class 165/0
-                                                                             R1
-GW401 BGL2    Standish Jn – Yate South Jn (Change     99    69   120    03    N     Y   N   Y   N   N    Y   Y   Y   Y   N
-              of ELR)
-GW401 YAT     Yate South Jn (Change of ELR) –        120    03   121    28    N     Y   N   Y   N   N    Y   Y   Y   Y   N
-              Westerleigh Jn
-GW425 SAW/S Berkeley Road Jn – Sharpness              0     04     3    69    N     N   N   N   N   N    N   N   N   N   N
-      SS    (Network Rail Boundary)
-GW430 THO     Yate Middle Jn – Tytherington           0     00     6    24    N     N   N   N   N   N    N   N   N   N   N
-GW440 BGL2    Yate South Jn – Westerleigh Yard       120    03   122    65    N     N   N   N   N   N    N   N   N   N   N
-GW450 FEC     Stoke Gifford Jn No.1 – Change of      111    79   113    01    Y     Y   N   Y   N   N    Y   Y   Y   Y   N
-              ELR
-GW450 BSW     Change of ELR – Bristol East Jn         4     50     0    26    Y     Y   N   Y   N   N    Y   Y   Y   Y   N
+GW105 MLN1 Bristol East Jn – Bristol West Jn     118    02   118    58   R1     Y   N   R2   N   N   Y   R6   R6   R6   N R1     Prohibited Bristol Temple Meads
+                                                                                        R3                                       platforms 1 and 2 and adjacent
+                                                                                                                                 sidings
+                                                                                        R4
+                                                                                                                            R2   Prohibited Bedminster - Parson
+                                                                                        R5                                       Street Jn Prohibited Bristol
+                                                                                                                                 Temple Meads platforms 5 and 6
+                                                                                                                                 with air bags deflated/ failed
+                                                                                                                                 secondary suspension
+                                                                                                                            R3   Prohibited Bristol Temple Meads
+                                                                                                                                 Dock, Parcels and Fish platforms
+                                                                                                                            R4   Prohibited West Carriage Sidings
+                                                                                                                            R5   Prohibited Bristol Temple Meads
+                                                                                                                                 platform 2 and adjacent sidings
+GW105 MLN1 Bristol West Jn – Parson Street Jn    118    58   120    28   R1     Y   N   N    N   N   Y   Y    Y    Y    N R1     Prohibited beyond signal BL6731
+                                                                                                                                 and BL6733 Carriage Line and
+                                                                                                                                 Carriage Washer Line
+                                                                                                                                 Prohibited all other lines
+GW105 MLN1 Parson Street Jn – Worle Jn           120    28   135    11    N     Y   N   N    N   N   Y   Y    Y    Y    N
+GW105 MLN1 Worle Jn – Uphill Jn (direct)         135    11   138    04    N     Y   N   N    N   N   Y   Y    Y    Y    N
+GW105 MLN1 Uphill Jn – Fordgate                  138    04   154    12    N     Y   N   N    N   N   Y   Y    Y    Y    N
+GW107 WSM      Worle Jn – Uphill Jn via          135    11   139    05    N     Y   N   N    N   N   Y   Y    Y    Y    N
+               Weston-Super-Mare
+GW108 MLN1 Fordgate – Cogload Jn (Up)            154    12   158    23    N     Y   N   N    N   N   Y   Y    Y    Y    N
+GW108 MLN1 Cogload Jn (Up) – Norton Fitzwarren   158    23   164    60    N     Y   N   N    N   N   Y   Y    Y    Y    N
+           Jn (Connection - West Somerset
+           Railway)
+GW108 MLN1 Norton Fitzwarren Jn (Connection -    164    40   192    52    N     Y   N   N    N   N   Y   Y    Y    Y    N
+           West Somerset Railway) – Cowley
+           Bridge Jn
+GW108 MLN1 Cowley Bridge Jn – Exeter St Davids   192    52   194    00    N     Y   N   N    N   N   Y   Y    Y    Y    N
+           Jn
+GW108 MLN1 Exeter St Davids Jn – Newton Abbot    194    00   213    75    N     Y   N   E    N   N   Y   Y    Y    Y    N
+           East Jn
+GW108 MLN1 Newton Abbot East Jn – Newton         213    75   214    43    N   R1    N   E    N   N   Y   Y    Y    Y    N R1     20mph through Newton Abbot
+           Abbot West Jn                                                                                                         platform 2
+GW108 MLN1 Newton Abbot West Jn – Tavistock Jn 214      43   242    55    N     Y   N   E    N   N   Y   Y    Y    Y    N
+           Yard
+GW108 MLN1 Tavistock Jn Yard – Laira Jn          242    55   243    67    N     Y   N   E    N   N   Y   Y    Y    Y    N
+GW108 MLN1 Laira Jn – Lipson Jn                  243    67   244    35    N     Y   N   E    N   N   Y   Y    Y    Y    N
 
 
 
 
-April 2009                                                                   498E
+April 2009                                                               498B
