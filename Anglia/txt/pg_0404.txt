@@ -3,44 +3,45 @@
 
                                                               Anglia Route Sectional Appendix Module AR2
 
-Line of ELR   Line of Route / Sector              oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357 Notes
-route         Description                          M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000    0000 MOD ooooooooooooooooooooooooooo
-EA1325 ELL1   Network Rail Boundary (TFL ELL) –      2   17      5    21   N    N      N       N   N   N   N   N   N   N
-              Canal Jn (TFL Infrastructure)
-EA1325 ELL1   Canal Jn – TFL / Network Rail          5   21      5    52   N    N      N       N   N   N   N   N   N   N
-              Boundary (SO510) (Via Up East
-              London Line) (TFL Infrastructure)
-EA1325 ELL1   Canal Jn – TFL / Network Rail          5   21      5    73   N    N      N       N   N   N   N   N   N   N
-              Boundary (SO510) (Via Down East
-              London Line) (TFL Infrastructure)
-EA1325 ELL2   Canal Jn – Lewisham (TFL               5   21      5    78   N    N      N       N   N   N   N   N   N   N
-              Infrastructure)
-EA1327 ELL3   Silwood Jn – ELL/Network Rail          4   66      5    51   N    N      N       N   N   N   N   N   N   N
-              Boundary (TFL Infrastructure)
-EA1327 ELL4   ELL/Network Rail Boundary – Old        2   23      2    32   N    N      N       N   N   N   N   N   N   N
-              Kent Road Jn (SO680)
-EA1330 BOK 5 South Acton Jn – Kew East Jn            2   52      3    27   N    N      N       N   N   N   N   N   N   N
-EA1330 NKE1   Kew East Jn – Route Boundary           3   27      3    39   N    N      N       N   N   N   N   N   N   N
-              (SW230) (New Kew Jn)
-EA1330 BOK5   Kew East Jn – Route Boundary           3   27      3    61   N    N      N       N   N   N   N   N   N   N
-              (SW230) (Old Kew Jn)
-EA1340 LLS2   Lea Jn – High Meads Jn                 0   51      0    65   N    Y      Y       N   Y   Y   H   E   N   N
-EA1350 CHM    Channelsea North Jn – High Meads       0   00      0    15   N    Y      Y       N   Y   Y   H   E   N   N
-              Jn
-EA1350 LLS1   High Meads Jn – Temple Mills East      0   15      0    59   N    Y      Y       N   Y   Y   H   E   N   N
-              Jn
-EA1360 CAW    Route Boundary (LN3219)                5   72      6    04   N    N      N       N   N   N   H   N   N   N
-              (Cricklewood Curve Jn) – Dudding
-              Hill Jn
-EA1360 BDH    Route Boundary (LN3222) (Brent         0   54      1    03   N    N      N       N   N   N   H   N   N   N
-              Curve Jn) – Dudding Hill Jn
-EA1360 CAW    Dudding Hill Jn – Neasden Jn           6   04      7    02   N    N      N       N   N   N   N   N   N   N
-EA1360 NJN    Neasden Jn – Route Boundary            6   56      6    51   N    N      N       N   N   N   N   N   N   N
-              (MD715) (Neasden South Jn)
-EA1360 CAW    Neasden Jn – Acton Canal Wharf Jn      7   02      8    45   N    N      N       N   N   N   N   N   N   N
-EA1360 ACW    Acton Canal Wharf Jn – Route           0   35      0    11   N    N      N       N   N   N   N   N   N   N
-              Boundary (MD170) (Willesden Jn)
+
+EA1350 LLS1     High Meads Jn – Temple Mills East   0    15      0    59   N    Y      Y       N   Y   Y   H   E   N   N
+                Jn
+EA1360 CAW      Route Boundary (LN3219)             5    72      6    04   N    N      N       N   N   N   H   N   N   N
+                (Cricklewood Curve Jn) – Dudding
+                Hill Jn
+EA1360 BDH      Route Boundary (LN3222) (Brent      0    54      1    03   N    N      N       N   N   N   H   N   N   N
+                Curve Jn) – Dudding Hill Jn
+EA1360 CAW      Dudding Hill Jn – Neasden Jn        6    04      7    02   N    N      N       N   N   N   N   N   N   N
+EA1360 NJN      Neasden Jn – Route Boundary         6    56      6    51   N    N      N       N   N   N   N   N   N   N
+                (MD715) (Neasden South Jn)
+EA1360 CAW      Neasden Jn – Acton Canal Wharf Jn   7    02      8    45   N    N      N       N   N   N   N   N   N   N
+EA1360 ACW      Acton Canal Wharf Jn – Route        0    35      0    11   N    N      N       N   N   N   N   N   N   N
+                Boundary (MD170) (Willesden Jn)
+EA1360 CAW Acton Canal Wharf Jn – Acton Wells       8    45      8    77   N    N      N       N   N   N   N   N   N   N
+           Jn (Change of Mileage)
+EA1360 WAW Acton Wells Jn (Change of Mileage) –      6   19      6    76   Y    N      N       N   N   N   H   N   N   N
+           Route Boundary (MD167) (Willesden
+           West London Jn)
+EA1360 CAW Acton Wells Jn (Change of Mileage) –     0    63      0    66   Y    N      N       N   N   N   H   N   N   N
+           Acton Wells Jn
+EA1370 GOJ     Gospel Oak Jn – Junction Rd Jn       0    00      0    58   N    N      N       N   N   N   H   N   N   N
+EA1370 JRT2 Junction Rd Jn – Route Boundary         2    42      2    38   N    N      N       N   N   N   H   N   N   N
+            (LN3210) (Carlton Rd Jn)
+EA1370 TAH1 Junction Rd Jn – Harringay Park Jn      2    42      4    15   N    N      N       N   N   N   H   N   N   N
+EA1370 HPW Harringay Park Jn – Route Boundary       0    25      0    14   N    N      N       N   N   N   H   N   N   N
+           (LN165) (Harringay Jn)
+EA1370 TAH1 Harringay Park Jn – South Tottenham     4    15      5    65   N    N      N       N   N   N   H   N   N   N
+            West Jn
+EA1370 TAH1 South Tottenham West Jn – South         5    65      5    73   N    N      N       N   N   N   H   N   N   N
+            Tottenham East Jn
+EA1370 TAH2 South Tottenham East Jn –               5    73     11    79   N    N      N       N   N   N   H   N   N   N
+            Woodgrange Park Jn
+EA1370 TAH3 Woodgrange Park Jn – Barking            11   79     13    12   N    N      Y       N   N   N   H   E   Y   Y
+            Station Jn
+EA1370 TAH3 Barking Station Jn – Barking Tilbury    13   12     13    42   N    N      Y       N   N   N   H   E   Y   Y
+            Jn West
+EA1370 TAH4 Barking Station Jn – Barking Platform   13   12     13    62   N    N      N       N   N   N   H   N   N   N
+            1
 
 
-
-August 2006                                                                         296
+August 2006                                                                         296A

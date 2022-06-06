@@ -1,7 +1,3 @@
-Anglia	0382	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	150	153	156	158	165	168	170	Notes
-Anglia	0382	EA1170	HDT	Hackney Downs North Jn	Seven Sisters Jn	Hackney Downs North Jn – Seven Sisters Jn	3	04	5	70	Y	N	N	N	N	N	Y
-Anglia	0382	EA1170	HDT	Seven Sisters Jn	Bury Street Jn	Seven Sisters Jn – Bury Street Jn	5	70	9	20	N	N	N	N	N	N	Y
-Anglia	0382	EA1170	ENT	Bury Street Jn	Enfield Town	Bury Street Jn – Enfield Town	9	20	10	55	N	N	N	N	N	N	Y
 Anglia	0382	EA1180	GRE	Reading Lane Jn	Navarino Road Jn (Graham Rd Curve)	Reading Lane Jn – Navarino Road Jn (Graham Rd Curve)	2	55	2	79	N	N	N	N	N	N	Y
 Anglia	0382	EA1190	HDT	Bury Street Jn	Cheshunt Jn	Bury Street Jn – Cheshunt Jn	9	20	14	28	N	N	N	N	N	N	Y
 Anglia	0382	EA1200	CJC	Clapton Jn	Chingford	Clapton Jn – Chingford	4	37	10	33	N	N	N	N	N	N	N
@@ -20,3 +16,5 @@ Anglia	0382	EA1300	SSL	South Tottenham West Jn	Seven Sisters Jn	South Tottenham 
 Anglia	0382	EA1310	BOK2	Camden Road West Jn	Gospel Oak Jn	Camden Road West Jn – Gospel Oak Jn	0	00	1	10	Y	N	N	N	E	E R1	Y	R1 Prohibited with deflated suspension
 Anglia	0382	EA1310	BOK2	Gospel Oak Jn	Kensal Green Jn	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	Y	N	N	N	E R1	E R2	Y	R1 Route prohibited to Class 165/1 R2 Prohibited with deflated suspension
 Anglia	0382	EA1310	KGC	Kensal Green Jn	Route Boundary (MD155) (Harlesden Jn)	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)	0	00	0	21	Y	N	N	N	N	N	N
+Anglia	0382	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	Y	N	N	N	E R1	E	N	R1 Route prohibited to Class 165/1
+Anglia	0382	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	Y	N	N	N	E R1	E R2	Y	R1 Route prohibited to Class 165/1 R2 Prohibited with deflated suspension

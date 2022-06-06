@@ -1,10 +1,3 @@
-Anglia	0414	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0414	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	N	N	N	N	N	N	N	N	N	N
-Anglia	0414	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	N	N	N	N	N	N	N	N	N
-Anglia	0414	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	N	N	N	N	N	N	N	N	N	N
-Anglia	0414	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	N	N	N	N	N	N	N	N	N
-Anglia	0414	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	N	N	N	N	N	N	N	N	N	N
-Anglia	0414	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	N	N	N	N	N	N	N	N	N	N
 Anglia	0414	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD167) (Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) (Willesden West London Jn)	6	19	6	76	N	N	N	N	N	N	N	E	N	N
 Anglia	0414	EA1360	CAW	Acton Wells Jn (Change of Mileage)	Acton Wells Jn	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	N	N	N	N	N	N	N	N	N	N
 Anglia	0414	EA1370	GOJ	Gospel Oak Jn	Junction Rd Jn	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	N	N	N	N	Y	N	N	N	N	N
@@ -20,3 +13,8 @@ Anglia	0414	EA1370	TAH4	Barking Station Jn	Barking Platform 1	Barking Station Jn
 Anglia	0414	EA1380	FSS1	Fenchurch Street	Gas Factory Jn	Fenchurch Street – Gas Factory Jn	0	00	2	57	N	N	N	N	N	N	N	Y	N	N
 Anglia	0414	EA1380	FSS1	Gas Factory Jn	East Ham Depot	Gas Factory Jn – East Ham Depot	2	57	6	18	N	N	N	N	N	N	N	Y	N	N
 Anglia	0414	EA1380	FSS1	East Ham Depot	Barking Tilbury Jn West	East Ham Depot – Barking Tilbury Jn West	6	18	7	33	N	N	N	N	N	E	N	Y	N	N
+Anglia	0414	EA1380	FSS2	Barking Tilbury Jn West	Barking Tilbury Jn East	Barking Tilbury Jn West – Barking Tilbury Jn East	7	33	7	60	N	N	N	N	N	N	N	Y	N	N
+Anglia	0414	EA1380	FSS2	Barking Tilbury Jn East	Upminster	Barking Tilbury Jn East – Upminster	7	60	15	20	N	N	N	N	N	N	N	R1	N	N	R1 Prohibited in crush laden condition with deflated suspension Dagenham East Up platform
+Anglia	0414	EA1380	FSS2	Upminster	Southend Central	Upminster – Southend Central	15	20	35	55	N	N	N	N	N	N	N	R1 R2	N	N	R1 Prohibited in crush laden condition with deflated suspension Leigh-on-Sea platform 3 and Southend Central platforms 1, 2 and 4 R2 Prohibited Upminster Bay platform 1a,
+Anglia	0414	EA1380	FSS3	Southend Central	Shoeburyness	Southend Central – Shoeburyness	35	55	39	40	N	N	N	N	N	N	N	R1	N	N	R1 Prohibited in crush laden condition with deflated suspension Southend East platform 1
+Anglia	0414	EA1390	TLL	Barking Tilbury Line Jn East	Former Tilbury West Jn	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	N	N	N	N	E R1	N	N	N	N	N	R1 Prohibited Grays East Jn to Former Tilbury West Jn

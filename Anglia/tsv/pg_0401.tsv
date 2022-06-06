@@ -1,22 +1,18 @@
-Anglia	0401	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	325	345	357	357 MOD	Notes
-Anglia	0401	EA1120	MAH	Harwich International Port	Harwich town	Harwich International Port – Harwich town	68	72	70	61	N	N	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1130	GRW	Halifax Jn	Griffin Wharf Boundary	Halifax Jn – Griffin Wharf Boundary	0	00	0	47	N	N	N	N	N	N	N	N	N	N
-Anglia	0401	EA1150	CST	Channelsea South Jn	Stratford Central Jn West	Channelsea South Jn – Stratford Central Jn West	0	29	0	00	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0401	EA1160	BGK	Bethnal Green East Jn	Reading Lane Jn	Bethnal Green East Jn – Reading Lane Jn	1	10	2	55	Y	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1160	BGK	Reading Lane Jn	Hackney Downs North Jn	Reading Lane Jn – Hackney Downs North Jn	2	55	3	04	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1160	BGK	Hackney Downs North Jn	Coppermill Jn	Hackney Downs North Jn – Coppermill Jn	3	04	4	74	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1160	BGK	Coppermill Jn	Tottenham South Jn	Coppermill Jn – Tottenham South Jn	4	74	5	41	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1160	BGK	Tottenham South Jn	Bishops Stortford (Cannons Mill Lane Footpath LC (R/G-X)	Tottenham South Jn – Bishops Stortford (Cannons Mill Lane Footpath LC (R/G-X)	5	41	31	31	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1161	BGK	(Cannons Mill Lane Footpath LC (R/G- X) Stansted Mountfitchet	Shepreth Branch Jn	(Cannons Mill Lane Footpath LC (R/G- X) Stansted Mountfitchet – Shepreth Branch Jn	31	31	53	06	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1161	BGK	Shepreth Branch Jn	Ely Dock Jn	Shepreth Branch Jn – Ely Dock Jn	53	06	69	79	R1	R1	R1	N	R1	R1	H	N	N	N	R1 See Sectional Appendix Local Instructions
-Anglia	0401	EA1161	BGK	Ely Dock Jn	Ely North Jn	Ely Dock Jn – Ely North Jn	69	79	71	68	R1	R1	R1	N	R1	R1	H	N	N	N	R1 See Sectional Appendix Local Instructions
-Anglia	0401	EA1162	BGK	Ely North Jn	Kings Lynn	Ely North Jn – Kings Lynn	71	68	96	75	N	N	R1	N	N	N	H	N	N	N	R1 See Sectional Appendix Local Instructions
-Anglia	0401	EA1170	HDT	Hackney Downs North Jn	Seven Sisters Jn	Hackney Downs North Jn – Seven Sisters Jn	3	04	5	70	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1170	HDT	Seven Sisters Jn	Bury Street Jn	Seven Sisters Jn – Bury Street Jn	5	70	9	20	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1170	ENT	Bury Street Jn	Enfield Town	Bury Street Jn – Enfield Town	9	20	10	55	N	Y	Y	N	N	N	H	N	N	N
-Anglia	0401	EA1180	GRE	Reading Lane Jn	Navarino Road Jn (Graham Rd Curve)	Reading Lane Jn – Navarino Road Jn (Graham Rd Curve)	2	55	2	79	Y	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1190	HDT	Bury Street Jn	Cheshunt Jn	Bury Street Jn – Cheshunt Jn	9	20	14	28	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1200	CJC	Clapton Jn	Chingford	Clapton Jn – Chingford	4	37	10	33	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1210	HEB	Broxbourne Jn	Hertford East	Broxbourne Jn – Hertford East	18	35	24	19	N	Y	Y	N	N	N	H	N	N	N
-Anglia	0401	EA1220	TLA	Stansted South Jn	Stansted East Jn	Stansted South Jn – Stansted East Jn	33	54	34	26	N	Y	Y	N	Y	Y	H	N	N	N
-Anglia	0401	EA1220	TEN	Stansted North Jn	Stansted East Jn	Stansted North Jn – Stansted East Jn	0	00	0	49	N	Y	Y	N	Y	Y	H	N	N	N
+Anglia	0401	EA1230	SBR	Route Boundary (LN125) (Royston)	Shepreth Branch Jn	Route Boundary (LN125) (Royston) – Shepreth Branch Jn		45	60	55	26	R1 R2	R2	R2	N	R2	R2	H	N	N	N	R1 Must only run with D.C. shoe gear removed R2 See Sectional Appendix Local Instructions
+Anglia	0401	EA1270	MIT	Kings Lynn Jn	Middleton towers	Kings Lynn Jn – Middleton towers		0	22	3	44	N	N	N	N	N	N	N	N	N	N
+Anglia	0401	EA1270	MIT	Kings Lynn Jn	Kings Lynn Yard branch end	Kings Lynn Jn – Kings Lynn Yard branch end		0	22	0	00	N	N	N	N	N	N	N	N	N	N
+Anglia	0401	EA1280	SDC	Stratford Central Jn East	Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)	Stratford Central Jn East – Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)		3	76	4	45	N	Y	Y	N	Y	Y	H	R1	N	N	R1 ECS only between Stratford and Temple Mills East Jn
+Anglia	0401	EA1280	SDC	Temple Mills East Jn	Coppermill Jn	Temple Mills East Jn – Coppermill Jn		4	45	7	14	N	Y	Y	N	Y	Y	H	E R1	N	N	R1 Prohibited Ruckholt Road Jn to Coppermill Jn
+Anglia	0401	EA1290	TSE2	Tottenham South Jn	Change of mileage	Tottenham South Jn – Change of mileage		5	41	5	54	N	Y	Y	N	Y	Y	H	N	N	N
+Anglia	0401	EA1290	TSE1	Change of mileage	South Tottenham East Jn	Change of mileage – South Tottenham East Jn		6	22	5	73	N	Y	Y	N	Y	Y	H	N	N	N
+Anglia	0401	EA1300	SSL	South Tottenham West Jn	Seven Sisters Jn	South Tottenham West Jn – Seven Sisters Jn		0	13	0	00	N	Y	Y	N	Y	Y	H	N	N	N
+Anglia	0401	EA1310	BOK2	Camden Road West Jn	Gospel Oak Jn	Camden Road West Jn – Gospel Oak Jn		0	00	1	10	Y	N	N	E	N	N	Y	E	N	N
+Anglia	0401	EA1310	BOK2	Gospel Oak Jn	Kensal Green Jn	Gospel Oak Jn – Kensal Green Jn		1	10	5	10	Y	N	N	E	N	N	Y	E	N	N
+Anglia	0401	EA1310	KGC	Kensal Green Jn	Route Boundary (MD155) (Harlesden Jn)	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)		0	00	0	21	Y	N	N	E	N	N	Y	N	N	N
+Anglia	0401	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)		5	10	5	25	Y	N	N	N	N	N	H	N	N	N
+Anglia	0401	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn		5	10	5	48	Y	N	N	E	N	N	Y	E	N	N
+Anglia	0401	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)		0	43	0	09	Y	N	N	E	N	N	Y	N	N	N
+Anglia	0401	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)		0	00	0	34	Y	N	N	N	N	N	H	E	N	N
+Anglia	0401	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)		0	34	0	66	Y	N	N	N	N	N	H	E	N	N
+Anglia	0401	EA1310	BOK5				Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connection to GW130)	0	66	0	72	Y	N	N	N	N	N	H	N	N	N
+Anglia	0401	EA1310	AWL				Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	N	N	N	N	N	N	H	E	N	N

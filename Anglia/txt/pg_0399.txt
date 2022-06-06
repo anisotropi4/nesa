@@ -1,45 +1,45 @@
-                                                                                          OFFICIAL
+                                                                                     OFFICIAL
 
 
-                                                                   Anglia Route Sectional Appendix Module AR2
+                                                               Anglia Route Sectional Appendix Module AR2
 
-Table D2A – Route clearance of electric multiple units
-                                                                                                                                                   Last Updated: 03/04/2021
-To be read in conjunction with General Notes.
-357 MOD = 357 (Modified) and refers to Class 357 units that have had 65mm removed from the width of their footsteps
 
-Line of ELR Line of Route / Sector                   oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357 Notes
-route       Description                               M    Ch M Ch 000 000 000 000 000 000 000 000 000 MOD ooooooooooooooooooooooooooo
-EA1010 LTN1 Liverpool Street platforms 1-10 –            0    00     0    22    Y     Y      Y       N   Y   Y        H   R1   Y    Y   R1   Prohibited Liverpool Street platforms 1,
-            Liverpool St (L) IECC                                                                                                            2, 3 and 4
-EA1010 LVS      Liverpool Street platforms 11-17 –       0    00     0    22    Y     Y      Y       N   Y   Y        H   Y    Y    Y
-                Liverpool St (L) IECC
-EA1010 LTN1 Liverpool St (L) IECC – Bethnal Green        0    22      1   10    Y     Y      Y       N   Y   Y        H   R1   Y    Y   R1   Prohibited Liverpool Street Station Throat
-            East Jn                                                                                                                          to Bethnal Green West Jn on the Down
-                                                                                                                                             and Up Suburban lines
-EA1010 LTN1 Bethnal Green East Jn – Mile End             1    10     2    02    Y     Y      Y       N   Y   Y        H   Y    Y    Y
-EA1010 LTN1 Mile End – Bow Jn                            2    02     2    74    Y     Y      Y       N   Y   Y        H   Y    Y    Y
-EA1010 LTN1 Bow Jn – Carpenters Road South Jn            2    74     3    54    Y     Y      Y       N   Y   Y        H   Y    Y    Y
-EA1010 LTN1 Carpenters Road South Jn – Stratford         3    54     3    70    Y     Y      Y       N   Y   Y        H   Y    Y    Y
-            Central Jn West
-EA1010 LTN1 Stratford Central Jn West – Stratford        3    70     3    75    Y     Y      Y       N   Y   Y        Y   Y    Y    Y
-            Central Jn East
-EA1010 LTN1 Stratford Central Jn East – Forest           3    75     5    63    Y     Y      Y       N   Y   Y        Y   Y    Y    Y
-            Gate Jn
-EA1010 LTN1 Forest Gate Jn – Ilford Depot London         5    63     7    63    Y     Y      Y       N   Y   Y        Y   Y    E    R1 R1    Prohibited Ilford platform 3
-            End                                                                                                                R1
-EA1010 LTN1 Ilford Depot London End – Seven              7    63     8    45   R1     Y      Y       N   Y   Y        Y   Y    N    R2 R1    Prohibited with shoe gear fitted
-            Kings                                                                                                                      R2    Prohibited Seven Kings platforms 1 and
-                                                                                                                                             2 (Down Main) – with deflated
-                                                                                                                                             suspension
-EA1011 LTN1 Seven Kings – Romford Jn                     8    45    12    39   R1     Y      Y       N   Y   Y        Y   Y    N    Y   R1   Prohibited with shoe gear fitted
-EA1011 LTN1 Romford Jn – Shenfield Jn                   12    39    20    22   R1     Y      Y       N   Y   Y        Y   Y    N    R2 R1    Prohibited with shoe gear fitted
-                                                                                                                                    R3 R2    Prohibited Gidea Park platform 1 and
-                                                                                                                                             50mph through platform 2 with deflated
-                                                                                                                                             suspension
-                                                                                                                                        R3   Prohibited Brentwood Station platform 3
-                                                                                                                                             (Up Electric Line)
-EA1011 LTN1 Shenfield Jn – Witham Jn                    20    22    38    55   R1     Y      Y       N   Y   Y        Y   N    N    N R1     Prohibited with shoe gear fitted
-EA1011 LTN1 Witham Jn – Marks Tey Jn                    38    55    46    49   R1     Y      Y       N   Y   Y        Y   N    N    N R1     Prohibited with shoe gear fitted
+EA1011 LTN1 Witham Jn – Marks Tey Jn                 38   55    46    49   R1    Y      Y       N   Y   Y   Y   N   N   N R1    Prohibited with shoe gear fitted
+EA1011 LTN1 Marks Tey Jn – Colchester Jn             46   49    51    65   R1    Y      Y       N   Y   Y   Y   N   N   N R1    Prohibited with shoe gear fitted
+EA1011 LTN1 Colchester Jn – Manningtree South Jn     51   65    59    46    N    Y      Y       N   Y   Y   Y   N   N   N
+EA1011 LTN1 Manningtree South Jn – Manningtree       59   46    59    69    N    Y      Y       N   Y   Y   Y   N   N   N
+            North Jn
+EA1011 LTN1 Manningtree North Jn – Ipswich           59   69    68    59    N    Y      Y       N   Y   Y   Y   N   N   N
+EA1012 LTN1 Ipswich – East Suffolk Jn                68   59    69    41    N    Y      Y       N   Y   Y   Y   N   N   N
+EA1012 LTN1 East Suffolk Jn – Trowse Jn (EA1013)     69   41   113    68    N    Y      Y       N   Y   Y   Y   N   N   N
+EA1013 LTN2 Trowse Jn – Trowse Swing Bridge         123   00   123    37    N    Y      Y       N   Y   Y   Y   N   N   N
+EA1013 NCW Trowse Swing Bridge – Wensum Jn           0    00     0    28    N    Y      Y       N   Y   Y   Y   N   N   N
+           (EA1470 / ELR NOL 0m 60ch) via
+           Through Sidings / Wensum Curve
+EA1013 LTN2 Trowse Swing Bridge – Norwich           123   37   124    09    N    Y      Y       N   Y   Y   Y   N   N   N
+EA1020 CNS    Carpenters Rd South Jn – Carpenters    1    12     0    70    Y    Y      Y       N   Y   Y   H   E   E   E
+              Rd North Jn
+EA1030 FGW Forest Gate Jn – Woodgrange Park Jn       0    00     0    31    N    N      Y       N   N   N   H   E   Y   Y
+EA1040 ROU Romford – Upminster                       0    00     3    30    N    Y     R1       N   Y   Y   H   N   N   N R1    Between Romford platform 1 and
+                                                                                                                                Upminster platform 6 only
+EA1050 SSV    Shenfield Jn – Southend Victoria       20   22    41    42    N    Y      N       N   Y   Y   H   N   N   R1 R1   Prohibited Rayleigh Station Down
+                                                                                                                                platform 2 with deflated suspension
+EA1060 WIS    Wickford Jn – Southminster             29   13    45    42    N    Y      N       N   Y   Y   H   N   N   N
+EA1070 BRA    Witham – Braintree                     24   15    17    71    N    Y      Y       N   Y   Y   H   N   N   N
+EA1080 SUD    Marks Tey Jn – Sudbury                 45   53     58   32    N    N      N       N   N   N   H   N   N   N
+EA1090 COC Colchester Jn – Clacton                   52   28    69    56    N    Y      N       N   Y   Y   H   N   N   N
+EA1100 STB    East Gate Jn – Colne Jn                53   14    53    30    N    Y      N       N   Y   Y   H   N   N   N
+EA1100 CTH    Hythe Jn – Colne Jn                    0    22     0    00    N    Y      N       N   Y   Y   H   N   N   N
+EA1100 STB    Colne Jn – Colchester Town             53   30    53    76    N    Y      N       N   Y   Y   H   N   N   N
+EA1110 TWN Thorpe-Le-Soken Jn – Walton-On-           65   19    70    15    N    Y      N       N   Y   Y   H   N   N   N
+           Naze
+EA1120 MAH Manningtree South Jn – Manningtree        59   35    59    67    N    N      Y       N   Y   Y   H   N   N   N
+           East Jn
+EA1120 NTE    Manningtree North Jn – Manningtree     0    00     0    24    N    N      Y       N   Y   Y   H   N   N   N
+              East Jn
+EA1120 MAH Manningtree East Jn – Harwich             59   67    68    72    N    N      Y       N   Y   Y   H   N   N   N
+           International Port
 
-August 2006                                                                               291
+
+
+August 2006                                                                          292

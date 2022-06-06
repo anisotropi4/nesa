@@ -1,46 +1,48 @@
-                                                                                       OFFICIAL
+                                                                                 OFFICIAL
 
 
-                                                                 Anglia Route Sectional Appendix Module AR2
-
-Line of ELR    Line of Route / Sector                oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357 Notes
-route          Description                            M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000    0000 MOD ooooooooooooooooooooooooooo
-EA1310 BOK5    Acton Wells Jn (Connection to            0   66      0    72   Y    N      N       N   N   N   H   N   N   N
-               EA1360) – Acton Wells Jn
-               (Connection to GW130)
-EA1310 AWL     Acton Wells Jn – Route Boundary          0   49      0    39   N    N      N       N   N   N   H   E   N   N
-               (GW130) (Acton East Jn)
-EA1310 BOK5    Acton Wells Jn (Connection to            0   72      1    73   Y    N      N       N   N   N   H   N   N   N
-               GW130) – Acton Central (Limit of
-               AC)
-EA1310 BOK5    Acton Central (Limit of AC) – South      1   73      2    52   Y    N      N       N   N   N   H   N   N   N
-               Acton Jn
-EA1310 SAR1    South Acton Jn – Gunnersbury Jn          2   52      3    12   Y    N      N       N   N   N   H   N   N   N
-EA1310 SAR2    Gunnersbury Jn – Richmond                9   72     12    39   Y    N      N       N   N   N   H   N   N   N
-EA1320 CRC1/2 Route Boundary (MD145) (Camden            5   42      5    10   Y    N      Y       E   Y   N   Y   N   N   N
-              Jn) – Camden Road West Jn
-EA1320 BOK1    Camden Road West Jn – Camden             5   10      4    64   Y    N      Y       E   Y   N   Y   E   N   N
-               Road Central Jn
-EA1320 CRF1    Camden Road Central Jn – Route           0   51      0    20   Y    N      Y       E   Y   N   Y   N   N   N
-               Boundary (LN115) (North London
-               Incline)
-EA1320 BOK1    Camden Road Central Jn –                 4   64      3    12   Y    N      Y       E   Y   N   Y   E   N   N
-               Canonbury West Jn
-EA1320 CFP     Canonbury West Jn – Route                3   12      3    20   Y    Y      Y       E   Y   Y   H   E   E   E
-               Boundary (LN110) (Finsbury Park)
-EA1320 BOK1    Canonbury West Jn – Dalston              3   12      2    21   Y    Y      Y       E   Y   Y   Y   E   E   E
-               Western Jn
-EA1320 DWW1 Dalston Western Jn - Navarino Road          2   21      1    52   Y    Y      Y       N   Y   Y   Y   E   E   E
-            Jn (Change of Mileage)
-EA1320 DWW2 Navarino Road Jn (Change of                 1   11      3    19   Y    Y      Y       N   Y   Y   Y   E   E   E
-            Mileage) – Lea Jn
-EA1320 DWW2 Lea Jn – Channelsea North Jn                3   19      3    32   Y    Y      Y       N   Y   Y   Y   E   E   E
-EA1320 DWW2 Channelsea North Jn – Channelsea            3   32      3    33   Y    Y      Y       N   Y   Y   Y   E   E   E
-            South Jn
-EA1320 DWW2 Channelsea South Jn – Stratford             3   33      3    74   Y    N      N       N   N   N   H   N   N   N
-EA1325 BOK1    Limit of reversible working DNL –        3   38      2    17   N    N      N       N   N   N   N   N   N   N
-               Network Rail Boundary (TFL ELL)
+                                                           Anglia Route Sectional Appendix Module AR2
 
 
+EA1325 ELL1   Network Rail Boundary (TFL ELL) –   2   17      5    21   N    EH    EH       N   EH   N   N   N   EH   EH R1    Can only run when authorised by Rail for
+              Canal Jn (TFL Infrastructure)                                  R1    R1           R1               R1   R1       London and only run or operate under
+                                                                             R2    R2           R2               R2   R2       Special Traffic Notice subject to any
+                                                                                                                               operational restrictions published within
+                                                                             R3    R3           R3               R3   R3       the notice
+                                                                             R4    R4           R4               R4   R4 R2    Prohibited North of EL264 (5M9Ch)
+                                                                                                                         R3    Not to exceed 25mph, 10mph on
+                                                                                                                               sections EL266-EL264 (UP) and EL264-
+                                                                                                                               Canal Jn (DN)
+                                                                                                                          Prohibited with deflated suspension
+EA1325 ELL1   Canal Jn – TFL / Network Rail       5   21      5    52   N    EH    EH       N   EH   N   N   N   EH   EH R1    Can only run when authorised by Rail for
+              Boundary (SO510) (Via Up East                                  R1    R1           R1               R1   R1       London and only run or operate under
+              London Line) (TFL Infrastructure)                              R2    R2           R2               R2   R2       Special Traffic Notice subject to any
+                                                                                                                               operational restrictions published within
+                                                                             R3    R3           R3               R3   R3       the notice
+                                                                                                                          R2 Not to exceed 25mph
+                                                                                                                          Prohibited with deflated suspension
+EA1325 ELL1   Canal Jn – TFL / Network Rail       5   21      5    73   N    EH    EH       N   EH   N   N   N   EH   EH R1    Can only run when authorised by Rail for
+              Boundary (SO510) (Via Down East                                R1    R1           R1               R1   R1       London and only run or operate under
+              London Line) (TFL Infrastructure)                              R2    R2           R2               R2   R2       Special Traffic Notice subject to any
+                                                                                                                               operational restrictions published within
+                                                                             R3    R3           R3               R3   R3       the notice
+                                                                                                                          R2 Not to exceed 25mph, 5mph through
+                                                                                                                               station platform and 10mph on section
+                                                                                                                               Canal Jn-131 points (DN)
+                                                                                                                          Prohibited with deflated suspension
+EA1325 ELL2   Canal Jn – Lewisham (TFL            5   21      5    78   N    N      N       N   N    N   N   N   N    N
+              Infrastructure)
+EA1327 ELL3   Silwood Jn – ELL/Network Rail       4   66      5    51   N    N      N       N   N    N   N   N   N    N
+              Boundary (TFL Infrastructure)
+EA1327 ELL4   ELL/Network Rail Boundary – Old     2   23      2    32   N    N      N       N   N    N   N   N   N    N
+              Kent Road Jn (SO680)
+EA1330 BOK 5 South Acton Jn – Kew East Jn         2   52      3    27   N    N      N       N   N    N   N   N   N    N
+EA1330 NKE1   Kew East Jn – Route Boundary        3   27      3    39   N    N      N       N   N    N   N   N   N    N
+              (SW230) (New Kew Jn)
+EA1330 BOK5   Kew East Jn – Route Boundary        3   27      3    61   N    N      N       N   N    N   N   N   N    N
+              (SW230) (Old Kew Jn)
+EA1340 LLS2   Lea Jn – High Meads Jn              0   51      0    65   N    Y      Y       N   Y    Y   H   E   N    N
+EA1350 CHM    Channelsea North Jn – High Meads    0   00      0    15   N    Y      Y       N   Y    Y   H   E   N    N
+              Jn
 
-August 2006                                                                            295
+August 2006                                                                       296

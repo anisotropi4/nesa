@@ -3,9 +3,14 @@
 
                                                                    Anglia Route Sectional Appendix Module AR2
 
-Line of ELR     Line of Route / Sector Description oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 Notes
-route                                               M    Ch M Ch 0000 0000 0000 (MOD) DVT DVT 0000 ooooooooooooooooooooooooooo
-                                                                                           (MOD)
+
+EA1480   WHC3   Change of Mileage (Site of Former        45   64     46    42   Y       Y      N     N     N    N   N
+                Runton East Jn) – Cromer
+EA1490   CRS    Cromer Jn – Network Rail Boundary        46   27     42    69   Y       Y      N     N     N    N   N
+                (North Norfolk Railway)
+EA1500   NAY    Brundall Jn – Yarmouth Via Acle          5    72     18    29   Y       Y      Y     N     N    Y   N
+EA1500   RBY    Breydon Access No24 LC (EA1510) –        19   13     20    45   Y       Y      Y     N     N    Y   N
+                Yarmouth
 EA1510   RBY    Reedham Jn – Breydon Access No24 LC      12   34     19    13   Y       Y      Y     N     N    Y   N
 EA1520   SIZ    Saxmundham Jn – Sizewell                 91   40     95    79   Y       Y      N     N     N    N   N
 EA1530   CCH    Coldham Lane Jn – Haughley Jn            0    23     40    49   Y       Y      Y     N     N    Y   N
@@ -15,14 +20,13 @@ EA1540   SOB2   Site of Former Snailwell Jn – Ely Dock   1    54     12    33 
                 Jn
 EA1550   EWC    Ely North Jn – Ely West Jn (Ely West     71   63     72    63   Y       Y      Y     N     N    N   N
                 Curve)
-EA1560   EMP    Ely North Jn – Ely West Jn               71   63     72    39   Y       Y      Y     N     N    Y   R1   R1 Permitted for diversionary purposes
-EA1560   EMP    Ely West Jn – Route Boundary (LN135)     72   39     98    40   Y       Y      Y     N     N    Y   R1   R1   Permitted for diversionary purposes
-                (Peterborough)                                                                                      R2   R2   50mph over Harts Bridge No 1833
-                                                                                                                              (Centre Girder Underbridge) Down Main
-                                                                                                                              (94m 75ch)
+EA1560   EMP    Ely North Jn – Ely West Jn               71   63     72    39   Y       Y      Y     N     N    Y   R1   R1   R2 Permitted for diversionary purposes
+EA1560   EMP    Ely West Jn – Route Boundary (LN135)     72   39     98    40   Y       Y      Y     N     N    Y   R1   R1   R2   Permitted for diversionary purposes
+                (Peterborough)                                                                                      R2        R3   50mph over Harts Bridge No 1833 (Centre
+                                                                                                                                   Girder Underbridge) Down Main (94m 75ch)
 EA1570   WIG    March East Jn – Whitemoor Jn             85   78     86    18   Y       Y      N     N     N    N   N
 EA1570   MWL    March West Jn – Whitemoor Jn             0    00      0    13   Y       Y      N     N     N    N   N
-EA1570   WIG    Whitemoor Jn – Wisbech                   86   18     93    60   N       N      N     N     N    N   N    Line out of use (temporarily)
+EA1570   WIG    Whitemoor Jn – Wisbech                   86   18     93    60   N       N      N     N     N    N   N         Line out of use (temporarily)
 
 EA1580   ETN    Ely North Jn – Trowse Jn                 71   72    123    00   Y       Y      Y     N     N    Y   N
 EA1744   BFC    Europa Jn – Boss Hall Jn                  0   00      0    63   Y       Y      Y     N     N    N   N
@@ -30,4 +34,4 @@ EA1744   BFC    Europa Jn – Boss Hall Jn                  0   00      0    63 
 
 
 
-August 2006                                                                           306
+CAugust 2006                                                                          305F

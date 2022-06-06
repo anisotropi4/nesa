@@ -1,22 +1,9 @@
-Anglia	0412	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0412																			
-Anglia	0412						M	Ch	M	Ch										
-Anglia	0412	EA1310	BOK2	Camden Road West Jn	Gospel Oak Jn	Camden Road West Jn – Gospel Oak Jn	0	00	1	10	N	N	R1	E	Y	E	N	N	N	E	R1 OPPOS applies at Camden Rd West Jn on the Down and Up between 0mch and 0m 10ch
-Anglia	0412	EA1310	BOK2	Gospel Oak Jn	Kensal Green Jn	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	N	N	Y	E	Y	E	N	N	N	E
-Anglia	0412	EA1310	KGC	Kensal Green Jn	Route Boundary (MD155) (Harlesden Jn)	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)	0	00	0	21	N	N	N	N	Y	E	N	N	N	N
-Anglia	0412	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	N	N	N	N	Y	N	N	N	N	N
-Anglia	0412	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	N	N	Y	E	Y	N	N	N	N	E
-Anglia	0412	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	N	N	Y	E	Y	N	N	N	N	E
-Anglia	0412	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	N	N	R1	N	Y	N	N	N	N	N	R1 OPPOS applies
-Anglia	0412	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	N	N	R1	N	Y	N	N	N	N	N	R1 OPPOS applies
-Anglia	0412	EA1310	BOK5	Acton Wells Jn (Connection to EA1360)	Acton Wells Jn (Connection to GW130)	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connection to GW130)	0	66	0	72	N	N	R1	N	Y	N	N	N	N	N	R1 OPPOS applies
-Anglia	0412	EA1310	AWL	Acton Wells Jn	Route Boundary (GW130) (Acton East Jn)	Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	N	N	N	N	N	N	N	E	N	N
-Anglia	0412	EA1310	BOK5	Acton Wells Jn (Connection to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connection to GW130) – Acton Central (Limit of AC)	0	72	1	73	N	N	Y	N	R1	N	N	N	N	N	R1 Between Acton Wells and the end of the OLE at Acton Central - notch 2 operation only
-Anglia	0412	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	N	N	Y	N	Y	N	N	N	N	N
-Anglia	0412	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	N	N	N	N	Y	N	N	N	R1 R2	N	R1 Class 499/5 only R2 Prohibited South Acton Jn - extent of fourth rail electrified line on the Up Richmond line (to allow shunt moves only)
-Anglia	0412	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	N	N	N	N	Y	N	N	N	R1 R2 R3	N	R1 Class 499/0 and 499/5 only R2 20mph Kew Gardens platform 1 (Up Richmond line) passenger moves only R3 Prohibited Richmond platform 3
-Anglia	0412	EA1320	CRC1/2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	N	N	Y	E	Y	E	EH	E	N	E
-Anglia	0412	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	N	N	Y	E	Y	E	EH	N	N	E R1	R1 Prohibited Up East London and Down East London lines
-Anglia	0412	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	N	N	Y	E	E	N	N	N	N	N
-Anglia	0412	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	N	N	N	N	Y	E	EH	N	N	E R1	R1 Prohibited Up East London and Down East London lines
-Anglia	0412	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	N	N	N	N	E	E	N	E	N	E
+Anglia	0412	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	N	N	N	N	Y	E	EH	E	N	E R1	R1 Prohibited Up East London and Down East London lines
+Anglia	0412	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	N	N	N	N	Y	E	EH	E	N	E
+Anglia	0412	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	N	N	N	N	Y	E	EH	E	N	E
+Anglia	0412	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	N	N	N	N	Y	E	EH	E	N	N
+Anglia	0412	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	N	N	N	N	Y	Y	EH	E	N	N
+Anglia	0412	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	N	Y	N	N	N	N	N
+Anglia	0412	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	Y	N	N	N	N	N
+Anglia	0412	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	EH R1 R2 R3 R4	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3 R4	EH R1 R2 R3 R4	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R4 Prohibited with deflated suspension R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled
+Anglia	0412	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	EH R1 R2 R3	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3	EH R1 R2 R3	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph R3 Prohibited with deflated suspension R4 Must be hauled if busline exceeds 80 metres. Shoegear isolated. R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled

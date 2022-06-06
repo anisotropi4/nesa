@@ -9,14 +9,15 @@ The downloadable NESA data is available [here](https://www.networkrail.co.uk/ind
 |Unformatted text|Per page Route Clearance TSV|Route Clearance XLSX Report|
 |----------------|----------------------------|---------------------------|
 |[Anglia Route](Anglia-Route/anglia-route-text.md)|[Anglia Route](Anglia-Route/anglia-route-tsv.md)|[Anglia Route](Anglia-Route/anglia-route-clearance.xlsx)|
-|[Kent, Sussex and Wessex](Kent-Sussex-Wessex/kent-sussex-wessex-text.md)|[Kent, Sussex and Wessex](Kent-Sussex-Wessex/kent-sussex-wessex-tsv.md)|[Kent, Sussex and Wessex](Kent-Sussex-Wessex/kent-sussex-wessex-clearance.xlsx)|
+|[Kent, Sussex and Wessex](Kent/kent-text.md)|[Kent, Sussex and Wessex](Kent/kent-tsv.md)|[Kent, Sussex and Wessex](Kent/kent-clearance.xlsx)|
 |[London North-Eastern](London-North-Eastern/london-north-eastern-text.md)|[London North-Eastern](London-North-Eastern/london-north-eastern-tsv.md)|[London North-Eastern](London-North-Eastern/london-north-eastern-clearance.xlsx)|
 |[London North-Western North](London-North-Western-North/london-north-western-north-text.md)|[London North-Western North](London-North-Western-North/london-north-western-north-tsv.md)|[London North-Western North](London-North-Western-North/london-north-western-north-clearance.xlsx)|
 |[London North-Western South](London-North-Western-South/london-north-western-south-text.md)|[London North-Western South](London-North-Western-South/london-north-western-south-tsv.md)|[London North-Western South](London-North-Western-South/london-north-western-south-clearance.xlsx)|
 |[Scotland](Scotland/scotland-text.md)|[Scotland](Scotland/scotland-tsv.md)|[Scotland](Scotland/scotland-clearance.xlsx)|
 |[Western](Western/western-text.md)|[Western](Western/western-tsv.md)|[Western](Western/western-clearance.xlsx)|
 
-* Note: South Wales data is now in `Western`, and North Wales in `London North Western North`.
+* Notes: South Wales data is now in `Western`, and North Wales in `London North Western North`. Kent, Sussex and Wessex data is now in the `Kent` directory.
+
 
 ## Data Source
 The PDF files for these seven routes are available [here](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)

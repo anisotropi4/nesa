@@ -1,20 +1,7 @@
-Anglia	0455	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	MPV	Notes
-Anglia	0455	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD167) Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) Willesden West London Jn)	6	19	6	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1360	CAW	Acton Wells Jn (Change of Mileage)	Acton Wells Jn	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	GOJ	Gospel Oak Jn	Junction Rd Jn	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	JRT2	Junction Rd Jn	Route Boundary (LN3210) (Carlton Rd Jn)	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH1	Junction Rd Jn	Harringay Park Jn	Junction Rd Jn – Harringay Park Jn	2	42	4	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	HPW	Harringay Park Jn	Route Boundary (LN165) (Harringay Jn)	Harringay Park Jn – Route Boundary (LN165) (Harringay Jn)	0	25	0	14	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH1	Harringay Park Jn	South Tottenham West Jn	Harringay Park Jn – South Tottenham West Jn	4	15	5	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH1	South Tottenham West Jn	South Tottenham East Jn	South Tottenham West Jn – South Tottenham East Jn	5	65	5	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH2	South Tottenham East Jn	Woodgrange Park Jn	South Tottenham East Jn – Woodgrange Park Jn	5	73	11	79	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH3	Woodgrange Park Jn	Barking Station Jn	Woodgrange Park Jn – Barking Station Jn	11	79	13	12	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH3	Barking Station Jn	Barking Tilbury Jn West	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1370	TAH4	Barking Station Jn	Barking Platform 1	Barking Station Jn – Barking Platform 1	13	12	13	62	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	8	E R2 R5	N	E R2 R6	N	N	E R2 R5	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode R5 Not to exceed 25mph, 5mph through station platform and 10mph on section Canal Jn-131points (DN) R6 Not to exceed 5mph
+Anglia	0455	EA1325	ELL2	Canal Jn	Lewisham (TFL Infrastructure)	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	8	N	N	R2 R6	N	N	N	R1 R2 R3 R4 R5	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Not to enter New Cross station platform (details contained in STN) R5 Prohibited in diesel mode R6 Not to exceed 5mph
+Anglia	0455	EA1327	ELL3	Silwood Jn	ELL/Network Rail Boundary (TFL Infrastructure)	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	8	N	N	R1 R2	N	N	N	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice Not to exceed 5mph
+Anglia	0455	EA1327	ELL4	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	8	N	N	Y	N	N	N	N	N	N
+Anglia	0455	EA1330	BOK 5	South Acton Jn	Kew East Jn	South Acton Jn – Kew East Jn	2	52	3	27	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1330	NKE1	Kew East Jn	Route Boundary (SW230) (New Kew Jn)	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	8	Y	Y	Y	Y	Y	Y	Y	Y	Y

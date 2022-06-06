@@ -1,4 +1,8 @@
-Anglia	0446	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+Anglia	0446	EA1440	FEL F	elixstowe Beach Jn	Felixstowe town	elixstowe Beach Jn – Felixstowe town	83	57	84	30	7	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0446	EA1450	TFN T Q	rimley	Port of Felixstowe North uay Terminal	rimley – Port of Felixstowe North uay Terminal	0	00	0	18	7	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0446	EA1460	FED F B	elixstowe Beach Jn	Felixstowe each	elixstowe Beach Jn – Felixstowe each	83	57	86	34	7	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0446	EA1470	NOL T	horpe Jn	Limit of Electrification	horpe Jn – Limit of Electrification	0	09	0	79	7	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0446	EA1470	NOL L	imit of Electrification	Reedham Jn	imit of Electrification – Reedham Jn	0	79	12	34	7	Y	N	Y	Y	Y	Y	Y	Y
 Anglia	0446	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	7	Y	N	Y	Y	Y	Y	Y	Y
 Anglia	0446	EA1480	WHC1	Whitlingham Jn	North Walsham (End of Station Loop)	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	6	Y	N	Y	R1	Y	N	Y	Y	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
 Anglia	0446	EA1480	WHC1	North Walsham (End of Station Loop)	Change of Mileage (Site of Former Roughton Road Jn)	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	6	N	N	Y	R1	Y	N	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
@@ -16,7 +20,3 @@ Anglia	0446	EA1550	EWC	Ely North Jn	Ely West Jn (Ely West Curve)	Ely North Jn �
 Anglia	0446	EA1560	EMP	Ely North Jn	Ely West Jn	Ely North Jn – Ely West Jn	71	63	72	39	8	Y	Y	Y	Y	Y	Y	Y	Y
 Anglia	0446	EA1560	EMP	Ely West Jn	Route Boundary (LN135) (Peterborough)	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	8	Y	Y	Y	Y	Y	Y	Y	Y
 Anglia	0446	EA1570	WIG	March East Jn	Whitemoor Jn	March East Jn – Whitemoor Jn	85	78	86	18	8	N	N	Y	Y	Y	Y	Y	N
-Anglia	0446	EA1570	MWL	March West Jn	Whitemoor Jn	March West Jn – Whitemoor Jn	0	00	0	13	8	N	N	Y	Y	Y	Y	Y	N
-Anglia	0446	EA1570	WIG	Whitemoor Jn	Wisbech	Whitemoor Jn – Wisbech	86	18	93	60	6	N	N	N	N	N	N	N	N	Line out of use (temporarily)
-Anglia	0446	EA1580	ETN	Ely North Jn	Trowse Jn	Ely North Jn – Trowse Jn	71	72	123	00	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0446	EA1744	BFC	Europa Jn	Boss Hall Jn	Europa Jn – Boss Hall Jn	0	00	0	63	10	Y	N	Y	Y	Y	Y	Y	N

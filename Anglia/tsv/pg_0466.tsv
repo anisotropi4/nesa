@@ -1,4 +1,8 @@
-Anglia	0466	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Anglia	0466	EA1380	FSS1	Gas Factory Jn	East Ham Depot	Gas Factory Jn – East Ham Depot	2	57	6	18	3	R1 R2 R3	R1 R2 R3	N	R1 R2 R3	N	R1 R2 R3	R1 25mph over bridge 25 (3m 09ch) (Up and Down Lines) R2 25mph over bridge 39 (4m 01ch) (Down Line only) R3 25mph over bridge 40 (4m 02ch) (Down Line only)
+Anglia	0466	EA1380	FSS1	East Ham Depot	Barking Tilbury Jn West	East Ham Depot – Barking Tilbury Jn West	6	18	7	33	3	Y	Y	N	Y	N	Y
+Anglia	0466	EA1380	FSS2	Barking Tilbury Jn West	Barking Tilbury Jn East	Barking Tilbury Jn West – Barking Tilbury Jn East	7	33	7	60	8	Y	Y	Y	Y	N	Y
+Anglia	0466	EA1380	FSS2	Barking Tilbury Jn East	Upminster	Barking Tilbury Jn East – Upminster	7	60	15	20	8	Y	Y	Y	Y	N	N
+Anglia	0466	EA1380	FSS2	Upminster	Southend Central	Upminster – Southend Central	15	20	35	55	8	Y	Y	Y	Y	N	N
 Anglia	0466	EA1380	FSS3	Southend Central	Shoeburyness	Southend Central – Shoeburyness	35	55	39	40	8	Y	Y	Y	Y	N	N
 Anglia	0466	EA1390	TLL	Barking Tilbury Line Jn East	Former Tilbury West Jn	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	8	Y	Y	Y	Y	N	Y
 Anglia	0466	EA1390	TLL	Former Tilbury West Jn	Pitsea Jn	Former Tilbury West Jn – Pitsea Jn	22	06	32	43	8	Y	Y	Y	Y	N	N
@@ -15,7 +19,3 @@ Anglia	0466	EA1460	FED	Felixstowe Beach Jn	Felixstowe Beach	Felixstowe Beach Jn 
 Anglia	0466	EA1470	NOL	Thorpe Jn	Limit of Electrification	Thorpe Jn – Limit of Electrification	0	09	0	79	7	H R1	N	Y	H	N	N	R1 The Battery Isolating Switch must be left in the open position
 Anglia	0466	EA1470	NOL	Limit of Electrification	Reedham Jn	Limit of Electrification – Reedham Jn	0	79	12	34	7	H R1	N	Y	H	N	N	R1 The Battery Isolating Switch must be left in the open position
 Anglia	0466	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	7	N	N	Y	H	N	N
-Anglia	0466	EA1480	WHC 1	Whitlingham Jn	North Walsham (End of Station Loop)	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	6	N	N	N	N	N	N
-Anglia	0466	EA1480	WHC 1	North Walsham (End of Station Loop)	Change of Mileage (Site of Former Roughton Road Jn)	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	6	N	N	N	N	N	N
-Anglia	0466	EA1480	WHC 2	Change of Mileage (Site of Former Roughton Road Jn)	Change of Mileage (Site of Former Runton East Jn)	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	6	N	N	N	N	N	N
-Anglia	0466	EA1480	WHC 3	Change of Mileage (Site of Former Runton East Jn)	Cromer	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	6	N	N	N	N	N	N

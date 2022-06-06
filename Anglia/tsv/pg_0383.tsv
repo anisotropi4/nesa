@@ -1,6 +1,3 @@
-Anglia	0383	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	150	153	156	158	165	168	170	Notes
-Anglia	0383	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	Y	N	N	N	E R1	E	N	R1 Route prohibited to Class 165/1
-Anglia	0383	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	Y	N	N	N	E R1	E R2	Y	R1 Route prohibited to Class 165/1 R2 Prohibited with deflated suspension
 Anglia	0383	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	Y	N	N	N	N	N	N
 Anglia	0383	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	Y	N	N	N	E R1	E R2	Y	R1 Route Prohibited to Class 165/1 R2 Prohibited with deflated suspension
 Anglia	0383	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	Y	N	N	N	E R1	E R2	Y	R1 Route Prohibited to Class 165/1 R2 Prohibited with deflated suspension
@@ -15,3 +12,7 @@ Anglia	0383	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road W
 Anglia	0383	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	Y	N	N	N	N	N	E
 Anglia	0383	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	Y	N	E	N	E	E R1	Y	R1 Prohibited with deflated suspension
 Anglia	0383	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	Y	N	E	N	N	N	E
+Anglia	0383	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	Y	N	E	N	E	E R1	Y	R1 Prohibited with deflated suspension
+Anglia	0383	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	Y	N	E	N	E	E R1	Y	R1 Prohibited with deflated suspension
+Anglia	0383	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	Y	N	E	N	E	E R1	Y	R1 Prohibited with deflated suspension
+Anglia	0383	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	Y	N	E	N	E	E R1	Y	R1 Prohibited with deflated suspension

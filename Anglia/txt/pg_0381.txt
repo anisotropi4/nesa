@@ -1,45 +1,46 @@
-                                                                                   OFFICIAL
+                                                                                 OFFICIAL
 
 
-                                                                  Anglia Route Sectional Appendix Module AR2
+                                                                Anglia Route Sectional Appendix Module AR2
 
-Line of ELR   Line of Route / Sector                  oooo oooo oooo oooo 150 153 156 158 165 168 170   Notes
-route         Description                              M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-EA1100 STB    East Gate Jn – Colne Jn                   53   14    53    30   N     N     Y     N     N        N    Y
-EA1100 CTH    Hythe Jn – Colne Jn                        0   22     0    00   N     N     Y     N     N        N    Y
-EA1100 STB    Colne Jn – Colchester Town                53   30    53    76   N     N     R1    N     N        N    R1   R1 Prohibited from last 20 metres at the buffer
-                                                                                                                            stop end of Colchester Town Station
-EA1110 TWN    Thorpe-Le-Soken Jn – Walton-On-           65   19    70    15   N     N     N     N     N        N    N
+
+EA1100 STB    Colne Jn – Colchester Town              53   30    53    76   N     N     R1    N     N        N    R1   R1 Prohibited from last 20 metres at the buffer
+                                                                                                                          stop end of Colchester Town Station
+EA1110 TWN    Thorpe-Le-Soken Jn – Walton-On-         65   19    70    15   N     N     N     N     N        N    N
               Naze
-EA1120 MAH    Manningtree South Jn – Manningtree        59   35    59    67   Y    R1     Y     Y     N        N    Y    R1 Prohibited Manningtree platform 1
-              East Jn                                                              R2                                    R2 15mph Manningtree platform 2 when laden
-                                                                                                                            and 30mph when ECS
-EA1120 NTE    Manningtree North Jn – Manningtree         0   00     0    24   Y     Y     Y     Y     N        N    Y
+EA1120 MAH    Manningtree South Jn – Manningtree      59   35    59    67   Y    R1     Y     Y     N        N    Y    R1 Prohibited Manningtree platform 1
+              East Jn                                                            R2                                    R2 15mph Manningtree platform 2 when laden
+                                                                                                                          and 30mph when ECS
+EA1120 NTE    Manningtree North Jn – Manningtree      0    00     0    24   Y     Y     Y     Y     N        N    Y
               East Jn
-EA1120 MAH    Manningtree East Jn – Harwich             59   67    68    72   Y    R1     Y     Y     N        N    R1   R1 Prohibited from using the last 20 metres at
-              International Port                                                                                            the buffer stop end of platform 3 at Harwich
-                                                                                                                            International Port
-EA1120 MAH    Harwich International Port – Harwich      68   72    70    61   Y     N     R1    N     N        N    R1   R1 Prohibited from using the last 20 metres at
-              town                                                                                                          the buffer stop end of Harwich Town Station
-EA1130 GRW    Halifax Jn – Griffin Wharf Boundary        0   00     0    47   N     N     N     N     N        N    N
-EA1150 CST    Channelsea South Jn – Stratford            0   29     0    00   Y     N     E     N     E        E    Y    R1 Prohibited with deflated suspension
-              Central Jn West                                                                                  R1
-EA1160 BGK    Bethnal Green East Jn – Reading            1   10     2    55   N     N     N     N     N        N    Y
+EA1120 MAH    Manningtree East Jn – Harwich           59   67    68    72   Y    R1     Y     Y     N        N    R1   R1 Prohibited from using the last 20 metres at
+              International Port                                                                                          the buffer stop end of platform 3 at Harwich
+                                                                                                                          International Port
+EA1120 MAH    Harwich International Port – Harwich    68   72    70    61   Y     N     R1    N     N        N    R1   R1 Prohibited from using the last 20 metres at
+              town                                                                                                        the buffer stop end of Harwich Town Station
+EA1130 GRW    Halifax Jn – Griffin Wharf Boundary     0    00     0    47   N     N     N     N     N        N    N
+EA1150 CST    Channelsea South Jn – Stratford         0    29     0    00   Y     N     E     N     E        E    Y    R1 Prohibited with deflated suspension
+              Central Jn West                                                                                R1
+EA1160 BGK    Bethnal Green East Jn – Reading         1    10     2    55   N     N     N     N     N        N    Y
               Lane Jn
-EA1160 BGK    Reading Lane Jn – Hackney Downs            2   55     3    04   N     N     N     N     N        N    Y
+EA1160 BGK    Reading Lane Jn – Hackney Downs         2    55     3    04   N     N     N     N     N        N    Y
               North Jn
-EA1160 BGK    Hackney Downs North Jn –                   3   04     4    74   Y     N     N     N     N        N    Y
+EA1160 BGK    Hackney Downs North Jn –                3    04     4    74   Y     N     N     N     N        N    Y
               Coppermill Jn
-EA1160 BGK    Coppermill Jn – Tottenham South Jn         4   74     5    41   N     N     N     N     E        N    Y
-EA1160 BGK    Tottenham South Jn – Bishops               5   41    31    31   N     N     N     N     N        N    R1 R1    15mph Bishops Stortford platform 3
+EA1160 BGK    Coppermill Jn – Tottenham South Jn      4    74     5    41   N     N     N     N     E        N    Y
+EA1160 BGK    Tottenham South Jn – Bishops            5    41    31    31   N     N     N     N     N        N    R1 R1    15mph Bishops Stortford platform 3
               Stortford (Cannons Mill Lane Footpath
               LC (R/G-X)
-EA1161 BGK    (Cannons Mill Lane Footpath LC (R/G-      31   31    53    06   Y     Y     Y     Y     N        N    Y
+EA1161 BGK    (Cannons Mill Lane Footpath LC (R/G-    31   31    53    06   Y     Y     Y     Y     N        N    Y
               X) Stansted Mountfitchet – Shepreth
               Branch Jn
-EA1161 BGK    Shepreth Branch Jn – Ely Dock Jn          53   06    69   79    Y     Y     Y     Y     N        N    Y
-EA1161 BGK    Ely Dock Jn – Ely North Jn                69   79    71   68    Y    R1     Y     Y     N        N    Y    R1 Prohibited through Ely platform 3 with
-                                                                                                                            deflated suspension
-EA1162 BGK    Ely North Jn – Kings Lynn                 71   68    96   75    Y     N     N     N     N        N    N
+EA1161 BGK    Shepreth Branch Jn – Ely Dock Jn        53   06    69   79    Y     N     Y     Y     N        N    Y
+EA1161 BGK    Ely Dock Jn – Ely North Jn              69   79    71   68    Y    R1     Y     Y     N        N    Y    R1 Prohibited through Ely platform 3 with
+                                                                                                                          deflated suspension
+EA1162 BGK    Ely North Jn – Kings Lynn               71   68    96   75    Y     N     N     N     N        N    N
+EA1170 HDT    Hackney Downs North Jn – Seven           3   04     5   70    Y     N     N     N     N        N    Y
+              Sisters Jn
+EA1170 HDT    Seven Sisters Jn – Bury Street Jn        5   70     9   20    N     N     N     N     N        N    Y
+EA1170 ENT    Bury Street Jn – Enfield Town            9   20    10   55    N     N     N     N     N        N    Y
 
-August 2006                                                                         281
+August 2006                                                                       281

@@ -3,6 +3,15 @@
 
                                                                 Anglia Route Sectional Appendix Module AR2
 
+
+EA1370 HPW    Harringay Park Jn – Route Boundary       0   25     0   14    Y     N     N     N     E        N   Y
+              (LN165) (Harringay Jn)
+EA1370 TAH1   Harringay Park Jn – South Tottenham      4   15     5   65    Y     N     N     N     E        N   Y
+              West Jn
+EA1370 TAH1   South Tottenham West Jn – South          5   65     5   73    Y     N     N     N     E        N   Y
+              Tottenham East Jn
+
+
 EA1370 TAH2   South Tottenham East Jn –                5   73    11   79    Y     N     N     N     N        N   N
               Woodgrange Park Jn
 EA1370 TAH3   Woodgrange Park Jn – Barking            11   79    13   12    Y     N     N     N     N        N   N
@@ -31,15 +40,7 @@ EA1430 ESK    East Suffolk Jn – Westerfield Jn        69   41    73   23    Y 
 EA1430 ESK    Westerfield Jn – Oulton Broad North     73   23   116   27   R1    R1     R1    N     N        N   R1   R1 Prohibited unless TCA fitted
               Jn
 EA1440 FEL    Westerfield Jn – Felixstowe Beach Jn    73   23    83   57    Y     Y     Y     N     N        N   Y
-EA1440 FEL    Felixstowe Beach Jn – Felixstowe        83   57    84   30    Y     Y     Y     N     N        N   Y
-              town
-EA1450 TFN    Trimley – Port of Felixstowe North       0   00     0   18    N     N     N     N     N        N   N
-              Quay Terminal
-EA1460 FED    Felixstowe Beach Jn – Felixstowe        83   57    86   34    N     N     N     N     N        N   N
-              Beach
-EA1470 NOL    Thorpe Jn – Limit of Electrification     0   09     0   79    Y     Y     Y     Y     N        N   Y
-EA1470 NOL    Limit of Electrification – Reedham Jn    0   79    12   34    Y    R1     Y     Y     N        N   Y    R1 Prohibited Cantley Down platform with
-                                                                                                                         deflated suspension
+
 
 
 August 2006                                                                      284B

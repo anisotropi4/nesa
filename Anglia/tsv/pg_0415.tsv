@@ -1,9 +1,3 @@
-Anglia	0415	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0415	EA1380	FSS2	Barking Tilbury Jn West	Barking Tilbury Jn East	Barking Tilbury Jn West – Barking Tilbury Jn East	7	33	7	60	N	N	N	N	N	N	N	Y	N	N
-Anglia	0415	EA1380	FSS2	Barking Tilbury Jn East	Upminster	Barking Tilbury Jn East – Upminster	7	60	15	20	N	N	N	N	N	N	N	R1	N	N	R1 Prohibited in crush laden condition with deflated suspension Dagenham East Up platform
-Anglia	0415	EA1380	FSS2	Upminster	Southend Central	Upminster – Southend Central	15	20	35	55	N	N	N	N	N	N	N	R1 R2	N	N	R1 Prohibited in crush laden condition with deflated suspension Leigh-on-Sea platform 3 and Southend Central platforms 1, 2 and 4 R2 Prohibited Upminster Bay platform 1a,
-Anglia	0415	EA1380	FSS3	Southend Central	Shoeburyness	Southend Central – Shoeburyness	35	55	39	40	N	N	N	N	N	N	N	R1	N	N	R1 Prohibited in crush laden condition with deflated suspension Southend East platform 1
-Anglia	0415	EA1390	TLL	Barking Tilbury Line Jn East	Former Tilbury West Jn	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	N	N	N	N	E R1	N	N	N	N	N	R1 Prohibited Grays East Jn to Former Tilbury West Jn
 Anglia	0415	EA1390	TLL	Former Tilbury West Jn	Pitsea Jn	Former Tilbury West Jn – Pitsea Jn	22	06	32	43	N	N	N	N	N	N	N	R1	N	N	R1 Prohibited with deflated suspension Dagenham Dock Up & Down platforms and Grays Down platform
 Anglia	0415	EA1400	GFB	Gas Factory Jn	Bow Jn	Gas Factory Jn – Bow Jn	2	57	3	47	N	N	N	N	N	N	N	Y	N	N
 Anglia	0415	EA1410	FSS2	Upminster	Upminster East Jn	Upminster – Upminster East Jn	15	20	15	39	N	N	N	N	N	N	N	N	N	N
@@ -17,3 +11,10 @@ Anglia	0415	EA1450	TFN	Trimley	Port of Felixstowe North Quay Terminal	Trimley �
 Anglia	0415	EA1460	FED	Felixstowe Beach Jn	Felixstowe Beach	Felixstowe Beach Jn – Felixstowe Beach	83	57	86	34	N	N	N	N	N	N	N	N	N	N
 Anglia	0415	EA1470	NOL	Thorpe Jn	Limit of Electrification	Thorpe Jn – Limit of Electrification	0	09	0	79	E	N	N	N	N	N	N	N	N	N
 Anglia	0415	EA1470	NOL	Limit of Electrification	Reedham Jn	Limit of Electrification – Reedham Jn	0	79	12	34	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1480	WHC1	Whitlingham Jn	North Walsham (End of Station Loop)	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1480	WHC1	North Walsham (End of Station Loop)	Change of Mileage (Site of Former Roughton Road Jn)	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1480	WHC2	Change of Mileage (Site of Former Roughton Road Jn)	Change of Mileage (Site of Former Runton East Jn)	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1480	WHC3	Change of Mileage (Site of Former Runton East Jn)	Cromer	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1490	CRS	Cromer Jn	Network Rail Boundary (North Norfolk Railway)	Cromer Jn – Network Rail Boundary (North Norfolk Railway)	46	27	42	69	N	N	N	N	N	N	N	N	N	N
+Anglia	0415	EA1500	NAY	Brundall Jn	Yarmouth Via Acle	Brundall Jn – Yarmouth Via Acle	5	72	18	29	N	N	N	N	N	N	N	N	N	N

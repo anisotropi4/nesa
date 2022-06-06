@@ -1,0 +1,15 @@
+Anglia	0398	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	325	345	357	357 MOD	Notes
+Anglia	0398	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	Y	Y	Y	N	Y	Y	H	R1	Y	Y	R1 Prohibited Liverpool Street platforms 1, 2, 3 and 4
+Anglia	0398	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	Y	Y	Y	N	Y	Y	H	R1	Y	Y	R1 Prohibited Liverpool Street Station Throat to Bethnal Green West Jn on the Down and Up Suburban lines
+Anglia	0398	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	Y	Y	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	Y	Y	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0398	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	Y	Y	Y	N	Y	Y	Y	Y	E R1	R1	R1 Prohibited Ilford platform 3
+Anglia	0398	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	R1	Y	Y	N	Y	Y	Y	Y	N	R2	R1 Prohibited with shoe gear fitted R2 Prohibited Seven Kings platforms 1 and 2 (Down Main) – with deflated suspension
+Anglia	0398	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	R1	Y	Y	N	Y	Y	Y	Y	N	Y	R1 Prohibited with shoe gear fitted
+Anglia	0398	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	R1	Y	Y	N	Y	Y	Y	Y	N	R2 R3	R1 Prohibited with shoe gear fitted R2 Prohibited Gidea Park platform 1 and 50mph through platform 2 with deflated suspension R3 Prohibited Brentwood Station platform 3 (Up Electric Line)
+Anglia	0398	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	R1	Y	Y	N	Y	Y	Y	N	N	N	R1 Prohibited with shoe gear fitted

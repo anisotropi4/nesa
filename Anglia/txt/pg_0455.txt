@@ -1,52 +1,49 @@
-                                                                                   OFFICIAL
+                                                                              OFFICIAL
 
 
-                                                              Anglia Route Sectional Appendix Module AR2
-
-Line of   ELR    Line of Route / Sector             oooo oooo oooo oooo RA 59 60 66 67 68 70 73 97/3 MPV Notes
-route            Description                         M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-                                                                            0
-EA1360    CAW    Route Boundary (LN3219)             5   72   6    04     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 (Cricklewood Curve Jn) – Dudding
-                 Hill Jn
-EA1360    BDH    Route Boundary (LN3222) (Brent      0   54   1    03     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Curve Jn) – Dudding Hill Jn
-EA1360    CAW    Dudding Hill Jn – Neasden Jn        6   04   7    02     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-EA1360    NJN    Neasden Jn – Route Boundary         6   56   6    51     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 (MD715) (Neasden South Jn)
-EA1360    CAW    Neasden Jn – Acton Canal Wharf      7   02   8    45     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Jn
-EA1360    ACW    Acton Canal Wharf Jn – Route        0   35   0    11     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Boundary (MD170) (Willesden Jn)
-EA1360    CAW    Acton Canal Wharf Jn – Acton        8   45   8    77     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Wells Jn (Change of Mileage)
-EA1360    WAW    Acton Wells Jn (Change of           6   19   6    76     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Mileage) – Route Boundary
-                 (MD167) Willesden West London
-                 Jn)
-EA1360    CAW    Acton Wells Jn (Change of           0   63   0    66     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Mileage) – Acton Wells Jn
-EA1370    GOJ    Gospel Oak Jn – Junction Rd Jn      0   00   0    58     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-EA1370    JRT2   Junction Rd Jn – Route Boundary     2   42   2    38     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 (LN3210) (Carlton Rd Jn)
-EA1370    TAH1   Junction Rd Jn – Harringay Park     2   42   4    15     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Jn
-EA1370    HPW    Harringay Park Jn – Route           0   25   0    14     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Boundary (LN165) (Harringay Jn)
-EA1370    TAH1   Harringay Park Jn – South           4   15   5    65     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Tottenham West Jn
-EA1370    TAH1   South Tottenham West Jn – South     5   65   5    73     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Tottenham East Jn
-EA1370    TAH2   South Tottenham East Jn –           5   73   11   79     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Woodgrange Park Jn
-EA1370    TAH3   Woodgrange Park Jn – Barking       11   79   13   12     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Station Jn
-EA1370    TAH3   Barking Station Jn – Barking       13   12   13   42     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Tilbury Jn West
-EA1370    TAH4   Barking Station Jn – Barking       13   12   13   62     8    Y    Y     Y    Y     Y     Y   Y   Y   Y
-                 Platform 1
+                                                         Anglia Route Sectional Appendix Module AR2
 
 
+EA1325 ELL1 Canal Jn – TFL / Network Rail       5   21   5    73     8   E     N    E     N     N     E    R1   N   N R1     Can only run as part of the Track
+            Boundary (SO510) (Via Down East                              R2         R2                R2   R2                Recording Unit
+            London Line) (TFL Infrastructure)                            R5         R6                R5   R3           R2   Can only run when authorised by Rail for
+                                                                                                           R4                London and only run or operate under
+                                                                                                                             Special Traffic Notice subject to any
+                                                                                                                             operational restrictions published within
+                                                                                                                             the notice
+                                                                                                                        R3   15mph through platforms and not to
+                                                                                                                             exceed 20mph on the Infrastructure
+                                                                                                                        R4   Prohibited in diesel mode
+                                                                                                                        R5   Not to exceed 25mph, 5mph through
+                                                                                                                             station platform and 10mph on section
+                                                                                                                             Canal Jn-131points (DN)
+                                                                                                                        R6   Not to exceed 5mph
+EA1325 ELL2 Canal Jn – Lewisham (TFL            5   21   5    78     8    N    N    R2    N     N     N    R1   N   N R1     Can only run as part of the Track
+            Infrastructure)                                                         R6                     R2                Recording Unit
+                                                                                                           R3           R2   Can only run when authorised by Rail for
+                                                                                                           R4                London and only run or operate under
+                                                                                                                             Special Traffic Notice subject to any
+                                                                                                           R5                operational restrictions published within
+                                                                                                                             the notice
+                                                                                                                        R3   15mph through platforms and not to
+                                                                                                                             exceed 20mph on the Infrastructure
+                                                                                                                        R4   Not to enter New Cross station platform
+                                                                                                                             (details contained in STN)
+                                                                                                                        R5   Prohibited in diesel mode
+                                                                                                                        R6   Not to exceed 5mph
+EA1327 ELL3 Silwood Jn – ELL/Network Rail       4   66   5    51     8    N    N    R1    N     N     N    N    N   N R1     Can only run when authorised by Rail for
+            Boundary (TFL Infrastructure)                                           R2                                       London and only run or operate under
+                                                                                                                             Special Traffic Notice subject to any
+                                                                                                                             operational restrictions published within
+                                                                                                                             the notice
+                                                                                                                        Not to exceed 5mph
+EA1327 ELL4 ELL/Network Rail Boundary – Old     2   23   2    32     8    N    N     Y    N     N     N    N    N   N
+            Kent Road Jn (SO680)
+EA1330 BOK    South Acton Jn – Kew East Jn      2   52   3    27     8    Y    Y     Y    Y     Y     Y    Y    Y   Y
+       5
+EA1330 NKE1 Kew East Jn – Route Boundary        3   27   3    39     8    Y    Y     Y    Y     Y     Y    Y    Y   Y
+            (SW230) (New Kew Jn)
+EA1330 BOK5 Kew East Jn – Route Boundary        3   27   3    61     8    Y    Y     Y    Y     Y     Y    Y    Y   Y
+            (SW230) (Old Kew Jn)
 
-
-August 2006                                                                         306TA
+August 2006                                                                    306TK

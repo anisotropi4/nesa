@@ -1,20 +1,26 @@
-Anglia	0409	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0409	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	Y	N	N	N	N	Y	N	R1	N	N	R1 Prohibited Liverpool Street platforms 1 & 2
-Anglia	0409	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0409	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0409	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0409	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0409	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	Y	N	N	N	N	Y	N	R1	N	N	R1 Prohibited LTN1/52 Northern Outfall Sewer Underbridge 03m 31ch Up and Down Temple Mills line
-Anglia	0409	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0409	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	Y	N	N	N	N	Y	EH	Y	N	N
-Anglia	0409	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	Y	N	N	N	E	Y	EH R1	R2	N	N	R1 Prohibited Stratford platform 5 R2 Prohibited in crush laden condition with deflated suspension Maryland platform 1 and Forest Gate platform 1
-Anglia	0409	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	Y	N	N	N	E	Y	EH	E R1	N	N	R1 Prohibited with deflated suspension Manor Park platform 1 and Ilford platforms 2 & 3
-Anglia	0409	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	Y0	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	R1	N	N	N	N	R1	N	N	N	N	R1 If stopped at signal L789 on the down main line approaching Church Street AHBC level crossing, the maximum speed of the train shall be 50mph until the front of the train is clear of the crossing
-Anglia	0409	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0409	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	E	N	N	N	N	N	N	N	N	N
+Anglia	0409	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	R1	N	N	N	N	R1	N	N	N	N	R1 Prohibited Norwich Royal Dock Siding 1
+Anglia	0409	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	E	N	N	N	N	Y	N	E	N	N
+Anglia	0409	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	N	N	N	N	E	E	N	R1	N	N	R1 Prohibited in crush laden condition with deflated suspension Woodgrange Park Up platform
+Anglia	0409	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	E	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	E	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	E	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	R1	N	N	N	N	R1	N	N	N	N	R1 40mph maximum speed
+Anglia	0409	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	N	N	N	N	N	N	N	N	N	N
+Anglia	0409	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1100	STB	Colne Jn	Colchester Town	Colne Jn – Colchester Town	53	30	53	76	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1110	TWN	Thorpe-Le-Soken Jn	Walton-On- Naze	Thorpe-Le-Soken Jn – Walton-On- Naze	65	19	70	15	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1120	MAH	Manningtree East Jn	Harwich International Port	Manningtree East Jn – Harwich International Port	59	67	68	72	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1120	MAH	Harwich International Port	Harwich town	Harwich International Port – Harwich town	68	72	70	61	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1130	GRW	Halifax Jn	Griffin Wharf Boundary	Halifax Jn – Griffin Wharf Boundary	0	00	0	47	N	N	N	N	N	N	N	N	N	N
+Anglia	0409	EA1150	CST	Channelsea South Jn	Stratford Central Jn West	Channelsea South Jn – Stratford Central Jn West	0	29	0	00	E	N	N	N	Y	Y	EH	E	N	N
+Anglia	0409	EA1160	BGK	Bethnal Green East Jn	Reading Lane Jn	Bethnal Green East Jn – Reading Lane Jn	1	10	2	55	N	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1160	BGK	Reading Lane Jn	Hackney Downs North Jn	Reading Lane Jn – Hackney Downs North Jn	2	55	3	04	N	N	N	N	N	Y	N	N	N	N
+Anglia	0409	EA1160	BGK	Hackney Downs North Jn	Coppermill Jn	Hackney Downs North Jn – Coppermill Jn	3	04	4	74	N	N	N	N	N	Y	N	N	N	N
