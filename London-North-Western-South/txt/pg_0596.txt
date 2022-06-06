@@ -1,61 +1,46 @@
-LNW South Route Sectional Appendix Module LNW(S)2
+                                                                                              OFFICIAL
 
 
-MD701 - MARYLEBONE TO AYNHO JUNCTION
-West Ruislip Up Siding No 2
-
-When the Down Main and Up Main lines are taken under possession, the following instructions for Drivers, PICOPS,
-PICOS/PIC/RP and Machine Controllers will apply:
-INSTRUCTIONS FOR DRIVERS:
-Engineering Trains entering the former Sidings No 2 at West Ruislip.
-When possible, the engineering train will be routed on to the Up West Ruislip Loop and stop at ME87 signal.
-Once you have arrived at ME87 Signal, you should contact the PICOP. The PICOP will instruct you to proceed to the
-temporary stop block and work to the directions of the PICOS/PIC.
-Engineering Trains exiting the former Sidings No 2 at West Ruislip.
-When your engineering train is at the temporary stop block and is ready to leave the former sidings No 2, arrangements
-will be made for the temporary stop block to be removed.
-The PICOS/PIC at the former Sidings No 2 at West Ruislip will instruct you to proceed towards ME84 signal work to the
-instructions of the PICOP.
-INSTRUCTIONS FOR PICOPS:
-Engineering Trains entering the possession before entering the former Sidings No 2 at West Ruislip.
-When possible, the engineering train will be routed on to the Up West Ruislip Loop and stop at ME87 signal. When you
-have confirmed that the train/OTM is at a stand at ME87, and you have received confirmation from the PICOS/PIC at
-former Sidings No 2 at West Ruislip that the temporary stop block has been removed, and that the trailing points have
-been reversed from the Up Main into the sidings then the train/OTM can be allowed into the sidings.
-The driver will be instructed to work as directed by the PICOS/PIC at the temporary stop block.
-Once the PICOS/PIC has confirmed that the engineering train has moved clear of the temporary stop block and is
-complete with tail lamp, the temporary stop block must be replaced.
-Engineering Trains exiting the former Sidings No 2 at West Ruislip into the possession
-When the engineering train is ready to leave the former sidings No 1 & 2, the PICOS/PIC will inform the PICOP that the
-train is waiting at the temporary stop block ready to access the Up West Ruislip Loop.
-When the points from the sidings to the Up Main have been reversed, you may authorise the PICOS/PIC to lift the
-temporary stop block to allow the engineering train to proceed onto the Up West Ruislip Loop. The PICOP will authorise
-the driver of the engineering train to proceed from the temporary stop block onto the Up West Ruislip Loop.
-Once the responsible person has confirmed to you that the temporary stop block is back in place, AND that the train is
-complete with tail lamp, you must inform the PICOP.
-Under NO circumstances can the buffer stop be removed without the agreement between the PICOP and the
-PICOS/PIC.
+                                                                      LNW South Route Sectional Appendix Module LNW(S) RC
+Table D4C – Route clearance of locomotives
+                                                                                                                                                            Last Updated: 09/10/2021
+To be read in conjunction with General Notes.
+Class 67 – Additional speed restrictions are detailed on the current Vehicle / Infrastructure Summary of Compatibility documentation
 
 
-INSTRUCTIONS FOR MACHINE CONTROLLERS OF OTP:
-OTP entering the former Sidings No 2 at West Ruislip.
-When possible, the OTP will be routed on to the Up West Ruislip Loop and stop at ME87 signal.
-Once you have arrived at ME87 Signal, you should contact the PICOP. The PICOP will instruct you to proceed to the
-temporary stop block and work to the directions of the PICOS/PIC.
+Line of ELR        Line of Route / Sector Description          oooo oooo oooo oooo RA 58 59 60 66 67                            68     70   73   97/3 Notes
+route                                                           M Ch M         Ch     ooo ooo ooo ooo ooo                                             oooooooooooooooooooo
+                                                                                                                                                      ooooooo
+MD101     LEC1     London Euston – Camden Jn DC Lines             0      00    1    36    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LEC1     Camden Jn DC Lines – Camden Jn (NLL)           1      36    1    51    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LEC1     Camden Jn – West London Jn (Willesden)         1      51    5    23    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LLG      West London Jn (Willesden) – Sudbury Jn        0      12    2    03    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   (Willesden Relief Lines)
+MD101     LEC1     West London Jn (Willesden) – Harlesden         5      23    6    01    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   Jn
+MD101     LEC1     Harlesden Jn – Watford South Jn                6      01    17   06    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LEC1     Watford South Jn – Bletchley South Jn        17       06    46   41    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LEC1     Bletchley South Jn – Bletchley (Platforms    46       41    47   52    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   1 – 5) – Denbigh Hall South Jn
+MD101     LEC1     Denbigh Hall South Jn – Hanslope North       47       52    56   66    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   Jn
+MD101     LEC1     Hanslope North Jn – Hillmorton Jn            56       66    81   28    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LEC1     Hillmorton Jn – Rugby Trent Valley Jn        81       28    83   18    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD101     LEC2     Rugby Trent Valley Jn – Armitage Jn          83       18   119   20    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   (NW1001 Sectional Appendix Boundary)
+MD105     HNR      Hanslope Jn (MD101) – Northampton            56       66    65   55    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   South Jn
+MD105     HNR      Northampton South Jn – Northampton           65       55    66   12    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   North Jn
+MD105     HNR      Northampton North Jn – Rugby South Jn        66       12    83   54    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+MD120     CWJ      Camden Jn DC lines (Down DC line               1      36    3    01    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   mileage) – Kilburn High Road (DC Lines)
+MD120     CWJ      Kilburn High Road – Willesden Suburban         3      01    5    28    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   Jn (DC Lines)
+MD120     CWJ      Willesden Suburban Jn – Harrow and             5      28    11   46    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   Wealdstone (Sand Drag) (DC Lines)
+MD120     CWJ      Harrow and Wealdstone (Sand Drag) –          11       46    17   58    8      Y       Y   Y      Y     Y      Y     Y    Y     Y
+                   Watford Jn (DC Lines)
 
 
-OTP exiting former Sidings No 2 at West Ruislip.
-When your OTP is at the temporary stop block and is ready to leave the former sidings No 1 & 2, arrangements will be
-made for the temporary stop block to be removed. The PICOS/PIC will instruct you to proceed towards ME84 signal.
-
-
-OTP STABLING in former Sidings No 2 at West Ruislip.
-OTP can be stabled in the former sidings No 2 as long as they are shut down in W6 GAUGE and have chocks under each
-of the rail wheels.
-
-
-                                                                                                        Dated: 27/07/20
-
-
-
-December 2009                                              282
+December 2009                                                                                     38

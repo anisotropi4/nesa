@@ -1,56 +1,69 @@
-                                                            OFFICIAL
+                                                          OFFICIAL
 LNW South Route Sectional Appendix Module LNW(S)1
 
 
 
 
-LORAM C21 RAIL GRINDER
-General
-There are three rail grinding trains in the Loram C21 series, numbered C2101, C2102 and C2103.
-Rail grinding train C2101 has a route availability of RA7 and rail grinding trains C2102 and C2103 have a route availability
-of RA6.
-All Loram Class C21 rail grinding trains are approved to travel on routes cleared to W6a gauge.
-All Loram Class C21 rail grinding trains can be relied upon to operate track circuits.
-Where axle counters are used as the primary means of train detection the Special Train Reminder procedure (where
-provided) is to be used when grinding operations are taking place on lines open for normal working.
-Transit moves
-The maximum permitted speed of the rail grinding trains is 55 mph.
-Transit over 3rd or 4th rail DC electrified lines is permitted under the following conditions:
-    •     The electrified rails are isolated in accordance with appropriate instructions, OR
-    •     The ‘spark blankets’ are removed, OR
-    •     The ‘spark blankets’ are secured within the W6a load gauge.
-Grinding Operations
-Notification must be given to TOCs and FOCs which operate on the routes where grinding is to take place so that drivers
-may be informed.
-Grinding operations are permitted to take place both within T3 possessions and on lines open for normal working.
-The speed when grinding is approximately 5 mph.
-Grinding operations are only permitted on jointed or continuously welded plain track; grinding operations on switches and
-crossings are prohibited.
-Rail grinding train C2101 is not permitted to grind within tunnels.
-Rail grinding trains C2102 and C2103 are permitted to grind within tunnels, subject to the necessary risk assessment by
-the train operator.
-The train operator is responsible for ensuring that grinding equipment does not damage track-mounted equipment or level
-crossing decks.
-Grinding operations over 3rd or 4th rail DC electrified lines are permitted under the following conditions:
-    •     The electrified rails are isolated in accordance with appropriate instructions, AND
-    •     The ‘spark blankets’ are fitted
-Loram Class C21 rail grinding trains may be authorised, in accordance with Rule Book Module TW7 Section 1.1 to make a
-wrong-direction movement for the purpose of extinguishing a lineside fire only, should the Operator request it. A wrong-
-direction movement may only be authorised by the appropriate Signaller. Rail grinding trains are equipped with on-
-board damping water spray and fire fighting water cannon.
-All staff on or about the line are prohibited from being within 10 metres (approximately 10 yards) of the train
-whilst grinding operations are being carried out due to the danger of objects being emitted beyond the machine’s
-shields. The machine operator will look out for any staff on or about the line who may be within this distance and cease
-operations if this is the case. Similarly, any person on a station platform will cause grinding operations to cease.
-Grinding operations on lines open for normal working with Simplified Bi-directional Signalling (SIMBIDS) in
-operation on the opposite line
-If the rail grinding train is to operate on lines open for normal working with SIMBIDS in operation on the opposite line, the
-signal applying to the line on which the rail grinding train is operating and which protects the crossover at the end of the
-grinding site, and through which trains from the line being used for SIMBIDS are being returned to the proper line, must be
-fitted with an operational TPWS train stop (TSS)
-                                                                                  LNW South Route GI - Dated: 04/09/10
+5.        Modes of Operation
+ATP has seven modes of operation which have the following meaning :-
+Self Test                    An automatic, computer-driven test of the trainborne ATP equipment.
+Data Entry                   The setting up of trainborne ATP equipment to input the individual characteristics of the
+                             train.
+Full Supervision             Provides supervision of train speed to within the braking curve for conditions which exist
+                             ahead (restrictive signals, buffer stops, speed changes etc.), also protects against trains
+                             rolling away.
+Partial Supervision          Available providing Data Entry has been properly carried out, but where track data is not
+                             provided. Also applies when it is necessary to pass a signal at danger, enter an occupied
+                             section, make a reversal or after a recoverable fault.
+Shunt                        Used for slow speed movements, especially where train formation is likely to vary. Train
+                             speed is supervised to 20 mph.
+Temporary Isolation          Used when passing consecutive signals at Danger, also when assisting a failed train.
+Non-Recoverable Fault        Will require the train borne equipment to be (‘Fxx’) completely isolated.
+Recoverable Fault            Temporary removal of Full Supervision pending (‘Exx’) detection of correct lineside data.
+
+6.        Faults and failures - categories
+Failures of the ATP system are categorised into three levels. These are:-
+Level 1                       ‘Wrong Side’ failure where no speed target is displayed under restrictive circumstances, or
+                              where the target speed displayed is higher than it should be.
+Level 2                        ‘Right Side’ failures - non recoverable fault affecting trainborne equipment. These are
+                              identified by an alpha-numeric code in the main cab display window.
+Level 3                        ‘Right Side’ - recoverable failures of lineside equipment identified by an alpha-numeric code
+                              in the main cab display window.
+(see Driver’s Manual for full explanation of fault codes).
+
+7.        Faults and failures - immediate actions
+In the event of any fault or failure being apparent affecting ATP equipment, suitable action must be taken as shown in the
+following table. All concerned must ensure that the correct FAULT CATEGORY, as defined in Clause 6, is quoted on each
+occasion.
+LEVEL 1                                        LEVEL 2                              LEVEL 3
+WRONG SIDE FAILURE                             RIGHT SIDE FAILURE NON-              RIGHT SIDE
+                                               RECOVERABLE                          FAILURERECOVERABLE
+Driver stops train at next practicable         Driver stops train at next           Fault should not be reported where a
+signal.                                        practicable location.                notice has been issued showing a
+Driver isolates ATP if fault is non            Driver isolates ATP.                 temporary disconnection of the ATP
+recoverable.                                   Driver informs Signaller.            lineside equipment at that location.
+Driver informs Signaller.                      Signaller informs Network Rail       Driver should only advise the Signaller
+Signaller informs Network Rail Control and     Control.                             if delay has been incurred.
+gets a fault logged with the NR                Network Rail Control informs the
+Infrastructure Controller.                     appropriate TOC Control.
+Network Rail Control informs the
+appropriate TOC Controls and the NR
+Infrastructure Controller.
+Signaller advises Drivers of all subsequent
+ATP-fitted trains of the circumstances and
+instructs them to disregard the ATP
+indications in the area concerned. This
+cautioning must continue until ATP track
+equipment has been declared in order.
+Faults and failures affecting ATP equipment must be reported fully and promptly. Failure to do so may cause essential data
+concerning performance of the equipment to be lost. Reporting of LEVEL 1 faults to the Signaller ensures that subsequent
+Drivers are suitably advised that the ATP may be unreliable at a specific location. It will also ensure that the on-train
+equipment is investigated without delay.
+8.        Faults and failures - subsequent actions
+Drivers must complete an ATP Report Form at the end of the journey (or when relieved if sooner) as shown below, whether
+or not they had previously reported the fault verbally as instructed in Clause 7.
 
 
 
 
-December 2009                                                    33
+December 2009                                                 29

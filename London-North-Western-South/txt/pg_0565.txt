@@ -1,63 +1,46 @@
-LNW South Route Sectional Appendix Module LNW(S)2
+                                                                                      OFFICIAL
 
 
-MD306 - BIRMINGHAM NEW STREET TO ASHCHURCH (EXCL.) (VIA
-DUNHAMPSTEAD)
-BROMSGROVE
+                                                                 LNW South Route Sectional Appendix Module LNW(S) RC
 
-Assisting locomotive in rear between Bromsgrove and Blackwell
-The head code of the assisting locomotive will be 0B00 for all movements including the period of time it is assisting a train
-in the rear on the Lickey Incline.
-Up trains requiring assistance must normally be brought to a stand at signal BA7612 on the Up Bromsgrove Loop
-(Platform 1) or (by exception) signal BA3614 on the Up Gloucester line (Platform 2) to enable the assisting locomotive to
-proceed onto the rear of the train. Signals BA7612 or BA3614 will be maintained at danger and reminder appliances
-applied to the appropriate signal.
-The Driver of the assisting locomotive and the Signaller at WMSC Bromsgrove Workstation must reach a clear
-understanding as to whether the assisting locomotive will return to Bromsgrove or continue to Saltley after a train has
-been assisted up the Lickey Incline.
-Once the assisting locomotive has dropped onto the rear of the train, the Signaller at WMSC Bromsgrove Workstation
-must not authorise any movement in or out of the Bromsgrove Tamper Siding until the Driver of the assisting locomotive
-has confirmed the locomotive is on rear of the train and ready to assist the train.
-When the assisting locomotive is on the rear of the train the Driver must contact the Signaller at WMSC Bromsgrove
-Workstation via the GSM-R Radio and confirm the assisting locomotive is on rear of the train and is ready to commence
-assisting the train.
-The Signaller at WMSC Bromsgrove Workstation will repeat the message back to the Driver of the assisting locomotive
-and give an indication of the time before the movement of the train can commence if this is likely to be a prolonged period
-of time.
-The Signaller at WMSC Bromsgrove Workstation must contact the Driver of the train requiring assistance and confirm the
-assisting locomotive is on the rear of the train and ready to provide assistance and to wait for the signal, giving an
-indication of the time before the movement can commence if this is likely to be a prolonged period of time.
-Before clearing signal BA7612 or BA3614 for the train being assisted to commence the movement up the Lickey Incline
-the Signaller at WMSC Bromsgrove Workstation must ensure there is no risk of bringing the train to a stand on the Lickey
-Incline and the route must be cleared for the movement to proceed as far as signal BA3598 at Blackwell.
-When the Signaller at WMSC Bromsgrove Workstation has cleared signal BA7612 or BA3614 for the movement to
-commence the associated OFF Indicators will illuminate to inform the Driver of the assisting locomotive that the signal is
-displaying a proceed aspect.
-Blocking Of Adjacent Lines
-If the Driver of the assisting locomotive has to work or walk on the outside of the train and requires the adjacent running
-line to be blocked, the Driver of the assisting locomotive must contact the Signaller at WMSC Bromsgrove Workstation
-and request the adjacent running line to be blocked to traffic in accordance with Rule Book Module TW1 Section 46.
-Assisting Locomotive Leaving The Train At Blackwell
-If the assisting locomotive is to return to Bromsgrove it must be brought to a stand at Blackwell on the Barnt Green side of
-ground position light signal BA1613.
-If the assisting locomotive is returning to Saltley the Driver must follow the train at a safe distance and bring the locomotive
-to a stand at signal BA3598 at Blackwell and in accordance with Rule Book Module TW1 Section 15.2 not pass signal
-BA3598 until it has returned to danger and cleared again.
-Certain Locomotives (66055 – 66059) are fitted with special cab equipment which automatically disengages the central
-auto-couplers. Should this equipment fail to operate correctly, the assisting locomotive must continue attached to the rear
-of the train concerned. The Driver of the assisting locomotive must immediately contact the Signaller at WMSC Kings
-Norton Workstation via GSM-R, explain the circumstances and act on the instructions received. No further attempt must
-be made to operate the automatic uncoupling equipment.
-In addition to the Driver of the assisting locomotive contacting the Signaller at WMSC Kings Norton Workstation to advise
-the assisting locomotive has failed to detach, the Signaller will receive an automatic alarm which states: BANKING
-LOCOMOTIVE FAILED TO DETACH. The Signaller at WMSC Kings Norton Workstation must route the train to the Kings
-Norton Arrival & Departure line where the assisting locomotive can be detached.
-The Drivers of the assisting locomotive and the train locomotive must then come to a clear understanding regarding the
-detaching of the assisting locomotive. When the assisting locomotive has been detached the Driver of the assisting
-locomotive must advise the Signaller at WMSC Kings Norton Workstation accordingly. If the Kings Norton Arrival &
-Departure line is not available for the purpose of detaching the assisting locomotive, then the train must be routed to
-Washwood Heath Up Yard where the assisting locomotive will be detached.
-                                                                                                          Dated: 21/10/2017
+Line of ELR     Line of Route / Sector                     oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
+route           Description                                 M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooooo
 
-
-December 2009                                                260A
+MD405   LSC2    Milverton Change of ELR – Coventry           0   00    8    45   N   N    N      N   N   N   N    N    N   N   N
+                South Jn
+MD410   CNN     Coventry North Jn – Nuneaton South           0   00    9    53   N   N    N      N   N   N   H    N    N   N   N
+                Jn
+MD415   HSA     Hatton Station Jn – Bearley Jn              18   12    12   48   N   N    N      N   N   N   N    N    N   N   N
+MD415   HSA     Bearley Jn – Stratford Upon Avon (End       12   48    8    63   N   N    N      N   N   N   N    N    N   N   N
+                of Headshunt)
+MD420   HHW     Hatton North Jn – Hatton West Jn            18   25    17   62   N   N    N      N   N   N   N    N    N   N   N
+MD425   TSB     Tyseley South Jn – Bearley Jn                0   00    17   71   N   N    N      N   N   N   N    N    N   N   N
+MD430   OWW     Route Boundary (GW370) (Droitwich          130   40   135   46   N   N    N      N   N   N   N    N    N   N   N
+                Spa) – Kidderminster
+MD430   OWW     Kidderminster – Stourbridge North Jn       135   46   142   51   N   N    N      N   N   N   N    N    N   N   N
+MD435   DCL     Small Heath South Jn – Site of Former 126        59   132   47   N   N    N      N   N   N   N    N    N   N   N
+                Handsworth Jn
+MD435   HSJ     Site of Former Handsworth Jn –        132        47   133   32   N   N    N      N   N   N   N    N    N   N   N
+                Smethwick Jn
+MD435   GSJ2    Smethwick Jn – Stourbridge North Jn 133          32   141   06   N   N    N      N   N   N   N    N    N   N   N
+MD440   GSJ1    Galton Jn – Smethwick Jn                     3   64    4    08   N   N    N      N   N   N   N    N    N   N   N
+MD445   SJS     Stourbridge Jn – Stourbridge Town          142   16   142   78   N   N    N      N   N   N   N    N    N   N   N
+MD450   OWW     Stourbridge North Jn – Round Oak           142   15   146   13   N   N    N      N   N   N   N    N    N   N   N
+MD455   KWD     Kingswinford Jn – Network Rail             144   33   145   60   N   N    N      N   N   N   N    N    N   N   N Line out of use
+                Boundary                                                                                                           NME/2005/LNW284
+MD460   SJT1    Kineton MOD Branch – Burton Dassett         22   60    25   60   N   N    N      N   N   N   N    N    N   N   N
+                (MOD Kineton)
+MD501   DBP1    Route Boundary (LN3501) (London             23   30    29   39   N   N    N      N   N   N   EH   N    N   N   N R1     OPPOS applies between Tamworth and
+                Road Jn) – Kingsbury Jn                                                                      R1                         Wilnecote
+MD501   DBP2    Kingsbury Jn – Water Orton East Jn          29   39    33   22   N   N    N      N   N   N   EH   N    N   N   N R1     55mph over bridge 17 Cudworth on the Up
+                                                                                                             R1                         Fast at 32m 48 ½ch
+MD501   DBP3    Water Orton East Jn (Change of              34   43    40   60   N   N    N      N   N   N    H   N    N   N   N
+                Mileage) – Landor Street Jn
+MD501   DBP3    Landor Street Jn – Proof House Jn           40   60    41   51   N   N    N      N   N   N   H    N    N   N   N
+MD545   KJW     Kingsbury Jn – Whitacre Jn (Change of       29   39    31   69   N   N    N      N   N   N   H    N    N   N   N
+                Mileage)
+MD555   NWO     Nuneaton North Junction – Lmit of           10   18    10   00   N   N    N      N   N   N   H    N    N   N   N
+                Electrification
+MD555   NWO     Limit of Electrification – Whitacre West    10   00    0    00   N   N    N      N   N   N   H    N    N   N   N
+                Junction
+December 2009                                                                              20I

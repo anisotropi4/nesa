@@ -4,33 +4,79 @@ LNW South Route Sectional Appendix Module LNW(S)1
 
 
 
-GSM-R GENERAL INSTRUCTION
-TW5 SECTION 25 – KNOWN MISROUTED CALL LOCATIONS
+GSM-R - CAB RADIO REGISTRATION AT MAIN
+SIGNAL/BLOCK MARKERS & POSITION LIGHT SIGNALS
+LOCATION CODES
+DRIVERS ARE TO REGISTER USING THE LAST 3 DIGITS OF THE SIGNAL ID, ADDING LEADING ZEROS WHERE
+REQUIRED (E.G. FOR SIGNAL SN23, REGISTER USING 023) EXCEPT WHERE THE SIGNAL IS LISTED BELOW. IN
+SUCH CASES, THE CORRESPONDING LOCATION CODE IN THIS SECTION IS TO BE USED.
 
-The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller.
-Calls may misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
-
-Drivers must carry out the 'Pending Registration' process on the radio and continue their journey.
-
-
-Location        Fault Number          Comments                                               Outcome
-Washwood        FMS BCA647195         GSM-R calls from Washwood Heath location               CT7 Plates
-Heath                                 misrouting to WMSC Proof House Workstation             Requested
-                                      instead of Washwood Heath workstation.
-
-GSM-R FAULTS AND FAILURES RESPONSE
-
-VERSION 1.1
-
-PURPOSE
-
-To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+                                                                         CONTROLLING               GSM-R
+                      LINE/PLATFORM                         LOCATION
+    LOCATION                               SIGNAL                         SIGNAL BOX/            CONTACT
+                        (DIRECTION)                          CODE
+                                                                              PANEL              NUMBER
 
 
-Appendix covers the response to system faults from a single fixed terminal through to failures of the
-infrastructure resulting in loss of coverage in a geographical area
+MD101 EUSTON TO ARMITAGE JUNCTION (EXCLUSIVE)
+
+                                                                       Rugby SCC –
+Wolverton           Up Siding to Up Slow   KR1496        996                                   74 6162 01
+                                                                       Bletchley Workstation
+
+
+                    Up Siding to Down                                  Rugby SCC –
+Wolverton                                  KR1499        996                                   74 6162 01
+                    Slow                                               Bletchley Workstation
+
+
+MD306 BIRMINGHAM NEW STREET TO ASHCHURCH (EXCL.) (VIA DUNHAMPSTEAD)
+
+                                                                       WMSC Kings Norton       74 6019 01
+Kings Norton Jn     Kings Norton Sidings   SY526         998@
+                                                                       Workstation
+
+Kings Norton West                                                      WMSC Kings Norton       74 6019 01
+                    Kings Norton Neck      SY522         998@
+Jn                                                                     Workstation
+
+MD410 COVENTRY NORTH JN TO NUNEATON SOUTH JN
+
+                    Sidings – Up                                       Rugby SCC –
+Hawkesbury Lane                            CN1556        996                                   74 6165 01
+                    (Stop Board)                                       Nuneaton Workstation
+
+
+                    Murco (Calor Gas)                                  Rugby SCC –
+Bedworth            Private Siding         CN1558        996                                   74 6165 01
+                                                                       Nuneaton Workstation
+                    (Stop Board)
+
+MD430 DROITWICH SPA TO STOURBRIDGE NORTH JUNCTION
+
+                                                                       WMSC – Stourbridge
+Kidderminster       Exchange Sidings       DR7835        996@                                  74 6003 01
+                                                                       Workstation
+
+
+MD435 SMALL HEATH SOUTH JN TO STOURBRIDGE NORTH JN
+
+
+                    Rood End Neck –                                    WMSC – Stourbridge
+Langley Green                              SJ613         996@                                  74 6003 01
+                    Down direction                                     workstation
+
+
+                    Rood End Yard – Up                                 WMSC – Stourbridge
+Langley Green                              SJ610         996@                                  74 6003 01
+                    direction                                          workstation
+
+
+                    Up Rood End Through                                WMSC – Stourbridge
+Langley Green                              SJ621         996@                                  74 6003 01
+                    Sdg – Down direction                               workstation
 
 
 
 
-December 2009                                         24D
+December 2009                                          24
