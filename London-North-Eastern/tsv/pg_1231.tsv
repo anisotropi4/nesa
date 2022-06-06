@@ -1,18 +1,19 @@
-London-North-Eastern	1231	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1231					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1231	LN826	Doncaster South Yorkshire Jn – Swinton Jn North / South	Doncaster South Yorkshire Jn	Swinton Jn North / South	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1231	LN828	Mexborough Jn – Aldwarke Jn via Kilnhurst	Mexborough Jn	Aldwarke Jn via Kilnhurst	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1231	LN830	Aldwarke Jn – Woodburn Jn	Aldwarke Jn	Woodburn Jn	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Up Tinsley R2 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Down Tinsley R3 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Up Tinsley R4 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Down Tinsley
-London-North-Eastern	1231	LN832	Doncaster Bridge Jn – St James Jn	Doncaster Bridge Jn	St James Jn	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1231	LN836	Doncaster, Marshgate Jn – Hare Park Jn	Doncaster, Marshgate Jn	Hare Park Jn	Y *	Y	Y	Y	N	N	N	N
-London-North-Eastern	1231	LN836	Hare Park Jn – Neville Hill East Jn	Hare Park Jn	Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1231	LN838	Leeds Armley Jn – York Skelton Jn via Harrogate	Leeds Armley Jn	York Skelton Jn via Harrogate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile and above 3650mm in height 10mph speed restriction through Wescoe Hill Tunnel on the Down: and 10mph speed restriction through Br39 on the Down. The Rail Head Treatment Train FEA wagon is permitted without restriction.
-London-North-Eastern	1231	LN840	Leeds Engine Shed Jn – Whitehall East Jn	Leeds Engine Shed Jn	Whitehall East Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1231	LN842	Stainforth Jn – Applehurst Jn	Stainforth Jn	Applehurst Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1231	LN842	Applehurst Jn – Adwick Jn	Applehurst Jn	Adwick Jn	Y *	Y	N	N	N	N	N	N
-London-North-Eastern	1231	LN842	Skellow Jn – Adwick Jn	Skellow Jn	Adwick Jn	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1231	LN844	Applehurst Loop	Applehurst Loop		Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1231	LN846	Carcroft Jn – Skellow Jn	Carcroft Jn	Skellow Jn	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1231	LN848	Hare Park Jn – Crofton West Jn	Hare Park Jn	Crofton West Jn	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1231	LN850	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	Wakefield Westgate South Jn	Wakefield Kirkgate West Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1231	LN852	Holbeck Jn – Bradford Interchange	Holbeck Jn	Bradford Interchange	Y *	N	N	N	N	N	N	N
+London-North-Eastern	1231	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1231	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1231	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	8	H R1	H R1	Y	H R1	H R2 R3	N	R1 Permitted between Trent East Jn to Stapleford and Sandiacre via Up Main/Erewash and Down Erewash/Down Goods R2 Permitted between Toton Jn and Toton TMD only R3 75mph maximum speed
+London-North-Eastern	1231	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	8	N	N	Y	N	N	N
+London-North-Eastern	1231	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	8	N	N	Y	N	N	EH
+London-North-Eastern	1231	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	8	N	N	Y	N	N	EH
+London-North-Eastern	1231	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	3	N	N	N	N	N	N
+London-North-Eastern	1231	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	5	N	N	N	N	N	N
+London-North-Eastern	1231	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360) (Dudding Hill)	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	8	H	H	Y	H	H	N
+London-North-Eastern	1231	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	8	N	N	Y	N	N	EH
+London-North-Eastern	1231	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	8	H	H	Y	H	H	N
+London-North-Eastern	1231	LN3228	TES	Trent East ELR Change	Sheet Stores Jn	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	8	H	H	Y	H	H	N
+London-North-Eastern	1231	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	8	H	H	Y	H	H	N
+London-North-Eastern	1231	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	8	H	H	Y	H	N	N
+London-North-Eastern	1231	LN3234	SEN	Syston East Jn	Syston North Jn	Syston East Jn – Syston North Jn	0	17	0	00	8	N	N	Y	N	N	EH
+London-North-Eastern	1231	LN3237	RUD	Loughborough South Jn	Network Rail/GCR (N) Boundary	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	8	N	N	Y	N	N	N
+London-North-Eastern	1231	LN3240	LED	Little Eaton Jn	Denby	Little Eaton Jn – Denby	131	06	135	46	8	N	N	Y	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1231	LN3246	AJM1	Ambergate Jn	Matlock	Ambergate Jn – Matlock	137	61	145	00	8	N	N	Y	N	N	N
+London-North-Eastern	1231	LN3249	LSN	Lenton South Jn	Lenton North Jn	Lenton South Jn – Lenton North Jn	0	00	0	27	8	N	N	Y	N	N	N

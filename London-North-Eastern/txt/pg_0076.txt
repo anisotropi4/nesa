@@ -28,46 +28,41 @@ Lockout systems are provided between the following locations: -
                                                         specifi                   used
                                                           ed
 
- LN101 KINGS             Spittal Jn To New              LOD (P) 4001           Key          ECML Up Slow Line – Protection
- CROSS TO                England North Jn                                      Enabled      to prevent Down Direction Moves
- SHAFTHOLME JN
+ LN101 KINGS             Platform 0                     LOD (E) YA5001         Key          Kings Cross station Platform area
+ CROSS TO                                                                      enabled      between the Buffer stops and the
+ SHAFTHOLME JN                                                                              platform signal
+                         Platform 1 & 2                 LOD (E) YA5007         Key
+                                                                               enabled
+                         Platform 3 & 4                 LOD (E) YA5013         Key
+                                                                               enabled
+                         Platform 5 & 6                 LOD (E) YA5019         Key
+                                                                               enabled
+                         Platform 7 & 8                 LOD (E) YA5025         Key
+                                                                               enabled
+                         Platform 9                     LOD (E) YA5031         Key
+                                                                               enabled
+                         Platform 10                    LOD (E) YA5037         Key
+                                                                               enabled
+                         Line A & B                     LOD (K) YA5043         Key          Kings Cross station beyond the
+                                                                               enabled      platform signals to Belle Isle
+                         Line C & D                     LOD (K) YA5049         Key
+                                                                               enabled
+                         Line E & F                     LOD (K) YA5055         Key
+                                                                               enabled
+                         Canal Junction                 LOD (K) YA5087         Key          Belle Isle
+                                                                               enabled
+                         Line A, B, C, D, Down          LOD (K) YA5121         Key          Belle Isle to the approach of
+                         Fast & Up Fast                                        enabled      Holloway
+                         Down Slow & Up slow            LOD (K) YA5127         Key
+                                                                               enabled
+                         Spittal Jn To New              LOD (P) 4001           Key          ECML Up Slow Line – Protection
+                         England North Jn                                      Enabled      to prevent Down Direction Moves
                          New England North Jn to        LOD (P) 4002           Key          ECML Up Slow Line – Protection
                          Werrington Jn                                         Enabled      to prevent Down Direction Moves
- LN120 WOOD              Hertford North Station to      LOD (P) DH1      Key                Down Hertford Line – Protection to
- GREEN NORTH             Molewood Jn                            (WL1821) Enabled            prevent Up Direction Moves
- JN TO LANGLEY
-                         Molewood Jn to Hertford        LOD (P) UH1      Key                Up Hertford Line – Protection to
- JN VIA
-                         South Jn                               (WL1822) Enabled            prevent Down Direction Moves
- HERTFORD
-                         Bragbury Jn to Molewood        LOD (P) UH2      Key                Up Hertford Line – Protection to
-                         Jn to                                  (WL1823) Enabled            prevent Down Direction Moves
-                         Bragbury Jn to Langley         LOD (P) DH2      Key                Down Hertford Line – Protection to
-                         South Jn                               (WL1824) Enabled            prevent Up Direction Moves
-                         Langley South Jn to            LOD (P) UH3            Key         Up Hertford Line – Protection to
-                         Bragbury JN                            (WL1825)       Enabled     prevent Down Direction Moves.
-                         Langley South Jn to            LOD (T) DH2            Twin Key    Down Hertford Line – Protection to
-                         Stevenage Bay Platform 5               (WL1826)       Enabled     prevent Up and Down Direction
-                                                                                           Moves
- LN170 -                 Spalding Station               LOD (K) WS9001         Captive Key Down Spalding Line, Spalding
- WERRINGTON JN.          Protecting Down Spalding               WS9003                     Station Down Platform
- TO FLYOVER              across Points 4789A,
- EAST JN. VIA            through the Down
- LINCOLN                 Platform (Platform 2) and
-                         4791B Points
-                         Spalding Station               LOD (K) WS9002         Captive Key Up Spalding Line, Spalding Station
-                         Protecting Up Spalding                 WS9003                     Up Platform
-                         across points 4798B,
-                         through the up Platform
-                         (Platform 1) and points
-                         4790A/B points (Sidings
-                         and 4791A points
-                         Gosberton Crossover            LOD (K) WS9005         Captive Key Down Spalding Line
-                         Points Protecting the
-                         Down Spalding Line
-                         Gosberton Crossover            LOD (K) WS9006         Captive Key Up Spalding Line
-                         Points Protecting the Up
-                         Spalding Line
-                         Sleaford South Jn              LOD (K) WS9009         Captive Key Down Spalding Line
-                         Protecting the Down
+                         Marholm Jn                     LOD (T) P4003          Twin Key     Prevents any movement over the
+                                                                               Enabled      junction in any direction
+ LN115                   Down Slow & Up slow            LOD (K) YA5127         Key          Beyond YA3045 signal (NLI), Belle
+ Copenhagen Jn to                                                              enabled      Isle to approach of Holloway.
+ Camden Road
+ Central Jn
 February 2021                                                  32B                   (Supplement No. 49 – 27 February 2021)

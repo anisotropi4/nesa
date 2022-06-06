@@ -1,21 +1,22 @@
-London-North-Eastern	1212	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	70	73	97/3	Notes
-London-North-Eastern	1212	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC1	St Pancras platforms 1, 2, 3 and 4	Cricklewood	St Pancras platforms 1, 2, 3 and 4 - Cricklewood	0	12	5	09	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester)	Change of ELR (Wigston South Jn) – Change of ELR (Leicester)	95	38	98	73	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC5	Change of ELR (Leicester)	Leicester	Change of ELR (Leicester) – Leicester	98	73	99	07	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1212	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1212	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1212	LN804	TJC1	Nunnery Main Line Jn	Site of Former Grimesthorpe Jn	Nunnery Main Line Jn – Site of Former Grimesthorpe Jn	158	77	160	47	8	N	N	R1	N	N	N	R1 Prohibited Nunnery Main line Jn - Mill Race Jn on the Down
+London-North-Eastern	1212	LN804	TJC2	Site of Former Grimesthorpe Jn	Site of Masborough South Jn	Site of Former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN804	TJC3	Site of Former Masborough South Jn	Swinton Jn South	Site of Former Masborough South Jn – Swinton Jn South	161	77	166	56	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN804	SMJ1	Swinton Jn North	Site of Former Wath Curve Jn	Swinton Jn North – Site of Former Wath Curve Jn	167	03	168	64	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN804	SMJ2	Site of Former Wath Curve Jn	Ferrybridge South Jn	Site of Former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	9	N	N	Y	N	N	N
+London-North-Eastern	1212	LN804	SMJ2	Ferrybridge South Jn	Site of Former Burton Salmon Jn	Ferrybridge South Jn – Site of Former Burton Salmon Jn	2	38	0	00	9	H	H	Y	H	H	N
+London-North-Eastern	1212	LN804	SMJ3	Site of Former Burton Salmon Jn	Milford Jn	Site of Former Burton Salmon Jn – Milford Jn	16	69	15	07	9	H	H	Y	H	H	N
+London-North-Eastern	1212	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	10	N	N	Y	N	N	N
+London-North-Eastern	1212	LN806	CHR	Route Boundary (LN3201) (Tapton Jn)	Masborough Jn	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN807	MAS	Dore South Jn	Dore West Jn	Dore South Jn – Dore West Jn	153	73	154	16	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN808	DWS	Dore Station Jn	Dore West Jn	Dore Station Jn – Dore West Jn	0	60	0	00	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN808	MAS	Dore West Jn	Route Boundary (NW9001) (Chinley North Jn)	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN809	BTJ	Shepcote Lane West Jn	Tinsley Yard East End	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	10	N	N	Y	N	N	N
+London-North-Eastern	1212	LN810	SEL	Shepcote Lane West Jn	Tinsley South Jn	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	10	N	N	Y	N	N	N
+London-North-Eastern	1212	LN812	BLJ	Shepcote Lane East Jn	Broughton Lane Jn	Shepcote Lane East Jn – Broughton Lane Jn	161	20	161	67	10	N	N	Y	N	N	N
+London-North-Eastern	1212	LN816	BEW	Beighton Jn	Woodhouse Jn	Beighton Jn – Woodhouse Jn	48	06	46	56	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN818	HCD	Holmes Jn	Rotherham Central Jn	Holmes Jn – Rotherham Central Jn	0	00	0	62	10	N	N	Y	N	N	N
+London-North-Eastern	1212	LN824	SKM	Moorthorpe Jn	South Kirkby Jn	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN826	PED5	South Yorkshire Jn	Mexborough Jn	South Yorkshire Jn – Mexborough Jn	22	57	15	64	8	N	N	Y	N	N	N
+London-North-Eastern	1212	LN826	SJM2	Mexborough Jn	Site of Former Mexborough North Jn	Mexborough Jn – Site of Former Mexborough North Jn	15	64	14	78	8	N	N	Y	N	N	N

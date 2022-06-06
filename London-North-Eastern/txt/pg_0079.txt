@@ -2,93 +2,97 @@
 
 
 London North Eastern Route Sectional Appendix Module LN1
+ SKEGNESS
+ LN190 –             Allington North Jn. - All   LOD (K) LT.N     Captive Key -
+ ALLINGTON EAST      lines.
+ JN TO
+                     Allington East Jn. - All    LOD (K) LT.E     Captive Key -
+ ALLINGTON
+                     lines.
+ WEST JN
+ LN195 –             Allington East Jn. - All    LOD (K) LT.E     Captive Key -
+ GRANTHAM,           lines.
+ NOTTINGHAM
+                     Allington West Jn. - All    LOD (K) LT.W     Captive Key -
+ BRANCH JN
+                     lines.
+ ALLINGTON
+ WEST JN
+ LN200 – WRAWBY      Pelham Street Jn            LOD (K) LG8002   Captive Key Down and Up Barnetby lines, & Up
+ JN TO PELHAM                                                                 Spalding line
+ STREET JN
+                     Wrawby Jn (Fish Pond FP     LOD (T) CB9104   Key         Up Barnetby 13m 26ch to Down
+                     crossing) to Barnetby                        Enabled     Scunthorpe 33m 24ch
+                     station
+ LN206 – NEWARK      Skew Bridge LC              LOD (K) LG8008   Captive Key Down Newark line, Down
+ FLAT CROSSING       (exclusive) to West                                      Gainsborough line and Up / Down
+ (INCLUSIVE) TO      Holmes Jn (exclusive)                                    Pyewipe line
+ WEST HOLMES
+                     West Holmes Jn to           LOD (K) LG8009   Captive Key Up Newark line & Down
+ JN
+                     Boultham Jn (exclusive)                                  Gainsborough line
+ LN215 -             Boultham Jn to              LOD (K) LG8008   Captive Key Up / Down Pyewipe line
+ BOULTHAM JN TO      Pyewipe Jn
+ PYEWIPE JN
+ LN627
+                     Down Sunderland /
+ Northallerton
+ Longlands Jn to     Shunt Neck (Ryhope
+                                                 LOD(T        Key             Track sections NC, ND, NG at
+ Newcastle East Jn   Grange Junction)                  NS9023
+                                                 )            Enabled         Ryhope Grange
+ via the Coast       across2888B
+                     2890A/B, 2892A points
+                     Up Sunderland
+                     (Ryhope Grange
+                                                 LOD(T        Key             Track sections PD at Ryhope
+                     Junction) across                  NS9022
+                                                 )            Enabled         Grange
+                     2893A/B 2892B
+                     2888A points.
+                     Up Sunderland
+                                                 LOD(K        Captive         Track Sections MJ, MN at
+                     (Dawdon Junction)                 NS9020
+                                                 )            Key             Dawdon Junction
+                     2881A, 2880A/B points
                      Down Sunderland
-                                                 LOD(K        Captive           Track Sections LH, LJ, LK at
+                                                 LOD(K        Captive         Track Sections LH, LJ, LK at
                      (Dawdon Junction)                 NS9021
-                                                 )            Key               Dawdon Junction
+                                                 )            Key             Dawdon Junction
                      2881B, 2882A/B points
-                                                                                Track Section JD between
+                                                                              Track Section JD between
                      Down Sunderland             LOD(T        Key
-                                                       NS9019                   Bridge 214 and Horden
-                     (Bridge 214)                )            Enabled           Station)
+                                                       NS9019                 Bridge 214 and Horden
+                     (Bridge 214)                )            Enabled         Station)
                      Down Sunderland
-                                                 LOD(T        Key               Track Sections AP, AR, AS at
+                                                 LOD(T        Key             Track Sections AP, AR, AS at
                      (Seaton Carew Station)            GM9017
-                                                 )            Enabled           Seaton Carew Station
+                                                 )            Enabled         Seaton Carew Station
                      2864A/B points
                      Up Sunderland (Seaton
-                                                 LOD(T        Key               Track Sections DX, DY1 at
+                                                 LOD(T        Key             Track Sections DX, DY1 at
                      Carew Station) 2865               GM9018
-                                                 )            Enabled           Seaton Carew Station
+                                                 )            Enabled         Seaton Carew Station
                      points
                      Down Sunderland
-                                                 LOD(K        Captive           Track Section AL at Seaton
+                                                 LOD(K        Captive         Track Section AL at Seaton
                      (Seaton Snook                     GM9015
-                                                 )            Key               Snook Junction
+                                                 )            Key             Snook Junction
                      Junction) 2863B points.
                      Up Sunderland (Seaton
-                                                 LOD(K        Captive           Track sections DZ, FA at
+                                                 LOD(K        Captive         Track sections DZ, FA at
                      Snook Junction)                   GM9016
-                                                 )            Key               Seaton Snook Junction
+                                                 )            Key             Seaton Snook Junction
                      2862A/B, 2863A points.
                      Down Sunderland
-                                                 LOD(T        Key               Track Sections JCY, JCZ, JDA
+                                                 LOD(T        Key             Track Sections JCY, JCZ, JDA
                      (Billingham Junction)             NS9013
-                                                 )            Enabled           at Billingham Junction
+                                                 )            Enabled         at Billingham Junction
                      2196B, 2198 points
                      Up Sunderland
-                     (Billingham Junction)       LOD(T        Key               Track Sections JWD, JWC,
-                                                       NS9014
-                     2196A, 2197, 2199A/B        )            Enabled           JWB at Billingham Junction
-                     points.
-                     Up Sunderland and
-                     Down Sunderland
-                                                                                Track Sections JCD, JCE, FZA,
-                     (Norton on Tees South       LOD(K        Captive
-                                                       NS9011                   JWV at Norton on Tees South
-                     Junction) 2190, 2191        )            Key
-                                                                                Junction
-                     points.
-
-                     Up Sunderland and
-                     Down Sunderland                                            Track Sections JWR, JCH,
-                                                 LOD(K        Captive
-                     (Norton on Tees East              NS9012                   JPS, JCK at Norton on Tees
-                                                 )            Key
-                     Junction) 2192, 2193                                       East Junction
-                     points.
- LN646 NORTON-       Up Norton Curve,                      NS9010 Captive       Track Sections FZU, FZV, JPV,
- ON-TEES SOUTH       Down Norton Curve,                           Key           FAD at Norton on Tees West
- JN TO FERRYHILL     Up Ferryhill and Down       LOD(K                          Junction
- SOUTH JN            Ferryhill (Norton on        )
-                     Tees West Junction)
-                     2194, 2195 points
- LN3201 ST                                       LOD (K) TD9111   Captive Key Way & Works Junction – All Lines
- PANCRAS TO
- TAPTON JN (VIA                                                                 Way& Works Junction – Up Main,
- DERBY)                                          LOD (K) TD9112   Captive Key
-                                                                                Down Main & RTC Sidings South
-                                                                              London Road Junction – Up
-                                                 LOD (K) TD9110   Captive Key Tamworth Slow & Down Tamworth
-                                                                              Slow
-                                                                  Key
-                                                 LOD (E) DW9101                 Derby Station Platforms 1 & 2
-                                                                  Enabled
-                     Way and Works Jn to                          Key
-                     Derby Station (Inclusive)   LOD (E) DW9102                 Derby Station Platform 2 & 1
-                                                                  Enabled
-                                                                  Key
-                                                 LOD (E) TD9103                 Derby Station Platform 3 & 4
-                                                                  Enabled
-                                                                  Key
-                                                 LOD (E) TD9104                 Derby Station Platform 4 & 3
-                                                                  Enabled
-                                                                  Key
-                                                 LOD (E) TD9105                 Derby Station Platform 5 & 6
-                                                                  Enabled
-                                                                  Key
-                                                 LOD (E) TD9106                 Derby Station Platform 6 & 5
-                                                                  Enabled
-
+                                                 LOD(T        Key             Track Sections JWD, JWC,
+                     (Billingham Junction)             NS9014
+                                                 )            Enabled         JWB at Billingham Junction
+                     2196A, 2197, 2199A/B
 
 February 2021                                         32E              (Supplement No. 49 – 27 February 2021)

@@ -1,22 +1,16 @@
-London-North-Eastern	1076	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	Notes
-London-North-Eastern	1076	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN916	HJS	Springbank North Jn	Network Rail Boundary	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN918	SPW	Springbank North Jn	Walton Street Jn	Springbank North Jn – Walton Street Jn	1	54	1	29	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN920	AWP	Anlaby Road Jn	West Parade North Jn	Anlaby Road Jn – West Parade North Jn	0	00	0	24	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN922	TJC3	Whitehall West Jn	Skipton	Whitehall West Jn – Skipton	195	57	221	01	N	N	N	N	N	N	Y	Y
-London-North-Eastern	1076	LN922	TJC3	Skipton	Site of former Skipton North Jn Change of ELR	Skipton – Site of former Skipton North Jn Change of ELR	221	21	221	68	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN922	SKW1	Site of former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1076	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	N	N	N	N	N	N	Y	Y
-London-North-Eastern	1076	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	N	N	N	N	N	N	Y	Y
-London-North-Eastern	1076	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	N	N	N	N	N	N	Y	Y
+London-North-Eastern	1076	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	E	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1076	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	N	Y	N	N	N	N	N	E R1	R1 Prohibited between Knighton Jn and Birmingham Curve Jn
+London-North-Eastern	1076	LN3535	BCJ	Birmingham Curve Jn	Branston Jn	Birmingham Curve Jn – Branston Jn	126	40	127	19	N	Y	N	N	N	N	N	N
+London-North-Eastern	1076	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	N	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1076	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1076	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1076	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	Y	N	N	N	N	N	Y
+London-North-Eastern	1076	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	N	Y	N	N	N	N	N	Y
+London-North-Eastern	1076	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	N	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1076	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	N	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1076	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	Y	Y	N
+London-North-Eastern	1076	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	N	Y	N	N	N	N	N	Y
+London-North-Eastern	1076	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	Y	N	N	E R2	N	N	R1	R1 Between Nottingham East Jn and Netherfield Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed R2 Prohibited between Eastcroft Sidings (00m 22ch) and Route Boundary (LN206) (Coulson)
+London-North-Eastern	1076	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1076	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1076	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed

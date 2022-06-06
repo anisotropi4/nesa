@@ -1,16 +1,22 @@
-London-North-Eastern	1059	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	N	Y	N	E	Y	Y	Y	Y
-London-North-Eastern	1059	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	N	Y	N	E	Y	Y	Y	Y
-London-North-Eastern	1059	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	N	Y	N	N	Y	Y	Y	Y
-London-North-Eastern	1059	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	N	Y	N	N	Y	Y	Y	R1	R1 Between Nottingham and Nottingham East Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1059	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	N	Y	N	N	R1	Y	Y	Y	R1 Prohibited between Trent East Jn and Toton South Jn
-London-North-Eastern	1059	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1059	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	E	N	N	N	N	N
-London-North-Eastern	1059	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	N	N	E	N	N	N	N	N
-London-North-Eastern	1059	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N
-London-North-Eastern	1059	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N
-London-North-Eastern	1059	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360)	Cricklewood Curve Jn – Route Boundary (LOR EA1360)	5	19	5	72	N	Y	E	N	N	N	N	Y
-London-North-Eastern	1059	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	E	Y	E	N	N	N	N	Y
-London-North-Eastern	1059	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1059	LN3228	TES	Trent East ELR Change	Sheet Stores Jn	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	N	Y	N	N	Y	Y	Y	Y
-London-North-Eastern	1059	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	N	Y	N	N	N	N	N	N
-London-North-Eastern	1059	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	N	Y	N	N	N	Y	Y	N
+London-North-Eastern	1059	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1059	LN702	BWC	Bedlington North	Network Rail Boundary (Lynemouth Colliery)	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN704	ISC	Newsham North Jn	Network Rail Boundary (Blyth Bates Terminal)	Newsham North Jn – Network Rail Boundary (Blyth Bates Terminal)	0	00	0	36	N	N	N	N	N	N	N	N	Line out of use NME/2010/LNE/006 and NME/2010/LNE009
+London-North-Eastern	1059	LN706	WSB	West Sleekburn Jn	North Blyth	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN708	MWJ	Winning Jn	Marchey's House Jn	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN736	MAC3	Cleethorpes	Grimsby Docks	Cleethorpes – Grimsby Docks	112	40	110	11	Y	N	N	Y	Y	N	N	N
+London-North-Eastern	1059	LN736	MAC3	Grimsby Docks	Marsh West Jn	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	N	N	Y	Y	N	N	N
+London-North-Eastern	1059	LN736	MAC3	Marsh West Jn	Wrawby Jn	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	N	N	Y	Y	N	N	N
+London-North-Eastern	1059	LN736	MAC3	Wrawby Jn	West Burton East Jn	Wrawby Jn – West Burton East Jn	94	12	72	18	N	N	N	R1	Y	N	N	N	R1 15mph Gainsborough Central Up platform 1
+London-North-Eastern	1059	LN736	MAC3	West Burton East Jn	Thrumpton West Jn (Up)	West Burton East Jn – Thrumpton West Jn (Up)	72	18	63	28	N	N	N	Y	Y	N	N	N
+London-North-Eastern	1059	LN736	MAC3	Thrumpton West Jn (Up)	Manton Wood	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	N	N	N	Y	Y	N	N	N
+London-North-Eastern	1059	LN736	MAC3	Manton Wood	Brancliffe East Jn	Manton Wood – Brancliffe East Jn	58	54	53	57	R1	N	N	Y	Y	N	N	N	R1 Prohibited between Shireoaks East Jn and Brancliffe East Jn
+London-North-Eastern	1059	LN736	MAC3	Brancliffe East Jn	Woodburn Jn	Brancliffe East Jn – Woodburn Jn	53	57	42	29	R1	N	N	Y	Y	R1	R1	R1	R1 Prohibited between Brancliffe East Jn and Woodhouse Jn
+London-North-Eastern	1059	LN736	NUJ2	Woodburn Jn	Site of former Nunnery Jn	Woodburn Jn – Site of former Nunnery Jn	42	29	41	68	Y	N	N	R1	Y	Y	Y	Y	R1 5mph Darnall Down platform
+London-North-Eastern	1059	LN736	NUJ1	Site of former Nunnery Jn	Nunnery Main Line Jn	Site of former Nunnery Jn – Nunnery Main Line Jn	159	33	158	77	Y	N	N	Y	Y	Y	Y	Y
+London-North-Eastern	1059	LN738	MWN	Great Coates No. 1	Network Rail Boundary (ABP)	Great Coates No. 1 – Network Rail Boundary (ABP)	108	34	108	44	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN740	MWN	Marsh West Jn	Network Rail Boundary (ABP)	Marsh West Jn – Network Rail Boundary (ABP)	107	69	108	44	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN740	PYE2	Network Rail Boundary (ABP)	Site of former Queens Road Jn	Network Rail Boundary (ABP) – Site of former Queens Road Jn	4	33	0	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN740	PYE1	Site of former Queens Road Jn	Immingham East Jn	Site of former Queens Road Jn – Immingham East Jn	106	50	106	31	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN740	BRI2	Immingham East Jn	Humber Road Jn	Immingham East Jn – Humber Road Jn	106	31	104	05	N	N	N	N	N	N	N	N
+London-North-Eastern	1059	LN741	HAU	Habrough	Ulceby South Jn	Habrough – Ulceby South Jn	0	32	1	45	Y	N	N	Y	N	N	N	N
+London-North-Eastern	1059	LN742	KIL2	Killingholme	Immingham West Change of Mileage	Killingholme – Immingham West Change of Mileage	2	70	0	00	N	N	N	N	N	N	N	N

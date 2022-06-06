@@ -1,11 +1,16 @@
 London-North-Eastern	1053	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1053	LN922	TJC3	Whitehall West Jn	Skipton	Whitehall West Jn – Skipton	195	57	221	01	N	N	N	R1	Y	Y	Y	N	R1 Prohibited between Armley Jn and Skipton
-London-North-Eastern	1053	LN922	TJC3	Skipton	Site of former Skipton North Jn Change of ELR	Skipton – Site of former Skipton North Jn Change of ELR	221	21	221	68	N	N	N	N	Y	Y	Y	N
-London-North-Eastern	1053	LN922	SKW1	Site of former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	N	N	N	N	Y	Y	Y	N
-London-North-Eastern	1053	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	N	N	N	N	Y	N	N	N
-London-North-Eastern	1053	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	N	N	N	N	Y	N	N	N
-London-North-Eastern	1053	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	N	N	N	N	Y	N	N	N
-London-North-Eastern	1053	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	N	N	N	N	Y	N	N	N
-London-North-Eastern	1053	LN930	SKS1	Skipton Middle	Site of former Embsay Jn	Skipton Middle – Site of former Embsay Jn	222	68	220	64	N	N	N	N	N	N	N	N
-London-North-Eastern	1053	LN930	SKS2	Site of former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	N	N	N	N	N	N	N	N
-London-North-Eastern	1053	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	N	N	N	N	Y	N	N	N
+London-North-Eastern	1053	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	R1	N	R2 R3	R4	Y	R5	R5	R6 R7	R1 Prohibited Doncaster platforms 2 R2 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R3 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R4 Prohibited between Loversall Carr Jn and Black Carr Jn R5 Prohibited between Loversall Carr Jn and Doncaster R6 Shall be planned for Fast / Main lines only R7 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
+London-North-Eastern	1053	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1053	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N
+London-North-Eastern	1053	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	N
+London-North-Eastern	1053	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	E	N	E	N	N	N	N	Y
+London-North-Eastern	1053	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	E	E	E	N	N	N	N	Y
+London-North-Eastern	1053	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	Y	N	Y	N	N	N	N	Y
+London-North-Eastern	1053	LN120	HDB	Langley Jn via Hertford	Stevenage platform 5 (End of line)	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	N	N	N	N	N	N	N	N
+London-North-Eastern	1053	LN125	SBR	Cambridge Jn	Route Boundary (EA1230)	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	E	N	R1	N	N	N	N	R1	R1 Must be planned as a non-stop train between Hitchin and Cambridge
+London-North-Eastern	1053	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	05	E	N	Y	N	N	N	N	N
+London-North-Eastern	1053	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	Y	N	R1	N	N	N	N	R1	R1 Must be planned as a non-stop train between Cambridge and Peterborough.
+London-North-Eastern	1053	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	Y	N	N	N	N	N	N	Y
+London-North-Eastern	1053	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	Y	N	Y	Y	N	N	N	N
+London-North-Eastern	1053	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	Y	N	Y	N	N	N	N	N
+London-North-Eastern	1053	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	Y	N	N	N	N	N	N	N

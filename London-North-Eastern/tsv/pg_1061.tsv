@@ -1,16 +1,22 @@
-London-North-Eastern	1061	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	E	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1061	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	N	Y	N	N	N	N	N	E R1	R1 Prohibited between Knighton Jn and Birmingham Curve Jn
-London-North-Eastern	1061	LN3535	BCJ	Birmingham Curve Jn	Branston Jn	Birmingham Curve Jn – Branston Jn	126	40	127	19	N	Y	N	N	N	N	N	N
-London-North-Eastern	1061	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1061	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1061	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1061	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	Y	N	N	N	N	N	Y
-London-North-Eastern	1061	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	N	Y	N	N	N	N	N	Y
-London-North-Eastern	1061	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1061	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1061	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	Y	Y	N
-London-North-Eastern	1061	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	N	Y	N	N	N	N	N	Y
-London-North-Eastern	1061	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	Y	N	N	E R2	N	N	R1	R1 Between Nottingham East Jn and Netherfield Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed R2 Prohibited between Eastcroft Sidings (00m 22ch) and Route Boundary (LN206) (Coulson)
-London-North-Eastern	1061	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1061	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1061	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	N	Y	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1061	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1061	LN778	BOC1	Seymour Jn	Bolsover	Seymour Jn – Bolsover	7	51	5	21	N	N	N	N	N	N	N	N	Line out of use between Site of former Markham Colliery Jn and Bolsover NC/G1/2010/LNE/020V
+London-North-Eastern	1061	LN782	SHW	Woodend Jn	Shireoaks West Jn	Woodend Jn – Shireoaks West Jn	153	71	154	36	Y	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN784	HIM	High Marnham	Thoresby Colliery Jn	High Marnham – Thoresby Colliery Jn	27	48	17	16	N	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN784	HIM	Thoresby Colliery Jn	Warsop Jn	Thoresby Colliery Jn – Warsop Jn	17	16	10	59	N	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN784	HIM	Warsop Jn	Shirebrook South Jn	Warsop Jn – Shirebrook South Jn	10	59	10	19	N	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN784	HIM	Shirebrook South Jn	Shirebrook East Jn	Shirebrook South Jn – Shirebrook East Jn	10	19	9	72	N	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN786	BEC	Boughton Jn	Network Rail Boundary (Bevercotes Colliery)	Boughton Jn – Network Rail Boundary (Bevercotes Colliery)	0	00	4	22	N	N	N	N	N	N	N	N	Line out of use from 01m 0ch to Network Rail Boundary (Bevercotes Colliery) LN213/PJ1037
+London-North-Eastern	1061	LN788	TYC	Thoresby Colliery Jn	Thoresby Colliery	Thoresby Colliery Jn – Thoresby Colliery	0	00	0	42	N	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN802	WKC	Welbeck Colliery Jn	Network Rail Boundary (RJB)	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	N	N	N	N	N	N	N	N
+London-North-Eastern	1061	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn)	Dore South Jn	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	Y	N	E	N	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	TJC1	Dore South Jn	Sheffield Station	Dore South Jn – Sheffield Station	153	71	158	40	Y	N	E	R1	Y	Y	Y	Y	R1 Prohibited between Dore South Jn and Dore Station Jn
+London-North-Eastern	1061	LN804	TJC1	Sheffield Station	Nunnery Main Line Jn	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	TJC1	Nunnery Main Line Jn	Site of former Grimesthorpe Jn	Nunnery Main Line Jn – Site of former Grimesthorpe Jn	158	77	160	47	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	TJC2	Site of former Grimesthorpe Jn	Site of Masborough South Jn	Site of former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	TJC3	Site of former Masborough South Jn	Swinton Jn South	Site of former Masborough South Jn – Swinton Jn South	161	77	166	56	Y	N	E	Y	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	SMJ1	Swinton Jn North	Site of former Wath Curve Jn	Swinton Jn North – Site of former Wath Curve Jn	167	03	168	64	Y	N	N	Y	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	SMJ2	Site of former Wath Curve Jn	Ferrybridge South Jn	Site of former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	R1	N	N	R1	Y	Y	Y	Y	R1 Prohibited between Moorthorpe Jn and Ferrybridge South Jn
+London-North-Eastern	1061	LN804	SMJ2	Ferrybridge South Jn	Site of former Burton Salmon Jn	Ferrybridge South Jn – Site of former Burton Salmon Jn	2	38	0	00	N	N	Y	N	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	SMJ3	Site of former Burton Salmon Jn	Milford Jn	Site of former Burton Salmon Jn – Milford Jn	16	69	15	07	N	N	Y	N	Y	Y	Y	Y
+London-North-Eastern	1061	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	N	Y	Y	Y	Y	Y	Y

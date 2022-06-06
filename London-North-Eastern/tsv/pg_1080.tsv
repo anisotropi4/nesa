@@ -1,21 +1,25 @@
-London-North-Eastern	1080	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	Notes
-London-North-Eastern	1080	LN101	ECM1	Newark North Gate	Retford	Newark North Gate – Retford	120	08	138	49	Y	N	N	N	N	E R1 R2	N	N	R1 Prohibited via bridge 303a 138m38ch (Worksop – Gainsborough line underbridge) Down Fast R2 25mph Grantham Station platform 4
-London-North-Eastern	1080	LN101	ECM1	Retford	Loversall Carr Jn	Retford – Loversall Carr Jn	138	49	150	00	Y	N	N	N	N	E	N	N
-London-North-Eastern	1080	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	Y	R1	N	N	N	E R2 R3	N	N	R1 Between Doncaster platforms 1, 3, 4, 6, 7 and 8 and Marshgate Jn only R2 Prohibited Doncaster platform 7 R3 15mph Doncaster platform 1
-London-North-Eastern	1080	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	H	N	E	E	E	N	N	E
-London-North-Eastern	1080	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	Y	N	N	N	N	N	E	E
-London-North-Eastern	1080	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	R1	N	N	N	N	R1	N	N	R1 No more than 18 electric trains per line may operate over the Hertford Loop in any one hour period
-London-North-Eastern	1080	LN120	HDB	Langley Jn via Hertford	Stevenage platform 5 (End of line)	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN125	SBR	Cambridge Jn	Route Boundary (EA1230)	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	H	N	N	N	N	R1	N	N	R1 See Sectional Appendix Local Instructions
-London-North-Eastern	1080	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	05	N	N	N	N	N	Y	N	N
-London-North-Eastern	1080	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	H	N	N	N	N	N	N	N
-London-North-Eastern	1080	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	H	N	N	N	N	N	EH	E
-London-North-Eastern	1080	LN170	WEB	Werrington Jn	Site of former Spalding South Jn	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	H	N	N	N	N	N	N	N
+London-North-Eastern	1080	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
+London-North-Eastern	1080	LN600	ECM3	Temple Hirst Jn	Colton Jn	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM4	Colton Jn	Colton North Jn	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM4	Colton North Jn	York Station	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM5	York Station	Birtley Jn	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM5	Birtley Jn	Low Fell Jn (including via Tyne Yard)	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	R1	Y	Y	R1	Y	N	Y	Y	R2	P
+London-North-Eastern	1080	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	N	Y	Y	N	Y	N	Y			r
+London-North-Eastern	1080	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Eastern	1080	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	N	N	N	N	N	N	N	N	
+London-North-Eastern	1080	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	N	N	N	N	N	
+London-North-Eastern	1080	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	
+London-North-Eastern	1080	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	N	N	N	N	N	N	N	N	
+London-North-Eastern	1080	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	EH	EH	EH	EH	EH	N	EH	EH	
+London-North-Eastern	1080	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	EH	EH	EH	EH	EH	N	EH	EH	

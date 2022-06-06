@@ -1,51 +1,46 @@
-                                                                                   OFFICIAL
+                                                                                        OFFICIAL
 
 
-                                                                   LNE Route Sectional Appendix Module LNRC
+                                                                         LNE Route Sectional Appendix Module LNRC
 
 
-Line of ELR      Line of Route / Sector                oooo oooo oooo oooo 317 319 321 322 325 377 380 387 390 700 Notes
-route            Description                            M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
-
-LN3252    MJT1   Mansfield Jn – Radford Jn              124   22   125   55   N     N        N   N    H       N   N    N   N    N
-LN3252    MJT2   Radford Jn – Trowell South Jn          125   55   130   51   N     N        N   N    H       N   N    N   N    N
-LN3255    RAC    Radford Jn – Newstead                  125   55   134   20   N     N        N   N    H       N   N    N   N    N
-LN3255    RAC    Newstead – Kirkby Lane End Jn          134   20   136   66   N     N        N   N    H       N   N    N   N    N
-LN3261    THL    Trent South Jn – Toton South Jn        119   17   121   36   N     N        N   N    H       N   N    N   N    N
-                 (High Level Lines)
-LN3264    AML    Attenborough Jn – Meadow Lane Jn       0     62    0    00   N     N        N   N    H       N   N    N   N    N
-                 (Attenborough Curve)
-LN3273    TCC    Codnor Park Jn – Ironville Jn          132   76   133   18   N     N        N   N    H       N   N    N   N    N
-LN3273    PBS1   Ironville Jn – Kirkby Summit           133   18   138   79   N     N        N   N    H       N   N    N   N    N
-                 Crossover
-LN3273    PBS2   Kirkby Summit Crossover – Mansfield    137   11   140   40   N     N        N   N    H       N   N    N   N    N
-                 ELR Change
-LN3273    PBS3   Mansfield Change of ELR – Route        140   40   143   00   N     N        N   N    H       N   N    N   N    N
-                 Boundary (LN768) (Shireoaks East
-                 Jn)
-LN3340    BJW3   Route Boundary (MD340) (Lichfield      19    00   23    33   N     N        N   N    H       N   EH   N   EH   N
-                 Trent Valley) – Wichnor Jn
-LN3501    DBP1   London Road Jn – Route Boundary        0     00   23    30   N     N        N   N    H       N   EH   N   EH   N   R1   Prohibited between Wichnor
-                 (MD501) (Kingsbury Jn)                                                                           R1       R2            Jn and Route Boundary
-                                                                                                                           R3            (MD501) (Kingsbury Jn)
-                                                                                                                           R4       R2   15mph Burton on Trent Up
-                                                                                                                           R5            Main platform
-                                                                                                                                    R3   Prohibited Derby platform 4
-                                                                                                                                    R4   5mph Derby platform 3
-                                                                                                                                    R5   Prohibited Down and Up
-                                                                                                                                         Goods lines between Clay
-                                                                                                                                         Mills Jn and Leicester Jn
-LN3505    NSS North Stafford Jn – Route Boundary        30    10    1    40   N     N        N   N    H       N   N    N   N    N
-               (NW5012) (Stoke Jn)
-LN3515    MJS1 Melbourne Jn – Sinfin                   131    15   130   37   N     N        N   N    N       N   N    N   N    N
-LN3520    SSJ1 Sheet Stores Jn – Change of ELR         119    62   127   20   N     N        N   N    H       N   N    N   EH   N
-               (Site of Former Chellaston East Jn)
-LN3520    MJS1 Change of ELR (Site of Former           127    20   128   00   N     N        N   N    H       N   N    N   EH   N
-               Chellaston East Jn) – Change of ELR
-               (Site of Former Chellaston West Jn)
-LN3520    SSJ2 Change of ELR (Site of Former           128    00   132   12   N     N        N   N    H       N   N    N   EH   N   R1   15mph over bridge 10
-               Chellaston West Jn) – Stenson Jn                                                                            R1            Swarkestone Road on the
-                                                                                                                                         Down Line 128m 14ch
 
 
-October 2009                                                                            40
+LN170    SPD3   Site of former Greetwell West Jn –        81   25    98     56     N       N       N      N         N   N   N
+                Trent East Jn
+LN170    MAC3 Trent East Jn – Trent West Jn               73   25    73     11     N       N       N      N         N   N   N
+LN170    SPD4   Trent West Jn – Bessacarr Jn              98   68   115     72     N       N       N      N         N   N   N
+LN170    SPD5   Bessacarr Jn – Doncaster, Flyover        115   72   116     20     N       N       N      N         N   N   N
+                East Jn
+LN175    SSE    Sleaford South Jn – Sleaford East Jn      0    00    0      43     N       N       N      N         N   N   N
+LN180    SNW    Sleaford West Jn – Sleaford North Jn      1    34    3      42     N       N       N      N         N   N   N
+LN185    ABE1   Allington West Jn – Site of former        0    00    4      08     N       N       N      N         N   N   N
+                Barkston East Jn
+LN185    GRS1   Barkston East Jn – Site of former        110   12   112     00     N       N       N      N         N   N   N
+                Honington Jn
+LN185    GRS2   Site of former Honington Jn – Sleaford 112     00   120     29     N       N       N      N         N   N   N
+                West Jn
+LN185    GRS2   Sleaford West Jn – Sleaford East Jn      120   29   121     21     N       N       N      N         N   N   N
+LN185    GRS2   Sleaford East Jn – Site of former        121   21   137     06     N       N       N      N         N   N   N
+                Boston Sleaford Line Jn
+LN185    GRS3   Site of former Boston Sleaford Line Jn   106   70   107     24     N       N       N      N         N   N   N
+                – Boston
+LN185    GRS3   Boston – Site of former Firsby East Jn   107   24   122     22     N       N       N      N         N   N   N
+LN185    GRS4   Site of former Firsby East Jn -           0    28    9      17     N       N       N      N         N   N   N
+                Skegness
+LN190    ACD    Allington East Jn – Allington North Jn    0    00    0      25     N       N       N      N         N   N   N
+                (Allington Chord)
+LN195    NOG1 Nottingham Branch Jn – Route               106   08   111     60     N       N       N      N         N   N   N
+              Boundary (LN3635) (Rectory Jn SB)
+LN200    NOB3   Wrawby Jn – Pelham Street Jn              12   55    41     26     N       N       N      N         N   N   N
+LN206    NOB1   Route Boundary (LN3625) (Nottingham       16   02    32     00     N       N       N      N         N   N   N
+                East Jn) – Coulson Change of ELR
+LN206    NOB2   Coulson Change of ELR – Boultham          32   00    32     40     N       N       N      N         N   N   N
+                Jn
+LN206    NOB2   Boultham Jn – West Holmes Jn              32   40    32     70     N       N       N      N         N   N   N
+LN210    NSE    Newark Crossing South Jn – Newark         0    00    0      21     N       N       N      N         N   N   N
+                Crossing East Jn
+LN215    BHP    Boultham Jn – Pyewipe Jn                  0    00    0      65     N       N       N      N         N   N   N
+LN220    BCB    Bessacarr Jn – Black Carr Jn             115   72   116     44     N       N       N      N         N   N   N
+
+October 2009                                                                                37P

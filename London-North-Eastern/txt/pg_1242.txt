@@ -1,45 +1,50 @@
                                                                                       OFFICIAL
 
 
-                                                                 LNE Route Sectional Appendix Module LNRC
+                                                                       LNE Route Sectional Appendix Module LNRC
 
 
 
-    Line of    ELR    Line of Route / Sector                   oooo oooo oooo oooo RA Loco Gauge Notes
-    route             Description                               M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-    LN170      SPD3   Site of Former Greetwell West Jn –        81   25    98   56    8          Y
-                      Trent East Jn
-    LN170      MAC3 Trent East Jn – Trent West Jn               73   25    73   11    8          Y
-    LN170      SPD4   Trent West Jn – Bessacarr Jn              98   68   115   72    8          Y
-    LN170      SPD5   Bessacarr Jn – Doncaster, Flyover        115   72   116   20    8          Y
-                      East Jn
-    LN175      SSE    Sleaford South Jn – Sleaford East Jn       0   00     0   43    8          Y
-    LN180      SNW    Sleaford West Jn – Sleaford North Jn       1   34     3   42    8          Y
-    LN185      ABE1   Allington West Jn – Site of Former         0   00     4   08    8          Y
-                      Barkston East Jn
-    LN185      GRS1   Barkston East Jn – Site of Former        110   12   112   00    8          Y
-                      Honington Jn
-    LN185      GRS2   Site of Former Honington Jn –            112   00   120   29    8          Y
-                      Sleaford West Jn
-    LN185      GRS2   Sleaford West Jn – Sleaford East Jn      120   29   121   21    8          Y
-    LN185      GRS2   Sleaford East Jn – Site of Former        121   21   137   06    8          Y
-                      Boston Sleaford Line Jn
-    LN185      GRS3   Site of Former Boston Sleaford Line      106   70   107   24    8          Y
-                      Jn – Boston
-    LN185      GRS3   Boston – Site of Former Firsby East Jn 107     24   122   22    7          Y
-    LN185      GRS4   Site of Former Firsby East Jn –            0   28     9   17    7          Y
-                      Skegness
-    LN190      ACD    Allington East Jn – Allington North Jn     0   00     0   25    8          Y
-                      (Allington Chord)
-    LN195      NOG1 Nottingham Branch Jn – Route               106   08   111   60    8          Y
-                    Boundary (LN3635) (Rectory Jn SB)
-    LN200      NOB3   Wrawby Jn – Pelham Street Jn              12   55    41   26    8          Y
-    LN206      NOB1   Route Boundary (LN3625)                   16   02    32   00    8          Y
-                      (Nottingham East Jn) – Coulson
-                      Change of ELR
-    LN206      NOB2   Coulson Change of ELR – Boultham          32   00    32   40    8          Y
-                      Jn
-    LN206      NOB2   Boultham Jn – West Holmes Jn              32   40    32   70    8          Y
-    LN210      NSE    Newark Crossing South Jn – Newark          0   00     0   21    8          Y
-                      Crossing East Jn
-October 2009                                                                              109
+ Line of       Line of Route / Sector                                                Gauge                             Notes
+ Route         Description
+                                                            W6    W7    W8      W9      W9Plus      W10 W10A W12
+ LN682         Norwood Jn – Carlisle South Jn             S1 *   S2    N       N        N           N   N    N         S1 Freight vehicles conforming to the
+                                                                                                                          W6a profile are permitted, EXCEPT
+                                                                                                                          IFA-S IFA-U wagons
+                                                                                                                       S2 The following combinations are
+                                                                                                                          permitted:
+                                                                                                                          2438 h x 2438 w box on FEA wagons
+                                                                                                                          All lines
+                                                                                                                          2667 h x 2500 w box on FKA wagons
+                                                                                                                          All Lines
+                                                                                                                          2665 h x 2550 w (S21) on FKA
+                                                                                                                          wagons Up Line
+                                                                                                                          2675 h x 2550 w box on KFA wagons
+                                                                                                                          Up Line
+ LN682         Carlisle South Jn – Carlisle North Jn      Y      Y     Y       Y        N           Y      N      N
+ LN684         Low Fell Jn – Norwood Jn                   Y      Y     Y       N        N           N      N      N
+ LN694         Benton North Jn – Morpeth North Jn via     Y      Y     Y       N        N           N      N      N
+               Bedlington
+ LN696         Hepscott Jn – Morpeth Jn                   Y      Y     Y       N        N           N      N      N
+ LN700         Butterwell North Branch                    Y      N     N       N        N           N      N      N
+ LN702         Bedlington North – Lynemouth Alcan         Y      Y     Y       N        N           N      N      N
+ LN704         Bates Branch                               -      -     -       -        -           -      -      -       Line 'Out of Use'
+ LN706         West Sleekburn Jn – North Blyth            Y      N     N       N        N           N      N      N
+ LN708         Winning Jn – Marchey's House Jn            Y      N     N       N        N           N      N      N
+ LN736         Cleethorpes – Grimsby Docks                Y      N     N       N        N           N      N      N
+ LN736         Grimsby Docks – Marsh Jn                   Y      Y     N       N        N           N      N      N
+ LN736         Marsh Jn – Wrawby Jn                       Y      Y     Y       N        N           R1     N      R1      R1 W10 & W12 Clearance
+                                                                                                                          between Brocklesby East & West Jn
+                                                                                                                          – Wrawby Jn Only
+ LN736         Wrawby Jn – West Burton East Jn            Y      Y     Y       N        N           N      N      N
+ LN736         West Burton East Jn – Thrumpton West       Y      Y     N       N        N           N      N      N
+               Jn
+ LN736         Thrumpton West Jn – Manton Colliery        Y      Y     Y       Y        N           N      N      N
+               Jn
+ LN736         Manton Colliery Jn – Branclliffe East Jn   Y      Y     Y       N        N           N      N      N
+ LN736         Brancliffe East Jn – Woodburn Jn           Y      N     N       N        N           N      N      N
+ LN736         Nunnery Curve                              Y      Y     Y       N        N           N      N      N
+ LN736         Nunnery Main Line Jn – Nunnery Jn          Y      Y     Y       Y        Y           Y      Y      Y
+
+
+October 2009                                                                                94

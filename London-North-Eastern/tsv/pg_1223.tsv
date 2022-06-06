@@ -1,18 +1,11 @@
-London-North-Eastern	1223	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1223					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1223	LN185	Barkston East Jn., Former site of – Boston, Sleaford Line Jn., Former site of	Barkston East Jn., Former site of	Boston, Sleaford Line Jn., Former site of	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1223	LN185	Boston, Sleaford Line Jn., Former site of – Skegness	Boston, Sleaford Line Jn., Former site of	Skegness	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1223	LN190	Allington East Jn – Allington North Jn	Allington East Jn	Allington North Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1223	LN195	Grantham, Nottingham Branch Jn – Bottesford West Jn	Grantham, Nottingham Branch Jn	Bottesford West Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1223	LN200	Wrawby Jn – Pelham Street Jn	Wrawby Jn	Pelham Street Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1223	LN206	Staythorpe Crossing – Boultham Jn	Staythorpe Crossing	Boultham Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1223	LN206	Boultham Jn – West Holmes Jn	Boultham Jn	West Holmes Jn	Y	Y	Y	Y	N	Y	N	Y
-London-North-Eastern	1223	LN210	Newark Crossing Curve	Newark Crossing Curve		Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1223	LN215	Boultham Jn – Pyewipe Jn	Boultham Jn	Pyewipe Jn	Y	Y	Y	Y	N	Y	N	Y
-London-North-Eastern	1223	LN220	Bessacarr Jn – Black Carr Jn	Bessacarr Jn	Black Carr Jn	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1223	LN235	Rossington Colliery Branch	Rossington Colliery Branch		Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1223	LN600	Shaftholme Jn – Colton Jn	Shaftholme Jn	Colton Jn	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1223	LN600	Colton Jn – York	Colton Jn	York	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Holgate Jn to York
-London-North-Eastern	1223	LN600	York – Newcastle via East Coast Main Line	York	Newcastle via East Coast Main Line	Y *	Y	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 PROHIBITED York to Skelton Jn R2 PROHIBITED Darlington platform 1 (permitted at the north end to access Up/Down Station Loop) R3 PROHIBITED Darlington bay platform 2 R4 PROHIBITED Darlington bay platform 3 R5 PROHIBITED Darlington platform 4 R6 PROHIBITED Darlington Down Bypass R7 PROHIBITED over King Edwards Bridge on the Up Main R8 PROHIBITED over King Edwards Bridge on the Down Main R9 PROHIBITED Newcastle platforms 2, 3, 4, 5/6, 7/8, 9, 10, 11 and 12
-London-North-Eastern	1223	LN600	Newcastle – Reston GSP	Newcastle	Reston GSP	Y *	Y	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED between Newcastle East Jn and Argyle St Jn on the Up R2 PROHIBITED between Newcastle East Jn and Argyle St Jn on the Down
-London-North-Eastern	1223	LN600	Birtley Junction – Low Fell Junction via Tyne Yard	Birtley Junction	Low Fell Junction via Tyne Yard	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+London-North-Eastern	1223																
+London-North-Eastern	1223						M	Ch	M	Ch							
+London-North-Eastern	1223	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1223	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	8	Y	Y	Y	Y	Y	Y	Y	Y

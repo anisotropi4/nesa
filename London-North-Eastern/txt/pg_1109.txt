@@ -1,51 +1,44 @@
-                                                                                   OFFICIAL
+                                                                                 OFFICIAL
 
 
-                                                                   LNE Route Sectional Appendix Module LNRC
+                                                                  LNE Route Sectional Appendix Module LNRC
 
 
 
 
-Table D2A (East Midlands) – Route clearance of electrical multiple unit trains
-                                                                                                                                              Last Updated: 17/08/2019
-To be read in conjunction with General Notes.
+Table D2C (London North Eastern) – Route clearance of electric multiple units
+                                                                                                                                                      Last Updated: 20/03/2021
 
-Line of ELR       Line of Route / Sector               oooo oooo oooo oooo 317 319 321 322 325 377 380 387 390 700 Notes
-route             Description                           M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
-
-LN3140     BBM Route Boundary (MD140) (Bedford           16   07    16   50   N    EH        N   N    H       N    N    E   N    E
-                St. Johns) – Bedford Station Jn
-LN3140     SPC1 Bedford Station Jn – Bedford Station     49   60    49   65   N     E        N   N    H       E    N    N   N    N   R1   For access to Jowett
-                (Via Up and Down Bletchley line)                                                              R1                          Sidings
-LN3201     SPC1 St Pancras platforms 1, 2, 3 and 4 -     0    12    5    09   Y     Y        Y   Y    H       Y    N    Y   N    Y
-                Cricklewood
-LN3201     SPC1 Cricklewood – Change of ELR              5    09    50   00   Y     Y        Y   Y    H       Y    N    Y   N    R1 R1    Prohibited on the Up
-                (Bedford)                                                                                                                 Hendon and Down Hendon
-                                                                                                                                          between Cricklewood South
-                                                                                                                                          Jn - Silkstream Jn
-LN3201     SPC2 Change of ELR (Bedford) – Change         50   00    64   78   N     N        N   N    H       N    N    N   N    N
-                of ELR (Wellingborough)
-LN3201     SPC3 Change of ELR (Wellingborough) –         64   78    95   38   N     N        N   N    H       N    N    N   N    N
-                Change of ELR (Wigston South Jn)
-LN3201     SPC4 Change of ELR (Wigston South Jn) –       95   38    98   73   N     N        N   N    H       N    N    N   EH   N
-                Change of ELR (Leicester )
-LN3201     SPC5 Change of ELR (Leicester) –              98   73    99   07   N     N        N   N    H       N    N    N   EH   N   R1   Prohibited Leicester
-                Leicester                                                                                                   R1            platform 4
-
-LN3201     SPC5 Leicester – Ratcliffe Jn                 99   07   118   34   N     N        N   N    H       N    N    N   EH   N   R1   Prohibited Leicester
-                                                                                                                            R1            platform 4
-
-LN3201     SPC5 Ratcliffe Jn – Change of ELR            118   34   118   60   N     N        N   N    H       N    N    N   EH   N
-                (Ratcliffe)
-LN3201     SPC6 Change of ELR (Ratcliffe) – Change      118   60   126   27   N     N        N   N    H       N    N    N   EH   N
-                of ELR (Spondon)
-LN3201     SPC7 Change of ELR (Spondon) – London        126   27   128   23   N     N        N   N    H       N    N    N   EH   N
-                Road Jn
-LN3201     SPC8 London Road Jn – Derby Jn               127   54   128   08   N     N        N   N    H       N    EH   N   EH   N   R1   Prohibited Derby platform 4
-                                                                                                                            R1       R2   5mph Derby platform 3
-                                                                                                                            R2
-LN3201     SPC8 Derby Jn – Former Clay Cross South      128   08   147   69   N     N        N   N    H       N    N    N   N    N
-                Jn
+Line of ELR     Line of Route / Sector            oooo oooo oooo oooo 379         380       387   397    508      599 700 Notes
+route           Description                        M Ch M Ch ooo                  ooo       ooo   ooo    ooo      ooo ooo ooooooooooooooooooooooooooo
+LN101    ECM1 Kings Cross – Copenhagen Jn           0   00    0      64     N       N       R1     N         N    N    Y    R 1- Class 387/1 only
+                                                                                            R2                              R 2 - Prohibited Kings Cross platforms 2 &
+                                                                                                                            4 with deflated suspension
+LN101    ECM1 Copenhagen Jn – Holloway South /      0   64    1      44     N       N       R1     N         EH   N    Y    R1 Class 387/2 and 387/3 to operate ECS
+              North Jns                                                                                                     only
+LN101    ECM1 Holloway South / North Jns – Wood     1   44    5      07     E       N       E      N         EH   N    Y    R1 Prohibited between Holloway South /
+              Green North Jn                                                R1              R2                              North Jns and Finsbury Park
+                                                                            R2              R3                              R2 Class 387/2 and 387/3 prohibited
+                                                                                                                            between Hornsey and Wood Green North
+                                                                                                                            Jn
+                                                                                                                            R3 Class 387/2 and 387/3 to operate ECS
+                                                                                                                            only
+LN101    ECM1 Wood Green North Jn – Langley Jn      5   07    25     73     N       N       R1     N         N    N    Y    R1 Class 387/1 only
+LN101    ECM1 Langley Jn – St Neots                25   73    51     58     N       N       R1     N         N    N    Y    R1 Class 387/1 only
+LN101    ECM1 St Neots – Fletton Jn                51   58    75     02     N       N       R1     N         N    N    Y    R1 Class 387/1 only
+LN101    ECM1 Fletton Jn – Peterborough            75   02    76     29     N       N       R1     N         N    N    Y    R1 Class 387/1 only
+LN101    ECM1 Peterborough – Newark North Gate     76   29   120     08     N       N       R2     N         N    N    R1   R2 Class 387/1 only
+                                                                                            R3                              R3 Prohibited New England Jn to Newark
+                                                                                                                            North Gate
+LN101    PMJ    Peterborough – Helpston Jn via     22   19    16     71     N       N       N      N         N    N    N
+                Stamford lines
+LN101    ECM1 Newark North Gate – Retford         120   08   138     49     N       N       N      N         N    N    N
+LN101    ECM1 Retford – Loversall Carr Jn         138   49   150     00     N       N       N      N         N    N    N
+LN101    ECM1 Loversall Carr Jn – Marshgate Jn    152   00   156     26     N      EH       N      E         N    N    N    R5   Prohibited between Loversall Carr Jn
+                                                                                   R1              R2                            and Doncaster
+                                                                                                                            R6   Prohibited between Loversall Carr Jn
+                                                                                                                                 and Potteric Carr Jn
+LN101    ECM1 Marshgate Jn – Shaftholme Jn        156   26   160     16     N      EH       N      E         N    N    N
 
 
-October 2009                                                                            38
+October 2009                                                                         37N

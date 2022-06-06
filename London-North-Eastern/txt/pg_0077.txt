@@ -1,70 +1,75 @@
-                                                    OFFICIAL
+                                                   OFFICIAL
 
 
 London North Eastern Route Sectional Appendix Module LN1
-                      Spalding line across
-                      points 4794B and 4795
-                      Points
-                     Sleaford South Jn            LOD (K) WS9010   Captive Key Up Spalding Line
+ LN120 WOOD           Hertford North Station to  LOD (P)   DH1      Key         Down Hertford Line – Protection to
+ GREEN NORTH          Molewood Jn                          (WL1821) Enabled     prevent Up Direction Moves
+ JN TO LANGLEY
+                      Molewood Jn to Hertford    LOD (P)   UH1      Key         Up Hertford Line – Protection to
+ JN VIA
+                      South Jn                             (WL1822) Enabled     prevent Down Direction Moves
+ HERTFORD
+                      Bragbury Jn to Molewood LOD (P)      UH2      Key         Up Hertford Line – Protection to
+                      Jn to                                (WL1823) Enabled     prevent Down Direction Moves
+                     Bragbury Jn to Langley      LOD (P) DH2      Key           Down Hertford Line – Protection to
+                     South Jn                            (WL1824) Enabled       prevent Up Direction Moves
+                     Langley South Jn to         LOD (P) UH3        Key         Up Hertford Line – Protection to
+                     Bragbury JN                         (WL1825)   Enabled     prevent Down Direction Moves.
+                     Langley South Jn to         LOD (T) DH2        Twin Key    Down Hertford Line – Protection to
+                     Stevenage Bay Platform 5            (WL1826)   Enabled     prevent Up and Down Direction
+                                                                                Moves
+ LN145 MARHOLM       Down and Up Werrington      LOD (T) P4004 (1) Twin Key     Prevents all movements between
+ JN TO GLINTON                                           & P4004 Enabled        the two junctions on this line of
+ JN                                                      (2)                    route.
+ LN170 -             Glinton Jn                  LOD (T) P4006      Twin Key    Prevents all movements between
+ WERRINGTON JN.                                                     Enabled     the two junctions on this line of
+ TO FLYOVER                                                                     route.
+ EAST JN. VIA
+                     Spalding Station            LOD (K) WS9001     Captive Key Down Spalding Line, Spalding
+ LINCOLN
+                     Protecting Down Spalding            WS9003                 Station Down Platform
+                     across Points 4789A,
+                     through the Down
+                     Platform (Platform 2) and
+                     4791B Points
+                     Spalding Station            LOD (K) WS9002     Captive Key Up Spalding Line, Spalding Station
+                     Protecting Up Spalding              WS9003                 Up Platform
+                     across points 4798B,
+                     through the up Platform
+                     (Platform 1) and points
+                     4790A/B points (Sidings
+                     and 4791A points
+                     Gosberton Crossover         LOD (K) WS9005     Captive Key Down Spalding Line
+                     Points Protecting the
+                     Down Spalding Line
+                     Gosberton Crossover         LOD (K) WS9006     Captive Key Up Spalding Line
+                     Points Protecting the Up
+                     Spalding Line
+                     Sleaford South Jn           LOD (K) WS9009     Captive Key Down Spalding Line
+                     Protecting the Down
+                     Spalding line across
+                     points 4794B and 4795
+                     Points
+                     Sleaford South Jn           LOD (K) WS9010     Captive Key Up Spalding Line
                      Protecting the Up
                      Spalding line across
                      points 4794A
-                     Sleaford North Jn            LOD (K) SL9013   Captive Key Down Spalding Line
+                     Sleaford North Jn           LOD (K) SL9013     Captive Key Down Spalding Line
                      Protecting the Down
                      Spalding Line across
                      points 4797A and 4796
                      points
-                     Sleaford North Jn            LOD (K) SL9014   Captive Key Up Spalding Line
+                     Sleaford North Jn           LOD (K) SL9014     Captive Key Up Spalding Line
                      Protecting the Up
                      Spalding Line across
                      points 4797B
-                     Metheringham Station         LOD (K) SL9017   Captive Key Down Spalding line, Metheringham
-                     Protecting the Down line                                  Station Down Platform
+                     Metheringham Station        LOD (K) SL9017     Captive Key Down Spalding line, Metheringham
+                     Protecting the Down line                                   Station Down Platform
                      across points 4798B and
                      through the Down
                      Platform
-                     Metheringham Station         LOD (K) SL9018   Captive Key Up Spalding Line, Metheringham
-                     Protecting the Up                                         Station Up Platform
+                     Metheringham Station        LOD (K) SL9018     Captive Key Up Spalding Line, Metheringham
+                     Protecting the Up                                          Station Up Platform
                      Spalding line across
                      points 4798A and through
-                     the Up Platform and 4799
-                     A/B points (Sidings)
-                     Sincil Bank LC Protecting    LOD (K) SL9021   Captive Key Down Spalding Line
-                     the Down Spalding line
-                     across points 4801A
-                     Sincil Bank LC (inclusive)   LOD (K) LG8001   Captive Key Down Gainsborough line, Up
-                     to Lincoln High Street LC                                 Spalding line and platforms 4 and
-                     (inclusive)                                               5
-                     Pelham Street Jn to          LOD (K) LG8002   Captive Key Up Spalding line, & Down and Up
-                     Sincil Bank LC (inclusive)                                Barnetby lines
-                     Lincoln High St. LC          LOD (K) LG8003   Captive Key Up Gainsborough line and
-                     (exclusive) to Pelham                                     platforms 1, 2 and 3
-                     St. Jn (exclusive)
-                     East Holmes Jn to Lincoln    LOD (K) LG8004   Captive Key Up Gainsborough line
-                     High Street LC (inclusive)
-                     Lincoln High Street LC       LOD (K) LG8005   Captive Key Down Gainsborough line
-                     (exclusive) to East
-                     Holmes Jn
-                     East Holmes Jn               LOD (K) LG8006   Captive Key Down Gainsborough fast and slow
-                     (exclusive) to West                                       lines.
-                     Holmes Jn (exclusive)
-                     Pyewipe Jn to East           LOD (K) LG8007   Captive Key Up Gainsborough lines
-                     Holmes Jn (exclusive)
-                     West Holmes Jn               LOD (K) LG8008   Captive Key Down Gainsborough line, Down
-                     (exclusive) to Pyewipe Jn                                 Newark line and Up / Down
-                                                                               Pyewipe line
-                     West Holmes Jn               LOD (K) LG8009   Captive Key Down Gainsborough line & Up
-                                                                               Newark line
-                     Stow Park Crossover          LOD (K) LG8015   Captive Key Down Gainsborough
-                     Points Protecting Down
-                     Gainsborough line across
-                     points 4843B
-                     Stow Park Crossover          LOD (K) LG8016   Captive Key Up Gainsborough
-                     Points Protecting Up
-                     Gainsborough line across
-                     points 3843A
-                     Gainsborough Lea Road        LOD (K) LG8027   Captive Key Cabinet located on Down
-                     Station Protecting Down                                   Gainsborough line adjacent to
-                     Gainsborough line across                                  4845B points. Protection area also
-
-February 2021                                         32C               (Supplement No. 49 – 27 February 2021)
+February 2021                                         32C                (Supplement No. 49 – 27 February 2021)

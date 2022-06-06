@@ -1,11 +1,13 @@
-London-North-Eastern	1233	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1233					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1233	LN860	Thornhill LNW Jn – Copley Hill East Jn	Thornhill LNW Jn	Copley Hill East Jn	Y	S1	S1	N	N	N	N	N	S1 The following combinations are permitted: 2590 h x 2438 w box on FSA/FTA KFA wagons Down Line 2590 h x 2438 w box on FEA FSA/FTA KFA wagons 2590 h x 2500 w box on FSA/FTA wagons Up Line, 10 mph at Br 23 Wood Lane [34m 22ch] 2590 h x 2438 w box on FEA wagons 2590 h x 2500 w box on KFA wagons 2615 h x 2500 (S16) FT on KFA wagons Down line, 10 mph at Morley Tunnel [36m 25ch to 38m 19ch] STNC NC/G1/2009/ICP-G/LNE1 applies, valid to 31/12/12
-London-North-Eastern	1233	LN861	Bradley Jn – Bradley Wood Jn	Bradley Jn	Bradley Wood Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1233	LN862	Barnsley Station Jn – Huddersfield	Barnsley Station Jn	Huddersfield	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1233	LN864	Dewsbury Railway Street Branch	Dewsbury Railway Street Branch		Y	N	N	N	N	N	N	N
-London-North-Eastern	1233	LN868	Wincobank Jn – Horbury Jn	Wincobank Jn	Horbury Jn	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6A profile and above 3650mm in height are prohibited in both directions between Elsecar & Wombwell stations. The Rail Head Treatment Train FEA wagon is permitted without restriction. The MPV with Clayton water tank module fitted is prohibited in both directions between Elsecar & Wombwell stations. The MPV without the Clayton water tank module is restricted to 5mph through Bridge No. 57 at 170m 40ch on the Up line, and 5mph through Bridge No. 51 at 169m 50ch on the Down line.
-London-North-Eastern	1233	LN870	Wakefield Turners Lane – Calder Bridge Jn	Wakefield Turners Lane	Calder Bridge Jn	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1233	LN872	Altofts Jn – Hunslet South [ 193m 36ch ] Jn	Altofts Jn	Hunslet South [ 193m 36ch ] Jn	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1233	LN872	Hunslet South [ 193m 36ch ] Jn – Leeds West Jn	Hunslet South [ 193m 36ch ] Jn	Leeds West Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1233	LN874	Methley Jn – Whitwood Jn	Methley Jn	Whitwood Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1233	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1233														
+London-North-Eastern	1233						M	Ch	M	Ch					
+London-North-Eastern	1233	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	9	N	N	Y	N	N	N
+London-North-Eastern	1233	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	8	N	N	Y	N	N	N
+London-North-Eastern	1233	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	8	N	N	Y	N	N	N
+London-North-Eastern	1233	LN3615	GSM3	Melton Jn	Syston South Jn.	Melton Jn – Syston South Jn.	113	36	103	77	8	N	N	Y	N	N	N
+London-North-Eastern	1233	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	8	N	N	Y	N	N	N
+London-North-Eastern	1233	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1233	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1233	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1233	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1233	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	8	N	N	Y	N	H R1	N	R1 75mph maximum speed

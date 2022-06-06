@@ -1,22 +1,20 @@
-London-North-Eastern	1067	LN666	BGE	Boldon West Jn	Boldon North Jn	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	 M	 Ch	 M	 Ch	313	314	315	317	318	319	321	322	325
-London-North-Eastern	1067	LN666	GLT	Boldon North Jn	Tyne Dock	Boldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN670	JAW1	Pelaw Jn	Network Rail Boundary (Shell Mex Depot Jarrow)	Pelaw Jn – Network Rail Boundary (Shell Mex Depot Jarrow)	0	09	3	36	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN672	FEP	Wardley	Pelaw Jn	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN674	HLK	High Level Bridge Jn	Greensfield Jn (West Curve)	High Level Bridge Jn – Greensfield Jn (West Curve)	0	00	0	21	Y	Y	Y	Y	Y	N	Y	Y
-London-North-Eastern	1067	LN676	PLG1	Park Lane Jn	Site of former High Street Jn	Park Lane Jn – Site of former High Street Jn	100	65	101	15	EH	EH	EH	EH	EH	N	EH	EH
-London-North-Eastern	1067	LN676	PLG2	Site of former High Street Jn	Greensfield Jn	Site of former High Street Jn – Greensfield Jn	0	00	0	21	EH	EH	EH	EH	EH	N	EH	EH
-London-North-Eastern	1067	LN676	HLK	Greensfield Jn	King Edward Bridge South Jn	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	Y	Y	Y	Y	Y	N	Y	Y
-London-North-Eastern	1067	LN678	DAE1	Darlington North Jn	Site of former Parkgate Jn	Darlington North Jn – Site of former Parkgate Jn	44	36	44	64	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN678	DAE1	Site of former Parkgate Jn	Shildon SB	Site of former Parkgate Jn – Shildon SB	0	00	8	29	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN678	DAE2	Shildon SB	Bishop Auckland	Shildon SB – Bishop Auckland	8	29	11	23	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN682	NEC1	King Edward Bridge South Jn	Norwood Jn	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN682	NEC1	Norwood Jn	Site of former Blaydon East Jn	Norwood Jn – Site of former Blaydon East Jn	1	71	5	28	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN682	NEC2	Site of former Blaydon East Jn	Route Boundary (NW9909) (Petteril Bridge Jn)	Site of former Blaydon East Jn – Route Boundary (NW9909) (Petteril Bridge Jn)	3	78	58	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN684	NLF	Low Fell Jn	Limit of Electrification	Low Fell Jn – Limit of Electrification	0	00	1	26	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN684	NLF	Limit of Electrification	Norwood Jn	Limit of Electrification – Norwood Jn	1	26	1	42	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN694	BNE	Benton North Jn	Site of former Earsdon Jn	Benton North Jn – Site of former Earsdon Jn	0	00	2	53	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN694	EJM	Site of former Earsdon Jn	Morpeth North Jn	Site of former Earsdon Jn – Morpeth North Jn	7	08	20	47	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN696	HJM	Hepscott Jn	Morpeth Jn	Hepscott Jn – Morpeth Jn	19	44	20	47	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN700	BWO2	Butterwell Jn	Signal B1	Butterwell Jn – Signal B1	0	00	0	48	N	N	N	N	N	N	N	N
-London-North-Eastern	1067	LN702	BWC	Bedlington North	Network Rail Boundary (Lynemouth Colliery)	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N
+London-North-Eastern	1067	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1067	LN898	HUL2	Selby South Jn	Site of former Barlby Jn	Selby South Jn – Site of former Barlby Jn	31	12	30	40	Y	N	Y	Y	Y	N	N	Y
+London-North-Eastern	1067	LN898	HUL1	Site of former Barlby Jn	Anlaby Road Jn	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	Y	N	Y	Y	Y	N	N	Y
+London-North-Eastern	1067	LN898	HUL1	Anlaby Road Jn	Hull	Anlaby Road Jn – Hull	0	73	0	00	R1 R2 R4 R6	N	R1 R5 R6	R1 R3 R6	R7	N	N	R1	R1 Prohibited Hull platform 1 R2 Prohibited Hull platform 2 R3 Prohibited the last 30m of Hull platform 2 R4 Prohibited Hull platform 3 with deflated suspension R5 Prohibited Hull platform 3 R6 Prohibited Hull Siding A R7 Prohibited Hull platform 5
+London-North-Eastern	1067	LN900	HUE	Neville Hill West Jn	Hunslet East	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N
+London-North-Eastern	1067	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1067	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1067	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1067	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	Y	Y	N
+London-North-Eastern	1067	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	Y	N	Y	N	Y	Y	Y	Y
+London-North-Eastern	1067	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	Y	N	Y	N	Y	Y	Y	Y
+London-North-Eastern	1067	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	Y	N	Y	Y	Y	N	N	Y
+London-North-Eastern	1067	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	Y	N	Y	Y	Y	N	N	Y
+London-North-Eastern	1067	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	Y	N	Y	Y	Y	N	N	Y
+London-North-Eastern	1067	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	Y	N	Y	Y	Y	N	N	Y
+London-North-Eastern	1067	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	R2	N	R1	Y	Y	N	N	N	R1 Prohibited Beverley to Seamer West Jn R2 Prohibited Bridlington platform 4 with deflated suspension
+London-North-Eastern	1067	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	Y	N	Y	N	N	N	N	N
+London-North-Eastern	1067	LN916	HJS	Springbank North Jn	Network Rail Boundary	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N
+London-North-Eastern	1067	LN918	SPW	Springbank North Jn	Walton Street Jn	Springbank North Jn – Walton Street Jn	1	54	1	29	Y	N	Y	N	N	N	N	N
+London-North-Eastern	1067	LN920	AWP	Anlaby Road Jn	West Parade North Jn	Anlaby Road Jn – West Parade North Jn	0	00	0	24	Y	N	E	Y	Y	N	N	Y

@@ -1,46 +1,45 @@
-                                                                                           OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                                          LNE Route Sectional Appendix Module LNRC
+                                                                   LNE Route Sectional Appendix Module LNRC
 
 
 
-LN880    YMS     York (platform 2 and maintenance         0    0     0      15    Y    Y      Y       N   N   N      N   N   Y
-                 sidings) – Connection to Up line
-LN882    WAG1 Wakefield Kirkgate West Jn –                47   43    48     28    Y    Y      Y       N   N   N      Y   N   Y
-              Calder Bridge Jn
-LN882    WAG1 Calder Bridge Jn – Crofton West             48   28    49     40    Y    Y      Y       N   N   N      Y   Y   Y
-              Jn
-LN882    WAG1 Crofton West Jn – Knottingley               49   40    58     20    Y    Y      Y       N   N   N      Y   N   Y
-              West Jn
-LN882    WAG1 Knottingley West Jn – Engine                58   20    73     52    Y    Y      Y       N   N   N      N   N   R1 R1   Prohibited between Kellingley Colliery
-              Shed Jn                                                                                                                Branch Jn and Engine Shed Jn
-LN882    WAG2 Engine Shed Jn – Goole Potters              0    64    0      00    Y    Y      Y       N   N   N      N   N   N
-              Grange Jn
-LN884    OAJ     Oakenshaw South Jn –                     49   41    48     76    N    N      N       N   N   Y      N   N   N
-                 Oakenshaw Jn.
-LN886    TJC3    Monk Bretton – Oakenshaw South          176   22   181     75    Y    Y      Y       N   N   N      N   N   N
-                 Jn
-LN886    OSC     Oakenshaw South Jn – Crofton            181   75   183     04    Y    Y      Y       N   N   N      N   N   N
-                 East Jn
-LN888    CJS     Stainforth Jn – Thorpe Marsh Jn         166   70   163     76    Y    Y      Y       N   N   N      N   N   N
-LN888    HTM     Thorpe Marsh Jn – Haywood Jn             69   56    67     66    Y    Y      Y       N   N   N      N   N   N
-LN888    KWS     Haywood Jn – Knottingley West Jn         67   66    58     20    Y    Y      Y       N   N   N      Y   Y   Y
-LN888    FKW     Knottingley West Jn – Ferrybridge        2    71    2      27    Y    Y      Y       N   N   N      Y   Y   Y
-                 North Jn
-LN889    KWS     Shaftholme Jn – Haywood Jn               68   75    67     66    Y    Y      Y       N   N   N      Y   Y   Y
-LN892    PEF     Pontefract East Jn – Ferrybridge         3    06    2      38    N    N      N       N   N   N      N   N   Y
-                 South Jn
-LN894    KES     Knottingley South Jn – Knottingley       0    00    0      20    Y    Y      Y       N   N   N      N   N   Y
-                 East Jn
-LN896    DRA1    Drax Branch Jn – Drax Power              0    00    4      16    N    N      N       N   N   N      N   N   N
-                 Station (NR Boundary)
-LN898    HUL4    Neville Hill East Jn – Micklefield Jn    18   25    10     63    Y    Y      Y       N   N   N      Y   Y   Y
-LN898    HUL4    Micklefield Jn – Micklefield             10   63    10     60    Y    Y      Y       N   N   N      Y   N   Y
-                 Change of ELR
-LN898    HUL3    Micklefield Change of ELR –              10   60    6      27    Y    Y      Y       N   N   N      Y   N   Y
-                 Gascoigne Wood Jn
-LN898    HUL3    Gascoigne Wood Jn – Selby West           6    27    0      36    Y    Y      Y       N   N   N      Y   N   Y
-                 Jn
-LN898     HUL3   Selby West Jn – Selby South Jn           0    36    0      00    Y    Y      Y       N   N   N      N   N   Y
-October 2009                                                                                  48H
+Line of ELR     Line of Route / Sector               oooo oooo oooo oooo 317 319 321 322 325 377 380 387 390 700 Notes
+route           Description                           M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+
+LN3525     KSL Knighton Jn – Leicester Jn              97   45   127   00    N     N        N    N      H     N   N   N   N    N
+LN3535     BCJ Birmingham Curve Jn – Branston Jn      126   40   127   19    N     N        N    N      H     N   N   N   N    N
+LN3601    GSM1 Kettering North Jn – Manton Jn          74   00    90   25    N     N        N    N      H     N   N   N   N    N
+LN3605    BSC Corby BSC Works – Corby North            2    05    0    00    N     N        N    N      N     N   N   N   N    N
+LN3610    BSC Corby Automotive Terminal – Corby        1    10    0    00    N     N        N    N      N     N   N   N   N    N
+              North
+LN3615    PMJ Route Boundary (LN147) – Uffington       13   60    12   75    N     N        N    N      H     N   N   N   N    N
+              SB
+LN3615    PMJ Uffington SB – Manton Jn                 12   75    0    00    N     N        N    N      H     N   N   N   N    N
+LN3615    GSM2 Manton Jn – Melton Jn                   90   25   105   70    N     N        N    N      H     N   N   N   EH   N   R1   45mph over bridge 23
+                                                                                                                          R1            Leicester Road on the
+                                                                                                                                        Down Line at 105m 65ch
+LN3615    GSM3 Melton Jn – Syston South Jn            113   36   103   77    N     N        N    N      H     N   N   N   EH   N   R1   25mph over bridge 15
+                                                                                                                          R1            Kirkby Road on the Up Line
+                                                                                                                          R2            at 111m 63ch
+                                                                                                                                   R2   55mph over bridge 19
+                                                                                                                                        Copley's Occupation on the
+                                                                                                                                        Up Line at 112m 56ch
+LN3620    GSM4 Melton Jn GF – Asfordby                105   70   107   20    N     N        N    N      N     N   N   N   EH   N
+LN3625    TSN1 Nottingham East Jn – Change of ELR     123   27   123   23    N     N        N    N      H     N   N   N   N    N
+               (Nottingham East Jn)
+LN3625    NOB1 Change of ELR (Nottingham East Jn)      0    00    16   02    N     N        N    N      H     N   N   N   N    N
+               – Route Boundary (LN206) (Coulson)
+LN3635    NOG1 Route Boundary (LN195)                 111   60   123   76    N     N        N    N      H     N   N   N   N    N
+               (Nottingham Branch Jn) – Rectory Jn
+               SB
+LN3635    NOG1 Rectory Jn SB – Change of ELR          123   76   125   25    N     N        N    N      H     N   N   N   N    N
+               (Netherfield)
+LN3635    NOG2 Change of ELR (Netherfield) –           2    54    2    35    N     N        N    N      H     N   N   N   N    N
+               Netherfield Jn
+
+
+
+
+October 2009                                                                           41

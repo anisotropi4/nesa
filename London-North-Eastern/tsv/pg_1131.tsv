@@ -1,17 +1,19 @@
-London-North-Eastern	1131	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-London-North-Eastern	1131	LN3201	SPC6	Change of ELR (Ratcliffe)	Change of ELR (Spondon)	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	Y	Y	Y	EH R1 R2	N	Y	N	R1 Prohibited between Trent South Jn and Change of ELR (Spondon) R2 Prohibited with footsteps fitted
-London-North-Eastern	1131	LN3201	SPC7	Change of ELR (Spondon)	London Road Jn	Change of ELR (Spondon) – London Road Jn	126	27	128	23	Y	Y	Y	N	N	Y	N
-London-North-Eastern	1131	LN3201	SPC8	London Road Jn	Derby Jn	London Road Jn – Derby Jn	127	54	128	08	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1131	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1131	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1131	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	Y	Y	Y	EH R1 R2	N	R1	N	R1 Prohibited between Toton North Jn and Change of ELR R2 Prohibited with footsteps fitted
-London-North-Eastern	1131	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N
-London-North-Eastern	1131	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N
-London-North-Eastern	1131	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360) (Dudding Hill)	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	Y	Y	Y	N	N	N	N
-London-North-Eastern	1131	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1131	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	Y	Y	Y	N	N	N	Y	N	N
+London-North-Eastern	1131	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1131	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	Y	Y	Y	N	N	N	Y	N	N
+London-North-Eastern	1131	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	Y	Y	N	N	N	Y	N	N
+London-North-Eastern	1131	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	N	N	N	Y	N	N
+London-North-Eastern	1131	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	Y	Y	N	N	N	Y	N	N
+London-North-Eastern	1131	LN215	BHP	Boultham Jn	Pyewipe Jn	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	N	N	N	Y	N	N
+London-North-Eastern	1131	LN220	BCB	Bessacarr Jn	Black Carr Jn	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	N	N	N	Y	Y	N
+London-North-Eastern	1131	LN235	FWR1	Rossington Colliery Jn	End of Line	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1131	LN235	FWR2	Rossington Colliery	End of Line	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1131	LN600	ECM2	Shaftholme Jn	Temple Hirst Jn	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM3	Temple Hirst Jn	Colton Jn	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM4	Colton Jn	Colton North Jn	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM4	Colton North Jn	York Station	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM5	York Station	Birtley Jn	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM5	Birtley Jn	Low Fell Jn (including via Tyne Yard)	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1131	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	R1	N	N	N	R1	Y	R2 R3 R4	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 9, 10 and 12 R3 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R4 Prohibited Newcastle platforms 4 and 11 with deflated suspension

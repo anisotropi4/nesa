@@ -1,46 +1,51 @@
-                                                                                          OFFICIAL
+                                                                                       OFFICIAL
 
 
                                                                         LNE Route Sectional Appendix Module LNRC
 
 
+Line of ELR      Line of Route / Sector                oooo oooo oooo oooo 317 319 321 322 325 377 380 387 390 700 Notes
+route            Description                            M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
 
-LN862    PED2   Barnsley Station Jn – Site of           6    43    0      00    Y    Y       Y       N   N   N     N   N   N
-                former Barnsley Jn
-LN862    PED1   Site of former Barnsley Jn – Site of    29   13    28     37    Y    Y       Y       N   N   N     N   N   N
-                former Huddersfield Jn
-LN862    PEH    Site of former Huddersfield Jn –        13   42    1      18    Y    Y       Y       N   N   N     N   N   N
-                Lockwood
-LN862    PEH    Lockwood – Springwood Jn                1    18    0      40    Y    Y       N       N   N   N     N   N   N
-LN862    MVL3   Springwood Jn – Huddersfield            0    40    0      00    Y    Y       N       N   N   N     N   N   N
-LN864    DRS1   Dewsbury Railway Street –               0    10    0      00    N    N       N       N   N   N     N   N   N
-                Change of Mileage
-LN864    DRS1   Change of Mileage – Dewsbury            0    27    0      00    N    N       N       N   N   N     N   N   N
-                East Jn
-LN868    SHB    Wincobank Jn – Site of former          161   52   173     48    Y    Y       Y       N   N   N     N   N   N
-                Quarry Jn
-LN868    PED2   Site of former Quarry Jn –              7    50    6      43    Y    Y       Y       N   N   N     N   N   N
-                Barnsley Station Jn
-LN868    BAH2   Barnsley Station Jn – Site of           52   58    45     56    Y    Y       Y       N   N   N     N   N   N
-                former Crigglestone Jn
-LN868    CHS    Site of former Crigglestone Jn –        1    53    0      00    Y    Y       Y       N   N   N     N   N   N
-                Horbury Jn
-LN870    CTL    Wakefield Turners Lane – Calder         0    50    0      00    Y    Y       Y       N   N   N     N   Y   Y
-                Bridge Jn
-LN872    TJC3   Altofts Jn – Hunslet South Jn          185   73   193     40    Y    Y       Y       N   N   N     Y   N   Y
-LN872    TJC3   Hunslet South Jn – Engine Shed         193   40   195     20    Y    Y       Y       N   N   N     N   N   Y
-                Jn
-LN872    ELN    Engine Shed Jn – Leeds West Jn         195   20   195     53    Y    Y       Y       N   N   N     N   N   Y
-LN874    MEW2 Methley Jn – Whitwood Jn                  1    12    0      01    Y    Y       Y       N   N   N     N   N   Y
-LN875    CPM2 Castleford West Jn – Cutsyke Jn           0    00    0      61    Y    Y       Y       N   N   N     N   N   Y
-LN875    CPM1 Cutsyke Jn – Pontefract West Jn           59   02    56     42    Y    Y       Y       N   N   N     N   N   Y
-LN876    BOO    Castleford East Jn – Ledston            6    17    4      43    N    N       N       N   N   N     N   N   N
-LN878    SHG    Sherburn Jn – Gascoigne Wood            13   20    14     30    Y    Y       Y       N   N   N     Y   N   Y
-                Jn
-LN880    YMS    York (platforms 4 & 5) –                0    00    42     06   R1    R1     R2       N   N   N     N   N   R3 R1    Prohibited Scarborough platform 3
-                Scarborough (platforms 1 to 5)                                 R2    R2                                             when laden
-                                                                                                                               R2   Prohibited Scarborough platform 5
-                                                                                                                               R3   Prohibited Scarborough Bay platform 4
+LN3252    MJT1   Mansfield Jn – Radford Jn              124   22   125     55     N     N        N    N      H     N   N    N   N    N
+LN3252    MJT2   Radford Jn – Trowell South Jn          125   55   130     51     N     N        N    N      H     N   N    N   N    N
+LN3255    RAC    Radford Jn – Newstead                  125   55   134     20     N     N        N    N      H     N   N    N   N    N
+LN3255    RAC    Newstead – Kirkby Lane End Jn          134   20   136     66     N     N        N    N      H     N   N    N   N    N
+LN3261    THL    Trent South Jn – Toton South Jn        119   17   121     36     N     N        N    N      H     N   N    N   N    N
+                 (High Level Lines)
+LN3264    AML    Attenborough Jn – Meadow Lane Jn       0     62    0      00     N     N        N    N      H     N   N    N   N    N
+                 (Attenborough Curve)
+LN3273    TCC    Codnor Park Jn – Ironville Jn          132   76   133     18     N     N        N    N      H     N   N    N   N    N
+LN3273    PBS1   Ironville Jn – Kirkby Summit           133   18   138     79     N     N        N    N      H     N   N    N   N    N
+                 Crossover
+LN3273    PBS2   Kirkby Summit Crossover – Mansfield    137   11   140     40     N     N        N    N      H     N   N    N   N    N
+                 ELR Change
+LN3273    PBS3   Mansfield Change of ELR – Route        140   40   143     00     N     N        N    N      H     N   N    N   N    N
+                 Boundary (LN768) (Shireoaks East
+                 Jn)
+LN3340    BJW3   Route Boundary (MD340) (Lichfield      19    00   23      33     N     N        N    N      H     N   EH   N   EH   N
+                 Trent Valley) – Wichnor Jn
+LN3501    DBP1   London Road Jn – Route Boundary        0     00   23      30     N     N        N    N      H     N   EH   N   EH   N   R1   Prohibited between Wichnor
+                 (MD501) (Kingsbury Jn)                                                                                R1       R2            Jn and Route Boundary
+                                                                                                                                R3            (MD501) (Kingsbury Jn)
+                                                                                                                                R4       R2   15mph Burton on Trent Up
+                                                                                                                                R5            Main platform
+                                                                                                                                         R3   Prohibited Derby platform 4
+                                                                                                                                         R4   5mph Derby platform 3
+                                                                                                                                         R5   Prohibited Down and Up
+                                                                                                                                              Goods lines between Clay
+                                                                                                                                              Mills Jn and Leicester Jn
+LN3505    NSS North Stafford Jn – Route Boundary        30    10    1      40     N     N        N    N      H     N   N    N   N    N
+               (NW5012) (Stoke Jn)
+LN3515    MJS1 Melbourne Jn – Sinfin                   131    15   130     37     N     N        N    N      N     N   N    N    N   N
+LN3520    SSJ1 Sheet Stores Jn – Change of ELR         119    62   127     20     N     N        N    N      H     N   N    N   EH   N
+               (Site of Former Chellaston East Jn)
+LN3520    MJS1 Change of ELR (Site of Former           127    20   128     00     N     N        N    N      H     N   N    N   EH   N
+               Chellaston East Jn) – Change of ELR
+               (Site of Former Chellaston West Jn)
+LN3520    SSJ2 Change of ELR (Site of Former           128    00   132     12     N     N        N    N      H     N   N    N   EH   N   R1   15mph over bridge 10
+               Chellaston West Jn) – Stenson Jn                                                                                 R1            Swarkestone Road on the
+                                                                                                                                              Down Line 128m 14ch
 
 
-October 2009                                                                                 48G
+October 2009                                                                                40

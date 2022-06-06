@@ -5,41 +5,29 @@
 
 
 
-Line of ELR     Line of Route / Sector                   oooo oooo oooo oooo   RA     86        87    88        90     91     92     Notes
-route           Description                               M    Ch M Ch               0000      0000            0000   0000   0000
-LN652    POC2   Phillips Siding Jn – Seal Sands Branch     3   25    5    01    8      N        N     Y         N      N      N
-                Jn
-LN652    SES    Seal Sands Branch Jn – End of NR           0   00    2    44    8      N        N     Y         N      N      N
-                maintenance
-LN656    SOT    Seaton Snook Jn – Seaton-on-Tees           0   00    1    51    8      N        N     Y         N      N      N
-LN662    HNB    Ryhope Grange – Hendon                     0   00    1    53    8      N        N     Y         N      N      N
-LN664    BNW    Boldon East Jn – Boldon North Jn           0   00    0    20    8      N        N     Y         N      N      N
-LN666    BGE    Boldon West Jn – Boldon North Jn           0   00    0    32    8      N        N     Y         N      N      N
-LN666    GLT    Boldon North Jn – Tyne Dock                0   32    1    26    8      N        N     Y         N      N      N
-LN670    JAW1   Pelaw Jn – Network Rail Boundary           0   09    3    36    8      N        N     Y         N      N      N
-                (Shell Mex Depot Jarrow)
-LN672    FEP    Wardley – Pelaw Jn                        19   70    20   75    8      N        N     Y         N      N      N
-LN674    HLK    High Level Bridge Jn – Greensfield Jn      0   00    0    21    8      Y        Y     Y         Y      Y      Y
-                (West Curve)
-LN676    PLG1   Park Lane Jn – Site of Former High       100   65   101   15    8      H        H     Y         H      H      N
-                Street Jn
-LN676    PLG2   Site of Former High Street Jn –            0   00    0    21    8      H        H     Y         H      H      N
-                Greensfield Jn
-LN676      HLK Greensfield Jn – King Edward Bridge         0   16    0    48    8      Y        Y     Y         Y      Y      Y
-               South Jn
-LN678    DAE1   Darlington North Jn – Site of Former      44   36    44   64    8      N        N     Y         N      N      N
-                Parkgate Jn
-LN678    DAE1   Site of Former Parkgate Jn – Shildon       0   00    8    29    8      N        N     Y         N      N      N
-                SB
-LN678    DAE2   Shildon SB – Bishop Auckland               8   29    11   23    8      N        N     Y         N      N      N
-LN682    NEC1   King Edward Bridge South Jn –              0   48    1    71    8      H        H     Y         H      H      H
-                Norwood Jn
-LN682    NEC1   Norwood Jn – Site of Former Blaydon        1   71    5    28    8      H        H     Y         H     H       H     R1   Prohibited Dunston Down platform with
-                East Jn                                                                                               R1                 deflated suspension
-LN682    NEC2   Site of Former Blaydon East Jn –           3   78    58   00    8     H        H      Y        H      H      H      R1   30mph Wylam Down platform
-                Route Boundary (NW9909) (Petteril                                     R2       R2              R2     R1     R2     R2   15mph through Whitchester Tunnel
-                Bridge Jn)                                                                                            R2
-LN684    NLF    Low Fell Jn – Limit of Electrification     0   00    1    26    8      Y        Y     R1        Y      Y      Y     R1   Prohibited Royal Mail Terminal platform
-LN684    NLF     Limit of Electrification – Norwood Jn     1   26    1    42    8      N        N     Y         N      N      N
 
-October 2009                                                                           73
+Line of ELR     Line of Route / Sector Description            oooo oooo oooo oooo RA          60   66   67         68    70   73 97/3      Notes
+route                                                          M    Ch M      Ch             0000 0000 0000             0000 0000 0000
+LN774    BAC2   Barrow Hill North Jn – Seymour Jn SB          149   53   152   21     7        Y     Y         N   Y     Y    Y    Y
+LN774    BAC3   Seymour Jn SB – Oxcroft Disposal Point        155   06    0    78     7        Y     Y         N   Y     Y    Y    Y
+LN776    HLF1   Hall Lane Jn – Change of ELR                    0   44    0    00     7        Y     Y         N   Y     Y    Y    Y
+LN776    HLF2   Change of ELR – Foxlow Jn                     150   47   150   64     7        Y     Y         N   Y     Y    Y    Y
+LN778    BOC1 Seymour Jn – Bolsover                             7   51    5    21     7        R1   R1         N   R1   R1    R1   R1    R1   Line out of use between Site of former
+                                                                                                                                              Markham Colliery Jn and Bolsover
+                                                                                                                                         NC/G1/2010/LNE/020V
+LN782    SHW    Woodend Jn – Shireoaks West Jn                153   71   154   36     8        Y     Y         Y   Y     Y    Y    Y
+LN784    HIM    High Marnham – Thoresby Colliery Jn            27   48    17   16     8        Y     Y         Y   Y     Y    Y    Y
+LN784    HIM    Thoresby Colliery Jn – Warsop Jn               17   16    10   59     8        Y     Y         Y   Y     Y    Y    Y
+LN784    HIM    Warsop Jn – Shirebrook South Jn                10   59    10   19     8        Y     Y         Y   Y     Y    Y    Y
+LN784    HIM    Shirebrook South Jn – Shirebrook East Jn       10   19    9    72     10       Y     Y         Y   Y     Y    Y    Y
+LN786    BEC    Boughton Jn – Network Rail Boundary             0   00    4    22     -        N     N         N   N     N    N    N     Line out of use from 01m 0ch to Network
+                (Bevercotes Colliery)                                                                                                    Rail Boundary (Bevercotes Colliery)
+                                                                                                                                         LN213/PJ1037
+LN788    TYC    Thoresby Colliery Jn – Thoresby Colliery        0   00    0    42     7        Y     Y         N   Y     Y    Y    Y
+LN802    WKC    Welbeck Colliery Jn – Network Rail Boundary     0   00    2    63     7        Y     Y         N   Y     Y    Y    Y
+                (RJB)
+
+
+
+
+October 2009                                                                           67C

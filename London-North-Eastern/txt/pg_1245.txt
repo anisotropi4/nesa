@@ -1,46 +1,54 @@
-                                                                                     OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                                LNE Route Sectional Appendix Module LNRC
-
-
-
-    Line of    ELR    Line of Route / Sector                  oooo oooo oooo oooo RA Loco Gauge Notes
-    route             Description                              M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-    LN642      SSK1   Saltburn West Jn – Network Rail          27   05    34   29    8          Y
-                      Boundary (Cleveland Potash)
-    LN644      BOH    Hartburn Jn – Bowesfield SB               0   00     0   44    8          Y
-                      (Hartburn Curve)
-    LN646      STF    Norton-on-Tees South – Ferryhill          0   00    10   72    8          Y
-                      South Jn
-    LN648      NWE    Norton-on-Tees West – Norton-on-          0   29     0   00    8          Y
-                      Tees East
-    LN652      POC1   Billingham Jn – Phillips Siding Jn        0   00     3   25    8          Y
-    LN652      POC2   Phillips Siding Jn – Seal Sands           3   25     5   01    8          Y
-                      Branch Jn
-    LN652      SES    Seal Sands Branch Jn – End of NR          0   00     2   44    8          Y
-                      maintenance
-    LN656      SOT    Seaton Snook Jn – Seaton-on-Tees          0   00     1   51    8          Y
-    LN662      HNB    Ryhope Grange – Hendon                    0   00     1   53    8          Y
-    LN664      BNW    Boldon East Jn – Boldon North Jn          0   00     0   20    8          Y
-    LN666      BGE    Boldon West Jn – Boldon North Jn          0   00     0   32    8          Y
-    LN666      GLT    Boldon North Jn – Tyne Dock               0   32     1   26    8          Y
-    LN670      JAW1   Pelaw Jn – Network Rail Boundary          0   09     3   36    8          Y
-                      (Shell Mex Depot Jarrow)
-    LN672      FEP    Wardley – Pelaw Jn                       19   70    20   75    8          R1     R1   Prohibited between Wardley and Pelaw Jn on the Down Leamside
-                                                                                                            line
-    LN674      HLK    High Level Bridge Jn – Greensfield Jn     0   00     0   21    8          Y
-                      (West Curve)
-    LN676      PLG1   Park Lane Jn – Site of Former High      100   65   101   15    8          Y
-                      Street Jn
-    LN676      PLG2   Site of Former High Street Jn –           0   00     0   21    8          Y
-                      Greensfield Jn
-    LN676      HLK    Greensfield Jn – King Edward Bridge       0   16     0   48    8          Y
-                      South Jn
-    LN678      DAE1   Darlington North Jn – Site of Former     44   36    44   64    8          Y
-                      Parkgate Jn
+                                                                   LNE Route Sectional Appendix Module LNRC
 
 
 
+ Line of       Line of Route / Sector                                             Gauge                              Notes
+ Route         Description
+                                                       W6   W7     W8        W9     W9Plus      W10     W10A   W12
+ LN804         Dore South Jn – Sheffield Station       Y*   Y      Y         N      N           N       N      N     S1 The following combinations are permitted:
+                                                            Up     Up                                                   2590 h x 2438 w box on FSA/FTA
+                                                            Line   Line                                                 wagons
+                                                                                                                        Down Line
+                                                            S1     S1                                                STNC NC/G1/2009/ICP-G/LNE010 applies, valid to
+                                                                                                                     31/12/12
+                                                            Down   Down
+                                                            Line   Line
+ LN804         Sheffield Station – Nunnery Main Line   Y*   Y      Y         N      N           N       N      N     S1 The following combinations are permitted:
+               Jn                                           Up     Up                                                   2590 h x 2438 w box 2590 h x 2500 w
+                                                            Line   Line                                                 box on FEA FSA/FTA KFA wagons
+                                                                                                                        Down Line
+                                                            S1     S1                                                   2625 h x 2550 w (S17) FT on FSA/FTA
+                                                            Down   Down                                                 wagons
+                                                            Line   Line                                                 Down Line
+                                                                                                                        2896 h x 2438 w box on FLA wagons
+                                                                                                                        Down Line
+                                                                                                                     STNC NC/G1/2009/ICP-G/LNE010 applies, valid to
+                                                                                                                     31/12/12
+ LN804         Nunnery Main Line Jn – Gascoigne        Y*   Y      Y         R1     R1          R1      R1     R1    R1 Between Masborough Jn and Moorthorpe
+               Wood                                                          R2     R2          R2      R2     R2       Jn only
+                                                                                                                     R2 PROHIBITED from using the training
+                                                                                                                        crossover at Moorthorpe Station
+ LN804         Holmes Junction to CF Booth             Y    N      N         N      N           N       N      N
+               Scrapyard (NR Limit)
+ LN806         Tapton Jn – Masborough Jn               Y*   Y      Y         R1     R1          R1      R1     R1    R1 PROHIBITED from Westthorpe Run
+                                                                             R2     R2          R2      R2     R2       Round
+                                                                                                                     R2 PROHIBITED from Barrow Hill Up sidings
+ LN807         Dore South Jn – Dore West Jn            Y    N      N         N      N           N       N      N
+ LN808         Dore Station Jn – Totley Tunnel East    Y*   N      N         N      N           N       N      N
+ LN809         Shepcote Lane West Jn – Tinsley Yard    Y    Y      Y         Y      Y           Y       Y      Y
+               East End
+ LN810         Shepcote Lane West Jn – Tinsley         Y    Y      Y         Y      Y           Y       Y      Y
+               South Jn
+ LN812         Shepcote Lane East Jn – Broughton       Y    Y      Y         Y      Y           Y       Y      Y
+               Lane Jn
+ LN816         Beighton Jn – Woodhouse Jn              Y    Y      N         N      N           N       N      N
+ LN818         Holmes Curve                            Y    Y      Y         N      N           N       N      N
+ LN824         Moorthorpe Jn – South Kirkby Jn         Y    Y      Y         Y      Y           Y       Y      Y
 
-October 2009                                                                             112
+
+
+
+October 2009                                                                            97

@@ -1,43 +1,46 @@
-                                                                                      OFFICIAL
+                                                                                         OFFICIAL
 
 
-                                                                      LNE Route Sectional Appendix Module LNRC
+                                                                          LNE Route Sectional Appendix Module LNRC
 
-Line of ELR Line of Route / Sector Description             oooo ooo oooo oooo 325 333 345 357 357 365                377 378 Notes
-route                                                       M    o   M    Ch ooo ooo ooo ooo MOD ooo                  ooo ooo ooooooooooooooooooooooooo
-                                                                Ch                                                            oo
-LN210 NSE      Newark Crossing South Jn – Newark             0   00       0    21    H     N     N    N    N     N   N    N
-               Crossing East Jn
-LN215 BHP      Boultham Jn – Pyewipe Jn                      0   00       0    65    H     N     N    N    N     N   N    N
-LN220 BCB      Bessacarr Jn – Black Carr Jn                115   72     116    44    H     N     N    N    N     N   N    N
-LN235 FWR1 Rossington Colliery Jn – End of Line            152   12     151    69    H     N     N    N    N     N   N    N
-LN235 FWR2 Rossington Colliery – End of Line               153   31     151    69    H     N     N    N    N     N   N    N
-LN600 ECM2 Shaftholme Jn – Temple Hirst Jn                 160   16     169    16    Y     N     N    N    N     N   N    N
-LN600 ECM3 Temple Hirst Jn – Colton Jn                     169   16     182    79    Y     N     N    N    N     N   N    N
-LN600 ECM4 Colton Jn – Colton North Jn                     182   79     183    65    Y     N     N    N    N     N   N    N
-LN600 ECM4 Colton North Jn – York Station                  183   65     188    40    Y     N     N    N    N     N   N    N
-LN600 ECM5 York Station – Birtley Jn                         0   00      75    26    Y     N     N    N    N     N   N    N
-LN600 ECM5 Birtley Jn – Low Fell Jn (including via Tyne     75   26      77    37    Y     N     N    N    N     N   N    N
-           Yard)
-LN600 ECM5 Low Fell Jn – King Edward Bridge South Jn        77   37      79    42    Y     N     N    N    N     N   N    N
-LN600 ECM5 King Edward Bridge South Jn – Newcastle          79   42      80    05    Y     N     N    N    N     N   N    N
-           West Jn
-LN600 ECM6 Newcastle West Jn – Newcastle                    80   05      80    16    Y     N     N    N    N     N   N    N
-LN600 ECM7 Newcastle – Newcastle East Jn                     0   00       0    14    Y     N     N    N    N     N   N    N
-LN600 ECM7 Newcastle East Jn – Heaton South Jn               0   14       1    65    Y     N     N    N    N     N   N    N
-LN600 ECM7 Heaton South Jn – Route Boundary (SC147)          1   65      69    67    Y     N     N    N    N     N   N    N
-           (Prestonpans Jn)
-LN618 HOS Holgate Jn – Skelton Jn via York Yard South        0   00       1    54    Y     N     N    N    N     N   N    N
-LN620 KEB      King Edward Bridge East Jn – King Edward      0   00       0    13    H     N     N    N    N     N   N    N
-               Bridge North Jn (East Curve)
-LN622 NEN1 Newcastle Forth Jn – Forth Banks                  0   11       0    73    H     N     N    N    N     N   N    N
-LN624 REB4 Northallerton Castle Hills Jn – Network Rail      0   04       0    18    N     N     N    N    N     N   N    N
-           Boundary (Wensleydale Railway)
-LN626 LEN2 Northallerton High Jn – Northallerton East Jn     0   00       0    36    H     N     N    N    N     N   N    N
-LN627 LLP1 Longlands Jn (Down Line) – Boroughbridge         28   58      29    72    H     N     N    N    N     N   N    N
-           Road LC
-LN627 LLP3 Longlands Jn (Up Line) – Boroughbridge            0   69       0    00    H     N     N    N    N     N   N    N
-           Road LC
-LN627 LLP2 Boroughbridge Road LC – Northallerton East       42   21      42    79    H     N     N    N    N     N   N    N
-           Jn
-October 2009                                                                             37B
+
+LN666    BGE    Boldon West Jn – Boldon North Jn          0    00    0       32     N      N        N    N     N     N    N   N
+Line of ELR     Line of Route / Sector                   oo    oo   oo      oo    313 314 315 317             318    319 321 322   325
+route           Description                              oo    oo   oo      oo    ooo ooo ooo ooo             ooo    ooo ooo ooo   ooo
+                                                         M     Ch   M       Ch
+LN666    GLT    Boldon North Jn – Tyne Dock               0    32    1       26     N      N        N    N     N     N    N   N
+LN670    JAW1   Pelaw Jn – Network Rail Boundary          0    09    3       36     N      N        N    N     N     N    N   N
+                (Shell Mex Depot Jarrow)
+LN672    FEP    Wardley – Pelaw Jn                        19   70    20      75     N      N        N    N     N     N    N   N
+LN674    HLK    High Level Bridge Jn – Greensfield Jn     0    00    0       21     Y      Y        Y    Y     Y     N    Y   Y
+                (West Curve)
+LN676    PLG1   Park Lane Jn – Site of former High       100   65   101      15    EH     EH        EH   EH    EH    N   EH   EH
+                Street Jn
+LN676    PLG2   Site of former High Street Jn –           0    00    0       21    EH     EH        EH   EH    EH    N   EH   EH
+                Greensfield Jn
+LN676    HLK    Greensfield Jn – King Edward Bridge       0    16    0       48     Y      Y        Y    Y     Y     N    Y   Y
+                South Jn
+LN678    DAE1   Darlington North Jn – Site of former      44   36    44      64     N      N        N    N     N     N    N   N
+                Parkgate Jn
+LN678    DAE1   Site of former Parkgate Jn – Shildon      0    00    8       29     N      N        N    N     N     N    N   N
+                SB
+LN678    DAE2   Shildon SB – Bishop Auckland              8    29    11      23     N      N        N    N     N     N    N   N
+LN682    NEC1   King Edward Bridge South Jn –             0    48    1       71     N      N        N    N     N     N    N   N
+                Norwood Jn
+LN682    NEC1   Norwood Jn – Site of former Blaydon       1    71    5       28     N      N        N    N     N     N    N   N
+                East Jn
+LN682    NEC2   Site of former Blaydon East Jn – Route    3    78    58      00     N      N        N    N     N     N    N   N
+                Boundary (NW9909) (Petteril Bridge
+                Jn)
+LN684    NLF    Low Fell Jn – Limit of Electrification    0    00    1       26     N      N        N    N     N     N    N   N
+LN684    NLF     Limit of Electrification – Norwood Jn    1    26    1       42     N      N        N    N     N     N    N   N
+LN694    BNE    Benton North Jn – Site of former          0    00    2       53     N      N        N    N     N     N    N   N
+                Earsdon Jn
+LN694    EJM    Site of former Earsdon Jn – Morpeth       7    08    20      47     N      N        N    N     N     N    N   N
+                North Jn
+LN696    HJM    Hepscott Jn – Morpeth Jn                  19   44    20      47     N      N        N    N     N     N    N   N
+LN700    BWO2 Butterwell Jn – Signal B1                   0    00    0       48     N      N        N    N     N     N    N   N
+LN702    BWC    Bedlington North – Network Rail           0    00    4       14     N      N        N    N     N     N    N   N
+                Boundary (Lynemouth Colliery)
+
+October 2009                                                                                   35

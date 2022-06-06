@@ -1,4 +1,26 @@
-London-North-Eastern	1036	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1036	LN101	ECM1	St Neots	Fletton Jn	St Neots – Fletton Jn	51	58	75	02	Y	N	R1 R2	N	N	N	N	R3 R4	R1 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R2 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R3 Shall be planned for Fast / Main lines only R4 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
-London-North-Eastern	1036	LN101	ECM1	Fletton Jn	Peterborough	Fletton Jn – Peterborough	75	02	76	29	Y	N	R1 R2	N	N	N	N	R3 R4	R1 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R2 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R3 Shall be planned for Fast / Main lines only R4 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
-London-North-Eastern	1036	LN101	ECM1	Peterborough	Newark North Gate	Peterborough – Newark North Gate	76	29	120	08	R1	N	R2 R3	N	N	N	N	R4 R5	R1 Prohibited Grantham Bay platform 3 with deflated suspension R2 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R3 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R4 Shall be planned for Fast / Main lines only R5 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
+London-North-Eastern	1036	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1036	LN185	GRS3	Boston	Site of Former Firsby East Jn	Boston – Site of Former Firsby East Jn	107	24	122	22	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN185	GRS4	Site of Former Firsby East Jn	Skegness	Site of Former Firsby East Jn - Skegness	0	28	9	17	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN190	ACD	Allington East Jn	Allington North Jn (Allington Chord)	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	R1	N	N	Y	Y	Y	Y	Y	Y	R1 Prohibited Allington East Jn - Route Boundary (LN3635) (Rectory Jn SB)
+London-North-Eastern	1036	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	R1	R1	R1	Y	Y	Y	Y	Y	Y	R1 Prohibited between Route Boundary (LN3625) (Nottingham East Jn) and Newark Crossing East Jn
+London-North-Eastern	1036	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN215	BHP	Boultham Jn	Pyewipe Jn	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN220	BCB	Bessacarr Jn	Black Carr Jn	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN235	FWR1	Rossington Colliery Jn	End of Line	Rossington Colliery Jn – End of Line	152	12	151	69	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN235	FWR2	Rossington Colliery	End of Line	Rossington Colliery – End of Line	153	31	151	69	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM2	Shaftholme Jn	Temple Hirst Jn	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM3	Temple Hirst Jn	Colton Jn	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM4	Colton Jn	Colton North Jn	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM4	Colton North Jn	York Station	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM5	York Station	Birtley Jn	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM5	Birtley Jn	Low Fell Jn (including via Tyne Yard)	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	Y	Y	Y	R1	Y	Y	R1 Prohibited with large snowploughs fitted
+London-North-Eastern	1036	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	Y	Y	R1	R1	Y	R1	R1	R1 Prohibited Newcastle platforms 10, 11 and 12
+London-North-Eastern	1036	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1036	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	Y	Y	Y	Y	Y	N
+London-North-Eastern	1036	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	Y	Y	Y	Y	Y	N
