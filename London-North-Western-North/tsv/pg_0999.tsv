@@ -1,23 +1,10 @@
-London-North-Western-North	0999	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	0999	NW5010	SCQ1	Change of Mileage	Change of Mileage (Site of Former Milton Jn)	Change of Mileage – Change of Mileage (Site of Former Milton Jn)	0	00	3	51	6	Y
-London-North-Western-North	0999	NW5010	SCQ2	Change of Mileage (Site of Former Milton Jn)	Change of Mileage (Site of Former Leek Brook Jn)	Change of Mileage (Site of Former Milton Jn) – Change of Mileage (Site of Former Leek Brook Jn)	0	00	6	65	6	Y
-London-North-Western-North	0999	NW5010	SCQ3	Change of Mileage (Site of Former Leek Brook Jn)	Caldon Quarry	Change of Mileage (Site of Former Leek Brook Jn) – Caldon Quarry	0	00	8	01	6	Y
-London-North-Western-North	0999	NW5011	HNS	Heaton Norris Jn	Guide Bridge Station Jn	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	8	Y
-London-North-Western-North	0999	NW5012	NSS	Route Boundary (LN3505) (North Stafford Jn)	Stoke Jn	Route Boundary (LN3505) (North Stafford Jn) – Stoke Jn	1	40	0	00	8	Y
-London-North-Western-North	0999	NW5013	DJO1	Denton Jn	Change of Mileage (Site of Former Crowthorne Jn)	Denton Jn – Change of Mileage (Site of Former Crowthorne Jn)	4	10	5	28	8	Y
-London-North-Western-North	0999	NW5013	DJO2	Change of Mileage (Site of Former Crowthorne Jn)	Change of Mileage (Site of Former Ashton Moss South Jn)	Change of Mileage (Site of Former Crowthorne Jn) – Change of Mileage (Site of Former Ashton Moss South Jn)	0	53	1	19	8	Y
-London-North-Western-North	0999	NW5013	AMJ	Change of Mileage (Site of Former Ashton Moss South Jn)	Ashton Moss North Jn	Change of Mileage (Site of Former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Hadfield	Dinting East Jn	Hadfield – Dinting East Jn	12	61	12	00	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Dinting East Jn	Dinting West Jn	Dinting East Jn – Dinting West Jn	12	00	11	66	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Dinting West Jn	Hyde Jn	Dinting West Jn – Hyde Jn	11	66	6	16	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Hyde Jn	Guide Bridge West Jn	Hyde Jn – Guide Bridge West Jn	6	16	5	10	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Guide Bridge West Jn	Guide Bridge Station Jn	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Guide Bridge Station Jn	Ashburys East Jn	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Ashburys East Jn	Ashburys West Jn	Ashburys East Jn – Ashburys West Jn	1	56	1	36	8	Y
-London-North-Western-North	0999	NW5015	HAJ	Ashburys West Jn	Ardwick Jn	Ashburys West Jn – Ardwick Jn	1	36	0	40	8	Y
-London-North-Western-North	0999	NW5017	DSD	Dinting South Jn	Dinting East Jn	Dinting South Jn – Dinting East Jn	0	72	1	05	8	Y
-London-North-Western-North	0999	NW5019	GDW	Glossop	Dinting South Jn	Glossop – Dinting South Jn	0	01	0	72	8	Y
-London-North-Western-North	0999	NW5019	GDW	Dinting South Jn	Dinting West Jn	Dinting South Jn – Dinting West Jn	0	72	1	05	8	Y
-London-North-Western-North	0999	NW5021	SAJ	Stalybridge Jn	Guide Bridge West Jn	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	8	Y
-London-North-Western-North	0999	NW6001	COL	Manchester Piccadilly East Jn	Castlefield Jn	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	8	Y
-London-North-Western-North	0999	NW6001	COL	Castlefield Jn	Ordsall Lane Jn	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	8	Y
+London-North-Western-North	0999	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	0999	NW6009	Windsor Bridge North Jn. - Southport	Windsor Bridge North Jn.	Southport	8	R1	R2	R1 R2	Clear to W6A Ex. (W7) Crow Nest Jn. - Southport. RA8/9/10 vehicles prohibited Windsor Bridge North Jn - Crow Nest Jn. unless down-loaded to 21¼ t maximum laden axle weight. RA9/10 vehicles may run between Wigan Wallgate Jn. and Southport if special dispensation has been granted by the Territory Track Engineer.
+London-North-Western-North	0999	NW6011	Bolton East Jn. - Blackburn Bolton Jn.	Bolton East Jn.	Blackburn Bolton Jn.	8	/	R	R	ELR: BBB Br.47: RA9/10 vehicles restricted to 10mph over the bridge (20m 50ch).
+London-North-Western-North	0999	NW6013	Lostock Jn. - Crow Nest Jn.	Lostock Jn.	Crow Nest Jn.	8	W6A Ex. (W7)	Y
+London-North-Western-North	0999	NW6015	Wigan Wallgate – Kirkby	Wigan Wallgate	Kirkby	7	/	Y
+London-North-Western-North	0999	NW7001	Manchester Victoria West Jn. - Hebden Bridge	Manchester Victoria West Jn.	Hebden Bridge	8	R1	R2	R1 R2	SB1C (W9) Manchester Victoria West Jn. - Miles Platting Jn. W6A Ex. (W7) Miles Platting Jn. - Hebden Bridge. RA9/10 vehicles restricted to 20mph between Brewery Jn. and Thorpes Bridge Jn. on the Down Passenger Loop. ELR: MVN2, Br.105: RA9/10 vehicles are restricted to 20mph over the bridge (19mch - 19m 40ch).
+London-North-Western-North	0999	NW7005	Castleton East Jn. - Hopwood G.F.	Castleton East Jn.	Hopwood G.F.	8	/	Y
+London-North-Western-North	0999	NW7007	Farington Curve Jn. - Ormskirk	Farington Curve Jn.	Ormskirk	8	/	R	R	Freight vehicles may only be permitted subject to special dispensation being granted by the Territory Structures Assessment Engineer.
+London-North-Western-North	0999	NW7009	Farington Curve Jn. - Hall Royd Jn.(East Lancs lines)	Farington Curve Jn.	Hall Royd Jn.(East Lancs lines)	8	R1	R2	R1 R2	W6A Ex. (W7) Farington Curve Jn. - Daisyfield. ELR: FHR4, Br.15: RA9/10 vehicles restricted to 50mph over the bridge, Pleasington Viaduct (7m 64ch to 7m 78ch) in both directions. ELR: FHR4, Br.27: RA9/10 vehicles restricted to 30mph over the bridge (10m 16ch - 10m 27ch). ELR: FHR4, Br.29: RA9/10 vehicles restricted to 20mph over the bridge on the ‘Up & Down’ Through line and the Down Main line (10m 40ch - 10m 60ch). ELR: FHR6, Br.10: RA9/10 vehicles restricted to 20mph over the bridge (28m 60ch - 29mch).
+London-North-Western-North	0999	NW7011	Farington Jn. - Lostock Hall Jn. (Lostock Hall Lines)	Farington Jn.	Lostock Hall Jn. (Lostock Hall Lines)	8	W6A Ex. (W7)	Y

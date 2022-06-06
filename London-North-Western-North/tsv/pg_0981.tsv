@@ -1,18 +1,19 @@
-London-North-Western-North	0981	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0981	NW2001	Weaver Jn. – Liverpool Lime Street	Weaver Jn.	Liverpool Lime Street	8	SB1C (W9) R1	R2	R1 R2	SB1C Weaver Jn. – Edge Hill only. RA9/10 loaded freight vehicles are normally permitted between Weaver Jn. and Edge Hill only, but may also be permitted between Edge Hill and Liverpool Lime Street subject to the Territory Track Engineer granting special dispensation. Between Wavertree Jn. and Edge Hill station such vehicles must only be routed on the Down and Up Ditton Fast lines.
-London-North-Western-North	0981	NW2003	Runcorn - I.C.I. Salt Works (Runcorn Dock Branch)	Runcorn	I.C.I. Salt Works (Runcorn Dock Branch)	8	W6A Ex. (W8)	R	R	ELR: RDB, Bridge No.4 (Folly Lane, Siding Line) vehicles which exceed the RA of the line are prohibited.
-London-North-Western-North	0981	NW2005	Speke Jn. - Garston Jn.	Speke Jn.	Garston Jn.	8	SB1C (W9)	Y
-London-North-Western-North	0981	NW2007	Allerton East Jn. - Garston Jn.	Allerton East Jn.	Garston Jn.	8	SB1C (W9)	Y
-London-North-Western-North	0981	NW2009	Arpley Jn. - Ditton East Jn	Arpley Jn.	Ditton East Jn	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0981	NW2011	Walton Old Jn. - Arpley Jn.	Walton Old Jn.	Arpley Jn.	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0981	NW2015	Ordsall Lane Jn. - Edge Hill	Ordsall Lane Jn.	Edge Hill	8	R1 R2	R3	R1 R2 R3	W12 Ordsall Lane Jn – Newton-le-Willows Jn SBC1 (W9) Newton-le-Willows Jn to Edge Hill ELR: DSE, Br.107 – RA9/10 loaded freight vehicles restricted to 30mph over bridge 20mch and 19m 60ch.
-London-North-Western-North	0981	NW2017	Eccles – Weaste	Eccles	Weaste	8	/	Y
-London-North-Western-North	0981	NW2019	Parkside Jn. - Lowton Jn. (East Curve lines).	Parkside Jn.	Lowton Jn. (East Curve lines).	8	W6A Ex. (W12)	R	R	RA9/10 vehicles restricted to 10mph throughout.
-London-North-Western-North	0981	NW2021	Earlestown South. Jn. - Earlestown West Jn. (Liverpool Curve).	Earlestown South. Jn.	Earlestown West Jn. (Liverpool Curve).	8	SB1C (W9)	Y
-London-North-Western-North	0981	NW2023	Springs Branch Jn. - Huyton Jn. (St. Helens lines)	Springs Branch Jn.	Huyton Jn. (St. Helens lines)	7	W9 & W10	Y
-London-North-Western-North	0981	NW2025	St. Helens Station Jn. - Ravenhead Jn. (Out of use)	St. Helens Station Jn.	Ravenhead Jn. (Out of use)	-	W6A Ex. (W8)	-
-London-North-Western-North	0981	NW2027	Edge Hill, Bootle Branch Jn. - Regent Road L.C.	Edge Hill, Bootle Branch Jn.	Regent Road L.C.	8	SB1C (W9)	Y
-London-North-Western-North	0981	NW2029	Olive Mount Jn to Edge Lane Jn	Olive Mount Jn	Edge Lane Jn	8	W9 & W10	Y
-London-North-Western-North	0981	NW3001	Crewe North Jn. – Chester East Jn.	Crewe North Jn.	Chester East Jn.	8	W6A Ex. (W7)	Y
-London-North-Western-North	0981	NW3001	Chester East Jn – Holyhead	Chester East Jn	Holyhead	8	W6A Ex. (W7)	R1	R1	RA9/10 vehicles are restricted to 20mph between Valley and Ty Croes (256m 60ch to 255m 40ch) in the Up direction only.
-London-North-Western-North	0981	NW3003	Chester East Jn – Acton Grange Jn.	Chester East Jn	Acton Grange Jn.	8	W6A Ex. (W7)	R	R	CHW1 Br.9 (2m 56ch), Br.62 (13m 40ch), Br.63 (13m 40ch), Br.64 (13m 74ch): RA9/10 vehicles are restricted to 50mph over these bridges.
+London-North-Western-North	0981	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0981	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road L.C. Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road L.C. Network Rail Boundary (MDHC)	0	14	5	53	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0981	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	H	H	Y	H	N	N
+London-North-Western-North	0981	NW3001	CNH2	Chester East Jn	Change of ELR (Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	H	H	Y	H	N	N
+London-North-Western-North	0981	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel)	Route Boundary LNW / Wales	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3001	CNH3	Route Boundary LNW / Wales	Holyhead	Route Boundary LNW / Wales - Holyhead	188	40	263	56	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW - Saltney Jn	202	60	212	06	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	5	N	N	N	N	N	N
+London-North-Western-North	0981	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	8	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	7	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3007	WDB2 /3	Change of ELR	Route Boundary Wales / LNW	Change of ELR - Route Boundary Wales / LNW	14	15	11	00	7	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn		Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	7	N	N	Y	N	N	N
+London-North-Western-North	0981	NW3009	CVS	Chester North Jn	Chester South Jn	Chester North Jn – Chester South Jn	0	36	0	13	8	H	H	Y	H	N	N
+London-North-Western-North	0981	NW3011	CRR1	Chester West Jn	Hooton South Jn	Chester West Jn – Hooton South Jn	0	16	7	68	8	H R1	H R1	R2	H R1	H R1	N	R1 Prohibited between Chester North Jn and Hooton South Jn R2 5mph on the Up through Bridge No.3 at 01m 37ch between Bache - Capenhurst
+London-North-Western-North	0981	NW3013	HHJ	Hooton South. Jn	Ellesmere Port (Limit of DC electrification)	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	8	N	N	Y	N	N	N

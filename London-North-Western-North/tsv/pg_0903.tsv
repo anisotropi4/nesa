@@ -1,11 +1,18 @@
-London-North-Western-North	0903	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-North	0903	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary)	Rugeley North Jn	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	Y	Y	Y	N	Y	Y	N	Y	Y
-London-North-Western-North	0903	NW1001	LEC2	Rugeley North Jn	Colwich Jn	Rugeley North Jn – Colwich Jn	124	39	127	05	Y	Y	Y	N	Y	Y	N	Y	Y
-London-North-Western-North	0903	NW1001	LEC2	Colwich Jn	Stafford Trent Valley Jn No.1	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	Y	Y	Y	N	Y	Y	N	Y	Y
-London-North-Western-North	0903	NW1001	LEC3	Stafford Trent Valley Jn No.1	Change of ELR (North of Stafford)	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	Y	Y	Y	Y	Y	Y	N	Y	R1 R2	R2 Prohibited Stafford Up Bay platform R3 Prohibited Stafford Royal Mail Terminal platform 7
-London-North-Western-North	0903	NW1001	LEC4	Change of ELR (North of Stafford)	Little Bridgeford Jn	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	Y	Y	Y	Y	Y	Y	N	Y	Y
-London-North-Western-North	0903	NW1001	LEC4	Little Bridgeford Jn	Heamies Bridge	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	Y	Y	Y	Y	Y	Y	N	Y	Y
-London-North-Western-North	0903	NW1001	LEC6	Little Bridgeford Jn	Heamies Bridge (Down Slow line only)	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	Y	Y	Y	Y	Y	Y	N	Y	Y
-London-North-Western-North	0903	NW1001	LEC4	Heamies Bridge	Basford Hall Jn	Heamies Bridge – Basford Hall Jn	140	00	156	16	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0903	NW1001	LEC4	Basford Hall Jn	Change of ELR (Crewe South)	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0903	NW1001	LEC5	Change of ELR (Crewe South)	Crewe South Jn	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0903	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	380	390	397	507	508	Notes
+London-North-Western-North	0903	NW2009	SDJ2	End of line (Latchford)	Ditton East Jn	End of line (Latchford) – Ditton East Jn	10	06	18	55	N	N	N	N	N
+London-North-Western-North	0903	NW2011	WOA1	Walton Old Jn	Arpley Jn	Walton Old Jn – Arpley Jn	0	68	0	00	N	N	N	N	N
+London-North-Western-North	0903	NW2015	DSE	Ordsall Lane Jn	Newton-le-Willows Jn	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	N	R1	Y	N	N	R1 Prohibited Eccles Up Goods Loop
+London-North-Western-North	0903	NW2015	DSE	Newton-le-Willows Jn	Earlestown East Jn (Electrified section)	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	N	Y	Y	N	N
+London-North-Western-North	0903	NW2015	DSE	Earlestown East Jn	Edge Hill	Earlestown East Jn – Edge Hill	14	75	1	57	N	Y	R1	N	N	R1 Prohibited between Edge Hill East Jn and Edge Hill
+London-North-Western-North	0903	NW2017	SCN	Eccles Station Jn	Network Rail (Weaste Branch) / MSC Boundary	Eccles Station Jn – Network Rail (Weaste Branch) / MSC Boundary	0	00	0	54	N	N	N	N	N
+London-North-Western-North	0903	NW2019	PJL	Parkside Jn	Lowton Jn (East Curve lines)	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	N	Y	Y	N	N
+London-North-Western-North	0903	NW2021	EEE	Earlestown South Jn	Earlestown West Jn (Liverpool Curve)	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	N	Y	Y	N	N
+London-North-Western-North	0903	NW2023	SBH3	Springs Branch Jn	Gerards Bridge Jn	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	N	N	Y	N	N
+London-North-Western-North	0903	NW2023	SBH2	Gerards Bridge Jn	St Helens Station Jn	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	N	N	Y	N	N
+London-North-Western-North	0903	NW2023	SBH1	St Helens Station Jn	Huyton Jn	St Helens Station Jn – Huyton Jn	5	12	0	-18	N	N	Y	N	N
+London-North-Western-North	0903	NW2025	SHS1	St. Helens Station Jn	Network Rail Boundary	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	N	N	N	N	N
+London-North-Western-North	0903	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road L.C. Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road L.C. Network Rail Boundary (MDHC)	0	14	5	53	N	N	N	N	N
+London-North-Western-North	0903	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	N	N	N	N	N
+London-North-Western-North	0903	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	N	H	E	N	N
+London-North-Western-North	0903	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	N	H	N	N	N
+London-North-Western-North	0903	NW3001	CNH2	Chester East Jn	Change of ELR (Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	N	H R1 R2	N	R3	R3	R3 Prohibited Down Through and Down & Up Goods line Chester East Jn – Chester West Jn R4 Prohibited Chester platforms 1, 2, 5 & 6 R5 Chester platform 7 to Chester West Jn via electrified lines only

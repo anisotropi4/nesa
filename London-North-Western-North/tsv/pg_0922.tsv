@@ -1,17 +1,20 @@
-London-North-Western-North	0922	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
-London-North-Western-North	0922	NW2023	SBH2	Gerards Bridge Jn	St Helens Station Jn	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW2023	SBH1	St Helens Station Jn	Huyton Jn	St Helens Station Jn – Huyton Jn	5	12	0	-18	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW2025	SHS1	St. Helens Station Jn	Network Rail Boundary	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road L.C. Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road L.C. Network Rail Boundary (MDHC)	0	14	5	53	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3001	CNH2	Chester East Jn	Change of ELR (Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel)	Route Boundary LNW / Wales	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3001	CNH3	Route Boundary LNW / Wales	Holyhead	Route Boundary LNW / Wales - Holyhead	188	40	263	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW - Saltney Jn	202	60	212	06	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	5	Y	Y	R1	Y	R2	R2	Y	R1	R1 Route between Wrexham Central and Wrexham General prohibited to Class 20 and Class 37/5 locomotives that conform to RA6 unless authorised by the Infrastructure Manager's track engineer R2 Prohibited between Wrexham Central and Wrexham General unless authorised by the Infrastructure Manager's track engineer
-London-North-Western-North	0922	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0922	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	7	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW4033	CBC1	Carnforth North Jn	Carnforth Station Jn	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	Y	Y	Y	N	N	N	Y	N	N
+London-North-Western-North	0922	NW4033	CBC1	Carnforth Station Jn	Limit of Electrification (Carnforth)	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	Y	Y	Y	N	N	N	Y	N	N
+London-North-Western-North	0922	NW4033	CBC1	Limit of Electrification (Carnforth)	Whitehaven	Limit of Electrification (Carnforth) – Whitehaven	0	60	74	66	Y	Y	Y	N	N	N	Y	N	N
+London-North-Western-North	0922	NW4033	CBC1	Whitehaven	Bransty SB (Change of ELR)	Whitehaven – Bransty SB (Change of ELR)	74	66	74	73	Y	Y	Y	N	N	N	Y	N	N
+London-North-Western-North	0922	NW4033	CBC2	Bransty SB (Change of ELR)	Change of ELR (Maryport)	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	Y	Y	Y	N	N	N	Y	N	N
+London-North-Western-North	0922	NW4033	CBC3	Change of ELR (Maryport)	Carlisle South Jn	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	EH	EH	EH	N	N	N	N	N	N
+London-North-Western-North	0922	NW4041	DAP	Dalton Jn	Park South Jn	Dalton Jn – Park South Jn	0	00	0	76	Y	Y	Y	N	N	N	Y	N	N
+London-North-Western-North	0922	NW5001	CMP1	Crewe North Jn	Sandbach North Jn	Crewe North Jn – Sandbach North Jn	158	17	162	62	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP1	Sandbach North Jn	Wilmslow South Jn	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP1	Wilmslow South Jn	Cheadle Hulme North Jn	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP1	Cheadle Hulme North Jn	Edgeley Jn No.1	Cheadle Hulme North Jn – Edgeley Jn No.1	180	67	182	36	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP2	Edgeley Jn No.1	Edgeley Jn	Edgeley Jn No.1 – Edgeley Jn	182	36	182	59	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP2	Edgeley Jn	Slade Lane Jn	Edgeley Jn – Slade Lane Jn	182	59	186	46	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP2	Slade Lane Jn	Ardwick Jn	Slade Lane Jn – Ardwick Jn	186	46	188	08	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP2	Ardwick Jn	Manchester Piccadilly East Jn	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5001	CMP2	Manchester Piccadilly East Jn	Manchester Piccadilly	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	Y	Y	Y	N	Y	Y	Y	Y	Y
+London-North-Western-North	0922	NW5003	STY	Wilmslow South Jn	Heald Green South Jn	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	Y	Y	Y	N	Y	N	Y	Y	Y
+London-North-Western-North	0922	NW5003	STY	Heald Green South Jn	Heald Green North Jn	Heald Green South Jn – Heald Green North Jn	2	50	3	13	Y	Y	Y	N	Y	N	Y	Y	Y
+London-North-Western-North	0922	NW5003	STY	Heald Green North Jn	Slade Lane Jn	Heald Green North Jn – Slade Lane Jn	3	13	9	44	Y	Y	Y	N	Y	N	Y	Y	Y
+London-North-Western-North	0922	NW5005	SMA	Heald Green South Jn	Heald Green West Jn	Heald Green South Jn – Heald Green West Jn	1	48	1	10	Y	Y	Y	N	N	N	Y	N	Y

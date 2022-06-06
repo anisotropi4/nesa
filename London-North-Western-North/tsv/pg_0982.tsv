@@ -1,11 +1,24 @@
-London-North-Western-North	0982	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0982	NW3005	Gobowen (excl.)- Saltney Jn. including ‘Up & Down’ loop Wrexham General – Wrexham Exchange Jn.	Gobowen (excl.)- Saltney Jn. including ‘Up & Down’ loop Wrexham General	Wrexham Exchange Jn.	8	W6A Ex. (W7)	R	R	WSJ2 Br.518 (200m 10ch) and Br.544 (207m 71ch): RA9/10 vehicles are restricted to 50mph over these bridges.
-London-North-Western-North	0982	NW3007	Wrexham Central – Wrexham Exchange Sidings	Wrexham Central	Wrexham Exchange Sidings	5	/	R	R	Vehicles which exceed the RA of the line may be permitted Wrexham Central – Wrexham Exchange Jn. Subject to special dispensation being granted by the relevant Route Asset Manager (s) (RAM)
-London-North-Western-North	0982	NW3007	Wrexham Exchange Jn – 13m 18ch (south end of Hawarden swing bridge	Wrexham Exchange Jn	13m 18ch (south end of Hawarden swing bridge	8	W6A Ex. (W7)	R	R	RA9/10 loaded freight vehicles are restricted at the following specific locations WDB1 BR.17: RA9/10 loaded freight vehicles are restricted to 30mph over the bridge (4m 79ch – 5m 0ch)
-London-North-Western-North	0982	NW3007	13m 20ch – Bidston West Jn	13m 20ch	Bidston West Jn	7	W6A	R1	R1	RA8 locomotives and RA8/9/10 loaded freight vehicles are restricted to 25mph 13m 20ch on WBD1. – Dee Marsh Jn.
-London-North-Western-North	0982	NW3009	Chester North Jn - Chester South Jn	Chester North Jn	Chester South Jn	8	W6A Ex. (W7)	Y
-London-North-Western-North	0982	NW3011	Chester West Jn. - Hooton South Jn.	Chester West Jn.	Hooton South Jn.	8	W6A Ex. (W7)	Y
-London-North-Western-North	0982	NW3013	Hooton South. Jn. - Helsby Jn.	Hooton South. Jn.	Helsby Jn.	8	R	Y	R	Route clear to W6A Ex. (W7) gauge Ellesmere Port - Helsby Jn.
-London-North-Western-North	0982	NW3015	Llandudno Jn. – Blaenau Ffestiniog	Llandudno Jn.	Blaenau Ffestiniog	7	/	R	R	Vehicles which exceed the RA of the line may be permitted on a very limited basis, subject to special dispensation being granted by the Territory Track and Earthworks Engineers, and additionally, observance of the following bridge specific restrictions: LJT1 Br.3 (4m 23ch to 4m 26ch) RA 8/9/10 vehicles restricted to 20mph over the bridge. LJT1 Br.20 (13m 3ch to 13m 09ch) RA 8/9/10 vehicles restricted to 20mph over the bridge. LJT1 Br.23 (14m 48ch to 14m 54ch) RA 8/9/10 vehicles restricted to 10mph over the bridge. LJT1 Br.34 (17m 36ch to 17m 65ch) RA 8/9/10 vehicles restricted to 20mph over the bridge.
-London-North-Western-North	0982	NW3017	Llandudno Jn. - Llandudno	Llandudno Jn.	Llandudno	7	/	Y
-London-North-Western-North	0982	NW3019	Gaerwen – Amlwch (Out of use)	Gaerwen	Amlwch (Out of use)	-	W6A Ex. (W7)	-
+London-North-Western-North	0982	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0982	NW3013	HHJ	Ellesmere Port (Limit of DC electrification)	Helsby Jn	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	8	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of Line	Llandudno Jn – Blaenau Ffestiniog, End of Line	0	30	27	53	7	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	7	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3019	GLA	Gaerwen	Network Rail Boundary	Gaerwen – Network Rail Boundary	0	00	17	37	6	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
+London-North-Western-North	0982	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3023	SJD	Skelton Jn	Deansgate Jn	Skelton Jn – Deansgate Jn	0	00	0	33	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3023	CDM1	Deansgate Jn	Change of ELR (Altrincham)	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3023	CDM2	Change of ELR (Altrincham)	Mickle Trafford Jn	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3025	WJP1	Skelton Jn	Partington Jn Network Rail Boundary	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	7	N	N	Y	N	N	N	Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
+London-North-Western-North	0982	NW3027	CDM1	Network Rail Boundary (Metrolink)	Deansgate Jn	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	8	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3027	CDM1	Deansgate Jn	Altrincham	Deansgate Jn – Altrincham	7	05	8	00	8	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3029	SNJ	Sandbach North Jn	Northwich West Jn	Sandbach North Jn – Northwich West Jn	0	00	8	64	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3031	NSN	Northwich South Jn	Northwich Station Jn	Northwich South Jn – Northwich Station Jn	8	37	8	66	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW3033	HEG	Hartford East Jn	Hartford North Jn (East Goods line)	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	8	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3035	HWG	Hartford West Jn	Hartford North Jn (West Goods line)	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	8	N	N	Y	N	N	N
+London-North-Western-North	0982	NW3037	HCN	Hartford CLC Jn	Hartford Jn	Hartford CLC Jn – Hartford Jn	0	72	0	16	8	H	H	Y	H	N	N
+London-North-Western-North	0982	NW4001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0982	NW4001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0982	NW4001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0982	NW4001	CGJ6	Preston Fylde Jn	Lancaster	Preston Fylde Jn – Lancaster	0	33	20	78	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0982	NW4001	CGJ7	Lancaster	Carnforth North Jn	Lancaster – Carnforth North Jn	0	00	6	08	8	Y	Y	R1	Y	Y	Y	R1 Prohibited Lancaster Bay platform 2

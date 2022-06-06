@@ -1,17 +1,22 @@
-London-North-Western-North	1014	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1014										W6A	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Western-North	1014						M	Ch	M	Ch				
-London-North-Western-North	1014	NW5009	CMD1	Change of ELR	Kidsgrove Jn	Change of ELR – Kidsgrove Jn	13	68	16	00	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1014	NW5009	CMD1	Kidsgrove Jn	Macclesfield Hibel Road (Change of ELR)	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR)	13	68	0	00	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1014	NW5009	MCH	Macclesfield Hibel Road (Change of ELR)	Cheadle Hulme North Jn	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1014	NW5010	SCQ1	Glebe Street Jn	Change of Mileage	Glebe Street Jn – Change of Mileage	20	08	20	33	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1014	NW5010	SCQ1	Change of Mileage	Change of Mileage (Site of Former Milton Jn)	Change of Mileage – Change of Mileage (Site of Former Milton Jn)	0	00	3	51	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1014	NW5010	SCQ2	Change of Mileage (Site of Former Milton Jn)	Change of Mileage (Site of Former Leek Brook Jn)	Change of Mileage (Site of Former Milton Jn) – Change of Mileage (Site of Former Leek Brook Jn)	0	00	6	65	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1014	NW5010	SCQ3	Change of Mileage (Site of Former Leek Brook Jn)	Caldon Quarry	Change of Mileage (Site of Former Leek Brook Jn) – Caldon Quarry	0	00	8	01	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1014	NW5011	HNS	Heaton Norris Jn	Guide Bridge Station Jn	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	Y * R1	Y	S1	N	N	N	N	N	R1 * applies between Heaton Norris Jn and Denton Jn (4m 13ch) S1 Between Heaton Norris Jn and Denton Jn (4m 13ch) the following combinations are permitted to run Up to: 2591(h) x 2500(w) on FEA FCA FSA/FTA wagons 2591(h) x 2500(w) on KFA wagons 2896(h) x 2500(w) on FLA wagons S16FT up to 2550(w) on KFA wagons S17FT up to 2550(w) on FEA FSA/FTA wagons
-London-North-Western-North	1014	NW5012	NSS	Route Boundary (LN3505)	Stoke Jn	Route Boundary (LN3505) – Stoke Jn	1	40	0	00	Y	Y	N	N	N	N	N	N
-London-North-Western-North	1014	NW5013	DJO1	Denton Jn	Change of Mileage (Site of Former Crowthorne Jn)	Denton Jn – Change of Mileage (Site of Former Crowthorne Jn)	4	10	5	28	Y *	Y	Y	N	N	N	N	N
-London-North-Western-North	1014	NW5013	DJO2	Change of Mileage (Site of Former Crowthorne Jn)	Change of Mileage (Site of Former Ashton Moss South Jn)	Change of Mileage (Site of Former Crowthorne Jn) – Change of Mileage (Site of Former Ashton Moss South Jn)	0	53	1	19	Y *	Y	Y	N	N	N	N	N
-London-North-Western-North	1014	NW5013	AMJ	Change of Mileage (Site of Former Ashton Moss South Jn)	Ashton Moss North Jn	Change of Mileage (Site of Former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	Y *	Y	Y	N	N	N	N	N
-London-North-Western-North	1014	NW5015	HAJ	Hadfield	Dinting East Jn	Hadfield – Dinting East Jn	12	61	12	00	Y *	N	N	N	N	N	N	N
-London-North-Western-North	1014	NW5015	HAJ	Dinting East Jn	Dinting West Jn	Dinting East Jn – Dinting West Jn	12	00	11	66	Y *	N	N	N	N	N	N	N
+London-North-Western-North	1014	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Western-North	1014	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	8	Y
+London-North-Western-North	1014	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn – Thorpes Bridge Jn	1	52	2	17	8	Y
+London-North-Western-North	1014	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	Y
+London-North-Western-North	1014	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	8	Y
+London-North-Western-North	1014	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	R1 R2 R3	R1 Prohibited through Summit Tunnel (Down L & Y) R2 Prohibited through Summit Tunnel (Up L & Y) R3 Prohibited through Deanroyd Tunnel (Down L & Y)
+London-North-Western-North	1014	NW7001	MVN2	Hall Royd Jn	Route Boundary (LN854) (Turners Lane Jn)	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	Y
+London-North-Western-North	1014	NW7005	CEH	Castleton East Jn.	Castleton North Jn	Castleton East Jn. – Castleton North Jn	0	00	0	37	8	Y
+London-North-Western-North	1014	NW7005	CPI1	Castleton South Jn	Castleton North Jn	Castleton South Jn – Castleton North Jn	8	21	8	50	8	Y
+London-North-Western-North	1014	NW7005	CPI2	Castleton North Jn	Network Rail / East Lancashire Railway Boundary (Hopwood)	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	Y
+London-North-Western-North	1014	NW7007	FCO	Farington Curve Jn	Ormskirk	Farington Curve Jn – Ormskirk	25	64	12	15	8	Y
+London-North-Western-North	1014	NW7009	FHR1	Farington Curve Jn	Lostock Hall Depot	Farington Curve Jn – Lostock Hall Depot	0	00	0	75	8	Y
+London-North-Western-North	1014	NW7009	FHR2	Lostock Hall Depot	Lostock Hall Jn	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	Y
+London-North-Western-North	1014	NW7009	FHR3	Lostock Hall Jn	Change of ELR (Site of Former Bamber Bridge Jn)	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	8	Y
+London-North-Western-North	1014	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y
+London-North-Western-North	1014	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y
+London-North-Western-North	1014	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	8	Y
+London-North-Western-North	1014	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	8	R1	R1 Prohibited between Huncoat and Hapton on the Up East Lancs line
+London-North-Western-North	1014	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	8	R1 R2	R1 Prohibited between Burnley Manachester Road and Copy Pit on the Down East Lancs line R2 Prohibited between Burnley Manachester Road and Hall Royd Jn on the Up East Lancs line
+London-North-Western-North	1014	NW7011	LHL	Farington Jn	Limit of electrification	Farington Jn – Limit of electrification	0	00	0	56	8	Y
+London-North-Western-North	1014	NW7011	LHL	Limit of electrification	Lostock Hall Jn (Lostock Hall Lines)	Limit of electrification – Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y
+London-North-Western-North	1014	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	8	Y

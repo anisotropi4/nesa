@@ -1,22 +1,29 @@
-London-North-Western-North	0983	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0983	NW3021	Frodsham Jn. - Halton Jn.	Frodsham Jn.	Halton Jn.	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW3023	Edgeley Jn. No.2 - Mickle Trafford	Edgeley Jn. No.2	Mickle Trafford	8	R1	Y	R1	Route clear to W6A Ex. (W7) Northenden - Mickle Trafford
-London-North-Western-North	0983	NW3025	Skelton Jn. – Partington (Out of use beyond Sidnal DJ7)	Skelton Jn.	Partington (Out of use beyond Sidnal DJ7)	-	/	-
-London-North-Western-North	0983	NW3027	Timperley – Altrincham (Metrolink Lines)	Timperley	Altrincham (Metrolink Lines)	8	/	Y
-London-North-Western-North	0983	NW3029	Sandbach North. Jn. - Northwich West Jn.	Sandbach North. Jn.	Northwich West Jn.	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW3031	Northwich South Jn. - Northwich Station Jn	Northwich South Jn.	Northwich Station Jn	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW3033	Hartford East Jn. - Hartford North Jn. (East Goods line)	Hartford East Jn.	Hartford North Jn. (East Goods line)	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW3035	Hartford West Jn. - Hartford North Jn. (West Goods line)	Hartford West Jn.	Hartford North Jn. (West Goods line)	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW3037	Hartford C.L.C. Jn. - Hartford Jn.	Hartford C.L.C. Jn.	Hartford Jn.	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW4001	Preston Ribble Jn. - Cove L.C.	Preston Ribble Jn.	Cove L.C.	8	SB1C (W9)	Y
-London-North-Western-North	0983	NW4003	Preston Fylde Jn. - Deepdale Jn. (Out of use)	Preston Fylde Jn.	Deepdale Jn. (Out of use)	-	/	-
-London-North-Western-North	0983	NW4005	Preston Fylde Jn. - Blackpool North	Preston Fylde Jn.	Blackpool North	8	/	R	R	RA9/10 loaded freight vehicles may also be permitted between Carleton Crossing signal box and Blackpool North station if special dispensation has been granted by the Territory Track Engineer.
-London-North-Western-North	0983	NW4007	Kirkham North Jn - Blackpool South	Kirkham North Jn	Blackpool South	8	/	--
-London-North-Western-North	0983	NW4009	Poulton - Burn Naze (Out of use beyond 14m 75ch)	Poulton	Burn Naze (Out of use beyond 14m 75ch)	8	/	Y
-London-North-Western-North	0983	NW4011	Morecambe South Jn. - Morecambe	Morecambe South Jn.	Morecambe	8	W6A Ex. (W8)	Y
-London-North-Western-North	0983	NW4013	Hest Bank - Bare Lane	Hest Bank	Bare Lane	8	W6A Ex. (W8)	Y
-London-North-Western-North	0983	NW4017	Morecambe Jn. - Heysham Port	Morecambe Jn.	Heysham Port	8	W6A Ex. (W8)	Y
-London-North-Western-North	0983	NW4019	Oxenholme - Windermere	Oxenholme	Windermere	8	/	--
-London-North-Western-North	0983	NW4021	Upperby Jn. - Rome St. Jn.	Upperby Jn.	Rome St. Jn.	8	/	Y
-London-North-Western-North	0983	NW4023	Upperby Jn. - London Rd. Jn.	Upperby Jn.	London Rd. Jn.	8	W6A Ex. (W7)	Y
-London-North-Western-North	0983	NW4025	Currock Jn. - Bog Jn.	Currock Jn.	Bog Jn.	8	/	Y
+London-North-Western-North	0983	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0983	NW4001	CGJ7	Carnforth North Jn	Oxenholme	Carnforth North Jn – Oxenholme	6	08	19	11	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0983	NW4001	CGJ7	Oxenholme	Upperby Jn	Oxenholme – Upperby Jn	19	11	68	23	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0983	NW4001	CGJ7	Upperby Jn	Carlisle	Upperby Jn – Carlisle	68	23	69	09	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0983	NW4001	WCM1	Carlisle	Mossband Jn (Including Kingmoor Yard Goods lines)	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	8	Y	Y	R1	Y	Y	Y	R1 Prohibited Carlisle Bay platform 7
+London-North-Western-North	0983	NW4001	WCM1	Mossband Jn	Gretna Jn	Mossband Jn – Gretna Jn	7	57	8	57	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0983	NW4001	WCM1	Gretna Jn	Route Boundary (SC001) (Gretna Green)	Gretna Jn – Route Boundary (SC001) (Gretna Green)	8	57	12	30	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0983	NW4001	UCJ	Upperby Bridge Jn	Upperby Bridge	Upperby Bridge Jn – Upperby Bridge	67	58	68	23	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4003	PDB	Preston Fylde Jn	End of line	Preston Fylde Jn – End of line	0	00	1	59	8	N	N	Y	N	N	N	Line out of use
+London-North-Western-North	0983	NW4005	PBN	Preston Fylde Jn	Kirkham North Jn	Preston Fylde Jn – Kirkham North Jn	0	33	8	28	8	N	N	Y	R1	N	N	R1 Single pantograph operation only
+London-North-Western-North	0983	NW4005	PBN	Kirkham North Jn	Poulton Jn	Kirkham North Jn – Poulton Jn	8	28	14	40	8	N	N	Y	R1	N	N	R1 Single pantograph operation only
+London-North-Western-North	0983	NW4005	PBN	Poulton Jn	Blackpool North	Poulton Jn – Blackpool North	14	40	17	49	8	N	N	Y	R1	N	N	R1 Single pantograph operation only
+London-North-Western-North	0983	NW4007	KBS1	Kirkham North Jn	Blackpool South	Kirkham North Jn – Blackpool South	8	28	20	00	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4009	WPS	Poulton	End of Line	Poulton – End of Line	14	40	18	08	8	N	N	Y	N	N	N	Line out of use from 14m 75ch to the end of the line NC/G1/2001/LNW294
+London-North-Western-North	0983	NW4011	MSM	Morecambe South Jn	Morecambe Buffer Stops	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4013	HBL	Hest Bank Jn	Bare Lane Jn	Hest Bank Jn – Bare Lane Jn	0	00	1	30	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4017	MHH	Morecambe Jn	Heysham Port	Morecambe Jn – Heysham Port	0	00	4	01	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4019	OXW	Oxenholme	Windermere	Oxenholme – Windermere	0	00	10	15	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4021	UCJ	Upperby Jn	Bog Jn	Upperby Jn – Bog Jn	0	38	1	07	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4021	UCJ	Bog Jn	Rome St Jn	Bog Jn – Rome St Jn	1	07	1	23	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4023	ULR	Upperby Jn	London Rd Jn	Upperby Jn – London Rd Jn	0	00	0	34	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4025	MCG	Currock Jn	Bog Jn	Currock Jn – Bog Jn	0	00	0	44	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4027	BSN	Bruntill Branch Jn	Stainton Jn via Down and Up Brunthill Branch Siding	Bruntill Branch Jn - Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4027	ETC	End of Line Buffer Stops	Network Rail Boundary / Brunthill via Down and Up Brunthill line	End of Line Buffer Stops - Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	9	95	6	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4029	GJH	Mossband Jn	Bush-on-Esk West Jn	Mossband Jn – Bush-on-Esk West Jn	3	02	1	06	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4029	GJH	Bush-on-Esk West Jn	Network Rail Boundary	Bush-on-Esk West Jn – Network Rail Boundary	1	06	0	24	8	N	N	Y	N	N	N	Line out of use
+London-North-Western-North	0983	NW4031	GSW	Gretna Jn	Route Boundary (SC031) (Eastriggs)	Gretna Jn – Route Boundary (SC031) (Eastriggs)	116	13	115	40	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4033	CBC1	Carnforth North Jn	Carnforth Station Jn	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	8	N	N	Y	N	N	N
+London-North-Western-North	0983	NW4033	CBC1	Carnforth Station Jn	Limit of Electrification (Carnforth)	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	8	N	N	Y	N	N	N

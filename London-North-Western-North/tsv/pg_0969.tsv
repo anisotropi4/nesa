@@ -1,24 +1,28 @@
-London-North-Western-North	0969	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Western-North	0969	NW3013	HHJ	Ellesmere Port (Limit of DC electrification)	Helsby Jn	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	8	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of Line	Llandudno Jn – Blaenau Ffestiniog, End of Line	0	30	27	53	7	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	7	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3019	GLA	Gaerwen	Network Rail Boundary	Gaerwen – Network Rail Boundary	0	00	17	37	6	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
-London-North-Western-North	0969	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3023	SJD	Skelton Jn	Deansgate Jn	Skelton Jn – Deansgate Jn	0	00	0	33	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3023	CDM1	Deansgate Jn	Change of ELR (Altrincham)	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3023	CDM2	Change of ELR (Altrincham)	Mickle Trafford Jn	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3025	WJP1	Skelton Jn	Partington Jn Network Rail Boundary	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	7	N	N	Y	N	N	N	Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
-London-North-Western-North	0969	NW3027	CDM1	Network Rail Boundary (Metrolink)	Deansgate Jn	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	8	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3027	CDM1	Deansgate Jn	Altrincham	Deansgate Jn – Altrincham	7	05	8	00	8	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3029	SNJ	Sandbach North Jn	Northwich West Jn	Sandbach North Jn – Northwich West Jn	0	00	8	64	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3031	NSN	Northwich South Jn	Northwich Station Jn	Northwich South Jn – Northwich Station Jn	8	37	8	66	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW3033	HEG	Hartford East Jn	Hartford North Jn (East Goods line)	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	8	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3035	HWG	Hartford West Jn	Hartford North Jn (West Goods line)	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	8	N	N	Y	N	N	N
-London-North-Western-North	0969	NW3037	HCN	Hartford CLC Jn	Hartford Jn	Hartford CLC Jn – Hartford Jn	0	72	0	16	8	H	H	Y	H	N	N
-London-North-Western-North	0969	NW4001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0969	NW4001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0969	NW4001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0969	NW4001	CGJ6	Preston Fylde Jn	Lancaster	Preston Fylde Jn – Lancaster	0	33	20	78	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0969	NW4001	CGJ7	Lancaster	Carnforth North Jn	Lancaster – Carnforth North Jn	0	00	6	08	8	Y	Y	R1	Y	Y	Y	R1 Prohibited Lancaster Bay platform 2
+London-North-Western-North	0969	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-North	0969	NW4041	DAP	Dalton Jn	Park South Jn	Dalton Jn – Park South Jn	0	00	0	76	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP1	Crewe North Jn	Sandbach North Jn	Crewe North Jn – Sandbach North Jn	158	17	162	62	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP1	Sandbach North Jn	Wilmslow South Jn	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP1	Wilmslow South Jn	Cheadle Hulme North Jn	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP1	Cheadle Hulme North Jn	Edgeley Jn No.1	Cheadle Hulme North Jn - Edgeley Jn No.1	180	67	182	36	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP2	Edgeley Jn No.1	Edgeley Jn	Edgeley Jn No.1 - Edgeley Jn	182	36	182	59	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP2	Edgeley Jn	Slade Lane Jn	Edgeley Jn – Slade Lane Jn	182	59	186	46	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP2	Slade Lane Jn	Ardwick Jn	Slade Lane Jn – Ardwick Jn	186	46	188	08	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP2	Ardwick Jn	Manchester Piccadilly East Jn	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5001	CMP2	Manchester Piccadilly East Jn	Manchester Piccadilly	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5003	STY	Wilmslow South Jn	Heald Green South Jn	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5003	STY	Heald Green South Jn	Heald Green North Jn	Heald Green South Jn – Heald Green North Jn	2	50	3	13	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5003	STY	Heald Green North Jn	Slade Lane Jn	Heald Green North Jn – Slade Lane Jn	3	13	9	44	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5005	SMA	Heald Green South Jn	Heald Green West Jn	Heald Green South Jn – Heald Green West Jn	1	48	1	10	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5007	MIA	Manchester Airport	Heald Green North Jn	Manchester Airport – Heald Green North Jn	0	00	1	51	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5008	LEC6	Little Bridgeford Jn	Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	Little Bridgeford Jn – Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	137	42	138	55	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5008	NBS	Searchlight Lane Jn (Change of ELR and mileage)	Stone Jn	Searchlight Lane Jn (Change of ELR and mileage) – Stone Jn	4	06	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5008	NBS1	Norton Bridge Jn	Yamfield Jn (Norton Bridge East Chord)	Norton Bridge Jn – Yamfield Jn (Norton Bridge East Chord)	4	14	2	50	-	Y	N	Y	Y	Y	Y	Y	N
+London-North-Western-North	0969	NW5009	CMD2	Colwich Jn	Stone Jn	Colwich Jn – Stone Jn	38	61	27	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5009	CMD2	Stone Jn	Stoke Jn	Stone Jn – Stoke Jn	27	00	20	36	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5009	CMD2	Stoke Jn	Glebe Street Jn	Stoke Jn – Glebe Street Jn	20	36	20	10	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5009	CMD2	Glebe Street Jn	Change of ELR	Glebe Street Jn – Change of ELR	20	10	15	65	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5009	CMD1	Change of ELR	Kidsgrove Jn	Change of ELR – Kidsgrove Jn	16	00	13	68	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5009	CMD1	Kidsgrove Jn	Macclesfield Hibel Road (Change of ELR )	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR )	13	68	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5009	MCH	Macclesfield Hibel Road (Change of ELR)	Cheadle Hulme North Jn	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0969	NW5010	SCQ1	Glebe Street Jn	Change of Mileage	Glebe Street Jn – Change of Mileage	20	08	20	33	6	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0969	NW5010	SCQ1	Change of Mileage	Change of Mileage (Site of Former Milton Jn)	Change of Mileage – Change of Mileage (Site of Former Milton Jn)	0	00	3	51	6	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd

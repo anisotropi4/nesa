@@ -1,61 +1,76 @@
-                                                           OFFICIAL
+                                                     OFFICIAL
 
 
 LNW North Route Sectional Appendix Module NWF
 
 
-13. Traincrew alighting from locomotive and/or examining, etc., their train.
-
-When working over electrified lines, traincrews must not alight from the locomotive more than is necessary. Before
-examining, adjusting, repairing, etc., any part of a vehicle which is near to the conductor rail, arrangements must be made
-for the current to be switched off.
-14. Detraining of passengers in emergency.
-
-Should it be necessary for passengers to be detrained, other than at a platform, the current must be switched off before
-they are allowed to leave the train. The conductor rail of the line upon which the train is standing and also any conductor
-rails alongside or over which the passengers may have to walk must be isolated.
-15. Prevention of damage and obstruction to conductor rail.
-
-Contact must be prevented between any object or ballast and a live conductor rail and material must not be dragged
-across or dropped on such a rail.
-16. Dangerous to touch collector shoes.
-
-Collector shoes of an electric multiple unit are connected together by cables and whether in contact with the conductor rail
-or not must be considered dangerous to life.
-                                                                                LNW North Route GI - Dated: 03/12/16
 
 
-Level crossings protected by non-block signals
-Proceeding over a manned level crossing equipped with non-block signals operated by a crossing keeper during
-signal failure / disconnection of equipment or Single Line Working.
-At the level crossings listed below, the protecting signals are not part of the block signalling and are only provided to
-protect the level crossing.
-During a signal failure / disconnection of equipment, the driver will receive a green handsignal from the crossing keeper as
-authority to proceed over the level crossing irrespective of the aspect / indication shown at that protecting signal.
-The Driver having received the green handsignal must regulate the speed of the train in accordance with the aspect /
-indication previously displayed at the section signal.
-NW3001 Crewe North Jn to Holyhead
-Ty Croes LC (254m 31ch)
-NW4019 Oxenholme to Windermere
-Burneside Higher LC (3m 62ch)
-NW4033 Carnforth North Jn to Carlisle South Jn (via Barrow)
-Kirksanton LC (47m 08ch)
-Limestone Hall LC (47m 43ch)
-NW6009 Windsor Bridge North Jn to Southport
-Chapel Lane LC (24m 06ch)
-NW9021 Buxton to Hazel Grove East Jn
-Norbury Hollow LC (3m 60ch) (See Local Instructions for further details)
+SECTION                SA          ELR       Start       Start     End        End      GSM-R Predicted Poor
+                                             Miles      Chains     Miles     Chains    Coverage Details
+
+Salop Goods
+Junction to Crewe
+                                                                                       Poor coverage through tunnel
+Coal Yard
+                     NW1017         LLI       157         71       158         73      under WCML LLI 158m14ch -
+(Liverpool
+                                                                                       158m29ch
+Independent
+Lines)
+                                                                                       Poor coverage from
+Preston South
+                                                                                       Fishergate Tunnel to the NR
+Junction to Strand   NW1027        PSR2         0           0        0         40
+                                                                                       boundary PSR2 0m22ch –
+Road
+                                                                                       0m40ch
+                                                                                       Poor coverage through
+Edge Hill Bootle
+                                                                                       Spellow No. 2 Tunnel SCT1
+Branch Junction to
+                     NW2027        SCT1         0         14         4         49      4m04ch - 4m19ch &
+Atlantic Dock
+                                                                                       Westminster Tunnel SCT1
+Junction (former)
+                                                                                       4m35ch - 4m49ch
+                                                                                       Poor coverage through Oriel
+Atlantic Dock
+                                                                                       Road Tunnel SCT2 4m55ch -
+Junction (former)
+                     NW2027        SCT2         4         49         5         53      4m68ch and Alexandra Dock
+to Regent Road
+                                                                                       Tunnel SCT2 5m25ch -
+LC (NR Boundary)
+                                                                                       5m38ch
+                                                                                       Poor coverage in the cutting
+Chinley North to                                                                       and through Dove Holes
+                     NW9005       CNB1        168         39       161         05
+Buxton                                                                                 Tunnel: CNB1 164m28ch –
+                                                                                       166m19ch
+                                                                                       Poor coverage through
+Chinley North to                                                                       Ashwood Dale and Pic Tor
+                     NW9005       CNB3        161         54       164         52
+Buxton                                                                                 Tunnels inclusive: CNB3
+                                                                                       163m73ch – 162m32ch
+Buxton to Hindlow
+                                                                                       Poor coverage: BUX 2m55ch
+Brigg's Sidings      NW9019        BUX          0           0        4         70
+                                                                                       - 4m70ch
+(NR Boundary)
+
+GSM-R FAULTS AND FAILURES RESPONSE
+
+VERSION 1.1
+
+PURPOSE
+
+To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+
+Appendix covers the response to system faults from a single fixed terminal through to failures of the
+infrastructure resulting in loss of coverage in a geographical area.
 
 
-Rule Book Module P1
-During Single Line Working at those locations shown below a green handsignal will be displayed at the crossing as
-authority for movements to proceed over the crossing in the right direction (where required) and the wrong direction.
-NW3001 Crewe North Jn to Holyhead
-Ty Croes LC (254m 31ch)
-NW4033 Carnforth North Jn to Carlisle South Jn (via Barrow)
-Kirksanton LC (47m 08ch)
-Limestone Hall LC (47m 43ch)
-NW9021 Buxton to Hazel Grove East Jn
-Norbury Hollow LC (3m 60ch). (See Local Instructions for further details)
-                                                                              LNW North Route GI - Dated: 06/03/2021
-October 2009                                                 48A
+
+
+October 2009                                          46W

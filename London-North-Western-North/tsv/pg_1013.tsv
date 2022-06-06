@@ -1,24 +1,25 @@
-London-North-Western-North	1013	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1013										W6A	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Western-North	1013						M	Ch	M	Ch				
-London-North-Western-North	1013	NW4033	CBC3	Change of ELR (Maryport)	Carlisle South Jn	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	Y *	S1	S1	N	N	N	N	N	S1 The following combinations are permitted to run: Up to 2665(h), S21 TT x 2500(w) on FAA, FKA, IKA wagons 2595(h), S11 TT, S14 FT x 2500(w) on IFA, FIA wagons
-London-North-Western-North	1013	NW4041	DAP	Dalton Jn	Park South Jn	Dalton Jn – Park South Jn	0	00	0	76	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1013	NW5001	CMP1	Crewe North Jn	Sandbach North Jn	Crewe North Jn – Sandbach North Jn	158	17	162	62	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP1	Sandbach North Jn	Wilmslow South Jn	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP1	Wilmslow South Jn	Cheadle Hulme North Jn	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP1	Cheadle Hulme North Jn	Edgeley Jn No.1	Cheadle Hulme North Jn – Edgeley Jn No.1	180	67	182	36	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP2	Edgeley Jn No.1	Edgeley Jn	Edgeley Jn No.1 – Edgeley Jn	182	36	182	59	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP2	Edgeley Jn	Slade Lane Jn	Edgeley Jn – Slade Lane Jn	182	59	186	46	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP2	Slade Lane Jn	Ardwick Jn	Slade Lane Jn – Ardwick Jn	186	46	188	08	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP2	Ardwick Jn	Manchester Piccadilly East Jn	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5001	CMP2	Manchester Piccadilly East Jn	Manchester Piccadilly	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	Y *	N	N	N	N	N	N	N
-London-North-Western-North	1013	NW5003	STY	Wilmslow South Jn	Heald Green South Jn	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5003	STY	Heald Green South Jn	Heald Green North Jn	Heald Green South Jn – Heald Green North Jn	2	50	3	13	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5003	STY	Heald Green North Jn	Slade Lane Jn	Heald Green North Jn – Slade Lane Jn	3	13	9	44	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1013	NW5005	SMA	Heald Green South Jn	Heald Green West Jn	Heald Green South Jn – Heald Green West Jn	1	48	1	10	Y	N	N	N	N	N	N	N
-London-North-Western-North	1013	NW5007	MIA	Manchester Airport	Heald Green North Jn	Manchester Airport – Heald Green North Jn	0	00	1	51	Y *	N	N	N	N	N	N	N
-London-North-Western-North	1013	NW5008	NBS	Norton Bridge North Jn	Stone Jn	Norton Bridge North Jn – Stone Jn	3	57	0	00	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1013	NW5009	CMD2	Colwich Jn	Stone Jn	Colwich Jn – Stone Jn	38	61	20	36	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1013	NW5009	CMD2	Stone Jn	Stoke Jn	Stone Jn – Stoke Jn	20	36	21	04	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1013	NW5009	CMD2	Stoke Jn	Glebe Street Jn	Stoke Jn – Glebe Street Jn	21	04	20	10	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1013	NW5009	CMD2	Glebe Street Jn	Change of ELR	Glebe Street Jn – Change of ELR	20	10	15	65	Y *	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	1013	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Western-North	1013	NW6001	OLW	Ordsall Lane Jn	Windsor Bridge South Jn	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	8	Y
+London-North-Western-North	1013	NW6001	MVE1	Windsor Bridge South Jn	Windsor Bridge North Jn	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	8	Y
+London-North-Western-North	1013	NW6001	MVE1	Windsor Bridge North Jn	Bolton West Jn	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	8	Y
+London-North-Western-North	1013	NW6001	MVE2	Bolton West Jn	Lostock Jn	Bolton West Jn – Lostock Jn	10	55	13	39	8	Y
+London-North-Western-North	1013	NW6001	MVE2	Lostock Jn	Euxton Jn	Lostock Jn – Euxton Jn	13	39	25	31	8	Y
+London-North-Western-North	1013	NW6003	MAJ	Castlefield Jn	Trafford Park Sidings (Limit of Electrification)	Castlefield Jn – Trafford Park Sidings (Limit of Electrification)	33	57	31	35	8	Y
+London-North-Western-North	1013	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification)	Hunts Cross	Trafford Park Sidings (Limit of Electrification) – Hunts Cross	31	35	7	07	7	Y
+London-North-Western-North	1013	NW6003	MAJ	Hunts Cross	Hunts Cross West Jn	Hunts Cross – Hunts Cross West Jn	7	07	6	11	7	Y
+London-North-Western-North	1013	NW6003	AHX	Hunts Cross West Jn	Allerton Jn	Hunts Cross West Jn – Allerton Jn	0	37	0	00	7	Y
+London-North-Western-North	1013	NW6004	OCD	Water Street Jn	Irwell Street Jn (Change of Mileage and ELR)	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	10	Y
+London-North-Western-North	1013	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR)	Deal Street Jn (Ordsall Curve lines)	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	10	Y
+London-North-Western-North	1013	NW6005	MVM	Manchester Victoria East Jn	Manchester Victoria	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	8	Y
+London-North-Western-North	1013	NW6005	MVE1	Manchester Victoria	Deal Street Jn (Chat Moss Lines)	Manchester Victoria – Deal Street Jn (Chat Moss Lines)	0	00	0	32	8	Y
+London-North-Western-North	1013	NW6005	MVE1	Deal Street Jn	Windsor Bridge South Jn	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	8	Y
+London-North-Western-North	1013	NW6007	DSE	Deal Street Jn	Ordsall Lane Jn	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	8	Y
+London-North-Western-North	1013	NW6009	WBS1	Windsor Bridge North Jn	Crow Nest Jn	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	8	R1 R2	R1 Prohibited between Windsor Bridge North Jn and Swinton on the Down Atherton line R2 Prohibited between Moorside and Walkden on the Down Atherton line
+London-North-Western-North	1013	NW6009	WBS2	Crow Nest Jn	Wigan Station Jn	Crow Nest Jn – Wigan Station Jn	14	64	17	44	8	Y
+London-North-Western-North	1013	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	Y
+London-North-Western-North	1013	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	8	Y
+London-North-Western-North	1013	NW6011	BBB	Bolton East Jn	Blackburn Bolton Jn	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	R1	R1 Prohibited Bolton platform 1 (Down Darwen line)
+London-North-Western-North	1013	NW6013	LCN	Lostock Jn	Crow Nest Jn	Lostock Jn – Crow Nest Jn	13	39	17	18	8	Y
+London-North-Western-North	1013	NW6015	WKL1	Wigan Wallgate Jn	Change of Mileage (Pemberton)	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	7	Y
+London-North-Western-North	1013	NW6015	WKL2	Change of Mileage (Pemberton)	Kirkby	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	7	Y
+London-North-Western-North	1013	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005)	Miles Platting Jn	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	8	Y

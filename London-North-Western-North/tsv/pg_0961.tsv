@@ -1,21 +1,20 @@
-London-North-Western-North	0961	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
-London-North-Western-North	0961	NW8007	AFL	Change of ELR (Site of Former Sefton Jn)	Aintree Station Jn	Change of ELR (Site of Former Sefton Jn) – Aintree Station Jn	0	00	0	40	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW8009	WJK	Walton Jn	Kirkby	Walton Jn – Kirkby	33	16	29	41	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW8011	MIR1	Mann Island Jn	Mann Island Jn via Loop	Mann Island Jn – Mann Island Jn via Loop	0	00	2	12	8	N	N	R1	N	R2	Y	Y	N	R1 Permitted for track maintenance and engineering train movements R2 Prohibited from Liverpool Loop deep level Tunnel between James Street and James Street
-London-North-Western-North	0961	NW8011	MIR2	Mann Island Jn	Hamilton Square Jn	Mann Island Jn – Hamilton Square Jn	0	69	1	72	8	N	N	R1	N	R2	R3	Y	N	R1 Permitted for track maintenance and engineering train movements R2 Prohibited Down West Kirby between Canning St Jn and Birkenhead North R3 Prohibited Down West Kirby Line between Canning Street Jn and Conway Park
-London-North-Western-North	0961	NW8011	CWK1	Hamilton Square Jn	Change of ELR (Birkenhead Park)	Hamilton Square Jn – Change of ELR (Birkenhead Park)	1	72	3	00	8	N	N	R1	N	R2	Y	Y	N	R1 Permitted for track maintenance and engineering train movements R2 Prohibited on the Down West Kirby
-London-North-Western-North	0961	NW8011	CWK2	Change of ELR (Birkenhead Park)	Bidston East Jn	Change of ELR (Birkenhead Park) – Bidston East Jn	3	00	4	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW8011	CWK3	Bidston East Jn	Bidston Dee Jn	Bidston East Jn – Bidston Dee Jn	4	40	4	78	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW8011	CWK3	Bidston Dee Jn	West Kirby	Bidston Dee Jn – West Kirby	4	78	10	46	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW8013	MIR2	Canning Street Jn	Rock Ferry	Canning Street Jn – Rock Ferry	1	60	3	42	8	R1	R1	Y	R1	Y	Y	Y	R1	R1 Prohibited between Canning St Jn and 2m 24ch (east of Birkenhead Central)
-London-North-Western-North	0961	NW8013	CRR2	Rock Ferry	Hooton South Jn	Rock Ferry – Hooton South Jn	13	43	7	68	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW8015	BEN	Bidston East Jn	New Brighton (New Brighton lines)	Bidston East Jn – New Brighton (New Brighton lines)	4	40	7	18	6	N	N	R1	N	N	N	R1	R1	R1 OPPOS applies over Bridge 19 (06m 50ch to 6m 52ch)
-London-North-Western-North	0961	NW8017	CCS1/ 2	Network Rail Boundary (Canning Street North)	Rock Ferry South Jn	Network Rail Boundary (Canning Street North) – Rock Ferry South Jn	15	40	13	30	8	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Down & Up Canning St line
-London-North-Western-North	0961	NW9001	MAS	Route Boundary (LN808) (Dore West Jn)	Chinley North Jn	Route Boundary (LN808) (Dore West Jn) – Chinley North Jn	154	20	174	01	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9001	TTA1	Chinley North Jn	New Mills South Jn	Chinley North Jn – New Mills South Jn	168	39	172	27	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9001	NMC1	New Mills South Jn	Hazel Grove High Level Jn	New Mills South Jn – Hazel Grove High Level Jn	172	27	177	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9001	HGC	Hazel Grove High Level Jn	Hazel Grove East Jn	Hazel Grove High Level Jn – Hazel Grove East Jn	2	62	2	35	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9001	BEJ	Hazel Grove East Jn (Limit of Electrification)	Edgeley Jn No.1	Hazel Grove East Jn (Limit of Electrification) – Edgeley Jn No.1	2	35	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9003	CYC	Chinley East Jn	Chinley South Jn (Chord Line)	Chinley East Jn – Chinley South Jn (Chord Line)	168	32	167	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9005	CNB1	Chinley North Jn	Chinley South Jn	Chinley North Jn – Chinley South Jn	168	39	167	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0961	NW9005	CNB1	Chinley South Jn	Change of Mileage (Site of Former Peak Forest Jn)	Chinley South Jn – Change of Mileage (Site of Former Peak Forest Jn)	167	56	161	05	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0961	NW9009	MRH	Marple Wharf Jn	Rose Hill Buffer Stop	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	8	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9011	RYH1	Romiley Jn	Woodley Jn	Romiley Jn – Woodley Jn	178	33	179	44	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9011	RYH2	Woodley Jn	Hyde Jn	Woodley Jn – Hyde Jn	8	74	6	16	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9013	WJP1	Woodley Jn	Bredbury Sidings	Woodley Jn – Bredbury Sidings	40	53	39	58	7	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9017	NMC1/ 2	Hazel Grove High Level Jn	Cheadle Jn	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9017	WJP1	Cheadle Jn	Northenden Jn	Cheadle Jn – Northenden Jn	35	64	33	52	8	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9019	BUX	Buxton	Brigg’s Sidings	Buxton – Brigg’s Sidings	0	00	4	70	8	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9021	BEJ	Buxton	Hazel Grove East Jn	Buxton – Hazel Grove East Jn	19	09	2	35	8	R1	N	R1	R1	R1	R1	R1	R1	R1 Restricted to 25mph over Bridge 42 (10m 20ch) and must not pass any other train or vehicle on the bridge
+London-North-Western-North	0961	NW9901	SKW1	Route Boundary (LN922) (Gargrave)	Settle Jn	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9901	SAC	Settle Jn	Petteril Bridge Jn	Settle Jn – Petteril Bridge Jn	234	44	307	12	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9901	NEC2	Petteril Bridge Jn	London Road Jn	Petteril Bridge Jn – London Road Jn	59	26	59	45	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9901	NEC2	London Road Jn	Carlisle South Jn	London Road Jn – Carlisle South Jn	59	45	60	02	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9903	SKW1	Settle Jn	Change of Mileage (Wennington)	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9903	SJC	Change of Mileage (Wennington)	Change of Mileage (Site of former Carnforth East Jn)	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn)	Carnforth Station Jn	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	7	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9907	EDE	Network Rail Boundary (Warcop)	End of Line	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	7	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9909	NEC2	Route Boundary (LN682) (Corby Gates)	Petteril Bridge Jn	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0961	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods Lines)	London Road Jn – Bog Jn (Newcastle Goods Lines)	0	00	0	25	8	Y	N	Y	Y	Y	Y	Y	Y

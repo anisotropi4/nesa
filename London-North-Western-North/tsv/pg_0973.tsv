@@ -1,27 +1,15 @@
-London-North-Western-North	0973	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Western-North	0973	NW5017	DSD	Dinting South Jn	Dinting East Jn	Dinting South Jn – Dinting East Jn	0	72	1	05	8	Y	Y	Y	Y	Y	N
-London-North-Western-North	0973	NW5019	GDW	Glossop	Dinting South Jn	Glossop – Dinting South Jn	0	01	0	72	8	Y	Y	Y	Y	Y	N
-London-North-Western-North	0973	NW5019	GDW	Dinting South Jn	Dinting West Jn	Dinting South Jn – Dinting West Jn	0	72	1	05	8	Y	Y	Y	Y	Y	N
-London-North-Western-North	0973	NW5021	SAJ	Stalybridge Jn	Guide Bridge West Jn	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	8	H R1	N	Y	N	N	N	R1 20mph over Bridge 11 (1m 40ch - 1m 60ch) (between Ashton viaduct and Stalybridge Jn)
-London-North-Western-North	0973	NW6001	COL	Manchester Piccadilly East Jn	Castlefield Jn	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	8	Y	Y	Y	Y	N	Y
-London-North-Western-North	0973	NW6001	COL	Castlefield Jn	Ordsall Lane Jn	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	8	Y	Y	Y	Y	N	Y
-London-North-Western-North	0973	NW6001	OLW	Ordsall Lane Jn	Windsor Bridge South Jn	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6001	MVE1	Windsor Bridge South Jn	Windsor Bridge North Jn	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6001	MVE1	Windsor Bridge North Jn	Bolton West Jn	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6001	MVE2	Bolton West Jn	Lostock Jn	Bolton West Jn – Lostock Jn	10	55	13	39	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6001	MVE2	Lostock Jn	Euxton Jn	Lostock Jn – Euxton Jn	13	39	25	31	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6003	MAJ	Castlefield Jn	Trafford Park Sidings (Limit of Electrification)	Castlefield Jn - Trafford Park Sidings (Limit of Electrification)	33	57	31	35	8	Y	Y	Y	Y	N	Y
-London-North-Western-North	0973	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification)	Hunts Cross	Trafford Park Sidings (Limit of Electrification) - Hunts Cross	31	35	7	07	7	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6003	MAJ	Hunts Cross	Hunts Cross West Jn	Hunts Cross - Hunts Cross West Jn	7	07	6	11	7	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6003	AHX	Hunts Cross West Jn	Allerton Jn	Hunts Cross West Jn – Allerton Jn	0	37	0	00	7	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6004	OCD	Water Street Jn	Irwell Street Jn (Change of Mileage and ELR)	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	10	Y	Y	N	Y	N	Y
-London-North-Western-North	0973	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR)	Deal Street Jn (Ordsall Curve lines)	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	10	Y	Y	N	Y	N	Y
-London-North-Western-North	0973	NW6005	MVM	Manchester Victoria East Jn	Manchester Victoria	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6005	MVE1	Manchester Victoria	Deal Street Jn (Chat Moss Lines)	Manchester Victoria – Deal Street Jn (Chat Moss Lines)	0	00	0	32	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6005	MVE1	Deal Street Jn	Windsor Bridge South Jn	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	8	N	N	Y	N	N	N
-London-North-Western-North	0973	NW6007	DSE	Deal Street Jn	Ordsall Lane Jn	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6009	WBS1	Windsor Bridge North Jn	Crow Nest Jn	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6009	WBS2	Crow Nest Jn	Wigan Station Jn	Crow Nest Jn – Wigan Station Jn	14	64	17	44	8	H	H	Y	H	N	N
-London-North-Western-North	0973	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	N	N	Y	N	N	N
-London-North-Western-North	0973	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	8	N	N	Y	N	N	N
-London-North-Western-North	0973	NW6011	BBB	Bolton East Jn	Blackburn Bolton Jn	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	H	H	Y	H	N	N
+London-North-Western-North	0973	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-North	0973	NW7025	PPA1	Philips Park South Jn	Change of Mileage	Philips Park South Jn – Change of Mileage	2	07	3	12	7	R1	R1	R1	N	R1	R1	R1	R1	R1 OPPOS applies over Bridge 4 (02m 20ch - 2m 40ch)
+London-North-Western-North	0973	NW7025	PPA2	Change of Mileage	Ashburys West Jn	Change of Mileage – Ashburys West Jn	0	57	0	00	7	R1	R1	R1	N	R1	R1	R1	R1	R1 OPPOS applies over Bridges 1, 4 and 8 (0mch - 0m 60ch)
+London-North-Western-North	0973	NW7027	PPP1	Baguley Fold Jn	Change of Mileage	Baguley Fold Jn – Change of Mileage	2	39	2	13	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0973	NW7027	PPP2	Change of Mileage	Philips Park South Jn	Change of Mileage – Philips Park South Jn	0	00	0	19	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0973	NW8001	HXS1	Hunts Cross West Jn	Liverpool Central	Hunts Cross West Jn – Liverpool Central	6	11	0	02	8	R1	R1	R2 R3	R1	R1	R1	Y	R1	R1 Prohibited between Start / End of underground section and Liverpool Central R2 Permitted between Hunts Cross West Jn and Start / End of underground section. R3 Permitted between Start / End of underground section and Liverpool Central for track maintenance and engineering train movements only
+London-North-Western-North	0973	NW8001	HXS2	Liverpool Central	Paradise Jn	Liverpool Central – Paradise Jn	37	13	36	71	8	N	N	R1	N	N	N	Y	N	R1 Permitted for track maintenance and engineering train movements only
+London-North-Western-North	0973	NW8001	HXS2	Paradise Jn	Sandhills Jn	Paradise Jn – Sandhills Jn	36	71	34	75	8	R1	R1	R2 R3	R1	R1	R1 R4	Y	R1	R1 Prohibited between Paradise Jn and Leeds Street Portal R2 Permitted for track maintenance and engineering train movements only between Paradise Jn and Leeds Street Portal R3 Permitted between Leeds Street Portal and Sandhills Jn R4 Prohibited Up Southport line between Leeds Street Portal and Sandhills
+London-North-Western-North	0973	NW8001	HXS3	Sandhills Jn	Bootle Jn	Sandhills Jn – Bootle Jn	1	41	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0973	NW8001	HXS3	Bootle Jn	Southport	Bootle Jn – Southport	2	39	18	35	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 11 (2m 71ch to 2m 73ch)
+London-North-Western-North	0973	NW8003	SIL	Paradise Jn	James Street (Stock Interchange/Holding line)	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	8	N	N	R1	N	N	N	Y	N	R1 Permitted for track maintenance and engineering train movements only
+London-North-Western-North	0973	NW8005	SJO1	Sandhills Jn	Walton Jn	Sandhills Jn – Walton Jn	34	75	33	16	7	Y	N	Y	N	Y	Y	Y	Y
+London-North-Western-North	0973	NW8005	SJO2	Walton Jn	Ormskirk	Walton Jn – Ormskirk	3	20	12	13	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0973	NW8007	HXS/ NMM	Bootle Jn	Change of ELR (Site of Former North Mersey Jn)	Bootle Jn – Change of ELR (Site of Former North Mersey Jn)	2	34	3	52	7	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0973	NW8007	NMB	Change of ELR (Site of Former North Mersey Jn)	Change of ELR (Site of Former Sefton Jn)	Change of ELR (Site of Former North Mersey Jn) – Change of ELR (Site of Former Sefton Jn)	34	40	32	42	7	Y	R1	Y	R1	Y	Y	Y	Y	R1 10mph over Bridges 1 and 16 (34mch - 34m 20ch)

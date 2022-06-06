@@ -1,55 +1,19 @@
-                                                                                        OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                                     LNW North Route Sectional Appendix Module NWRC
-
-Line of ELR     Line of Route / Sector Description                       oooo oooo oooo oooo 317 319 321 322 323 325 350 Notes
-route                                                                     M    Ch   M    Ch 000      000 000 000 000 000 ooooooooooooooooooooooooooo
-                                                                                              0       0   0   0   0   0
-NW4033 CBC1     Carnforth Station Jn – Limit of Electrification              0    38     0        60   N    N    N   N   N   H    E
-                (Carnforth)
-NW4033 CBC1      Limit of Electrification (Carnforth) - Whitehaven          0     60    74        66   N    N    N   N   N   H    N
-NW4033 CBC1     Whitehaven - Bransty SB (Change of ELR)                    74     66    74        73   N    N    N   N   N   H    N
-NW4033 CBC2     Bransty SB (Change of ELR) – Change of ELR                  0     16    12        05   N    N    N   N   N   H    N
-                (Maryport)
-NW4033 CBC3     Change of ELR (Maryport) – Carlisle South Jn                 0    00    27        49   N    N    N   N   N   H    N R1     Prohibited between Maryport and Carlisle
-                                                                                                                             R1            South Jn
-NW4041   DAP    Dalton Jn – Park South Jn                                   0     00     0        76   N    N    N   N   N   H    N
-NW5001   CMP1   Crewe North Jn – Sandbach North Jn                        158     17   162        62   N    Y    Y   Y   Y   Y    R1 R1    Class 350/1 prohibited when laden
-NW5001   CMP1   Sandbach North Jn – Wilmslow South Jn                     162     62   176        53   N    Y    Y   Y   Y   Y    R1 R1    Class 350/1 prohibited when laden
-NW5001   CMP1   Wilmslow South Jn – Cheadle Hulme North Jn                176     53   180        67   R1   Y    Y   Y   Y   Y    R2 R1    Prohibited between Wilmslow South Jn and
-                                                                                                                                           Cheadle Hulme
-                                                                                                                                      R2   Class 350/1 prohibited when laden
-NW5001   CMP1
-            Cheadle Hulme North Jn - Edgeley Jn No.1                      180     67   182        36   Y    Y    Y   Y   Y   Y    Y
-NW5001   CMP2
-            Edgeley Jn No.1 - Edgeley Jn                                  182     36   182        59   Y    Y    Y   Y   Y   Y    Y
-NW5001      Edgeley Jn – Slade Lane Jn
-         CMP2                                                             182     59   186        46   Y    Y    Y   Y   Y   Y    Y
-NW5001      Slade Lane Jn – Ardwick Jn
-         CMP2                                                             186     46   188        08   Y    Y    Y   Y   Y   Y    Y
-NW5001      Ardwick Jn – Manchester Piccadilly East Jn
-         CMP2                                                             188     08   188        48   Y    Y    Y   Y   Y   Y    Y
-NW5001      Manchester Piccadilly East Jn – Manchester Piccadilly
-         CMP2                                                             188     48   188        70   Y    Y    Y   Y   Y   Y    Y
-NW5003   STYWilmslow South Jn – Heald Green South Jn                        0     00     2        50   N    Y    Y   Y   Y   Y    Y
-NW5003   STYHeald Green South Jn – Heald Green North Jn                     2     50     3        13   N    Y    Y   Y   Y   Y    Y
-NW5003   STYHeald Green North Jn – Slade Lane Jn                            3     13     9        44   N    Y    Y   Y   Y   Y    Y
-NW5005   SMAHeald Green South Jn – Heald Green West Jn                      1     48     1        10   N    Y    Y   Y   Y   H    Y
-NW5007   MIAManchester Airport – Heald Green North Jn                       0     00     1        51   N    Y    Y   Y   Y   H    Y
-NW5008      Little Bridgeford Jn – Searchlight Lane Jn (Change of
-         LEC6                                                             137     42   138        55   Y    N    Y   Y   Y   Y    Y
-            ELR and mileage) (Up line only)
-NW5008 NBS  Searchlight Lane Jn (Change of ELR and mileage) –                4    06     0        00   Y    N    Y   Y   Y   Y    Y
-            Stone Jn
-NW5008 NBS1 Norton Bridge Jn – Yamfield Jn (Norton Bridge East               4    14     2        50   N    N    N   N   N   N    N
-            Chord)
-NW5009 CMD2 Colwich Jn – Stone Jn                                          38     61    27        00   Y    N    Y   Y   Y   Y    Y
-NW5009 CMD2 Stone Jn – Stoke Jn                                            27     00    20        36   Y    N    Y   Y   Y   Y    Y
-NW5009 CMD2 Stoke Jn – Glebe Street Jn                                     20     36    20        10   Y    Y    Y   Y   Y   Y    Y
-NW5009 CMD2                                                                20     10    15        65   Y    R1   Y   Y   Y   Y    Y R2     Prohibited Up Goods Loop between
-            Glebe Street Jn – Change of ELR                                                                                                Bradwell Jn and Longport Jn
-NW5009 CMD1 Change of ELR – Kidsgrove Jn                                   16     00    13        68   Y    Y    Y   Y   Y   Y    Y
+                                                               LNW North Route Sectional Appendix Module NWRC
 
 
-October 2009                                                                                 23
+
+
+NW7009 FHR3    Lostock Hall Jn – Change of ELR (Site of   1     42     2   10    N    N      N   N   N    Y     Y   Y   N
+               Former Bamber Bridge Jn)
+NW7009 FHR4    Change of ELR (Site of Former Bamber       2     10    10   11    N    N      N   N   N    Y     Y   Y   N
+               Bridge Jn) – Blackburn Bolton Jn
+NW7009 FHR4    Blackburn Bolton Jn – Blackburn            10    11    10   42    N    N      N   N   N    R1    Y   Y   N R1 Prohibited Blackburn platform 3
+NW7009 FHR5    Blackburn – Daisyfield Jn                  10    42    11   09    N    N      N   N   N    Y     Y   Y   N
+
+
+
+
+October 2009                                                                         16O

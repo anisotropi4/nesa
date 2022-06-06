@@ -1,22 +1,15 @@
-London-North-Western-North	1001	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	1001	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	8	Y
-London-North-Western-North	1001	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn – Thorpes Bridge Jn	1	52	2	17	8	Y
-London-North-Western-North	1001	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	Y
-London-North-Western-North	1001	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	8	Y
-London-North-Western-North	1001	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	R1 R2 R3	R1 Prohibited through Summit Tunnel (Down L & Y) R2 Prohibited through Summit Tunnel (Up L & Y) R3 Prohibited through Deanroyd Tunnel (Down L & Y)
-London-North-Western-North	1001	NW7001	MVN2	Hall Royd Jn	Route Boundary (LN854) (Turners Lane Jn)	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	Y
-London-North-Western-North	1001	NW7005	CEH	Castleton East Jn.	Castleton North Jn	Castleton East Jn. – Castleton North Jn	0	00	0	37	8	Y
-London-North-Western-North	1001	NW7005	CPI1	Castleton South Jn	Castleton North Jn	Castleton South Jn – Castleton North Jn	8	21	8	50	8	Y
-London-North-Western-North	1001	NW7005	CPI2	Castleton North Jn	Network Rail / East Lancashire Railway Boundary (Hopwood)	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	Y
-London-North-Western-North	1001	NW7007	FCO	Farington Curve Jn	Ormskirk	Farington Curve Jn – Ormskirk	25	64	12	15	8	Y
-London-North-Western-North	1001	NW7009	FHR1	Farington Curve Jn	Lostock Hall Depot	Farington Curve Jn – Lostock Hall Depot	0	00	0	75	8	Y
-London-North-Western-North	1001	NW7009	FHR2	Lostock Hall Depot	Lostock Hall Jn	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	Y
-London-North-Western-North	1001	NW7009	FHR3	Lostock Hall Jn	Change of ELR (Site of Former Bamber Bridge Jn)	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	8	Y
-London-North-Western-North	1001	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y
-London-North-Western-North	1001	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y
-London-North-Western-North	1001	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	8	Y
-London-North-Western-North	1001	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	8	R1	R1 Prohibited between Huncoat and Hapton on the Up East Lancs line
-London-North-Western-North	1001	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	8	R1 R2	R1 Prohibited between Burnley Manachester Road and Copy Pit on the Down East Lancs line R2 Prohibited between Burnley Manachester Road and Hall Royd Jn on the Up East Lancs line
-London-North-Western-North	1001	NW7011	LHL	Farington Jn	Limit of electrification	Farington Jn – Limit of electrification	0	00	0	56	8	Y
-London-North-Western-North	1001	NW7011	LHL	Limit of electrification	Lostock Hall Jn (Lostock Hall Lines)	Limit of electrification – Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y
-London-North-Western-North	1001	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	8	Y
+London-North-Western-North	1001	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	1001	NW8013	Canning Street Jn. - Hooton South Jn.	Canning Street Jn.	Hooton South Jn.	8	/	Y
+London-North-Western-North	1001	NW8015	Bidston East Jn. – New Brighton (New Brighton lines)	Bidston East Jn.	New Brighton (New Brighton lines)	6	/	R	R	BEN Br.19 (6m 50ch - 6m 52ch) vehicles which exceed the RA of the line must not pass other loco hauled trains on the bridge.
+London-North-Western-North	1001	NW8017	Canning Street North - Rock Ferry South Jn. (Out of use)	Canning Street North	Rock Ferry South Jn. (Out of use)	-	/	-
+London-North-Western-North	1001	NW9001	Dore West Jn. – Edgeley Jn. No.1 (Hope Valley Lines)	Dore West Jn.	Edgeley Jn. No.1 (Hope Valley Lines)	8	R	Y	R	Clear to W6A Ex. (W7) Dore West Jn. - Hazel Grove HL Jn.
+London-North-Western-North	1001	NW9003	Chinley East Jn. - Chinley South Jn. (Chord Line)	Chinley East Jn.	Chinley South Jn. (Chord Line)	8	W6A Ex. (W7)	Y
+London-North-Western-North	1001	NW9005	Chinley North Jn. - Buxton	Chinley North Jn.	Buxton	8	R1	R2	R1 R2	Clear to W6A Ex. (W7) Chinley North Jn. - Great Rocks. RA9/10 loaded freight vehicles are restricted to 40mph Chinley North Jn. - Tunstead.
+London-North-Western-North	1001	NW9007	New Mills South Jn. - Ashburys East Jn.	New Mills South Jn.	Ashburys East Jn.	8 R1	W6A Ex. (W7)	R2	R1 R2	This line is RA7 from Romiley Jn. to Ashburys East Jn ELR: TTA2, Br.18: RA8/9/10 loaded freight vehicles are restricted to 30mph over the bridge, Reddish Viaduct (43m 04ch – 43m 18ch).
+London-North-Western-North	1001	NW9009	Marple Wharf Jn. – Rose Hill	Marple Wharf Jn.	Rose Hill	7	/	Y
+London-North-Western-North	1001	NW9011	Romiley Jn. - Hyde Jn.	Romiley Jn.	Hyde Jn.	8	W6A Ex. (W7)	R	R	RA9/10 loaded freight vehicles are restricted to 40mph maximum speed throughout.
+London-North-Western-North	1001	NW9013	Woodley Jn. – Bredbury Sidings	Woodley Jn.	Bredbury Sidings	7	W6A Ex. (W7)	Y
+London-North-Western-North	1001	NW9017	Hazel Grove High Level Jn. - Northenden Jn.	Hazel Grove High Level Jn.	Northenden Jn.	8	W6A Ex. (W7)	Y
+London-North-Western-North	1001	NW9019	Buxton - Brigg’s Sidings	Buxton	Brigg’s Sidings	8	/	Y
+London-North-Western-North	1001	NW9021	Buxton – Hazel Grove East Jn	Buxton	Hazel Grove East Jn	8	/	R	R	ELR: BEJ, Br.42 – RA9/10 vehicles restricted to 5 mph over the bridge (10m 20ch – 10m 22ch) and must not pass any other train or vehicle on the bridge
+London-North-Western-North	1001	NW9901	Gargrave – Carlisle South Jn.	Gargrave	Carlisle South Jn.	8	W6A Ex (W7)	R	R	For RA9/10 loaded freight vehicles the following bridge specific restriction must be observed: ELR: SAC, Br.66 – 20 mph in both directions over the bridge “Ribblehead Viaduct” between Horton-in-Ribblesdale and Blea Moor (247m 40ch – 248mch)

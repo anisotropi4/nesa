@@ -1,29 +1,21 @@
-London-North-Western-North	0958	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	88	97/3	Notes
-London-North-Western-North	0958	NW6001	MVE1	Windsor Bridge North Jn	Bolton West Jn	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6001	MVE2	Bolton West Jn	Lostock Jn	Bolton West Jn – Lostock Jn	10	55	13	39	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6001	MVE2	Lostock Jn	Euxton Jn	Lostock Jn – Euxton Jn	13	39	25	31	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6003	MAJ	Castlefield Jn	Trafford Park Sidings (Limit of Electrification)	Castlefield Jn - Trafford Park Sidings (Limit of Electrification)	33	57	31	35	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification)	Hunts Cross	Trafford Park Sidings (Limit of Electrification) - Hunts Cross	31	35	7	07	7	Y	R1	Y	N	Y	Y	Y		Y	R1 10mph over Bridge 130 (18m 22ch - 18m 24ch)
-London-North-Western-North	0958	NW6003	MAJ	Hunts Cross	Hunts Cross West Jn	Hunts Cross - Hunts Cross West Jn	7	07	6	11	7	Y	Y	Y	N	Y	Y	Y		Y
-London-North-Western-North	0958	NW6003	AHX	Hunts Cross West Jn	Allerton Jn	Hunts Cross West Jn – Allerton Jn	0	37	0	00	7	Y	Y	Y	N	Y	Y	Y		Y
-London-North-Western-North	0958	NW6004	OCD	Water Street Jn	Irwell Street Jn (Change of Mileage and ELR)	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	10	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR)	Deal Street Jn (Ordsall Curve lines)	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	10	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6005	MVM	Manchester Victoria East Jn	Manchester Victoria	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6005	MVE1	Manchester Victoria	Deal Street Jn (Chat Moss Lines)	Manchester Victoria – Deal Street Jn (Chat Moss Lines)	0	00	0	32	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6005	MVE1	Deal Street Jn	Windsor Bridge South Jn	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6007	DSE	Deal Street Jn	Ordsall Lane Jn	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6009	WBS1	Windsor Bridge North Jn	Crow Nest Jn	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	8	Y	N	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6009	WBS2	Crow Nest Jn	Wigan Station Jn	Crow Nest Jn – Wigan Station Jn	14	64	17	44	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6011	BBB	Bolton East Jn	Blackburn Bolton Jn	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6013	LCN	Lostock Jn	Crow Nest Jn	Lostock Jn – Crow Nest Jn	13	39	17	18	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW6015	WKL1	Wigan Wallgate Jn	Change of Mileage (Pemberton)	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	7	Y	R1 R2	Y	R1 R2	Y	Y	Y		Y	R1 30mph over Bridge 52 (18m 29ch - 18m 33ch) R2 30mph over Bridge 53 (18m 40ch - 18m 44ch)
-London-North-Western-North	0958	NW6015	WKL2	Change of Mileage (Pemberton)	Kirkby	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	7	Y	R1	Y	R1	Y	Y	Y		Y	R1 Prohibited between Knowsley Freight Terminal and Kirkby
-London-North-Western-North	0958	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005)	Miles Platting Jn	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	8	Y	Y	Y	Y	Y	Y	Y		Y
-London-North-Western-North	0958	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	Y	Y	Y	Y	R3	R1 R2	Y	Y	Y	R1 Prohibited Up Line through Summit Tunnel R2 Prohibited Down Line through Dean Royd Tunnel
-London-North-Western-North	0958	NW7001	MVN2	Hall Royd Jn	Route Boundary (LN854) (Turners Lane Jn)	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	Y	Y	Y	Y	Y	Y	Y		Y
+London-North-Western-North	0958	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0958	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7011	LHL	Farington Jn	Limit of Electrification	Farington Jn – Limit of Electrification	0	00	0	56	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7011	LHL	Limit of Electrification	Lostock Hall Jn (Lostock Hall Lines)	Limit of Electrification – Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7015	PRG	End of Line (Padiham Power Station Sidings)	Rose Grove West Jn	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0958	NW7017	GJC	Gannow Jn	Colne	Gannow Jn – Colne	21	03	27	37	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 30mph over Bridge 91 (25m 33ch – 25m 34ch)
+London-North-Western-North	0958	NW7019	MPR2	Thorpes Bridge Jn	Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	Y	N	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7021	MVL1	Miles Platting Jn	Philips Park West Jn	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7021	MVL1	Philips Park West Jn	Baguley Fold Jn	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7021	MVL1	Baguley Fold Jn	Ashton Moss North Jn	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7021	MVL1	Ashton Moss North Jn	Stalybridge Jn	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7021	MVL2	Stalybridge Jn	Stalybridge Tunnel Jn	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7021	MVL3	Stalybridge Tunnel Jn	Route Boundary (LN860) (Springwood Jn)	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7023	BPP	Philips Park West Jn	Brewery Jn	Philips Park West Jn – Brewery Jn	0	00	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7025	PPA1	Philips Park West Jn	Philips Park South Jn	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0958	NW7025	PPA1	Philips Park South Jn	Change of Mileage	Philips Park South Jn – Change of Mileage	2	07	3	12	7	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 4 (02m 20ch – 2m 40ch)

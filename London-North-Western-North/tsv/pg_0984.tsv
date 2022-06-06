@@ -1,14 +1,26 @@
-London-North-Western-North	0984	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0984	NW4027	Carlisle Yard Recess Sidings - Brunthill	Carlisle Yard Recess Sidings	Brunthill	8	/	Y
-London-North-Western-North	0984	NW4029	Mossband Jn. - Bush-on-Esk	Mossband Jn.	Bush-on-Esk	8	/	Y
-London-North-Western-North	0984	NW4031	Gretna Jn – Gretna Green (excl.)	Gretna Jn	Gretna Green (excl.)	8	W6A Ex. (W7)	Y
-London-North-Western-North	0984	NW4033	Carnforth North Jn. - Carlisle South Jn. (Via Barrow)	Carnforth North Jn.	Carlisle South Jn. (Via Barrow)	8 R1	R2	R3	R1 R2 R3	RA7 between Whitehaven and Maryport, but RA8/9/10 vehicles are permitted throughout. Clear to W6A Ex. (W8) gauge for containers carried on FFA - FGA and KFA wagons between Workington Yard – Carlisle South Jn. only. RA9/10 vehicles are permitted subject to the following speed restrictions: ELR: CBC1, Br.15: 20mph over the viaduct (6m 40ch – 7mch) ELR: CBC1, Br.106: 20mph over the bridge (42m 20ch - 42m 40ch) ELR: CBC1, Br.151: 30mph over the bridge (59m 05ch - 59m 50ch) ELR: CBC1, Br.169: 20mph over the bridge (64m 20ch - 64m 40ch) ELR: CBC3: 30mph in the Down direction only between Maryport and Aspatria (2m 40ch – 3m 20ch) ELR: CBC3: 30mph in the Up direction only between Wigton and Dalston (22mch – 21m 40ch and 19mch – 18m 20ch)
-London-North-Western-North	0984	NW4041	Dalton Jn. - Park South Jn.	Dalton Jn.	Park South Jn.	8	/	Y
-London-North-Western-North	0984	NW5001	Crewe North Jn. - Manchester Piccadilly	Crewe North Jn.	Manchester Piccadilly	8	SB1C (W9)	R	R	CMP2 Br.17: RA9/10 vehicles are restricted to 30mph over the bridge (185m 65ch to 185m 68ch).
-London-North-Western-North	0984	NW5003	Wilmslow - Slade Lane Jn. (Styal lines).	Wilmslow	Slade Lane Jn. (Styal lines).	8	SB1C (W9)	Y
-London-North-Western-North	0984	NW5005	Heald Green South Jn. - Heald Green West Jn.	Heald Green South Jn.	Heald Green West Jn.	8	/	Y
-London-North-Western-North	0984	NW5007	Manchester Airport - Heald Green North Jn.	Manchester Airport	Heald Green North Jn.	8	/	Y
-London-North-Western-North	0984	NW5008	Norton Bridge Jn. – Stone Jn.	Norton Bridge Jn.	Stone Jn.	8	W6A Ex (W12)	Y
-London-North-Western-North	0984	NW5009	Colwich Jn. - Cheadle Hulme	Colwich Jn.	Cheadle Hulme	8	W6A Ex (W12)	R	R	W12 prohibited from Up & Down platform line at Macclesfield Station
-London-North-Western-North	0984	NW5010	Glebe Street Jn. – Caldon Quarry (Out of use)	Glebe Street Jn.	Caldon Quarry (Out of use)	-	W6A (W6)	-
-London-North-Western-North	0984	NW5011	Heaton Norris Jn. - Guide Bridge Station Jn.	Heaton Norris Jn.	Guide Bridge Station Jn.	8	W6A Ex. (W7)	Y
+London-North-Western-North	0984	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0984	NW4033	CBC1	Limit of Electrification (Carnforth)	Whitehaven	Limit of Electrification (Carnforth) - Whitehaven	0	60	74	66	8	N	N	Y	N	N	N
+London-North-Western-North	0984	NW4033	CBC1	Whitehaven	Bransty SB (Change of ELR)	Whitehaven - Bransty SB (Change of ELR)	74	66	74	73	7	N	N	Y	N	N	N
+London-North-Western-North	0984	NW4033	CBC2	Bransty SB (Change of ELR)	Change of ELR (Maryport)	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	7	N	N	Y	N	N	N
+London-North-Western-North	0984	NW4033	CBC3	Change of ELR (Maryport)	Carlisle South Jn	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	8	N	N	Y	N	N	N
+London-North-Western-North	0984	NW4041	DAP	Dalton Jn	Park South Jn	Dalton Jn – Park South Jn	0	00	0	76	8	N	N	Y	N	N	N
+London-North-Western-North	0984	NW5001	CMP1	Crewe North Jn	Sandbach North Jn	Crewe North Jn – Sandbach North Jn	158	17	162	62	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP1	Sandbach North Jn	Wilmslow South Jn	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP1	Wilmslow South Jn	Cheadle Hulme North Jn	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP1	Cheadle Hulme North Jn	Edgeley Jn No.1	Cheadle Hulme North Jn - Edgeley Jn No.1	180	67	182	36	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP2	Edgeley Jn No.1	Edgeley Jn	Edgeley Jn No.1 - Edgeley Jn	182	36	182	59	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP2	Edgeley Jn	Slade Lane Jn	Edgeley Jn – Slade Lane Jn	182	59	186	46	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP2	Slade Lane Jn	Ardwick Jn	Slade Lane Jn – Ardwick Jn	186	46	188	08	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP2	Ardwick Jn	Manchester Piccadilly East Jn	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5001	CMP2	Manchester Piccadilly East Jn	Manchester Piccadilly	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5003	STY	Wilmslow South Jn	Heald Green South Jn	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5003	STY	Heald Green South Jn	Heald Green North Jn	Heald Green South Jn – Heald Green North Jn	2	50	3	13	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5003	STY	Heald Green North Jn	Slade Lane Jn	Heald Green North Jn – Slade Lane Jn	3	13	9	44	8	Y	Y	Y	Y	Y	Y
+London-North-Western-North	0984	NW5005	SMA	Heald Green South Jn	Heald Green West Jn	Heald Green South Jn – Heald Green West Jn	1	48	1	10	8	Y	Y	Y	Y	Y	N
+London-North-Western-North	0984	NW5007	MIA	Manchester Airport	Heald Green North Jn	Manchester Airport – Heald Green North Jn	0	00	1	51	8	Y	Y	Y	Y	Y	N
+London-North-Western-North	0984	NW5008	LEC6	Little Bridgeford Jn	Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	Little Bridgeford Jn – Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	137	42	138	55	8	Y	Y	Y	Y	N	Y
+London-North-Western-North	0984	NW5008	NBS	Searchlight Lane Jn (Change of ELR and mileage)	Stone Jn	Searchlight Lane Jn (Change of ELR and mileage) – Stone Jn	4	06	0	00	8	Y	Y	Y	Y	N	Y
+London-North-Western-North	0984	NW5008	NBS	Norton Bridge Jn	Yamfield Jn (Norton Bridge East Chord)	Norton Bridge Jn – Yamfield Jn (Norton Bridge East Chord)	4	14	2	50	-	N	N	N	N	N	N
+London-North-Western-North	0984	NW5009	CMD2	Colwich Jn	Stone Jn	Colwich Jn – Stone Jn	38	61	27	00	8	Y	Y	Y	Y	N	Y
+London-North-Western-North	0984	NW5009	CMD2	Stone Jn	Stoke Jn	Stone Jn – Stoke Jn	27	00	20	36	8	Y	Y	Y	Y	N	Y
+London-North-Western-North	0984	NW5009	CMD2	Stoke Jn	Glebe Street Jn	Stoke Jn – Glebe Street Jn	20	36	20	10	8	Y	Y	Y	Y	N	Y
