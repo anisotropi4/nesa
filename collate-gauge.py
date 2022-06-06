@@ -148,13 +148,14 @@ if DEBUG:
     #FILELIST = ['Anglia-Route/output/pg_0439.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0830.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0844.pdf']
-    FILELIST = ['Kent-Sussex-Wessex/output/pg_0868.pdf']
+    #FILELIST = ['Kent-Sussex-Wessex/output/pg_0868.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0898.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1031.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1054.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1035.pdf']
     #FILELIST = ['London-North-Eastern/output/pg_1052.pdf']
     #FILELIST = ['London-North-Western-North/output/pg_0921.pdf']
+    FILELIST = ['London-North-Western-South/output/pg_0090.pdf']
     #FILELIST = ['London-North-Western-South/output/pg_0521.pdf']
     #FILELIST = ['London-North-Western-South/output/pg_0538.pdf']
     #FILELIST = ['Kent-Sussex-Wessex/output/pg_0884.pdf']
@@ -242,7 +243,7 @@ for f in FILELIST:
             if k not in TABLELOOKUP:
                 TABLELOOKUP[k] = []
             TABLELOOKUP[k].append(this_key)
-        REPORTS[this_key] = REPORTS[this_key].append(df)
+        REPORTS[this_key] = pd.concat([REPORTS[this_key], df])
         with open('{}/raw/pg_{}.txt'.format(ROUTE, p), 'w') as fout:
             fout.write(p0.extract_text())
 
