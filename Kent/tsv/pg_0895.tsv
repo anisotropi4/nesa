@@ -1,0 +1,25 @@
+Kent-Sussex-Wessex	0895	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0895	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	Y	Y	Y	N	N	N	Y	Y	EH	Y
+Kent-Sussex-Wessex	0895	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	Y	Y	Y	N	N	N	Y	Y	EH	Y
+Kent-Sussex-Wessex	0895	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0895	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0895	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0895	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0895	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	Y	H	N	Y	N	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	N	Y	Y	N	Y	Y	Y	N	EH	Y
+Kent-Sussex-Wessex	0895	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	Y	H	N	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	Y	H	N	N	N	R1	N	N	Y	R1 Route prohibited to Classes 377/1, 377/3, 377/4, 377/6 and 377/7
+Kent-Sussex-Wessex	0895	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	Y	H	N	N	Y	R1	N	N	Y	R1 Route prohibited to Classes 377/1, 377/3, 377/4, 377/6 and 377/7
+Kent-Sussex-Wessex	0895	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	Y	H	N	Y	Y	Y	N	N	Y
+Kent-Sussex-Wessex	0895	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	Y	Y	N	N	N	N
+Kent-Sussex-Wessex	0895	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0895	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0895	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0895	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0895	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0895	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only

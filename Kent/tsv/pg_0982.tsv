@@ -1,0 +1,23 @@
+Kent-Sussex-Wessex	0982	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Kent-Sussex-Wessex	0982	SO250	SCC	Latchmere Jn No.3	Route Boundary (SW100) (West London Jn)	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO250	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SW220]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO250	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SW220]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO250	CJL	Latchmere Jn No.2	Route Boundary (SW100) (Ludgate Jn)	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO250	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SW220]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO250	WLL	Kensington Olympia	Northbound AC/DC changeover	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	N	N	Y	N	N	R1	R3 15mph between limit of AC electrification (4m 69ch) and Northbound AC/DC changeover when operating in AC mode
+Kent-Sussex-Wessex	0982	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	N	N	Y	N	N	R1	R1 15mph when operating in AC mode
+Kent-Sussex-Wessex	0982	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	N	N	Y	N	N	R1	R1 15mph when operating in AC mode
+Kent-Sussex-Wessex	0982	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	N	N	R1	N	N	Y	R1 Prohibited Up Catford Loop
+Kent-Sussex-Wessex	0982	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	N	N	Y	N	N	Y
+Kent-Sussex-Wessex	0982	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	N	N	N
+Kent-Sussex-Wessex	0982	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	N	N	N
+Kent-Sussex-Wessex	0982	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	8	N	N	Y	N	N	N
+Kent-Sussex-Wessex	0982	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	8	N	N	Y	N	N	N

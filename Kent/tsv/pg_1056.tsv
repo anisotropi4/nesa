@@ -1,0 +1,17 @@
+Kent-Sussex-Wessex	1056	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	442	444	450	455	456	458	508	700	707	Notes
+Kent-Sussex-Wessex	1056	SW210	RDG1	Clapham Jn	Point Pleasant Jn	Clapham Jn – Point Pleasant Jn	3	74	5	09	Y	Y	Y	Y	Y	Y	Y	N	N
+Kent-Sussex-Wessex	1056	SW210	RDG1	Point Pleasant Jn	Richmond	Point Pleasant Jn – Richmond	5	09	9	57	Y	Y	Y	Y	Y	Y	Y	N	N
+Kent-Sussex-Wessex	1056	SW210	RDG1	Richmond	Virginia Water	Richmond – Virginia Water	9	57	23	15	R1	Y	Y	R1	R1	Y	R1	N	N	R1 20mph Staines Down platform
+Kent-Sussex-Wessex	1056	SW210	RDG1	Virginia Water	Wokingham Jn	Virginia Water – Wokingham Jn	23	15	36	35	N	N	Y	R1	Y	Y	N	N	N	R1 10mph Ascot Up line (23m 15ch - 36m 35ch)
+Kent-Sussex-Wessex	1056	SW210	RDG2	Wokingham Jn	Reading Spur Jn	Wokingham Jn – Reading Spur Jn	61	72	67	76	N	N	Y	Y	Y	Y	N	N	N
+Kent-Sussex-Wessex	1056	SW210	RNJ	Reading Spur Jn	Route Boundary (GW190) (Reading New Jn)	Reading Spur Jn – Route Boundary (GW190) (Reading New Jn)	68	00	67	76	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1056	SW210	RDG2	Reading Spur Jn	Reading Southern Jn	Reading Spur Jn – Reading Southern Jn	67	76	68	25	N	N	N	Y	Y	Y	N	N	N
+Kent-Sussex-Wessex	1056	SW210	RLL	Route Boundary Western (Reading East Main Jn)	Reading Southern Jn	Route Boundary Western (Reading East Main Jn) – Reading Southern Jn	35	35	0	00	N	N	N	N	N	N	N	N	N
+Kent-Sussex-Wessex	1056	SW210	RDG2	Reading Southern Jn	Reading platforms 4, 5 and 6	Reading Southern Jn – Reading platforms 4, 5 and 6	68	25	68	68	N	N	Y	Y	Y	Y	N	N	N
+Kent-Sussex-Wessex	1056	SW220	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SO250]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SO250]	2	39	2	50	N	Y	N	Y	Y	N	N	E	E
+Kent-Sussex-Wessex	1056	SW220	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SO250]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SO250]	0	63	0	68	N	Y	Y	Y	Y	EH	Y	E	N
+Kent-Sussex-Wessex	1056	SW220	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SO250]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SO250]	0	71	3	42	N	Y	Y	Y	Y	EH	Y	E	N
+Kent-Sussex-Wessex	1056	SW225	PPW	Point Pleasant Jn – Network Rail Boundary (TfL	District Line)	Point Pleasant Jn – Network Rail Boundary (TfL – District Line)	5	09	5	67	Y	Y	R1 R2	Y	Y	R2 R3	R1	N	N	R1 30mph between East Putney and Network Rail Boundary (TfL – District Line) R2 Prohibited with the power controller beyond Notch 2 R3 30mph maximum
+Kent-Sussex-Wessex	1056	SW225	PPW	Network Rail Boundary (TfL – District Line)	Wimbledon North Jn (TfL infrastructure)	Network Rail Boundary (TfL – District Line) – Wimbledon North Jn (TfL infrastructure)	5	67	8	26	R1	Y	R2 R3	R1	R1	R2 R3	R1	N	N	R1 10mph Wimbledon Park Down platform line R2 Prohibited with the power controller beyond Notch 2 R3 30mph maximum
+Kent-Sussex-Wessex	1056	SW230	HOU	Barnes	New Kew Jn	Barnes – New Kew Jn	7	07	9	34	Y	Y	Y	Y	Y	Y	Y	N	N
+Kent-Sussex-Wessex	1056	SW230	NKE2	New Kew Jn	Route Boundary (EA1330) (Kew East Jn)	New Kew Jn – Route Boundary (EA1330) (Kew East Jn)	9	34	9	64	N	N	N	N	N	N	N	N	N
