@@ -1,37 +1,47 @@
-                                                                                    OFFICIAL
+                                                                                     OFFICIAL
 
 
-                                                                   Anglia Route Sectional Appendix Module AR2
+                                                                    Anglia Route Sectional Appendix Module AR2
 
 
-EA1480   WHC3   Change of Mileage (Site of Former        45   64     46    42   Y       Y      N     N     N    N   N
-                Runton East Jn) – Cromer
-EA1490   CRS    Cromer Jn – Network Rail Boundary        46   27     42    69   Y       Y      N     N     N    N   N
-                (North Norfolk Railway)
-EA1500   NAY    Brundall Jn – Yarmouth Via Acle          5    72     18    29   Y       Y      Y     N     N    Y   N
-EA1500   RBY    Breydon Access No24 LC (EA1510) –        19   13     20    45   Y       Y      Y     N     N    Y   N
-                Yarmouth
-EA1510   RBY    Reedham Jn – Breydon Access No24 LC      12   34     19    13   Y       Y      Y     N     N    Y   N
-EA1520   SIZ    Saxmundham Jn – Sizewell                 91   40     95    79   Y       Y      N     N     N    N   N
-EA1530   CCH    Coldham Lane Jn – Haughley Jn            0    23     40    49   Y       Y      Y     N     N    Y   N
-EA1540   SOB1   Chippenham Jn – Site of Former           0    63      0    00   Y       Y      Y     N     N    Y   N
-                Snailwell Jn
-EA1540   SOB2   Site of Former Snailwell Jn – Ely Dock   1    54     12    33   Y       Y      Y     N     N    Y   N
-                Jn
-EA1550   EWC    Ely North Jn – Ely West Jn (Ely West     71   63     72    63   Y       Y      Y     N     N    N   N
-                Curve)
-EA1560   EMP    Ely North Jn – Ely West Jn               71   63     72    39   Y       Y      Y     N     N    Y   R1   R1   R2 Permitted for diversionary purposes
-EA1560   EMP    Ely West Jn – Route Boundary (LN135)     72   39     98    40   Y       Y      Y     N     N    Y   R1   R1   R2   Permitted for diversionary purposes
-                (Peterborough)                                                                                      R2        R3   50mph over Harts Bridge No 1833 (Centre
-                                                                                                                                   Girder Underbridge) Down Main (94m 75ch)
-EA1570   WIG    March East Jn – Whitemoor Jn             85   78     86    18   Y       Y      N     N     N    N   N
-EA1570   MWL    March West Jn – Whitemoor Jn             0    00      0    13   Y       Y      N     N     N    N   N
-EA1570   WIG    Whitemoor Jn – Wisbech                   86   18     93    60   N       N      N     N     N    N   N         Line out of use (temporarily)
+EA1150   CST   Channelsea South Jn – Stratford Central    0    29      0   00    Y       Y      Y    EH     N    Y    N
+               Jn West
+EA1160   BGK   Bethnal Green East Jn – Reading Lane       1    10      2   55    Y       Y      Y     N     N    N    N
+               Jn
+EA1160   BGK   Reading Lane Jn – Hackney Downs            2    55      3   04    Y       Y      Y     N     N    N    N
+               North Jn
+EA1160   BGK   Hackney Downs North Jn – Coppermill        3    04      4   74    Y       Y      Y     N     N    N    N
+               Jn
+EA1160   BGK   Coppermill Jn – Tottenham South Jn         4    74     5    41    Y       Y      Y     N     N    N    N
+EA1160   BGK   Tottenham South Jn – Bishops Stortford     5    41    31    31    Y       Y      Y     N     N    N    N
+               (Cannons Mill Lane Footpath LC (R/G-X)
+EA1161   BGK   (Cannons Mill Lane Footpath LC (R/G-X)     31   31    53    06    Y       Y      Y     N     N    N    N
+               Stansted Mountfitchet – Shepreth Branch
+               Jn
+EA1161   BGK   Shepreth Branch Jn – Ely Dock Jn           53   06     69    79   Y       Y      Y     N     N    R1   R2   R1   R2   Prohibited Cambridge bay platforms 3 and 6
+                                                                                                                                R3   Permitted for diversionary purposes
+EA1161   BGK   Ely Dock Jn – Ely North Jn                 69   79     71    68   Y       Y      Y     N     N    Y    R1   R1   R2   Permitted for diversionary purposes
+EA1162   BGK   Ely North Jn – Kings Lynn                  71   68     96    75   Y       Y      Y     N     N    N    N
+EA1170   HDT   Hackney Downs North Jn – Seven              3   04      5    70   Y       Y      N     N     N    N    N
+               Sisters Jn
+EA1170   HDT   Seven Sisters Jn – Bury Street Jn           5   70      9    20   Y       Y      N     N     N    N    N
+EA1170   ENT   Bury Street Jn – Enfield Town               9   20     10    55   Y       Y      N     N     N    N    N
+EA1180   GRE   Reading Lane Jn – Navarino Road Jn          2   55      2    79   Y       Y      N     N     N    N    N
+               (Graham Rd Curve)
+EA1190   HDT   Bury Street Jn – Cheshunt Jn                9   20     14    28   Y       Y      N     N     N    N    N
+EA1200   CJC   Clapton Jn – Chingford                      4   37     10    33   Y       Y      N     N     N    N    N
+EA1210   HEB   Broxbourne Jn – Hertford East              18   35     24    19   Y       Y      N     N     N    N    N
+EA1220   TLA   Stansted South Jn – Stansted East Jn       33   54     34    26   Y       Y      N     N     N    N    N
+EA1220   TEN   Stansted North Jn – Stansted East Jn        0   00      0    49   Y       Y      N     N     N    N    N
+EA1220   TLA   Stansted East Jn –Stansted Airport         34   26     36    67   Y       Y      N     N     N    N    N
+EA1230   SBR   Route Boundary (LN125) (Royston) –         45   60     55    26   Y       Y      Y     N     N    Y    Y
+               Shepreth Branch Jn
+EA1270   MIT   Kings Lynn Jn – Middleton towers            0   22      3    44   Y       Y      Y     N     N    N    N
+EA1270   MIT   Kings Lynn Jn – Kings Lynn Yard branch      0   22      0    00   Y       Y      Y     N     N    N    N
+               end
+EA1280   SDC   Stratford Central Jn East – Temple Mills    3   76      4    45   Y       Y      Y     N     N    Y    N
+               East Jn. (Via Platforms 11 & 12 at
+               Stratford)
+EA1280   SDC   Temple Mills East Jn – Coppermill Jn        4   45      7    14   Y       Y      Y     N     N    Y    N
 
-EA1580   ETN    Ely North Jn – Trowse Jn                 71   72    123    00   Y       Y      Y     N     N    Y   N
-EA1744   BFC    Europa Jn – Boss Hall Jn                  0   00      0    63   Y       Y      Y     N     N    N   N
-
-
-
-
-CAugust 2006                                                                          305F
+August 2006                                                                            305

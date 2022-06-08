@@ -1,46 +1,46 @@
-                                                                               OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                              Anglia Route Sectional Appendix Module AR2
+                                                                 Anglia Route Sectional Appendix Module AR2
 
 
-EA1360 CAW Route Boundary (LN3219)                  5    72   6    04   N     E       Y    N     N     N   Y
-           (Cricklewood Curve Jn) – Dudding Hill
-           Jn
-EA1360 BDH    Route Boundary (LN3222) (Brent        0    54   1    03   N     E       N    N     N     N   Y
-              Curve Jn) – Dudding Hill Jn
-EA1360 CAW Dudding Hill Jn – Neasden Jn             6    04   7    02   N     E       Y    N     N     N   N
-EA1360 NJN    Neasden Jn – Route Boundary           6    56   6    51   N     E       N    N     N     N   N
-              (MD715) (Neasden South Jn)
-EA1360 CAW Neasden Jn – Acton Canal Wharf Jn        7    02   8    45   N     E       Y    N     N     N   N
-EA1360 ACW Acton Canal Wharf Jn – Route             0    35   0    11   N     E       Y    Y     Y     Y   N   R1   Route prohibited to Class 172/2 and 172/3
-           Boundary (MD170) (Willesden Jn)                                    R1
-EA1360 CAW Acton Canal Wharf Jn – Acton Wells       8    45   8    77   N     E       Y    Y     Y     Y   N
-           Jn (Change of Mileage)
-EA1360 WAW Acton Wells Jn (Change of Mileage) –      6   19   6    76   Y     N       Y    Y     Y     Y   N
-           Route Boundary (MD167) Willesden
-           West London Jn)
-EA1360 CAW Acton Wells Jn (Change of Mileage) –     0    63   0    66   Y     E       Y    Y     Y     Y   N
-           Acton Wells Jn
-EA1370 GOJ    Gospel Oak Jn – Junction Rd Jn        0    00   0    58   N     Y       N    E     N     N   N
-EA1370 JRT2 Junction Rd Jn – Route Boundary         2    42   2    38   N     E       N    N     N     N   N
-            (LN3210) (Carlton Rd Jn)
-EA1370 TAH1 Junction Rd Jn – Harringay Park Jn      2    42   4    15   N     Y       N    E     N     N   N
-EA1370 HPW Harringay Park Jn – Route Boundary       0    25   0    14   N     E       N    E     N     N   N
-           (LN165) (Harringay Jn)
-EA1370 TAH1 Harringay Park Jn – South Tottenham     4    15   5    65   N     Y       N    N     N     N   N
-            West Jn
-EA1370 TAH1 South Tottenham West Jn – South         5    65   5    73   N     Y       N    N     N     N   N
-            Tottenham East Jn
-EA1370 TAH2 South Tottenham East Jn –               5    73   11   79   N     Y       N    N     N     N   N
-            Woodgrange Park Jn
-EA1370 TAH3 Woodgrange Park Jn – Barking            11   79   13   12   N     Y       N    N     N     N   N
-            Station Jn
-EA1370 TAH3 Barking Station Jn – Barking Tilbury    13   12   13   42   N     Y       N    N     N     N   N
-            Jn West
-EA1370 TAH4 Barking Station Jn – Barking Platform   13   12   13   62   N     Y       N    N     N     N   N
-            1
-EA1380 FSS1 Fenchurch Street – Gas Factory Jn       0    00   2    57   N     N       N    N     N     N   N
-EA1380 FSS1 Gas Factory Jn – East Ham Depot         2    57   6    18   N     N       N    N     N     N   N
 
-August 2006                                                                    290A
+
+Table D1B – Route clearance of diesel multiple units
+                                                                                                                                                  Last Updated: 23/10/2021
+To be read in conjunction with General Notes.
+
+
+Line of ELR Line of Route / Sector                   oooo oooo oooo oooo 171 172 175 180 220 221 222   Notes
+route       Description                               M    Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+EA1010 LTN1 Liverpool Street platforms 1-10 –          0   00   0    22    N     N         N   N    N     N    E R1      Prohibited Liverpool Street platform 2
+            Liverpool St (L) IECC                                                                              R1
+EA1010 LVS      Liverpool Street platforms 11-17 –     0   00   0    22    N     N         N   N    N     N    E R1      Liverpool Street Platforms 11-18 diesel traction
+                Liverpool St (L) IECC                                                                          R1        see Sectional Appendix Local Instructions
+EA1010 LTN1 Liverpool St (L) IECC – Bethnal Green      0   22    1   10    N     N         N   N    N     N    E R1      Prohibited Bishopsgate Tunnel down suburban
+            East Jn                                                                                            R1        line
+EA1010 LTN1 Bethnal Green East Jn – Mile End           1   10   2    02    N     N         N   N    N     N    E
+EA1010 LTN1 Mile End – Bow Jn                          2   02   2    74    N     N         N   N    N     N    E
+EA1010 LTN1 Bow Jn – Carpenters Road South Jn          2   74   3    54    N     N         N   N    N     N    E
+EA1010 LTN1 Carpenters Road South Jn – Stratford       3   54   3    70    N     N         N   N    N     N    E
+            Central Jn West
+EA1010 LTN1 Stratford Central Jn West – Stratford      3   70   3    75    N     Y         N   N    N     E    E
+            Central Jn East
+EA1010 LTN1 Stratford Central Jn East – Forest         3   75   5    63    N     R1        N   N    N     E    E    R1   Laden services between Stratford Central Jn
+            Gate Jn                                                              R2                                      East and Stratford
+                                                                                 R3                                 R2   ECS between Stratford and Forest Gate
+                                                                                                                    R3   Prohibited Maryland platform 3 with footsteps
+                                                                                                                         fitted
+EA1010 LTN1 Forest Gate Jn – Ilford Depot London       5   63   7    63    N     E         N   N    N     E    E R1      Prohibited Ilford Depot roads 10 and 11
+            End                                                                  R1                       R2   R2 R2     Prohibited Ilford platform 4 (Down Electric) with
+                                                                                                          R3   R3        deflated suspension
+                                                                                                                  R3     Prohibited Manor Park platform 2 (Down
+                                                                                                                         Electric) with deflated suspension
+EA1010 LTN1 Ilford Depot London End – Seven            7   63   8    45    N     N         N   N    N     E    E    R1 Prohibited Seven Kings platform 1 (Up Main)
+            Kings                                                                                         R1   R1      with deflated suspension
+EA1011 LTN1 Seven Kings – Romford Jn                   8   45   12   39    N     N         N   N    N     N    N
+EA1011 LTN1 Romford Jn – Shenfield Jn                 12   39   20   22    N     N         N   N    N     N    N
+EA1011 LTN1 Shenfield Jn – Witham Jn                  20   22   38   55    N     N         N   N    N     N    N
+
+
+August 2006                                                                          285

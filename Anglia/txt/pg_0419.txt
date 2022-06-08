@@ -1,44 +1,51 @@
-                                                                                     OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                                    Anglia Route Sectional Appendix Module AR2
+                                                            Anglia Route Sectional Appendix Module AR2
 
 
-EA1011   LTN1   Shenfield Jn – Witham Jn                  20   22    38    55    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Witham Jn – Marks Tey Jn                  38   55    46    49    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Marks Tey Jn – Colchester Jn              46   49    51    65    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Colchester Jn – Manningtree South Jn      51   65    59    46    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Manningtree South Jn – Manningtree        59   46    59    69    Y       Y      Y     N     N    Y    N
-                North Jn
-EA1011   LTN1   Manningtree North Jn – Ipswich            59   69    68    59    Y       Y      Y     N     N    Y    N
-EA1012   LTN1   Ipswich – East Suffolk Jn                 68   59    69    41    Y       Y      Y     N     N    Y    N
-EA1012   LTN1   East Suffolk Jn – Trowse Jn (EA1013)      69   41   113    68    Y       Y      Y     N     N    Y    N
-EA1013   LTN2   Trowse Jn – Trowse Swing Bridge          123   00   123    37    Y       Y      Y     N     N    Y    N
-EA1013   NCW    Trowse Swing Bridge – Wensum Jn           0    00      0   28    Y       Y      Y     N     N    R1   N   R1   R2   Prohibited from using the last 25 metres at
-                (EA1470 / ELR NOL 0m 60ch) via                                                                                      the buffer stop end of Norwich Royal Dock
-                Through Sidings / Wensum Curve                                                                                      Siding 1
-EA1013   LTN2   Trowse Swing Bridge – Norwich            123   37   124    09    Y       Y      Y     N     N    Y    N
-EA1020   CNS    Carpenters Rd South Jn – Carpenters Rd    1    12      0   70    Y       Y      Y     N     N    Y    N
-                North Jn
-EA1030   FGW    Forest Gate Jn – Woodgrange Park Jn       0    00      0   31    Y       Y      N     N     N    N    N
-EA1040   ROU    Romford – Upminster                       0    00      3   30    Y       Y      N     N     N    N    N
-EA1050   SSV    Shenfield Jn – Southend Victoria          20   22    41    42    Y       Y      N     N     N    N    N
-EA1060   WIS    Wickford Jn – Southminster                29   13    45    42    Y       Y      N     N     N    N    N
-EA1070   BRA    Witham – Braintree                        24   15    17    71    Y       Y      N     N     N    N    N
-EA1080   SUD    Marks Tey Jn – Sudbury                    45   53    58    32    Y       Y      N     N     N    N    N
-EA1090   COC    Colchester Jn – Clacton                   52   28    69    56    Y       Y      N     N     N    N    N
-EA1100   STB    East Gate Jn – Colne Jn                   53   14    53    30    Y       Y      N     N     N    N    N
-EA1100   CTH    Hythe Jn – Colne Jn                       0    22      0   00    Y       Y      N     N     N    N    N
-EA1100   STB    Colne Jn – Colchester Town                53   30    53    76    Y       Y      N     N     N    N    N
-EA1110   TWN    Thorpe-Le-Soken Jn – Walton-On-Naze       65   19    70    15    Y       Y      Y     N     N    Y    N
-EA1120   MAH    Manningtree South Jn – Manningtree        59   35    59    67    Y       Y      Y     N     N    Y    N
-                East Jn
-EA1120   NTE    Manningtree North Jn – Manningtree        0    00      0   24    Y       Y      Y     N     N    Y    N
-                East Jn
-EA1120   MAH    Manningtree East Jn – Harwich             59   67    68    72    Y       Y      Y     N     N    Y    N
-                International Port
-EA1120   MAH    Harwich International Port – Harwich      68   72    70    61    Y       Y      N     N     N    N    N
-                town
-EA1130   GRW    Halifax Jn – Griffin Wharf Boundary       0    00      0   47    Y       Y      N     N     N    N    N
-
-August 2006                                                                            304
+EA1325 ELL1    Canal Jn – TFL / Network Rail       5   21      5    73 EH     N      N   E       Y   EH   EH   N   N   N R1    Can only run when authorised by Rail for
+               Boundary (SO510) (Via Down East                         R1                R1          R1   R1                   London and only run or operate under
+               London Line) (TFL Infrastructure)                                                                               Special Traffic Notice subject to any
+                                                                       R2                R2          R2   R2
+                                                                                                                               operational restrictions published within the
+                                                                       R3                R3          R3   R3
+                                                                                                                               notice
+                                                                                         R4                                R2 Not to exceed 25mph, 5mph through station
+                                                                                         R5                                    platform and 10mph on section Canal Jn-
+                                                                                         R6                                    131points (DN))
+                                                                                                                           R3 Prohibited with deflated suspension
+                                                                                                                           R4 Must be hauled if busline exceeds 80
+                                                                                                                               metres. Shoegear isolated.
+                                                                                                                           R5 Regen Braking must be switched off
+                                                                                                                           Class 377/2, /3, /5 and /7 must be hauled
+EA1325 ELL2  Canal Jn – Lewisham (TFL              5   21      5    78   N    N      N       N   Y   N    N    N   N   N
+             Infrastructure)
+EA1327 ELL3 Silwood Jn – ELL/Network Rail          4   66      5    51   N    N      N       N   Y   N    N    N   N   N
+             Boundary (TFL Infrastructure)
+EA1327 ELL4 ELL/Network Rail Boundary – Old        2   23      2    32   N    N      N       N   Y   N    N    N   N   N
+             Kent Road Jn (SO680)
+EA1330 BOK 5 South Acton Jn – Kew East Jn          2   52      3    27   N    N      Y       N   N   N    N    N   N   N
+EA1330 NKE1    Kew East Jn – Route Boundary        3   27      3    39   N    N     H        N   N   N    N    N   N   N   R1 OPPOS applies between Kew East Jn and
+               (SW230) (New Kew Jn)                                                 R1                                        New Kew Jn
+EA1330 BOK5    Kew East Jn – Route Boundary        3   27      3    61   N    N     Y        N   N   N    N    N   N   N
+               (SW230) (Old Kew Jn)
+EA1340 LLS2    Lea Jn – High Meads Jn              0   51      0    65   N    N      N       N   E   N    N    E   N   N
+EA1350 CHM     Channelsea North Jn – High Meads    0   00      0    15   E    N      N       N   E   Y    N    E   N   N
+               Jn
+EA1350 LLS1    High Meads Jn – Temple Mills East   0   15      0    59   E    N      N       N   E   Y    N    E   N   N
+               Jn
+EA1360 CAW     Route Boundary (LN3219)             5   72      6    04   N    N      N       N   N   N    N    N   N   N
+               (Cricklewood Curve Jn) – Dudding
+               Hill Jn
+EA1360 BDH    Route Boundary (LN3222) (Brent       0   54      1    03   N    N      N       N   N   N    N    N   N   N
+              Curve Jn) – Dudding Hill Jn
+EA1360 CAW    Dudding Hill Jn – Neasden Jn         6   04      7    02   N    N      N       N   N   N    N    N   N   N
+EA1360 NJN    Neasden Jn – Route Boundary          6   56      6    51   N    N      N       N   N   N    N    N   N   N
+              (MD715) (Neasden South Jn)
+EA1360 CAW    Neasden Jn – Acton Canal Wharf Jn    7   02      8    45   N    N      N       N   N   N    N    N   N   N
+EA1360 ACW    Acton Canal Wharf Jn – Route         0   35      0    11   N    N      N       N   N   N    N    N   N   N
+              Boundary (MD170) (Willesden Jn)
+EA1360 CAW    Acton Canal Wharf Jn – Acton Wells   8   45      8    77   N    N      N       N   N   N    N    N   N   N
+              Jn (Change of Mileage)
+August 2006                                                                       302

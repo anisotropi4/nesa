@@ -1,45 +1,45 @@
-                                                                                               OFFICIAL
+                                                                                                    OFFICIAL
 
 
-                                                                         Anglia Route Sectional Appendix Module AR2
+                                                                               Anglia Route Sectional Appendix Module AR2
 
-Table D5B – Locomotive Gauge Clearance table
-                                                                                                                                                                     Last Updated: 03/04/2021
+Table D5A– Route Clearance of Freight Containers / Swap Bodies
+                                                                                                                                                                  Last Updated: 30/04/2022
 To be read in conjunction with General Notes.
-•   All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
-•   Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
-•   Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
-    below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
-    Compatibility prior to operation over Network Rail infrastructure.
-•   Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
-•   Gauge clearance for steam locomotives is considered under a separate process.
-The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
-Y         Route conforms to locomotive gauge without restriction.
-R         Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
-N         Route does not conform to locomotive gauge
-Line of    ELR      Line of Route / Sector                  oooo oooo oooo oooo RA Loco Gauge Notes
-route               Description                              M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-EA1010     LTN1     Liverpool Street platforms 1-10 –          0    00      0    22    8          R1        R1   Prohibited Liverpool Street platform 10
-                    Liverpool St (L) IECC
-EA1010     LVS      Liverpool Street platforms 11-17 –         0    00      0    22    8           Y
-                    Liverpool St (L) IECC
-EA1010     LTN1     Liverpool St (L) IECC – Bethnal Green      0    22      1    10    8          R1        R1   Prohibited between Liverpool Street station throat and Bethnal Green
-                    East Jn                                                                                      West Jn on the Down Suburban line and Up Main line
-EA1010     LTN1     Bethnal Green East Jn – Mile End           1    10      2    02    8           Y
-EA1010     LTN1     Mile End – Bow Jn                          2    02      2    74    8           Y
-EA1010     LTN1     Bow Jn – Carpenters Road South Jn          2    74      3    54    8           Y
-EA1010     LTN1     Carpenters Road South Jn – Stratford       3    54      3    70    8           Y
-                    Central Jn West
-EA1010     LTN1     Stratford Central Jn West – Stratford      3    75      5    63    8           Y
-                    Central Jn East
-EA1010     LTN1     Stratford Central Jn East – Forest         3    75      5    63    8          R1        R1   Prohibited Maryland platform 3 (Up Main line)
-                    Gate Jn
-EA1010     LTN1     Forest Gate Jn – Ilford Depot London       5    63      7    63    8          R1        R1   Prohibited between Manor Park and Ilford on the Up Passenger
-                    End                                                                                          Avoiding line
-EA1010     LTN1     Ilford Depot London End – Seven            7    63      8    45    8           Y
-                    Kings
+
+The notations (used in these tables) are explained as follows for freight vehicles or loads conforming to the Group Standards:
+
+Y     Permitted to operate over the route without restriction.
+R     Permitted to operate over part or all of the route but restrictions apply. See “Notes” column for details.
+S     Permitted for, or prohibited to, specific traffic. See “Notes” column for details.
+*     Route does not conform to Group Standard W6A Lower Gauge as defined in GE/RT8073. Certain W6A vehicles are prohibited from all or part of the route; these restrictions are detailed
+      on the Summary of Compatibility for the vehicles concerned.
+N     Prohibited from operating over the route
+
+Conditions of Operation
+When operating within a possession the notations detailed within the table may not apply subject to a risk assessment and the application of appropriate control measures (in accordance with
+   company and Group Standards).
+Freight traffic, other than containers/swap bodies, which exceed W6A gauge shall only operate in accordance with GORT3056-K
+Vehicles conveying containers/swap bodies are also subject to the procedure detailed in GO/RM3056, Section J Intermodal Traffic.
+Temporary authority for a specific wagon and container/swapbody combination may be granted by the Infrastructure Manager’s Gauging Engineer. This authority shall be detailed and issued
+   on an RT3973/CON form.
+Note
+GO/RM3056 Section J Intermodal Traffic contains details of the wagon type (by TOPS code) and container/swapbody (by height, width and/or size code) combinations that conform to the
+gauges shown as column headings in this table.
+
+
+    Line of     Line of Route / Sector Description                                              Gauge                                Notes
+    Route                                                     GB1/2 W6A           W7       W8    W9 W9Plus W10 W10A W12
+    EA1010      Liverpool Street – Mile End                      N       Y*        N       N      N          N     N        N    N
+    EA1010      Mile End – Stratford Central Jn East             N       Y*        Y       Y      R1         N     N        N    N   R1    W9 between Bow Depot Jn and
+                                                                                                                                           Carpenters Road South Jn only
+    EA1010      Stratford Central Jn East – Forest Gate          N       Y*        Y       Y       Y         N     R1       N    N   R1    W10 Prohibited on Up and Down
+                Jn                                                                                                                         Electric between Maryland East
+                                                                                                                                           Crossovers and Stratford Central Jn
+                                                                                                                                           West.
+    EA1010      Forest Gate Jn – Seven Kings                     N       Y*        Y       Y       Y         N     Y        N    N
+    EA1011      Seven Kings – Ipswich                            N       Y*        Y       Y       Y         N     Y        N    N
 
 
 
-
-August 2006                                                                                     314A
+August 2006                                                                                            309
