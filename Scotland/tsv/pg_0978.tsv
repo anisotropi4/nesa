@@ -1,23 +1,23 @@
 Scotland	0978	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
-Scotland	0978	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	N	N	N	Y	Y	Y	E	
-Scotland	0978	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	N	N	N	Y	Y	Y	E	
-Scotland	0978	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	N	N	N	Y	Y	Y	E	
-Scotland	0978	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	N	N	N	Y	Y	Y	E	
-Scotland	0978	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	N	N	N	Y	Y	Y	E	
+Scotland	0978	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	N	N	N	Y	Y	Y	Y
+Scotland	0978	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	N	N	N	Y	Y	Y	Y
+Scotland	0978	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	N	N	N	Y	Y	Y	R1	25mph Hyndland down platform
+Scotland	0978	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	N	N	N	Y	Y	Y	Y
+Scotland	0978	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	N	N	N	Y	Y	Y	Y
 Scotland	0978	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	N	N	N	Y	Y	Y	R1 R2	R1 25mph Westerton Up platform R2 Prohibited Westerton Up and Down platforms with deflated suspension
-Scotland	0978	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	N	N	N	Y	Y	Y	Y	
-Scotland	0978	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	N	N	N	Y	Y	Y	Y	
-Scotland	0978	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	N	N	N	Y	Y	Y	Y	
-Scotland	0978	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	N	N	N	Y	Y	Y	N	
+Scotland	0978	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	N	N	N	Y	Y	Y	Y
+Scotland	0978	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	N	N	N	Y	Y	Y	Y
+Scotland	0978	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	N	N	N	Y	Y	Y	Y
+Scotland	0978	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	N	N	N	Y	Y	Y	N
 Scotland	0978	SC125	YKR	Hyndland West Jn	Dalmuir Park Jn	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	N	N	N	Y	Y	Y	E R1	R1 Prohibited between Yoker CSD and Dalmuir Park Jn
-Scotland	0978	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	R1	R1	R1	Y	Y	Y	E	R1 Prohibited Springburn platform 4
-Scotland	0978	SC131	HST	High Street Jn	Connection to Smithy Lye Through Line	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	E	E	E	Y	Y	Y	E	
-Scotland	0978	SC131	HST	Connection to Smithy Lye Through Line	Shields Jn	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	E	E	E	Y	Y	Y	E	
+Scotland	0978	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	R1	R1	R1	Y	Y	Y	Y
+Scotland	0978	SC131	HST	High Street Jn	Connection to Smithy Lye Through Line	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	E	E	E	Y	Y	Y	E
+Scotland	0978	SC131	HST	Connection to Smithy Lye Through Line	Shields Jn	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	E	E	E	Y	Y	Y	E
 Scotland	0978	SC133	MGE	Westerton Jn	Milngavie	Westerton Jn – Milngavie	6	19	9	35	N	N	N	Y	Y	Y	E R1	R1 Prohibited between Bearsden and Milngavie
-Scotland	0978	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	N	N	N	Y	Y	Y	N	
-Scotland	0978	SC136	HYD	Hyndland North Jn	Hyndland West Jn	Hyndland North Jn – Hyndland West Jn	0	00	0	16	N	N	N	N	N	N	N	
-Scotland	0978	SC141	WHL	Craigendoran Jn	Crianlarich Jn	Craigendoran Jn – Crianlarich Jn	0	01	36	30	N	N	N	Y	Y	Y	N	
-Scotland	0978	SC141	WHL	Crianlarich Jn	Fort William	Crianlarich Jn – Fort William	36	30	99	37	N	N	N	Y	Y	Y	N	
-Scotland	0978	SC143	OBN1	Crianlarich Jn	Lower Crianlarich GF	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	N	N	N	Y	Y	Y	N	
-Scotland	0978	SC143	OBN2	Lower Crianlarich GF	Inverhaggernie No.1 LC	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	N	N	N	Y	Y	Y	N	
-Scotland	0978	SC143	OBN2	Inverhaggernie No.1 LC	Oban	Inverhaggernie No.1 LC – Oban	31	00	71	44	N	N	N	Y	Y	Y	N	
+Scotland	0978	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	N	N	N	Y	Y	Y	N
+Scotland	0978	SC136	HYD	Hyndland North Jn	Hyndland West Jn	Hyndland North Jn – Hyndland West Jn	0	00	0	16	N	N	N	N	N	N	N
+Scotland	0978	SC141	WHL	Craigendoran Jn	Crianlarich Jn	Craigendoran Jn – Crianlarich Jn	0	01	36	30	N	N	N	Y	Y	Y	N
+Scotland	0978	SC141	WHL	Crianlarich Jn	Fort William	Crianlarich Jn – Fort William	36	30	99	37	N	N	N	Y	Y	Y	N
+Scotland	0978	SC143	OBN1	Crianlarich Jn	Lower Crianlarich GF	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	N	N	N	Y	Y	Y	N
+Scotland	0978	SC143	OBN2	Lower Crianlarich GF	Inverhaggernie No.1 LC	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	N	N	N	Y	Y	Y	N
+Scotland	0978	SC143	OBN2	Inverhaggernie No.1 LC	Oban	Inverhaggernie No.1 LC – Oban	31	00	71	44	N	N	N	Y	Y	Y	N
