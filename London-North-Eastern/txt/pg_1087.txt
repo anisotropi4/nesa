@@ -1,45 +1,55 @@
-                                                                                        OFFICIAL
+                                                                                          OFFICIAL
 
 
-                                                                         LNE Route Sectional Appendix Module LNRC
+                                                                           LNE Route Sectional Appendix Module LNRC
 
-Line of ELR     Line of Route / Sector                  oo    oo   oo      oo    313 314 315            317   318   319 321   322   325
-route           Description                             oo    oo   oo      oo    ooo ooo ooo            ooo   ooo   ooo ooo   ooo   ooo
-                                                        M     Ch   M       Ch
-LN836    DOL2   Site of former West Riding Jn – Copley 175    32   184      65     Y      Y         Y   Y     Y     N    Y    Y
-                Hill West Jn
-LN836    DOL2   Copley Hill West Jn – Whitehall West    184   65   185      25     Y      Y         Y   Y     Y     N    Y    Y
-                Jn
-LN836    DOL2   Whitehall West Jn – Whitehall East Jn   185   25   185      28     Y      Y         Y   Y     Y     N    Y    Y
-LN836    DOL2   Whitehall East Jn – Leeds               185   28   185      70     Y      Y         Y   Y     Y     N    Y    Y
-LN836    HUL4   Leeds – Neville Hill East Jn             20   50    18      25     Y      Y         Y   Y     Y     N    Y    Y
-LN838    LEH1   Armley Jn – Site of former Pannal Jn     0    12    14      60     N      N         N   N     N     N    N    N
-LN838    LEH2   Site of former Pannal Jn – Site of       14   60    15      20     N      N         N   N     N     N    N    N
-                former Crimple Jn
-LN838    LEH3   Site of former Crimple Jn – Harrogate    15   20    17      24     N      N         N   N     N     N    N    N
-LN838    HAY2   Harrogate – Site of former Starbeck      20   38    18      60     N      N         N   N     N     N    N    N
-                North Jn
-LN838    HAY1   Site of former Starbeck North Jn –       18   60    1       50     N      N         N   N     N     N    N    N
-                Skelton Jn
-LN840    TJC3   Leeds Engine Shed Jn – Whitehall        195   20   195      52     N      N         N   N     N     N    N    N
-                East Jn
-LN842    CJS    Thorpe Marsh Jn – Applehurst Jn         163   76   163      27     N      N         N   N     N     N    N    N
-LN842    CJS    Applehurst Jn – Skellow Jn              163   27   160      59     N      N         N   N     N     N    N    N
-LN842    SKA    Skellow Jn – Adwick Jn                   0    61    0       00     N      N         N   N     N     N    N    N
-LN844    JCA    Applehurst Jn – Joan Croft Jn            0    49    0       00     N      N         N   N     N     N    N    N
-LN846    CJS    Carcroft Jn – Skellow Jn                160   08   160      59     N      N         N   N     N     N    N    N
-LN848    HPC    Hare Park Jn – Crofton West Jn          171   70   173      22     N      N         N   N     N     N    N    N
-LN850    WWK    Wakefield Westgate South Jn –            0    00    0       26     N      N         N   N     N     N    N    N
-                Wakefield Kirkgate West Jn
-LN852    LBE1   Holbeck Jn – Site of former              0    02    6       49     N      N         N   N     N     N    N    N
-                Laisterdyke East Jn
-LN852    LBE2   Site of former Laisterdyke East Jn –    190   24   190      60     N      N         N   N     N     N    N    N
-                Site of former Laisterdyke West Jn
-LN852    LBE3   Site of former Laisterdyke West Jn –    190   60   191      30     N      N         N   N     N     N    N    N
-                Site of former Hammerton Street Jn
-LN852    LBE4   Site of former Hammerton Street Jn –    191   30   191      75     N      N         N   N     N     N    N    N
-                Mill Lane Jn
-
-
-
-October 2009                                                                                  35F
+LN600    ECM3 Temple Hirst Jn – Colton Jn                  169   16   182     79    Y    Y     Y     Y   Y    N       Y   Y
+LN600    ECM4 Colton Jn – Colton North Jn                  182   79   183     65    Y    Y     Y     Y   Y    N       Y   Y
+LN600    ECM4 Colton North Jn – York Station               183   65   188     40    Y    Y     Y     Y   Y    N       Y   Y
+Line of ELR      Line of Route / Sector                    oooo oooo oooo oooo 313 314 315 317 318 319 321 322 325 333 345 Notes
+route            Description                                M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooo
+                                                                                                                           oo
+LN600    ECM5 York Station – Birtley Jn                      0   00    75     26    Y    Y     Y     Y   Y    N       Y   Y
+LN600    ECM5 Birtley Jn – Low Fell Jn (including via       75   26    77     37    Y    Y     Y     Y   Y    N       Y   Y
+              Tyne Yard)
+LN600    ECM5 Low Fell Jn – King Edward Bridge              77   37    79     42    Y    Y     Y     Y   Y    N       Y   Y
+              South Jn
+LN600    ECM5 King Edward Bridge South Jn –                 79   42   80      05    Y    Y    Y      Y   Y    N       Y   Y
+              Newcastle West Jn
+LN600    ECM6 Newcastle West Jn – Newcastle                 80   05   80      16    Y    Y    Y      Y   Y    N       Y   Y
+LN600    ECM7 Newcastle – Newcastle East Jn                  0   00    0      14   R1    Y    Y    R1    Y    N       Y   Y R2   P
+LN600    ECM7 Newcastle East Jn – Heaton South Jn            0   14    1      65    N    Y    Y      N   Y    N       Y          r
+                                                                                                                                 o
+LN618    HOS     Holgate Jn – Skelton Jn via York Yard       0   00    1      54    Y    Y    Y      Y   Y    N       Y   Y      h
+                 South                                                                                                           i
+LN620    KEB     King Edward Bridge East Jn – King           0   00    0      13    N    N    N      N   N    N       N   N      b
+                 Edward Bridge North Jn (East Curve)                                                                             i
+                                                                                                                                 t
+LN622    NEN1    Newcastle Forth Jn – Forth Banks            0   11    0      73    N    N    N      N   N    N       N   N
+                                                                                                                                 e
+LN624    REB4    Northallerton Castle Hills Jn – Network     0   04    0      18    N    N    N      N   N    N       N   N      d
+                 Rail Boundary (Wensleydale Railway)
+LN626    LEN2    Northallerton High Jn – Northallerton       0   00    0      36    N    N    N      N   N    N       N   N      N
+                 East Jn                                                                                                         e
+                                                                                                                                 w
+LN627    LLP1    Longlands Jn (Down Line) –                 28   58   29      72   EH EH EH EH EH             N   EH EH
+                                                                                                                                 c
+                 Boroughbridge Road LC
+                                                                                                                                 a
+LN627    LLP3    Longlands Jn (Up Line) –                    0   69    0      00   EH EH EH EH EH             N   EH EH          s
+                 Boroughbridge Road LC                                                                                           t
+LN627    LLP2    Boroughbridge Road LC –                    42   21   42      79   EH EH EH EH EH             N   EH EH          l
+                 Northallerton East Jn                                                                                           e
+LN627    LEN3    Northallerton East Jn – Billingham Jn      42   79   63      69   EH EH EH EH EH             N   EH EH          p
+LN627    LEN3    Billingham Jn – Ryhope Grange Jn           63   69   87      63   EH EH EH EH EH             N   EH EH          l
+LN627    LEN3    Ryhope Grange Jn – Sunderland              87   63   89      56   EH EH EH EH EH             N   EH EH          a
+                 South Jn                                                                                                        t
+                                                                                                                                 f
+LN627    LEN3    Sunderland South Jn – Boldon East Jn       89   56   94      63   EH EH EH EH EH             N   EH EH          o
+LN627    LEN3    Boldon East Jn – Boldon West Jn            94   63   95      16   EH EH EH EH EH             N   EH EH          r
+                                                                                                                                 m
+LN627    LEN3    Boldon West Jn – Pelaw Metro Jn            95   16   97      64   EH EH EH EH EH             N   EH EH
+                                                                                                                                 s
+October 2009                                                                                  34
+                                                                                                                                 3
+                                                                                                                                 ,

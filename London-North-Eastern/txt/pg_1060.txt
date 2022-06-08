@@ -1,45 +1,47 @@
-                                                                                   OFFICIAL
+                                                                                      OFFICIAL
 
 
-                                                                    LNE Route Sectional Appendix Module LNRC
+                                                                     LNE Route Sectional Appendix Module LNRC
 
 
 
 
-Line of ELR     Line of Route / Sector Description           oooo oooo oooo oooo 170 172 180 185 195 220 221                222 Notes
-route                                                         M    Ch   M    Ch ooo ooo ooo ooo ooo ooo ooo                 ooo ooooooooooooooooooooooooooo
-LN742    KIL1   Immingham West Change of Mileage –            105   10   104     05     N     N    N     N     N    N   N   N
-                Humber Rd Jn
-LN742    BRI2   Humber Rd Jn – Ulceby North Jn                104   05   100     44     N     N    N     N     N    N   N   N
-LN742    BRI1   Ulceby North Jn – Brocklesby West Jn          100   44    99     20     Y     N    N     Y     N    N   N   N
-LN744    BAR    Ulceby North Jn – Barton on Humber            100   44   110     18     Y     N    N     Y     N    N   N   N
-LN746    TYB1   Cottam Power Station – Clarborough Jn          71   79    68     32     N     N    N     N     N    N   N   N
-LN748    WHR    Retford Western Jn – Thrumpton West Jn         64   29    63     28     N     N    N     N     N    N   N   N
-LN750    MAC3   Woodburn Jn – Deepcar                          42   29    33     35     N     N    N     N     N    N   N   N
-LN752    DOW    Wrawby Jn – Marshgate Jn                       33   34      0    03    R1     N    R2   R1     R2   N   N   R2 R1     Prohibited Scunthorpe Up Bay platforms
-                                                                                                                               R2     Prohibited between Wrawby Jn and Thorne Jn
-LN754    SAN    Scunthorpe Foreign Ore Branch                  0    00      1    16     N     N    N     N     N    N   N   N
-LN756    NOP1   Scunthorpe Trent Jn – Site of former Dawes     0    00      0    28     N     N    N     N     N    N   N   N
-                Lane Jn
-LN756    NOP2   Site of former Dawes Lane Jn – NR Boundary     0    25      3    60     N     N    N     N     N    N   N   N
-                (Roxby)
-LN758    BKS    Brancliffe East Jn – St Catherines Jn          0    00    15     17     N     N    N     N     N    N   N   N
-LN758    BKS    St Catherines Jn – Low Ellers Curve Jn         15   17    15     55     N     N    N     N     N    N   N   N
-LN758    BKS    Low Ellers Curve Jn – Kirk Sandall Jn          15   55    20     49     N     N    N     N     N    N   N   N
-LN760    HAC    Firbeck Jn – Harworth Colliery                 11   20    14     21     N     N    N     N     N    N   N   N    Line out of use (temporariliy) until 09 May 2015
-                                                                                                                                 NC/G1/2011/LNE/STNC/002
-LN762    YDS    St Catherines Jn – Decoy South Jn (St          15   17    15     71     N     N    N     N     N    N   N   N
-                Catherines Curve)
-LN764    UDS    Low Ellers Curve Jn – Potteric Carr Jn         15   55    16     56     N     N    N     N     N    N   N   N
-LN766    HJB    Bentley Jn – Hexthorpe Jn (Doncaster           3    24      0    00     N     N    N     Y     N    N   N    Y
-                Avoiding Line)
-LN768    PSE    Route Boundary (LN3273) (Mansfield) –         143   00   154     30     Y     N    N     N     N    N   N   N
-                Shireoaks East Jn
-LN772    SWP    Warsop Jn – Shirebrook Jn                      0    00      0    45     N     N    N     N     N    N   N   N
-LN774    BAC2   Barrow Hill North Jn – Seymour Jn SB          149   53   152     21     N     N    N     N     N    N   N   N
-LN774    BAC3   Seymour Jn SB – Oxcroft Disposal Point        155   06      0    78     N     N    N     N     N    N   N   N
-LN776    HLF1   Hall Lane Jn – Change of ELR                   0    44      0    00     N     N    N     N     N    N   N   N
-LN776    HLF2   Change of ELR – Foxlow Jn                     150   47   150     64     N     N    N     N     N    N   N   N
+Line of ELR     Line of Route / Sector Description           oooo oooo oooo oooo 170 172 180 185 195 220 221 222 Notes
+route                                                         M    Ch   M    Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+LN101    ECM1 Loversall Carr Jn – Marshgate Jn                152   00   156     26    R1        N   R2   R4   Y   R5   R5   R6 R1    Prohibited Doncaster platforms 2
+                                                                                                     R3                      R7 R2    Passenger operation can be planned for Fast / Main lines
+                                                                                                                                      only. ECS can be planned for Fast / Main and Slow lines.
+                                                                                                                                 R3   For all planned movements and unplanned diversions
+                                                                                                                                      when returning to Fast / Main lines a maximum speed of
+                                                                                                                                      70mph applies until the unit has passed the next signal.
+                                                                                                                                 R4   Prohibited between Loversall Carr Jn and Black Carr Jn
+                                                                                                                                 R5   Prohibited between Loversall Carr Jn and Doncaster
+                                                                                                                                 R6   Shall be planned for Fast / Main lines only
+                                                                                                                                 R7   For unplanned diversions when returning to Fast/Main
+                                                                                                                                      lines a maximum speed of 70mph applies until the unit
+                                                                                                                                      has passed the next signal
+LN101    ECM1 Marshgate Jn – Shaftholme Jn                    156   26   160     16     Y        N   Y    Y    Y   Y    Y    Y
+LN105    MEB1 Moorgate – Drayton Park                           0   00     2     56     N        N   N    N    N   N    N    N
+LN105    MEB1 Drayton Park – Finsbury Park Jn                   2   56     3     37     N        N   N    N    N   N    N    N
+LN110    CFP    Route Boundary (EA1320) (Canonbury              3   20     4     33     E        N   E    N    N   N    N    Y
+                West Jn) - Finsbury Park Jn
+LN115    CRF1   Copenhagen Jn – Route Boundary                  0   00     0     20     E        E   E    N    N   N    N    Y
+                (EA1320) (North London Incline)
+LN120    HDB    Wood Green Jn – Langley Jn via Hertford         5   07    28     15     Y        N   Y    N    N   N    N    Y
+LN120    HDB    Langley Jn via Hertford – Stevenage            28   15    29     00     N        N   N    N    N   N    N    N
+                platform 5 (End of line)
+LN125    SBR    Cambridge Jn – Route Boundary (EA1230)         32   11    45     60     E        N   R1   N    N   N    N    R1 R1    Must be planned as a non-stop train between Hitchin and
+                                                                                                                                      Cambridge
+LN126    DCF    Hitchin North Jn – Hitchin East Jn             32   53    34     05     E        N   Y    N    N   N    N    N
+LN135    EMP    Route Boundary (EA1560) (Ely West Jn) –        98   40   100     66     Y        N   R1   N    N   N    N    R1 R1    Must be planned as a non-stop train between Cambridge
+                Crescent Jn                                                                                                           and Peterborough.
+LN147    PMJ    Helpston Jn – Route Boundary (LN3615)          16   71    13     60     Y        N   N    N    N   N    N    Y
+LN150    SPD5   Flyover East – Decoy North Jn                 116   20   117     46     Y        N   Y    Y    N   N    N    N
+LN155    LCJ    Flyover East Jn – Loversall Jn (Up            152   79   152     36     Y        N   Y    N    N   N    N    N
+                Loversall Curve)
+LN160    LCR    Loversall Carr Jn – Rossington Colliery Jn    152   00   152     12     Y        N   N    N    N   N    N    N
 
 
-October 2009                                                                           25E
+
+
+October 2009                                                                                23

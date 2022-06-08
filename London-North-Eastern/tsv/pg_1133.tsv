@@ -1,18 +1,18 @@
-London-North-Eastern	1133	LN627	LEN3	Pelaw Metro Jn	Park Lane Jn	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	Y	Y	Y	N	N	N	R1	Y	N	R1 20mph Heworth down platform
-London-North-Eastern	1133	LN627	LEN3	Park Lane Jn	High Level Bridge Jn	Park Lane Jn – High Level Bridge Jn	100	65	101	33	Y	Y	Y	N	N	N	Y	Y	N
-London-North-Eastern	1133	LN627	LEN3	High Level Bridge Jn	Newcastle East Jn	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	Y	Y	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1133	LN628	NEK	South Hylton	Sunderland South Jn	South Hylton – Sunderland South Jn	3	20	0	00	R1	R1	N	N	N	N	N	N	N	R1 Permitted for the purposes of track recording and maintenance only
-London-North-Eastern	1133	LN629	PDL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1133	LN630	PUL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1133	LN631	DSN1	Darlington South Jn	Eaglescliffe South Jn	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1133	LN632	DSN2	Stockton Cut Jn	Redcar Change of Mileage	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1133	LN632	DSN3	Redcar Change of Mileage	Saltburn	Redcar Change of Mileage – Saltburn	22	16	27	57	Y	Y	Y	N	N	N	N	N	R1 R2 R3 R4	R1 Prohibited Redcar East Up platform with deflated suspension R2 Prohibited Longbeck Down platform with deflated suspension R3 Prohibited Marske Down platform with deflated suspension R4 Prohibited Saltburn platform 2 with deflated suspension
-London-North-Eastern	1133	LN634	MBW1	Guisborough Jn	Battersby Jn	Guisborough Jn – Battersby Jn	0	00	10	54	Y	Y	Y	N	N	N	N	N	R1	R1 Prohibited betweenm 50ch and Battersby Jn
-London-North-Eastern	1133	LN634	MBW2	Battersby Jn (End of line)	Grosmont Jn	Battersby Jn (End of line) – Grosmont Jn	11	61	29	66	R1	R1	R1	N	N	N	N	N	N	R1 Special authority required to use the Run-Round Loop at Battersby
-London-North-Eastern	1133	LN634	MBW3	Grosmont Jn	Whitby	Grosmont Jn – Whitby	24	44	30	61	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1133	LN636	No ELR	Beam Mill Jn	Network Rail Boundary	Beam Mill Jn – Network Rail Boundary	18	03	18	67	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1133	LN638	WCI	Shell Jn	Network Rail Boundary	Shell Jn – Network Rail Boundary	0	00	1	03	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1133	LN642	SSK1	Saltburn West Jn	Network Rail Boundary (Cleveland Potash)	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1133	LN644	BOH	Hartburn Jn	Bowesfield SB (Hartburn Curve)	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1133	LN646	STF	Norton-on-Tees South	Ferryhill South Jn	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	Y	Y	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1133	LN648	NWE	Norton-on-Tees West	Norton-on- Tees East	Norton-on-Tees West – Norton-on- Tees East	0	29	0	00	Y	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1133	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
+London-North-Eastern	1133	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	N	N	N	N	H	N	EH	N	EH	N
+London-North-Eastern	1133	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	N	N	N	N	H	N	EH R1	N	EH R2 R3 R4 R5	N	R1 Prohibited between Wichnor Jn and Route Boundary (MD501) (Kingsbury Jn) R2 15mph Burton on Trent Up Main platform R3 Prohibited Derby platform 4 R4 5mph Derby platform 3 R5 Prohibited Down and Up Goods lines between Clay Mills Jn and Leicester Jn
+London-North-Eastern	1133	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	N	N	N	H	N	N	N	N	N
+London-North-Eastern	1133	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1133	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	N	N	N	N	H	N	N	N	EH	N
+London-North-Eastern	1133	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	N	N	N	N	H	N	N	N	EH	N
+London-North-Eastern	1133	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	N	N	N	N	H	N	N	N	EH R1	N	R1 15mph over bridge 10 Swarkestone Road on the Down Line 128m 14ch

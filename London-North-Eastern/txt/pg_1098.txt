@@ -1,44 +1,46 @@
-                                                                                      OFFICIAL
+                                                                                         OFFICIAL
 
 
-                                                                       LNE Route Sectional Appendix Module LNRC
+                                                                          LNE Route Sectional Appendix Module LNRC
 
 
-Line of ELR Line of Route / Sector Description             M     Ch   M     Ch 325 333       345     357   357    365   377   378 387 Notes
-route                                                                                                      MOD                        ooooooooooooooooooooooooooo
-LN627 LEN3 Northallerton East Jn – Billingham Jn            42   79    63   69   H     N         N   N      N     N     N     N   N
-LN627 LEN3 Billingham Jn – Ryhope Grange Jn                 63   69    87   63   H     N         N   N      N     N     N     N   N
-LN627 LEN3 Ryhope Grange Jn – Sunderland South Jn           87   63    89   56   H     N         N   N      N     N     N     N   N
-LN627 LEN3 Sunderland South Jn – Boldon East Jn             89   56    94   63   H     N         N   N      N     N     N     N   N   R1   OPPOS applies between Monkwearmouth Jn
-                                                                                 R1                                                        and East Boldon
-LN627 LEN3 Boldon East Jn – Boldon West Jn                  94   63    95   16   H     N         N   N      N     N     N     N   N
-LN627 LEN3 Boldon West Jn – Pelaw Metro Jn                  95   16    97   64   H     N         N   N      N     N     N     N   N
-LN627 LEN3 Pelaw Metro Jn – Park Lane Jn                    97   64   100   65   H     N         N   N      N     N     N     N   N
-LN627 LEN3 Park Lane Jn – High Level Bridge Jn             100   65   101   33   H     N         N   N      N     N     N     N   N
-LN627 LEN3 High Level Bridge Jn – Newcastle East Jn        101   33   101   59   H     N         N   N      N     N     N     N   N
-LN628 NEK      South Hylton – Sunderland South Jn           3    20     0   00   N     N         N   N      N     N     N     N   N
-LN629 PDL      Pelaw Metro Jn – Network Rail Boundary       97   64    98   01   N     N         N   N      N     N     N     N   N
-               (Metro Operating)
-LN630 PUL      Pelaw Metro Jn – Network Rail Boundary       97   64    97   77   N     N         N   N      N     N     N     N   N
-               (Metro Operating)
-LN631 DSN1 Darlington South Jn – Eaglescliffe South Jn      0    29     8   58   H     N         N   N      N     N     N     N   N
-LN632 DSN2 Stockton Cut Jn – Redcar Change of               10   13    21   72   H     N         N   N      N     N     N     N   N
-           Mileage
-LN632 DSN3 Redcar Change of Mileage – Saltburn              22   16    27   57   H     N         N   N      N     N     N     N   N
-LN634 MBW1 Guisborough Jn – Battersby Jn                    0    00    10   54   H     N         N   N      N     N     N     N   N
-LN634 MBW2 Battersby Jn (End of Line) – Grosmont Jn         11   61    29   66   H     N         N   N      N     N     N     N   N
-LN634 MBW3 Grosmont Jn – Whitby                             24   44    30   61   H     N         N   N      N     N     N     N   N
-LN636 No       Beam Mill Jn – Network Rail Boundary         18   03    18   67   N     N         N   N      N     N     N     N   N
-      ELR
-LN638 WCI      Shell Jn – Network Rail Boundary             0    00     1   03   N     N         N   N      N     N     N     N   N
-LN642 SSK1 Saltburn West Jn – Network Rail Boundary         27   05    34   29   H     N         N   N      N     N     N     N   N
-           (Cleveland Potash)
-LN644 BOH      Hartburn Jn – Bowesfield SB (Hartburn        0    00     0   44   H     N         N   N      N     N     N     N   N
-               Curve)
-LN646 STF      Norton-on-Tees South – Ferryhill South Jn    0    00    10   72   H     N         N   N      N     N     N     N   N
-LN648 NWE Norton-on-Tees West – Norton-on-Tees              0    29     0   00   H     N         N   N      N     N     N     N   N
-          East
-LN652 POC1 Billingham Jn – Phillips Siding Jn               0    00     3   25   N     N         N   N      N     N     N     N   N
+Line of ELR     Line of Route / Sector                   oo    oo   oo      oo    313 314 315 317             318    319 321 322 Notes
+route           Description                              oo    oo   oo      oo    ooo ooo ooo ooo             ooo    ooo ooo ooo oooooooooooooooooooooooooo
+                                                         M     Ch   M       Ch                                                   o
+LN902    CFM    Micklefield Jn – Church Fenton North      15   62    10      31     N      N         N   N     N     N    N   N
+                Jn
+LN904    HSC    Hambleton South Jn – Hambleton           174   10   175      33     N      N         N   N     N     N    N   N
+                West Jn
+LN906    HNC    Hambleton East Jn – Hambleton             3    34    4       00     N      N         N   N     N     N    N   N
+                North Jn
+LN908    SEC    Selby West Jn – Canal Jn                  0    00    0       32     N      N         N   N     N     N    N   N
+LN910    TCW1 Temple Hirst Jn – Selby Canal Jn           169   16   173      59     N      N         N   N     N     N    N   N
+LN910    TCW1 Selby Canal Jn – Selby South Jn            173   59   174      11     N      N         N   N     N     N    N   N
+LN912    TJG1   Thorne Jn – Thorne North Change of        7    69    9       09     N      N         N   N     N     N    N   N
+                ELR
+LN912    TJG2   Thorne North Change of ELR –              14   06    0       00     N      N         N   N     N     N    N   N
+                Gilberdyke Jn
+LN914    HBS    West Parade Jn – West Parade North        0    25    0       72     N      N         N   N     N     N    N   N
+                Jn
+LN914    HBS    West Parade North Jn – Walton Street      0    72    1       29     N      N         N   N     N     N    N   N
+                Jn
+LN914    HBS    Walton Street Jn – Seamer West Jn         1    29    50      43     N      N         N   N     N     N    N   N
+LN916    HJS    Hessle Road – Springbank North Jn         0    00    1       38     N      N         N   N     N     N    N   N
+LN916    HJS    Springbank North Jn – Network Rail        1    38    5       62     N      N         N   N     N     N    N   N
+                Boundary
+LN918    SPW    Springbank North Jn – Walton Street       1    54    1       29     N      N         N   N     N     N    N   N
+                Jn
+LN920    AWP    Anlaby Road Jn – West Parade North         0   00     0      24     N      N         N   N      N    N    N   N
+                Jn
+LN922    TJC3   Whitehall West Jn – Skipton              195   57   221      01     N      N         N   N      N    N    Y    Y
+LN922    TJC3   Skipton – Site of former Skipton North   221   21   221      68     N      N         N   N      N    N    N   N
+                Jn Change of ELR
+LN922    SKW1 Site of former Skipton North Jn            221   68   230      00     N      N         N   N      N    N    N   N
+              Change of ELR – Route Boundary
+              (NW9901) (Settle Jn)
+LN924    ILK1   Apperley Jn – Burley in Wharfedale       202   03   208      02     N      N         N   N      N    N    Y    Y
+LN924    ILK2   Burley in Wharfedale – Ilkley            208   02   211      20     N      N         N   N      N    N    Y    Y
+LN926    GUE2 Dockfield Jn – Esholt Jn                     3   41     0      00     N      N         N   N      N    N    Y    Y
 
 
-October 2009                                                                               37C
+October 2009                                                                                   35J

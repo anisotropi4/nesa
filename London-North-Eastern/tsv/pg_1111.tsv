@@ -1,23 +1,26 @@
-London-North-Eastern	1111	LN170	SPD3	Site of former Greetwell West Jn	Trent East Jn	Site of former Greetwell West Jn – Trent East Jn	81	25	98	56	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN170	MAC3	Trent East Jn	Trent West Jn	Trent East Jn – Trent West Jn	73	25	73	11	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN170	SPD4	Trent West Jn	Bessacarr Jn	Trent West Jn – Bessacarr Jn	98	68	115	72	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN180	SNW	Sleaford West Jn	Sleaford North Jn	Sleaford West Jn – Sleaford North Jn	1	34	3	42	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	ABE1	Allington West Jn	Site of former Barkston East Jn	Allington West Jn – Site of former Barkston East Jn	0	00	4	08	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS1	Barkston East Jn	Site of former Honington Jn	Barkston East Jn – Site of former Honington Jn	110	12	112	00	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS2	Site of former Honington Jn	Sleaford West Jn	Site of former Honington Jn – Sleaford West Jn	112	00	120	29	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS2	Sleaford West Jn	Sleaford East Jn	Sleaford West Jn – Sleaford East Jn	120	29	121	21	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS2	Sleaford East Jn	Site of former Boston Sleaford Line Jn	Sleaford East Jn – Site of former Boston Sleaford Line Jn	121	21	137	06	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS3	Site of former Boston Sleaford Line Jn	Boston	Site of former Boston Sleaford Line Jn – Boston	106	70	107	24	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS3	Boston	Site of former Firsby East Jn	Boston – Site of former Firsby East Jn	107	24	122	22	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN185	GRS4	Site of former Firsby East Jn	Skegness	Site of former Firsby East Jn - Skegness	0	28	9	17	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN190	ACD	Allington East Jn	Allington North Jn (Allington Chord)	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN215	BHP	Boultham Jn	Pyewipe Jn	Boultham Jn – Pyewipe Jn	0	00	0	65	N	N	N	N	N	N	N
-London-North-Eastern	1111	LN220	BCB	Bessacarr Jn	Black Carr Jn	Bessacarr Jn – Black Carr Jn	115	72	116	44	N	N	N	N	N	N	N
+London-North-Eastern	1111	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	387	Notes
+London-North-Eastern	1111	LN836	DOL2	Copley Hill West Jn	Whitehall West Jn	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	H	Y	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN836	DOL2	Whitehall West Jn	Whitehall East Jn	Whitehall West Jn – Whitehall East Jn	185	25	185	28	H	Y	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN836	DOL2	Whitehall East Jn	Leeds	Whitehall East Jn – Leeds	185	28	185	70	H	Y	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN836	HUL4	Leeds	Neville Hill East Jn	Leeds – Neville Hill East Jn	20	50	18	25	H	E	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN838	LEH1	Armley Jn	Site of former Pannal Jn	Armley Jn – Site of former Pannal Jn	0	12	14	60	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN838	LEH2	Site of former Pannal Jn	Site of Former Crimple Jn	Site of former Pannal Jn – Site of Former Crimple Jn	14	60	15	20	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN838	LEH3	Site of former Crimple Jn	Harrogate	Site of former Crimple Jn – Harrogate	15	20	17	24	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN838	HAY2	Harrogate	Site of former Starbeck North Jn	Harrogate – Site of former Starbeck North Jn	20	38	18	60	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN838	HAY1	Site of former Starbeck North Jn	Skelton Jn	Site of former Starbeck North Jn – Skelton Jn	18	60	1	50	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN840	TJC3	Leeds Engine Shed Jn	Whitehall East Jn	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN842	CJS	Thorpe Marsh Jn	Applehurst Jn	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN842	CJS	Applehurst Jn	Skellow Jn	Applehurst Jn – Skellow Jn	163	27	160	59	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN842	SKA	Skellow Jn	Adwick Jn	Skellow Jn – Adwick Jn	0	61	0	00	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN844	JCA	Applehurst Jn	Joan Croft Jn	Applehurst Jn – Joan Croft Jn	0	49	0	00	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN846	CJS	Carcroft Jn	Skellow Jn	Carcroft Jn – Skellow Jn	160	08	160	59	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN848	HPC	Hare Park Jn	Crofton West Jn	Hare Park Jn – Crofton West Jn	171	70	173	22	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN850	WWK	Wakefield Westgate South Jn	Wakefield Kirkgate West Jn	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	0	00	0	26	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN852	LBE1	Holbeck Jn	Site of former Laisterdyke East Jn	Holbeck Jn – Site of former Laisterdyke East Jn	0	02	6	49	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN852	LBE2	Site of former Laisterdyke East Jn	Site of former Laisterdyke West Jn	Site of former Laisterdyke East Jn – Site of former Laisterdyke West Jn	190	24	190	60	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN852	LBE3	Site of former Laisterdyke West Jn	Site of former Hammerton Street Jn	Site of former Laisterdyke West Jn – Site of former Hammerton Street Jn	190	60	191	30	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN852	LBE4	Site of former Hammerton Street Jn	Mill Lane Jn	Site of former Hammerton Street Jn – Mill Lane Jn	191	30	191	75	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN852	MRB	Mill Lane Jn	Bradford Interchange	Mill Lane Jn – Bradford Interchange	40	01	40	27	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN854	MVN2	Route Boundary (NW7001) (Hall Royd Jn)	Turners Lane Jn	Route Boundary (NW7001) (Hall Royd Jn) – Turners Lane Jn	22	62	48	33	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN854	MVN2	Turners Lane Jn	Site of former Goose Hill Jn	Turners Lane Jn – Site of former Goose Hill Jn	48	33	50	31	H	N	N	N	N	N	N	N	N
+London-North-Eastern	1111	LN854	TJC3	Site of former Goose Hill Jn	Altofts Jn	Site of former Goose Hill Jn – Altofts Jn	184	56	186	00	H	N	N	N	N	N	N	N	N

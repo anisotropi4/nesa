@@ -1,12 +1,13 @@
-London-North-Eastern	1240	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1240					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1240	LN632	Stockton Cut Jn – Saltburn	Stockton Cut Jn	Saltburn	Y *	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 PROHIBITED Shell Jn to Saltburn R2 PROHIBITED from Tees Yard R3 PROHIBITED on the Up Goods No 2 between Thornaby East Jn and Newport East Jn R4 PROHIBITED on the Down Goods between Thornaby East Jn and Newport East Jn R5 PROHIBITED on the Up Main between Newport East Jn and Whitehouse R6 PROHIBITED on the Down Main between Newport East Jn and Whitehouse R7 PROHIBITED on the Up Main between South Bank Jn and Grangetown Jn R8 PROHIBITED on the Down Main between South Bank Jn and Shell Jn R9 PROHIBITED on the Grangetown Beam Mill line
-London-North-Eastern	1240	LN632	Thornaby East Jn – Newport East Jn via Tees Yard	Thornaby East Jn	Newport East Jn via Tees Yard	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1240	LN632	Newport East Jn – Middlesborough Goods Yard	Newport East Jn	Middlesborough Goods Yard	Y *	N	N	N	N	N	N	N	Middlesborough Goods Yard = DB Schenker responsibility
-London-North-Eastern	1240	LN632	Redcar Ore Terminal Jn – Redcar Ore Terminal (NR Limit) [ 20m 25ch ]	Redcar Ore Terminal Jn	Redcar Ore Terminal (NR Limit) [ 20m 25ch ]	Y *	Y	Y	N	N	N	N	N	Redcar Ore Terminal = Corus responsibility
-London-North-Eastern	1240	LN634	Guisborough Jn – Whitby	Guisborough Jn	Whitby	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1240	LN636	Beam Mill Jn – Slag Road (Lackenby)	Beam Mill Jn	Slag Road (Lackenby)	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1240	LN638	Grangetown (Shell Jn) – Cleveland Freightliner Terminal (Wilton)	Grangetown (Shell Jn)	Cleveland Freightliner Terminal (Wilton)	Y	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED ICI Wilton Jn to Cleveland Freightliner Terminal (Wilton) (non NR Infrastructure) Part NR Infrastructure - NR Boundary at 1m 03ch
-London-North-Eastern	1240	LN640	ICI Wilton Coal Terminal	ICI Wilton Coal Terminal		-	-	-	-	-	-	-	-	Not NR Infrastructure
-London-North-Eastern	1240	LN642	Saltburn West Jn – Boulby Potash Mine	Saltburn West Jn	Boulby Potash Mine	Y	N	N	N	N	N	N	N	Part NR Infrastructure - - NR Boundary at 34m 29ch
-London-North-Eastern	1240	LN644	Hartburn Curve	Hartburn Curve		Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1240	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1240																
+London-North-Eastern	1240						M	Ch	M	Ch							
+London-North-Eastern	1240	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	9	N	N	Y	N	N	N
+London-North-Eastern	1240	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	8	N	N	Y	N	N	N
+London-North-Eastern	1240	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	8	N	N	Y	N	N	N
+London-North-Eastern	1240	LN3615	GSM3	Melton Jn	Syston South Jn.	Melton Jn – Syston South Jn.	113	36	103	77	8	N	N	Y	N	N	N
+London-North-Eastern	1240	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	8	N	N	Y	N	N	N
+London-North-Eastern	1240	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1240	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1240	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1240	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1240	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	8	N	N	Y	N	H R1	N	R1 75mph maximum speed

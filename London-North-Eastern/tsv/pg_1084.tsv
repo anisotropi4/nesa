@@ -1,22 +1,16 @@
-London-North-Eastern	1084	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	C h	M	C h	313	314	315	317	318	319	321	322	Notes
-London-North-Eastern	1084	LN742	KIL1	Immingham West Change of Mileage	Humber Rd Jn	Immingham West Change of Mileage – Humber Rd Jn	105	10	104	05	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN742	BRI2	Humber Rd Jn	Ulceby North Jn	Humber Rd Jn – Ulceby North Jn	104	05	100	44	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN742	BRI1	Ulceby North Jn	Brocklesby West Jn	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN744	BAR	Ulceby North Jn	Barton on Humber	Ulceby North Jn – Barton on Humber	100	44	110	18	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN746	TYB1	Cottam Power Station	Clarborough Jn	Cottam Power Station – Clarborough Jn	71	79	68	32	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN748	WHR	Retford Western Jn	Thrumpton West Jn	Retford Western Jn – Thrumpton West Jn	64	29	63	28	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN750	MAC3	Woodburn Jn	Deepcar	Woodburn Jn – Deepcar	42	29	33	35	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN752	DOW	Wrawby Jn	Marshgate Jn	Wrawby Jn – Marshgate Jn	33	34	0	03	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN754	SAN	Scunthorpe Foreign Ore Branch		Scunthorpe Foreign Ore Branch	0	00	1	16	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN756	NOP1	Scunthorpe Trent Jn	Site of former Dawes Lane Jn	Scunthorpe Trent Jn – Site of former Dawes Lane Jn	0	00	0	28	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN756	NOP2	Site of former Dawes Lane Jn	NR Boundary (Roxby)	Site of former Dawes Lane Jn – NR Boundary (Roxby)	0	25	3	60	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN758	BKS	Brancliffe East Jn	St Catherines Jn	Brancliffe East Jn – St Catherines Jn	0	00	15	17	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN758	BKS	St Catherines Jn	Low Ellers Curve Jn	St Catherines Jn – Low Ellers Curve Jn	15	17	15	55	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN758	BKS	Low Ellers Curve Jn	Kirk Sandall Jn	Low Ellers Curve Jn – Kirk Sandall Jn	15	55	20	49	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN760	HAC	Firbeck Jn	Harworth Colliery	Firbeck Jn – Harworth Colliery	11	20	14	21	N	N	N	N	N	N	N	N	Line out of use (temporarily) until 09 May 2015 NC/G1/2011/LNE/STNC/002
-London-North-Eastern	1084	LN762	YDS	St Catherines Jn	Decoy South Jn (St Catherines Curve)	St Catherines Jn – Decoy South Jn (St Catherines Curve)	15	17	15	71	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN764	UDS	Low Ellers Curve Jn	Potteric Carr Jn	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN766	HJB	Bentley Jn	Hexthorpe Jn (Doncaster Avoiding Line)	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	3	24	0	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN768	PSE	Route Boundary (LN3273) (Mansfield)	Shireoaks East Jn	Route Boundary (LN3273) (Mansfield) – Shireoaks East Jn	143	00	154	30	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN772	SWP	Warsop Jn	Shirebrook Jn	Warsop Jn – Shirebrook Jn	0	00	0	45	N	N	N	N	N	N	N	N
-London-North-Eastern	1084	LN774	BAC2	Barrow Hill North Jn	Seymour Jn SB	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	N	N	N	N	N	N	N	N
+London-North-Eastern	1084	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
+London-North-Eastern	1084	LN101	ECM1	Kings Cross	Copenhagen Jn	Kings Cross – Copenhagen Jn	0	00	0	64	Y	Y	Y	Y	Y	N	Y	Y	H	N	N
+London-North-Eastern	1084	LN101	ECM1	Copenhagen Jn	Holloway South / North Jns	Copenhagen Jn – Holloway South / North Jns	0	64	1	44	Y	Y	Y	Y	Y	E	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Holloway South / North Jns	Wood Green North Jn	Holloway South / North Jns – Wood Green North Jn	1	44	5	07	Y	Y	Y	Y	Y	E R1	Y	Y	Y	N	E R2 R3	R1 Prohibited between Hornsey and Wood Green North Jn R2 Prohibited between Hornsey and Wood Green South Jn Down Slow Line with footsteps fitted R3 Prohibited Holloway South / North Jns to Finsbury Park South Jn.
+London-North-Eastern	1084	LN101	ECM1	Wood Green North Jn	Langley Jn	Wood Green North Jn – Langley Jn	5	07	25	73	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Langley Jn	St Neots	Langley Jn – St Neots	25	73	51	58	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	St Neots	Fletton Jn	St Neots – Fletton Jn	51	58	75	02	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Fletton Jn	Peterborough	Fletton Jn – Peterborough	75	02	76	29	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Peterborough	Newark North Gate	Peterborough – Newark North Gate	76	29	120	08	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	PMJ	Peterborough	Helpston Jn via Stamford lines	Peterborough – Helpston Jn via Stamford lines	22	19	16	71	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Newark North Gate	Retford	Newark North Gate – Retford	120	08	138	49	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Retford	Loversall Carr Jn	Retford – Loversall Carr Jn	138	49	150	00	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN101	ECM1	Loversall Carr Jn	Marshgate Jn	Loversall Carr Jn – Marshgate Jn	152	00	156	26	Y	Y	Y	Y	Y	N	Y	Y	Y	R1	N	R1 Between Doncaster platforms 1, 3, 4, 6, 7 and 8 and Marshgate Jn only
+London-North-Eastern	1084	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	Y	Y	Y	Y	N	Y	Y	Y	N	N
+London-North-Eastern	1084	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	Y	N	N	N	N	N	N	N	N	N	N
+London-North-Eastern	1084	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	Y	N	N	Y	N	N	N	N	H	N	N

@@ -1,45 +1,47 @@
-                                                                                        OFFICIAL
+                                                                                   OFFICIAL
 
 
-                                                                         LNE Route Sectional Appendix Module LNRC
+                                                                    LNE Route Sectional Appendix Module LNRC
 
 
-LN627    LEN3   Pelaw Metro Jn – Park Lane Jn            97   64   100      65   EH EH EH EH EH             N       EH EH
-LN627    LEN3   Park Lane Jn – High Level Bridge Jn     100   65   101      33   EH EH EH EH EH             N       EH EH
-Line of ELR     Line of Route / Sector                  oo    oo   oo      oo 313 314 315 317 318 319 321 322 325 333 345 Notes
-route           Description                             oo    oo   oo      oo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo     oooooooooooooooooooooooo
-                                                        M     Ch   M       Ch                                             ooo
-LN627    LEN3   High Level Bridge Jn – Newcastle East 101     33   101      59    Y    Y       Y    Y   Y   N       Y   Y
-                Jn
-LN628    NEK    South Hylton – Sunderland South Jn       3    20    0       00    N    N       N    N   N   N       N   N
-LN630    PUL    Pelaw Metro Jn – Network Rail            97   64    97      77    N    N       N    N   N   N       N   N
-                Boundary (Metro Operating)
-LN631    DSN1   Darlington South Jn – Eaglescliffe       0    29    8       58    N    N       N    N   N   N       N   N
-                South Jn
-LN632    DSN2   Stockton Cut Jn – Redcar Change of       10   13    21      72    N    N       N    N   N   N       N   N
-                Mileage
-LN632    DSN3   Redcar Change of Mileage – Saltburn      22   16    27      57     N       N        N   N       N       N   N   N
-LN634    MBW1 Guisborough Jn – Battersby Jn              0    00    10      54     N       N        N   N       N       N   N   N
-LN634    MBW2 Battersby Jn (End of Line) – Grosmont      11   61    29      66     N       N        N   N       N       N   N   N
-              Jn
-LN634    MBW3 Grosmont Jn – Whitby                       24   44    30      61     N       N        N   N       N       N   N   N
-LN636    No ELR Beam Mill Jn – Network Rail Boundary     18   03    18      67     N       N        N   N       N       N   N   N
-LN638    WCI    Shell Jn – Network Rail Boundary         0    00    1       03     N       N        N   N       N       N   N   N
-LN642    SSK1   Saltburn West Jn – Network Rail          27   05    34      29     N       N        N   N       N       N   N   N
-                Boundary (Cleveland Potash)
-LN644    BOH    Hartburn Jn – Bowesfield SB (Hartburn    0    00    0       44     N       N        N   N       N       N   N   N
-                Curve)
-LN646    STF    Norton-on-Tees South – Ferryhill         0    00    10      72     N       N        N   N       N       N   N   N
-                South Jn
-LN648    NWE    Norton-on-Tees West – Norton-on-         0    29    0       00     N       N        N   N       N       N   N   N
-                Tees East
-LN652    POC1 Billingham Jn – Phillips Siding Jn         0    00    3       25     N       N        N   N       N       N   N   N
-LN652    POC2 Phillips Siding Jn – Seal Sands Branch     3    25    5       01     N       N        N   N       N       N   N   N
-              Jn
-LN652    SES    Seal Sands Branch Jn – End of NR         0    00    2       44     N       N        N   N       N       N   N   N
-                maintenance
-LN656    SOT    Seaton Snook Jn – Seaton-on-Tees         0    00    1       51     N       N        N   N       N       N   N   N
-LN662    HNB    Ryhope Grange – Hendon                   0    00    1       53     N       N        N   N       N       N   N   N
-LN664    BNW    Boldon East Jn – Boldon North Jn         0    00    0       20     N       N        N   N       N       N   N   N
 
-October 2009                                                                                   35
+LN3201    SPC8 Derby Jn – Former Clay Cross South      128   08   147   69    N     Y        N    E      Y     Y   Y   Y
+               Jn
+LN3201    SPC9 Former Clay Cross South Jn – Route      142   10   146   64    N     Y        N    E      Y     Y   Y   Y
+               Boundary (LN804 / LN806) (Tapton
+               Jn)
+LN3204    TSN1 Trent South Jn – Mansfield Jn           119   17   125   64    N     Y        N    N      Y     Y   Y   Y
+LN3204    TSN2 Mansfield Jn – Nottingham East Jn       124   22   123   27    N     Y        N    N      Y     Y   Y   R1 R1    Between Nottingham and Nottingham
+                                                                                                                                East Jn, when accelerating from a stand
+                                                                                                                                at any red signal a maximum of 50%
+                                                                                                                                power shall be applied until the next
+                                                                                                                                proceed aspect is observed
+LN3207    TCC Trent East Jn – Change of ELR            119   70   142   10    N     Y        N    N     R1     Y   Y   Y   R1   Prohibited between Trent East Jn and
+              (between Morton Jn and Clay Cross                                                                                 Toton South Jn
+              North Jn)
+LN3207    SPC9 Change of ELR (between Morton Jn        142   10   143   12    N     Y        N    N      N     Y   Y   Y
+               and Clay Cross North Jn) – Clay Cross
+               North Jn
+LN3210    JRT2 Route Boundary (EA1370) (Junction        2    38    2    00    N     N        E    N      N     N   N   N
+               Road Jn) – Change of ELR (Between
+               Tottenham North Curve No 2 and No 1
+               Tunnels)
+LN3210    JRT1 Change of ELR (Between Tottenham         0    18    0    03    N     N        E    N      N     N   N   N
+               North Curve No 2 and No 1 Tunnels) –
+               Carlton Road Jn (Tottenham Lines)
+LN3213    MCL Route Boundary (SO280) (former            0    66    3    58    N     N        N    N      N     N   N   N
+              Farringdon Jn) – Kentish Town Jn
+LN3214     CBI   Canal Tunnel Jn – Belle Isle Jn        0    00    0    53    N     N        N    N      N     N   N   N
+LN3219    CAW Cricklewood Curve Jn – Route              5    19    5    72    N     Y        E    N      N     N   N   Y
+              Boundary (LOR EA1360)
+LN3222    BDH Brent Curve Jn – Route Boundary           0    00    0    54    E     Y        E    N      N     N   N   Y
+              (EA1360) (Dudding Hill)
+LN3228    TCC Trent East Jn – Trent East ELR           119   70   119   56    N     Y        N    N      N     Y   Y   Y
+              Change
+LN3228     TES Trent East ELR Change – Sheet            0    00    0    30    N     Y        N    N      Y     Y   Y   Y
+               Stores Jn
+LN3231    WGP Wigston South Jn – Glen Parva Jn          95   37    96   07    N     Y        N    N      N     N   N   N
+LN3232    WNS Wigston North Jn – Route Boundary         15   31    2    62    N     Y        N    N      N     Y   Y   N
+              (MD232) (Nuneaton South Jn)
+
+October 2009                                                                            30

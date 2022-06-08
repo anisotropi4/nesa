@@ -1,24 +1,16 @@
-London-North-Eastern	1081	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
-London-North-Eastern	1081	LN627	LEN3	Pelaw Metro Jn	Park Lane Jn	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	EH	EH	EH	EH	EH	N	EH	EH	
-London-North-Eastern	1081	LN627	LEN3	Park Lane Jn	High Level Bridge Jn	Park Lane Jn – High Level Bridge Jn	100	65	101	33	EH	EH	EH	EH	EH	N	EH	EH	
-London-North-Eastern	1081	LN627	LEN3	High Level Bridge Jn	Newcastle East Jn	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	Y	Y	Y	Y	Y	N	Y	Y	
-London-North-Eastern	1081	LN628	NEK	South Hylton	Sunderland South Jn	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1081	LN630	PUL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N	
-London-North-Eastern	1081	LN631	DSN1	Darlington South Jn	Eaglescliffe South Jn	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	N	N	N	N	N	N	N	N	
-London-North-Eastern	1081	LN632	DSN2	Stockton Cut Jn	Redcar Change of Mileage	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	N	N	N	N	N	N	N	N	
-London-North-Eastern	1081	LN632	DSN3	Redcar Change of Mileage	Saltburn	Redcar Change of Mileage – Saltburn	22	16	27	57	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN634	MBW1	Guisborough Jn	Battersby Jn	Guisborough Jn – Battersby Jn	0	00	10	54	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN634	MBW2	Battersby Jn (End of Line)	Grosmont Jn	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN634	MBW3	Grosmont Jn	Whitby	Grosmont Jn – Whitby	24	44	30	61	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN636	No ELR	Beam Mill Jn	Network Rail Boundary	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN638	WCI	Shell Jn	Network Rail Boundary	Shell Jn – Network Rail Boundary	0	00	1	03	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN642	SSK1	Saltburn West Jn	Network Rail Boundary (Cleveland Potash)	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN644	BOH	Hartburn Jn	Bowesfield SB (Hartburn Curve)	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN646	STF	Norton-on-Tees South	Ferryhill South Jn	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN648	NWE	Norton-on-Tees West	Norton-on- Tees East	Norton-on-Tees West – Norton-on- Tees East	0	29	0	00	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN652	POC1	Billingham Jn	Phillips Siding Jn	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN652	POC2	Phillips Siding Jn	Seal Sands Branch Jn	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN652	SES	Seal Sands Branch Jn	End of NR maintenance	Seal Sands Branch Jn – End of NR maintenance	0	00	2	44	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN656	SOT	Seaton Snook Jn	Seaton-on-Tees	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN662	HNB	Ryhope Grange	Hendon	Ryhope Grange – Hendon	0	00	1	53	N	N		N	N	N		N	N	N
-London-North-Eastern	1081	LN664	BNW	Boldon East Jn	Boldon North Jn	Boldon East Jn – Boldon North Jn	0	00	0	20	N	N		N	N	N		N	N	N
+London-North-Eastern	1081	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	N	Y	N	E	Y	Y	Y	Y
+London-North-Eastern	1081	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	N	Y	N	E	Y	Y	Y	Y
+London-North-Eastern	1081	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	N	Y	N	N	Y	Y	Y	Y
+London-North-Eastern	1081	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	N	Y	N	N	Y	Y	Y	R1	R1 Between Nottingham and Nottingham East Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1081	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	N	Y	N	N	R1	Y	Y	Y	R1 Prohibited between Trent East Jn and Toton South Jn
+London-North-Eastern	1081	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	N	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1081	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	E	N	N	N	N	N
+London-North-Eastern	1081	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	N	N	E	N	N	N	N	N
+London-North-Eastern	1081	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N
+London-North-Eastern	1081	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N
+London-North-Eastern	1081	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360)	Cricklewood Curve Jn – Route Boundary (LOR EA1360)	5	19	5	72	N	Y	E	N	N	N	N	Y
+London-North-Eastern	1081	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	E	Y	E	N	N	N	N	Y
+London-North-Eastern	1081	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	N	Y	N	N	N	Y	Y	Y
+London-North-Eastern	1081	LN3228	TES	Trent East ELR Change	Sheet Stores Jn	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	N	Y	N	N	Y	Y	Y	Y
+London-North-Eastern	1081	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	N	Y	N	N	N	N	N	N
+London-North-Eastern	1081	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	N	Y	N	N	N	Y	Y	N

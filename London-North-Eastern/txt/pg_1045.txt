@@ -8,38 +8,36 @@
 
 Line of ELR     Line of Route / Sector Description               oooo oooo oooo oooo 142 143 144 150 153 155 156 158 159 Notes
 route                                                             M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo              oooooooooooooooooooooooooo
-LN860    MVL4   Change of ELR (Heaton Lodge Jn) – Heaton          29   00    29    74     Y        Y    Y    Y    Y   Y   Y   Y   Y
-                Lodge East Jn (Down Line)
-LN860    MVN2 Heaton Lodge Jn – Heaton Lodge East Jn              37   18    37    47     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN860    MVN2 Heaton Lodge East Jn – Thornhill LNW Jn             37   47    39    72     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN860    MDL1   Thornhill LNW Jn – Copley Hill East Jn            32   16    42    03     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN861    BBW    Bradley Jn – Bradley Wood Jn                       0   00     1    17     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN862    PED2   Barnsley Station Jn – Site of Former Barnsley      6   43     0    00     Y        Y    Y    Y    Y   Y   Y   Y   Y
-                Jn
-LN862    PED1   Site of Former Barnsley Jn – Site of Former       29   13    28    37     Y        Y    Y    Y    Y   Y   Y   Y   Y
-                Huddersfield Jn
-LN862    PEH    Site of Former Huddersfield Jn – Lockwood         13   42     1    18     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN862    PEH    Lockwood – Springwood Jn                           1   18     0    40     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN862    MVL3   Springwood Jn – Huddersfield                       0   40     0    00     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN864    DRS1   Dewsbury Railway Street – Change of Mileage        0   10     0    00     N        N    N    N    N   N   N   N   Y
-LN864    DRS1   Change of Mileage – Dewsbury East Jn               0   27     0    00     N        N    N    N    N   N   N   N   N
-LN868    SHB    Wincobank Jn – Site of Former Quarry Jn          161   52   173    48    R1        R1   R1   Y    Y   Y   Y   Y   Y   R1   Prohibited when fitted with
-                                                                                                                                           wheelskates on the Down line
-                                                                                                                                           through Bridge No.51 (169m
-                                                                                                                                           50ch) and on the Up line through
-                                                                                                                                           Bridge No.57 (170m 40ch)
-LN868    PED2   Site of Former Quarry Jn – Barnsley Station Jn     7   50     6    43     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN868    BAH2   Barnsley Station Jn – Site of Former              52   58    45    56     Y        Y    Y    Y    Y   Y   Y   Y   Y
-                Crigglestone Jn
-LN868    CHS    Site of former Crigglestone Jn – Horbury Jn        1   53     0    00     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN870    CTL    Wakefield Turners Lane – Calder Bridge Jn          0   50     0    00     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN872    TJC3   Altofts Jn – Hunslet South Jn                    185   73   193    40     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN872    TJC3   Hunslet South Jn – Engine Shed Jn                193   40   195    20     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN872    ELN    Engine Shed Jn – Leeds West Jn                   195   20   195    53     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN874    MEW2 Methley Jn – Whitwood Jn                             1   12     0    01     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN875    CPM2 Castleford West Jn – Cutsyke Jn                      0   00     0    61     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN875    CPM1 Cutsyke Jn – Pontefract West Jn                     59   02    56    42     Y        Y    Y    Y    Y   Y   Y   Y   Y
-LN876    BOO    Castleford East Jn – Ledston                       6   17     4    43     N        N    N    N    N   N   N   N   N
-LN878    SHG    Sherburn Jn – Gascoigne Wood Jn                   13   20    14    30     Y        Y    Y    Y    Y   Y   Y   Y   Y
+LN632    DSN3   Redcar Change of Mileage – Saltburn               22   16    27    57     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN634    MBW1 Guisborough Jn – Battersby Jn                        0   00    10    54     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN634    MBW2 Battersby Jn (End of Line) – Grosmont Jn            11   61    29    66    R1        R1   R1   R1   R1   R1   R1   R1   R1 R1   See Sectional Appendix Local
+                                                                                                                                              Instructions
+LN634    MBW3 Grosmont Jn – Whitby                                24   44    30    61     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN636    No ELR Beam Mill Jn – Network Rail Boundary              18   03    18    67     N        N    N    N    N    N    N    N    N
+LN638    WCI    Shell Jn – Network Rail Boundary                   0   00     1    03     N        N    N    N    N    N    N    N    N
+LN642    SSK1   Saltburn West Jn – Network Rail Boundary          27   05    34    29     N        N    N    N    N    N    N    N    N
+                (Cleveland Potash)
+LN644    BOH    Hartburn Jn – Bowesfield SB (Hartburn Curve)       0   00     0    44     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN646    STF    Norton-on-Tees South – Ferryhill South Jn          0   00    10    72     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN648    NWE    Norton-on-Tees West – Norton-on-Tees East          0   29     0    00     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN652    POC1   Billingham Jn – Phillips Siding Jn                 0   00     3    25     N        N    N    N    N    N    N    N    N
+LN652    POC2   Phillips Siding Jn – Seal Sands Branch Jn          3   25     5    01     N        N    N    N    N    N    N    N    N
+LN652    SES    Seal Sands Branch Jn – End of NR                   0   00     2    44     N        N    N    N    N    N    N    N    N
+                maintenance
+LN656    SOT    Seaton Snook Jn – Seaton-on-Tees                   0   00     1    51     N        N    N    N    N    N    N    N    N
+LN662    HNB    Ryhope Grange – Hendon                             0   00     1    53     N        N    N    N    N    N    N    N    N
+LN664    BNW    Boldon East Jn – Boldon North Jn                   0   00     0    20     N        N    N    N    N    N    N    N    N
+LN666    BGE    Boldon West Jn – Boldon North Jn                   0   00     0    32     N        N    N    N    N    N    N    N    N
+LN666    GLT    Boldon North Jn – Tyne Dock                        0   32     1    26     N        N    N    N    N    N    N    N    N
+LN670    JAW1   Pelaw Jn – Network Rail Boundary (Shell Mex        0   09     3    36     N        N    N    N    N    N    N    N    N
+                Depot Jarrow)
+LN672    FEP    Wardley – Pelaw Jn                                19   70    20    75     N        N    N    N    N    N    N    N    N
+LN674    HLK    High Level Bridge Jn – Greensfield Jn (West        0   00     0    21     Y        Y    Y    Y    Y    Y    Y    Y    Y
+                Curve)
+LN676    PLG1   Park Lane Jn – Site of Former High Street Jn     100   65   101    15     Y        Y    Y    Y    Y    Y    Y    Y    Y
+LN676    PLG2   Site of Former High Street Jn – Greensfield Jn     0   00     0    21     Y        Y    Y    Y    Y    Y    Y    Y    Y
 
-October 2009                                                                                  17
+
+
+
+October 2009                                                                                  10

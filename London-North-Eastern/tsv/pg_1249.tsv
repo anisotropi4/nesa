@@ -1,27 +1,22 @@
 London-North-Eastern	1249	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1249					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1249	LN875	Castleford West Jn – Pontefract West Jn	Castleford West Jn	Pontefract West Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN876	Castleford East Jn – Ledston	Castleford East Jn	Ledston	-	-	-	-	-	-	-	-	Line 'Out of Use'
-London-North-Eastern	1249	LN878	Sherburn Jn – Gascoigne Wood	Sherburn Jn	Gascoigne Wood	Y	Y	Y	Y	N	Y	N	Y
-London-North-Eastern	1249	LN880	York – Scarborough	York	Scarborough	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1249	LN882	Wakefield Kirkgate West Jn – Calder Bridge Jn	Wakefield Kirkgate West Jn	Calder Bridge Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN882	Calder Bridge Jn – Crofton West Jn	Calder Bridge Jn	Crofton West Jn	Y *	Y	Y	Y	N	N	N	N
-London-North-Eastern	1249	LN882	Crofton West Jn – Goole Potters Grange Jn	Crofton West Jn	Goole Potters Grange Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN882	Mineral Jn – Goole Docks	Mineral Jn	Goole Docks	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN882	Whitley Bridge Junction – NR/Power Station Boundary [0m 03ch]	Whitley Bridge Junction	NR/Power Station Boundary [0m 03ch]	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN884	Oakenshaw South Jn – Oakenshaw Jn	Oakenshaw South Jn	Oakenshaw Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1249	LN886	Monk Bretton Loop – Crofton East Jn	Monk Bretton Loop	Crofton East Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1249	LN888	Shaftholme Jn – Knottingley West Jn	Shaftholme Jn	Knottingley West Jn	Y	Y	R1	R1	R1	R1	R1	R1	R1 PROHIBITED Haywood Jn to Knottingly West Jn
-London-North-Eastern	1249	LN888	Knottingley West Jn – Ferrybridge North Jn	Knottingley West Jn	Ferrybridge North Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN889	Saftholme Jn – Haywood Jn	Saftholme Jn	Haywood Jn	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1249	LN892	Pontefract East Jn – Ferrybridge South Jn	Pontefract East Jn	Ferrybridge South Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN894	Knottingley South Jn – Knottingley East Jn	Knottingley South Jn	Knottingley East Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN896	Drax Power Station Branch	Drax Power Station Branch		Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN898	Neville Hill East Jn – Gascoigne Wood Jn	Neville Hill East Jn	Gascoigne Wood Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN898	Gascoigne Wood Jn – Selby West Jn	Gascoigne Wood Jn	Selby West Jn	Y	Y	Y	Y	N	Y	N	Y
-London-North-Eastern	1249	LN898	Selby West Jn – Millfield Farm UWC	Selby West Jn	Millfield Farm UWC	Y *	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited from Selby Up bay platform 3
-London-North-Eastern	1249	LN898	Millfield Farm UWC – Hull, Anlaby Road Jn	Millfield Farm UWC	Hull, Anlaby Road Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN898	Hull, Anlaby Road Jn – Hull	Hull, Anlaby Road Jn	Hull	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1249	LN898	Hessle East Jn – Dairycoates NR limit [0m 70ch]	Hessle East Jn	Dairycoates NR limit [0m 70ch]	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1249	LN900	Neville Hill West Jn – Hunslet East	Neville Hill West Jn	Hunslet East	Y	N	N	N	N	N	N	N
-London-North-Eastern	1249	LN902	Micklefield Jn – Church Fenton North Jn	Micklefield Jn	Church Fenton North Jn	Y *	Y	Y	N	N	N	N	N
+London-North-Eastern	1249					W6	W7	W8	W9	W9Plus	W 10	W10A	W12
+London-North-Eastern	1249	LN682	Norwood Jn – Carlisle South Jn	Norwood Jn	Carlisle South Jn	S1 *	S2	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons S2 The following combinations are permitted: 2438 h x 2438 w box on FEA wagons All lines 2667 h x 2500 w box on FKA wagons All Lines 2665 h x 2550 w (S21) on FKA wagons Up Line 2675 h x 2550 w box on KFA wagons Up Line
+London-North-Eastern	1249	LN682	Carlisle South Jn – Carlisle North Jn	Carlisle South Jn	Carlisle North Jn	Y	Y	Y	Y	N	Y	N	N
+London-North-Eastern	1249	LN684	Low Fell Jn – Norwood Jn	Low Fell Jn	Norwood Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN694	Benton North Jn – Morpeth North Jn via Bedlington	Benton North Jn	Morpeth North Jn via Bedlington	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN696	Hepscott Jn – Morpeth Jn	Hepscott Jn	Morpeth Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN700	Butterwell North Branch	Butterwell North Branch		Y	N	N	N	N	N	N	N
+London-North-Eastern	1249	LN702	Bedlington North – Lynemouth Alcan	Bedlington North	Lynemouth Alcan	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN704	Bates Branch	Bates Branch		-	-	-	-	-	-	-	-	Line 'Out of Use'
+London-North-Eastern	1249	LN706	West Sleekburn Jn – North Blyth	West Sleekburn Jn	North Blyth	Y	N	N	N	N	N	N	N
+London-North-Eastern	1249	LN708	Winning Jn – Marchey's House Jn	Winning Jn	Marchey's House Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1249	LN736	Cleethorpes – Grimsby Docks	Cleethorpes	Grimsby Docks	Y	N	N	N	N	N	N	N
+London-North-Eastern	1249	LN736	Grimsby Docks – Marsh Jn	Grimsby Docks	Marsh Jn	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1249	LN736	Marsh Jn – Wrawby Jn	Marsh Jn	Wrawby Jn	Y	Y	Y	N	N	R1	N	R1	R1 W10 & W12 Clearance between Brocklesby East & West Jn – Wrawby Jn Only
+London-North-Eastern	1249	LN736	Wrawby Jn – West Burton East Jn	Wrawby Jn	West Burton East Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN736	West Burton East Jn – Thrumpton West Jn	West Burton East Jn	Thrumpton West Jn	Y	Y	N	N	N	N	N	N
+London-North-Eastern	1249	LN736	Thrumpton West Jn – Manton Colliery Jn	Thrumpton West Jn	Manton Colliery Jn	Y	Y	Y	Y	N	N	N	N
+London-North-Eastern	1249	LN736	Manton Colliery Jn – Branclliffe East Jn	Manton Colliery Jn	Branclliffe East Jn	Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN736	Brancliffe East Jn – Woodburn Jn	Brancliffe East Jn	Woodburn Jn	Y	N	N	N	N	N	N	N
+London-North-Eastern	1249	LN736	Nunnery Curve	Nunnery Curve		Y	Y	Y	N	N	N	N	N
+London-North-Eastern	1249	LN736	Nunnery Main Line Jn – Nunnery Jn	Nunnery Main Line Jn	Nunnery Jn	Y	Y	Y	Y	Y	Y	Y	Y

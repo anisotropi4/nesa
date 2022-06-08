@@ -1,46 +1,45 @@
-                                                                                        OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                                       LNE Route Sectional Appendix Module LNRC
+                                                                   LNE Route Sectional Appendix Module LNRC
 
 
 
-LN652    POC1   Billingham Jn – Phillips Siding Jn     0    00    3    25    N      N      N       N   N     N    N   N   N
-LN652    POC2   Phillips Siding Jn – Seal Sands        3    25    5    01    N      N      N       N   N     N    N   N   N
-                Branch Jn
-LN652    SES    Seal Sands Branch Jn – End of          0    00    2    44    N      N      N       N   N     N    N   N   N
-                NR maintenance
-LN656    SOT    Seaton Snook Jn – Seaton-on-           0    00    1    51    Y      Y      N       N   N     N    N   N   N
-                Tees
-LN662    HNB    Ryhope Grange – Hendon                 0    00    1    53    N      N      N       N   N     N    N   N   N
-LN664    BNW    Boldon East Jn – Boldon North Jn       0    00    0    20    N      N      N       N   N     N    N   N   N
-LN666    BGE    Boldon West Jn – Boldon North Jn       0    00    0    32    Y      Y      N       N   N     N    N   N   N
-LN666    GLT    Boldon North Jn – Tyne Dock            0    32    1    26    Y      Y      N       N   N     N    N   N   N
-LN670    JAW1   Pelaw Jn – Network Rail Boundary       0    09    3    36    Y      Y      N       N   N     N    N   N   N
-                (Shell Mex Depot Jarrow)
-LN672    FEP    Wardley – Pelaw Jn                     19   70    20   75    N      N      N       N   N     N    N   N   N
-LN674    HLK    High Level Bridge Jn – Greensfield     0    00    0    21    Y      Y      Y       N   N     N    Y   Y   Y
-                Jn (West Curve)
-LN676    PLG1   Park Lane Jn – Site of former High    100   65   101   15    Y      Y      Y       N   N     N    Y   Y   N
-                Street Jn
-LN676    PLG2   Site of former High Street Jn –        0    00    0    21    Y      Y      Y       N   N     N    Y   Y   N
-                Greensfield Jn
-LN676    HLK    Greensfield Jn – King Edward           0    16    0    48    Y      Y      Y       N   N     N    Y   Y   Y
-                Bridge South Jn
-LN678    DAE1   Darlington North Jn – Site of          44   36    44   64    Y      Y      Y       N   N     N    N   N   N
-                former Parkgate Jn
-LN678    DAE1   Site of former Parkgate Jn –           0    00    8    29    Y      Y      Y       N   N     N    N   N   N
-                Shildon SB
-LN678    DAE2   Shildon SB – Bishop Auckland           8    29    11   23    Y      Y      Y       N   N     N    N   N   N
-LN682    NEC1   King Edward Bridge South Jn –          0    48    1    71    Y      Y      Y       N   N     N    Y   Y   Y
-                Norwood Jn
-LN682    NEC1   Norwood Jn – Site of former            1    71    5    28    Y      Y      Y       N   N     N    Y   Y   Y
-                Blaydon East Jn
-LN682    NEC2   Site of former Blaydon East Jn –       3    78    58   00    Y      Y      Y       N   N     N    Y   Y   N
-                Route Boundary (NW9909)
-                (Petteril Bridge Jn)
-LN684    NLF    Low Fell Jn – Limit of                 0    00    1    26    Y      Y      Y       N   N     N    Y   Y   Y
-                Electrification
-LN684    NLF     Limit of Electrification – Norwood    1    26    1    42    Y      Y      Y       N   N     N    Y   Y   Y
-                Jn
-October 2009                                                                               48
+Line of ELR     Line of Route / Sector               oooo oooo oooo oooo 317 319 321 322 325 377 380 387 390 700 Notes
+route           Description                           M    Ch M      Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+
+LN3525     KSL Knighton Jn – Leicester Jn              97   45   127   00    N     N        N    N      H     N   N   N   N    N
+LN3535     BCJ Birmingham Curve Jn – Branston Jn      126   40   127   19    N     N        N    N      H     N   N   N   N    N
+LN3601    GSM1 Kettering North Jn – Manton Jn          74   00    90   25    N     N        N    N      H     N   N   N   N    N
+LN3605    BSC Corby BSC Works – Corby North            2    05    0    00    N     N        N    N      N     N   N   N   N    N
+LN3610    BSC Corby Automotive Terminal – Corby        1    10    0    00    N     N        N    N      N     N   N   N   N    N
+              North
+LN3615    PMJ Route Boundary (LN147) – Uffington       13   60    12   75    N     N        N    N      H     N   N   N   N    N
+              SB
+LN3615    PMJ Uffington SB – Manton Jn                 12   75    0    00    N     N        N    N      H     N   N   N   N    N
+LN3615    GSM2 Manton Jn – Melton Jn                   90   25   105   70    N     N        N    N      H     N   N   N   EH   N   R1   45mph over bridge 23
+                                                                                                                          R1            Leicester Road on the
+                                                                                                                                        Down Line at 105m 65ch
+LN3615    GSM3 Melton Jn – Syston South Jn            113   36   103   77    N     N        N    N      H     N   N   N   EH   N   R1   25mph over bridge 15
+                                                                                                                          R1            Kirkby Road on the Up Line
+                                                                                                                          R2            at 111m 63ch
+                                                                                                                                   R2   55mph over bridge 19
+                                                                                                                                        Copley's Occupation on the
+                                                                                                                                        Up Line at 112m 56ch
+LN3620    GSM4 Melton Jn GF – Asfordby                105   70   107   20    N     N        N    N      N     N   N   N   EH   N
+LN3625    TSN1 Nottingham East Jn – Change of ELR     123   27   123   23    N     N        N    N      H     N   N   N   N    N
+               (Nottingham East Jn)
+LN3625    NOB1 Change of ELR (Nottingham East Jn)      0    00    16   02    N     N        N    N      H     N   N   N   N    N
+               – Route Boundary (LN206) (Coulson)
+LN3635    NOG1 Route Boundary (LN195)                 111   60   123   76    N     N        N    N      H     N   N   N   N    N
+               (Nottingham Branch Jn) – Rectory Jn
+               SB
+LN3635    NOG1 Rectory Jn SB – Change of ELR          123   76   125   25    N     N        N    N      H     N   N   N   N    N
+               (Netherfield)
+LN3635    NOG2 Change of ELR (Netherfield) –           2    54    2    35    N     N        N    N      H     N   N   N   N    N
+               Netherfield Jn
+
+
+
+
+October 2009                                                                           41

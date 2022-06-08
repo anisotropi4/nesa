@@ -1,20 +1,23 @@
 London-North-Eastern	1042	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1042	LN802	WKC	Welbeck Colliery Jn	Network Rail Boundary (RJB)	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1042	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn)	Dore South Jn	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	TJC1	Dore South Jn	Sheffield Station	Dore South Jn – Sheffield Station	153	71	158	40	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	TJC1	Sheffield Station	Nunnery Main Line Jn	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	TJC1	Nunnery Main Line Jn	Site of Former Grimesthorpe Jn	Nunnery Main Line Jn – Site of Former Grimesthorpe Jn	158	77	160	47	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	TJC2	Site of Former Grimesthorpe Jn	Site of Masborough South Jn	Site of Former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	TJC3	Site of Former Masborough South Jn	Swinton Jn South	Site of Former Masborough South Jn – Swinton Jn South	161	77	166	56	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	SMJ1	Swinton Jn South	Swinton Jn North	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	SMJ1	Swinton Jn North	Site of Former Wath Curve Jn	Swinton Jn North – Site of Former Wath Curve Jn	167	03	168	64	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	SMJ2	Site of Former Wath Curve Jn	Ferrybridge South Jn	Site of Former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	SMJ2	Ferrybridge South Jn	Site of Former Burton Salmon Jn	Ferrybridge South Jn – Site of Former Burton Salmon Jn	2	38	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	SMJ3	Site of Former Burton Salmon Jn	Milford Jn	Site of Former Burton Salmon Jn – Milford Jn	16	69	15	07	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN804	MGW	Milford Jn	Gascoigne Wood SB	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN806	CHR	Route Boundary (LN3201) (Tapton Jn)	Masborough Jn	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN807	MAS	Dore South Jn	Dore West Jn	Dore South Jn – Dore West Jn	153	73	154	16	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN808	DWS	Dore Station Jn	Dore West Jn	Dore Station Jn – Dore West Jn	0	60	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN808	MAS	Dore West Jn	Route Boundary (NW9001) (Chinley North Jn)	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN809	BTJ	Shepcote Lane West Jn	Tinsley Yard East End	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	N	N	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1042	LN810	SEL	Shepcote Lane West Jn	Tinsley South Jn	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN147	PMJ	Helpston Jn	Route Boundary (LN3615)	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	N	N	N	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	N	N	Y	N	N	N	N	N
+London-North-Eastern	1042	LN170	WEB	Werrington Jn	Site of Former Spalding South Jn	Werrington Jn – Site of Former Spalding South Jn	79	34	92	58	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	SPD1	Site of Former Spalding South Jn	Sleaford South Jn	Site of Former Spalding South Jn – Sleaford South Jn	44	07	62	14	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	SPD2	Sleaford South Jn	Sleaford North Jn	Sleaford South Jn – Sleaford North Jn	62	14	63	48	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	SPD2	Sleaford North Jn	Site of Former Greetwell West Jn	Sleaford North Jn – Site of Former Greetwell West Jn	63	48	81	25	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	SPD3	Site of Former Greetwell West Jn	Trent East Jn	Site of Former Greetwell West Jn – Trent East Jn	81	25	98	56	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	MAC3	Trent East Jn	Trent West Jn	Trent East Jn – Trent West Jn	73	25	73	11	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	SPD4	Trent West Jn	Bessacarr Jn	Trent West Jn – Bessacarr Jn	98	68	115	72	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN170	SPD5	Bessacarr Jn	Doncaster, Flyover East Jn	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN175	SSE	Sleaford South Jn	Sleaford East Jn	Sleaford South Jn – Sleaford East Jn	0	00	0	43	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN180	SNW	Sleaford West Jn	Sleaford North Jn	Sleaford West Jn – Sleaford North Jn	1	34	3	42	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN185	ABE1	Allington West Jn	Site of Former Barkston East Jn	Allington West Jn – Site of Former Barkston East Jn	0	00	4	08	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN185	GRS1	Barkston East Jn	Site of Former Honington Jn	Barkston East Jn – Site of Former Honington Jn	110	12	112	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN185	GRS2	Site of Former Honington Jn	Sleaford West Jn	Site of Former Honington Jn – Sleaford West Jn	112	00	120	29	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN185	GRS2	Sleaford West Jn	Sleaford East Jn	Sleaford West Jn – Sleaford East Jn	120	29	121	21	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN185	GRS2	Sleaford East Jn	Site of Former Boston Sleaford Line Jn	Sleaford East Jn – Site of Former Boston Sleaford Line Jn	121	21	137	06	Y	Y	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1042	LN185	GRS3	Site of Former Boston Sleaford Line Jn	Boston	Site of Former Boston Sleaford Line Jn – Boston	106	70	107	24	Y	Y	Y	Y	Y	Y	Y	Y	Y

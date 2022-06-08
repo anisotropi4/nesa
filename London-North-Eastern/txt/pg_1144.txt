@@ -1,30 +1,46 @@
-                                                                                       OFFICIAL
+                                                                                      OFFICIAL
 
 
-                                                                      LNE Route Sectional Appendix Module LNRC
+                                                                     LNE Route Sectional Appendix Module LNRC
 
 
 
-LN922    TJC3   Skipton – Site of former Skipton     221   21   221   68    Y      Y      Y       N   N     N    N   N   N
-                North Jn Change of ELR
-LN922    SKW1 Site of former Skipton North Jn        221   68   230   00    Y      Y      Y       N   N     N    N   N   N
-              Change of ELR – Route Boundary
-              (NW9901) (Settle Jn)
-LN924    ILK1   Apperley Jn – Burley in              202   03   208   02    Y      Y      Y       N   N     N    N   N   N
-                Wharfedale
-LN924    ILK2   Burley in Wharfedale – Ilkley        208   02   211   20    Y      Y      Y       N   N     N    N   N   N
-LN926    GUE2   Dockfield Jn – Esholt Jn              3    41    0    00    Y      Y      Y       N   N     N    N   N   N
-LN928    SBF    Shipley East Jn – Bradford Forster   205   54   208   50    Y      Y      Y       N   N     N    Y   N   N
-                Square
-LN930    SKS1   Skipton Middle – Site of former      222   68   220   64    Y      Y      Y       N   N     N    N   N   N
-                Embsay Jn
-LN930    SKS2   Site of former Embsay Jn –            0    00    6    50    Y      Y      Y       N   N     N    N   N   N
-                Network Rail Boundary (Tilcon
-                Siding)
-LN932    BIB    Shipley South Jn – Shipley West       0    00    0    17    Y      Y      Y       N   N     N    N   N   N
+LN774    BAC2   Barrow Hill North Jn – Seymour Jn   149   53   152   21    N      N      N       N    N    N    N   N   N
+                SB
+LN774    BAC3   Seymour Jn SB – Oxcroft Disposal    155   06    0    78    N      N      N       N    N    N    N   N   N
+                Point
+LN776    HLF1   Hall Lane Jn – Change of ELR         0    44    0    00    N      N      N       N    N    N    N   N   N
+LN776    HLF2   Change of ELR – Foxlow Jn           150   47   150   64    N      N      N       N    N    N    N   N   N
+LN778    BOC1   Seymour Jn – Bolsover                7    51    5    21    R1    R1      N       N    N    N    N   N   N   R1   Line out of use between Site of former
+                                                                                                                                 Markham Colliery Jn and Bolsover
+                                                                                                                                 NC/G1/2010/LNE/020V
+LN782    SHW    Woodend Jn – Shireoaks West Jn      153   71   154   36    Y      Y      N       N    N    N    N   N   N
+LN784    HIM    High Marnham – Thoresby Colliery     27   48    17   16    Y      Y      N       N    N    N    N   N   N
                 Jn
+LN784    HIM    Thoresby Colliery Jn – Warsop Jn     17   16    10   59    Y      Y      N       N    N    N    N   N   N
+LN784    HIM    Warsop Jn – Shirebrook South Jn      10   59    10   19    Y      Y      N       N    N    N    N   N   N
+LN784    HIM    Shirebrook South Jn – Shirebrook     10   19    9    72    Y      Y      N       N    N    N    N   N   N
+                East Jn
+LN786    BEC    Boughton Jn – Network Rail           0    00    4    22    N      N      N       N    N    N    N   N   N   Line out of use from 01m 0ch to Network
+                Boundary (Bevercotes Colliery)                                                                              Rail Boundary (Bevercotes Colliery)
+                                                                                                                            LN213/PJ1037
+LN788    TYC    Thoresby Colliery Jn – Thoresby      0    00    0    42    Y      Y      N       N    N    N    N   N   N
+                Colliery
+LN802    WKC    Welbeck Colliery Jn – Network        0    00    2    63    Y      Y      N       N    N    N    N   N   N
+                Rail Boundary (RJB)
+LN804    TJC1   Route Boundary (LN3201) (Tapton     146   64   153   71    Y      Y      Y       EH   N    Y    N   N   N   R1   Prohibited with footsteps fitted
+                Jn) – Dore South Jn                                                              R1
+LN804    TJC1   Dore South Jn – Sheffield Station   153   71   158   40    Y      Y      Y       EH   N    Y    N   N   R2 R1    Prohibited with footsteps fitted
+                                                                                                 R1                        R2    Prohibited Sheffield platform 2c
+LN804    TJC1   Sheffield Station – Nunnery Main    158   40   158   77    Y      Y      Y       EH   N    Y    N   N   R2 R1    Prohibited with footsteps fitted
+                Line Jn                                                                          R1                        R2    Prohibited Sheffield platform 2c
+LN804    TJC1   Nunnery Main Line Jn – Site of      158   77   160   47    Y      Y      Y       EH   N    Y    N   N   Y   R1   Prohibited with footsteps fitted
+                former Grimesthorpe Jn                                                           R1
+LN804    TJC2   Site of former Grimesthorpe Jn –    160   47   163   74    Y      Y      Y       EH   N    Y    N   N   Y   R1   Prohibited with footsteps fitted
+                Site of Masborough South Jn                                                      R1
+LN804    TJC3   Site of former Masborough South     161   77   166   56    Y      Y      Y       EH   N    Y    N   N   Y   R1   Prohibited with footsteps fitted
+                Jn – Swinton Jn South                                                            R1
+LN804    SMJ1   Swinton Jn South – Swinton Jn       166   56   167   03    Y      Y      Y       EH   N    Y    N   N   Y   R1   Prohibited with footsteps fitted
+                North                                                                            R1
 
-
-
-
-October 2009                                                                              48J
+October 2009                                                                             48C

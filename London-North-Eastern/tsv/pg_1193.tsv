@@ -1,14 +1,21 @@
 London-North-Eastern	1193	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-London-North-Eastern	1193	LN774	BAC2	Barrow Hill North Jn	Seymour Jn SB	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	7	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1193	LN774	BAC3	Seymour Jn SB	Oxcroft Disposal Point	Seymour Jn SB – Oxcroft Disposal Point	155	06	0	78	7	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1193	LN776	HLF1	Hall Lane Jn	Change of ELR	Hall Lane Jn – Change of ELR	0	44	0	00	7	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1193	LN776	HLF2	Change of ELR	Foxlow Jn	Change of ELR – Foxlow Jn	150	47	150	64	7	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1193	LN778	BOC1	Seymour Jn	Bolsover	Seymour Jn – Bolsover	7	51	5	21	7	R1	R1	N	R1	R1	R1	R1	R1 Line out of use between Site of former Markham Colliery Jn and Bolsover NC/G1/2010/LNE/020V
-London-North-Eastern	1193	LN782	SHW	Woodend Jn	Shireoaks West Jn	Woodend Jn – Shireoaks West Jn	153	71	154	36	8	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1193	LN784	HIM	High Marnham	Thoresby Colliery Jn	High Marnham – Thoresby Colliery Jn	27	48	17	16	8	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1193	LN784	HIM	Thoresby Colliery Jn	Warsop Jn	Thoresby Colliery Jn – Warsop Jn	17	16	10	59	8	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1193	LN784	HIM	Warsop Jn	Shirebrook South Jn	Warsop Jn – Shirebrook South Jn	10	59	10	19	8	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1193	LN784	HIM	Shirebrook South Jn	Shirebrook East Jn	Shirebrook South Jn – Shirebrook East Jn	10	19	9	72	10	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1193	LN786	BEC	Boughton Jn	Network Rail Boundary (Bevercotes Colliery)	Boughton Jn – Network Rail Boundary (Bevercotes Colliery)	0	00	4	22	-	N	N	N	N	N	N	N	Line out of use from 01m 0ch to Network Rail Boundary (Bevercotes Colliery) LN213/PJ1037
-London-North-Eastern	1193	LN788	TYC	Thoresby Colliery Jn	Thoresby Colliery	Thoresby Colliery Jn – Thoresby Colliery	0	00	0	42	7	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1193	LN802	WKC	Welbeck Colliery Jn	Network Rail Boundary (RJB)	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	7	Y	Y	N	Y	Y	Y	Y
+London-North-Eastern	1193	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	9	R1	R1	R1	R3	R2	Y	R1	R1 Prohibited Newcastle platforms 9, 10 11 and 12 R2 Prohibited Newcastle Platform 10 R3 Prohibited Newcastle platforms 9, 10 and 12
+London-North-Eastern	1193	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	9	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	8	R1	R1	R1	Y	Y	R1	R1	R1 Prohibited Hartlepool Down Bay platform 3
+London-North-Eastern	1193	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	8	Y	Y	Y	Y	Y	Y	Y
+London-North-Eastern	1193	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	8	Y	Y	Y	Y	Y	Y	Y

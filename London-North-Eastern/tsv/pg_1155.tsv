@@ -1,22 +1,19 @@
-London-North-Eastern	1155	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	25	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-London-North-Eastern	1155	LN652	POC2	Phillips Siding Jn	Seal Sands Branch Jn	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN652	SES	Seal Sands Branch Jn	End of NR maintenance	Seal Sands Branch Jn – End of NR maintenance	0	00	2	44	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN656	SOT	Seaton Snook Jn	Seaton-on-Tees	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN662	HNB	Ryhope Grange	Hendon	Ryhope Grange – Hendon	0	00	1	53	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN664	BNW	Boldon East Jn	Boldon North Jn	Boldon East Jn – Boldon North Jn	0	00	0	20	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN666	BGE	Boldon West Jn	Boldon North Jn	Boldon West Jn – Boldon North Jn	0	00	0	32	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN666	GLT	Boldon North Jn	Tyne Dock	Boldon North Jn – Tyne Dock	0	32	1	26	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN670	JAW1	Pelaw Jn	Network Rail Boundary (Shell Mex Depot Jarrow)	Pelaw Jn – Network Rail Boundary (Shell Mex Depot Jarrow)	0	09	3	36	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN672	FEP	Wardley	Pelaw Jn	Wardley – Pelaw Jn	19	70	20	75	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN674	HLK	High Level Bridge Jn	Greensfield Jn (West Curve)	High Level Bridge Jn – Greensfield Jn (West Curve)	0	00	0	21	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN676	PLG1	Park Lane Jn	Site of Former High Street Jn	Park Lane Jn – Site of Former High Street Jn	100	65	101	15	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN676	PLG2	Site of Former High Street Jn	Greensfield Jn	Site of Former High Street Jn – Greensfield Jn	0	00	0	21	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN676	HLK	Greensfield Jn	King Edward Bridge South Jn	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN678	DAE1	Darlington North Jn	Site of Former Parkgate Jn	Darlington North Jn – Site of Former Parkgate Jn	44	36	44	64	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN678	DAE1	Site of Former Parkgate Jn	Shildon SB	Site of Former Parkgate Jn – Shildon SB	0	00	8	29	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN678	DAE2	Shildon SB	Bishop Auckland	Shildon SB – Bishop Auckland	8	29	11	23	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN682	NEC1	King Edward Bridge South Jn	Norwood Jn	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN682	NEC1	Norwood Jn	Site of Former Blaydon East Jn	Norwood Jn – Site of Former Blaydon East Jn	1	71	5	28	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN682	NEC2	Site of Former Blaydon East Jn	Route Boundary (NW9909) (Petteril Bridge Jn)	Site of Former Blaydon East Jn – Route Boundary (NW9909) (Petteril Bridge Jn)	3	78	58	00	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN684	NLF	Low Fell Jn	Limit of Electrification	Low Fell Jn – Limit of Electrification	0	00	1	26	8	Y	Y	Y	N	Y	Y	Y	Y
-London-North-Eastern	1155	LN684	NLF	Limit of Electrification	Norwood Jn	Limit of Electrification – Norwood Jn	1	26	1	42	8	Y	Y	Y	N	Y	Y	Y	Y
+London-North-Eastern	1155	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1155	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1155	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1155	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1155	LN3525	KSL	Knighton Jn	Leicester Jn	Knighton Jn – Leicester Jn	97	45	127	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3535	BCJ	Birmingham Curve Jn	Branston Jn	Birmingham Curve Jn – Branston Jn	126	40	127	19	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3601	GSM1	Kettering North Jn	Manton Jn	Kettering North Jn – Manton Jn	74	00	90	25	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3605	BSC	Corby BSC Works	Corby North	Corby BSC Works – Corby North	2	05	0	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3610	BSC	Corby Automotive Terminal	Corby North	Corby Automotive Terminal – Corby North	1	10	0	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3615	PMJ	Route Boundary (LN147)	Uffington SB	Route Boundary (LN147) – Uffington SB	13	60	12	75	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3615	PMJ	Uffington SB	Manton Jn	Uffington SB – Manton Jn	12	75	0	00	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3615	GSM2	Manton Jn	Melton Jn	Manton Jn – Melton Jn	90	25	105	70	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3615	GSM3	Melton Jn	Syston South Jn	Melton Jn – Syston South Jn	113	36	103	77	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3620	GSM4	Melton Jn GF	Asfordby	Melton Jn GF – Asfordby	105	70	107	20	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3625	TSN1	Nottingham East Jn	Change of ELR (Nottingham East Jn)	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3625	NOB1	Change of ELR (Nottingham East Jn)	Route Boundary (LN206) (Coulson)	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn)	Rectory Jn SB	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3635	NOG1	Rectory Jn SB	Change of ELR (Netherfield)	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	Y	Y	Y	N	N	N	N
+London-North-Eastern	1155	LN3635	NOG2	Change of ELR (Netherfield)	Netherfield Jn	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	Y	Y	Y	N	N	N	N

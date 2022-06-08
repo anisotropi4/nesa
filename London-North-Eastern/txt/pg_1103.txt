@@ -4,43 +4,43 @@
                                                                      LNE Route Sectional Appendix Module LNRC
 
 
+Line of ELR    Line of Route / Sector Description       oooo oooo oooo oooo 325     333    345     357 357 365      377   378 387 Notes
+route                                                    M    Ch   M    Ch ooo      ooo    ooo     ooo MOD ooo      ooo   ooo     ooooooooooooooooooooooooooo
 
-Line of ELR Line of Route / Sector Description            M     Ch    M     Ch    325    333 345 357 357 365 377 378 387       Notes
-route                                                                                                     MOD                  ooooooooooooooooooooooooooo
-LN806 CHR      Route Boundary (LN3201) (Tapton Jn) –      146   64   162     24     H      N     N    N     N   N    N   N N
-               Masborough Jn
-LN807 MAS Dore South Jn – Dore West Jn                    153   73   154     16     H      N     N    N     N   N    N   N N
-LN808 DWS Dore Station Jn – Dore West Jn                   0    60     0     00     H      N     N    N     N   N    N   N N
-LN808 MAS Dore West Jn – Route Boundary (NW9001)          154   16   154     20     H      N     N    N     N   N    N   N N
-          (Chinley North Jn)
-LN809 BTJ      Shepcote Lane West Jn – Tinsley Yard East 161    24   160     52     H      N     N    N     N   N    N   N N
-               End
-LN810 SEL      Shepcote Lane West Jn – Tinsley South Jn   161   24   161     63     H      N     N    N     N   N    N   N N
-LN812 BLJ      Shepcote Lane East Jn – Broughton Lane     161   20   161     67     H      N     N    N     N   N    N   N N
-               Jn
-LN816 BEW Beighton Jn – Woodhouse Jn                       48   06    46     56     H      N     N    N     N   N    N   N N
-LN818 HCD      Holmes Jn – Rotherham Central Jn            0    00     0     62     H      N     N    N     N   N    N   N N
-LN824 SKM Moorthorpe Jn – South Kirkby Jn                  0    57     0     05     H      N     N    N     N   N    N   N N
-LN826 PED5 South Yorkshire Jn – Mexborough Jn              22   57    15     64     H      N     N    N     N   N    N   N N
-LN826 SJM2 Mexborough Jn – Site of former                  15   64    14     78     H      N     N    N     N   N    N   N N
-           Mexborough North Jn
-LN826 SJM1 Site of former Mexborough North Jn –           167   15   166     56     H      N     N    N     N   N    N   N N
-           Swinton Jn South
-LN828 WME Mexborough Jn – Aldwarke Jn                      10   17     7     26     H      N     N    N     N   N    N   N N
-LN830 WME Aldwarke Jn – Woodburn Jn                        7    25     0     00     H      N     N    N     N   N    N   N N
-LN832 SJB      Doncaster, Bridge Jn – St. James Jn         22   54    22     38     H      N     N    N     N   N    N   N N
-LN836 DOL1 Doncaster Marshgate Jn – Hare Park Jn          156   28   171     70     H     R1     N    N     N   E    N   N N   R1   Prohibited from using the unwired main to
-                                                                                                                R2                  main crossover at Wintersett
-                                                                                                                R3             R2   5mph Down Leeds Bridge 1 River Don
-                                                                                                                R4                  156m 43ch (between Marshgate Jn and the
-                                                                                                                                    avoiding line overbridge)
-                                                                                                                               R3   Prohibited Up Leeds Bridge 1 River Don
-                                                                                                                                    156m 43ch (between Marshgate Jn and the
-                                                                                                                                    avoiding line overbridge)
-                                                                                                                               R4   Prohibited between the avoiding overbridge
-                                                                                                                                    and Hare Park Jn
-LN836 DOL1 Hare Park Jn – Site of former West Riding      171   70   175     32     H      Y     N    N     N   N    N   N N
+LN170 SPD1 Site of former Spalding South Jn –            44   07    62   14    H     N         N   N      N     N   N     N   N
+           Sleaford South Jn
+LN170 SPD2 Sleaford South Jn – Sleaford North Jn         62   14    63   48    H     N         N   N      N     N   N     N   N
+LN170 SPD2 Sleaford North Jn – Site of former            63   48    81   25    H     N         N   N      N     N   N     N   N
+           Greetwell West Jn
+LN170 SPD3 Site of former Greetwell West Jn – Trent      81   25    98   56    H     N         N   N      N     N   N     N   N
+           East Jn
+LN170 MAC3 Trent East Jn – Trent West Jn                 73   25    73   11    H     N         N   N      N     N   N     N   N
+LN170 SPD4 Trent West Jn – Bessacarr Jn                  98   68   115   72    H     N         N   N      N     N   N     N   N
+LN170 SPD5 Bessacarr Jn – Doncaster, Flyover East       115   72   116   20    H     N         N   N      N     N   N     N   N
            Jn
-LN836 DOL2 Site of former West Riding Jn – Copley Hill    175   32   184     65     H      Y     N    N     N   N    N   N N
+LN175 SSE      Sleaford South Jn – Sleaford East Jn       0   00    0    43    H     N         N   N      N     N   N     N   N
+LN180 SNW Sleaford West Jn – Sleaford North Jn            1   34    3    42    H     N         N   N      N     N   N     N   N
+LN185 ABE1 Allington West Jn – Site of former             0   00    4    08    H     N         N   N      N     N   N     N   N
+           Barkston East Jn
+LN185 GRS1 Barkston East Jn – Site of former            110   12   112   00    H     N         N   N      N     N   N     N   N
+           Honington Jn
+LN185 GRS2 Site of former Honington Jn – Sleaford       112   00   120   29    H     N         N   N      N     N   N     N   N
            West Jn
-October 2009                                                                            37H
+LN185 GRS2 Sleaford West Jn – Sleaford East Jn          120   29   121   21    H     N         N   N      N     N   N     N   N
+LN185 GRS2 Sleaford East Jn – Site of former Boston     121   21   137   06    H     N         N   N      N     N   N     N   N
+           Sleaford Line Jn
+LN185 GRS3 Site of former Boston Sleaford Line Jn –     106   70   107   24    H     N         N   N      N     N   N     N   N
+           Boston
+LN185 GRS3 Boston – Site of former Firsby East Jn       107   24   122   22    H     N         N   N      N     N   N     N   N
+LN185 GRS4 Site of former Firsby East Jn - Skegness       0   28    9    17    H     N         N   N      N     N   N     N   N
+LN190 ACD      Allington East Jn – Allington North Jn     0   00    0    25    H     N         N   N      N     N   N     N   N
+               (Allington Chord)
+LN195 NOG1 Nottingham Branch Jn – Route Boundary        106   08   111   60    H     N         N   N      N     N   N     N   N
+           (LN3635) (Rectory Jn SB)
+LN200 NOB3 Wrawby Jn – Pelham Street Jn                  12   55    41   26    H     N         N   N      N     N   N     N   N
+LN206 NOB1 Route Boundary (LN3625) (Nottingham           16   02    32   00    H     N         N   N      N     N   N     N   N
+           East Jn) – Coulson Change of ELR
+LN206 NOB2 Coulson Change of ELR – Boultham Jn           32   00    32   40    H     N         N   N      N     N   N     N   N
+LN206 NOB2 Boultham Jn – West Holmes Jn                  32   40    32   70    H     N         N   N      N     N   N     N   N
+
+October 2009                                                                             37A
