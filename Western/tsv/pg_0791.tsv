@@ -1,22 +1,22 @@
 Western	0791	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0791	GW220	RWC	Reading, Oxford Road Jn	Reading West Jn	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW225	RFR	Caversham Road Jn	Oxford Road Jn	Caversham Road Jn – Oxford Road Jn	36	25	36	74	8	Y	Y	Y	N	Y	N	Y	N
-Western	0791	GW240	DEC	Didcot East Jn	Didcot North Jns	Didcot East Jn – Didcot North Jns	52	66	54	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW250	DWC	Foxhall Jn	Didcot West Curve Jn	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW260	THA	Kennington Jn	Morris Cowley	Kennington Jn – Morris Cowley	18	45	16	04	7	Y	Y	R1	Y	Y	Y	Y	Y	R1 Operation in single headed or ‘top and tail’ mode with track recording and track Inspection coaches only
-Western	0791	GW277	OXD	Oxford North Jn	Route Boundary (MD736) (29m 25ch)	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW300	ABW	Abbotswood Jn	Norton Jn	Abbotswood Jn – Norton Jn	0	00	0	62	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW300	OWW	Norton Jn	Shrub Hill Jn	Norton Jn – Shrub Hill Jn	117	26	120	46	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW300	OWW	Shrub Hill Jn	Droitwich Spa Jn	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW300	STO	Droitwich Spa Jn	Stoke Works Jn	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW310	OWW	Wolvercot Jn	Norton Jn	Wolvercot Jn – Norton Jn	66	32	117	26	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW317	OWW	Honeybourne Stratford Line Junction	Start of branch mileage	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	7	N	Y	R1	Y	Y	Y	Y	Y	R1 10mph maximum speed
-Western	0791	GW317	STD	Start of branch mileage	Long Marston	Start of branch mileage – Long Marston	0	00	2	70	7	N	Y	R1	Y	Y	Y	Y	Y	R1 10mph maximum speed
-Western	0791	GW340	WAH	Shrub Hill Jn	Henwick SB (Branch Single)	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW340	WAH	Henwick SB	Shelwick Jn	Henwick SB – Shelwick Jn	121	65	148	11	7	Y	Y	R1	Y	R2	Y	Y	Y	R1 5mph Comer Road overbridge (122mch) R2 Prohibited Down Main Line between Worcester Foregate and Malvern Link
-Western	0791	GW350	BLW	Worcester Tunnel Jn	Site of former Rainbow Hill Jn Change of ELR	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW350	WAH	Site of former Rainbow Hill Jn Change of ELR	Henwick SB (Droitwich Single)	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW370	OWW	Droitwich Spa	Route Boundary (MD430) (Kidderminster)	Droitwich Spa – Route Boundary (MD430) (Kidderminster)	126	21	130	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW401	BAG2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW401	CHL	Gloucester Barnwood Jn (Change of ELR)	Gloucester Yard Jn (Change of ELR)	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW401	BGL1	Gloucester Yard Jn (Change of ELR)	Change of ELR	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	6	Y	Y	Y	N	N	Y	N	Y
+Western	0791	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW528	BRL	North Somerset Jn	Bristol West Jn via St Philips Marsh	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW530	BLL	Feeder Bridge Jn	Dr Day’s Jn (Rhubarb Loop)	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW5401	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW548	POD/ PBY	Parson Street Jn	Network Rail boundary (BPC)	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW560	SWY	Heywood Road Jn	Westbury North Jn	Heywood Road Jn – Westbury North Jn	94	45	95	33	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW560	WEY	Westbury North Jn	Fairwood Jn via Westbury	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW570	WEY	Clink Road Jn	Blatchbridge Jn via Frome	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0791	GW572	FNS2	Frome North Jn	Change of ELR	Frome North Jn – Change of ELR	0	00	2	38	6	Y	Y	Y	N	N	Y	N	Y
+Western	0791	GW572	WQL	Change of ELR	Network Rail Boundary (Mendip Rail - Whatley Quarry)	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	6	Y	Y	Y	N	N	Y	N	Y

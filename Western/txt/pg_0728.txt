@@ -1,46 +1,46 @@
-                                                                                OFFICIAL
+                                                                               OFFICIAL
 
 
-                                                              Western Route Sectional Appendix Module WR2
+                                                             Western Route Sectional Appendix Module WR2
 
-GW790 ROC      Pengam Jn – Change of ELR                168    20   168    61    N     N   N   N    N   N   N   N   N    N   N
-GW790 ROA      Change of ELR – Network Rail              3     41     4    54    N     N   N   N    N   N   N   N   N    N   N
-               Boundary (ABP Cardiff Docks)
-GW810 CAR      End of Line (Rhymney) – Ystrad            24    00    13    41    N     N   N   N    N   N   N   N   N    N   N
-               Mynach South Jn
-GW810 CAR      Ystrad Mynach South Jn – Heath Jn         13    41     3    32    N     N   N   N    N   N   N   N   N    N   N
-GW810 CAR      Heath Jn – Cardiff Queen Street North     3     32     1    22    N     N   N   N    N   N   N   N   N    N   N
+GW834   VON    Network Rail Boundary – Aberdare        26     62    22    34    N     N   N   N   N   N    N   N   N   N   N
+GW834   VON/   Aberdare – Cwmbach Change of ELR        22     34    20    68    N     N   N   N   N   N    N   N   N   N   N
+        ALK
+GW834   ABD/   Cwmbach Change of ELR – Abercynon       22     01    16    35    N     N   N   N   N   N    N   N   N   N   N
+        MOA    Jn (Including Mountain Ash Down Loop
+               ELR MOA)
+GW835   THT    End of Line – Treherbert                23     69    23    54    N     N   N   N   N   N    N   N   N   N   N
+GW835   THT    Treherbert – Pontypridd Jn              23     54    13    04    N     N   N   N   N   N    N   N   N   N   N
+GW839   CAM    Queen Street South Jn – Cardiff Bay       0    66     0    02    N     N   N   N   N   N    Y   Y   N   N   N
+GW840   RAD    Radyr Jn – Leckwith Loop South Jn         4    41     0    69    N     N   N   N   N   N    N   N   N   N   N
+GW840   RAD    Leckwith Loop South Jn – Penarth          0    69     0    47    N     N   N   Y   N   N    Y   Y   N   N   N
+               Curve North Jn
+GW840   RAD    Penarth Curve North Jn – Radyr Branch     0    47     0    25    N     N   N   Y   N   N    Y   Y   N   N   N
                Jn
-GW820 TBD      Network Rail Boundary (Cwmbargoed)        19    59    13    53    N     N   N   N    N   N   N   N   N    N   N
-               – Site of Former Taff Bargoed Branch
+GW850   CLL    Leckwith Loop South Jn – Leckwith         0    26     0    00    N     N   N   Y   N   N    Y   Y   N   N   N
+               Loop North Jn
+GW860   CPL    Penarth Curve North Jn – Penarth          0    25     0    00    N     N   N   Y   N   N    Y   Y   N   N   N
+               Curve South Jn
+GW864   PTH    Cogan Jn – Penarth                        0    01     1    12    N     N   N   N   N   N    Y   Y   N   N   N
+GW870   VOG    Barry Jn – Bridgend Bay Platform          0    00    19    04    N     N   N   N   N   N    Y   Y   Y   Y   N
+GW871   FOR    Ford Siding GF – Network Rail             0    00     1    18    N     N   N   N   N   N    N   N   N   N   N
+               Boundary (Ford Works, Waterton)
+GW874   BAL    Llynfi Jn – Tondu Jn                      0    07     2    70    N     N   N   Y   N   N    Y   Y   N   N   N
+GW874   BAL    Tondu Jn – Maesteg                        2    70     8    06    N     N   N   Y   N   N    Y   N   N   N   N
+GW877   POR    Tondu Jn – Cefn Jn                        0    00     2    43    N     N   N   N   N   N    Y   Y   N   N   N
+GW877   OVE    Cefn Jn – Margam Abbey Works East         7    41     2    41    N     N   N   N   N   N    Y   Y   N   N   N
                Jn
-GW820 VON      Site of Former Taff Bargoed Branch        13    53    12    41    N     N   N   N    N   N   N   N   N    N   N
-               Jn – Site of Former Penallta Jn
-GW820 PTA      Site of Former Penallta Jn – Ystrad       15    01    13    41    N     N   N   N    N   N   N   N   N    N   N
-               Mynach South Jn
-GW828 CRY      Coryton – Heath Jn                        2     57     0    15    N     N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Merthyr Tydfil – Abercynon Jn             24    44    16    35    N     N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Abercynon Jn – Pontypridd Jn              16    35    13    04    N     N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Pontypridd Jn – Radyr Jn                  13    04     5    23    N     N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Radyr Jn – Queen Street North Jn          5     23     1    17    N     N   N   N    N   N   N   N   N    N   N
-GW830 CAM      Queen Street North Jn – Queen Street      1     17     0    66    N     N   N   N    N   N   Y   Y   N    N   N
-               South Jn
-GW830 CEJ      Queen Street South Jn – Cardiff East      0     22     0    00    N     N   N   N    N   N   Y   Y   N    N   N
-               Jn
-GW830 SWM2 Cardiff East Jn – Cardiff West Jn            170    18   170    56    N     Y   N   Y    N   N   Y   Y   R1   Y   N R1   Prohibited Cardiff Central platform
-                                                                                                                                    8
-GW830 BRY      Cardiff West Jn – Barry Jn                0     10     8    16    N     N   N   R1   N   N   Y   Y   Y    Y   N R1   Prohibited between Grangetown
-                                                                                                                                    and Barry Jn
-GW830 BRY      Barry Jn – Buffer Stops (Barry Island)    8     16     8    76    N     N   N   N    N   N   N   N   N    N   N
-GW834 VON      Network Rail Boundary – Aberdare          26    62    22    34    N     N   N   N    N   N   N   N   N    N   N
-GW834 VON/     Aberdare – Cwmbach Change of ELR          22    34    20    68    N     N   N   N    N   N   N   N   N    N   N
-      ALK
-GW834 ABD/     Cwmbach Change of ELR –                   22    01    16    35    N     N   N   N    N   N   N   N   N    N   N
-      MOA      Abercynon Jn (Including Mountain Ash
-               Down Loop ELR MOA)
-GW835 THT      End of Line – Treherbert                  23    69    23    54    N     N   N   N    N   N   N   N   N    N   N
-GW835 THT      Treherbert – Pontypridd Jn                23    54    13    04    N     N   N   N    N   N   N   N   N    N   N
-GW839 CAM      Queen Street South Jn – Cardiff Bay       0     66     0    02    N     N   N   N    N   N   Y   Y   N    N   N
+GW877   OVE    Margam Abbey Works East Jn –              2    41     1    40    N     N   N   N   N   N    N   N   N   N   N
+               Margam East Jn
+GW877   OVE    Margam East Jn – Margam Yard Jn           1    40     0    79    N     N   N   N   N   N    N   N   N   N   N
+GW877   OVE    Margam Yard Jn – Network Rail             0    79     0    56    N     N   N   N   N   N    N   N   N   N   N
+               Boundary (Port Talbot Docks)
+GW890   SDI1   Briton Ferry Up Flying Loop Jn –        206    14   207    67    N     N   N   N   N   N    Y   Y   N   N   N
+               Dynover Jn
+GW890   SDI1   Dynover Jn – Jersey Marine Jn North     207    67   208    33    N     N   N   N   N   N    Y   Y   N   N   N
+GW890   SDI1   Jersey Marine Jn North – Change of      208    33   208    49    N     N   N   N   N   N    Y   Y   N   N   N
+               Mileage
 
 
-April 2009                                                                      498K
+
+  April 2009                                                                   498K

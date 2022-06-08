@@ -1,25 +1,22 @@
 Western	0790	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0790	GW108	MLN3	Penwithers Jn	Change of ELR	Penwithers Jn – Change of ELR	301	25	305	65	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW108	MLN4	Change of ELR	St Erth Jn	Change of ELR – St Erth Jn	305	67	320	73	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW108	MLN4	St Erth Jn	Penzance	St Erth Jn – Penzance	320	73	326	50	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW110	ANL	Old Oak Common West	Greenford East Jn	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW110	ANL	Greenford East Jn	Greenford West Jn	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW110	ANL	Greenford West Jn	Route Boundary (MD705) (Northolt Jn)	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW117	GEC	Greenford East Jn	Greenford South Jn	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn)	Acton East Jn	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW174	WEL1	West Ealing Jn	Drayton Green Jn	West Ealing Jn – Drayton Green Jn	6	56	7	03	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW174	WEL1	Drayton Green Jn	Greenford South Jn	Drayton Green Jn – Greenford South Jn	7	03	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW174	WEL1	Greenford South Jn	Greenford LUL Bay Jn	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW174	WEL1	Greenford LUL Bay Jn	Greenford West Jn	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW175	WEL2	Greenford LUL Bay Jn	Greenford Station	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	8	Y	Y	Y	N	N	Y	Y	Y
-Western	0790	GW176	HAN	Hanwell Jn	Drayton Green Jn	Hanwell Jn – Drayton Green Jn	0	00	0	36	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW178	BRB	Southall	Brentford Goods	Southall – Brentford Goods	0	00	2	70	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW180	HLL	Heathrow Airport Jn (Up and Down Main)	NR Boundary (BAA)	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	8	R1	R1	R1	R1	R1	R1	Y	R1	R1 See Sectional Appendix Local Instructions
-Western	0790	GW182	STA	West Drayton Jn	End of Branch (Colnbrook)	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW184	WIN	Slough	Windsor & Eton Central	Slough – Windsor & Eton Central	18	36	21	19	6	N	B	N	N	N	Y	N	N
-Western	0790	GW185	WBB	Maidenhead	Bourne End	Maidenhead – Bourne End	24	19	28	55	6	N	B	N	N	N	Y	N	Y
-Western	0790	GW185	MWB	Bourne End GF	Marlow	Bourne End GF – Marlow	0	06	2	54	6	N	B	N	N	N	Y	N	Y
-Western	0790	GW187	HEN	Twyford	Henley-on-Thames	Twyford – Henley-on-Thames	31	01	35	48	4	N	B	N	N	N	N	N	B
-Western	0790	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn)	Reading New Jn	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0790	GW195	RLL	Reading Southern Jn	Reading East Jn	Reading Southern Jn – Reading East Jn	35	33	35	61	8	Y	Y	Y	N	Y	N	Y	N
-Western	0790	GW200	DCL	Chester Line Jn	Route Boundary (MD401) (Heyford)	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW401	BGL2	Change of ELR	Standish Jn	Change of ELR – Standish Jn	94	60	99	69	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW401	BGL2	Standish Jn	Yate South Jn (Change of ELR)	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW401	YAT	Yate South Jn (Change of ELR)	Westerleigh Jn	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW425	SAW/S SS	Berkeley Road Jn	Sharpness (Network Rail Boundary)	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	6	N	Y	N	Y	N	Y	N	Y
+Western	0790	GW430	THO	Yate Middle Jn	Tytherington	Yate Middle Jn – Tytherington	0	00	6	24	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW440	BGL2	Yate South Jn	Westerleigh Yard	Yate South Jn – Westerleigh Yard	120	03	122	65	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW450	FEC	Stoke Gifford Jn No.1	Change of ELR	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW450	BSW	Change of ELR	Bristol East Jn	Change of ELR – Bristol East Jn	4	50	0	26	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	7	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	7	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW4501	AMB	Holesmouth Jn	Avonmouth (Bristol Bulk Handling Terminal)	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	7	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW451	FWC	Filton Jn No 2	Filton West Jn No.2	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	7	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW454	AMB	Severn Beach	St Andrews Jn (Change of ELR)	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	7	B	Y	N	Y	Y	Y	Y	Y
+Western	0790	GW454	CNX	St Andrews Jn (Change of ELR)	Narroways Hill Jn	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	7	R1 B	R1	N	R1	R1	R1	Y	R1	R1 10mph over bridge CNX-0306 (3m 06ch)
+Western	0790	GW480	SWM1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	8	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Kemble Tamper siding
+Western	0790	GW490	SWM2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW500	BKE	Oxford Road Jn	Southcote Jn	Oxford Road Jn – Southcote Jn	36	67	37	62	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW500	BKE	Southcote Jn	Route Boundary (SW125) (Basingstoke)	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW500	BHL	Southcote Jn	Change of ELR	Southcote Jn – Change of ELR	37	62	81	19	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0790	GW500	SWY	Change of ELR	Heywood Road Jn (Change of ELR)	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	8	Y	Y	Y	Y	Y	Y	Y	Y

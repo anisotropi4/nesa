@@ -1,23 +1,26 @@
 Western	0835	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0835	GW480	SWM1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	8	R1	R1 Prohibtied from the 'Cirencester' bay platform/siding at Kemble Station
-Western	0835	GW490	SWM2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	8	Y
-Western	0835	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	8	Y
-Western	0835	GW500	BKE	Oxford Road Jn	Southcote Jn	Oxford Road Jn – Southcote Jn	36	67	37	62	8	Y
-Western	0835	GW500	BKE	Southcote Jn	Route Boundary (SW125) (Basingstoke)	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	8	Y
-Western	0835	GW500	BHL	Southcote Jn	Change of ELR	Southcote Jn – Change of ELR	37	62	81	19	8	Y
-Western	0835	GW500	SWY	Change of ELR	Heywood Road Jn (Change of ELR)	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	8	Y
-Western	0835	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding lines)	94	44	97	02	8	Y
-Western	0835	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	8	Y
-Western	0835	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	8	Y
-Western	0835	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	8	Y
-Western	0835	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	6	Y
-Western	0835	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	8	Y
-Western	0835	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	8	Y
-Western	0835	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	8	Y
-Western	0835	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	8	R1 R2	R1 Prohibited through Dundas Aqueduct (Down Trowbridge line) R2 Prohibited through Dundas Aqueduct (Up Trowbridge line)
-Western	0835	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	8	Y
-Western	0835	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	8	Y
-Western	0835	GW528	BRL	North Somerset Jn	Bristol West Jn via St. Philips Marsh	North Somerset Jn – Bristol West Jn via St. Philips Marsh	0	00	1	08	8	Y
-Western	0835	GW530	BLL	Feeder Bridge Jn	Dr. Day's Jn (Rhubarb Loop)	Feeder Bridge Jn – Dr. Day's Jn (Rhubarb Loop)	117	50	117	73	8	Y
-Western	0835	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	8	Y
-Western	0835	GW5401	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	7	Y
+Western	0835	GW628	SUT1	Speedway Jn	Mount Gould Jn	Speedway Jn – Mount Gould Jn	244	30	244	43	7	Y
+Western	0835	GW628	SUT2	Mount Gould Jn	Former Friary Jn	Mount Gould Jn – Former Friary Jn	244	41	244	60	7	Y
+Western	0835	GW628	FRY	Former Friary Jn	Turnchapel Branch Jn	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	7	Y
+Western	0835	GW628	TUR/C WR	Turnchapel Branch Jn	Buffer Stops	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	5	Y
+Western	0835	GW628	FRY	Turnchapel Branch Jn	Plymouth Friary	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	7	Y
+Western	0835	GW637	DAC	St Budeaux Jn	Buffer Stops (Beyond Bere Alston)	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	4	Y
+Western	0835	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	4	Y
+Western	0835	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	4	R1	R1 Prohibited Liskeard platform 3 (Liskeard Loop)
+Western	0835	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	4	Y
+Western	0835	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	6	66	4	Y
+Western	0835	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	4	Y
+Western	0835	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	8	Y
+Western	0835	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	7	R1	R1 Prohibited on the Up line
+Western	0835	GW660	NEW	St Blazey Jn	Newquay	St Blazey Jn – Newquay	282	16	302	49	6	Y
+Western	0835	GW672	SDS	Burngullow Jn	Drinnick Mill	Burngullow Jn – Drinnick Mill	288	26	291	31	6	Y
+Western	0835	GW672	SDS	Drinnick Mill	Parkandillack	Drinnick Mill – Parkandillack	291	31	293	52	5	Y
+Western	0835	GW680	FAL1-3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	6	Y
+Western	0835	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	5	Y
+Western	0835	GW700	BAG2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	8	Y
+Western	0835	GW700	SWM2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	8	Y
+Western	0835	GW700	SWM2	Route Boundary Wales	Severn Tunnel Jn	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	8	Y
+Western	0835	GW710	NO ELR	Llanwern Works East	Llanwern Works West via BSS (Corus Infrastructure)	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	8	Y
+Western	0835	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	8	Y
+Western	0835	GW730	SHL	Severn Bridge Jn	Craven Arms Jn	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	8	Y
+Western	0835	GW730	SHL	Craven Arms Jn	Shelwick Jn	Craven Arms Jn – Shelwick Jn	20	01	49	26	8	R1	R1 Prohibited between Leominster and Moreton-on-Lugg SB on the Down Main line

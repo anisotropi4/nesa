@@ -1,12 +1,25 @@
 Western	0830	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0830	GW103	MLN1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	8	R1 R2	R1 Prohibited Paddington platform 6 R2 Prohibited Paddington platform 7
-Western	0830	GW103	MLN1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	8	Y
-Western	0830	GW103	MLN1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	8	Y
-Western	0830	GW103	MLN1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	8	Y
-Western	0830	GW103	MLN1	Hanwell Jn	Heathrow Airport Jn (Down Main)	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	8	Y
-Western	0830	GW103	MLN1	Heathrow Airport Jn (Down Main line)	Stockley Bridge Jn (Limit of Electrification)	Heathrow Airport Jn (Down Main line) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	8	Y
-Western	0830	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification)	Slough	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	8	Y
-Western	0830	GW103	MLN1	Slough	Maidenhead Jn	Slough – Maidenhead Jn	18	36	24	24	8	Y
-Western	0830	GW103	MLN1	Maidenhead Jn	Henley Branch Jn	Maidenhead Jn – Henley Branch Jn	24	24	31	04	8	Y
-Western	0830	GW103	MLN1	Henley Branch Jn	Reading New Jn	Henley Branch Jn – Reading New Jn	31	04	35	40	8	Y
-Western	0830	GW103	MLN1	Reading New Jn	Westbury Line Jn	Reading New Jn – Westbury Line Jn	35	40	36	17	8	R1	R1 Prohibited Reading platform 7 (Down Main line)
+Western	0830	GW108	MLN1	Lipson Jn	Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	Lipson Jn – Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	244	35	246	15	8	Y
+Western	0830	GW108	MLN2	Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	St Budeaux Jn	Change of ELR (Site of Former Devonport Jn / Cornwall Loop) – St Budeaux Jn	247	28	250	00	8	Y
+Western	0830	GW108	MLN2	St Budeaux Jn	Change of ELR	St Budeaux Jn – Change of ELR	250	00	256	38	8	Y
+Western	0830	GW108	MLN3	Change of ELR	Liskeard Jn	Change of ELR – Liskeard Jn	256	40	264	66	8	R1	R1 Prohibited at Lostwithiel Signal Box on the Down Main line
+Western	0830	GW108	MLN3	Liskeard Jn	Lostwithiel Jn	Liskeard Jn – Lostwithiel Jn	264	66	277	54	8	Y
+Western	0830	GW108	MLN3	Lostwithiel Jn	Par Loop Jn	Lostwithiel Jn – Par Loop Jn	277	54	281	57	8	Y
+Western	0830	GW108	MLN3	Par Loop Jn	Burngullow Jn	Par Loop Jn – Burngullow Jn	281	57	288	26	8	Y
+Western	0830	GW108	MLN3	Burngullow Jn	Penwithers Jn	Burngullow Jn – Penwithers Jn	288	26	301	25	7	Y
+Western	0830	GW108	MLN3	Penwithers Jn	Change of ELR	Penwithers Jn – Change of ELR	301	25	305	65	7	Y
+Western	0830	GW108	MLN4	Change of ELR	St Erth Jn	Change of ELR – St Erth Jn	305	67	320	73	7	Y
+Western	0830	GW108	MLN4	St Erth Jn	Penzance	St Erth Jn – Penzance	320	73	326	50	7	R1	R1 Prohibited Penzance platform 4
+Western	0830	GW110	ANL	Old Oak Common West	Greenford East Jn	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y
+Western	0830	GW110	ANL	Greenford East Jn	Greenford West Jn	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y
+Western	0830	GW110	ANL	Greenford West Jn	Route Boundary (MD705) (Northolt Jn)	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y
+Western	0830	GW117	GEC	Greenford East Jn	Greenford South Jn	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y
+Western	0830	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn)	Acton East Jn	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	8	Y
+Western	0830	GW174	WEL1	West Ealing Jn	Drayton Green Jn	West Ealing Jn – Drayton Green Jn	6	56	7	03	8	Y
+Western	0830	GW174	WEL1	Drayton Green Jn	Greenford South Jn	Drayton Green Jn – Greenford South Jn	7	03	8	45	8	Y
+Western	0830	GW174	WEL1	Greenford South Jn	Greenford LUL Bay Jn	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	8	Y
+Western	0830	GW174	WEL1	Greenford LUL Bay Jn	Greenford West Jn	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	8	Y
+Western	0830	GW175	WEL2	Greenford LUL Bay Jn	Greenford Station	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	8	Y
+Western	0830	GW176	HAN	Hanwell Jn	Drayton Green Jn	Hanwell Jn – Drayton Green Jn	0	00	0	36	8	Y
+Western	0830	GW178	BRB	Southall	Brentford Goods	Southall – Brentford Goods	0	00	2	70	8	Y
+Western	0830	GW180	HLL	Heathrow Airport Jn (Up and Down Main)	NR Boundary (BAA)	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	8	N

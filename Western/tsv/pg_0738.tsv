@@ -1,17 +1,3 @@
-Western	0738	GW500	BHL	Southcote Jn	Change of ELR	Southcote Jn – Change of ELR	37	62	81	19	H	N	N	N	R1	R1 Prohibited Newbury to Change of ELR
-Western	0738	GW500	SWY	Change of ELR	Heywood Road Jn (Change of ELR)	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	H	N	N	N	N
-Western	0738	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	H	N	N	N	N
-Western	0738	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	H	N	N	N	N
-Western	0738	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	H	N	N	N	N
-Western	0738	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	H	N	N	N	N
-Western	0738	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	H	N	N	N	N
-Western	0738	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	H	N	N	N	N
-Western	0738	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	H	N	N	N	N
-Western	0738	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	H	N	N	N	N
-Western	0738	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	H	N	N	N	N
-Western	0738	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	H	N	N	N	N
-Western	0738	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	H	N	N	N	N
-Western	0738	GW528	BRL	North Somerset Jn	Bristol West Jn via St Philips Marsh	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	H	N	N	N	N
 Western	0738	GW530	BLL	Feeder Bridge Jn	Dr Day’s Jn (Rhubarb Loop)	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	H	N	N	N	N
 Western	0738	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	H	N	N	N	N
 Western	0738	GW5401	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	H	N	N	N	N
@@ -20,3 +6,19 @@ Western	0738	GW560	SWY	Heywood Road Jn	Westbury North Jn	Heywood Road Jn – Wes
 Western	0738	GW560	WEY	Westbury North Jn	Fairwood Jn via Westbury	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	H	N	N	N	N
 Western	0738	GW570	WEY	Clink Road Jn	Blatchbridge Jn via Frome	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	H	N	N	N	N
 Western	0738	GW572	FNS2	Frome North Jn	Change of ELR	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N
+Western	0738	GW572	WQL	Change of ELR	Network Rail Boundary (Mendip Rail - Whatley Quarry)	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N
+Western	0738	GW580	ESB	East Somerset Jn	Network Rail Boundary (East Somerset Railway - Cranmore East)	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	H	N	N	N	N
+Western	0738	GW600	SWB	Wootton Bassett Jn	Stoke Gifford Jn No.1	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	H	N	N	N	R1	R1 Prohibited Bristol Parkway platform 3 (Up Main) with crush deflated / failed secondary suspension
+Western	0738	GW600	SWB	Stoke Gifford Jn No.1	Patchway Jn No.2	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	H	N	N	N	Y
+Western	0738	GW600	BSW	Patchway Jn No.2	Route Boundary Wales	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	H	N	N	N	Y
+Western	0738	GW600	BSW	Route Boundary	Ableton Lane Tunnel (GW900)	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	H	N	N	N	Y
+Western	0738	GW606	DAC	Cowley Bridge Jn	Crediton SB	Cowley Bridge Jn – Crediton SB	173	50	179	26	H	N	N	N	N
+Western	0738	GW606	NDN	Crediton SB	End of Line (Barnstaple)	Crediton SB – End of Line (Barnstaple)	179	26	211	31	H	N	N	N	N
+Western	0738	GW608	DAC	Crediton	Former Coleford Jn	Crediton – Former Coleford Jn	179	26	183	69	H	N	N	N	N
+Western	0738	GW608	DAC	Former Coleford Jn	Meldon Quarry	Former Coleford Jn – Meldon Quarry	183	69	198	72	N	N	N	N	N
+Western	0738	GW610	BAE2	Route Boundary (SW115) (Honiton)	Exeter St Davids Jn	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	H	N	N	N	N
+Western	0738	GW611	EMT	Exmouth Jn	Exmouth	Exmouth Jn – Exmouth	0	01	9	32	H	N	N	N	N
+Western	0738	GW618	MOB	Newton Abbott East Jn	End of Line (Beyond Heathfield)	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	N	N	N	N	N
+Western	0738	GW620	TOR	Newton Abbott West Jn	Paignton Crossover Ground Frame	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	H	N	N	N	N
+Western	0738	GW628	SUT1	Laira Jn	Speedway Jn	Laira Jn – Speedway Jn	244	02	244	30	H	N	N	N	N
+Western	0738	GW628	PLO	Lipson Jn	Speedway Jn	Lipson Jn – Speedway Jn	0	00	0	22	H	N	N	N	N

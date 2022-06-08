@@ -1,23 +1,23 @@
-Western	0737	GW370	OWW	Droitwich Spa	Route Boundary (MD430) (Kidderminster)	Droitwich Spa – Route Boundary (MD430) (Kidderminster)	126	21	130	40	H	N	N	N	N
-Western	0737	GW401	BAG2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	H	N	N	N	N
-Western	0737	GW401	CHL	Gloucester Barnwood Jn (Change of ELR)	Gloucester Yard Jn (Change of ELR)	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	H	N	N	N	N
-Western	0737	GW401	BGL1	Gloucester Yard Jn (Change of ELR)	Change of ELR	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	H	N	N	N	N
-Western	0737	GW401	BGL2	Change of ELR	Standish Jn	Change of ELR – Standish Jn	94	60	99	69	H	N	N	N	N
-Western	0737	GW401	BGL2	Standish Jn	Yate South Jn (Change of ELR)	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	H	N	N	N	N
-Western	0737	GW401	YAT	Yate South Jn (Change of ELR)	Westerleigh Jn	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	H	N	N	N	N
-Western	0737	GW425	SAW/S SS	Berkeley Road Jn	Sharpness (Network Rail Boundary)	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N
-Western	0737	GW430	THO	Yate Middle Jn	Tytherington	Yate Middle Jn – Tytherington	0	00	6	24	H	N	N	N	N
-Western	0737	GW440	BGL2	Yate South Jn	Westerleigh Yard	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N
-Western	0737	GW450	FEC	Stoke Gifford Jn No.1	Change of ELR	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	H	N	N	N	N
-Western	0737	GW450	BSW	Change of ELR	Bristol East Jn	Change of ELR – Bristol East Jn	4	50	0	26	H	N	N	N	N
-Western	0737	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	H	N	N	N	N
-Western	0737	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	H	N	N	N	N
 Western	0737	GW4501	AMB	Holesmouth Jn	Avonmouth (Bristol Bulk Handling Terminal)	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N
 Western	0737	GW451	FWC	Filton Jn No 2	Filton West Jn No.2	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	H	N	N	N	N
 Western	0737	GW454	AMB	Severn Beach	St Andrews Jn (Change of ELR)	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	H	N	N	N	N
 Western	0737	GW454	CNX	St Andrews Jn (Change of ELR)	Narroways Hill Jn	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	H	N	N	N	N
-Western	0737	GW480	SWM1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	H	N	N	N	N
-Western	0737	GW490	SWM2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	H	N	N	N	N
+Western	0737	GW480	SWM 1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	H	N	N	N	N
+Western	0737	GW490	SWM 2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	H	N	N	N	N
 Western	0737	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	H	N	N	N	Y
 Western	0737	GW500	BKE	Oxford Road Jn	Southcote Jn	Oxford Road Jn – Southcote Jn	36	67	37	62	H	N	N	N	Y
 Western	0737	GW500	BKE	Southcote Jn	Route Boundary (SW125) (Basingstoke)	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	H	N	N	N	N
+Western	0737	GW500	BHL	Southcote Jn	Change of ELR	Southcote Jn – Change of ELR	37	62	81	19	H	N	N	N	R1	R1 Prohibited Newbury to Change of ELR
+Western	0737	GW500	SWY	Change of ELR	Heywood Road Jn (Change of ELR)	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	H	N	N	N	N
+Western	0737	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	H	N	N	N	N
+Western	0737	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	H	N	N	N	N
+Western	0737	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	H	N	N	N	N
+Western	0737	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	H	N	N	N	N
+Western	0737	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	H	N	N	N	N
+Western	0737	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	H	N	N	N	N
+Western	0737	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	H	N	N	N	N
+Western	0737	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	H	N	N	N	N
+Western	0737	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	H	N	N	N	N
+Western	0737	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	H	N	N	N	N
+Western	0737	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	H	N	N	N	N
+Western	0737	GW528	BRL	North Somerset Jn	Bristol West Jn via St Philips Marsh	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	H	N	N	N	N

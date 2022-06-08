@@ -1,23 +1,17 @@
 Western	0805	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
-Western	0805	GW185	Bourne End to Marlow	Bourne End	Marlow	6	6	6	
-Western	0805	GW187	Twyford to Henley-on-Thames	Twyford	Henley-on-Thames	4	8B	8B	See Local Instructions for restrictions
-Western	0805	GW190	Reading Spur Jn to Reading New	Reading Spur Jn	Reading New	8	10	10	
-Western	0805	GW200	Didcot to Heyford	Didcot	Heyford	8	10	10	
-Western	0805	GW220	Oxford Road Jn to Reading West Jn	Oxford Road Jn	Reading West Jn	8	10	10	
-Western	0805	GW240	Didcot East Jn to Didcot North Jn via avoiding line	Didcot East Jn	Didcot North Jn via avoiding line	8	10	10	
-Western	0805	GW250	Foxhall Jn to Didcot West Curve Jn	Foxhall Jn	Didcot West Curve Jn	8	10	10	
-Western	0805	GW260	Kennington Jn to Morris Cowley	Kennington Jn	Morris Cowley	7	10	10	
-Western	0805	GW277	Oxford North Jn – Oxford Parkway (Excl)	Oxford North Jn	Oxford Parkway (Excl)	7	10	10	
-Western	0805	GW300	Abbotswood Jn to Stoke Wks Jn via Woster SH	Abbotswood Jn	Stoke Wks Jn via Woster SH	8	10	10	
-Western	0805	GW310	Wolvercot Jn to Norton Jn	Wolvercot Jn	Norton Jn	7	8B	8B	
-Western	0805	GW317	Honeybourne GF to Long Marston	Honeybourne GF	Long Marston	7	8B	8B	
-Western	0805	GW340	Worcester SH to Shelwick Jn	Worcester SH	Shelwick Jn	7	9B	9B	Over Bridge at 121m 64ch (Worcester Foregate - Henwick LC) Over Bridge at 147m 24ch (Ledbury - Shelwick Jn)	20 MPH 45 MPH	20 MPH 45 MPH
-Western	0805	GW350	Worcester Tnl Jn to Henwick	Worcester Tnl Jn	Henwick	7	8B	8B	
-Western	0805	GW370	Droitwich Spa to Cutnal Green	Droitwich Spa	Cutnal Green	8	10	10	
-Western	0805	GW400	Barnt Green to Westerleigh Jn	Barnt Green	Westerleigh Jn	8	10	10	
-Western	0805	GW425	Berkeley Road Jn to Sharpness	Berkeley Road Jn	Sharpness	6	9B	9B	
-Western	0805	GW430	Yate Middle Jn to Tytherington	Yate Middle Jn	Tytherington	8	10	10	
-Western	0805	GW440	Yate South Jn to Westerleigh Terms	Yate South Jn	Westerleigh Terms	8	10	10	
-Western	0805	GW450	Stoke Gifford Jn to Bristol East Jn	Stoke Gifford Jn	Bristol East Jn	8	10	10	
-Western	0805	GW4501	Stoke Gifford Jn to Avonmouth BBHT	Stoke Gifford Jn	Avonmouth BBHT	7	10	10	THROUGHOUT	35 MPH	35 MPH
-Western	0805	GW451	Filton Jn to Filton West Jn	Filton Jn	Filton West Jn	7	10	10	
+Western	0805	GW606	Cowley Bridge Jn to Crediton	Cowley Bridge Jn	Crediton	6	10	10	THROUGHOUT Over Bridge No. 543 at 177m 21ch	30 MPH 20 MPH	30 MPH 20 MPH	
+Western	0805	GW606	Crediton to Barnstaple	Crediton	Barnstaple	5	5	5	THROUGHOUT (Class 66 locos prohibited beyond 210m 28ch)	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0805	GW608	Crediton to Coleford (Meldon Line)	Crediton	Coleford (Meldon Line)	6	10	10	THROUGHOUT Over Bridge No.567 at 182m 38ch	20 MPH 10 MPH	20 MPH 10 MPH	
+Western	0805	GW610	Crannaford LC to Exeter St Davids	Crannaford LC	Exeter St Davids	8	8	8				
+Western	0805	GW611	Exmouth Jn to Exmouth	Exmouth Jn	Exmouth	6	6	6	THROUGHOUT	30 MPH	30 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0805	GW618	Newton Abbot to Heathfield	Newton Abbot	Heathfield	6	10	10					Dangerous Goods prohibited
+Western	0805	GW620	Newton Abbot to Paignton	Newton Abbot	Paignton	6	9B	8B				
+Western	0805	GW628	Laira Jn/Lipson Jn to Plymouth Friary	Laira Jn/Lipson Jn	Plymouth Friary	7	9	9				
+Western	0805	GW628	Plymouth Friary to Cattewater	Plymouth Friary	Cattewater	5	9	9				
+Western	0805	GW637	St Budeaux Jn to Ernesettle	St Budeaux Jn	Ernesettle	4	8	8				
+Western	0805	GW637	Ernesettle to Gunnislake	Ernesettle	Gunnislake	4	8B	8B	Over Tamerton Viaduct (225m 01ch - 224m 76ch)	05 MPH	05 MPH		Applies to all wagons empty or loaded & locomotives
+Western	0805	GW640	Liskeard to Coombe / Moorswater	Liskeard	Coombe / Moorswater	4	9	9				
+Western	0805	GW642	Moorswater / Coombe to Looe	Moorswater / Coombe	Looe	4	4	4				
+Western	0805	GW650	Lostwithiel to Carne Point	Lostwithiel	Carne Point	8	9	9				
+Western	0805	GW660	Par to St Blazey	Par	St Blazey	7	9	9				
+Western	0805	GW660	St Blazey Jn to Goonbarrow Jn	St Blazey Jn	Goonbarrow Jn	6	9	9				

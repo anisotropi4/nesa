@@ -1,11 +1,5 @@
-Western	0731	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW940	CAN/ CNW	Up Sidings No.2 GF	Carmarthen Bridge Jn	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW950	PEM	Whitland Jn	Pembroke RA Change	Whitland Jn – Pembroke RA Change	259	01	284	22	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW950	PEM	Pembroke RA Change	Pembroke Dock	Pembroke RA Change – Pembroke Dock	284	22	286	26	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW960	SWM2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW960	SWM2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	N	N	N	N	N	N	Y	Y	N	N	N
-Western	0731	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N	N	N	N	N
+Western	0731	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	325	332	345	360	387	Notes
+Western	0731	GW103	MLN1	Paddington	Old Oak Common West	Paddington – Old Oak Common West	0	05	3	20	H	R1	R2 R3	R4 R5 R6 R10	R7 R8 R9	R1 Prohibited Paddington platforms 1 and 2 R2 Prohibited Paddington platforms 4, 5 and 9 with deflated suspension R3 Prohibited Paddington platforms 6 and 7 R4 20mph Paddington platforms 3 and 4 R5 Route prohibited to Class 360/1 R6 Prohibited Paddington platform 13 R7 Prohibited with air bags deflated / failed secondary suspension Paddington platform 4 R8 Prohibited Marcon Siding R9 100mph maximum speed R10 15mph Paddington platform 2
+Western	0731	GW103	MLN1	Old Oak Common West	Acton East Jn	Old Oak Common West – Acton East Jn	3	20	4	07	H	Y	Y	R1	Y	R1 Route prohibited to Class 360/1
+Western	0731	GW103	MLN1	Acton East Jn	West Ealing Jn	Acton East Jn – West Ealing Jn	4	07	6	54	H	Y	Y	R1	R2 R3 R4 R5	R1 Route prohibited to Class 360/1 R2 Prohibited with air bags deflated / failed secondary suspension Acton Main Line platform 3 R3 100mph maximum speed R4 Prohibited Acton Yard R5 Prohibited Acton East Jn - Acton West Jn Up and Down Poplar lines
+Western	0731	GW103	MLN1	West Ealing Jn	Hanwell Jn	West Ealing Jn – Hanwell Jn	6	54	7	19	H	Y	Y	R1	R2	R1 Route prohibited to Class 360/1 R2 100mph maximum speed

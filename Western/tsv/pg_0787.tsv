@@ -1,12 +1,25 @@
-Western	0787	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	59	Notes
-Western	0787	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	5	N	Y	Y	Y	Y	Y	Y	N
-Western	0787	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW940	CAN/ CNW	Up Sidings No.2 GF	Carmarthen Bridge Jn	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW950	PEM	Whitland Jn	Pembroke RA Change	Whitland Jn – Pembroke RA Change	259	01	284	22	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW950	PEM	Pembroke RA Change	Pembroke Dock	Pembroke RA Change – Pembroke Dock	284	22	286	26	6	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW960	SWM 2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW960	SWM 2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	8	N	Y	Y	Y	Y	Y	Y	Y
-Western	0787	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	8	N	Y	Y	Y	Y	Y	Y	Y
+Western	0787	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
+Western	0787	GW105	MLN1	North Somerset Jn	Feeder Bridge Jn	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW105	MLN1	Feeder Bridge Jn	Bristol East Jn	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW105	MLN1	Bristol East Jn	Bristol West Jn	Bristol East Jn – Bristol West Jn	118	02	118	58	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW105	MLN1	Bristol West Jn	Parson Street Jn	Bristol West Jn – Parson Street Jn	118	58	120	28	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW105	MLN1	Parson Street Jn	Worle Jn	Parson Street Jn – Worle Jn	120	28	135	11	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW105	MLN1	Worle Jn	Uphill Jn (direct)	Worle Jn – Uphill Jn (direct)	135	11	138	04	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW105	MLN1	Uphill Jn	Fordgate	Uphill Jn – Fordgate	138	04	154	12	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW107	WSM	Worle Jn	Uphill Jn via Weston-Super-Mare	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Fordgate	Cogload Jn (Up)	Fordgate – Cogload Jn (Up)	154	12	158	23	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Cogload Jn (Up)	Norton Fitzwarren Jn (Connection - West Somerset Railway)	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway)	Cowley Bridge Jn	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Cowley Bridge Jn	Exeter St Davids Jn	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Exeter St Davids Jn	Newton Abbot East Jn	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Newton Abbot East Jn	Newton Abbot West Jn	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Newton Abbot West Jn	Tavistock Jn Yard	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Tavistock Jn Yard	Laira Jn	Tavistock Jn Yard – Laira Jn	242	55	243	67	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Laira Jn	Lipson Jn	Laira Jn – Lipson Jn	243	67	244	35	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN1	Lipson Jn	Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	Lipson Jn – Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	244	35	246	15	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN2	Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	St Budeaux Jn	Change of ELR (Site of Former Devonport Jn/Cornwall Loop) – St Budeaux Jn	247	28	250	00	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN2	St Budeaux Jn	Change of ELR	St Budeaux Jn – Change of ELR	250	00	256	38	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN3	Change of ELR	Liskeard Jn	Change of ELR – Liskeard Jn	256	40	264	66	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN3	Liskeard Jn	Lostwithiel Jn	Liskeard Jn – Lostwithiel Jn	264	66	277	54	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN3	Lostwithiel Jn	Par Loop Jn	Lostwithiel Jn – Par Loop Jn	277	54	281	57	8	Y	Y	Y	Y	Y	Y	Y	Y
+Western	0787	GW108	MLN3	Par Loop Jn	Burngullow Jn	Par Loop Jn – Burngullow Jn	281	57	288	26	8	Y	Y	Y	Y	Y	Y	Y	Y

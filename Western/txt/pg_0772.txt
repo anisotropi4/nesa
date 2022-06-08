@@ -1,54 +1,46 @@
-                                                                             OFFICIAL
+                                                                            OFFICIAL
 
 
-                                                             Western Route Sectional Appendix Module WR2
+                                                            Western Route Sectional Appendix Module WR2
 
-Line of ELR Line of Route / Sector                                          RA 08 20 31/1 31/4 33 37/0 37/5 37/7 Notes
-route       Description                                                    0000 0000 0000 31/6 0000 0000 37/3 0000 37/9 ooooooooooooooooooooooooooo
-                                                       oooo oooo oooo oooo                               37/4      0000
-                                                        M Ch M Ch                                        37/6
-GW784 NLL     Alexandra Dock Jn – Network Rail      159      60   160   27   8     Y    Y    Y    Y        Y   Y   Y   Y
-              Boundary (Newport Docks)
-GW790 ROC     Pengam Jn – Change of ELR             168      20   168   61   7     Y    Y    Y    Y        Y   Y   Y   Y
-GW790 ROA     Change of ELR – Network Rail            3      41     4   54   7     Y    Y    Y    Y        Y   Y   Y   Y
-              Boundary (ABP Cardiff Docks)
-GW810 CAR     End of Line (Rhymney) – Ystrad         24      00    13   41   6     Y    Y    Y    Y        Y   Y   Y   B
-              Mynach South Jn
-GW810 CAR     Ystrad Mynach South Jn – Heath Jn      13      41    3    32   6     Y    Y    Y    Y        Y   Y   Y   Y
-GW810 CAR     Heath Jn – Cardiff Queen Street North   3      32    1    22   6     Y    Y    Y    Y        Y   Y   Y   Y
-              Jn
-GW820 TBD     Network Rail Boundary (Cwmbargoed) 19          59    13   53   8     Y    Y    Y    Y        Y   Y   Y   Y
-              – Site of Former Taff Bargoed Branch
-              Jn
-GW820 VON     Site of Former Taff Bargoed Branch     13      53    12   41   8     Y    Y    Y    Y        Y   Y   Y   Y
-              Jn – Site of Former Penallta Jn
-GW820 PTA     Site of Former Penallta Jn – Ystrad    15      01    13   41   8     Y    Y    Y    Y        Y   Y   Y   Y
-              Mynach South Jn
-GW828   CRY   Coryton – Heath Jn                      2      57     0   15   6     Y    Y    Y    Y        Y   Y   Y   N
-GW830   CAM   Merthyr Tydfil – Abercynon Jn          24      44    16   35   6     Y    Y    Y    Y        Y   Y   Y   N
-GW830   CAM   Abercynon Jn – Pontypridd Jn           16      35    13   04   6     Y    Y    Y    Y        Y   Y   Y   N
-GW830   CAM   Pontypridd Jn – Radyr Jn               13      04     5   23   6     Y    Y    Y    Y        Y   Y   Y   Y
-GW830   CAM   Radyr Jn – Queen Street North Jn        5      23     1   17   8     Y    Y    Y    Y        Y   Y   Y   Y
-GW830   CAM   Queen Street North Jn – Queen Street    1      17     0   66   8     Y    Y    Y    Y        Y   Y   Y   Y
-              South Jn
-GW830 CEJ     Queen Street South Jn – Cardiff East    0      22    0    00   8     Y    Y    Y    Y        Y   Y   Y   Y
-              Jn
-GW830 SWM     Cardiff East Jn – Cardiff West Jn     170      18   170   56   8     Y    Y    Y    Y        Y   Y   Y   Y
-      2
-GW830 BRY     Cardiff West Jn – Barry Jn                 0   10     8   16   8     Y    Y    Y    Y        Y   Y   Y   Y
-GW830 BRY     Barry Jn – Buffer Stops (Barry Island)     8   16     8   76   6     Y    Y    Y    Y        Y   Y   Y   N
-GW834 VON     Network Rail Boundary – Aberdare          26   62    22   34   6     Y    Y    Y    Y        Y   Y   Y   Y
-GW834 VON/    Aberdare – Cwmbach Change of ELR          22   34    20   68   6     Y    Y    Y    Y        Y   Y   Y   Y
-      ALK
-GW834 ABD/Cwmbach Change of ELR –                       22   01    16   35   6     Y    Y    Y    Y        Y   Y   Y   Y
-      MOA Abercynon Jn (Including Mountain Ash
-          Down Loop ELR MOA)
-GW835 THT End of Line – Treherbert                      23   69    23   54   6     Y    Y    Y    Y        Y   Y   Y   N
-GW835 THT Treherbert – Pontypridd Jn                    23   54    13   04   6     Y    Y    Y    Y        Y   Y   Y   N
-GW839 CAM Queen Street South Jn – Cardiff Bay            0   66     0   02   6     Y    Y    Y    Y        Y   Y   Y   N
-GW840 RAD Radyr Jn – Leckwith Loop South Jn              4   41     0   69   8     Y    Y    Y    Y        Y   Y   Y   Y
+Line of ELR     Line of Route / Sector                                     RA 08 20 31/1 31/4 33 37/0 37/5 37/7 Notes
+route           Description                                               0000 0000 0000 31/6 0000 0000 37/3 0000 37/9 ooooooooooooooooooooooooooo
+                                                      oooo oooo oooo oooo                               37/4      0000
+                                                       M Ch M Ch                                        37/6
+GW900    BSW    Ableton Lane Tunnel – Severn Tunnel    10   51   16    73   8      Y   Y    Y     Y       Y   Y   Y    Y
+                Jn
+GW900    SWM2   Severn Tunnel Jn – Maindee West Jn    149   14   158   16   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Maindee West Jn – Cardiff East Jn     158   16   170   18   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Cardiff East Jn – Cardiff West Jn     170   18   170   56   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2    Cardiff West Jn – Court Sart Jn      170   56   206   58   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Court Sart Jn – Llandore Jn           206   58   214   62   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Llandore Jn – Llandeilo Jn            214   62   223   49   7      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Llandeilo Jn – Carmarthen Bridge Jn   223   49   245   32   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Carmarthen Bridge Jn – Whitland Jn    245   32   259   01   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    SWM2   Whitland Jn – Clarbeston Road Jn      259   01   271   08   8      Y   Y    Y     Y       Y   Y   Y    Y
+GW900    CRL    Clarbeston Road Jn – Change of ELR    271   08   281   58   7      Y   Y    Y     Y       Y   Y   Y    Y
+                (Letterston Jn)
+GW900    NPF    Change of ELR (Letterston Jn) –       283   30   287   52   7      Y   Y    Y     Y       Y   Y   Y    Y
+                Network Rail Boundary (Fishguard
+                Harbour)
+GW9001 SWA      Landore Jn – Swansea                  214   62   216   07   7      Y   Y    Y     Y       Y   Y   Y    Y
+GW906 SWL       Swansea Loop East Jn – Swansea          0   53     0   00   7      Y   Y    Y     Y       Y   Y   Y    Y
+                Loop West Jn
+GW910    CWL1   Craven Arms Jn – Change of Mileage     20   01   20    12   5      Y   R1   Y    N        Y   Y   R1   N R1     Route prohibited to Class 20 and 37/5
+                                                                                                                                locomotives that conform to RA6
+GW910    CWL2 Change of Mileage – Site of Former        0   00   59    14   5      Y   R1   Y    N        Y   Y   R1   N R1     Route prohibited to Class 20 and 37/5
+              Llandovery Jn                                                                                                     locomotives that conform to RA6
+GW910    VOT Site of Former Llandovery Jn –            29   40   18    07   5      Y   R1   Y    N        Y   Y   R1   N R1     Route prohibited to Class 20 and 37/5
+              Llandeilo                                                                                                         locomotives that conform to RA6
+GW910    LLA  Llandeilo – Pantyffynnon                 18   07   10    08   5      Y   R1   Y    N        Y   Y   R1   N R1     Route prohibited to Class 20 and 37/5
+                                                                                                                                locomotives that conform to RA6
+GW910    LLA    Pantyffynnon – Morlais Jn              10   08     3   50   5      Y   R1   Y    N        Y   Y   R1   N R1     Route prohibited to Class 20 and 37/5
+                                                                                                                                locomotives that conform to RA6
+GW910    LLA    Morlais Jn – Llandeilo Jn               3   50    0    00   8      Y   Y    Y    Y        Y   Y   Y    Y
+GW915    GWA    Gwaun-cae-Gurwen – Former Jn           16   41   14    60   5      Y   R1   Y    N        Y   Y   R1   Y   R1   Route prohibited to Class 20 and 37/5
+                (Change of ELR)                                                                                                 locomotives that conform to RA6
 
 
 
 
-April 2009                                                                       501H
+ April 2009                                                                     501J

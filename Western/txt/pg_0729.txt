@@ -1,46 +1,48 @@
-                                                                            OFFICIAL
+                                                                                 OFFICIAL
 
 
-                                                          Western Route Sectional Appendix Module WR2
+                                                               Western Route Sectional Appendix Module WR2
 
-GW840 RAD    Radyr Jn – Leckwith Loop South Jn       4     41     0    69    N     N   N   N   N   N    N   N   N   N   N
-GW840 RAD    Leckwith Loop South Jn – Penarth        0     69     0    47    N     N   N   Y   N   N    Y   Y   N   N   N
-             Curve North Jn
-GW840 RAD    Penarth Curve North Jn – Radyr          0     47     0    25    N     N   N   Y   N   N    Y   Y   N   N   N
-             Branch Jn
-GW850 CLL    Leckwith Loop South Jn – Leckwith       0     26     0    00    N     N   N   Y   N   N    Y   Y   N   N   N
-             Loop North Jn
-GW860 CPL    Penarth Curve North Jn – Penarth        0     25     0    00    N     N   N   Y   N   N    Y   Y   N   N   N
-             Curve South Jn
-GW864 PTH    Cogan Jn – Penarth                      0     01     1    12    N     N   N   N   N   N    Y   Y   N   N   N
-GW870 VOG    Barry Jn – Bridgend Bay Platform        0     00    19    04    N     N   N   N   N   N    Y   Y   Y   Y   N
-GW871 FOR    Ford Siding GF – Network Rail           0     00     1    18    N     N   N   N   N   N    N   N   N   N   N
-             Boundary (Ford Works, Waterton)
-GW874 BAL    Llynfi Jn – Tondu Jn                    0     07     2    70    N     N   N   Y   N   N    Y   Y   N   N   N
-GW874 BAL    Tondu Jn – Maesteg                      2     70     8    06    N     N   N   Y   N   N    Y   N   N   N   N
-GW877 POR    Tondu Jn – Cefn Jn                      0     00     2    43    N     N   N   N   N   N    Y   Y   N   N   N
-GW877 OVE    Cefn Jn – Margam Abbey Works East       7     41     2    41    N     N   N   N   N   N    Y   Y   N   N   N
-             Jn
-GW877 OVE    Margam Abbey Works East Jn –            2     41     1    40    N     N   N   N   N   N    N   N   N   N   N
-             Margam East Jn
-GW877 OVE    Margam East Jn – Margam Yard Jn         1     40     0    79    N     N   N   N   N   N    N   N   N   N   N
-GW877 OVE    Margam Yard Jn – Network Rail           0     79     0    56    N     N   N   N   N   N    N   N   N   N   N
-             Boundary (Port Talbot Docks)
-GW890 SDI1   Briton Ferry Up Flying Loop Jn –       206    14   207    67    N     N   N   N   N   N    Y   Y   N   N   N
-             Dynover Jn
-GW890 SDI1   Dynover Jn – Jersey Marine Jn North    207    67   208    33    N     N   N   N   N   N    Y   Y   N   N   N
-GW890 SDI1   Jersey Marine Jn North – Change of     208    33   208    49    N     N   N   N   N   N    Y   Y   N   N   N
-             Mileage
-GW890 SDI2   Change of Mileage – Grovesend           0     00    10    05    N     N   N   N   N   N    Y   Y   N   N   N
-             Colliery Loop Jn
-GW890 SDI2   Grovesend Colliery Loop Jn – Morlais    10    05    10    64    N     N   N   N   N   N    Y   Y   N   N   N
-             Jn
-GW8901 RSB   Dynevor Jn – Jersey Marine South Jn     19    16    20    24    N     N   N   N   N   N    Y   Y   N   N   N
-GW892 VON    Network Rail Boundary (Cwmgwrach)       33    14    41    17    N     N   N   N   N   N    N   N   N   N   N
-             – Neath & Brecon Jn
-GW892 VON    Neath & Brecon Jn – Burrows Sidings     41    17    46    30    N     N   N   N   N   N    N   N   N   N   N
-GW893 NAB    Network Rail Boundary (Onllwyn) –       10    10     0    01    N     N   N   N   N   N    N   N   N   N   N
-             Neath and Brecon Jn
+GW890   SDI2    Change of Mileage – Grovesend              0    00    10    05    N     N   N   N    N   N   Y   Y   N   N   N
+                Colliery Loop Jn
+GW890   SDI2    Grovesend Colliery Loop Jn – Morlais     10     05    10    64    N     N   N   N    N   N   Y   Y   N   N   N
+                Jn
+GW8901 RSB      Dynevor Jn – Jersey Marine South Jn      19     16    20    24    N     N   N   N    N   N   Y   Y   N   N   N
+GW892   VON     Network Rail Boundary (Cwmgwrach) –      33     14    41    17    N     N   N   N    N   N   N   N   N   N   N
+                Neath & Brecon Jn
+GW892   VON     Neath & Brecon Jn – Burrows Sidings      41     17    46    30    N     N   N   N    N   N   N   N   N   N   N
+GW893   NAB     Network Rail Boundary (Onllwyn) –        10     10     0    01    N     N   N   N    N   N   N   N   N   N   N
+                Neath and Brecon Jn
+GW894   JER     Jersey Marine Jn North – Jersey Marine     1    24     2    26    N     N   N   N    N   N   N   N   N   N   N
+                Jn South
+GW897   HDY     Grovesend Colliery Loop Jn – Hendy Jn      0    00     0    46    N     N   N   N    N   N   N   N   N   N   N
+GW900   BSW     Ableton Lane Tunnel – Severn Tunnel      10     51    16    73    N     Y   N   Y    N   N   Y   Y   Y   Y   N
+                Jn
+GW900   SWM2 Severn Tunnel Jn – Maindee West Jn          149    14   158    16    N     Y   N   Y    N   N   Y   Y   Y   Y   N
+GW900   SWM2 Maindee West Jn – Cardiff East Jn           158    16   170    18    N     Y   N   Y    N   N   Y   Y   Y   Y   N
+GW900   SWM2 Cardiff East Jn – Cardiff West Jn           170    18   170    56    N     Y   N   Y    N   N   Y   Y   Y   Y   N
+GW900   SWM2 Cardiff West Jn – Court Sart Jn             170    56   206    58    N   R1    N   R2   N   N   Y   Y   Y   Y   N R2 ECS only Bridgend River Bridge
+                                                                                                                               Crossover (193m 00ch) to Court Sart
+                                                                                                                               Jn
+GW900   SWM2 Court Sart Jn – Llandore Jn                 206    58   214    62    N     N   N   E    N   N   Y   Y   Y   Y   N
+GW900   SWM2 Llandore Jn – Llandeilo Jn                  214    62   223    49    N     N   N  E     N   N   Y   Y   N   N   N Prohibited between Swansea Loop
+                                                                                              R1                               West Jn (216m 00ch) and Llandeilo Jn
+GW900   SWM2 Llandeilo Jn – Carmarthen Bridge Jn         223    49   245    32    N     N   N  N     N   N   Y   Y   N   N   N
+GW900   SWM2 Carmarthen Bridge Jn – Whitland Jn          245    32   259    01    N     N   N   N    N   N   Y   Y   N   N   N
+GW900   SWM2 Whitland Jn – Clarbeston Road Jn            259    01   271    08    N     N   N   N    N   N   Y   Y   N   N   N
+GW900   CRL     Clarbeston Road Jn – Change of ELR       271    08   281    58    N     N   N   N    N   N   Y   Y   N   N   N
+                (Letterston Jn)
+GW900   NPF     Change of ELR (Letterston Jn) –          283    30   287    52    N     N   N   N    N   N   Y   Y   N   N   N
+                Network Rail Boundary (Fishguard
+                Harbour)
+GW9001 SWA      Landore Jn – Swansea                     214    62   216    07    N     N   N  E     N   N   Y   Y   Y   Y   N Prohibited between Crossover (Down
+                                                                                              R1                               Sidings 215m 62ch) and Swansea
+GW906   SWL     Swansea Loop East Jn – Swansea             0    53     0    00    N     N   N  E     N   N   Y   Y   N   N   N Prohibited between Crossover (Down
+                Loop West Jn                                                                   R1                              Sidings 215m 62ch) and Swansea
+
+GW910   CWL1    Craven Arms Jn – Change of Mileage       20     01    20    12    Y     N   N   N    N   N   Y   Y   N   N   N
 
 
-April 2009                                                                  498L
+
+
+  April 2009                                                                     498L

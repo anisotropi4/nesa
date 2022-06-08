@@ -1,10 +1,7 @@
 Western	0825	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
 Western	0825					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0825	GW835	Treherbert – Pontypridd Jn	Treherbert	Pontypridd Jn	Y	N	N	N	N	N	N	N
-Western	0825	GW839	Queen Street South Jn – Cardiff Bay	Queen Street South Jn	Cardiff Bay	Y	N	N	N	N	N	N	N
-Western	0825	GW840	Radyr Jn – Cardiff, Radyr Branch Jn via City Lines	Radyr Jn	Cardiff, Radyr Branch Jn via City Lines	Y	N	N	N	N	N	N	N
-Western	0825	GW850	Leckwith Loop South Jn – Leckwith Loop North Jn	Leckwith Loop South Jn	Leckwith Loop North Jn	Y	N	N	N	N	N	N	N
-Western	0825	GW860	Penarth Curve North Jn – Penarth Curve South Jn	Penarth Curve North Jn	Penarth Curve South Jn	Y	N	N	N	N	N	N	N
-Western	0825	GW864	Cogan Jn – Penarth	Cogan Jn	Penarth	Y *	N	N	N	N	N	N	N
-Western	0825	GW870	Barry – Bridgend, Barry Jn	Barry	Bridgend, Barry Jn	Y *	N	N	N	N	N	N	N
-Western	0825	GW871	Ford Siding GF – Ford Works, Waterton	Ford Siding GF	Ford Works, Waterton	Y *	N	N	N	N	N	N	N
+Western	0825	GW900	Pilning – Severn Tunnel Junction(s)	Pilning	Severn Tunnel Junction(s)	Y *	Y	Y	N	N	N	N	N
+Western	0825	GW900	Severn Tunnel Junction – Maindee West Jn	Severn Tunnel Junction	Maindee West Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA IDA wagons
+Western	0825	GW900	Maindee West Jn – Cardiff East Jn	Maindee West Jn	Cardiff East Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA wagons ALL LINES 2896(h) x 2500(w) on IDA wagons Newport New Tunnel Only
+Western	0825	GW900	Cardiff East Jn – Court Sart Jn / Up Flying Loop Jn	Cardiff East Jn	Court Sart Jn / Up Flying Loop Jn	Y *	Y	Y	N	N	N	N	N
+Western	0825	GW900	Court Sart Jn / Up Flying Loop Jn – Llandore Jn	Court Sart Jn / Up Flying Loop Jn	Llandore Jn	Y *	N	N	N	N	N	N	N

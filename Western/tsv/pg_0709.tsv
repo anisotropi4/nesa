@@ -1,7 +1,3 @@
-Western	0709	GW628	FRY	Former Friary Jn	Turnchapel Branch Jn	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	N	N	Y	Y	Y	N	N	R1	R1	R1 Prohibited beyond Class 158 stop board (245m 13 ch) (A maximum of 3 x 158/9 car lengths can be accommodated)
-Western	0709	GW628	TUR/ CWR	Turnchapel Branch Jn	Buffer Stops	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	R1	N	N	N	N	N	R1 Prior to operation the method of working shall be agreed with the local Infrastructure Manager’s operations team
-Western	0709	GW628	FRY	Turnchapel Branch Jn	Plymouth Friary	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	N	N	N	Y	N	N	N	N	N
-Western	0709	GW637	DAC	St Budeaux Jn	Buffer Stops (Beyond Bere Alston)	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	E	N	N	Y	Y	N	N	R1	R1	R1 Prohibited between St Budeaux Victoria Road Station and Buffer Stops (Beyond Bere Alston)
 Western	0709	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
 Western	0709	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
 Western	0709	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
@@ -9,3 +5,10 @@ Western	0709	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	
 Western	0709	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	N	N	N	N	N	N	N	N	N
 Western	0709	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	N	N	N	N	N	N	N	N	N
 Western	0709	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	E	N	N	Y	Y	N	N	Y	Y
+Western	0709	GW660	NEW	St Blazey Jn	Newquay	St Blazey Jn – Newquay	282	16	302	49	E	N	N	Y	Y	N	N	N	N
+Western	0709	GW672	SDS	Burngullow Jn	Drinnick Mill	Burngullow Jn – Drinnick Mill	288	26	291	31	N	N	N	N	N	N	N	N	N
+Western	0709	GW672	SDS	Drinnick Mill	Parkandillack	Drinnick Mill – Parkandillack	291	31	293	52	N	N	N	N	N	N	N	N	N
+Western	0709	GW680	FAL1 -3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	E	N	N	Y	Y	N	N	Y	Y
+Western	0709	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	E	N	N	Y	Y	N	N	Y	R1
+Western	0709	GW700	BAG 2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	E	Y	Y	Y	Y	N	N	Y	Y
+Western	0709	GW700	SWM 2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	E	Y	Y	Y	Y	Y	Y	Y	Y

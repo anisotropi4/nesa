@@ -1,21 +1,11 @@
 Western	0816	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
 Western	0816					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0816	GW110	Old Oak Common West – South Ruislip	Old Oak Common West	South Ruislip	Y	Y	Y	N	N	N	N	N
-Western	0816	GW117	Greenford East Jn – Greenford South Jn	Greenford East Jn	Greenford South Jn	Y	Y	Y	N	N	N	N	N
-Western	0816	GW130	Acton Wells Jn – Acton East	Acton Wells Jn	Acton East	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0816	GW174	West Ealing – Greenford West Jn	West Ealing	Greenford West Jn	Y *	Y	Y	N	N	N	N	N
-Western	0816	GW175	Greenford South Jn – Greenford Station	Greenford South Jn	Greenford Station	Y	N	N	N	N	N	N	N
-Western	0816	GW176	Hanwell – Drayton Green Jn	Hanwell	Drayton Green Jn	Y	Y	Y	N	N	N	N	N
-Western	0816	GW178	Southall – Brentford Goods	Southall	Brentford Goods	Y	Y	Y	N	N	N	N	N
-Western	0816	GW180	Heathrow Airport Jn – NR Boundary [12m 30ch]	Heathrow Airport Jn	NR Boundary [12m 30ch]	Y	N	N	N	N	N	N	N
-Western	0816	GW182	West Drayton – Colnbrook	West Drayton	Colnbrook	Y	Y	Y	N	N	N	N	N
-Western	0816	GW184	Slough – Windsor & Eton Central	Slough	Windsor & Eton Central	Y	N	N	N	N	N	N	N
-Western	0816	GW185	Maidenhead – Marlow	Maidenhead	Marlow	Y	N	N	N	N	N	N	N
-Western	0816	GW187	Twyford – Henley-on-Thames	Twyford	Henley-on-Thames	Y	N	N	N	N	N	N	N
-Western	0816	GW190	Reading Spur Jn – Reading New Jn	Reading Spur Jn	Reading New Jn	Y	Y	Y	N	N	N	N	N
-Western	0816	GW195	Reading, Southern Jn – Reading East Jn (Reading Low Level Line)	Reading, Southern Jn	Reading East Jn (Reading Low Level Line)	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0816	GW200	Didcot – Heyford	Didcot	Heyford	Y *	Y	Y	R1	R1	Y	R1	R1	R1 Between Didcot North Jn and Oxford North Jn only
-Western	0816	GW220	Reading, Oxford Road Jn – Reading West Jn	Reading, Oxford Road Jn	Reading West Jn	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0816	GW225	Caversham Road Jn – Oxford Road Jn (Reading Feeder lines)	Caversham Road Jn	Oxford Road Jn (Reading Feeder lines)	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0816	GW240	Didcot East Jn – Didcot North Jn via Avoiding Line	Didcot East Jn	Didcot North Jn via Avoiding Line	Y	Y	Y	Y	Y	Y	N	Y
-Western	0816	GW250	Foxhall Jn – Didcot West Curve Jn	Foxhall Jn	Didcot West Curve Jn	Y	Y	Y	N	N	N	N	N
+Western	0816	GW480	Swindon – Standish Jn	Swindon	Standish Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA IDA wagons 20mph Up Line 10mph Down Line Sapperton Long Tunnel [94m 70ch – 95m 74ch] 20mph Up Line only Bridge SWM1 Shepherds (aka Westrop Road) [104m 48ch]
+Western	0816	GW490	Gloucester Yard Jn – Horton Road Jn	Gloucester Yard Jn	Horton Road Jn	Y	Y	Y	N	N	N	N	N
+Western	0816	GW500	Reading – Heywood Road Jn via Lavington	Reading	Heywood Road Jn via Lavington	Y *	Y	Y	R1 R2	R1 R2	R2 R3	R1 R2	R1 R2	R1 Between Reading Westbury Line Jn and Oxford Road Jn only R2 Prohibited Reading Bay platforms 1, 2 and 3 R3 Between Reading Westbury line Jn and Southcote Jn only
+Western	0816	GW500	Heywood Road Jn – Castle Cary Jn via Westbury Avoiding Lines and Frome Avoiding Lines	Heywood Road Jn	Castle Cary Jn via Westbury Avoiding Lines and Frome Avoiding Lines	Y *	Y	N	N	N	N	N	N
+Western	0816	GW500	Castle Cary Jn – Cogload Jn	Castle Cary Jn	Cogload Jn	Y *	Y	N	N	N	N	N	N
+Western	0816	GW500	Southcote Junction – Wessex Route Boundary [37m 76ch]	Southcote Junction	Wessex Route Boundary [37m 76ch]	Y	Y	Y	Y	N	Y	N	N
+Western	0816	GW5001	Beechgrove GF – Westbury South Jn	Beechgrove GF	Westbury South Jn	Y	Y	Y	N	N	N	N	N
+Western	0816	GW510	Westbury North Jn – Bradford Jn	Westbury North Jn	Bradford Jn	Y	Y	Y	N	N	N	N	N
+Western	0816	GW510	Bradford Jn – Bathampton Jn	Bradford Jn	Bathampton Jn	Y	N	N	N	N	N	N	N

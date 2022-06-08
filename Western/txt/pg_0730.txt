@@ -1,47 +1,40 @@
-                                                                             OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                           Western Route Sectional Appendix Module WR2
+                                                                Western Route Sectional Appendix Module WR2
 
-GW894 JER      Jersey Marine Jn North – Jersey        1     24     2    26    N     N   N   N    N   N     N   N    N   N   N
-               Marine Jn South
-GW897 HDY      Grovesend Colliery Loop Jn – Hendy     0     00     0    46    N     N   N   N    N   N     N   N    N   N   N
-               Jn
-GW900 BSW      Ableton Lane Tunnel – Severn Tunnel    10    51    16    73    N     Y   N   Y    N   N     Y   Y    Y   Y   N
-               Jn
-GW900 SWM2 Severn Tunnel Jn – Maindee West Jn        149    14   158    16    N     Y   N   Y    N   N     Y   Y    Y   Y   N
-GW900 SWM2 Maindee West Jn – Cardiff East Jn         158    16   170    18    N     Y   N   Y    N   N     Y   Y    Y   Y   N
-GW900 SWM2 Cardiff East Jn – Cardiff West Jn         170    18   170    56    N     Y   N   Y    N   N     Y   Y    Y   Y   N
-GW900 SWM2 Cardiff West Jn – Court Sart Jn           170    56   206    58    N   R1    N   R2   N   N     Y   Y    Y   Y   N R2 ECS only Bridgend River Bridge
-                                                                                                                              Crossover (193m 00ch) to Court Sart
-                                                                                                                              Jn
-GW900 SWM2 Court Sart Jn – Llandore Jn               206    58   214    62    N     N   N   E    N   N     Y   Y    Y   Y   N
-GW900 SWM2 Llandore Jn – Llandeilo Jn                214    62   223    49    N     N   N  E     N   N     Y   Y    N   N   N Prohibited between Swansea Loop
-                                                                                          R1                                  West Jn (216m 00ch) and Llandeilo Jn
-GW900 SWM2 Llandeilo Jn – Carmarthen Bridge Jn       223    49   245    32    N     N   N  N     N   N     Y   Y    N   N   N
-GW900 SWM2 Carmarthen Bridge Jn – Whitland Jn        245    32   259    01    N     N   N   N    N   N     Y   Y    N   N   N
-GW900 SWM2 Whitland Jn – Clarbeston Road Jn          259    01   271    08    N     N   N   N    N   N     Y   Y    N   N   N
-GW900 CRL      Clarbeston Road Jn – Change of ELR    271    08   281    58    N     N   N   N    N   N     Y   Y    N   N   N
-               (Letterston Jn)
-GW900 NPF      Change of ELR (Letterston Jn) –       283    30   287    52    N     N   N   N    N   N     Y   Y    N   N   N
-               Network Rail Boundary (Fishguard
-               Harbour)
-GW9001 SWA     Landore Jn – Swansea                  214    62   216    07    N     N   N  E     N   N     Y   Y    Y   Y   N Prohibited between Crossover (Down
-                                                                                          R1                                  Sidings 215m 62ch) and Swansea
-GW906 SWL      Swansea Loop East Jn – Swansea         0     53     0    00    N     N   N  E     N   N     Y   Y    N   N   N Prohibited between Crossover (Down
-               Loop West Jn                                                                R1                                 Sidings 215m 62ch) and Swansea
-
-GW910 CWL1 Craven Arms Jn – Change of Mileage         20    01    20    12    Y     N   N   N    N   N     Y   Y    N   N   N
-GW910 CWL2 Change of Mileage – Site of Former         0     00    59    14   R1     N   N   N    N   N     Y   Y    N   N   N R1     Prohibited Between Builth Road
-           Llandovery Jn                                                     R2                                                      and Site of Former Llandovery Jn
-                                                                                                                                R2   Prohibited Llandrindod Down
-                                                                                                                                     platform
-GW910 VOT      Site of Former Llandovery Jn –         29    40    18    07    N     N   N   N    N   N Y       R1   N   N   N R1     Prohibited Llandovery Down
-               Llandeilo                                                                                                             platform
-GW910 LLA      Llandeilo – Pantyffynnon               18    07    10    08    N     N   N   N    N   N     Y   Y    N   N   N
-GW910 LLA      Pantyffynnon – Morlais Jn              10    08     3    50    N     N   N   N    N   N     Y   Y    N   N   N
-GW910 LLA      Morlais Jn – Llandeilo Jn              3     50     0    00    N     N   N   N    N   N     Y   Y    N   N   N
-GW915 GWA      Gwaun-cae-Gurwen – Former Jn           16    41    14    60    N     N   N   N    N   N     N   N    N   N   N
+GW910   CWL2   Change of Mileage – Site of Former           0    00    59    14   R1     N   N   N   N   N     Y   Y    N   N   N R1     Prohibited Between Builth Road
+               Llandovery Jn                                                      R2                                                     and Site of Former Llandovery Jn
+                                                                                                                                    R2   Prohibited Llandrindod Down
+                                                                                                                                         platform
+GW910   VOT    Site of Former Llandovery Jn –             29     40    18    07    N     N   N   N   N   N Y       R1   N   N   N R1     Prohibited Llandovery Down
+               Llandeilo                                                                                                                 platform
+GW910   LLA    Llandeilo – Pantyffynnon                   18     07    10    08    N     N   N   N   N   N     Y   Y    N   N   N
+GW910   LLA    Pantyffynnon – Morlais Jn                  10     08     3    50    N     N   N   N   N   N     Y   Y    N   N   N
+GW910   LLA    Morlais Jn – Llandeilo Jn                    3    50     0    00    N     N   N   N   N   N     Y   Y    N   N   N
+GW915   GWA    Gwaun-cae-Gurwen – Former Jn               16     41    14    60    N     N   N   N   N   N     N   N    N   N   N
                (Change of ELR)
+GW915   GNT    Former Jn (Change of ELR) –                14     60    10    04    N     N   N   N   N   N     N   N    N   N   N
+               Pantyffynnon
+GW930   CAN    Carmarthen Jn – End of Line (Beyond        245    10   245    65    N     N   N   N   N   N     Y   Y    N   N   N
+               Carmarthen Station)
+GW940   CAN/   Up Sidings No.2 GF – Carmarthen            245    43   245    32    N     N   N   N   N   N     Y   Y    N   N   N
+        CNW    Bridge Jn
+GW950   PEM    Whitland Jn – Pembroke RA Change           259    01   284    22    N     N   N   N   N   N     Y   Y    N   N   N
+GW950   PEM    Pembroke RA Change – Pembroke              284    22   286    26    N     N   N   N   N   N     Y   Y    N   N   N
+               Dock
+GW960   SWM2 Clarbeston Road – Haverfordwest              271    08   276    08    N     N   N   N   N   N     Y   Y    N   N   N
+GW960   SWM2 Haverfordwest – Change of ELR (Site of 276          08   280    70    N     N   N   N   N   N     Y   Y    N   N   N
+             Former Johnston Jn)
+GW960   MIL    Change of ELR (Site of Former              280    70   283    12    N     N   N   N   N   N     Y   Y    N   N   N
+               Johnston Jn) – Herbranston Jn
+GW960   MIL    Herbranston Jn – End of Line (Beyond       283    12   284    71    N     N   N   N   N   N     Y   Y    N   N   N
+               Milford Haven)
+GW970   GOB    Gulf Oil Branch Jn – Waterston, Gulf Oil     0    00     2    35    N     N   N   N   N   N     N   N    N   N   N
+               Refinery
+GW980   ERB    Herbrandston Jn – Robeston                   0    00     1    18    N     N   N   N   N   N     N   N    N   N   N
 
-April 2009                                                                   498M
+
+
+
+  April 2009                                                                      498M

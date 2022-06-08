@@ -1,9 +1,3 @@
-Western	0736	GW182	STA	West Drayton Jn	End of Branch (Colnbrook)	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	N	N	N	N	N
-Western	0736	GW184	WIN	Slough	Windsor & Eton Central	Slough – Windsor & Eton Central	18	36	21	19	H	N	N	N	N
-Western	0736	GW185	WBB	Maidenhead	Bourne End	Maidenhead – Bourne End	24	19	28	55	H	N	N	N	N
-Western	0736	GW185	MWB	Bourne End GF	Marlow	Bourne End GF – Marlow	0	06	2	54	H	N	N	N	N
-Western	0736	GW187	HEN	Twyford	Henley-on-Thames	Twyford – Henley-on-Thames	31	01	35	48	H	N	N	N	N
-Western	0736	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn)	Reading New Jn	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	H	N	N	N	N
 Western	0736	GW195	RLL	Reading Southern Jn	Reading East Jn	Reading Southern Jn – Reading East Jn	35	33	35	61	N	N	N	N	N
 Western	0736	GW200	DCL	Chester Line Jn	Route Boundary (MD401) (Heyford)	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	H	N	N	N	N
 Western	0736	GW220	RWC	Reading, Oxford Road Jn	Reading West Jn	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	H	N	N	N	N
@@ -12,14 +6,19 @@ Western	0736	GW240	DEC	Didcot East Jn	Didcot North Jns	Didcot East Jn – Didcot
 Western	0736	GW250	DWC	Foxhall Jn	Didcot West Curve Jn	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	H	N	N	N	N
 Western	0736	GW260	THA	Kennington Jn	Morris Cowley	Kennington Jn – Morris Cowley	18	45	16	04	N	N	N	N	N
 Western	0736	GW277	OXD	Oxford North Jn	Route Boundary (MD736) (29m 25ch)	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	H	N	N	N	N
-Western	0736	GW300	ABW	Abbotswood Jn	Norton Jn	Abbotswood Jn – Norton Jn	0	00	0	62	H	N	N	N	N
-Western	0736	GW300	OWW	Norton Jn	Shrub Hill Jn	Norton Jn – Shrub Hill Jn	117	26	120	46	H	N	N	N	N
-Western	0736	GW300	OWW	Shrub Hill Jn	Droitwich Spa Jn	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	H	N	N	N	N
-Western	0736	GW300	STO	Droitwich Spa Jn	Stoke Works Jn	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	H	N	N	N	N
-Western	0736	GW310	OWW	Wolvercot Jn	Norton Jn	Wolvercot Jn – Norton Jn	66	32	117	26	H	N	N	N	N
+Western	0736	GW310	OWW	Wolvercot Jn	Norton Jn	Wolvercot Jn – Norton Jn	66	32	112	00	H	N	N	N	N
 Western	0736	GW317	OWW	Honeybourne Stratford Line Junction	Start of branch mileage	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	N	N	N	N	N
 Western	0736	GW317	STD	Start of branch mileage	Long Marston	Start of branch mileage – Long Marston	0	00	2	70	N	N	N	N	N
-Western	0736	GW340	WAH	Shrub Hill Jn	Henwick SB (Branch Single)	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	H	N	N	N	N
-Western	0736	GW340	WAH	Henwick SB	Shelwick Jn	Henwick SB – Shelwick Jn	121	65	148	11	H	N	N	N	N
-Western	0736	GW350	BLW	Worcester Tunnel Jn	Site of former Rainbow Hill Jn Change of ELR	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	H	N	N	N	N
-Western	0736	GW350	WAH	Site of former Rainbow Hill Jn Change of ELR	Henwick SB (Droitwich Single)	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	H	N	N	N	N
+Western	0736	GW401	BAG2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	H	N	N	N	N
+Western	0736	GW401	CHL	Gloucester Barnwood Jn (Change of ELR)	Gloucester Yard Jn (Change of ELR)	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	H	N	N	N	N
+Western	0736	GW401	BGL1	Gloucester Yard Jn (Change of ELR)	Change of ELR	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	H	N	N	N	N
+Western	0736	GW401	BGL2	Change of ELR	Standish Jn	Change of ELR – Standish Jn	94	60	99	69	H	N	N	N	N
+Western	0736	GW401	BGL2	Standish Jn	Yate South Jn (Change of ELR)	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	H	N	N	N	N
+Western	0736	GW401	YAT	Yate South Jn (Change of ELR)	Westerleigh Jn	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	H	N	N	N	N
+Western	0736	GW425	SAW/ SSS	Berkeley Road Jn	Sharpness (Network Rail Boundary)	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N
+Western	0736	GW430	THO	Yate Middle Jn	Tytherington	Yate Middle Jn – Tytherington	0	00	6	24	H	N	N	N	N
+Western	0736	GW440	BGL2	Yate South Jn	Westerleigh Yard	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N
+Western	0736	GW450	FEC	Stoke Gifford Jn No.1	Change of ELR	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	H	N	N	N	N
+Western	0736	GW450	BSW	Change of ELR	Bristol East Jn	Change of ELR – Bristol East Jn	4	50	0	26	H	N	N	N	N
+Western	0736	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	H	N	N	N	N
+Western	0736	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	H	N	N	N	N

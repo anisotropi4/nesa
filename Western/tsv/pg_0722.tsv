@@ -1,11 +1,3 @@
-Western	0722	GW317	OWW	Honeybourne Stratford Line Junction	Start of branch mileage	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	N	N	N	N	N	N	N	N	N	N	N
-Western	0722	GW317	STD	Start of branch mileage	Long Marston	Start of branch mileage – Long Marston	0	00	2	70	N	N	N	N	N	N	N	N	N	N	N
-Western	0722	GW340	WAH	Shrub Hill Jn	Henwick SB (Branch Single)	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	Y	Y	N	Y	N	R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/1
-Western	0722	GW340	WAH	Henwick SB	Shelwick Jn	Henwick SB – Shelwick Jn	121	65	148	11	Y	Y	N	Y	N	R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/1
-Western	0722	GW350	BLW	Worcester Tunnel Jn	Site of former Rainbow Hill Jn Change of ELR	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	Y	Y	N	Y	N	R1	N	N	Y	Y	N	R1 Route prohibited to Class 172/1
-Western	0722	GW350	WAH	Site of former Rainbow Hill Jn Change of ELR	Henwick SB (Droitwich Single)	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	Y	Y	N	Y	N	R1	N	Y	Y	Y	N	R1 Route prohibited to Class 172/1
-Western	0722	GW370	OWW	Droitwich Spa	Route Boundary (MD430) (Kidderminster)	Droitwich Spa – Route Boundary (MD430) (Kidderminster)	126	21	130	40	Y	Y	N	Y	N	R1	N	N	Y	Y	N	R1 Route prohibited to Class 172/1
-Western	0722	GW401	BAG2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	E R1 R2 R3	Y	N	Y	N	R4	Y	Y	Y	Y	N	R1 10mph Ashchurch Up platform R2 20mph Cheltenham Spa Down platform R3 Route prohibited to Class 165/0 R4 Route prohibited to Class 172/0 and 172/1
 Western	0722	GW401	CHL	Gloucester Barnwood Jn (Change of ELR)	Gloucester Yard Jn (Change of ELR)	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	E R1	Y	N	Y	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0
 Western	0722	GW401	BGL1	Gloucester Yard Jn (Change of ELR)	Change of ELR	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	E R1	Y	N	Y	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0
 Western	0722	GW401	BGL2	Change of ELR	Standish Jn	Change of ELR – Standish Jn	94	60	99	69	E R1	Y	N	Y	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0
@@ -16,3 +8,14 @@ Western	0722	GW430	THO	Yate Middle Jn	Tytherington	Yate Middle Jn – Tytheringt
 Western	0722	GW440	BGL2	Yate South Jn	Westerleigh Yard	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N	N	N	N	N	N	N
 Western	0722	GW450	FEC	Stoke Gifford Jn No.1	Change of ELR	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
 Western	0722	GW450	BSW	Change of ELR	Bristol East Jn	Change of ELR – Bristol East Jn	4	50	0	26	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0722	GW4501	AFR	Stoke Gifford Jn No.2	Hallen Marsh Jn (Change of ELR)	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	N	R1	N	N	N	N	Y	Y	Y	Y	N	R1 Prohibited Stoke Gifford Jn No 2 - Filton West Jn
+Western	0722	GW4501	AMB	Hallen Marsh Jn (Change of ELR)	Holesmouth Jn	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	N	N	N	N	N	N	Y	Y	Y	Y	N
+Western	0722	GW4501	AMB	Holesmouth Jn	Avonmouth (Bristol Bulk Handling Terminal)	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	N	N	N	N	N	N
+Western	0722	GW451	FWC	Filton Jn No 2	Filton West Jn No.2	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	Y	Y	N	N	N	N	Y	Y	Y	Y	N
+Western	0722	GW454	AMB	Severn Beach	St Andrews Jn (Change of ELR)	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	N	Y	N	N	N	N	R1	R1	R1	R1	N	R1 Prohibited between Severn Beach Station and Holesmouth Jn
+Western	0722	GW454	CNX	St Andrews Jn (Change of ELR)	Narroways Hill Jn	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	N	Y	N	N	N	N	Y	Y	Y	Y	N
+Western	0722	GW480	SWM1	Swindon Jn	Standish Jn	Swindon Jn – Standish Jn	77	36	106	74	E R1 R2	Y	N	N	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0 R2 20mph Stroud Down platform
+Western	0722	GW490	SWM2	Gloucester Yard Jn	Horton Road Jn	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	E R1	Y	N	Y	N	N	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0
+Western	0722	GW500	BKE	Westbury Line Jn	Oxford Road Jn	Westbury Line Jn – Oxford Road Jn	36	17	36	67	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0722	GW500	BKE	Oxford Road Jn	Southcote Jn	Oxford Road Jn – Southcote Jn	36	67	37	62	Y	Y	N	Y	N	N	Y	Y	Y	Y	N
+Western	0722	GW500	BKE	Southcote Jn	Route Boundary (SW125) (Basingstoke)	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	Y	Y	N	Y	N	N	N	Y	Y	Y	N
