@@ -16,7 +16,7 @@ The downloadable NESA data is available [here](https://www.networkrail.co.uk/ind
 |[Scotland](Scotland/scotland-text.md)|[Scotland](Scotland/scotland-tsv.md)|[Scotland](Scotland/scotland-clearance.xlsx)|
 |[Western](Western/western-text.md)|[Western](Western/western-tsv.md)|[Western](Western/western-clearance.xlsx)|
 
-* Notes: South Wales data is now in `Western`, and North Wales in `London North Western North`. Kent, Sussex and Wessex data is now in the `Kent` directory.
+* Notes: South Wales data is now in `Western`, and North Wales in `London North Western North`. Kent, Sussex and Wessex data is now back in the `Kent-Sussex-Wessex` directory.
 
 
 ## Data Source
