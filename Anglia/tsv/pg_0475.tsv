@@ -1,12 +1,7 @@
-Anglia	0475	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Anglia	0475	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	8	R1	R1 Prohibited Liverpool Street platform 10
-Anglia	0475	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	8	Y
-Anglia	0475	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	8	R1	R1 Prohibited between Liverpool Street station throat and Bethnal Green West Jn on the Down Suburban line and Up Main line
-Anglia	0475	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	8	Y
-Anglia	0475	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	8	Y
-Anglia	0475	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	8	Y
-Anglia	0475	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	8	Y
-Anglia	0475	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	75	5	63	8	Y
-Anglia	0475	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	8	R1	R1 Prohibited Maryland platform 3 (Up Main line)
-Anglia	0475	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	8	R1	R1 Prohibited between Manor Park and Ilford on the Up Passenger Avoiding line
-Anglia	0475	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	8	Y
+Anglia	0475	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge									Notes
+Anglia	0475					GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12
+Anglia	0475	EA1010	Liverpool Street – Mile End	Liverpool Street	Mile End	N	Y *	N	N	N	N	N	N	N
+Anglia	0475	EA1010	Mile End – Stratford Central Jn East	Mile End	Stratford Central Jn East	N	Y *	Y	Y	R1	N	N	N	N	R1 W9 between Bow Depot Jn and Carpenters Road South Jn only
+Anglia	0475	EA1010	Stratford Central Jn East – Forest Gate Jn	Stratford Central Jn East	Forest Gate Jn	N	Y *	Y	Y	Y	N	R1	N	N	R1 W10 Prohibited on Up and Down Electric between Maryland East Crossovers and Stratford Central Jn West.
+Anglia	0475	EA1010	Forest Gate Jn – Seven Kings	Forest Gate Jn	Seven Kings	N	Y *	Y	Y	Y	N	Y	N	N
+Anglia	0475	EA1011	Seven Kings – Ipswich	Seven Kings	Ipswich	N	Y *	Y	Y	Y	N	Y	N	N

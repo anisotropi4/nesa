@@ -1,18 +1,16 @@
-Anglia	0391	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	171	172	175	180	220	221	222	Notes
-Anglia	0391	EA1230	SBR	Route Boundary (LN125) (Royston)	Shepreth Branch Jn	Route Boundary (LN125) (Royston) – Shepreth Branch Jn	45	60	55	26	N	N	N	R1	N	N	R1	R1 Must be planned as a non-stop train between Hitchin and Cambridge
-Anglia	0391	EA1270	MIT	Kings Lynn Jn	Middleton towers	Kings Lynn Jn – Middleton towers	0	22	3	44	N	N	N	N	N	N	N
-Anglia	0391	EA1270	MIT	Kings Lynn Jn	Kings Lynn Yard branch end	Kings Lynn Jn – Kings Lynn Yard branch end	0	22	0	00	N	N	N	N	N	N	N
-Anglia	0391	EA1280	SDC	Stratford Central Jn East	Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)	Stratford Central Jn East – Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)	3	76	4	45	N	R1	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
-Anglia	0391	EA1280	SDC	Temple Mills East Jn	Coppermill Jn	Temple Mills East Jn – Coppermill Jn	4	45	7	14	N	R1	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
-Anglia	0391	EA1290	TSE2	Tottenham South Jn	Change of mileage	Tottenham South Jn – Change of mileage	5	41	5	54	N	R1	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
-Anglia	0391	EA1290	TSE1	Change of mileage	South Tottenham East Jn	Change of mileage – South Tottenham East Jn	6	22	5	73	N	R1	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
-Anglia	0391	EA1300	SSL	South Tottenham West Jn	Seven Sisters Jn	South Tottenham West Jn – Seven Sisters Jn	0	13	0	00	N	N	N	N	N	N	N
-Anglia	0391	EA1310	BOK2	Camden Road West Jn	Gospel Oak Jn	Camden Road West Jn – Gospel Oak Jn	0	00	1	10	N	Y	N	E	N	N	Y
-Anglia	0391	EA1310	BOK2	Gospel Oak Jn	Kensal Green Jn	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	N	Y	N	E	N	N	Y
-Anglia	0391	EA1310	KGC	Kensal Green Jn	Route Boundary (MD155) (Harlesden Jn)	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)	0	00	0	21	N	E R1	N	E	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
-Anglia	0391	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	N	R1	N	N	N	N	N	R1 Prohibited to Class 172/2 and 172/3 when laden
-Anglia	0391	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	N	Y	N	E R1	N	N	Y	R1 Underbridge 6a Euston Local lines intersection (05m 37ch) prohibited with deflated suspension
-Anglia	0391	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	N	Y	N	N	N	N	N
-Anglia	0391	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	N	Y	N	E	N	N	Y
-Anglia	0391	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	R1	Y	N	E	N	N	Y	R1 Prohibited between Former Old Oak Jn (change of mileage) and Acton Wells Signal Box
-Anglia	0391	EA1310	BOK5	Acton Wells Jn (Connection to EA1360)	Acton Wells Jn (Connecton to GW130)	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connecton to GW130)	0	66	0	72	Y	Y	N	E	N	N	Y
+Anglia	0391	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	N	N	N	N	N	N	Y
+Anglia	0391	EA1340	LLS2	Lea Jn	High Meads Jn	Lea Jn – High Meads Jn	0	51	0	65	Y	N	N	N	N	N	N
+Anglia	0391	EA1350	CHM	Channelsea North Jn	High Meads Jn	Channelsea North Jn – High Meads Jn	0	00	0	15	Y	N	N	N	E	N	Y
+Anglia	0391	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	Y	N	N	N	E	N	Y
+Anglia	0391	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	Y	Y	Y	N	N	E	E R1	Prohibited with deflated suspension
+Anglia	0391	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	Y	Y	Y	N	N	N	Y
+Anglia	0391	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	N	N	N	N	E	E R1	R1 Prohibited with deflated suspension
+Anglia	0391	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	N	N	N	N	E R1	E	Y	R1 Route prohibited to Class 165/1
+Anglia	0391	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	N	N	N	E R1 R2	E	E R3	R1 Route prohibited to Class 165/1 R2 Prohibited with footsteps fitted R3 Prohibited with deflated suspension
+Anglia	0391	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	N	N	N	E	E R1 R2	E	Y	R1 Route prohibited to Class 165/1 R2 Prohibited with footsteps fitted
+Anglia	0391	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	N	N	N	N	E R1 R2	E	E R3	R1 Route prohibited to Class 165/1 R2 Prohibited with footsteps fitted R3 Prohibited with deflated suspension
+Anglia	0391	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD167) (Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) (Willesden West London Jn)	6	19	6	76	Y	N	N	Y	N	N	N
+Anglia	0391	EA1360	CAW	Acton Wells Jn (Change of Mileage)	Acton Wells Jn	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	Y	N	N	Y	E R1 R2	E	E R3	R1 Route prohibited to Class 165/1 R2 Prohibited with footsteps fitted R3 Prohibited with deflated suspension
+Anglia	0391	EA1370	GOJ	Gospel Oak Jn	Junction Rd Jn	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	Y	N	N	N	E	N	Y
+Anglia	0391	EA1370	JRT2	Junction Rd Jn	Route Boundary (LN3210) (Carlton Rd Jn)	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	Y	N	N	N	E	N	N
+Anglia	0391	EA1370	TAH1	Junction Rd Jn	Harringay Park Jn	Junction Rd Jn – Harringay Park Jn	2	42	4	15	Y	N	N	N	E	N	Y

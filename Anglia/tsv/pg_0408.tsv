@@ -1,20 +1,16 @@
-Anglia	0408	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0408	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	Y	N	N	N	N	Y	N	R1	N	N	R1 Prohibited Liverpool Street platforms 1 & 2
-Anglia	0408	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0408	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0408	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0408	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0408	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	Y	N	N	N	N	Y	N	R1	N	N	R1 Prohibited LTN1/52 Northern Outfall Sewer Underbridge 03m 31ch Up and Down Temple Mills line
-Anglia	0408	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0408	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	Y	N	N	N	N	Y	EH	Y	N	N
-Anglia	0408	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	Y	N	N	N	E	Y	EH R1	R2	N	N	R1 Prohibited Stratford platform 5 R2 Prohibited in crush laden condition with deflated suspension Maryland platform 1 and Forest Gate platform 1
-Anglia	0408	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	Y	N	N	N	E	Y	EH	E R1	N	N	R1 Prohibited with deflated suspension Manor Park platform 1 and Ilford platforms 2 & 3
-Anglia	0408	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	Y0	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	R1	N	N	N	N	R1	N	N	N	N	R1 If stopped at signal L789 on the down main line approaching Church Street AHBC level crossing, the maximum speed of the train shall be 50mph until the front of the train is clear of the crossing
-Anglia	0408	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0408	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	Y	N	N	N	N	Y	N	N	N	N
+Anglia	0408	EA1310	BOK5	Acton Wells Jn (Connection to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connection to GW130) – Acton Central (Limit of AC)	0	72	1	73	Y	N	N	N	N	N	H	N	N	N
+Anglia	0408	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	Y	N	N	N	N	N	H	N	N	N
+Anglia	0408	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	Y	N	N	N	N	N	H	N	N	N
+Anglia	0408	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	Y	N	N	N	N	N	H	N	N	N
+Anglia	0408	EA1320	CRC1/2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	Y	N	Y	E	Y	N	Y	N	N	N
+Anglia	0408	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	Y	N	Y	E	Y	N	Y	E	N	N
+Anglia	0408	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	Y	N	Y	E	Y	N	Y	N	N	N
+Anglia	0408	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	Y	N	Y	E	Y	N	Y	E	N	N
+Anglia	0408	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	Y	Y	Y	E	Y	Y	H	E	E	E
+Anglia	0408	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	Y	Y	Y	E	Y	Y	Y	E	E	E
+Anglia	0408	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	Y	Y	Y	N	Y	Y	Y	E	E	E
+Anglia	0408	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	Y	Y	Y	N	Y	Y	Y	E	E	E
+Anglia	0408	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	Y	Y	Y	N	Y	Y	Y	E	E	E
+Anglia	0408	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	Y	Y	Y	N	Y	Y	Y	E	E	E
+Anglia	0408	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	Y	N	N	N	N	N	H	N	N	N
+Anglia	0408	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	N	N	N	N	N	N

@@ -1,14 +1,9 @@
-Anglia	0418	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	Notes
-Anglia	0418	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	Y	Y	Y	EH	N	Y	N
-Anglia	0418	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	Y	Y	Y	EH	N	Y	N
-Anglia	0418	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	Y	Y	R1	N	N	Y	N	R1	R2 50mph Ilford platform 3 (Up Electric) emergency use only
-Anglia	0418	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	Y	Y	Y	N	N	Y	N
-Anglia	0418	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	Y	Y	R1	N	N	R1	N	R1	R2 Prohibited Harold Wood platform 3 (Up Electric) with deflated suspension
+Anglia	0418	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	N	N	N	N	Y	E	EH	E	N	E R1	R1 Prohibited Up East London and Down East London lines
+Anglia	0418	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	N	N	N	N	Y	E	EH	E	N	E
+Anglia	0418	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	N	N	N	N	Y	E	EH	E	N	E
+Anglia	0418	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	N	N	N	N	Y	E	EH	E	N	N
+Anglia	0418	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	N	N	N	N	Y	Y	EH	E	N	N
+Anglia	0418	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	N	Y	N	N	N	N	N
+Anglia	0418	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	Y	N	N	N	N	N
+Anglia	0418	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	EH R1 R2 R3 R4	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3 R4	EH R1 R2 R3 R4	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R4 Prohibited with deflated suspension R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled
+Anglia	0418	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	EH R1 R2 R3	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3	EH R1 R2 R3	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph R3 Prohibited with deflated suspension R4 Must be hauled if busline exceeds 80 metres. Shoegear isolated. R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled

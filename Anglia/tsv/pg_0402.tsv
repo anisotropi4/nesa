@@ -1,16 +1,17 @@
-Anglia	0402	EA1310	BOK5	Acton Wells Jn (Connection to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connection to GW130) – Acton Central (Limit of AC)	0	72	1	73	Y	N	N	N	N	N	H	N	N	N
-Anglia	0402	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	Y	N	N	N	N	N	H	N	N	N
-Anglia	0402	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	Y	N	N	N	N	N	H	N	N	N
-Anglia	0402	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	Y	N	N	N	N	N	H	N	N	N
-Anglia	0402	EA1320	CRC1/2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	Y	N	Y	E	Y	N	Y	N	N	N
-Anglia	0402	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	Y	N	Y	E	Y	N	Y	E	N	N
-Anglia	0402	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	Y	N	Y	E	Y	N	Y	N	N	N
-Anglia	0402	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	Y	N	Y	E	Y	N	Y	E	N	N
-Anglia	0402	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	Y	Y	Y	E	Y	Y	H	E	E	E
-Anglia	0402	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	Y	Y	Y	E	Y	Y	Y	E	E	E
-Anglia	0402	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0402	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0402	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0402	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0402	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	Y	N	N	N	N	N	H	N	N	N
-Anglia	0402	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	N	N	N	N	N	N
+Anglia	0402	EA1480	WHC 3	Change of Mileage (Site of Former Runton East Jn)	Cromer	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	N	N	N	N	N	N	N
+Anglia	0402	EA1490	CRS	Cromer Jn	Network Rail Boundary (North Norfolk Railway)	Cromer Jn – Network Rail Boundary (North Norfolk Railway)	46	27	42	69	N	N	N	N	N	N	N
+Anglia	0402	EA1500	NAY	Brundall Jn	Yarmouth Via Acle	Brundall Jn – Yarmouth Via Acle	5	72	18	29	N	N	N	N	N	N	N
+Anglia	0402	EA1500	RBY	Breydon Access No24 LC (EA1510)	Yarmouth	Breydon Access No24 LC (EA1510) – Yarmouth	19	13	20	45	N	N	N	N	N	N	N
+Anglia	0402	EA1510	RBY	Reedham Jn	Breydon Access No24 LC	Reedham Jn – Breydon Access No24 LC	12	34	19	13	N	N	N	N	N	N	N
+Anglia	0402	EA1520	SIZ	Saxmundham Jn	Sizewell	Saxmundham Jn – Sizewell	91	40	95	79	N	N	N	N	N	N	N
+Anglia	0402	EA1530	CCH	Coldham Lane Jn	Haughley Jn	Coldham Lane Jn – Haughley Jn	0	23	40	49	N	N	N	N	N	N	N
+Anglia	0402	EA1540	SOB1	Chippenham Jn	Site of Former Snailwell Jn	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	N	N	N	N	N	N	N
+Anglia	0402	EA1540	SOB2	Site of Former Snailwell Jn	Ely Dock Jn	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	N	N	N	N	N	N	N
+Anglia	0402	EA1550	EWC	Ely North Jn	Ely West Jn (Ely West Curve)	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	N	N	N	N	N	N	N
+Anglia	0402	EA1560	EMP	Ely North Jn	Ely West Jn	Ely North Jn – Ely West Jn	71	63	72	39	N	N	N	Y	N	N	Y
+Anglia	0402	EA1560	EMP	Ely West Jn	Route Boundary (LN135) (Peterborough)	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	N	N	N	R1	N	N	R1	R1 Must be planned as a non-stop train between Cambridge and Peterborough
+Anglia	0402	EA1570	WIG	March East Jn	Whitemoor Jn	March East Jn – Whitemoor Jn	85	78	86	18	N	N	N	N	N	N	N
+Anglia	0402	EA1570	MWL	March West Jn	Whitemoor Jn	March West Jn – Whitemoor Jn	0	00	0	13	N	N	N	N	N	N	N
+Anglia	0402	EA1570	WIG	Whitemoor Jn	Wisbech	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	Line out of use (temporarily)
+Anglia	0402	EA1580	ETN	Ely North Jn	Trowse Jn	Ely North Jn – Trowse Jn	71	72	123	00	N	N	N	N	N	N	Y
+Anglia	0402	EA1744	BFC	Europa Jn	Boss Hall Jn	Europa Jn – Boss Hall Jn	0	00	0	63	N	N	N	N	N	N	N

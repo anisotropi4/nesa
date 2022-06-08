@@ -1,20 +1,15 @@
-Anglia	0404	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	N	Y	Y	N	Y	Y	H	E	N	N
-Anglia	0404	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	N	N	N	N	N	N	N	N	N
-Anglia	0404	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	N	N	N	N	N	N	N	N	N	N
-Anglia	0404	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	N	N	N	N	N	N	N	N	N
-Anglia	0404	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	N	N	N	N	N	N	N	N	N	N
-Anglia	0404	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	N	N	N	N	N	N	N	N	N	N
-Anglia	0404	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD167) (Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) (Willesden West London Jn)	6	19	6	76	Y	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1360	CAW	Acton Wells Jn (Change of Mileage)	Acton Wells Jn	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	Y	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	GOJ	Gospel Oak Jn	Junction Rd Jn	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	JRT2	Junction Rd Jn	Route Boundary (LN3210) (Carlton Rd Jn)	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	TAH1	Junction Rd Jn	Harringay Park Jn	Junction Rd Jn – Harringay Park Jn	2	42	4	15	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	HPW	Harringay Park Jn	Route Boundary (LN165) (Harringay Jn)	Harringay Park Jn – Route Boundary (LN165) (Harringay Jn)	0	25	0	14	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	TAH1	Harringay Park Jn	South Tottenham West Jn	Harringay Park Jn – South Tottenham West Jn	4	15	5	65	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	TAH1	South Tottenham West Jn	South Tottenham East Jn	South Tottenham West Jn – South Tottenham East Jn	5	65	5	73	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	TAH2	South Tottenham East Jn	Woodgrange Park Jn	South Tottenham East Jn – Woodgrange Park Jn	5	73	11	79	N	N	N	N	N	N	H	N	N	N
-Anglia	0404	EA1370	TAH3	Woodgrange Park Jn	Barking Station Jn	Woodgrange Park Jn – Barking Station Jn	11	79	13	12	N	N	Y	N	N	N	H	E	Y	Y
-Anglia	0404	EA1370	TAH3	Barking Station Jn	Barking Tilbury Jn West	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	N	N	Y	N	N	N	H	E	Y	Y
-Anglia	0404	EA1370	TAH4	Barking Station Jn	Barking Platform 1	Barking Station Jn – Barking Platform 1	13	12	13	62	N	N	N	N	N	N	H	N	N	N
+Anglia	0404	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	325	345	357	357 MOD	Notes
+Anglia	0404	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	Y	Y	Y	N	Y	Y	H	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	Y	Y	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	Y	Y	Y	N	Y	Y	Y	Y	Y	Y
+Anglia	0404	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	Y	Y	Y	N	Y	Y	Y	Y	E R1	R1	R1 Prohibited Ilford platform 3
+Anglia	0404	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	R1	Y	Y	N	Y	Y	Y	Y	N	R2	R1 Prohibited with shoe gear fitted R2 Prohibited Seven Kings platforms 1 and 2 (Down Main) – with deflated suspension
+Anglia	0404	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	R1	Y	Y	N	Y	Y	Y	Y	N	Y	R1 Prohibited with shoe gear fitted
+Anglia	0404	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	R1	Y	Y	N	Y	Y	Y	Y	N	R2 R3	R1 Prohibited with shoe gear fitted R2 Prohibited Gidea Park platform 1 and 50mph through platform 2 with deflated suspension R3 Prohibited Brentwood Station platform 3 (Up Electric Line)
+Anglia	0404	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	R1	Y	Y	N	Y	Y	Y	N	N	N	R1 Prohibited with shoe gear fitted

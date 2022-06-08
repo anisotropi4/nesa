@@ -1,21 +1,3 @@
-Anglia	0460	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	8	Y	Y	Y	Y	N	N
-Anglia	0460	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	8	Y	Y	Y	Y	N	N•
-Anglia	0460	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	8	Y	Y	Y	Y	N	N
-Anglia	0460	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	8	Y	Y	Y	Y	N	N
-Anglia	0460	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	8	Y	Y	Y	Y	N	Y
-Anglia	0460	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	8	Y	Y	Y	Y	N	N
-Anglia	0460	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	6	Y	N	N	N	N	N
-Anglia	0460	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	6	N	N	N	N	N	N
-Anglia	0460	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1100	STB	Colne Jn	Colchester Town	Colne Jn – Colchester Town	53	30	53	76	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1110	TWN	Thorpe-Le-Soken Jn	Walton-On- Naze	Thorpe-Le-Soken Jn – Walton-On- Naze	65	19	70	15	7	Y	Y	Y	Y	N	N
-Anglia	0460	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	8	Y	Y	Y	Y	N	Y
-Anglia	0460	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	8	Y	Y	Y	Y	N	N
-Anglia	0460	EA1120	MAH	Manningtree East Jn	Harwich International Port	Manningtree East Jn – Harwich International Port	59	67	68	72	8	Y	Y	Y	Y	N	Y
-Anglia	0460	EA1120	MAH	Harwich International Port	Harwich town	Harwich International Port – Harwich town	68	72	70	61	8	Y	Y	Y	Y	N	Y
-Anglia	0460	EA1130	GRW	Halifax Jn	Griffin Wharf Boundary	Halifax Jn – Griffin Wharf Boundary	0	00	0	47	8	H	H	Y	H	N	N
-Anglia	0460	EA1150	CST	Channelsea South Jn	Stratford Central Jn West	Channelsea South Jn – Stratford Central Jn West	0	29	0	00	8	Y	Y	Y	Y	N	Y
+Anglia	0460	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	8	N	N	N	N	N	N	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode
+Anglia	0460	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	8	E R2 R5 R6	N	E R2 R7 R8	N	N	E R2 R5 R6	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 Train not to enter Dalston Junction platform 2 or 3 R4 15mph through platforms and not to exceed 20mph on the Infrastructure. Prohibited in diesel mode R5 Prohibited North of EL264 (5M9Ch) R6 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R7 Not to exceed 5mph R8 Prohibited north of Surrey Quays Portal (4M 38Ch)
+Anglia	0460	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	8	E R2 R5	N	E R2 R6	N	N	E R2 R5	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode R5 Not to exceed 25mph R6 Not to exceed 5mph

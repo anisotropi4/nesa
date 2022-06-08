@@ -1,7 +1,23 @@
-Anglia	0455	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	8	E R2 R5	N	E R2 R6	N	N	E R2 R5	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode R5 Not to exceed 25mph, 5mph through station platform and 10mph on section Canal Jn-131points (DN) R6 Not to exceed 5mph
-Anglia	0455	EA1325	ELL2	Canal Jn	Lewisham (TFL Infrastructure)	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	8	N	N	R2 R6	N	N	N	R1 R2 R3 R4 R5	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Not to enter New Cross station platform (details contained in STN) R5 Prohibited in diesel mode R6 Not to exceed 5mph
-Anglia	0455	EA1327	ELL3	Silwood Jn	ELL/Network Rail Boundary (TFL Infrastructure)	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	8	N	N	R1 R2	N	N	N	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice Not to exceed 5mph
-Anglia	0455	EA1327	ELL4	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	8	N	N	Y	N	N	N	N	N	N
-Anglia	0455	EA1330	BOK 5	South Acton Jn	Kew East Jn	South Acton Jn – Kew East Jn	2	52	3	27	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1330	NKE1	Kew East Jn	Route Boundary (SW230) (New Kew Jn)	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0455	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	MPV	Notes
+Anglia	0455	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	8	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1 Liverpool Street platforms 8-10 diesel traction see Sectional Appendix Local Instructions
+Anglia	0455	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	8	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1 Liverpool Street platforms 10-18 diesel traction see Sectional Appendix Local Instructions
+Anglia	0455	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Anglia	0455	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	8	Y	Y	Y	Y	Y	Y	Y	Y	Y

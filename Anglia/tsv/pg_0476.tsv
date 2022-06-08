@@ -1,28 +1,30 @@
-Anglia	0476	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Anglia	0476	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	8	Y
-Anglia	0476	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	8	R1	R1 Prohibited Harold Wood platform 3 (Up Electric line)
-Anglia	0476	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	8	Y
-Anglia	0476	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	8	Y
-Anglia	0476	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	8	R1 R2	R1 Prohibited Colchester platform 3 (Up Main line) R2 Prohibited Colchester platform 6 (Up Bay line)
-Anglia	0476	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	8	R1	R1 Prohibited Manningtree Down Refuge Siding (former platform 4)
-Anglia	0476	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	8	Y
-Anglia	0476	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	8	Y
-Anglia	0476	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	8	Y
-Anglia	0476	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	8	Y
-Anglia	0476	EA1013	LTN2	Trowse Jn	Trowse Swing Bridge	Trowse Jn – Trowse Swing Bridge	123	00	123	37	8	Y
-Anglia	0476	EA1013	NCW	Trowse Swing Bridge	Wensum Jn (EA1470/ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	Trowse Swing Bridge – Wensum Jn (EA1470/ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	8	Y
-Anglia	0476	EA1013	LTN2	Trowse Swing Bridge	Norwich	Trowse Swing Bridge – Norwich	123	37	124	09	8	R1	R1 Prohibited Norwich Royal Dock No 1
-Anglia	0476	EA1020	CNS	Carpenters Rd South Jn	Carpenters Rd North Jn	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	8	Y
-Anglia	0476	EA1030	FGW	Forest Gate Jn	Woodgrange Park Jn	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	8	Y
-Anglia	0476	EA1040	ROU	Romford	Upminster	Romford – Upminster	0	00	3	30	8	Y
-Anglia	0476	EA1050	SSV	Shenfield Jn	Southend Victoria	Shenfield Jn – Southend Victoria	20	22	41	42	7	Y
-Anglia	0476	EA1060	WIS	Wickford Jn	Southminster	Wickford Jn – Southminster	29	13	45	42	7	Y
-Anglia	0476	EA1070	BRA	Witham	Braintree	Witham – Braintree	24	15	17	71	6	Y
-Anglia	0476	EA1080	SUD	Marks Tey Jn	Sudbury	Marks Tey Jn – Sudbury	45	53	58	32	6	Y
-Anglia	0476	EA1090	COC	Colchester Jn	Clacton	Colchester Jn – Clacton	52	28	69	56	7	Y
-Anglia	0476	EA1100	STB	East Gate Jn	Colne Jn	East Gate Jn – Colne Jn	53	14	53	30	7	Y
-Anglia	0476	EA1100	CTH	Hythe Jn	Colne Jn	Hythe Jn – Colne Jn	0	22	0	00	7	Y
-Anglia	0476	EA1100	STB	Colne Jn	Colchester town	Colne Jn – Colchester town	53	30	53	76	7	Y
-Anglia	0476	EA1110	TWN	Thorpe-le-Soken Jn	Walton-On- Naze	Thorpe-le-Soken Jn – Walton-On- Naze	65	19	70	15	7	Y
-Anglia	0476	EA1120	MAH	Manningtree South Jn	Manningtree East Jn	Manningtree South Jn – Manningtree East Jn	59	35	59	67	8	Y
-Anglia	0476	EA1120	NTE	Manningtree North Jn	Manningtree East Jn	Manningtree North Jn – Manningtree East Jn	0	00	0	24	8	Y
+Anglia	0476	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge									Notes
+Anglia	0476					GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12
+Anglia	0476	EA1012	Ipswich – Trowse Jn	Ipswich	Trowse Jn	N	Y *	Y	Y	Y	N	R1	N	N	R1 W10 Between Ipswich and Haughley Jn only.
+Anglia	0476	EA1013	Trowse Jn – Norwich	Trowse Jn	Norwich	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0476	EA1013	Trowse Swing Bridge – Wensum Jn (EA1470) via Wensum Curve	Trowse Swing Bridge	Wensum Jn (EA1470) via Wensum Curve	N	Y	Y	Y	N	N	N	N	N
+Anglia	0476	EA1020	Carpenters Rd South Jn – Carpenters Rd North Jn	Carpenters Rd South Jn	Carpenters Rd North Jn	N	Y	Y	Y	Y	N	N	N	N
+Anglia	0476	EA1030	Forest Gate Jn – Woodgrange Park Jn	Forest Gate Jn	Woodgrange Park Jn	N	Y	Y	Y	Y	N	Y	N	N
+Anglia	0476	EA1040	Romford – Upminster	Romford	Upminster	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1050	Shenfield Jn – Southend Victoria	Shenfield Jn	Southend Victoria	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1060	Wickford Jn – Southminster	Wickford Jn	Southminster	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1070	Witham – Braintree	Witham	Braintree	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1080	Marks Tey Jn – Sudbury	Marks Tey Jn	Sudbury	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1090	Colchester Jn – Clacton	Colchester Jn	Clacton	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1100	East Gate Jn & Hythe Jn – Colchester town	East Gate Jn & Hythe Jn	Colchester town	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1110	Thorpe-Le-Soken – Walton-On-Naze	Thorpe-Le-Soken	Walton-On-Naze	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1120	Manningtree (North & South Jns) – Harwich town	Manningtree (North & South Jns)	Harwich town	N	Y *	Y	Y	N	N	Y	N	N
+Anglia	0476	EA1130	Griffin Wharf Branch	Griffin Wharf Branch		N	Y	Y	Y	Y	N	Y	N	N
+Anglia	0476	EA1150	Channelsea South Jn – Stratford Central Jn West	Channelsea South Jn	Stratford Central Jn West	N	Y	Y	Y	Y	N	Y	N	N
+Anglia	0476	EA1160	Bethnal Green East Jn – Coppermill Jn	Bethnal Green East Jn	Coppermill Jn	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0476	EA1160	Coppermill Jn – Tottenham South Jn	Coppermill Jn	Tottenham South Jn	N	Y	Y	Y	Y	N	Y	N	N
+Anglia	0476	EA1160	Tottenham South Jn – Bishops Stortford	Tottenham South Jn	Bishops Stortford	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0476	EA1161	Bishops Stortford – Ely Dock Jn	Bishops Stortford	Ely Dock Jn	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0476	EA1161	Ely Dock Jn – Ely North Jn	Ely Dock Jn	Ely North Jn	N	Y *	Y	Y	Y	N	Y	N	N
+Anglia	0476	EA1162	Ely North Jn – Kings Lynn	Ely North Jn	Kings Lynn	N	Y	Y	Y	N	N	N	N	N
+Anglia	0476	EA1170	Hackney Downs North Jn – Bury Street Jn	Hackney Downs North Jn	Bury Street Jn	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0476	EA1180	Reading Lane Jn – Navarino Road Jn (Graham Rd. Curve)	Reading Lane Jn	Navarino Road Jn (Graham Rd. Curve)	N	Y	N	N	N	N	N	N	N
+Anglia	0476	EA1190	Bury Street Jn – Cheshunt Jn	Bury Street Jn	Cheshunt Jn	N	Y *	Y	Y	N	N	N	N	N
+Anglia	0476	EA1200	Clapton Jn – Chingford	Clapton Jn	Chingford	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1210	Broxbourne Jn – Hertford East	Broxbourne Jn	Hertford East	N	Y *	N	N	N	N	N	N	N
+Anglia	0476	EA1220	Stansted (South & North Jns) – Stansted Airport	Stansted (South & North Jns)	Stansted Airport	N	Y *	N	N	N	N	N	N	N

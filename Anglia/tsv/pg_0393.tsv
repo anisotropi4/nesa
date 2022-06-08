@@ -1,12 +1,26 @@
-Anglia	0393	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	E R1 R2 R3 R4	E R1 R2 R3 R4	N	N	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) Prohibited with deflated suspension
-Anglia	0393	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	E R1 R2 R3	E R1 R2 R3	N	N	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph Prohibited with deflated suspension
-Anglia	0393	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	E R1 R2 R3	E R1 R2 R3	N	N	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph, 5mph through station platform and 10mph on section Canal Jn- 131points (DN)) Prohibited with deflated suspension
-Anglia	0393	EA1325	ELL2	Canal Jn	Lewisham (TFL Infrastructure)	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	N	N	N	N	N	N	N
-Anglia	0393	EA1327	ELL3	Silwood Jn	ELL/Network Rail Boundary (TFL Infrastructure)	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	N	N	N	N	N	N	N
-Anglia	0393	EA1327	ELL4	ELL/Network Rail Boundary	Old Kent Road Jn (SO680)	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	N	N	N	N	N	N	N
-Anglia	0393	EA1330	BOK 5	South Acton Jn	Kew East Jn	South Acton Jn – Kew East Jn	2	52	3	27	N	N	N	N	N	N	N
-Anglia	0393	EA1330	NKE1	Kew East Jn	Route Boundary (SW230) (New Kew Jn)	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	N	N	N	N	N	N	N
-Anglia	0393	EA1330	BOK5	Kew East Jn	Route Boundary (SW230) (Old Kew Jn)	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	N	N	N	N	N	N	N
-Anglia	0393	EA1340	LLS2	Lea Jn	High Meads Jn	Lea Jn – High Meads Jn	0	51	0	65	N	N	N	N	N	N	N
-Anglia	0393	EA1350	CHM	Channelsea North Jn	High Meads Jn	Channelsea North Jn – High Meads Jn	0	00	0	15	N	N	N	N	N	N	N
-Anglia	0393	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	N	N	N	N	N	N	N
+Anglia	0393	EA1440	FEL	Felixstowe Beach Jn	Felixstowe town	Felixstowe Beach Jn – Felixstowe town	83	57	84	30	Y	Y	Y	N	N	N	Y
+Anglia	0393	EA1450	TFN	Trimley	Port of Felixstowe North Quay Terminal	Trimley – Port of Felixstowe North Quay Terminal	0	00	0	18	N	N	N	N	N	N	N
+Anglia	0393	EA1460	FED	Felixstowe Beach Jn	Felixstowe Beach	Felixstowe Beach Jn – Felixstowe Beach	83	57	86	34	N	N	N	N	N	N	N
+Anglia	0393	EA1470	NOL	Thorpe Jn	Limit of Electrification	Thorpe Jn – Limit of Electrification	0	09	0	79	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1470	NOL	Limit of Electrification	Reedham Jn	Limit of Electrification – Reedham Jn	0	79	12	34	Y	R1	Y	Y	N	N	Y	R1 Prohibited Cantley Down platform with deflated suspension
+Anglia	0393	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1480	WHC1	Whitlingham Jn	North Walsham (End of Station Loop)	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1480	WHC1	North Walsham (End of Station Loop)	Change of Mileage (Site of Former Roughton Road Jn)	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1480	WHC2	Change of Mileage (Site of Former Roughton Road Jn)	Change of Mileage (Site of Former Runton East Jn)	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1480	WHC3	Change of Mileage (Site of Former Runton East Jn)	Cromer	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	Y	R1	Y	Y	N	N	Y	R1 Prohibited Cromer platform 1 with deflated suspension
+Anglia	0393	EA1490	CRS	Cromer Jn	Network Rail Boundary (North Norfolk Railway)	Cromer Jn – Network Rail Boundary (North Norfolk Railway)	46	27	42	69	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1500	NAY	Brundall Jn	Yarmouth Via Acle	Brundall Jn – Yarmouth Via Acle	5	72	18	29	Y	R1	Y	Y	N	N	Y	R1 Prohibited Yarmouth platform 2
+Anglia	0393	EA1500	RBY	Breydon Access No24 LC (EA1510)	Yarmouth	Breydon Access No24 LC (EA1510) – Yarmouth	19	13	20	45	Y	R1	Y	Y	N	N	Y	R1 Prohibited Yarmouth platform 2
+Anglia	0393	EA1510	RBY	Reedham Jn	Breydon Access No24 LC	Reedham Jn – Breydon Access No24 LC	12	34	19	13	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1520	SIZ	Saxmundham Jn	Sizewell	Saxmundham Jn – Sizewell	91	40	95	79	N	N	N	N	N	N	N
+Anglia	0393	EA1530	CCH	Coldham Lane Jn	Haughley Jn	Coldham Lane Jn – Haughley Jn	0	23	40	49	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1540	SOB1	Chippenham Jn	Site of Former Snailwell Jn	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1540	SOB2	Site of Former Snailwell Jn	Ely Dock Jn	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1550	EWC	Ely North Jn	Ely West Jn (Ely West Curve)	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1560	EMP	Ely North Jn	Ely West Jn	Ely North Jn – Ely West Jn	71	63	72	39	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1560	EMP	Ely West Jn	Route Boundary (LN135) (Peterborough)	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1570	WIG	March East Jn	Whitemoor Jn	March East Jn – Whitemoor Jn	85	78	86	18	N	N	N	N	N	N	N
+Anglia	0393	EA1570	MWL	March West Jn	Whitemoor Jn	March West Jn – Whitemoor Jn	0	00	0	13	N	N	N	N	N	N	N
+Anglia	0393	EA1570	WIG	Whitemoor Jn	Wisbech	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	Line out of use (temporarily)
+Anglia	0393	EA1580	ETN	Ely North Jn	Trowse Jn	Ely North Jn – Trowse Jn	71	72	123	00	Y	Y	Y	Y	N	N	Y
+Anglia	0393	EA1744	BFC	Europa Jn	Boss Hall Jn	Europa Jn – Boss Hall Jn	0	00	0	63	Y	Y	Y	N	N	N	Y
