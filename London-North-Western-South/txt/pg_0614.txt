@@ -1,51 +1,52 @@
-                                                                            OFFICIAL
+                                                                                   OFFICIAL
 
 
-                                                       LNW South Route Sectional Appendix Module LNW(S) RC
+                                                              LNW South Route Sectional Appendix Module LNW(S) RC
+Line of ELR Line of Route / Sector Description           oooo oooo oooo oooo RA          86      87     88      90    91    92 Notes
+route                                                     M Ch M         Ch ooo         ooo     ooo            ooo   ooo   ooo ooooooooooooooooooooooo
+                                                                                                                               oooo
+MD120   CWJ Harrow and Wealdstone (Sand Drag) –          11    46    17   58      8      N       N       Y      N    N     N
+             Watford Jn (DC Lines)
+MD130   WSA Watford Junction – St Albans Abbey            0    00    6    45      7       Y      Y       Y      Y    N     N
+MD136   WCL Harlesden Jn – Railnet Jn                     1    00    1    11      8       Y      Y       Y      Y    H     N
+MD136   WCL Railnet Jn – Willesden Carriage Shed South    1    11    2    00      8       Y      Y       Y      Y    H     N
+MD136   WCL Willesden Carriage Shed South –               2    00    2    60      8       Y      Y       Y      Y    H     N
+             Connection with Yard line
+MD136   WEF1 Connection with Yard line – Wembley          2    60    2    76      8       Y      Y       Y      Y    H     N
+             Central Jn
+MD137   WCL Harlesden Jn – Railnet Jn                     1    00     1   11      8       Y      Y       Y       Y   H     N
+MD140   LEC1 Bletchley South Jn – Bletchley North Jn     46    41    46   59      8      EH     EH       Y      EH   N     N
+             (Change of Mileage)
+MD140   BBM Bletchley North Jn (Change of Mileage) –      0    11    0    21      8      EH     EH       Y      EH   N     N
+             Limit of electrification (Bletchley TMD)
+MD140   BBM Limit of electrification (Bletchley TMD) –    0    21    16   07      8      N       N       Y      N    N     N
+             Route Boundary (LN3140) (Bedford)
+MD145   CRC2 Route Boundary (EA1320) (Camden Road         5    42    5    78      8       Y      Y       Y      Y    N     Y
+             West Jn) – Camden Jn (North DC lines)
+MD150   KGW Route Boundary (EA1310) (Kensal Green         5    25    5    36      8      N       N       Y      N    N     N
+             Jn) – Willesden Suburban Jn
+MD155   KGC Route Boundary (EA1310) (Kensal Green         0    21    1    00      8       Y      Y       Y      Y    H     Y
+             Jn) – Harlesden Jn
+MD160   WMB Route Boundary (EA1310) (Willesden High       0    09    0    00      8       Y      Y       Y      Y    N     Y
+             Level Jn) – Mitre Bridge Jn
+MD166   WLL Route Boundary (SO250) (North Pole Jn) –      5    65    5    67      8       Y      Y       Y      Y    H     R1   R1   15mph when operating in AC
+             Mitre Bridge Jn                                                                                                         mode
+MD166   WLL Mitre Bridge Jn – West London Jn              5    67    6    19      8       Y      Y       Y      Y    N     R1   R1   15mph between Mitre Bridge
+             (Willesden)                                                                                                             Jn and West London Jn
+MD166    LLG West London Jn (Willesden) – Wembley         0    12    2    59      8       Y      Y       Y      Y    N     Y
+             Central Jn (Willesden Relief lines)
+MD167   WLL Mitre Bridge Jn – West London Jn              5    67    6    19      8       Y      Y       Y      Y    N     R1   R1   15mph between Mitre Bridge
+             (Willesden)                                                                                                             Jn and West London Jn
+MD167   WAW West London Jn (Willesden) – Route            6    19    6    76      8      N       N       Y      N    N     N
+             Boundary (EA1360) (Acton Wells)
+MD170   ACW Route Boundary (EA1360) (Acton Canal          0    11    0    00      8      H       H       Y      H    N     N
+             Wharf Jn) – Willesden Jn
+MD175   BPH Bridge Street LC – Site of Former Bridge      4    56    4    29      8      N       N       Y      N    N     N    Line out of use
+             Street Jn                                                                                                          NC/G1/2014/LNW443v2
+MD175   BDN Site of Former Bridge Street Jn – Site of     0    00    0    18      8      N       N       Y      N    N     N    Line out of use
+             Former Duston North Jn                                                                                             NC/G1/2014/LNW443v2
+MD175   NMH Site of Former Duston North Jn –              0    29    0    65      8      N       N       Y      N    N     N    Line out of use
+             Northampton South Jn                                                                                               NC/G1/2014/LNW443v2
+MD180    RTS Rugby Trent Valley Jn – New Bilton           0    00    0    79      7      N       N       Y      N    N     N
 
-
-
- Line of Line of Route / Sector                                                Gauge                                    Notes
- route Description                          W6a   W7          W8          W9       W9Plus      W10       W10A    W12
-MD101    London Euston – West London        Y*    R1           R1         R1           N        R1           N    N    R1   Applies only to traffic operating over
-         Junction (Willesden)                                                                                               the Slow lines between Camden
-                                                                                                                            Junction (to / from the Primrose Hill
-                                                                                                                            lines [MD145]) and West London
-                                                                                                                            Junction (Willesden).
-MD101    West London Junction (Willesden)   Y*    Y            Y           Y           N         Y           N    N
-         – Rugby Trent Valley Junction
-MD101    Rugby Trent Valley Junction –      Y*    Y            Y           Y           N         Y           N    N
-         Armitage Junction (Exclusive)
-MD101    West London Junction (Willesden)    Y    Y            Y           Y           N         Y           N    N
-         – Sudbury Junction (Willesden
-         Relief Lines)
-MD101    Harlesden Junction – Sudbury       Y*    Y            Y           Y           N         Y           N    N
-         Junction (Brent Reception &
-         Departure Lines)
-MD105    Hanslope Junction – Rugby via      Y*    Y            Y           Y           N         Y           N    N
-         Northampton
-MD120    Camden Junction – Willesden        R1*   N            N           N           N         N           N    N    R1   Only L.U.L trains may operate
-         Suburban Junction (DC Lines)                                                                                       between Queens Park Jn and the
-                                                                                                                            NR/LUL boundary on the connecting
-                                                                                                                            lines to/from Queens Park LUL lines
-MD120    Willesden Suburban Junction –      Y*    N            N           N           N         N           N    N
-         Watford Junction (DC Lines)
-MD130    Watford Junction – St Albans       Y*    N            N           N           N         N           N    N
-         Abbey
-MD136    Harlesden Jn – Railnet Jn           Y    Y            Y           Y           N         Y           N    N
-MD136    Railnet Jn – Willesden Carriage     Y    N            N           N           N         N           N    N
-         Shed South
-MD136    Willesden Carriage Shed South –     Y    N            N           N           N         N           N    N
-         Connection with Yard line
-MD136    Willesden Carriage Shed South –     Y    N            N           N           N         N           N    N
-         Connection with Yard line
-MD136    Connection with Yard line –         Y    Y            Y           Y           N         Y           N    N
-         Wembley Central Jn
-MD137    Harlesden Jn – Railnet Jn           Y    Y            Y           Y           N         Y           N    N
-MD137    Railnet Jn – Wembley Yard South     Y    Y            Y           Y           N         Y           N    N
-         Jn
-
-
-
-
-December 2009                                                                    44
+December 2009                                                                          42E

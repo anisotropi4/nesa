@@ -3,44 +3,44 @@
 
                                                                  LNW South Route Sectional Appendix Module LNW(S) RC
 
-MD460   SJT1    Kineton MOD Branch – Burton Dassett         22   60    25   60   Y     Y     Y     N     N     N       N   N   N
-                (MOD Kineton)
-MD501   DBP1    Route Boundary (LN3501) (London             23   30    29   39   Y     Y     Y     EH    N     Y       N   N   N
-                Road Jn) – Kingsbury Jn
-MD501   DBP2    Kingsbury Jn – Water Orton East Jn          29   39    33   22   Y     Y     Y     EH    N     Y       N   N   N
-MD501   DBP3    Water Orton East Jn (Change of              34   43    40   60   Y     Y     Y     EH    N     Y       N   N   N
-                Mileage) – Landor Street Jn
-MD501   DBP3    Landor Street Jn – Proof House Jn           40   60    41   51   Y     Y     Y     EH    N     Y       N   N   N   R1   Prohibited between Landor St
-                                                                                                   R1                                   and Grand Jn
-MD545   KJW     Kingsbury Jn – Whitacre Jn (Change of       29   39    31   69   Y     Y     Y     EH    N     Y       N   N   N
-                Mileage)
-MD555   NWO     Nuneaton North Junction – Lmit of           10   18    10   00   Y     Y     Y     N     N     N       N   N   N
-                Electrification
-MD555   NWO     Limit of Electrification – Whitacre West    10   00    0    00   Y     Y     Y     N     N     N       N   N   N
-                Junction
-MD555   DBP3    Whitacre West Jn – Water Orton East         31   69    34   43   Y     Y     Y     EH    N     Y       N   N   N
+Line of ELR     Line of Route / Sector                     oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+route           Description                                 M Ch M Ch ooo ooo ooo (MOD) DVT DVT ooo ooo ooo oooooooooooooooooooooooo
+                                                                                           ooo ooo (MOD)            ooo
+MD105   HNR     Northampton South Jn – Northampton          65   55   66    12   Y     Y        Y   N    Y     Y       N   Y   Y
+                North Jn
+MD105   HNR     Northampton North Jn – Rugby South          66   12   83    54   Y     Y        Y   N    Y     Y       N   Y   Y
                 Jn
-MD560   WOP     Water Orton West Jn – Park Lane             35   15    36   04   Y     Y     Y     N     N     N       N   N   N
-                Change of ELR
-MD560   CBR2    Park Lane Change of ELR – Park Lane         36   04    36   15   Y     Y     Y     N     N     N       N   N   N
-                Jn
-MD565   CBR1    Castle Bromwich Jn – Park Lane Jn           0    55    0    00   Y     Y     Y     N     N     N       N   N   N
-MD565   CBR2    Park Lane Jn – Ryecroft Jn                  36   04    47   48   Y     Y     Y     N     N     N       N   N   N
-MD570   LSS     Landor Street Jn – St Andrews Jn            40   60    41   18   Y     Y     Y     EH    N     Y       N   N   N
-MD570   SKN     St Andrews Jn – Bordesley Jn                41   18    41   44   Y     Y     Y     Y     N     Y       N   N   N
-MD570   SKN     Bordesley Jn – Kings Norton Jn (Camp        41   44    46   77   Y     Y     Y     N     N     N       N   N   N
-                Hill Lines)
-MD575   SAG     St Andrews Jn – Grand Jn                    0    00    0    52   Y     Y     Y     Y     N     Y       N   N   N
-MD580   LEL     Lifford East Jn – Lifford West Jn           46   11    46   36   Y     Y     Y     N     N     N       N   N   N
-MD701   MCJ1    London Marylebone – Neasden South          205   77   200   65   Y     Y     Y     Y     N     Y       N   N   N
+MD120   CWJ     Camden Jn DC lines (Down DC line             1   36    3    01   Y     Y        Y   N    N     N       N   N   N
+                mileage) – Kilburn High Road (DC
+                Lines)
+MD120   CWJ     Kilburn High Road – Willesden                3   01    5    28   Y     Y        Y   N    N     N       N   N   N
+                Suburban Jn (DC Lines)
+MD120   CWJ     Willesden Suburban Jn – Harrow and           5   28   11    46   Y     Y        Y   N    N     N       N   N   N
+                Wealdstone (Sand Drag) (DC Lines)
+MD120   CWJ     Harrow and Wealdstone (Sand Drag) –         11   46   17    58   Y     Y        Y   N    N     N       N   N   N
+                Watford Jn (DC Lines)
+MD130   WSA     Watford Junction – St Albans Abbey           0   00    6    45   Y     Y        Y   N    N     N       N   N   N
+MD136   WCL     Harlesden Jn – Railnet Jn                    1   00    1    11   Y     Y        Y   N    Y     Y       N   Y   N
+MD136   WCL     Railnet Jn – Willesden Carriage Shed         1   11    2    00   Y     Y        Y   N    Y     Y       N   Y   N
+                South
+MD136   WCL     Willesden Carriage Shed South –              2   00    2    60   Y     Y        Y   N    Y     Y       N   Y   N
+                Connection with Yard line
+MD136   WEF1 Connection with Yard line – Wembley             2   60    2    76   Y     Y        Y   N    Y     Y       N   N   N
+             Central Jn
+MD137   WCL     Harlesden Jn – Railnet Jn                    1   00    1    11   Y     Y        Y   N    Y     Y       N   Y   N
+MD137   UHL     Railnet Jn – Wembley Yard South Jn           1   11    1    62   Y     Y        Y   N    Y     Y       N   Y   N
+MD137   WEF1 Wembley Yard South Jn – Wembley                 1   62    2    76   Y     Y        Y   N    Y     Y       N   Y   N
+             Central Jn
+MD140   LEC1    Bletchley South Jn – Bletchley North        46   41   46    59   Y     Y        Y   N    N     N       N   Y   Y
                 Jn (Change of Mileage)
-MD701   NAJ1    Neasden South Jn (Change of                 6    30    0    00   Y     Y     Y     Y     N     Y       N   N   N
-                Mileage) – Northolt Jn
-MD701   NAJ2    Northolt Jn – Princes Risborough Jn         0    00    24   50   Y     Y     Y     Y     N     Y       N   N   N
-MD701   NAJ2    Princes Risborough Jn – Site of             24   50    33   69   Y     Y     Y     Y     N     Y       N   N   N
-                Former Ashendon Jn (Change of
-                Mileage)
+MD140   BBM     Bletchley North Jn (Change of                0   11    0    21   Y     Y        Y   N    N     N       N   N   N
+                Mileage) – Limit of electrification
+                (Bletchley TMD)
+MD140   BBM     Limit of electrification (Bletchley TMD)     0   21   16    07   Y     Y        Y   N    N     N       N   N   N
+                – Route Boundary (LN3140) (Bedford)
+MD145   CRC2    Route Boundary (EA1320) (Camden              5   42    5    78   Y     Y        Y   EH   N     Y       N   Y   N   R1   Prohibited with footsteps fitted
+                Road West Jn) – Camden Jn (North                                                    R1
+                DC lines)
 
 
-
-December 2009                                                                              24C
+December 2009                                                                              22

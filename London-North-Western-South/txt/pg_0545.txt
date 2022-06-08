@@ -8,35 +8,46 @@
 Line of ELR     Line of Route / Sector                  M     Ch   M       Ch 165 166 168 170 171 172 175 180 195 220 221 Notes
 route           Description                                                       RH
                                                                                    M
-MD736   DHF     Flyover Junction Summit – Limit of       0    68       1   37   E    N   N      N   N   N   N   N   N    N   N R1    Prohibited with footsteps fitted
-                Electrification                                                 R1
-MD736   DHF     Limit of Electrification – Bletchley     1    37       1   61   E    N   N      N   N   N   N   N   N    N   N R1    Prohibited with footsteps fitted
-                Flyover North Jn                                                R1
-MD736   DHF     Bletchley Flyover North Jn – Denbigh     1    61       1   73   E    N   N      N   N   N   N   N   N    N   N R1    Prohibited with footsteps fitted
-                Hall South Jn                                                   R1
-MD740   BFO     Flyover Jn (Summit) – Fenny Stratford    0    68       1   59   N    N   N      N   N   N   N   N   N    N   N
-                Bletchley Flyover Jn
-MD745   BSG     Bicester South Junction – Gavray         0    00       0   52   Y    N   Y      N   N   Y   N   N   N    N   N
-                Junction
-MD801   WSJ1    Wolverhampton North Jn – Oxley,         143   52   142     79   N    N   Y      Y   N   N   Y   N   EH   Y   Y
-                Stafford Road Jn (Change of Mileage)
-MD801   WSJ2    Oxley, Stafford Road Jn (Change of      143   02   143     65   N    N   Y      Y   N   N   Y   N   EH   Y   Y R1    Prohibited between Oxley TRSMD and
-                Mileage) – Limit of Electrification                                                                 R1               Limit of Electrification
-MD801   WSJ2    Limit of Electrification – Madeley Jn   143   65   156     19   N    N   Y      Y   N   N   Y   N    N   N   R1 R1   3mph Shifnal Down platform with deflated
-                                                                                                                                     suspension
-MD801   WSJ2    Madeley Jn – Route Boundary             156   19   170     46   N    N   Y      Y   N   N   Y   N   N    N   R1 R1   3mph Oakengates Up platform with
-                (GW731) (Abbey Foregate)                                                                                     R2      deflated suspension
-                                                                                                                                R2   3mph Wellington Down Loop platform with
-                                                                                                                                     deflated suspension
-MD805   OXC     Bushbury (Oxley) Jn – Stafford Road      1    02       0   00   N    N   N      Y   N   N   Y   N   EH   Y   Y
-                Jn
-MD810   MJI1    Madeley Junction – Site of Former       156   19   160     29   N    N   N      N   N   N   N   N   N    N   N
-                Lightmoor Jn
-MD810   MJI2    Site of Former Lightmoor Jn –           156   19   160     29   N    N   N      N   N   N   N   N   N    N   N
-                Ironbridge Power Station (NR
-                Boundary)
+MD401   DCL     Aynho Jn – Leamington Spa North Jn       81   13   106     25   R1   Y   R1     R2   N   R3   R4   R4   N   Y   Y R1     Prohibited Banbury North Down Bay platform
+                                                                                                                                         when laden
+                                                                                                                                    R2   Prohibited between Aynho Jn and Leamington
+                                                                                                                                         Spa
+                                                                                                                                    R3   Class 172/2 and 172/3 prohibited Aynho Jn to
+                                                                                                                                         Leamington Spa
+                                                                                                                                    R4   Prohibited between Banbury and Leamington
+                                                                                                                                         Spa Jn
+MD401   DCL   Leamington Spa North Jn – Tyseley         106   25   125     73   Y    N   Y      Y    N   Y    N    N    N   Y   Y
+              South Jn
+MD401   BCV/D Tyseley South Jn – Small Heath South      125   73   126     59   Y    N   Y      Y    N   Y    N    N    N   Y   Y
+        CL    Jn
+MD401   BCV   Small Heath South Jn – Bordesley Jn       126   59   128     11   Y    N   Y      Y    N   Y    N    N    N   Y   Y
+MD405   LSC1 Leamington Spa North Jn – Milverton        106   25   107     06   Y    N   Y      Y    N   Y    N    N    N   Y   Y
+              Change of ELR
+MD405   LSC2 Milverton Change of ELR – Coventry          0    00       8   45   Y    N   Y      Y    N   Y    N    N    N   Y   Y
+              South Jn
+MD410   CNN   Coventry North Jn – Nuneaton South         0    00       9   53   N    N   N      Y    N   R1   N    N    N   Y   Y R1     Class 172/0, 2 and 3 only
+              Jn
+MD415   HSA   Hatton Station Jn – Bearley Jn             18   12    12     48   Y    N   Y      Y    N   Y    N    N    N   N   N
+MD415   HSA   Bearley Jn – Stratford Upon Avon (End      12   48     8     63   Y    N   Y      Y    N   Y    N    N    N   N   N
+              of Headshunt)
+MD420   HHW Hatton North Jn – Hatton West Jn             18   25    17     62   Y    N   Y      Y    N   Y    N    N    N   N   N
+MD425   TSB   Tyseley South Jn – Bearley Jn               0   00    17     71   R1   N   Y      Y    N   Y    N    N    N   N   N R1     Route prohibited to Class 165/1
+MD430   OWW Droitwich Spa – Cutnall Green (former       126   21   130     40   Y    Y   N      Y    N   R1   N    N    N   Y   Y R1     Route prohibited to Class 172/1
+              Route Boundary)
+MD430   OWW Cutnall Green (former Route                 130   40   135     46   Y    N   E      Y    N   R2   N    N    N   Y   Y R1 - Prohibited between Hartlebury and Route
+              Boundary) – Kidderminster                                                  R1                                       Boundary (GW370) (Cutnall Green)
+                                                                                                                                  R2 - Route prohibited to Class 172/1
+MD435   DCL     Small Heath South Jn – Site of Former   126   59   132     47   Y    N   Y      Y    N   Y    N    N    N   N   N
+                Handsworth Jn
+MD435   HSJ     Site of Former Handsworth Jn –          132   47   133     32   Y    N   Y      Y    N   Y    N    N    N   N   N
+                Smethwick Jn
+MD435   GSJ2    Smethwick Jn – Stourbridge North Jn     133   32   141     06   Y    N   Y      Y    N   Y    N    N    N   Y   Y
+MD440   GSJ1    Galton Jn – Smethwick Jn                  3   64     4     08   Y    N   Y      Y    N   R1   N    N    N   Y   Y R1 Route prohibited to Class 172/1
+MD445   SJS     Stourbridge Jn – Stourbridge Town       142   16   142     78   N    N   N      N    N   N    N    N    N   N   N
+MD450   OWW     Stourbridge North Jn – Round Oak        142   15   146     13   N    N   N      N    N   N    N    N    N   N   N
+MD455   KWD     Kingswinford Jn – Network Rail          144   33   145     60   N    N   N      N    N   N    N    N    N   N   N Line out of use
+                Boundary                                                                                                          NME/2005/LNW284
+MD460   SJT1    Kineton MOD Branch – Burton Dassett      22   60    25     60   Y    N   Y      N    N   Y    N    N    N   N   N
+                (MOD Kineton)
 
-
-
-
-December 2009                                                                            14I
+December 2009                                                                            14F

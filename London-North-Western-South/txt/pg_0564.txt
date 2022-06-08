@@ -1,47 +1,47 @@
-                                                                                        OFFICIAL
+                                                                                       OFFICIAL
 
 
-                                                                   LNW South Route Sectional Appendix Module LNW(S) RC
-Line of ELR     Line of Route / Sector                       oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
-route           Description                                   M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooooo
-MD330   SCL     Soho East Jn – Soho North Jn                   0   00    0    22   N   N    N      N   N    N   Y    N   N   N   N
-MD335   SSP     Perry Barr West Jn – Perry Barr South          0   39    0    00   N   N    N      N   N    N   Y    N   N   N   N
-                Jn
-MD340   ALC1    Aston North Jn – Sutton Coldfield              0   00    5    00   N   N    N      N   N    N   N    N   N   N   N
-                Change of ELR
-MD340   ALC2    Sutton Coldfield Change of ELR –               5   00    13   33   N   N    N      N   N    N   N    N   N   N   N
-                Lichfield City Jn
-MD340   BJW3    Lichfield City Jn – Lichfield Trent Valley    16   47    18   05   N   N    N      N   N    N   N    N   N   N   N
-                (End of Electrification)
-MD340   BJW3    Lichfield Trent Valley – Route                18   05    19   00   N   N    N      N   EH   N   EH   N   N   N   N
-                Boundary (LN3340) (Wichnor Jn)
-MD345   BJW1    Bescot Jn – Walsall Pleck Jn (Change           0   00    0    65   N   N    N      N   N    N   Y    N   N   N   N
-                of Mileage)
-MD345   BJW2    Walsall Pleck Jn (Change of Mileage)           5   42    6    34   N   N    N      N   N    N   R1   N   N   N   N Prohibited Walsall Pleck Jn – Walsall North Jn on
-                – Limit of Electrification                                                                                         the Down Fast line
-MD345   BJW2    Limit of Electrification – Ryecroft Jn         6   34    6    76   N   N    N      N   N    N   N    N   N   N   N
-MD345   BJW2    Park Street Tunnel – Ryecroft Jn               6   34    6    76   N   N    N      N   N    N   Y    N   N   N   N
-MD345   BJW2    Ryecroft Jn – Change of Mileage                6   76    6    79   N   N    N      N   N    N   Y    N   N   N   N
-MD345   RRN1    Change of Mileage – Cannock Change             0   00    7    20   N   N    N      N   N    N   Y    N   N   N   N
-                of ELR
-MD345   RRN2    Cannock Change of ELR – Route                  7   20    14   00   N   N    N      N   N    N   Y    N   N   N   N
-                Boundary (NW1004) (Rugeley North
-                Jn)
-MD350   BJW3    Anglesea Sidings – Lichfield City Jn          12   15    16   47   N   N    N      N   N    N   N    N   N   N   N Line out of use
-                                                                                                                                     NC/G1/2005/LN296
-MD355   LTV     Lichfield South Jn – Lichfield Trent           0   22    0    02   N   N    N      N   EH   N   H    N   N   N   N
-                Valley Jn (Chord Line)
-MD360   WDJ     Walsall, Pleck Jn – Darlaston Jn               1   16    0    15   N   N    N      N   N    N   N    N   N   N   N
-MD365   PJW     Portobello Jn – Wolverhampton Crane            0   04    1    59   N   N    N      N   N    N   Y    N   N   N   N
-                Street Jn
-MD401   DCL     Route Boundary (GW200) (Heyford) –            75   00    81   13   N   N    N      N   N    N   N    N   N   N   N
-                Aynho Jn
-MD401   DCL     Aynho Jn – Leamington Spa North Jn            81   13   106   25   N   N    N      N   N    N   N    N   N   N   N
-MD401   DCL   Leamington Spa North Jn – Tyseley    106             25   125   73   N   N    N      N   N    N   N    N   N   N   N
-              South Jn
-MD401   BCV/D Tyseley South Jn – Small Heath South 125             73   126   59   N   N    N      N   N    N   N    N   N   N   N
-        CL    Jn
-MD401   BCV   Small Heath South Jn – Bordesley Jn 126              59   128   11   N   N    N      N   N    N   N    N   N   N   N
-MD405   LSC1    Leamington Spa North Jn – Milverton          106   25   107   06   N   N    N      N   N    N   N    N   N   N   N
-                Change of ELR
-December 2009                                                                               20H
+                                                                 LNW South Route Sectional Appendix Module LNW(S) RC
+Table D2B – Route clearance of electric multiple units
+                                                                                                                                                          Last Updated: 19/03/2022
+To be read in conjunction with General Notes.
+
+Line of ELR       Line of Route / Sector                   oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
+route             Description                               M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooooo
+MD101     LEC1    London Euston – Camden Jn DC Lines         0   00    1    36   N    N    Y      N   N    N    Y    N    N   Y   N
+MD101     LEC1    Camden Jn DC Lines – Camden Jn             1   36    1    51   N    N    Y      N   N    N    Y    N    N   Y   E R1     Up and Down Slow Lines only
+                  (NLL)                                                                                                           R1
+
+MD101     LEC1    Camden Jn – West London Jn                 1   51    5    23   Y    E    Y      E   N    E    Y    N    N   N   E R1     Up and Down Slow Lines only
+                  (Willesden)                                                         R1                                          R1
+MD101     LLG     West London Jn (Willesden) – Sudbury       0   12    2    03   R1   Y    Y      N   N    Y    Y    N    N   N   E R1     Prohibited from Up Willesden Relief Line
+                  Jn (Willesden Relief Lines)                                    R2                                                 R2     Prohibited between the connection to
+                                                                                                                                           Willesden Reception Sidings and Sudbury Jn
+MD101     LEC1    Willesden West London Jn –                 5   23    6    01   N    Y    Y      E   EH   Y    Y    EH   N   N   E R1     Prohibited with third rail current collection
+                  Harlesden Jn                                                                                       R1           R3       equipment (including shoe arms and height
+                                                                                                                     R2                    limit beams)
+                                                                                                                                      R2   Prohibited with footsteps fitted
+                                                                                                                                      R3   Up and Down Slow Lines only
+MD101     LEC1    Harlesden Jn – Watford South Jn            6   01   17    06   N    Y    Y      N   EH   Y    Y    EH   N   N   N R1     Prohibited with third rail current collection
+                                                                                                                     R1                    equipment (including shoe arms and height
+                                                                                                                     R2                    limit beams)
+                                                                                                                                      R2   Prohibited with footsteps fitted
+MD101     LEC1    Watford South Jn – Bletchley South Jn     17   06   46    41   N    Y    R1     N   EH   R3   Y    EH   N   N   N R1     Prohibited Watford Junction platform 11
+                                                                                           R2                        R4             R2     Prohibited between Watford North Junction
+                                                                                                                     R5                    and Bletchley Jn when laden
+                                                                                                                                      R3   Prohibited Hemel Hempstead Up Siding
+                                                                                                                                           platform
+                                                                                                                                      R4   Prohibited with third rail current collection
+                                                                                                                                           equipment (including shoe arms and height
+                                                                                                                                           limit beams)
+                                                                                                                                      R5   Prohibited with footsteps fitted
+MD101     LEC1    Bletchley South Jn – Bletchley            46   41   47    52   N    Y    E      N   EH   Y    R1   EH   N   N   N R1     Prohibited Bletchley platforms 5 and 6
+                  (Platforms 1 – 5) – Denbigh Hall South                                                             R2             R2     Prohibited with third rail current collection
+                  Jn                                                                                                 R3                    equipment (including shoe arms and height
+                                                                                                                                           limit beams)
+                                                                                                                                      R3   Prohibited with footsteps fitted
+
+
+
+
+December 2009                                                                              20C

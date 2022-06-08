@@ -1,48 +1,49 @@
-                                                                                   OFFICIAL
+                                                                                  OFFICIAL
 
 
-                                                              LNW South Route Sectional Appendix Module LNW(S) RC
-
-Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
-route           Description                              M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooooo
-MD101   LEC1    Denbigh Hall South Jn – Hanslope         47   52    56   66   N   R1   E      N   EH   R2   Y   EH   N    N   N R1     Prohibited Milton Keynes platform 3 in laden
-                North Jn                                                          R2                            R3                     condition unless units have been subjected to
-                                                                                                                R4                     a 25mm lateral footstep modification as
-                                                                                                                                       detailed in clear route model LV-ES-6 (377-2)
-                                                                                                                R5
-                                                                                                                                  R2   Prohibited between Milton Keynes and
-                                                                                                                                       Hanslope North Jn
-                                                                                                                                  R3   Prohibited with third rail current collection
-                                                                                                                                       equipment (including shoe arms and height
-                                                                                                                                       limit beams)
-                                                                                                                                  R4   Prohibited with footsteps fitted
-                                                                                                                                  R5   Prohibited between Wolverton and Hanslope
-                                                                                                                                       Jn
-MD101   LEC1    Hanslope North Jn – Hillmorton Jn        56   66    81   28   N   N    N      N   EH   N    T   N    N    N   N
-MD101   LEC1    Hillmorton Jn – Rugby Trent Valley Jn    81   28    83   18   N   N    N      N   EH   N    T   N    N    N   N
-MD101   LEC2    Rugby Trent Valley Jn – Armitage Jn      83   18   119   20   N   N    N      N   EH   N    T   N    N    N   N
-                (NW1001 Sectional Appendix
-                Boundary)
-MD105   HNR     Hanslope Jn (MD101) – Northampton        56   66    65   55   N   N    E      N   N    N    Y   N    N    N   N
-                South Jn
-MD105   HNR     Northampton South Jn – Northampton       65   55    66   12   N   N    E      N   N    N    Y   N    N    N   N R1     Prohibited between Northampton and
-                North Jn                                                               R1                                              Northampton North Jn
-                                                                                       R2                                         R2   Northampton platform 2 (down fast) only
-MD105   HNR     Northampton North Jn – Rugby South       66   12    83   54   N   N    N      N   N    N    Y   N    N    N   N
-                Jn
-MD120   CWJ     Camden Jn DC lines (Down DC line          1   36    3    01   N   N    Y      N   N    N    N   N    N    Y   N
-                mileage) – Kilburn High Road (DC
-                Lines)
-MD120   CWJ     Kilburn High Road – Willesden             3   01    5    28   N   N    Y      N   N    N    N   N    R1   Y   N R1     Class 499/2 only
-                Suburban Jn (DC Lines)
-MD120   CWJ     Willesden Suburban Jn – Harrow and        5   28    11   46   N   N    Y      N   N    N    N   N    R1   Y   N R1     Class 499/2 only
-                Wealdstone (Sand Drag) (DC Lines)
-MD120   CWJ     Harrow and Wealdstone (Sand Drag) –      11   46    17   58   N   N    Y      N   N    N    N   N    N    Y   N
-                Watford Jn (DC Lines)
-MD130   WSA     Watford Junction – St Albans Abbey        0   00    6    45   N   N    N      N   N    N    N   N    N    N   N
-MD136   WCL     Harlesden Jn – Railnet Jn                 1   00    1    11   N   N    Y      E   N    N    Y   N    N    N   E
+                                                             LNW South Route Sectional Appendix Module LNW(S) RC
 
 
+Line of ELR     Line of Route / Sector                oo     oo   oo    oo 313 315 317 319 321 322 323 325 350 360 Notes
+route           Description                           oo     oo   oo    oo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+                                                      M      Ch   M     Ch
+MD560   WOP     Water Orton West Jn – Park Lane         35   15    36   04   N    N   N      N   N   N   N    H    N   N
+                Change of ELR
+MD560   CBR2    Park Lane Change of ELR – Park          36   04    36   15   N    N   N      N   N   N   N    H    N   N
+                Lane Jn
+MD565   CBR1    Castle Bromwich Jn – Park Lane Jn        0   55     0   00   N    N   N      N   N   N   N    H    N   N
+MD565   CBR2    Park Lane Jn – Ryecroft Jn              36   04    47   48   N    N   N      N   N   N   N    H    N   N
+MD570   LSS     Landor Street Jn – St Andrews Jn        40   60    41   18   N    N   N      N   N   N   N    H    N   N
+MD570   SKN     St Andrews Jn – Bordesley Jn            41   18    41   44   N    N   N      N   N   N   N    H    N   N
+MD570   SKN     Bordesley Jn – Kings Norton Jn (Camp 41      44    46   77   N    N   N      N   N   N   N    H    N   N
+                Hill Lines)
+MD575   SAG     St Andrews Jn – Grand Jn                 0   00     0   52   N    N   N      N   N   N   N    H    N   N
+MD580   LEL     Lifford East Jn – Lifford West Jn       46   11    46   36   N    N   N      N   N   N   N    H    N   N
+MD701   MCJ1    London Marylebone – Neasden South 205        77   200   65   N    N   N      N   N   N   N    H    N   N
+                Jn (Change of Mileage)
+MD701   NAJ1    Neasden South Jn (Change of              6   30    0    00   N    N   N      N   N   N   N    H    N   N
+                Mileage) – Northolt Jn
+MD701   NAJ2    Northolt Jn – Princes Risborough Jn      0   00    24   50   N    N   N      N   N   N   N    H    N   N
+MD701   NAJ2    Princes Risborough Jn – Site of         24   50    33   69   N    N   N      N   N   N   N    H    N   N
+                Former Ashendon Jn (Change of
+                Mileage)
+MD701   NAJ3    Site of Former Ashendon Jn (Change       0   00    18   35   N    N   N      N   N   N   N    H    N   N
+                of Mileage) – Aynho Jn
+MD705   ANL     Route Boundary (GW110) (Greenford        8   60    10   15   N    N   N      N   N   N   N    H    N   N
+                West Jn) – Northolt Jn (South Ruislip)
+MD710   MCJ1    Neasden South Jn – Network Rail        200   66   197   05   N    N   N      N   N   N   N    H    N   N
+                Boundary (LUL) (Harrow-on-the-Hill
+                South Jn)
+MD712   MCJ2    Network Rail Boundary (LUL)             25   21    38   08   N    N   N      N   N   N   N    H    N   N
+                (Amersham, Mantles Wood) –
+                Aylesbury Jn
+MD712   MCJ2    Aylesbury Jn – Aylesbury                38   08    38   13   N    N   N      N   N   N   N    H    N   N
+MD715   NJN     Neasden South Jn – Route Boundary        6   30     6   51   N    N   N      N   N   N   N    N    N   N
+                (EA1360) (Neasden Jn)
+MD720   NAJ2    Princes Risborough – Change of          24   40    24   48   N    N   N      N   N   N   N    H    N   N
+                Mileage (Princes Risborough Jn)
+MD720   PRA     Change of Mileage (Princes              42   31    49   35   N    N   N      N   N   N   N    H    N   N
+                Risborough Jn) – Aylesbury Jn
+MD725   MCJ2    Aylesbury – Aylesbury Vale Parkway      38   13    40   38   N    N   N      N   N   N   N    H    N   N
 
-
-December 2009                                                                          20D
+December 2009                                                                         20A

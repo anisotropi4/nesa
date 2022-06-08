@@ -1,47 +1,48 @@
-                                                                                       OFFICIAL
+                                                                                      OFFICIAL
 
 
                                                                  LNW South Route Sectional Appendix Module LNW(S) RC
-Table D2B – Route clearance of electric multiple units
-                                                                                                                                                          Last Updated: 09/10/2021
-To be read in conjunction with General Notes.
 
-Line of ELR       Line of Route / Sector                   oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
-route             Description                               M Ch M Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo              ooooooooooooooooooooooooooo
-MD101     LEC1    London Euston – Camden Jn DC Lines         0   00    1    36   N    N    Y      N   N    N    Y    N    N   Y   N
-MD101     LEC1    Camden Jn DC Lines – Camden Jn             1   36    1    51   N    N    Y      N   N    N    Y    N    N   Y   E R1     Up and Down Slow Lines only
-                  (NLL)                                                                                                           R1
-
-MD101     LEC1    Camden Jn – West London Jn                 1   51    5    23   Y    E    Y      E   N    E    Y    N    N   N   E R1     Up and Down Slow Lines only
-                  (Willesden)                                                         R1                                          R1
-MD101     LLG     West London Jn (Willesden) – Sudbury       0   12    2    03   R1   Y    Y      N   N    Y    Y    N    N   N   E R1     Prohibited from Up Willesden Relief Line
-                  Jn (Willesden Relief Lines)                                    R2                                                 R2     Prohibited between the connection to
-                                                                                                                                           Willesden Reception Sidings and Sudbury Jn
-MD101     LEC1    Willesden West London Jn –                 5   23    6    01   N    Y    Y      E   EH   Y    Y    EH   N   N   E R1     Prohibited with third rail current collection
-                  Harlesden Jn                                                                                       R1           R3       equipment (including shoe arms and height
-                                                                                                                     R2                    limit beams)
-                                                                                                                                      R2   Prohibited with footsteps fitted
-                                                                                                                                      R3   Up and Down Slow Lines only
-MD101     LEC1    Harlesden Jn – Watford South Jn            6   01   17    06   N    Y    Y      N   EH   Y    Y    EH   N   N   N R1     Prohibited with third rail current collection
-                                                                                                                     R1                    equipment (including shoe arms and height
-                                                                                                                     R2                    limit beams)
-                                                                                                                                      R2   Prohibited with footsteps fitted
-MD101     LEC1    Watford South Jn – Bletchley South Jn     17   06   46    41   N    Y    R1     N   EH   R3   Y    EH   N   N   N R1     Prohibited Watford Junction platform 11
-                                                                                           R2                        R4             R2     Prohibited between Watford North Junction
-                                                                                                                     R5                    and Bletchley Jn when laden
-                                                                                                                                      R3   Prohibited Hemel Hempstead Up Siding
-                                                                                                                                           platform
-                                                                                                                                      R4   Prohibited with third rail current collection
-                                                                                                                                           equipment (including shoe arms and height
-                                                                                                                                           limit beams)
-                                                                                                                                      R5   Prohibited with footsteps fitted
-MD101     LEC1    Bletchley South Jn – Bletchley            46   41   47    52   N    Y    E      N   EH   Y    R1   EH   N   N   N R1     Prohibited Bletchley platforms 5 and 6
-                  (Platforms 1 – 5) – Denbigh Hall South                                                             R2             R2     Prohibited with third rail current collection
-                  Jn                                                                                                 R3                    equipment (including shoe arms and height
-                                                                                                                                           limit beams)
-                                                                                                                                      R3   Prohibited with footsteps fitted
-
-
-
-
-December 2009                                                                              20C
+Line of ELR     Line of Route / Sector                     oo    oo   oo    oo 313 315 317 319 321 322 323 325 350 360 Notes
+route           Description                                oo    oo   oo    oo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+                                                           M     Ch   M     Ch
+MD405   LSC2    Milverton Change of ELR – Coventry          0    00    8    45   N    N   N      N   N   N   N    H    N   N
+                South Jn
+MD410   CNN     Coventry North Jn – Nuneaton South          0    00    9    53   N    N   N      N   N   N   N    H    N   N
+                Jn
+MD415   HSA     Hatton Station Jn – Bearley Jn              18   12    12   48   N    N   N      N   N   N   N    H    N   N
+MD415   HSA     Bearley Jn – Stratford Upon Avon (End       12   48     8   63   N    N   N      N   N   N   N    H    N   N
+                of Headshunt)
+MD420   HHW     Hatton North Jn – Hatton West Jn            18   25    17   62   N    N   N      N   N   N   N    H    N   N
+MD425   TSB     Tyseley South Jn – Bearley Jn                0   00    17   71   N    N   N      N   N   N   N    H    N   N
+MD430   OWW     Droitwich Spa – Cutnall Green (former      126   21   130   40   N    N   N      N   N   N   N    H    N   N
+                Route Boundary)
+MD430   OWW     Cutnall Green (former Route Boundary) –    130   40   135   46   N    N   N      N   N   N   N    H    N   N
+                Kidderminster
+MD435   DCL     Small Heath South Jn – Site of Former      126   59   132   47   N    N   N      N   N   N   N    H    N   N
+                Handsworth Jn
+MD435   HSJ     Site of Former Handsworth Jn –             132   47   133   32   N    N   N      N   N   N   N    H    N   N
+                Smethwick Jn
+MD435   GSJ2    Smethwick Jn – Stourbridge North Jn        133   32   141   06   N    N   N      N   N   N   N    H    N   N
+MD440   GSJ1    Galton Jn – Smethwick Jn                     3   64     4   08   N    N   N      N   N   N   N    H    N   N
+MD445   SJS     Stourbridge Jn – Stourbridge Town          142   16   142   78   N    N   N      N   N   N   N    N    N   N
+MD450   OWW     Stourbridge North Jn – Round Oak           142   15   146   13   N    N   N      N   N   N   N    H    N   N
+MD455   KWD     Kingswinford Jn – Network Rail             144   33   145   60   N    N   N      N   N   N   N    N    N   N Line out of use
+                Boundary                                                                                                       NME/2005/LNW284
+MD460   SJT1    Kineton MOD Branch – Burton Dassett         22   60    25   60   N    N   N      N   N   N   N    N    N   N
+                (MOD Kineton)
+MD501   DBP1    Route Boundary (LN3501) (London             23   30    29   39   N    N   N      N   N   N   N    H    N   N
+                Road Jn) – Kingsbury Jn
+MD501   DBP2    Kingsbury Jn – Water Orton East Jn          29   39    33   22   N    N   N      N   N   N   N    H    N   N
+MD501   DBP3    Water Orton East Jn (Change of              34   43    40   60   N    N   N      N   N   N   N    H    N   N
+                Mileage) – Landor Street Jn
+MD501   DBP3    Landor Street Jn – Proof House Jn           40   60    41   51   N    N   N      N   N   N   N    H    N   N
+MD545   KJW     Kingsbury Jn – Whitacre Jn (Change of       29   39    31   69   N    N   N      N   N   N   N    H    N   N
+                Mileage)
+MD555   NWO     Nuneaton North Junction – Lmit of           10   18    10   00   N    N   N      N   N   N   N    H    N   N
+                Electrification
+MD555   NWO     Limit of Electrification – Whitacre West    10   00    0    00   N    N   N      N   N   N   N    H    N   N
+                Junction
+MD555   DBP3    Whitacre West Jn – Water Orton East         31   69    34   43   N    N   N      N   N   N   N    H    N   N
+                Jn
+December 2009                                                                              20

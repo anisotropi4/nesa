@@ -1,46 +1,47 @@
-                                                                                               OFFICIAL
+                                                                                   OFFICIAL
 
 
-                                                                    LNW South Route Sectional Appendix Module LNW(S) RC
+                                                              LNW South Route Sectional Appendix Module LNW(S) RC
 
 
 
-Line of ELR     Line of Route / Sector Description            oooo oooo oooo oooo RA 43 47/2 47/4 47/7 56 57 Notes
-route                                                          M Ch M         Ch     ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-MD232   WNS     Limit of Electrification (Down direction) –     0      39    0    05       8        Y        Y       Y       Y       Y       Y
-                Nuneaton South Jn
-MD232   WNS     Nuneaton South Jn – Nuneaton South              0      05    0    00       8        Y        Y       Y       Y       Y       Y
-                Change of ELR
-MD232   PVS     Nuneaton South Change of ELR – Limit of        10      61    10   39       8        Y        Y       Y       Y       Y       Y
-                Electrification (Up direction)
-MD232   PVS     Limit of Electrification (Up direction) –      10      39    10   09       8        Y        Y       Y       Y       Y       Y
-                Midland Yard Jn
-MD232   NMA     Midland Yard Jn – Abbey Jn                     10      09    9    60       8        Y        Y       Y       Y       Y       Y
-MD233   MYC     Midland Yard Jn – Canal Farm Jn                 0      00    0    69       8        N        Y       Y       Y       Y       Y
-MD301   RBS1    Rugby Trent Valley Jn – Coventry South         83      18    93   71       8        Y        Y       Y       Y       Y       Y
-                Jn
-MD301   RBS1    Coventry South Jn – Coventry North Jn          93      71    94   19       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Coventry North Jn – Stechford North Jn         94      19   109   12       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Stechford North Jn – Grand Jn                 109      12   111   72       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Grand Jn – Proof House Jn                     111      72   112   19       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Proof House Jn – Birmingham New Street        112      19   112   73       8        Y        Y       Y       Y       Y       Y
-                (Change of Mileage)
-MD301   RBS2    Birmingham New Street (Change of                0      05    2    06       8        Y        Y       Y       Y       Y       Y
-                Mileage) – Soho South Jn
-MD301   RBS2    Soho South Jn – Soho North Jn                   2      06    2    38       8        Y        Y       Y       Y       Y       Y
-MD301   RBS2    Soho North Jn – Galton Jn                       2      38    3    64       8        Y        Y       Y       Y       Y       Y
-MD301   RBS2    Galton Jn – Wolverhampton Crane Street          3      64    12   60       8        Y        Y       Y       Y       Y       Y
-                Jn
-MD301   RBS2    Wolverhampton Crane Street Jn –                12      60    14   43       8        Y        Y       Y       Y       Y       Y
-                Bushbury Jn (Change of Mileage)
-MD301   RBS3    Bushbury Jn (Change of Mileage) – Route 15             32    23   30       8        Y        Y       Y       Y       Y       Y
-                Boundary (NW1002) (Stafford Trent Valley
-                Jn No.1)
-MD306   BAG1    Change of Mileage (Birmingham New          42         35    47    20   8        Y        Y       Y       Y       Y       Y
-                Street) – Lifford West Jn
-MD306   BAG1    Lifford West Jn – King's Norton Station Jn 47         20    47    48   8        Y        Y       Y       Y       Y       Y
-MD306   BAG1    King's Norton Station Jn – King's Norton   47         48    48    02   8        Y        Y       Y       Y       Y       Y
-                Jn (Change of Mileage)
+Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo RA 08 09 20 31/1 31/4 33 37/0 37/5 37/7 Notes
+route           Description                              M Ch M Ch ooo ooo ooo ooo 31/6 ooo ooo 37/3 ooo 37/9 ooooooooooooooooooooooooooo
+                                                                                        ooo          37/4
+                                                                                                               ooo
+                                                                                                     37/6
+                                                                                                      oo
+MD555    NWO Nuneaton North Junction – Lmit of           10    18    10   00   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+             Electrification
+MD555    NWO Limit of Electrification – Whitacre West    10    00    0    00   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+             Junction
+MD555    DBP3 Whitacre West Jn – Water Orton East Jn     31    69    34   43   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD560    WOP Water Orton West Jn – Park Lane             35    15    36   04   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+             Change of ELR
+MD560    CBR2 Park Lane Change of ELR – Park Lane        36    04    36   15   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+              Jn
+MD565    CBR1 Castle Bromwich Jn – Park Lane Jn           0    55    0    00   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD565    CBR2 Park Lane Jn – Ryecroft Jn                 36    04    47   48   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD570     LSS Landor Street Jn – St Andrews Jn           40    60    41   18   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD570     SKN St Andrews Jn – Bordesley Jn               41    18    41   44   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD570     SKN Bordesley Jn – Kings Norton Jn (Camp       41    44    46   77   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+              Hill Lines)
+MD575     SAG St Andrews Jn – Grand Jn                    0    00    0    52   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD580     LEL Lifford East Jn – Lifford West Jn          46    11    46   36   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD701    MCJ1 London Marylebone – Neasden South         205    77   200   65   8    Y     Y    Y    Y    Y    Y     R1   R1   R1 R1   5mph Down Main line between 202m 21ch
+              Jn (Change of Mileage)                                                                                                  and 202m 00ch
+MD701    NAJ1 Neasden South Jn (Change of Mileage)        6    30    0    00   7    Y     Y    Y    Y    Y    Y     Y    Y    Y
+              – Northolt Jn
+MD701    NAJ2 Northolt Jn – Princes Risborough Jn         0    00    24   50   7    Y     Y    Y    Y    Y    Y     Y    Y    Y
+MD701    NAJ2 Princes Risborough Jn – Site of Former     24    50    33   69   7    Y     Y    Y    Y    Y    Y     Y    Y    Y
+              Ashendon Jn (Change of Mileage)
+MD701    NAJ3 Site of Former Ashendon Jn (Change of       0    00    18   35   7    Y     Y    Y    Y    Y    Y     Y    Y    Y
+              Mileage) – Aynho Jn
+MD705     ANL Route Boundary (GW110) (Greenford           8    60    10   15   8    Y     Y    Y    Y    Y    Y     Y    Y    Y
+              West Jn) – Northolt Jn (South Ruislip)
+MD710    MCJ1 Neasden South Jn – Network Rail           200    66   197   05   8    R1    R1   R1   R1   R1   R1    R1   R1   R1 R1   Prohibited unless fitted with tripcocks or
+              Boundary (LUL) (Harrow-on-the-Hill                                                                                      agreed operational arrangements are in
+              South Jn)                                                                                                               place to allow the vehicle to proceed onto
+                                                                                                                                      LUL infrastructure
 
-
-December 2009                                                                                           32
+December 2009                                                                            30A
