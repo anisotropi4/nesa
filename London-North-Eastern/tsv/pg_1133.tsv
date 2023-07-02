@@ -1,18 +1,20 @@
-London-North-Eastern	1133	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
-London-North-Eastern	1133	LN3252	MJT1	Mansfield Jn	Radford Jn	Mansfield Jn – Radford Jn	124	22	125	55	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3252	MJT2	Radford Jn	Trowell South Jn	Radford Jn – Trowell South Jn	125	55	130	51	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3255	RAC	Radford Jn	Newstead	Radford Jn – Newstead	125	55	134	20	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3255	RAC	Newstead	Kirkby Lane End Jn	Newstead – Kirkby Lane End Jn	134	20	136	66	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3261	THL	Trent South Jn	Toton South Jn (High Level Lines)	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3264	AML	Attenborough Jn	Meadow Lane Jn (Attenborough Curve)	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3273	TCC	Codnor Park Jn	Ironville Jn	Codnor Park Jn – Ironville Jn	132	76	133	18	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3273	PBS1	Ironville Jn	Kirkby Summit Crossover	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3273	PBS2	Kirkby Summit Crossover	Mansfield ELR Change	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3273	PBS3	Mansfield Change of ELR	Route Boundary (LN768) (Shireoaks East Jn)	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley)	Wichnor Jn	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	N	N	N	N	H	N	EH	N	EH	N
-London-North-Eastern	1133	LN3501	DBP1	London Road Jn	Route Boundary (MD501) (Kingsbury Jn)	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	N	N	N	N	H	N	EH R1	N	EH R2 R3 R4 R5	N	R1 Prohibited between Wichnor Jn and Route Boundary (MD501) (Kingsbury Jn) R2 15mph Burton on Trent Up Main platform R3 Prohibited Derby platform 4 R4 5mph Derby platform 3 R5 Prohibited Down and Up Goods lines between Clay Mills Jn and Leicester Jn
-London-North-Eastern	1133	LN3505	NSS	North Stafford Jn	Route Boundary (NW5012) (Stoke Jn)	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	N	N	N	H	N	N	N	N	N
-London-North-Eastern	1133	LN3515	MJS1	Melbourne Jn	Sinfin	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1133	LN3520	SSJ1	Sheet Stores Jn	Change of ELR (Site of Former Chellaston East Jn)	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	N	N	N	N	H	N	N	N	EH	N
-London-North-Eastern	1133	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn)	Change of ELR (Site of Former Chellaston West Jn)	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	N	N	N	N	H	N	N	N	EH	N
-London-North-Eastern	1133	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn)	Stenson Jn	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	N	N	N	N	H	N	N	N	EH R1	N	R1 15mph over bridge 10 Swarkestone Road on the Down Line 128m 14ch
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
+London-North-Eastern	1133	LN912	TJG1	Thorne Jn – Thorne North Change of ELR	7	69	9	09	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN912	TJG2	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN914	HBS	West Parade Jn – West Parade North Jn	0	25	0	72	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN914	HBS	West Parade North Jn – Walton Street Jn	0	72	1	29	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN916	HJS	Hessle Road – Springbank North Jn	0	00	1	38	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN916	HJS	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN918	SPW	Springbank North Jn – Walton Street Jn	1	54	1	29	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN920	AWP	Anlaby Road Jn – West Parade North Jn	0	00	0	24	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN922	TJC3	Whitehall West Jn – Skipton	195	57	221	01	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN922	TJC3	Skipton – Site of former Skipton North Jn Change of ELR	221	21	221	68	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN922	SKW1	Site of former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN926	GUE2	Dockfield Jn – Esholt Jn	3	41	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN928	SBF	Shipley East Jn – Bradford Forster Square	205	54	208	50	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN930	SKS1	Skipton Middle – Site of former Embsay Jn	222	68	220	64	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN930	SKS2	Site of former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	N	N	N	N	N	N	N	
+London-North-Eastern	1133	LN932	BIB	Shipley South Jn – Shipley West Jn	0	00	0	17	N	N	N	N	N	N	N	

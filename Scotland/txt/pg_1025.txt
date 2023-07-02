@@ -1,37 +1,70 @@
-                                                                                    OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                              Scotland Route Sectional Appendix Module SCRC
+                                        Scotland Route Sectional Appendix Module SCRC
 
-SC193    HGL2   Stanley Jn – Milburn Jn                  7    07   143   39    Y      Y        Y   N   N   N   N   Y    N
-SC193    HGL2   Milburn Jn – Welsh's Bridge Jn          117   37   117   56    Y      Y        Y   N   N   N   N   Y    N
-SC193    RSW    Welsh's Bridge Jn – Rose Street Jn      117   56   118   03    Y      Y        Y   N   N   N   N   Y    N
-SC193    HGL2   Welsh's Bridge Jn – Inverness           117   56   118   03    Y      Y        Y   N   N   N   N   R1   N   R1   Prohibited Inverness platform 4
-                platforms 1-4
-SC195    ECN5   Aberdeen – Change of ELR                241   06   241   08    Y      Y        Y   N   N   N   N   Y    N
-SC195    ANI1   Change of ELR – Keith Jn SB              0    00    53   05    Y      Y        Y   N   N   N   N   Y    N
-SC195    ANI2   Keith Jn SB – Forres                     30   40    0    00    Y      Y        Y   N   N   N   N   Y    N
-SC195    ANI3   Forres – Milburn Jn                     119   26   143   39    Y      Y        Y   N   N   N   N   Y    N
-SC195    HGL2   Milburn Jn – Welsh's Bridge Jn          117   37   117   56    Y      Y        Y   N   N   N   N   N    N
-SC195    RSW    Welsh's Bridge Jn – Rose Street Jn      117   56   118   03    Y      Y        Y   N   N   N   N   Y    N
-SC195    HGL2   Welsh's Bridge Jn – Inverness           117   56   118   03    Y      Y        Y   N   N   N   N   N    N
-                platforms 1-4
-SC197    WRO    Kittybrewster – Waterloo Goods           1    62    0    03    N      N        N   N   N   N   N   N    N
-                (Goods Line)
-SC199    DFN    Keith Jn – End of Line                   53   06    53   36    Y      Y        N   N   N   N   N   N    N
-SC203    RSW    Welsh's Bridge Jn – Rose Street Jn      117   56   118   03    Y      Y        Y   N   N   N   N   Y    N
-SC203    WCK    Inverness platforms 5-7 – Rose Street    0    02    0    18    Y      Y        Y   N   N   N   N   N    N
-                Jn
-SC203    WCK    Rose Street Jn – Invergordon             0    18    31   37    Y      Y        Y   N   N   N   N   R1   N   R1   Prohibited Ness Viaduct –
-                                                                                                                                 Invergordon
-SC203    WCK    Invergordon – Georgemas Jn               31   37   147   20    Y      Y        Y   N   N   N   N   N    N
-SC203    WCK    Georgemas Jn – Wick                     147   20   161   35    Y      Y        Y   N   N   N   N   N    N
-SC205    KYL    Dingwall – Kyle of Lochalsh              0    19    63   64    Y      Y        Y   N   N   N   N   N    N
-SC207    TSO    Georgemas Jn – Thurso                    0    00    6    50    Y      Y        Y   N   N   N   N   N    N
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo
+                                                314   318 320/3320/4 322  325 Notes
+     route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
+                                                                              ooo
+     SC147EGM2Haymarket Central Jn – Haymarket
+                                    45 35 44  73  Y    Y    Y    N    Y    H
+              West Jn (South Lines)
+     SC147ECN2Haymarket Central Jn – Haymarket
+                                    1  66  2  41  Y    Y    Y    N    Y    H
+              West Jn (North Lines)
+     SC149NBK North Berwick – Drem Jn
+                                    22 22 18  15  Y    Y    Y    Y    Y    H
+     SC151LHS1Portobello – Leith South Yard (Goods
+                                    0  00  2  20 N     N    N    N    N    N
+              Line)
+     SC153CPH Craigentinny – Powderhall (Goods
+                                    0  00  1  78 N     N    N    N    N    N
+              Line)
+     SC155MHL1Monktonhall Jn – Change of ELR
+                                    0  11  5  60 N     N    N    N    N    N
+     SC155MHL2Change of ELR – Millerhill East Jn
+                                    1  40  0  28 N     N    N    N    N    N
+     SC155MHL3Millerhill East Jn – Millerhill Yard
+                                    0  00  0  19 N     N    N    N    N    N
+              (Goods Line)
+     SC157MLE Millerhill South Jn – Millerhill East Jn
+                                    0  09  0  28 N     N    N    N    N    N
+              (Goods Line)
+     SC159NDE2Millerhill West Jn – Millerhill South Jn /
+                                    6  52  5  72 N     N    N    N    N    N
+              Millerhill Yard
+     SC161NDE1Millerhill Yard – Junction with Niddrie
+                                    5  52  3  36 N     N    N    N    R1   H  R1 Prohibited Newcraighall
+              West Line                                                          turnback siding
+     SC161SUB1Junction with Niddrie West Line –
+                                    3  36  3  30 N     N    N    N    Y    H
+              Portobello
+     SC161MHL4Newcraighall East Jn – Network Rail /
+                                    00 00  00 08 N     N    N    N    N    N
+              Abellio Scotrail Boundary
+     SC163SUB1Portobello – Change of ELR
+                                    3  30  4  00 N     N    N    N    N    H
+     SC163SUB2Change of ELR – Niddrie West
+                                    6  69  6  30 N     N    N    N    N    H
+     SC164NNS Newcraighall North Jn – Newcraighall
+                                    4  63  5 02  N     N    N    N    N    N
+              South Jn
+     SC164SBO Newcraighall South Jn – Tweedbank
+                                    5  02 35 34  N     N    N    N    N    N
+     SC165MHY Niddrie South Jn – Niddrie West Jn
+                                    7  06  6  30 N     N    N    N    N    H
+     SC165SUB2Niddrie West Jn – Gorgie Jn
+                                    6  30  0  45 N     N    N    N    N    H
+     SC165GGE Gorgie Jn – Haymarket West Jn
+                                    0  00  0  41 N     N    N    N    N    H
+     SC167CKT Craiglockhart Jn – Slateford Jn
+                                    0  00  0  48 N     N    N    N    N    H
+     SC169SUB2Gorgie Jn – Haymarket Central Jn
+                                    0  45  0  11 N     N    N    N    N    H
 
-
-
-
-October 2009                                                                  60A
+     October 2009                               44

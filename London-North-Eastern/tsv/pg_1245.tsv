@@ -1,18 +1,4 @@
-London-North-Eastern	1245	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1245					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1245	LN185	Barkston East Jn., Former site of – Boston, Sleaford Line Jn., Former site of	Barkston East Jn., Former site of	Boston, Sleaford Line Jn., Former site of	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1245	LN185	Boston, Sleaford Line Jn., Former site of – Skegness	Boston, Sleaford Line Jn., Former site of	Skegness	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1245	LN190	Allington East Jn – Allington North Jn	Allington East Jn	Allington North Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1245	LN195	Grantham, Nottingham Branch Jn – Bottesford West Jn	Grantham, Nottingham Branch Jn	Bottesford West Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1245	LN200	Wrawby Jn – Pelham Street Jn	Wrawby Jn	Pelham Street Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1245	LN206	Staythorpe Crossing – Boultham Jn	Staythorpe Crossing	Boultham Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1245	LN206	Boultham Jn – West Holmes Jn	Boultham Jn	West Holmes Jn	Y	Y	Y	Y	N	Y	N	Y
-London-North-Eastern	1245	LN210	Newark Crossing Curve	Newark Crossing Curve		Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1245	LN215	Boultham Jn – Pyewipe Jn	Boultham Jn	Pyewipe Jn	Y	Y	Y	Y	N	Y	N	Y
-London-North-Eastern	1245	LN220	Bessacarr Jn – Black Carr Jn	Bessacarr Jn	Black Carr Jn	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1245	LN235	Rossington Colliery Branch	Rossington Colliery Branch		Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1245	LN600	Shaftholme Jn – Colton Jn	Shaftholme Jn	Colton Jn	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1245	LN600	Colton Jn – York	Colton Jn	York	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Holgate Jn to York
-London-North-Eastern	1245	LN600	York – Newcastle via East Coast Main Line	York	Newcastle via East Coast Main Line	Y *	Y	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 PROHIBITED York to Skelton Jn R2 PROHIBITED Darlington platform 1 (permitted at the north end to access Up/Down Station Loop) R3 PROHIBITED Darlington bay platform 2 R4 PROHIBITED Darlington bay platform 3 R5 PROHIBITED Darlington platform 4 R6 PROHIBITED Darlington Down Bypass R7 PROHIBITED over King Edwards Bridge on the Up Main R8 PROHIBITED over King Edwards Bridge on the Down Main R9 PROHIBITED Newcastle platforms 2, 3, 4, 5/6, 7/8, 9, 10, 11 and 12
-London-North-Eastern	1245	LN600	Newcastle – Reston GSP	Newcastle	Reston GSP	Y *	Y	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED between Newcastle East Jn and Argyle St Jn on the Up R2 PROHIBITED between Newcastle East Jn and Argyle St Jn on the Down
-London-North-Eastern	1245	LN600	Birtley Junction – Low Fell Junction via Tyne Yard	Birtley Junction	Low Fell Junction via Tyne Yard	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1245	LN101	Holloway South / North Jns – Wood Green North Jn	Y *	Y	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9 R13 R14 R15 R16	R1 PROHIBITED on the Up Fast between Holloway South Jn and Wood Green South Jn R2 PROHIBITED on the Down Fast between Holloway South Jn and Wood Green South Jn R3 PROHIBITED across Ferme Park Flyover R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED from Bounds Green Depot R7 PROHIBITED from the Down Washer Carriage between Ferme Park and Wood Green South Jn R8 PROHIBITED between Holloway Jn North and Finsbury Park (North) Jn on the Down Slow R9 PROHIBITED between Holloway Jn South and Wood Green South Jn on the Up Fast R13 - PROHIBITED on Peterborough Eastfield South Down Arrival R14 - PROHIBITED on Peterborough Eastfield North Down Departure R15 - PROHIBITED Werrington Jn to Black Carr Jn R16 - PROHIBITED from Balby Tunnel on the Up Fast line and the Down Fast line
+London-North-Eastern	1245	LN101	Wood Green North Jn – Langley Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1245	LN101	Langley Jn – Peterborough	Y	Y	Y	Y	R1	R1	Y	Y	R1 PROHIBITED from Huntingdon Up bay platform 1

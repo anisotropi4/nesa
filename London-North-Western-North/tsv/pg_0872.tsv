@@ -1,21 +1,23 @@
-London-North-Western-North	0872	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	220	221	222	Notes
-London-North-Western-North	0872	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	N	N	N	Y	R1	Y	Y	T	N
-London-North-Western-North	0872	NW1001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	N	N	N	Y	Y	Y	Y	T	N
-London-North-Western-North	0872	NW1001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	N	N	N	Y	N	Y	Y	T	N
-London-North-Western-North	0872	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station)	Stafford Trent Valley Jn No.1	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	E R1	Y	Y	Y	N	N	Y	T	N	R1 Prohibited between Penkridge and Stafford Trent Valley Jn No.1
-London-North-Western-North	0872	NW1003	HCM2	Buffer Stop (Silverdale Colliery End)	Madeley Chord Jn	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	N	N	N	N	N	N	N	N	N
-London-North-Western-North	0872	NW1003	HCM3	Madeley Chord Jn	Madeley Jn	Madeley Chord Jn – Madeley Jn	0	25	0	00	N	N	N	N	N	N	N	N	N
-London-North-Western-North	0872	NW1003	HCM2	Madeley Chord Jn	End of Line	Madeley Chord Jn – End of Line	7	36	8	14	N	N	N	N	N	N	N	N	N
-London-North-Western-North	0872	NW1004	RRN2	Route Boundary (MD345) (Cannock Change of ELR)	Rugeley North Jn	Route Boundary (MD345) (Cannock Change of ELR) – Rugeley North Jn	14	00	14	69	N	N	Y	N	N	N	Y	Y	N
-London-North-Western-North	0872	NW1005	KCS1	Kidsgrove Jn	Crewe South Jn	Kidsgrove Jn – Crewe South Jn	0	00	8	27	N	N	Y	Y	N	N	Y	Y	Y
-London-North-Western-North	0872	NW1007	SYC	Route Boundary (GW735) (Crewe Jn)	Limit of Electrification	Route Boundary (GW735) (Crewe Jn) – Limit of Electrification	2	60	1	41	N	Y	Y	Y	N	N	N	Y	N
-London-North-Western-North	0872	NW1007	SYC	Limit of Electrification	Crewe South Jn	Limit of Electrification – Crewe South Jn	1	41	0	00	N	Y	Y	Y	N	N	N	Y	N
-London-North-Western-North	0872	NW1009	BHI	Basford Hall Jn	Site of Former Sydney Bridge Jn (Independent Lines)	Basford Hall Jn – Site of Former Sydney Bridge Jn (Independent Lines)	156	16	158	76	N	N	N	Y	N	N	Y	Y	N
-London-North-Western-North	0872	NW1009	CMP1	Site of Former Sydney Bridge Jn	Sandbach South Jn (Independent Lines)	Site of Former Sydney Bridge Jn – Sandbach South Jn (Independent Lines)	158	76	162	28	N	N	N	Y	N	N	Y	Y	N
-London-North-Western-North	0872	NW1011	GSG	Gresty Lane Jn	Salop Goods Jn	Gresty Lane Jn – Salop Goods Jn	0	00	0	37	N	N	N	Y	N	N	N	N	N
-London-North-Western-North	0872	NW1013	CSG	Crewe Sorting Sidings North	Gresty Lane	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	N	N	N	N	N	N	N	N	N
-London-North-Western-North	0872	NW1015	CIL	Salop Goods Jn	Crewe North Jn (Chester Independent Lines)	Salop Goods Jn – Crewe North Jn (Chester Independent Lines)	157	64	158	18	N	N	N	Y	N	N	Y	Y	N
-London-North-Western-North	0872	NW1017	LLI	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard	Liverpool Independent Lines)	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard – Liverpool Independent Lines)	157	71	158	73	N	N	N	Y	N	N	Y	Y	N
-London-North-Western-North	0872	NW1019	CHW1/ 2	Acton Grange Jn	Warrington South Jn (Helsby lines)	Acton Grange Jn - Warrington South Jn (Helsby lines)	16	19	17	76	N	N	N	Y	N	N	Y	Y	N
-London-North-Western-North	0872	NW1021	WEE	Winwick Jn	Earlestown East Jn	Winwick Jn – Earlestown East Jn	185	49	187	10	N	N	N	Y	N	N	Y	Y	N
-London-North-Western-North	0872	NW1021	DSE	Earlestown East Jn	Newton-le-Willows Jn (Electrified section)	Earlestown East Jn - Newton-le-Willows Jn (Electrified section)	14	75	16	19	N	N	N	Y	N	N	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Western-North	0872	NW3011	CRR1	Chester West Jn – Hooton South Jn	0	16	7	68	Y	Y	Y	Y	Y	Y	Y	Y	N	N	
+London-North-Western-North	0872	NW3013	HHJ	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	Y	Y	Y	Y	Y	Y	Y	Y	N	N	
+London-North-Western-North	0872	NW3013	HHJ	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	Y	Y	Y	Y	Y	Y	Y	Y	N	N	
+London-North-Western-North	0872	NW3015	LJT1	Llandudno Jn – Blaenau Ffestiniog, End of Line	0	30	27	53	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-North	0872	NW3017	LLJ	Llandudno Jn – Llandudno	0	03	3	14	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3019	GLA	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
+London-North-Western-North	0872	NW3021	FJH	Frodsham Jn – Halton Jn	1	54	0	00	Y	N	N	N	Y	Y	N	Y	Y	N	
+London-North-Western-North	0872	NW3023	EJN	Edgeley Jn – Northenden Jn	0	00	3	68	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3023	WJP1	Northenden Jn – Skelton Jn	33	52	30	12	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3023	SJD	Skelton Jn – Deansgate Jn	0	00	0	33	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3023	CDM1	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3023	CDM2	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3025	WJP1	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	N	N	N	N	N	N	N	N	N	N	Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
+London-North-Western-North	0872	NW3027	CDM1	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0872	NW3027	CDM1	Deansgate Jn – Altrincham	7	05	8	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0872	NW3029	SNJ	Sandbach North Jn – Northwich West Jn	0	00	8	64	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3031	NSN	Northwich South Jn – Northwich Station Jn	8	37	8	66	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW3033	HEG	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0872	NW3035	HWG	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0872	NW3037	HCN	Hartford CLC Jn – Hartford Jn	0	72	0	16	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0872	NW4001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	Y	Y	Y	Y	Y	Y	Y	Y	R1	N	R1 Prohibited Preston D&UGL
+London-North-Western-North	0872	NW4001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	R1	N	R1 Prohibited Preston D&UGL

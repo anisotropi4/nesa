@@ -1,22 +1,24 @@
-Anglia	0444	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
-Anglia	0444	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	8	R1	N	R1	R1	R1	R1	R1	R1	R1 Liverpool Street platforms 8-10 diesel traction see Sectional Appendix Local Instructions
-Anglia	0444	EA1010	LVS	Liverpool Street platforms 11-18	Liverpool St (L) IECC	Liverpool Street platforms 11-18 – Liverpool St (L) IECC	0	00	0	22	8	R1	N	R1	R1	R1	R1	R1	R1	R1 Liverpool Street platforms 10-18 diesel traction see Sectional Appendix Local Instructions
-Anglia	0444	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1012	LTN1	Ipswich	East Suffolk Jn	Ipswich – East Suffolk Jn	68	59	69	41	8	Y	N	Y	Y	Y	Y	Y	Y
-Anglia	0444	EA1012	LTN1	East Suffolk Jn	Trowse Jn (EA1013)	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	8	Y	N	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+Anglia	0444	EA1012	LTN1	Ipswich – East Suffolk Jn	68	59	69	41	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1012	LTN1	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1013	LTN2	Trowse Jn – Trowse Swing Bridge	123	00	123	37	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1013	NCW	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1013	LTN2	Trowse Swing Bridge – Norwich	123	37	124	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1020	CNS	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1030	FGW	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1040	ROU	Romford – Upminster	0	00	3	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1050	SSV	Shenfield Jn – Southend Victoria	20	22	41	42	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1060	WIS	Wickford Jn – Southminster	29	13	45	42	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1070	BRA	Witham – Braintree	24	15	17	71	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1080	SUD	Marks Tey Jn – Sudbury	45	53	58	32	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1090	COC	Colchester Jn – Clacton	52	28	69	56	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1100	STB	East Gate Jn – Colne Jn	53	14	53	30	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1100	CTH	Hythe Jn – Colne Jn	0	22	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1100	STB	Colne Jn – Colchester Town	53	30	53	76	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1110	TWN	Thorpe-Le-Soken Jn – Walton-On- Naze	65	19	70	15	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1120	MAH	Manningtree South Jn – Manningtree East Jn	59	35	59	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1120	NTE	Manningtree North Jn – Manningtree East Jn	0	00	0	24	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1120	MAH	Manningtree East Jn – Harwich International Port	59	67	68	72	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1120	MAH	Harwich International Port – Harwich town	68	72	70	61	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0444	EA1130	GRW	Halifax Jn – Griffin Wharf Boundary	0	00	0	47	8	Y	Y	Y	Y	Y	Y	R1	R1	R1 Prohibited if fitted with roof horns
+Anglia	0444	EA1150	CST	Channelsea South Jn – Stratford Central Jn West	0	29	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	

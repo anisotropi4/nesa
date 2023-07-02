@@ -1,22 +1,21 @@
-London-North-Western-South	0554	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
-London-North-Western-South	0554	MD166	WLL	Route Boundary (SO250) (North Pole Jn)	Mitre Bridge Jn	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	5	65	5	67	Y	Y	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-South	0554	MD166	WLL	Mitre Bridge Jn	West London Jn (Willesden)	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-South	0554	MD166	LLG	West London Jn (Willesden)	Wembley Central Jn (Willesden Relief lines)	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	0	12	2	59	Y	Y	Y	Y	Y	Y	N	Y	Y	N
-London-North-Western-South	0554	MD167	WLL	Mitre Bridge Jn	West London Jn (Willesden)	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-South	0554	MD167	WAW	West London Jn (Willesden)	Route Boundary (EA1360) (Acton Wells)	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	6	19	6	76	Y	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD170	ACW	Route Boundary (EA1360) (Acton Canal Wharf Jn)	Willesden Jn	Route Boundary (EA1360) (Acton Canal Wharf Jn) – Willesden Jn	0	11	0	00	N	N	N	N	N	N	N	N	N	N
-London-North-Western-South	0554	MD175	BPH	Bridge Street LC	Site of Former Bridge Street Jn	Bridge Street LC – Site of Former Bridge Street Jn	4	56	4	29	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
-London-North-Western-South	0554	MD175	BDN	Site of Former Bridge Street Jn	Site of Former Duston North Jn	Site of Former Bridge Street Jn – Site of Former Duston North Jn	0	00	0	18	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
-London-North-Western-South	0554	MD175	NMH	Site of Former Duston North Jn	Northampton South Jn	Site of Former Duston North Jn – Northampton South Jn	0	29	0	65	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
-London-North-Western-South	0554	MD180	RTS	Rugby Trent Valley Jn	New Bilton	Rugby Trent Valley Jn – New Bilton	0	00	0	79	N	N	N	N	N	N	N	N	N	N
-London-North-Western-South	0554	MD232	WNS	Route Boundary (LN3232) (Hinckley)	Nuneaton South Jn	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	N	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD232	WNS	Limit of Electrification (Down direction)	Nuneaton South Jn	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	N	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD232	WNS	Nuneaton South Jn	Nuneaton South Change of ELR	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	N	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD232	PVS	Nuneaton South Change of ELR	Limit of Electrification (Up direction)	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	N	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD232	PVS	Limit of Electrification (Up direction)	Midland Yard Jn	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	N	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD232	NMA	Midland Yard Jn	Abbey Jn	Midland Yard Jn – Abbey Jn	10	09	9	60	N	N	N	N	N	N	N	H	N	N
-London-North-Western-South	0554	MD233	MYC	Midland Yard Jn	Canal Farm Jn	Midland Yard Jn - Canal Farm Jn	0	00	0	69	N	N	N	N	N	N	N	N	N	N
-London-North-Western-South	0554	MD301	RBS1	Rugby Trent Valley Jn	Coventry South Jn	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	N	N	Y	N	Y	Y	Y	Y	Y	N
-London-North-Western-South	0554	MD301	RBS1	Coventry South Jn	Coventry North Jn	Coventry South Jn – Coventry North Jn	93	71	94	19	N	N	Y	N	Y	Y	Y	Y	Y	N
-London-North-Western-South	0554	MD301	RBS1	Coventry North Jn	Stechford North Jn	Coventry North Jn – Stechford North Jn	94	19	109	12	N	N	Y	N	Y	Y	Y	Y	Y	N
-London-North-Western-South	0554	MD301	RBS1	Stechford North Jn	Grand Jn	Stechford North Jn – Grand Jn	109	12	111	72	N	N	Y	N	Y	Y	Y	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	139	142	144	150	153	155	156	158	159	Notes
+London-North-Western-South	0554	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0554	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	Y	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0554	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	Y	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0554	MD570	SKN	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	Y	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0554	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0554	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0554	MD701	MCJ1	London Marylebone – Neasden South Jn (Change of Mileage)	205	77	200	65	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD701	NAJ1	Neasden South Jn (Change of Mileage) – Northolt Jn	6	30	0	00	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited laden except for access to Chinnor Railway via Thame Jn
+London-North-Western-South	0554	MD701	NAJ2	Princes Risborough Jn – Site of Former Ashendon Jn (Change of Mileage)	24	50	33	69	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited laden except for access to Chinnor Railway via Thame Jn
+London-North-Western-South	0554	MD701	NAJ3	Site of Former Ashendon Jn (Change of Mileage) – Aynho Jn	0	00	18	35	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD705	ANL	Route Boundary (GW110) (Greenford West Jn) – Northolt Jn (South Ruislip)	8	60	10	15	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD710	MCJ1	Neasden South Jn – Network Rail Boundary (LUL) (Harrow-on-the-Hill South Jn)	200	66	197	05	E R1	N	N	N	R1	R1	R1	R1	N	N	R1 Prohibited unless fitted with tripcocks
+London-North-Western-South	0554	MD712	MCJ2	Network Rail Boundary (LUL) (Amersham, Mantles Wood) – Aylesbury Jn	25	21	38	08	E	N	N	N	R1	R1	R1	R1	N	N	R1 Prohibited over LUL section
+London-North-Western-South	0554	MD712	MCJ2	Aylesbury Jn - Aylesbury	38	08	38	13	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD715	NJN	Neasden South Jn – Route Boundary (EA1360) (Neasden Jn)	6	30	6	51	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD720	NAJ2	Princes Risborough – Change of Mileage (Princes Risborough Jn)	24	40	24	48	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited Princes Risborough platform 2 when laden
+London-North-Western-South	0554	MD720	PRA	Change of Mileage (Princes Risborough Jn) – Aylesbury Jn	42	31	49	35	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD725	MCJ2	Aylesbury – Aylesbury Vale Parkway	38	13	40	38	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0554	MD725	MCJ2	Aylesbury Vale Parkway – Change of Mileage (Quainton Road)	40	38	44	28	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited in laden condition when any other trains are within this section of route except when providing assistance

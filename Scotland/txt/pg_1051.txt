@@ -1,45 +1,66 @@
-                                                                                     OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                                  Scotland Route Sectional Appendix Module SCRC
+     Line of
+          ELR  Line of Route / Sector Description
+                                   ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+     route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
+                                     M Ch  M  Ch                (MOD)
+     SC099RSL2 Whifflet North Jn – Change of ELR
+                                     0  00 0  34 Y  Y  Y  N  N   N  N  Y  N
+     SC099RSL1 Change of ELR – Langloan Jn
+                                     6  59 6  34 Y  Y  Y  N  N   N  N  Y  N
+     SC099RCB  Langloan Jn – Rutherglen East Jn
+                                     6  34 0  04 Y  Y  Y  N  N   N  N  Y  N
+     SC101RCB  Coatbridge Jn – Langloan Jn
+                                     7  03 6  34 Y  Y  EH N  N   N  N  Y  N
+     SC103CBD1 Garnqueen North Jn – Gartcosh Jn
+                                     1  33 0  00 Y  Y  Y  N  N   N  N  Y  N
+     SC103CBD2 Gartcosh Jn – Change of ELR
+                                    97  09103 41 Y  Y  Y  N  N   N  N  Y  E
+     SC103SGN  Change of ELR – Cowlairs West Jn
+                                     0  61 -0 20 Y  Y  Y  N  N   N  N  Y  N
+     SC105GHE  Gartsherrie South Jn – Gartcosh Jn
+                                    95  64 97 06 Y  Y  Y  N  N   N  N  Y  E
+     SC106PNS  Sighthill West Jn – Cowlairs South Jn
+                                     0  30 0  00 Y  Y  Y  N  N   N  N  Y  N
+               (Chord Line)
+     SC107ECM9 Waverley East End – Edinburgh
+                                     0  21 0  00 Y  Y  Y  N  N   N  Y  Y  Y
+               Waverley
+     SC107EGM4 Edinburgh Waverley – Waverley West
+                                     0  00 0  15 Y  Y  Y  N  N   N  Y  Y  Y
+               End (South Lines)
+     SC107ECN1 Edinburgh Waverley – Waverley West
+                                     0  00 0  15 Y  Y  Y  N  N   N  Y  Y  Y
+               End (North Lines)
+     SC107EGM3 Waverley West End – Haymarket
+                                     0  15 1  19 Y  Y  Y  N  N   N  Y  Y  Y
+               (South Lines)
+     SC107ECN2 Waverley West End – Haymarket
+                                     0  15 1  19 Y  Y  Y  N  N   N  Y  Y  R1 R1Prohibited between 00m 32 ch to
+               (North Lines)                                                   Haymarket (North lines)
+     SC107EGM2 Haymarket – Haymarket East Jn (South
+                                    46  02 45 72 Y  Y  Y  N  N   N  Y  Y  Y
+               Lines)
+     SC107ECN2 Haymarket – Haymarket East Jn (North
+                                     1  19 1  29 Y  Y  Y  N  N   N  Y  Y  N
+               Lines)
+     SC107EGM2 Haymarket East Jn – Haymarket
+                                    45  72 45 35 Y  Y  Y  N  N   N  Y  Y  N
+               Central Jn (South Lines)
+     SC107ECN2 Haymarket East Jn – Haymarket
+                                     1  29 1  66 Y  Y  Y  N  N   N  Y  Y  N
+               Central Jn (North Lines)
+     SC107EGM2 Haymarket Central Jn – Haymarket
+                                    45  35 44 73 Y  Y  Y  N  N   N  Y  Y  N
+               West Jn (South Lines)
+     SC107ECN2 Haymarket Central Jn – Haymarket
+                                     1  66 2  41 Y  Y  Y  N  N   N  N  Y  N
+               West Jn (North Lines)
 
-Line of   ELR    Line of Route / Sector Description        oooo oooo oooo oooo RA         43 47/2 47/4 47/7 56 57 58 Notes
-route                                                       M    Ch   M    Ch 000         00 000 00 00 000 000 000 ooooooooooooooooooooooooo
-SC107     ECN1   Edinburgh Waverley – Waverley West End      0     00     0    15    10   Y     Y   Y    Y        Y   Y   Y
-                 (North Lines)
-SC107     EGM3   Waverley West End – Haymarket (South        0     15     1    19    10   Y     Y   Y    Y        Y   Y   Y
-                 Lines)
-SC107     ECN2   Waverley West End – Haymarket (North        0     15     1    19    10   Y     Y   Y    Y        Y   Y   Y
-                 Lines)
-SC107     EGM2   Haymarket – Haymarket East Jn (South        46    02    45    72    10   Y     Y   Y    Y        Y   Y   Y
-                 Lines)
-SC107     ECN2   Haymarket – Haymarket East Jn (North        1     19     1    29    10   Y     Y   Y    Y        Y   Y   Y
-                 Lines)
-SC107     EGM2   Haymarket East Jn – Haymarket Central       45    72    45    35    10   Y     Y   Y    Y        Y   Y   Y
-                 Jn (South Lines)
-SC107     ECN2   Haymarket East Jn – Haymarket Central       1     29     1    66    10   Y     Y   Y    Y        Y   Y   Y
-                 Jn (North Lines)
-SC107     EGM2   Haymarket Central Jn – Haymarket West       45    35    44    73    10   Y     Y   Y    Y        Y   Y   Y
-                 Jn (South Lines)
-SC107     ECN2   Haymarket Central Jn – Haymarket West       1     66     2    41    10   Y     Y   Y    Y        Y   Y   Y
-                 Jn (North Lines)
-SC107     EGM1   Haymarket West Jn – Cowlairs West Jn        44    73     1    67    10   Y     Y   Y    Y        Y   Y   Y
-SC107     EGM1   Cowlairs West Jn – Glasgow Queen Street     1     67     0    00    8    Y     Y   Y    Y        Y   Y   Y
-SC109     PMT    Polmont Jn – Grangemouth Jn                 21    20    23    75    10   Y     Y   Y    Y        Y   Y   Y
-SC109     PMT    Grangemouth Jn – Carmuirs East Jn           23    75    25    79    10   Y     Y   Y    Y        Y   Y   Y
-SC109     CMS    Carmuirs East Jn – Carmuirs West Jn         0     40     -0    2    10   Y     Y   Y    Y        Y   Y   Y
-SC109     SCM3   Carmuirs West Jn – Greenhill Lower Jn      108    74   106    62    10   Y     Y   Y    Y        Y   Y   Y
-SC109     GHL    Greenhill Lower Jn – Greenhill Upper Jn     0     52     0    00    10   Y     Y   Y    Y        Y   Y   Y
-SC110     PMT    Carmuirs East Jn – Larbert Jn               25    79    26    35    10   Y     Y   Y    Y        Y   Y   Y
-SC111     NBE    Newbridge Jn – Bathgate                     35    21    25    18    10   Y     Y   Y    Y        Y   Y   Y
-SC113     DMY    Winchburgh Jn – Dalmeny Jn                  34    54    39    03     8   Y     Y   Y    Y        Y   Y   Y   R1   RA Change
-                                                                                                                                   STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                                                     R1
-SC115     MRL1   Cowlairs West Jn – Maryhill Park Jn         8     26     5    51    10   Y     Y   Y    Y        Y   Y   Y
-SC115     MRL2   Maryhill Park Jn – Knightswood North Jn     4     40     5    67    8    Y     Y   Y    Y        Y   Y   Y
-SC1150    MLA    Maryhill Park Jn – Anniesland               0     00     0    70    5    Y     N   N    N        N   N   N
-SC116     CSN    Cowlairs East Jn – Cowlairs North Jn        0     00     0    21    10   Y     Y   Y    Y        Y   Y   Y
 
-October 2009                                                                    85
+
+     October 2009                               55

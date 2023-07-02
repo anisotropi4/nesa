@@ -1,47 +1,72 @@
-                                                                                     OFFICIAL
+                                                  OFFICIAL
 
 
-                                                               Western Route Sectional Appendix Module WR2
+                                       Western Route Sectional Appendix Module WR2
 
 
-GW877        POR Tondu Jn – Cefn Jn                        0    00     2   43    E      Y       Y   Y   Y    Y   Y   Y   Y
-GW877        OVE Cefn Jn – Margam Abbey Works East         7    41     2   41    E      Y       Y   Y   Y    Y   Y   Y   Y
-                 Jn
-GW877        OVE Margam Abbey Works East Jn –              2    41     1   40   N       N       N   N   N    N   N   N   N
-                 Margam East Jn
-GW877        OVE Margam East Jn – Margam Yard Jn           1    40     0   79   N       N       N   N   N    N   N   N   N
-GW877        OVE Margam Yard Jn – Network Rail             0    79     0   56   N       N       N   N   N    N   N   N   N
-                 Boundary (Port Talbot Docks)
-GW890        SDI1 Briton Ferry Up Flying Loop Jn –       206    14   207   67    E      Y       Y   Y   Y    Y   Y   Y   Y
-                  Dynover Jn
-GW890        SDI1 Dynover Jn – Jersey Marine Jn North    207    67   208   33    E      Y       Y   Y   Y    Y   Y   Y   Y
-GW890        SDI1 Jersey Marine Jn North – Change of     208    33   208   49    E      Y       Y   Y   Y    Y   Y   Y   Y
-                  Mileage
-GW890        SDI2 Change of Mileage – Grovesend            0    00   10    05    E      Y       Y   Y   Y    Y   Y   Y   Y
-                  Colliery Loop Jn
-GW890        SDI2 Grovesend Colliery Loop Jn – Morlais   10     05   10    64    E      Y       Y   Y   Y    Y   Y   Y   Y
-                  Jn
-GW8901 RSB Dynevor Jn – Jersey Marine South Jn           19     16   20    24   N       N       N   N   N    N   N   N   N
-GW892        VON Network Rail Boundary (Cwmgwrach)       33     14   41    17   N       N       N   N   N    N   N   N   N
-                 – Neath & Brecon Jn
-GW892        VON Neath & Brecon Jn – Burrows Sidings     41     17   46    30   N       N       N   N   N    N   N   N   N
-GW893        NAB Network Rail Boundary (Onllwyn) –       10     10     0   01   N       N       N   N   N    N   N   N   N
-                 Neath and Brecon Jn
-GW894        JER   Jersey Marine Jn North – Jersey         1    24     2   26   N       N       N   N   N    N   N   N   N
-                   Marine Jn South
-GW897        HDY Grovesend Colliery Loop Jn – Hendy        0    00     0   46    E      Y       Y   Y   Y    Y   Y   Y   Y
-                 Jn
-GW900        BSW Ableton Lane Tunnel – Severn Tunnel     10     51   16    73    E      Y       Y   Y   Y    Y   Y   Y   Y
-                 Jn
-GW900        SWM Severn Tunnel Jn – Maindee West Jn      149    14   158   16    E      Y       Y   Y   Y    Y   Y   Y   Y
-             2
-GW900        SWM Maindee West Jn – Cardiff East Jn       158    16   170   18    E      Y       Y   Y   Y    Y   Y   Y   Y
-             2
-GW900        SWM Cardiff East Jn – Cardiff West Jn       170    18   170   56    E      Y       Y   Y   Y    Y   Y   Y   Y
-             2
-GW900        SWM Cardiff West Jn – Court Sart Jn         170    56   206   58    E      Y       Y   Y   Y    Y   Y   Y   Y
-             2
+       Line of ELR
+                Line of Route / Sector
+                              oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
+       route    Description
+                                 M  Ch    M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+                                                                        oooooooooooooooooooooooooo
+       GW710 NO Llanwern Works East –
+                                153 08   156 03 N  N N  N N  N N  N N N
+           ELR  Llanwern Works West via
+                BSS (Corus Infrastructure)
+       GW720 EUBNetwork Rail Boundary
+                                 3   07   0  00 N N  N N  N N  N  N N N
+                (Uskmouth) – East Usk Jn
+       GW730 SHLSevern Bridge Jn – Craven
+                                 0   11  20  01 E R1 R1Y  Y Y  Y  Y Y N R1Prohibited between Severn Bridge Jn and Sutton
+                Arms Jn                                                   Bridge Jn
+       GW730 SHLCraven Arms Jn – Shelwick
+                                20   01  49  26 E Y  Y Y  Y Y  Y  Y Y N
+                Jn
+       GW730 SHLShelwick Jn – Site of former
+                                49   26  52  19 E Y  Y Y  Y Y  Y  Y Y R1 R1 Prohibited between Hereford Diesel Depot sidings
+                Rotherwas Jn                                            and Site of Former Rotherwas Jn
+       GW730 HDCSite of former Rotherwas Jn
+                                 0   00   1  74 E Y  Y Y  Y Y  Y  Y Y N
+                – Site of former Red Hill Jn
+                Site of former Red Hill Jn –
+       GW730 HNL1                1   74  41  66 E Y  Y Y  Y Y  Y  Y Y N
+                Maindee West Jn
+       GW731 WSJ2
+                Route Boundary (MD801)
+                                170  46  171 15 E N  N Y  Y Y  Y  Y Y N
+                (Madeley Jn) – Abbey
+                Foregate Jn
+                Abbey Foregate Jn –
+       GW731 WSJ2               171  15  171 57 E R1 R1Y  Y Y  Y  Y Y R1 R2
+                                                                          Prohibited between Abbey Foregate Jn and
+                Crewe Jn                          R2 R2                   Shrewsbury
+                                                                        R3Prohibited Shrewsbury Station Howard Street Landing
+                                                                          (Loading Dock)
+               Crewe Jn – Route
+       GW731 WSJ2               171  57  199 00 E E  E Y  Y Y  Y  Y Y N
+               Boundary (NW3005)
+               (Wrexham General)
+               Abbey Foregate Jn –
+       GW732 AFE                 0   25   0  00 E N  N Y  Y Y  Y  Y Y N
+               English Bridge Jn (Loop
+               Lines)
+       GW733 SBA1/2 Sutton Bridge Jn –
+                                 0   00  33  70 E N  N N  N N  N  Y Y N
+               Welshpool
+               Welshpool – Aberystwyth
+       GW733 SBA2               33   70   95 60 E N  N N  N N  N  Y Y N
+               Dovey Jn – Pwllheli
+       GW734 DJP                78   60  132 70 E N  N N  N N  N  Y Y N
+               Crewe Jn – Route
+       GW735 SYC                32   29   2  60 E N  N Y  Y Y  Y  Y Y N
+               Boundary (NW1007) (Limit
+               of Electrification)
+       GW736 GNQ1 Gobowen South –0   00   0  16 N N  N N  N N  N  N N N
+               Commencement of single
+               line board
 
 
 
-April 2009                                                                       497F
+
+       April 2009                                497D

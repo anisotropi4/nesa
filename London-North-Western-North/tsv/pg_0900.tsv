@@ -1,16 +1,23 @@
-London-North-Western-North	0900	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	380	390	397	507	508	Notes
-London-North-Western-North	0900	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary)	Rugeley North Jn	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC2	Rugeley North Jn	Colwich Jn	Rugeley North Jn – Colwich Jn	124	39	127	05	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC2	Colwich Jn	Stafford Trent Valley Jn No.1	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC3	Stafford Trent Valley Jn No.1	Change of ELR (North of Stafford)	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	EH	T	E R1	N	N	R2 Prohibited Stafford Up Bay platform
-London-North-Western-North	0900	NW1001	LEC4	Change of ELR (North of Stafford)	Little Bridgeford Jn	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC4	Little Bridgeford Jn	Heamies Bridge	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC6	Little Bridgeford Jn	Heamies Bridge (Down Slow line only)	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	EH	Y	E	N	N
-London-North-Western-North	0900	NW1001	LEC4	Heamies Bridge	Basford Hall Jn	Heamies Bridge – Basford Hall Jn	140	00	156	16	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC4	Basford Hall Jn	Change of ELR (Crewe South)	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	EH	T	E	N	N
-London-North-Western-North	0900	NW1001	LEC5	Change of ELR (Crewe South)	Crewe South Jn	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	EH	T	Y	N	N
-London-North-Western-North	0900	NW1001	LEC5	Crewe South Jn	Crewe North Jn	Crewe South Jn – Crewe North Jn	157	60	158	18	EH	T R1	R2	N	N	R1 Prohibited Crewe Bay platforms R2 Prohibited Crewe platform 3
-London-North-Western-North	0900	NW1001	LEC5	Crewe North Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	EH	T	Y	N	N
-London-North-Western-North	0900	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Hartford Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	EH	T	Y	N	N
-London-North-Western-North	0900	NW1001	CGJ1	Hartford Jn	Change of ELR (Preston Brook Tunnel)	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	EH	T	Y	N	N
-London-North-Western-North	0900	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel)	Acton Grange Jn	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	EH	T	Y	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	323	325	350	Notes
+London-North-Western-North	0900	NW1021	NGJ	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	Y	Y	N	N	N	H	Y	
+London-North-Western-North	0900	NW1023	HOB2	Haydock Branch Jn – End of Line	0	00	0	53	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW1025	IMG	Bamfurlong Sidings Jn – Ince Moss Jn	0	18	0	78	EH	Y	N	N	N	H	N	
+London-North-Western-North	0900	NW1027	PSR1	Preston South Jn – Preston Docks Branch (Change of ELR)	21	39	21	47	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW1027	PSR2	Preston Docks Branch (Change of ELR) – Network Rail Boundary (Ribble Steam Railway)	0	00	0	40	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW2001	WJL1	NW1001 (Weaver Jn) – Ditton East Jn	174	53	182	67	Y	E	N	N	Y	Y	Y	
+London-North-Western-North	0900	NW2001	WJL2	Ditton East Jn – Speke East Jn	182	67	186	72	Y	E	N	N	Y	Y	Y	
+London-North-Western-North	0900	NW2001	WJL3	Speke Est Jn – Edge Hill East Jn	186	72	191	75	Y	Y	N	N	Y	Y	Y	
+London-North-Western-North	0900	NW2001	WJL4	Edge Hill East Jn – Liverpool Lime Street	191	75	193	52	Y	Y	N	N	Y	Y	Y1	
+London-North-Western-North	0900	NW2003	RDB	Runcorn – Network Rail Boundary (Runcorn Dock Branch)	0	02	0	69	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW2005	SCR	Speke East Jn – Garston Jn	22	59	23	52	Y	N	N	N	N	H	N	
+London-North-Western-North	0900	NW2007	AEG	Allerton East Jn – Garston Jn	0	00	0	28	Y	N	N	N	N	H	N	
+London-North-Western-North	0900	NW2009	SDJ2	End of Line (Latchford) – Ditton East Jn	10	06	18	55	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW2011	WOA1	Walton Old Jn – Arpley Jn	0	68	0	00	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	EH	Y	N	N	N	Y	R1	R1 Prohibited with more than 2 pantographs raised
+London-North-Western-North	0900	NW2015	DSE	Newton-le-Willows Jn - Earlestown East Jn (Electrified section)	16	19	14	75	Y	Y	N	N	N	H	R1	R1 Prohibited with more than 2 pantographs raised
+London-North-Western-North	0900	NW2015	DSE	Earlestown East Jn - Edge Hill	14	75	1	57	EH	Y	N	N	N	H	R1	R1 Prohibited between Earlstown East Jn and Limit of Electrification
+London-North-Western-North	0900	NW2017	SCN	Eccles Station Jn – Network Rail (Weaste Branch) / MSC Boundary	0	00	0	54	N	N	N	N	N	N	N	
+London-North-Western-North	0900	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	Y	Y	N	N	N	Y	R1	R1 Prohibited with more than 2 pantographs raised
+London-North-Western-North	0900	NW2021	EEE	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	EH	Y	N	N	N	H	N	
+London-North-Western-North	0900	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	EH	Y	N	N	N	H	N	
+London-North-Western-North	0900	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	EH	Y	N	N	N	H	N	

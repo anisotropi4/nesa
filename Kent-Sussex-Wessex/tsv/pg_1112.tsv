@@ -1,20 +1,21 @@
-Kent-Sussex-Wessex	1112	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Kent-Sussex-Wessex	1112	SO250	FLL2	Longhedge Jn	Route Boundary (SW100) (Ludgate Jn)	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	8	Y
-Kent-Sussex-Wessex	1112	SO250	CKL	Longhedge Jn	Latchmere Jn No.3	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	8	Y
-Kent-Sussex-Wessex	1112	SO250	SCC	Latchmere Jn No.3	Route Boundary (SW100) (West London Jn)	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	8	Y
-Kent-Sussex-Wessex	1112	SO250	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SW220]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	8	Y
-Kent-Sussex-Wessex	1112	SO250	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SW220]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	8	Y
-Kent-Sussex-Wessex	1112	SO250	CJL	Latchmere Jn No.2	Route Boundary (SW100) (Ludgate Jn)	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	8	Y
-Kent-Sussex-Wessex	1112	SO250	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SW220]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	Y
-Kent-Sussex-Wessex	1112	SO250	WLL	Kensington Olympia	Northbound AC/DC changeover	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	Y
-Kent-Sussex-Wessex	1112	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	Y
-Kent-Sussex-Wessex	1112	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y
-Kent-Sussex-Wessex	1112	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	Y
-Kent-Sussex-Wessex	1112	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	Y
-Kent-Sussex-Wessex	1112	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	8	Y
-Kent-Sussex-Wessex	1112	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	R1	R2 Prohibited between Crofton Park and Catford on the Down Catford Loop line
-Kent-Sussex-Wessex	1112	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	Y
-Kent-Sussex-Wessex	1112	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	Y
-Kent-Sussex-Wessex	1112	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (former Farringdon Jn)	0	66	0	00	4	Y
-Kent-Sussex-Wessex	1112	SO280	FTL	ELR change (former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N
-Kent-Sussex-Wessex	1112	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Kent-Sussex-Wessex	1112	SW190	NMS1	New Malden – Fulwell Jn	9	62	14	53	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW190	NMS2	Fulwell Jn – Shepperton	12	56	18	73	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW195	HAM	Hampton Court Jn – Hampton Court Up line	13	27	14	76	4	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1112	SW195	HAM	Hampton Court Jn – Hampton Court Down line	13	27	14	76	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW200	NGL	Hampton Court Jn – Effingham Jn	13	27	21	04	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW200	NGL	Effingham Jn – Guilford	21	04	29	70	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW205	LEJ	Leatherhead – Effingham Jn	18	02	22	15	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG1	Clapham Jn – Point Pleasant Jn	3	74	5	09	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG1	Point Pleasant Jn – Richmond	5	09	9	57	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG1	Richmond – Virginia Water	9	57	23	15	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG1	Virginia Water – Wokingham Jn	23	15	36	35	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG2	Wokingham Jn – Reading Spur Jn	61	72	67	76	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RNJ	Reading Spur Jn – Route Boundary (GW190) (Reading New Jn)	68	00	67	76	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG2	Reading Spur Jn – Reading Southern Jn	67	76	68	25	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RLL	Route Boundary Western (Reading East Main Jn) – Reading Southern Jn	35	35	0	00	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW210	RDG2	Reading Southern Jn – Reading platforms 4, 5 and 6	68	25	68	68	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1112	SW220	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SO250]	2	39	2	50	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1112	SW220	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SO250]	0	63	0	68	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1112	SW220	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SO250]	0	71	3	42	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1112	SW225	PPW	Point Pleasant Jn – Network Rail Boundary (TfL – District Line)	5	09	5	67	6	N	N	Y	N	N	N	

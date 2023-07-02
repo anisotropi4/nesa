@@ -1,48 +1,68 @@
-                                                                                       OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                LNW South Route Sectional Appendix Module LNW(S) RC
+                                      LNW South Route Sectional Appendix Module LNW(S) RC
 
-
-
-Line of ELR     Line of Route / Sector Description      oooo oooo oooo oooo RA 43 47/2 47/4 47/7 56 57 Notes
-route                                                    M Ch M         Ch     ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-MD345   RRN1    Change of Mileage – Cannock Change of      0       00    7    20   8      Y        Y   Y   Y   Y   Y
-                ELR
-MD345   RRN2    Cannock Change of ELR – Route              7       20    14   00   8      Y        Y   Y   Y   Y   Y
-                Boundary (NW1004) (Rugeley North Jn)
-MD350   BJW3    Anglesea Sidings – Lichfield City Jn      12       15    16   47   8      N        N   N   N   N   N Line out of use
-                                                                                                                       NC/G1/2005/LN296
-MD355   LTV   Lichfield South Jn – Lichfield Trent Valley   0      22    0    02   8      Y        Y   Y   Y   Y   Y
-              Jn (Chord Line)
-MD360   WDJ   Walsall, Pleck Jn – Darlaston Jn              1      16    0    15   8      Y        Y   Y   Y   Y   Y
-MD365   PJW   Portobello Jn – Wolverhampton Crane           0      04    1    59   8      Y        Y   Y   Y   Y   Y
+     MD355LTV Lichfield South Jn – Lichfield Trent
+                                   0  22  0 02  Y  Y   Y  N  N   N  N   N  N
+              Valley Jn (Chord Line)
+     MD360WDJ Walsall, Pleck Jn – Darlaston Jn
+                                   1  16  0 15  Y  Y   Y  N  Y   Y  N   Y  N
+     MD365PJW Portobello Jn – Wolverhampton Crane
+                                   0  04  1 59  Y  Y   Y  Y  Y   Y  N   Y  N
               Street Jn
-MD401   DCL   Route Boundary (GW200) (Heyford) –           75      00    81   13   8      Y        Y   Y   Y   Y   Y
+     MD401DCL Route Boundary (GW200) (Heyford) –
+                                   75 00 81 13  Y  Y   Y  Y  N   Y  N   N  N
               Aynho Jn
-MD401   DCL   Aynho Jn – Leamington Spa North Jn           81      13   106   25   8      Y        Y   Y   Y   Y   Y
-MD401   DCL   Leamington Spa North Jn – Tyseley South 106          25   125   73   8      Y        Y   Y   Y   Y   Y
-              Jn
-MD401   BCV/D Tyseley South Jn – Small Heath South Jn 125          73   126   59   8      Y        Y   Y   Y   Y   Y
-        CL
-MD401   BCV   Small Heath South Jn – Bordesley Jn         126      59   128   11   8      Y        Y   Y   Y   Y   Y
-MD405   LSC1 Leamington Spa North Jn – Milverton          106      25   107   06   8      Y        Y   Y   Y   Y   Y
-              Change of ELR
-MD405   LSC2 Milverton Change of ELR – Coventry             0      00    8    45   8      Y        Y   Y   Y   Y   Y
+     MD401DCL Aynho Jn – Leamington Spa North Jn
+                                   81 13 10625  Y  Y   Y  Y  N   Y  N   N  N
+     MD401DCL Leamington Spa North Jn – Tyseley
+                                  106 25 12573  Y  Y   Y  Y  N   Y  N   N  N
               South Jn
-MD410   CNN   Coventry North Jn – Nuneaton South Jn         0      00     9   53   8      Y        Y   Y   Y   Y   Y
-MD415   HSA   Hatton Station Jn – Bearley Jn               18      12    12   48   8      Y        Y   Y   Y   Y   Y
-MD415   HSA   Bearley Jn – Stratford Upon Avon (End of     12      48     8   63   8      Y        Y   Y   Y   Y   Y
-              Headshunt)
-MD420   HHW Hatton North Jn – Hatton West Jn               18      25    17   62   8      Y        Y   Y   Y   Y   Y
-MD425   TSB   Tyseley South Jn – Bearley Jn                 0      00    17   71   8      Y        Y   Y   Y   Y   Y
-MD430   OWW Droitwich Spa – Cutnall Green (former         126      21   130   40   8      Y        Y   Y   Y   Y   Y
+     MD401BCV/D Tyseley South Jn – Small Heath South 125
+                                      73 12659  Y  Y   Y  Y  N   Y  N   N  N
+          CL  Jn
+     MD401BCV Small Heath South Jn – Bordesley Jn
+                                  126 59 12811  Y  Y   Y  Y  N   Y  N   N  N
+     MD405LSC1Leamington Spa North Jn – Milverton
+                                  106 25 10706  Y  Y   Y  Y  N   Y  N   N  N
+              Change of ELR
+     MD405LSC2Milverton Change of ELR – Coventry
+                                   0  00  8 45  Y  Y   Y  Y  N   Y  N   N  N
+              South Jn
+     MD410CNN Coventry North Jn – Nuneaton South
+                                   0  00  9 53  Y  Y   Y  N  N   N  N   Y  N
+              Jn
+     MD415HSA Hatton Station Jn – Bearley Jn
+                                   18 12 12 48  Y  Y   Y  Y  N   Y  N   N  N
+     MD415HSA Bearley Jn – Stratford Upon Avon (End
+                                   12 48  8 63  Y  Y   Y  Y  N   Y  N   N  N
+              of Headshunt)
+     MD420HHW Hatton North Jn – Hatton West Jn
+                                   18 25 17 62  Y  Y   Y  Y  N   Y  N   N  N
+     MD425TSB Tyseley South Jn – Bearley Jn
+                                   0  00 17 71  Y  Y   Y  Y  N   Y  N   N  N
+     MD430OWW Droitwich Spa – Cutnall Green (former
+                                  126 21 13040  Y  Y   Y  N  N   N  N   N  N R1
               Route Boundary)
-MD430   OWW Cutnall Green (former Route Boundary) – 130            40   135   46   8      Y        Y   Y   Y   Y   Y
-              Kidderminster
-MD435   DCL   Small Heath South Jn – Site of Former       126      59   132   47   8      Y        Y   Y   Y   Y   Y
+     MD430OWW Cutnall Green (former Route
+                                  130 40 13546  Y  Y   Y  EH N  R1  N   N  N Prohibited between Hartlebury and
+              Boundary) – Kidderminster                   R1                 Route Boundary (GW370) (Cutnall
+                                                                             Green)
+     MD435DCL Small Heath South Jn – Site of Former 126
+                                      59 13247  Y  Y   Y  Y  N   Y  N   N  N
               Handsworth Jn
-MD435   HSJ     Site of Former Handsworth Jn –           132       47   133   32   8      Y        Y   Y   Y   Y   Y
-                Smethwick Jn
+     MD435HSJ Site of Former Handsworth Jn –
+                                  132 47 13332  Y  Y   Y  Y  N   Y  N   N  N
+              Smethwick Jn
+     MD435GSJ2Smethwick Jn – Stourbridge North Jn
+                                  133 32 14106  Y  Y   Y  Y  N   Y  N   N  N
+     MD440GSJ1Galton Jn – Smethwick Jn
+                                   3  64  4 08  Y  Y   Y  N  N   N  N   N  N
+     MD445SJS Stourbridge Jn – Stourbridge Town
+                                  142 16 14278  Y  Y  N   N  N   N  N   N  N
+     MD450OWW Stourbridge North Jn – Round Oak
+                                  142 15 14613  Y  Y   Y  N  N   N  N   N  N
 
-December 2009                                                                                 34
+
+     December 2009                                   24B

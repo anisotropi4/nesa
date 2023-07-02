@@ -1,23 +1,10 @@
-London-North-Western-South	0580	MD455	KWD	Kingswinford Jn	Network Rail Boundary	Kingswinford Jn – Network Rail Boundary	144	33	145	60	N	N	N	N	N	N	N	N	N	Line out of use NME/2005/LNW284
-London-North-Western-South	0580	MD460	SJT1	Kineton MOD Branch	Burton Dassett (MOD Kineton)	Kineton MOD Branch – Burton Dassett (MOD Kineton)	22	60	25	60	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD501	DBP1	Route Boundary (LN3501) (London Road Jn)	Kingsbury Jn	Route Boundary (LN3501) (London Road Jn) – Kingsbury Jn	23	30	29	39	Y	Y	Y	EH	N	Y	N	N	N
-London-North-Western-South	0580	MD501	DBP2	Kingsbury Jn	Water Orton East Jn	Kingsbury Jn – Water Orton East Jn	29	39	33	22	Y	Y	Y	EH	N	Y	N	N	N
-London-North-Western-South	0580	MD501	DBP3	Water Orton East Jn (Change of Mileage)	Landor Street Jn	Water Orton East Jn (Change of Mileage) – Landor Street Jn	34	43	40	60	Y	Y	Y	EH	N	Y	N	N	N
-London-North-Western-South	0580	MD501	DBP3	Landor Street Jn	Proof House Jn	Landor Street Jn – Proof House Jn	40	60	41	51	Y	Y	Y	EH R1	N	Y	N	N	N	R1 Prohibited between Landor St and Grand Jn
-London-North-Western-South	0580	MD545	KJW	Kingsbury Jn	Whitacre Jn (Change of Mileage)	Kingsbury Jn – Whitacre Jn (Change of Mileage)	29	39	31	69	Y	Y	Y	EH	N	Y	N	N	N
-London-North-Western-South	0580	MD555	NWO	Nuneaton North Junction	Lmit of Electrification	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD555	NWO	Limit of Electrification	Whitacre West Junction	Limit of Electrification – Whitacre West Junction	10	00	0	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD555	DBP3	Whitacre West Jn	Water Orton East Jn	Whitacre West Jn – Water Orton East Jn	31	69	34	43	Y	Y	Y	EH	N	Y	N	N	N
-London-North-Western-South	0580	MD560	WOP	Water Orton West Jn	Park Lane Change of ELR	Water Orton West Jn – Park Lane Change of ELR	35	15	36	04	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD560	CBR2	Park Lane Change of ELR	Park Lane Jn	Park Lane Change of ELR – Park Lane Jn	36	04	36	15	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD565	CBR1	Castle Bromwich Jn	Park Lane Jn	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD565	CBR2	Park Lane Jn	Ryecroft Jn	Park Lane Jn – Ryecroft Jn	36	04	47	48	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD570	LSS	Landor Street Jn	St Andrews Jn	Landor Street Jn – St Andrews Jn	40	60	41	18	Y	Y	Y	EH	N	Y	N	N	N
-London-North-Western-South	0580	MD570	SKN	St Andrews Jn	Bordesley Jn	St Andrews Jn – Bordesley Jn	41	18	41	44	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0580	MD570	SKN	Bordesley Jn	Kings Norton Jn (Camp Hill Lines)	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD575	SAG	St Andrews Jn	Grand Jn	St Andrews Jn – Grand Jn	0	00	0	52	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0580	MD580	LEL	Lifford East Jn	Lifford West Jn	Lifford East Jn – Lifford West Jn	46	11	46	36	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0580	MD701	MCJ1	London Marylebone	Neasden South Jn (Change of Mileage)	London Marylebone – Neasden South Jn (Change of Mileage)	205	77	200	65	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0580	MD701	NAJ1	Neasden South Jn (Change of Mileage)	Northolt Jn	Neasden South Jn (Change of Mileage) – Northolt Jn	6	30	0	00	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0580	MD701	NAJ2	Northolt Jn	Princes Risborough Jn	Northolt Jn – Princes Risborough Jn	0	00	24	50	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0580	MD701	NAJ2	Princes Risborough Jn	Site of Former Ashendon Jn (Change of Mileage)	Princes Risborough Jn – Site of Former Ashendon Jn (Change of Mileage)	24	50	33	69	Y	Y	Y	Y	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
+London-North-Western-South	0580	MD900	ABW	Abbotswood Jn – Norton Jn	0	00	0	62	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD900	OWW	Norton Jn – Shrub Hill Jn	117	26	120	46	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD900	OWW	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD900	STO	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD910	OWW	Pershore (excl) – Norton Jn	112	00	117	26	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD940	WAH	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD940	WAH	Henwick SB – Shelwick Jn	121	65	148	11	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD950	BLW	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0580	MD950	WAH	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	N	N	N	N	N	N	N	H	N	N	

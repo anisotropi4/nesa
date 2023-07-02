@@ -1,14 +1,19 @@
-Kent-Sussex-Wessex	0995	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	0995					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Kent-Sussex-Wessex	0995	SO180	Paddock Wood – Maidstone West	Paddock Wood	Maidstone West	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO210	Appledore – Lydd Town (Goods Line)	Appledore	Lydd Town (Goods Line)	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO220	Ashford – Ramsgate (via Canterbury West)	Ashford	Ramsgate (via Canterbury West)	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO220	Minster West Jn – Minster South Jn	Minster West Jn	Minster South Jn	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO230	Folkestone East – Folkestone Harbour	Folkestone East	Folkestone Harbour	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO240	Buckland Jn – Minster East Jn	Buckland Jn	Minster East Jn	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO250	Battersea Pier Jn – Longhedge 'A' Jn [ 1m 58ch ] incl. Battersea Reversible Line	Battersea Pier Jn	Longhedge 'A' Jn [ 1m 58ch ] incl. Battersea Reversible Line	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO250	Longhedge 'B' Jn [ 1m 63ch ] – Pouparts Jn	Longhedge 'B' Jn [ 1m 63ch ]	Pouparts Jn	Y *	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	0995	SO250	Factory Jn – West London Jn, Willesden via Longhedge 'A' Jn (SW220)	Factory Jn	West London Jn, Willesden via Longhedge 'A' Jn (SW220)	Y *	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0995	SO250	Longhedge 'C' Jn – Ludgate GW Jn via Lavender Hill Jn, former site of (SW100)	Longhedge 'C' Jn	Ludgate GW Jn via Lavender Hill Jn, former site of (SW100)	Y	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0995	SO250	Ludgate GW Jn – Latchmere No.2 Jn (SW100)	Ludgate GW Jn	Latchmere No.2 Jn (SW100)	Y	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0995	SO250	Latchmere Jn No 1 – Falcon Jn (via Clapham Jn plat 16 & 17)	Latchmere Jn No 1	Falcon Jn (via Clapham Jn plat 16 & 17)	Y	Y	Y	Y	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Kent-Sussex-Wessex	0995	SO110	VIR	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	VIR	Battersea Pier Jn – Linford Street Jn	0	70	1	45	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	AHG	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	VIR	Linford Street Jn – Factory Jn	1	45	1	61	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	FLL1	Factory Jn – Longhedge Jn	0	40	0	03	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	VIR	Factory Jn – Shepherds Lane Jn	1	61	2	70	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	VIR	Shepherds Lane Jn – Brixton Jn	2	70	3	08	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	VIR	Brixton Jn – Herne Hill North Jn	3	08	3	70	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	VIR	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	HHT	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	HHT	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	HHT	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0995	SO110	VIR	Herne Hill South Jn – Beckenham Jn	4	06	8	43	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	VIR	Beckenham Jn – Shortlands Jn	8	43	9	57	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	VIR	Shortlands Jn – Bickley Jn	9	57	12	38	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	TLP1	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0995	SO110	TLP2	Bickley Jn – Petts Wood (Slow Tonbridge Loop)	12	49	13	35	8	N	N	Y	N	N	Y	

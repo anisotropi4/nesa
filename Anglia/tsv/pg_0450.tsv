@@ -1,21 +1,25 @@
-Anglia	0450	EA1340	LLS2	Lea Jn	High Meads Jn	Lea Jn – High Meads Jn	0	51	0	65	8	Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1350	CHM	Channelsea North Jn	High Meads Jn	Channelsea North Jn – High Meads Jn	0	00	0	15	8	Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1350	LLS1	High Meads Jn	Temple Mills East Jn	High Meads Jn – Temple Mills East Jn	0	15	0	59	8	Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn)	Dudding Hill Jn	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	8	Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn)	Dudding Hill Jn	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	8	Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	CAW	Dudding Hill Jn	Neasden Jn	Dudding Hill Jn – Neasden Jn	6	04	7	02	8	Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	NJN	Neasden Jn	Route Boundary (MD715) (Neasden South Jn)	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	8	Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	CAW	Neasden Jn	Acton Canal Wharf Jn	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	8		Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	ACW	Acton Canal Wharf Jn	Route Boundary (MD170) (Willesden Jn)	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	CAW	Acton Canal Wharf Jn	Acton Wells Jn (Change of Mileage)	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	8		Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	WAW	Acton Wells Jn (Change of Mileage)	Route Boundary (MD165) (North Pole Jn / Willesden West London Jn)	Acton Wells Jn (Change of Mileage) – Route Boundary (MD165) (North Pole Jn / Willesden West London Jn)	6	09	6	76	8		Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1360	CAW	Acton Wells Jn (Change of Mileage)	Acton Wells Jn	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	8		Y		Y		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	GOJ	Gospel Oak Jn	Junction Rd Jn	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	JRT2	Junction Rd Jn	Route Boundary (LN3210) (Carlton Rd Jn)	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	TAH1	Junction Rd Jn	Harringay Park Jn	Junction Rd Jn – Harringay Park Jn	2	42	4	15	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	HPW	Harringay Park Jn	Route Boundary (LN165) (Harringay Jn)	Harringay Park Jn – Route Boundary (LN165) (Harringay Jn)	0	25	0	14	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	TAH1	Harringay Park Jn	South Tottenham West Jn	Harringay Park Jn – South Tottenham West Jn	4	15	5	65	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	TAH1	South Tottenham West Jn	South Tottenham East Jn	South Tottenham West Jn – South Tottenham East Jn	5	65	5	73	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	TAH2	South Tottenham East Jn	Woodgrange Park Jn	South Tottenham East Jn – Woodgrange Park Jn	5	73	11	79	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	TAH3	Woodgrange Park Jn	Barking Station Jn	Woodgrange Park Jn – Barking Station Jn	11	79	13	12	8		Y		N		Y		Y		Y		Y		Y		Y
-Anglia	0450	EA1370	TAH3	Barking Station Jn	Barking Tilbury Jn West	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	8		Y		N		Y		Y		Y		Y		Y		Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+Anglia	0450	EA1380	FSS2	Barking Tilbury Jn East – Upminster	7	60	15	20	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1380	FSS2	Upminster – Southend Central	15	20	35	55	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1380	FSS3	Southend Central – Shoeburyness	35	55	39	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1390	TLL	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1390	TLL	Former Tilbury West Jn – Pitsea Jn	22	06	32	43	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1400	GFB	Gas Factory Jn – Bow Jn	2	57	3	47	3	Y	N	Y	Y	Y	Y	R1	Y	R1 Classes 37/3, 37/4. 37/6 prohibited
+Anglia	0450	EA1410	FSS2	Upminster – Upminster East Jn	15	20	15	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1410	UPG	Upminster East Jn – West Thurrock Jn	0	00	6	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1420	THN	Thames Haven Jn – Thames Haven	26	41	30	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1430	ESK	East Suffolk Jn – Westerfield Jn	69	41	73	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1430	ESK	Westerfield Jn – Oulton Broad North Jn	73	23	116	27	7	R1	R1	R1	R1	R1	R1	R1	R1	R1 20mph over Bridge 429 River Deben (81m 73ch – 81m 76ch) NC/G1/2016/ANG/005 until 31 March 2022
+Anglia	0450	EA1440	FEL	Westerfield Jn – Felixstowe Beach Jn	73	23	83	57	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1440	FEL	Felixstowe Beach Jn – Felixstowe town	83	57	84	30	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1450	TFN	Trimley – Port of Felixstowe North Quay Terminal	0	00	0	18	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1460	FED	Felixstowe Beach Jn – Felixstowe Beach	83	57	86	34	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1470	NOL	Thorpe Jn – Limit of Electrification	0	09	0	79	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1470	NOL	Limit of Electrification – Reedham Jn	0	79	12	34	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1470	NOL	Reedham Jn – Lowestoft	12	34	23	41	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1480	WHC1	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1480	WHC1	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1480	WHC2	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1480	WHC3	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1490	CRS	Cromer Jn – Network Rail Boundary (North Norfolk Railway)	46	27	42	69	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0450	EA1500	NAY	Brundall Jn – Yarmouth Via Acle	5	72	18	29	7	Y	Y	Y	Y	Y	Y	Y	Y	

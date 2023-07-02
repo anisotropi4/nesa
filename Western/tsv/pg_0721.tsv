@@ -1,22 +1,14 @@
-Western	0721	GW175	WEL2	Greenford LUL Bay Jn	Greenford Station	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	Y	Y	N	N	Y	N	N	N	N	N	N
-Western	0721	GW176	HAN	Hanwell Jn	Drayton Green Jn	Hanwell Jn – Drayton Green Jn	0	00	0	36	Y	Y	N	N	N	R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
-Western	0721	GW178	BRB	Southall	Brentford Goods	Southall – Brentford Goods	0	00	2	70	N	N	N	N	N	N	N	N	N	N	N
-Western	0721	GW180	HLL	Heathrow Airport Jn (Up and Down Main)	NR Boundary (BAA)	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	N	N	N	N	N	N	N	N	N	N	N
-Western	0721	GW182	STA	West Drayton Jn	End of Branch (Colnbrook)	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	N	N	N	N	N	N	N	N	N	N	N
-Western	0721	GW184	WIN	Slough	Windsor & Eton Central	Slough – Windsor & Eton Central	18	36	21	19	Y	Y	N	N	N	N	N	N	N	N	N
-Western	0721	GW185	WBB	Maidenhead	Bourne End	Maidenhead – Bourne End	24	19	28	55	Y	Y	N	N	N	N	N	N	N	N	N
-Western	0721	GW185	MWB	Bourne End GF	Marlow	Bourne End GF – Marlow	0	06	2	54	Y	Y	N	N	N	N	N	N	N	N	N
-Western	0721	GW187	HEN	Twyford	Henley-on-Thames	Twyford – Henley-on-Thames	31	01	35	48	Y	Y	N	N	N	N	N	N	N	N	N
-Western	0721	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn)	Reading New Jn	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	Y	Y	N	N	N	N	N	Y	Y	Y	N
-Western	0721	GW195	RLL	Reading Southern Jn	Reading East Jn	Reading Southern Jn – Reading East Jn	35	33	35	61	R1	Y	N	N	N	N	N	Y	Y	Y	N	R1 Prohibited with tripcocks fitted
-Western	0721	GW200	DCL	Chester Line Jn	Route Boundary (MD401) (Heyford)	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	Y	Y	Y	N	N	R1	Y	Y	Y	T R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 Prohibited to tilt between Chester Line Jn and Wolvercote
-Western	0721	GW220	RWC	Reading, Oxford Road Jn	Reading West Jn	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	N	Y	N	N	N	N	Y	Y	Y	Y	N
-Western	0721	GW225	RFR	Caversham Road Jn	Oxford Road Jn	Caversham Road Jn – Oxford Road Jn	36	25	36	74	Y	Y	N	N	N	N	N	Y	Y	Y	N
-Western	0721	GW240	DEC	Didcot East Jn	Didcot North Jns	Didcot East Jn – Didcot North Jns	52	66	54	00	Y	Y	N	N	N	N	Y	Y	Y	Y	N
-Western	0721	GW250	DWC	Foxhall Jn	Didcot West Curve Jn	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	Y	Y	N	N	N	N	Y	Y	Y	Y	N
-Western	0721	GW260	THA	Kennington Jn	Morris Cowley	Kennington Jn – Morris Cowley	18	45	16	04	Y	N	Y	N	N	Y	N	N	N	N	N
-Western	0721	GW277	OXD	Oxford North Jn	Route Boundary (MD736) (29m 25ch)	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	Y	R1	Y	N	N	Y	N	N	N	N	N	R1 Prohibited Islip Down platform 2
-Western	0721	GW310	OWW	Wolvercot Jn	Norton Jn	Wolvercot Jn – Norton Jn	66	32	112	00	Y	Y	N	N	N	N	Y	Y	Y	Y	N
-Western	0721	GW317	OWW	Honeybourne Stratford Line Junction	Start of branch mileage	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	N	N	N	N	N	N	N	N	N	N	N
-Western	0721	GW317	STD	Start of branch mileage	Long Marston	Start of branch mileage – Long Marston	0	00	2	70	N	N	N	N	N	N	N	N	N	N	N
-Western	0721	GW401	BAG2	Route Boundary (MD306) (Ashchurch)	Gloucester Barnwood Jn (Change of ELR)	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	E R1 R2 R3	Y	N	Y	N	R4	Y	Y	Y	Y	N	R1 10mph Ashchurch Up platform R2 20mph Cheltenham Spa Down platform R3 Route prohibited to Class 165/0 R4 Route prohibited to Class 172/0 and 172/1
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
+Western	0721	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	Y	Y	Y	R1 R2	N	R3	Y	Y	N	R4	R4	N
+Western	0721	GW103	RLL	Reading East Jn – Route Boundary (SW210) (Reading Southern Jn)	35	61	35	38	Y	Y	N	N	N	N	N	Y	N	Y	Y	N
+Western	0721	GW103	MLN1	Westbury Line Jn – Reading West Jn	36	17	36	78	Y	Y	Y	N	N	R1	Y	Y	N	Y	Y	N
+Western	0721	GW103	MLN1	Reading West Jn – Didcot East Jn	36	78	52	66	Y	Y	Y	N	N	R1	Y	Y	N	Y	Y	N
+Western	0721	GW103	MLN1	Didcot East Jn – Chester Line Jn	52	66	53	12	Y	Y	Y	N	N	R1	Y	Y	N	R2 R3	R2 R3	N
+Western	0721	GW103	MLN1	Chester Line Jn – Foxhall Jn	53	12	53	55	Y	Y	N	N	N	N	Y	Y	N	R1	R1	N
+Western	0721	GW103	MLN1	Foxhall Jn – Uffington	53	55	66	39	Y	Y	N	N	N	N	Y	Y	N	R1	R1	N
+Western	0721	GW105	MLN1	Uffington – Swindon Jn	66	39	77	36	R1	Y	N	N	N	N	Y	Y	N	R2	R2	N
+Western	0721	GW105	MLN1	Swindon Jn – Wootton Bassett Jn	77	36	83	07	Y	Y	N	N	N	N	Y	Y	N	R1	R1	N
+Western	0721	GW105	MLN1	Wootton Bassett Jn – Thingley Jn	83	07	96	10	Y	Y	N	N	N	N	Y	Y	N	R1	R1	N
+Western	0721	GW105	MLN1	Thingley Jn – North Somerset Jn	96	10	117	46	Y	Y	N	R2	N	N	Y	Y	N	R1	R1	N
+Western	0721	GW105	MLN1	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
+Western	0721	GW105	MLN1	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N

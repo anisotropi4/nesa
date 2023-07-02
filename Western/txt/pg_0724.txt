@@ -1,48 +1,67 @@
-                                                                                OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW572   FNS2   Frome North Jn – Change of ELR             0    00     2    38    N     N   N   N    N   N   N   N   N    N    N
-GW572   WQL    Change of ELR – Network Rail               2    38     2    40    N     N   N   N    N   N   N   N   N    N    N
-               Boundary (Mendip Rail - Whatley
-               Quarry)
-GW580   ESB    East Somerset Jn – Network Rail            0    11     5    48    N     N   N   N    N   N   N   N   N    N    N
-               Boundary (East Somerset Railway -
-               Cranmore East)
-GW600   SWB    Wootton Bassett Jn – Stoke Gifford Jn    83     07   111    79    Y     Y   N   R1   N   N   Y   Y   R2   R2   N R1     Prohibited between Wootton
-               No.1                                                                                                                    Bassett Jn and Westerleigh Jn
-                                                                                                                                  R2   100mph maximum speed
-GW600   SWB    Stoke Gifford Jn No.1 – Patchway Jn      111    79   112    68    Y     Y   N   Y    N   N   Y   Y   R1   R1   N R1     100mph maximum speed
-               No.2
-GW600   BSW    Patchway Jn No.2 – Route Boundary          5    61     9    12    N     Y   N   Y    N   N   Y   Y   Y    Y    N
-               Wales
-GW600   BSW    Route Boundary – Ableton Lane Tunnel       9    12    10    51    N     Y   N   Y    N   N   Y   Y   Y    Y    N
-               (GW900)
-GW606   DAC    Cowley Bridge Jn – Crediton SB           173    50   179    26    N     Y   N   N    N   N   N   N   N    N    N
-GW606   NDN    Crediton SB – End of Line (Barnstaple)   179    26   211    31    N     Y   N   N    N   N   N   N   N    N    N
-GW608   DAC    Crediton – Former Coleford Jn            179    26   183    69    N   R1    N   N    N   N   N   N   N    N    N R1     Up to 3 cars
-GW608   DAC    Former Coleford Jn – Meldon Quarry       183    69   198    72    N    R1   N   N    N   N   N   N   N    N    N R1     Up to 3 cars
-                                                                                     R2                                         R2     Prohibited Okehampton
-                                                                                                                                       Groundframe to Meldon Quarry
-GW610   BAE2   Route Boundary (SW115) (Honiton) –       164    30   172    04    N   R1    N   Y    N   N   N   Y   Y    Y    N R1     Prohibited Route Boundary
-               Exeter St Davids Jn                                                                                                     (SW115) (Honiton) - Single Line
-                                                                                                                                       Jn (Signal EJ1) (168m 00ch
-GW611   EMT    Exmouth Jn – Exmouth                       0    01     9    32    N   R1    N   N    N   N   N   N   Y    Y    N R1     Prohibited Polsloe Bridge Halt
-                                                                                                                                       Single line with crush deflated
-                                                                                                                                       suspension
-GW618   MOB    Newton Abbott East Jn – End of Line        0    14     4    07    N     N   N   N    N   N   N   N   N    N    N
-               (Beyond Heathfield)
-GW620   TOR    Newton Abbott West Jn – Paignton         214    43   222    25    N     Y   N   E    N   N   Y   Y   Y    Y    N
-               Crossover Ground Frame
-GW628   SUT1   Laira Jn – Speedway Jn                   244    02   244    30    N     Y   N   N    N   N   N   N   Y    Y    N
-GW628   PLO    Lipson Jn – Speedway Jn                    0    00     0    22    N     Y   N   N    N   N   Y   Y   Y    Y    N
-GW628   SUT1   Speedway Jn – Mount Gould Jn             244    30   244    43    N     Y   N   N    N   N   Y   Y   Y    Y    N
-GW628   SUT2   Mount Gould Jn – Former Friary Jn        244    41   244    60    N     Y   N   N    N   N   N   N   Y    Y    N
-GW628   FRY    Former Friary Jn – Turnchapel Branch     244    60   245    17    N     N   N   N    N   N   N   N   N    N    N
-               Jn
+       GW175 WEL2Greenford LUL Bay Jn – Greenford
+                                       8  65  9 06 Y  Y N  N  Y N  N N  N  N N  N
+                 Station
+       GW176 HAN Hanwell Jn – Drayton Green Jn
+                                       0  00  0 36 Y  Y N  N N  R1 Y Y  N  Y Y  N R1Route prohibited to Class 172/2
+                                                                                    and 172/3
+       GW178 BRB Southall – Brentford Goods
+                                       0  00  2 70 N  N N  N N  N  N N  N  N N  N
+       GW180 HLL Heathrow Airport Jn (Up and Down
+                                       11 04 12 27 N  N N  N N  N  N N  N  N N  N
+                 Main) – NR Boundary (BAA)
+       GW182 STA West Drayton Jn – End of Branch
+                                       13 31 16 25 N  N N  N N  N  N N  N  N N  N
+                 (Colnbrook)
+       GW184 WIN Slough – Windsor & Eton Central
+                                       18 36 21 19 Y  Y N  N N  N  N N  N  N N  N
+       GW185 WBB Maidenhead – Bourne End
+                                       24 19 28 55 Y  Y N  N N  N  N N  N  N N  N
+       GW185 MWB Bourne End GF – Marlow0  06  2 54 Y  Y N  N N  N  N N  N  N N  N
+       GW187 HEN Twyford – Henley-on-Thames
+                                       31 01 35 48 Y  Y N  N N  N  N N  N  N N  N
+       GW190 RNJ Route Boundary (SW210) (Reading
+                                       68 00 68 35 Y  Y N  N N  N  N Y  N  Y Y  N
+                 Spur Jn) – Reading New Jn
+       GW195 RLL Reading Southern Jn – Reading East Jn
+                                       35 33 35 61 R1 Y N  N N  N  N Y  N  Y Y  N R1Prohibited with tripcocks fitted
+       GW200 DCL Chester Line Jn – Route Boundary
+                                       53 12 75 00 Y  Y Y  N N  R1 Y Y  N  Y T  N R1Route prohibited to Class 172/2
+                 (MD401) (Heyford)                                           R2     and 172/3
+                                                                                  R2Prohibited to tilt between Chester
+                                                                                    Line Jn and Wolvercote
+       GW220 RWC Reading, Oxford Road Jn – Reading
+                                       0  43  0 02 N  Y N  N N  N  Y Y  N  Y Y  N
+                 West Jn
+       GW225 RFR Caversham Road Jn – Oxford Road Jn
+                                       36 25 36 74 Y  Y N  N N  N  N Y  N  Y Y  N
+       GW240 DEC Didcot East Jn – Didcot North Jns
+                                       52 66 54 00 Y  Y N  N N  N  Y Y  N  Y Y  N
+       GW250 DWC Foxhall Jn – Didcot West Curve Jn
+                                       0  01  0 32 Y  Y N  N N  N  Y Y  N  Y Y  N
+       GW260 THA Kennington Jn – Morris Cowley
+                                       18 45 16 04 Y  N Y  N N  Y  N N  N  N N  N
+       GW277 OXD Oxford North Jn – Route Boundary
+                                       30 09 29 25 Y R1 Y  N N  Y  N N  N  N N  N R1Prohibited Islip Down platform 2
+                 (MD736) (29m 25ch)
+       GW310 OWW Wolvercot Jn – Norton Jn
+                                       66 32112 00 Y  Y N  N N  N  Y Y  N  Y Y  N
+       GW317 OWW Honeybourne Stratford Line Junction –
+                                      102 06101 31 N  N N  N N  N  N N  N  N N  N
+                 Start of branch mileage
+       GW317 STD Start of branch mileage – Long Marston
+                                       0  00  2 70 N  N N  N N  N  N N  N  N N  N
+       GW401 BAG2Route Boundary (MD306) (Ashchurch) –
+                                       77 40 92 21 E  Y N  Y N  R4 Y Y  E  Y Y  N R110mph Ashchurch Up platform
+                 Gloucester Barnwood Jn (Change of R1                             R220mph Cheltenham Spa Down
+                 ELR)                              R2                               platform
+                                                   R3                             R3Route prohibited to Class 165/0
+                                                                                  R4Route prohibited to Class 172/0
+                                                                                    and 172/1
 
 
-
-
-  April 2009                                                                    498G
+         April 2009                                498D

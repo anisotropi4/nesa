@@ -1,49 +1,95 @@
-                                                                                    OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                 LNW North Route Sectional Appendix Module NWRC
+                                       LNW North Route Sectional Appendix Module NWRC
 
 
 
-Line of ELR     Line of Route / Sector Description         oooo oooo oooo oooo 317            319    321    322    323    325    350    Notes
-route                                                       M    Ch M Ch 0000                       0000   0000   0000   0000   0000   ooooooooooooooooooo
-                                                                                                                                       oooooooo
-NW2023 SBH1   St Helens Station Jn – Huyton Jn              5      12    0    -18   EH         Y     N      N      N      H      N
-NW2025 SHS1   St. Helens Station Jn – Network Rail          7      15    6     04    N         N     N      N      N      N      N
-              Boundary
-NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Regent Road     0      14    5    53    N          N     N      N      N      N      N
-              L.C. Network Rail Boundary (MDHC)
-NW2029 OME3 Olive Mount Jn – Edge Lane Jn                   0      10     0   52    N          N     N      N      N      N      N
-NW3001 CNH1 Crewe North Jn – Limit of Electrification     158      18   159   55    Y          N     Y      Y      N      H      E
-              (Crewe Steelworks)
-NW3001 CNH1 Limit of Electrification (Crewe Steelworks) – 159      55   178   66    EH         N     N      N      N      H      N
-              Chester East Jn
-NW3001 CNH2 Chester East Jn – Change of ELR (Windmill 178          66   179   56    EH         N     N      N      N      H      N     R1   Prohibited between
-              Lane Tunnel)                                                          R1                                                      Chester and Change of
-                                                                                                                                            ELR (Windmill Lane
-                                                                                                                                            Tunnel)
-NW3001 CNH3     Change of ELR (Windmill Lane Tunnel) –     179     56   188   40    N          N     N      N      N      N      N
-                Route Boundary LNW / Wales
-NW3001 CNH3     Route Boundary LNW / Wales - Holyhead      188     40   263   56     N         N     N      N      N      N      N
-NW3003 CHW1     Chester East Jn – Acton Grange Jn            0     24    16   19    EH         N     N      N      N      H      N
-NW3005 WSJ2     Route Boundary (GW731) (Crewe Jn) –        199     00   202   60     N         N     N      N      N      H      N
-                Route Boundary Wales / LNW including ‘Up
-                & Down’ loop Wrexham General ELR
-                WDB1
-NW3005 WSJ2     Route Boundary Wales / LNW - Saltney Jn    202     60   212   06    N          N     N      N      N      H      N
-NW3007 WDB1     Wrexham Central – Wrexham Exchange Jn        0     16     0   68    N          N     N      N      N      H      N
-NW3007 WDB1     Wrexham Exchange Jn – Change of RA at        0     68    13   20    N          N     N      N      N      H      N
-                13m 20ch (South end of Hawarden Bridge)
-NW3007 WDB1     Change of RA at 13m 20ch (South end of      13     20    13   33    N          N     N      N      N      H      N
-                Hawarden Bridge) – Change of ELR
-NW3007 WDB2     Change of ELR - Route Boundary Wales /      14     15    11   00    N          N     N      N      N      H      N
-         /3     LNW
-NW3007 WDB3 Route Boundary Wales / LNW Bidston Dee          11     00    0    08    N          N     N      N      N      H      N
-            Jn
-NW3009 CVS  Chester North Jn – Chester South Jn              0     36    0    13    EH         N     N      N      N      H      N
-NW3011 CRR1 Chester West Jn – Hooton South Jn                0     16    7    68    EH         N     N      N      N      H      N
-NW3013 HHJ  Hooton South. Jn – Ellesmere Port (Limit of      0     02    3    44    EH         N     N      N      N      H      N
-            DC Electrification)
+     Line of
+          ELR Line of Route / Sector Description
+                                    oooo oooo oooo oooo 165 168 170 175 180 185 196 220 221 222
+                                                                                Notes
+     route                           M  Ch M  Ch 0000 0000 0000 0000 0000 0000
+                                                                      0000 0000 0000 ooooooooooooooooooooooooooo
+
+              Hyde Jn – Guide Bridge West Jn
+     NW5015 HAJ                       6 16  5  10 N  N  Y  Y  N  Y  N R1 R1  N R1Prohibited between Hyde Jn and Guide
+                                                                                 Bridge East Jn
+              Guide Bridge West Jn – Guide Bridge
+     NW5015 HAJ                       5 10  4  73 N  N  Y  Y  Y  Y  N  Y  Y  N
+              Station Jn
+              Guide Bridge Station Jn – Ashburys East
+     NW5015 HAJ                       4 73  1  56 N  N  Y  Y  N  Y  N  Y  Y  N
+              Jn
+     NW5015
+          HAJ Ashburys East Jn – Ashburys West Jn
+                                      1 56  1  36 N  N  Y  Y  N  Y  N  Y  Y  N
+     NW5015
+          HAJ Ashburys West Jn – Ardwick Jn
+                                      1 36  0  40 N  N  Y  Y  N  Y  N  Y  Y  N
+     NW5017
+          DSD Dinting South Jn – Dinting East Jn
+                                      0 72  1  05 N  N  N  N  N  N  N  N  N  N
+     NW5019
+          GDW Glossop – Dinting South Jn
+                                      0 01  0  72 N  N  N  N  N  N  N  N  N  N
+     NW5019
+          GDW Dinting South Jn – Dinting West Jn
+                                      0 72  1  05 N  N  N  N  N  N  N  N  N  N
+     NW5021
+          SAJ Stalybridge Jn – Guide Bridge West Jn
+                                      2 08  0  04 N  N  Y  N  N  Y  N  Y  Y  N
+     NW6001
+          COL Manchester Piccadilly East Jn – Castlefield
+                                     18848 189 67 N  N  Y  Y  Y  Y  N  Y  Y  Y
+              Jn
+              Castlefield Jn – Ordsall Lane Jn
+     NW6001 COL                      18967 190 28 N  N  Y  Y  Y  Y  N  Y  Y  N
+              Ordsall Lane Jn – Windsor Bridge South Jn
+     NW6001 OLW                      19028 191 01 N  N  Y  Y  Y  Y  N  Y  Y  N
+              Windsor Bridge South Jn – Windsor Bridge
+     NW6001 MVE1                      1 55  1  66 N  N  Y  Y  Y  Y  N  Y  Y  N
+              North Jn
+     NW6001
+          MVE1Windsor Bridge North Jn – Bolton West Jn
+                                      1 66  10 55 N  N  Y  Y  Y  Y  N  Y  Y  N
+     NW6001
+          MVE2Bolton West Jn – Lostock Jn
+                                     10 55  13 39 N  N  N  Y  Y  Y  N  Y  Y  N
+     NW6001
+          MVE2Lostock Jn – Euxton Jn 13 39  25 31 N  N  N  Y  Y  Y  N  Y  Y  N
+     NW6003
+          MAJ Castlefield Jn - Trafford Park Sidings (Limit
+                                     33 57  31 35 N  N  Y  N  N  Y  N  Y  Y  Y
+              of Electrification)
+     NW6003 MAJ
+              Trafford Park Sidings (Limit of
+                                     31 35  7  07 N  N  Y  N  N  Y  N  Y  Y  Y
+              Electrification) - Hunts Cross
+     NW6003 MAJ
+              Hunts Cross - Hunts Cross West Jn
+                                      7 07  6  11 N  N  Y  N  N  Y  N  Y Y   Y
+              Hunts Cross West Jn – Allerton Jn
+     NW6003 AHX                       0 37  0  00 N  N  Y  N  N  Y  N  Y Y   Y
+              Water Street Jn – Irwell Street Jn (Change
+     NW6004 OCD                      19005 190 34 N  N  Y  Y  Y  Y  N  Y R1  Y R1Prohibited in tilt
+              of Mileage and ELR)
+     NW6004 DSE
+              Irwell Street Jn (Change of Mileage and
+                                     30 64  31 18 N  N  Y  Y  Y  Y  N  Y R1  Y R1Prohibited in tilt
+              ELR) – Deal Street Jn (Ordsall Curve lines)
+              Manchester Victoria East Jn – Manchester
+     NW6005 MVM                       0 09  0  00 N  N  Y  Y  Y  Y  N  Y  Y  N
+              Victoria
+              Manchester Victoria – Deal Street Jn (Chat
+     NW6005 MVE1                      0 00  0  32 N  N  Y  Y  Y  Y  N  Y  Y  N
+              Moss Lines)
+              Deal Street Jn – Windsor Bridge South Jn
+     NW6005 MVE1                      0 32   1 55 N  N  Y  Y  Y  Y  N  Y  Y  N
+              Deal Street Jn – Ordsall Lane Jn
+     NW6007 DSE                      31 18  30 38 N  N  Y  Y  Y  Y  N  Y  Y  N
 
 
-October 2009                                                                             20
+
+
+    October 2009                                    16M

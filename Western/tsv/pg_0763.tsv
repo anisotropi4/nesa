@@ -1,26 +1,24 @@
-Western	0763	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Western	0763	GW107	WSM	Worle Jn	Uphill Jn via Weston-Super-Mare	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Fordgate	Cogload Jn (Up)	Fordgate – Cogload Jn (Up)	154	12	158	23	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Cogload Jn (Up)	Norton Fitzwarren Jn (Connection - West Somerset Railway)	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway)	Cowley Bridge Jn	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Cowley Bridge Jn	Exeter St Davids Jn	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Exeter St Davids Jn	Newton Abbot East Jn	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Newton Abbot East Jn	Newton Abbot West Jn	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Newton Abbot West Jn	Tavistock Jn Yard	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Tavistock Jn Yard	Laira Jn	Tavistock Jn Yard – Laira Jn	242	55	243	67	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Laira Jn	Lipson Jn	Laira Jn – Lipson Jn	243	67	244	35	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN1	Lipson Jn	Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	Lipson Jn – Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	244	35	246	15	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN2	Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	St Budeaux Jn	Change of ELR (Site of Former Devonport Jn/Cornwall Loop) – St Budeaux Jn	247	28	250	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN2	St Budeaux Jn	Change of ELR	St Budeaux Jn – Change of ELR	250	00	256	38	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN3	Change of ELR	Liskeard Jn	Change of ELR – Liskeard Jn	256	40	264	66	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN3	Liskeard Jn	Lostwithiel Jn	Liskeard Jn – Lostwithiel Jn	264	66	277	54	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN3	Lostwithiel Jn	Par Loop Jn	Lostwithiel Jn – Par Loop Jn	277	54	281	57	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN3	Par Loop Jn	Burngullow Jn	Par Loop Jn – Burngullow Jn	281	57	288	26	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN3	Burngullow Jn	Penwithers Jn	Burngullow Jn – Penwithers Jn	288	26	301	25	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN3	Penwithers Jn	Change of ELR	Penwithers Jn – Change of ELR	301	25	305	65	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN4	Change of ELR	St Erth Jn	Change of ELR – St Erth Jn	305	67	320	73	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW108	MLN4	St Erth Jn	Penzance	St Erth Jn – Penzance	320	73	326	50	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW110	ANL	Old Oak Common West	Greenford East Jn	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW110	ANL	Greenford East Jn	Greenford West Jn	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW110	ANL	Greenford West Jn	Route Boundary (MD705) (Northolt Jn)	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0763	GW117	GEC	Greenford East Jn	Greenford South Jn	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
+Western	0763	GW900	SWM 2	Whitland Jn – Clarbeston Road Jn	259	01	271	08	Y	Y	Y	N	N	N	N	
+Western	0763	GW900	CRL	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	Y	Y	Y	N	N	N	N	
+Western	0763	GW900	NPF	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	Y	Y	Y	N	N	N	N	
+Western	0763	GW9001	SWA	Landore Jn – Swansea	214	62	216	07	Y	Y	Y	N	N	N	N	
+Western	0763	GW906	SWL	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	Y	Y	Y	N	N	N	N	
+Western	0763	GW910	CWL1	Craven Arms Jn – Change of Mileage	20	01	20	12	Y	Y	Y	N	N	N	N	
+Western	0763	GW910	CWL2	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	Y	Y	Y	N	N	N	N	
+Western	0763	GW910	VOT	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	Y	Y	R1	N	N	N	N	R1 5mph through Llandovery Platforms
+Western	0763	GW910	LLA	Llandeilo – Pantyffynnon	18	07	10	08	Y	Y	Y	N	N	N	N	
+Western	0763	GW910	LLA	Pantyffynnon – Morlais Jn	10	08	3	50	Y	Y	Y	N	N	N	N	
+Western	0763	GW910	LLA	Morlais Jn – Llandeilo Jn	3	50	0	00	Y	Y	Y	N	N	N	N	
+Western	0763	GW915	GWA	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	
+Western	0763	GW915	GNT	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	
+Western	0763	GW930	CAN	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	Y	Y	Y	N	N	R1	N	R1 Prohibited between Camarthen Station and End of Line
+Western	0763	GW940	CAN/ CNW	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	Y	Y	Y	N	N	N	N	
+Western	0763	GW950	PEM	Whitland Jn – Pembroke RA Change	259	01	284	22	Y	Y	Y	N	N	N	N	
+Western	0763	GW950	PEM	Pembroke RA Change – Pembroke Dock	284	22	286	26	Y	Y	Y	N	N	N	N	
+Western	0763	GW960	SWM 2	Clarbeston Road – Haverfordwest	271	08	276	08	Y	Y	Y	N	N	N	N	
+Western	0763	GW960	SWM 2	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	Y	Y	Y	N	N	N	N	
+Western	0763	GW960	MIL	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	Y	Y	Y	N	N	N	N	
+Western	0763	GW960	MIL	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	Y	Y	Y	N	N	N	N	
+Western	0763	GW970	GOB	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N	
+Western	0763	GW980	ERB	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N	

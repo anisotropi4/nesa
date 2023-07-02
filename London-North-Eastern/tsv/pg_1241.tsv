@@ -1,4 +1,19 @@
-London-North-Eastern	1241	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1241					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1241	LN101	Kings Cross – Copenhagen Jn	Kings Cross	Copenhagen Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1241	LN101	Copenhagen Jn – Holloway South / North Jns	Copenhagen Jn	Holloway South / North Jns	Y *	R1	R1	R1	R1	R1	R1	R1	R1 PROHIBITED on the Fast Lines
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1241	LN3204	TSN2	Mansfield Jn – Nottingham East Jn	124	22	123	27	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1241	LN3207	TCC	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	8	H R1	H R1	Y	H R1	H R2 R3	N	R1 Permitted between Trent East Jn to Stapleford and Sandiacre via Up Main/Erewash and Down Erewash/Down Goods R2 Permitted between Toton Jn and Toton TMD only R3 75mph maximum speed
+London-North-Eastern	1241	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	8	N	N	Y	N	N	N	
+London-North-Eastern	1241	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1241	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	8	N	N	Y	N	N	EH	
+London-North-Eastern	1241	LN3214	CBI	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	3	N	N	N	N	N	N	
+London-North-Eastern	1241	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	5	N	N	N	N	N	N	
+London-North-Eastern	1241	LN3219	CAW	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	8	H	H	Y	H	H	N	
+London-North-Eastern	1241	LN3222	BDH	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	8	N	N	Y	N	N	EH	
+London-North-Eastern	1241	LN3228	TCC	Trent East Jn – Trent East ELR Change	119	70	119	56	8	H	H	Y	H	H	N	
+London-North-Eastern	1241	LN3228	TES	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	8	H	H	Y	H	H	N	
+London-North-Eastern	1241	LN3231	WGP	Wigston South Jn – Glen Parva Jn	95	37	96	07	8	H	H	Y	H	H	N	
+London-North-Eastern	1241	LN3232	WNS	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	8	H	H	Y	H	N	N	
+London-North-Eastern	1241	LN3234	SEN	Syston East Jn – Syston North Jn	0	17	0	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1241	LN3237	RUD	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	8	N	N	Y	N	N	N	
+London-North-Eastern	1241	LN3240	LED	Little Eaton Jn – Denby	131	06	135	46	8	N	N	Y	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1241	LN3246	AJM1	Ambergate Jn – Matlock	137	61	145	00	8	N	N	Y	N	N	N	
+London-North-Eastern	1241	LN3249	LSN	Lenton South Jn – Lenton North Jn	0	00	0	27	8	N	N	Y	N	N	N	

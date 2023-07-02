@@ -1,23 +1,26 @@
-London-North-Eastern	1044	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1044	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	Y	Y	Y	Y	Y	N
-London-North-Eastern	1044	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1044	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	Y	Y	Y	N	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Pelaw Metro Jn	Park Lane Jn	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	Park Lane Jn	High Level Bridge Jn	Park Lane Jn – High Level Bridge Jn	100	65	101	33	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN627	LEN3	High Level Bridge Jn	Newcastle East Jn	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1044	LN628	NEK	South Hylton	Sunderland South Jn	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	Y	N	N	N	N	N
-London-North-Eastern	1044	LN629	PDL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1044	LN630	PUL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1044	LN631	DSN1	Darlington South Jn	Eaglescliffe South Jn	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	R1	Y	Y	Y	Y	Y	Y	Y	Y	R1 Drivers of Down passenger trains stopping at Allens West must bring the train to a stand 1 car length in rear of UN23 signal
-London-North-Eastern	1044	LN632	DSN2	Stockton Cut Jn	Redcar Change of Mileage	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1044	LN185	GRS3	Boston – Site of Former Firsby East Jn	107	24	122	22	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN185	GRS4	Site of Former Firsby East Jn - Skegness	0	28	9	17	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN190	ACD	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN195	NOG1	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	R1	N	N	Y	Y	Y	Y	Y	Y	R1 Prohibited Allington East Jn - Route Boundary (LN3635) (Rectory Jn SB)
+London-North-Eastern	1044	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	R1	R1	R1	Y	Y	Y	Y	Y	Y	R1 Prohibited between Route Boundary (LN3625) (Nottingham East Jn) and Newark Crossing East Jn
+London-North-Eastern	1044	LN206	NOB2	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN210	NSE	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN235	FWR1	Rossington Colliery Jn – End of Line	152	12	151	69	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN235	FWR2	Rossington Colliery – End of Line	153	31	151	69	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM4	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM4	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM5	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	Y	Y	Y	R1	Y	Y	R1 Prohibited with large snowploughs fitted
+London-North-Eastern	1044	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	Y	Y	R1	R1	Y	R1	R2	R1 Prohibited Newcastle platforms 10 and 12 R2 Prohibited Newcastle platforms 10, 11 and 12
+London-North-Eastern	1044	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1044	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1044	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	Y	Y	Y	Y	Y	N	

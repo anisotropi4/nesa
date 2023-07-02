@@ -1,9 +1,21 @@
-London-North-Western-South	0564	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	373	377	378	379	380	387	390	458	499	508	700	Notes
-London-North-Western-South	0564	MD101	LEC1	London Euston	Camden Jn DC Lines	London Euston – Camden Jn DC Lines	0	00	1	36	N	N	Y	N	N	N	Y	N	N	Y	N
-London-North-Western-South	0564	MD101	LEC1	Camden Jn DC Lines	Camden Jn (NLL)	Camden Jn DC Lines – Camden Jn (NLL)	1	36	1	51	N	N	Y	N	N	N	Y	N	N	Y	E R1	R1 Up and Down Slow Lines only
-London-North-Western-South	0564	MD101	LEC1	Camden Jn	West London Jn (Willesden)	Camden Jn – West London Jn (Willesden)	1	51	5	23	Y	E R1	Y	E	N	E	Y	N	N	N	E R1	R1 Up and Down Slow Lines only
-London-North-Western-South	0564	MD101	LLG	West London Jn (Willesden)	Sudbury Jn (Willesden Relief Lines)	West London Jn (Willesden) – Sudbury Jn (Willesden Relief Lines)	0	12	2	03	R1 R2	Y	Y	N	N	Y	Y	N	N	N	E	R1 Prohibited from Up Willesden Relief Line R2 Prohibited between the connection to Willesden Reception Sidings and Sudbury Jn
-London-North-Western-South	0564	MD101	LEC1	Willesden West London Jn	Harlesden Jn	Willesden West London Jn – Harlesden Jn	5	23	6	01	N	Y	Y	E	EH	Y	Y	EH R1 R2	N	N	E R3	R1 Prohibited with third rail current collection equipment (including shoe arms and height limit beams) R2 Prohibited with footsteps fitted R3 Up and Down Slow Lines only
-London-North-Western-South	0564	MD101	LEC1	Harlesden Jn	Watford South Jn	Harlesden Jn – Watford South Jn	6	01	17	06	N	Y	Y	N	EH	Y	Y	EH R1 R2	N	N	N	R1 Prohibited with third rail current collection equipment (including shoe arms and height limit beams) R2 Prohibited with footsteps fitted
-London-North-Western-South	0564	MD101	LEC1	Watford South Jn	Bletchley South Jn	Watford South Jn – Bletchley South Jn	17	06	46	41	N	Y	R1 R2	N	EH	R3	Y	EH R4 R5	N	N	N	R1 Prohibited Watford Junction platform 11 R2 Prohibited between Watford North Junction and Bletchley Jn when laden R3 Prohibited Hemel Hempstead Up Siding platform R4 Prohibited with third rail current collection equipment (including shoe arms and height limit beams) R5 Prohibited with footsteps fitted
-London-North-Western-South	0564	MD101	LEC1	Bletchley South Jn – Bletchley (Platforms 1 – 5)	Denbigh Hall South Jn	Bletchley South Jn – Bletchley (Platforms 1 – 5) – Denbigh Hall South Jn	46	41	47	52	N	Y	E	N	EH	Y	R1	EH R2 R3	N	N	N	R1 Prohibited Bletchley platforms 5 and 6 R2 Prohibited with third rail current collection equipment (including shoe arms and height limit beams) R3 Prohibited with footsteps fitted
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	166 RHM	168	170	171	172	175	180	195	196	220	221	Notes
+London-North-Western-South	0564	MD555	NWO	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	N	N	N	Y	N	E	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD555	NWO	Limit of Electrification – Whitacre West Junction	10	00	0	00	N	N	N	Y	N	E	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	N	N	E	Y	N	E	N	N	N	N	Y	Y	
+London-North-Western-South	0564	MD560	WOP	Water Orton West Jn – Park Lane Change of ELR	35	15	36	04	N	N	E	Y	N	N	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD560	CBR2	Park Lane Change of ELR – Park Lane Jn	36	04	36	15	N	N	E	Y	N	N	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	E	N	E	Y	N	N	Y	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	E	N	E	Y	N	N	Y	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	N	N	Y	Y	N	E	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	Y	N	Y	Y	N	Y	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD570	SKN	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	N	N	N	Y	N		N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	R1	N	Y	Y	N	Y	N	N	N	Y	Y	Y	R1 Route prohibited to Class 165/1
+London-North-Western-South	0564	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	N	N	N	Y	N	N	N	N	N	Y	Y	Y	
+London-North-Western-South	0564	MD701	MCJ1	London Marylebone – Neasden South Jn (Change of Mileage)	205	77	200	65	R1	N	Y	N	N	R2	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0564	MD701	NAJ1	Neasden South Jn (Change of Mileage) – Northolt Jn	6	30	0	00	R1	N	Y	N	N	Y	N	N	N	N	N	N	R1 Route prohibited to Class 165/1
+London-North-Western-South	0564	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	Y	N	Y	N	N	Y	Y	Y	N	N	Y	Y	
+London-North-Western-South	0564	MD701	NAJ2	Princes Risborough Jn – Site of Former Ashendon Jn (Change of Mileage)	24	50	33	69	Y	N	Y	N	N	R1	Y	R2	N	N	Y	Y	R1 Route prohibited to Class 172/2 and 172/3 R2 30 mph Haddenham and Thame Parkway Up platform
+London-North-Western-South	0564	MD701	NAJ3	Site of Former Ashendon Jn (Change of Mileage) – Aynho Jn	0	00	18	35	Y	N	Y	N	N	R1	Y	Y	N	N	Y	Y	R1 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0564	MD705	ANL	Route Boundary (GW110) (Greenford West Jn) – Northolt Jn (South Ruislip)	8	60	10	15	Y	N	Y	N	N	Y	Y	Y	N	N	Y	Y	
+London-North-Western-South	0564	MD710	MCJ1	Neasden South Jn – Network Rail Boundary (LUL) (Harrow-on-the-Hill South Jn)	200	66	197	05	R1 R2	N	Y	N	N	R3 R4	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Prohibited unless fitted with tripcocks R3 Prohibited from being the leading unit between on the LUL section Harrow on the Hill and Amersham (9m 13ch to 25m 21ch) due to the non-fitment of tripcocks R4 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0564	MD712	MCJ2	Network Rail Boundary (LUL) (Amersham, Mantles Wood) – Aylesbury Jn	25	21	38	08	R1 R2	N	Y	N	N	R3 R4	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Prohibited on LUL section unless fitted with tripcocks R3 Prohibited from being the leading unit on the LUL section between Harrow on the Hill and Amersham (9m 13ch to 25m 21ch) due to the non-fitment of tripcocks R4 Route prohibited to Class 172/2 and 172/3

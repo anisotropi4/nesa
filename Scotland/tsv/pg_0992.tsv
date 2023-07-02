@@ -1,23 +1,26 @@
-Scotland	0992	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	0992	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	N	N	N	N	N
-Scotland	0992	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	N	N	N	N	N
-Scotland	0992	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	N	N	N	N	N
-Scotland	0992	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	N	N	N	N	N
-Scotland	0992	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	N	N	N	N	N
-Scotland	0992	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	N	N	N	N	N
-Scotland	0992	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	N	N	N	N	N
-Scotland	0992	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	N	N	N	N	N
-Scotland	0992	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	N	N	N	N	N
-Scotland	0992	SC125	YKR	Hyndland West Jn	Dalmuir Park Jn	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	N	N	N	N	N
-Scotland	0992	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	N	N	N	R1	R1	R1 Prohibited between Sighthill East Jn and Bellgrove Jn
-Scotland	0992	SC131	HST	High Street Jn	Connection to Smithy Lye Through Line	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	Y	N	N	N	N
-Scotland	0992	SC131	HST	Connection to Smithy Lye Through Line	Shields Jn	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	Y	N	E	N	N
-Scotland	0992	SC133	MGE	Westerton Jn	Milngavie	Westerton Jn – Milngavie	6	19	9	35	E R1	N	N	N	N	R1 Prohibited between Bearsden and Milngavie
-Scotland	0992	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	N	N	N	N	N
-Scotland	0992	SC136	HYD	Hyndland North Jn	Hyndland West Jn	Hyndland North Jn – Hyndland West Jn	0	00	0	16	N	N	N	N	N
-Scotland	0992	SC141	WHL	Craigendoran Jn	Crianlarich Jn	Craigendoran Jn – Crianlarich Jn	0	01	36	30	N	N	N	N	N
-Scotland	0992	SC141	WHL	Crianlarich Jn	Fort William	Crianlarich Jn – Fort William	36	30	99	37	N	N	N	N	N
-Scotland	0992	SC143	OBN1	Crianlarich Jn	Lower Crianlarich GF	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	N	N	N	N	N
-Scotland	0992	SC143	OBN2	Lower Crianlarich GF	Inverhaggernie No.1 LC	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	N	N	N	N	N
-Scotland	0992	SC143	OBN2	Inverhaggernie No.1 LC	Oban	Inverhaggernie No.1 LC – Oban	31	00	71	44	N	N	N	N	N
-Scotland	0992	SC145	MLG1	Fort William	Change of ELR	Fort William – Change of ELR	0	05	1	27	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0992	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	N	N	
+Scotland	0992	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	N	
+Scotland	0992	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	N	N	N	N	N	N	
+Scotland	0992	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	N	
+Scotland	0992	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	N	
+Scotland	0992	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	N	
+Scotland	0992	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC093	SCM2	Mossend South – Whifflet North Jn	91	08	94	05	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC093	SCM3	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC093	SCM3	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC097	SYE	Whifflet South Jn – Sunnyside Jn (Goods Line)	9	63	8	43	N	N	N	R1	R1	R1	E	R1 15mph maximum speed
+Scotland	0992	SC099	RSL2	Whifflet North Jn – Change of ELR	0	00	0	34	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC099	RSL1	Change of ELR – Langloan Jn	6	59	6	34	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC099	RCB	Langloan Jn – Rutherglen East Jn	6	34	0	04	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	N	N	N	Y	Y	Y	Y	

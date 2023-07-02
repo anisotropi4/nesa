@@ -1,21 +1,4 @@
-London-North-Western-North	0925	NW6004	MVM	Manchester Victoria East Jn	Manchester Victoria	Manchester Victoria East Jn – Manchester Victoria	30	64	31	18	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW6005	MVE1	Manchester Victoria	Deal Street Jn (Chat Moss lines)	Manchester Victoria – Deal Street Jn (Chat Moss lines)	0	00	0	32	Y	Y	Y	N	N	N	Y	Y	Y
-London-North-Western-North	0925	NW6005	MVE1	Deal Street Jn	Windsor Bridge South Jn	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	Y	Y	Y	N	N	N	Y	Y	Y
-London-North-Western-North	0925	NW6007	DSE	Deal Street Jn	Ordsall Lane Jn	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	Y	Y	Y	N	N	N	Y	Y	Y
-London-North-Western-North	0925	NW6009	WBS1	Windsor Bridge North Jn	Crow Nest Jn	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	Y	Y	Y	N	N	N	Y	N	N
-London-North-Western-North	0925	NW6009	WBS2	Crow Nest Jn	Wigan Station Jn	Crow Nest Jn – Wigan Station Jn	14	64	17	44	Y	Y	Y	N	N	N	Y	N	N
-London-North-Western-North	0925	NW6009	WBS2	Wigan Station Jn	Wigan Wallgate Jn	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-North	0925	NW6009	WBS3	Wigan Wallgate Jn	Southport	Wigan Wallgate Jn – Southport	18	04	35	27	Y	Y	N	N	N	N	N	N	N
-London-North-Western-North	0925	NW6011	BBB	Bolton East Jn	Blackburn Bolton Jn	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	Y	Y	Y	N	N	N	Y	Y	N
-London-North-Western-North	0925	NW6013	LCN	Lostock Jn	Crow Nest Jn	Lostock Jn – Crow Nest Jn	13	39	17	18	Y	Y	Y	N	N	N	Y	N	N
-London-North-Western-North	0925	NW6015	WKL1	Wigan Wallgate Jn	Change of Mileage (Pemberton)	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	Y	Y	N	N	N	N	N	N	N
-London-North-Western-North	0925	NW6015	WKL2	Change of Mileage (Pemberton)	Kirkby	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	Y	Y	N	N	N	N	N	N	N
-London-North-Western-North	0925	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005)	Miles Platting Jn	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7001	MPR1	Miles Platting Jn	Brewery Jn	Miles Platting Jn – Brewery Jn	1	30	1	52	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7001	MPR1	Brewery Jn	Thorpes Bridge Jn	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7001	MVN2	Thorpes Bridge Jn	Castleton South Jn	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7001	MVN2	Castleton South Jn	Castleton East Jn	Castleton South Jn – Castleton East Jn	8	21	8	52	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7001	MVN2	Castleton East Jn	Hall Royd Jn	Castleton East Jn – Hall Royd Jn	8	52	19	61	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7001	MVN2	Hall Royd Jn	Route Boundary (LN854) (Turners Lane Jn)	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Western-North	0925	NW7005	CEH	Castleton East Jn	Castleton North Jn	Castleton East Jn – Castleton North Jn	0	00	0	37	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-North	0925	NW7005	CPI1	Castleton South Jn	Castleton North Jn	Castleton South Jn – Castleton North Jn	8	21	8	50	Y	Y	Y	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	380	385	390	397	507	508	Notes
+London-North-Western-North	0925	NW9907	EDE	Network Rail Boundary (Warcop) – End of line	11	03	11	46	N	N	N	N	N	N	
+London-North-Western-North	0925	NW9909	NEC2	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	N	N	H R1	N	N	N	R1 Prohibited between Route Boundary (LN682) (Corby Gates) and London Road Yard
+London-North-Western-North	0925	NW9911	NGD	London Road Jn – Bog Jn (Newcastle Goods lines)	0	00	0	25	N	N	N	N	N	N	

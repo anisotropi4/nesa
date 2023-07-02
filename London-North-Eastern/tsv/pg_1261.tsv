@@ -1,5 +1,25 @@
-London-North-Eastern	1261	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1261					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1261	LN3625	Nottingham East Jn – Newark Castle	Nottingham East Jn	Newark Castle	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1261	LN3635	Bottesford West Jn (Exclusive) – Netherfield Jn	Bottesford West Jn (Exclusive)	Netherfield Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1261	LN3645	Netherfield Jn – Gedling Colliery	Netherfield Jn	Gedling Colliery	Y	N	N	N	N	N	N	N
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1261	LN3201	Ratcliffe Jn – Spondon	Y *	Y	R1	R1	R1	R1	R1	R1	R1 Between Trent West Jn and Sheet Stores Jn only
+London-North-Eastern	1261	LN3201	Spondon – Derby London Rd Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1261	LN3201	Derby London Road Jn – Clay Cross Sth Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1261	LN3201	Clay Cross Sth Jn – Tapton Jn (Chesterfield)	Y *	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED on the Up Fast between former Clay Cross South Jn and Tapton Jn R2 PROHIBITED on the Down Fast between former Clay Cross South Jn and Tapton Jn
+London-North-Eastern	1261	LN3201	Wymington Deviation	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3201	Chaddesden Sidings – Derby Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3204	Trent South Jn – Nottingham East Jn	Y *	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Trent East Jn to Nottingham East Jn
+London-North-Eastern	1261	LN3207	Trent East Jn – Chesterfield South Jn	Y *	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED from Toton Yards R2 PROHIBITED from Stapleford and Sandiacre Yards R3 PROHIBITED from Codnor Park Sidings
+London-North-Eastern	1261	LN3207	Toton North Jn – Staton and Staveley Sidings (Mapperley Goods Branch)	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3210	Junction Road Jn – Carlton Road Jn (Tottenham Lines)	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3213	Moorgate – Kentish Town Jn	N	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3214	Canal Tunnel Jn – Belle Isle Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3219	Cricklewood Curve Jn –o Dudding Hill Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3222	Brent Curve Jn – Dudding Hill Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3228	Trent East Jn – Sheet Stores Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1261	LN3231	Wigston South Jn – Glen Parva Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3232	Wigston North Jn – Hinckley	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1261	LN3234	Syston East Jn – Syston North Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3237	Loughborough South Jn – Hotchley Hill	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3240	Little Eaton Jn –o Denby	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3246	Ambergate Jn – Matlock	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3249	Lenton South Jn – Lenton North Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3252	Mansfield Jn to Trowell South Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1261	LN3255	Radford Jn – Kirkby Lane End Jn	Y	N	N	N	N	N	N	N	

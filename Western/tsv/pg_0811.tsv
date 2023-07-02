@@ -1,3 +1,22 @@
-Western	0811	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Western	0811					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0811	GW103	Royal Oak Sidings – Reading New Jn	Royal Oak Sidings	Reading New Jn	Y *	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15	R1 Prohibited Royal Oak Sidings to Acton East Jn R2 PROHIBITED between Acton East Jn and Acton West Jn on the Up Main R3 PROHIBITED between Acton East Jn and Acton West Jn on the Down Main R4 PROHIBITED West Ealing (Up Goods Loops and Yard) R5 PROHIBITED Hanwell Bridge sidings R6 PROHIBITED Southall West Down Loop, Southall Sidings, Brentford sidings. R7 PROHIBITED Hayes Up sidings R8 PROHIBITED Hayes & Harlington Up bay platform 5 R9 PROHIBITED West Drayton Up sidings R10 PROHIBITED West Drayton platform 5 (West Drayton Loop) R11 PROHIBITED Langley East Up sidings R12 PROHIBITED Langley Platform 4 (Up Relief) R13 PROHIBITED Slough Up sidings R14 PROHIBITED Burnham Platform 2 (Up Relief) R15 PROHIBITED Burnham Platform 1 (Down Relief)
+Route	page	Line of Route	Line of Route / Sector Description	RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
+Western	0811	GW864	Cogan Jn to Penarth	6	6	6				
+Western	0811	GW870	Barry to Bridgend (VOG)	8	10	10	Over Bridge at 09m 04 ½ch (Ford Jn – St Athan) Over Bridge at 10m 06ch (Ford Jn – St Athan)	20 MPH 50 MPH	20 MPH 50 MPH	Applies to HTA, BAA & BBA wagons only Applies to HTA, BAA & BBA wagons only
+Western	0811	GW874	Llynfi Jn to Tondu	6	10	10	THROUGHOUT	20 MPH	20 MPH	
+Western	0811	GW874	Tondu to Maesteg	6	7B	7B				
+Western	0811	GW877	Tondu to Port Talbot Dks (OVE)	6	10	10				
+Western	0811	GW890	Court Sart Jn / Up Flying Loop Jn to Morlais Jn	8	10	10				
+Western	0811	GW8901	Dynevor Jn to Jersey Marine Jn South	6	10	10				
+Western	0811	GW892	Cwmgwrach to Burrows Sidings	6	9	9				
+Western	0811	GW893	Onllwyn to Neath and Brecon Jn	6	9	9				
+Western	0811	GW894	Jersey Marine Jn North to Jersey Marine Jn South	6	10	10				
+Western	0811	GW897	Grovesend Colliery Loop Jn to Hendy Jn	6	9	9				
+Western	0811	GW900	Pilning to Landore	8	10	10				
+Western	0811	GW900	Landore to Llandeilo Jn	7	10	10				
+Western	0811	GW900	Llandeilo Jn to Clarbeston Road	8	10	10				
+Western	0811	GW900	Clarbeston Road to Fishguard Hbr	7	9B	9B				
+Western	0811	GW9001	Landore Jn to Swansea	7	8	8				
+Western	0811	GW906	Swansea Loop East Jn to Swansea Loop West Jn	7	8	8				
+Western	0811	GW910	Craven Arms Jn to Morlais Jn (CWL)	5	5	5	Line subject to Light Railway Order. See Track / Structures Engineer for detail			
+Western	0811	GW910	Morlais Jn to Llandeilo Jn	8	10	10				
+Western	0811	GW915	G.C.G to Pantyffynnon	5	5	5	Ammanford 12m 36¾ch	10mph	10mph	Applies to Class 66 locomotives only
+Western	0811	GW930	Carmarthen Jn to Carmarthen Stn	8	10	10				

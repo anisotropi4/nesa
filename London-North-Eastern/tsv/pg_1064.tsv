@@ -1,23 +1,16 @@
-London-North-Eastern	1064	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1064	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	N	N	Y	Y	Y	Y	Y	N
-London-North-Eastern	1064	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	N	N	Y	Y	Y	Y	Y	N
-London-North-Eastern	1064	LN627	LEN3	Pelaw Metro Jn	Park Lane Jn	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	N	N	Y	R1	Y	Y	Y	N	R1 30mph Heworth Up platform
-London-North-Eastern	1064	LN627	LEN3	Park Lane Jn	High Level Bridge Jn	Park Lane Jn – High Level Bridge Jn	100	65	101	33	N	N	Y	Y	N	Y	Y	N
-London-North-Eastern	1064	LN627	LEN3	High Level Bridge Jn	Newcastle East Jn	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	N	N	Y	Y	N	Y	Y	N
-London-North-Eastern	1064	LN628	NEK	South Hylton	Sunderland South Jn	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN629	PDL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN630	PUL	Pelaw Metro Jn	Network Rail Boundary (Metro Operating)	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN631	DSN1	Darlington South Jn	Eaglescliffe South Jn	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	N	N	R1	Y	Y	Y	Y	N	R1 15mph Dinsdale Up platform
-London-North-Eastern	1064	LN632	DSN2	Stockton Cut Jn	Redcar Change of Mileage	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	N	N	R1	Y	R2	N	N	N	R1 Prohibited between Thornaby and Redcar Change of Mileage R2 Prohibited British Steel Redcar Up platform with deflated secondary suspension
-London-North-Eastern	1064	LN632	DSN3	Redcar Change of Mileage	Saltburn	Redcar Change of Mileage – Saltburn	22	16	27	57	N	N	N	Y	Y	N	N	N
-London-North-Eastern	1064	LN634	MBW1	Guisborough Jn	Battersby Jn	Guisborough Jn – Battersby Jn	0	00	10	54	N	N	N	R1	N	N	N	N	R1 Prohibited between Nunthorpe and Battersby Jn
-London-North-Eastern	1064	LN634	MBW2	Battersby Jn (End of Line)	Grosmont Jn	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN634	MBW3	Grosmont Jn	Whitby	Grosmont Jn – Whitby	24	44	30	61	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN636	No ELR	Beam Mill Jn	Network Rail Boundary	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN638	WCI	Shell Jn	Network Rail Boundary	Shell Jn – Network Rail Boundary	0	00	1	03	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN642	SSK1	Saltburn West Jn	Network Rail Boundary (Cleveland Potash)	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN644	BOH	Hartburn Jn	Bowesfield SB (Hartburn Curve)	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	N	N	Y	Y	Y	N	N	N
-London-North-Eastern	1064	LN646	STF	Norton-on-Tees South	Ferryhill South Jn	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	N	N	Y	Y	Y	Y	Y	N
-London-North-Eastern	1064	LN648	NWE	Norton-on-Tees West	Norton-on-Tees East	Norton-on-Tees West – Norton-on-Tees East	0	29	0	00	N	N	Y	N	N	Y	Y	N
-London-North-Eastern	1064	LN652	POC1	Billingham Jn	Phillips Siding Jn	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N	N	N	N	N	N	N
-London-North-Eastern	1064	LN652	POC2	Phillips Siding Jn	Seal Sands Branch Jn	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1064	LN600	ECN5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	E	N	Y	Y	Y	Y	Y		Y
+London-North-Eastern	1064	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	E	N	Y	Y	N	Y	Y		Y
+London-North-Eastern	1064	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	E R1 R2	N	R3	R4	N	Y	Y	R5	R1 Prohibited Newcastle bay platforms 9-12 R2 Prohibited Newcastle platform 4 Up Main line R3 Prohibited Newcastle platforms 9 and 10 R4 Prohibited Newcastle platform 9 with deflated suspension R5 Prohibited Newcastle Station platforms 5, 6, 7, 8, 9, 10, 11 and 12
+London-North-Eastern	1064	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	E R1 R2	N	Y	Y	N	Y	Y	Y	R1 Prohibited Newcastle bay platforms 9-12 Prohibited Newcastle platform 4 Up Main line R2 Prohibited Newcastle platform 4 Up Main line
+London-North-Eastern	1064	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	E	N	E	R1	N	Y	Y	Y	R1 Prohibited Manors Down platform when laden
+London-North-Eastern	1064	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	R1	N	E	Y	N	Y	Y	R2	R1 ECS only between Heaton South Jn and Berwick upon Tweed R2 R2 Prohibited between Berwick upon Tweed Up Goods Loop (67m 38ch) and Route Boundary (SC147) (Prestonpans Jn)
+London-North-Eastern	1064	LN618	HOS	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	N	N	Y	Y	N	Y	Y	Y	
+London-North-Eastern	1064	LN620	KEB	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1064	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	Y	N	Y	Y	N	
+London-North-Eastern	1064	LN624	REB4	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	
+London-North-Eastern	1064	LN626	LEN2	Northallerton High Jn – Northallerton East Jn	0	00	0	36	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1064	LN627	LLP1	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1064	LN627	LLP3	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1064	LN627	LLP2	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1064	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	N	N	Y	R1 R2	R3	Y	Y	N	R1 30mph LEN3/151 Oxbridge Lane underbridge 59m32ch Down line R2 15mph Stockton Up platform R3 Prohibited between Northallerton East Jn and Eaglescliffe South Jn

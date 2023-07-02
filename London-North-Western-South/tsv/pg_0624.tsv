@@ -1,20 +1,25 @@
-London-North-Western-South	0624	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Western-South	0624					W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Western-South	0624	MD137	Wembley Yard South Jn – Wembley Central Jn	Wembley Yard South Jn	Wembley Central Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0624	MD140	Bletchley – Bedford St Johns (inclusive)	Bletchley	Bedford St Johns (inclusive)	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-South	0624	MD145	Camden Road West Junction – Camden Junction	Camden Road West Junction	Camden Junction	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0624	MD150	Kensal Green Junction – Willesden Suburban Junction	Kensal Green Junction	Willesden Suburban Junction	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-South	0624	MD155	Kensal Green Junction – Harlesden Junction	Kensal Green Junction	Harlesden Junction	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0624	MD160	Willesden High Level Junction – Mitre Bridge Junction	Willesden High Level Junction	Mitre Bridge Junction	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-South	0624	MD166	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	Route Boundary (SO250) (North Pole Jn)	Mitre Bridge Jn	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-South	0624	MD166	Mitre Bridge Jn – West London Jn (Willesden)	Mitre Bridge Jn	West London Jn (Willesden)	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-South	0624	MD166	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	West London Jn (Willesden)	Wembley Central Jn (Willesden Relief lines)	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0624	MD167	Mitre Bridge Jn – West London Jn (Willesden)	Mitre Bridge Jn	West London Jn (Willesden)	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-South	0624	MD167	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	West London Jn (Willesden)	Route Boundary (EA1360) (Acton Wells)	Y	Y	Y	Y	N	N	N	N	
-London-North-Western-South	0624	MD170	Acton Canal Wharf Junction – Willesden Junction	Acton Canal Wharf Junction	Willesden Junction	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0624	MD180	Rugby Trent Valley Junction – New Bilton	Rugby Trent Valley Junction	New Bilton	Y	N	N	N	N	N	N	N	R1
-London-North-Western-South	0624	MD232	Hinckley (Exclusive) – Abbey Jn	Hinckley (Exclusive)	Abbey Jn	Y	Y	N	N	N	Y	N	N	
-London-North-Western-South	0624	MD233	Midland Yard Jn – Canal Farm Jn	Midland Yard Jn	Canal Farm Jn	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Western-South	0624	MD301	Rugby, Trent Valley Junction – Penkridge (Excl) via Stechford, Birmingham New Street and Dudley Port	Rugby, Trent Valley Junction	Penkridge (Excl) via Stechford, Birmingham New Street and Dudley Port	Y *	Y	Y	R1	N	R2	N	N	R1 R2	R1 W9 prohibited between Stechford North Junction and Bushbury Junction via Birmingham New Street and Dudley Port R2 W10 prohibited between Stechford North Junction and Crane Street Junction (exclusive) via Birmingham New Street and Dudley Port
-London-North-Western-South	0624	MD305	Birmingham New Street – Blackwell via Selly Oak	Birmingham New Street	Blackwell via Selly Oak	Y *	R1	R1	N	N	N	N	N	R1	W7 and W8 at 30 mph through Church Road Tunnel [43m 56ch - 43m 61ch]
-London-North-Western-South	0624	MD310	Barnt Green Junction – Redditch	Barnt Green Junction	Redditch	Y *	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-South	0624	MD306	BAG1	King's Norton Station Jn – King's Norton Jn (Change of Mileage)	47	48	48	02	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD306	BAG2	King's Norton Jn (Change of Mileage) – Barnt Green Jn	46	77	51	58	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD306	BAG2	Barnt Green Jn – Stoke Works Jn	51	58	57	43	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD306	BAG2	Stoke Works Jn – Abbotswood Jn	57	43	68	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD306	BAG2	Abbotswood Jn – Route Boundary (GW401) (Ashchurch)	68	60	77	40	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD310	BEA	Barnt Green Jn – Redditch	51	58	56	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD315	SAS	Stechford South Jn – Stechford North Jn (via Up Line)	-0	20	-0	04	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD315	SAS	Stechford North Jn – Aston South Jn	-0	04	2	61	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD320	RBS1	Proof House Jn – Curzon Street Jn (Change of Mileage)	112	19	112	07	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD320	PBJ	Curzon Street Jn (Change of Mileage) – Aston South Jn	0	00	1	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD320	PBJ	Aston South Jn – Aston North Jn	1	60	1	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD320	PBJ	Aston North Jn – Bescot Jn	1	73	8	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD320	PBJ	Bescot Jn – Bushbury Jn	8	50	15	32	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD325	SSP	Soho South Jn – Perry Barr West Jn	2	71	0	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD325	PBL	Perry Barr West Jn – Perry Barr North Jn	0	29	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD330	SCL	Soho East Jn – Soho North Jn	0	00	0	22	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD335	SSP	Perry Barr West Jn – Perry Barr South Jn	0	39	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD340	ALC1	Aston North Jn – Sutton Coldfield Change of ELR	0	00	5	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD340	ALC2	Sutton Coldfield Change of ELR – Lichfield City Jn	5	00	13	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD340	BJW3	Lichfield City Jn – Lichfield Trent Valley (End of Electrification)	16	47	18	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD340	BJW3	Lichfield Trent Valley – Route Boundary (LN3340) (Wichnor Jn)	18	05	19	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD345	BJW1	Bescot Jn – Walsall Pleck Jn (Change of Mileage)	0	00	0	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD345	BJW2	Walsall Pleck Jn (Change of Mileage) – Limit of Electrification	5	42	6	34	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0624	MD345	BJW2	Limit of Electrification – Ryecroft Jn	6	34	6	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

@@ -1,21 +1,26 @@
-Scotland	0999	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
-Scotland	0999	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn)	Lockerbie	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	Y	Y	Y	N	Y	Y
-Scotland	0999	SC001	WCM1	Lockerbie	Law Jn	Lockerbie – Law Jn	25	66	84	08	Y	Y	Y	R1	Y	Y	R1 Prohibited between Lockerbie and Carstairs
-Scotland	0999	SC001	WCM2	Law Jn	Junction with Coatbridge lines (Lesmahagow Jn)	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn)	Newton East Jn	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Newton East Jn	Newton Hamilton Jn (SC0023) via South Connecting Line	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Newton Kirkhill Jn (SC0023)	Newton West Jn via North Connecting Line	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Newton East Jn	Newton West Jn	Newton East Jn – Newton West Jn	95	14	96	34	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Newton West Jn	Rutherglen East Jn	Newton West Jn – Rutherglen East Jn	96	34	98	32	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Rutherglen East Jn	Larkfield Jn	Rutherglen East Jn – Larkfield Jn	98	32	100	65	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Larkfield Jn	Eglinton St Jn	Larkfield Jn – Eglinton St Jn	100	65	101	39	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC001	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC003	ECA1	Carstairs South Jn	Carstairs East Jn	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC003	ECA2	Carstairs East Jn	Slateford Jn	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC003	ECA3	Slateford Jn	Haymarket East Jn	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC005	CSP	Carstairs Station Jn	Carstairs East Jn	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	Y	Y	N	Y	Y
-Scotland	0999	SC007	EGS2	Midcalder Jn	Holytown Jn	Midcalder Jn – Holytown Jn	23	11	1	27	Y	Y	Y	Y	N	Y
-Scotland	0999	SC009	LNK	Lanark	Lanark Jn	Lanark – Lanark Jn	2	45	0	03	Y	Y	Y	Y	Y	H
-Scotland	0999	SC011	WWD	Law Jn	Holytown Jn	Law Jn – Holytown Jn	84	08	89	66	Y	Y	Y	Y	Y	Y
-Scotland	0999	SC011	EGS2	Holytown Jn	Mossend East Jn	Holytown Jn – Mossend East Jn	1	27	0	40	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0999	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC191	ECN3	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC191	ECN4	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	N	N	N	Y	R1	Y	Y	R1 40mph Kingussie Up platform 2
+Scotland	0999	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC193	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	E	E	E	E	
+Scotland	0999	SC193	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC195	ECN5	Aberdeen – Change of ELR	241	06	241	08	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC195	ANI1	Change of ELR – Keith Jn SB	0	00	53	05	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC195	ANI2	Keith Jn SB – Forres	30	40	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC195	ANI3	Forres – Milburn Jn	119	26	143	39	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC195	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC195	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	E	E	E	E	
+Scotland	0999	SC195	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC197	WRO	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	N	N	N	N	N	N	N	
+Scotland	0999	SC199	DFN	Keith Jn – End of Line	53	06	53	36	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	E	E	E	E	
+Scotland	0999	SC203	WCK	Inverness platforms 5-7 – Rose Street Jn	0	02	0	18	N	N	N	Y	Y	Y	R1	R1 10mph Inverness platform 6
+Scotland	0999	SC203	WCK	Rose Street Jn – Invergordon	0	18	31	37	N	N	N	Y	Y	Y	Y	
+Scotland	0999	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	N	N	N	Y	Y	Y	Y	

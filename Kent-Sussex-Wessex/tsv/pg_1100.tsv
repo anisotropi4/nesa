@@ -1,12 +1,16 @@
-Kent-Sussex-Wessex	1100	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	1100					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Kent-Sussex-Wessex	1100	SW110	Havant Jn – Portsmouth Harbour	Havant Jn	Portsmouth Harbour	Y *	R1	S1	N	N	N	N	N	R1 W7 Prohibited between Blackfriars Jn and Portsmouth Harbour S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA wagons 2675 (h) x 2550 (w) box on FKA IKA wagons 2595 (h) x 2550 (w) box on IFA FIA wagons between Portcreek Jn and Fratton Yard ONLY
-Kent-Sussex-Wessex	1100	SW115	Basingstoke, Worting Jn – Salisbury Tunnel Jn	Basingstoke, Worting Jn	Salisbury Tunnel Jn	Y *	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED Laverstock North Jn to Salisbury Tunnel Jn R2 PROHIBITED Andover Up yard and Branch
-Kent-Sussex-Wessex	1100	SW115	Salisbury Tunnel Jn – Wilton Jn	Salisbury Tunnel Jn	Wilton Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA FLA wagons 2590 (h) x 2500 (w) box on FCA wagons 2667 (h) x 2500 (w) box on FKA IFA wagons 2625 (h) x 2550 (w) box on FEA FSA/FTA wagons 2615 (h) x 2550 (w) box on KFA wagons 25mph, Down Line at Fisherton Tunnel [ 82m 37ch to 82m 57ch ]
-Kent-Sussex-Wessex	1100	SW115	Wilton Jn – Dinton	Wilton Jn	Dinton	Y	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1100	SW115	Dinton – Exeter St Davids	Dinton	Exeter St Davids	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1100	SW115	Andover Jn – Ludgershall	Andover Jn	Ludgershall	Y	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	1100	SW115	Laverstock Loop (SW150)	Laverstock Loop (SW150)		Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1100	SW120	Pirbright Jn – Alton	Pirbright Jn	Alton	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1100	SW125	Southcote Jn – Basingstoke	Southcote Jn	Basingstoke	Y *	Y	Y	N	N	Y	N	N
-Kent-Sussex-Wessex	1100	SW130	Eastleigh – Romsey	Eastleigh	Romsey	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+Kent-Sussex-Wessex	1100	SW100	JAT	Waterloo platforms 20-24 – International Jn	00	00	0	38	8	N	N	N	R1	R1	Y	N	Y	N	R1 Prohibited Waterloo platforms 21 and 23
+Kent-Sussex-Wessex	1100	SW100	RDG1	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	RDG1	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	RDG1	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	BML1	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	BML1	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	BML1	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	8	Y	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Vauxhall platform 7 (Up Main Slow line)
+Kent-Sussex-Wessex	1100	SW100	AHG	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	RDG1	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	BML1	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	BML1	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	SCC	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	RDG1	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	BML1	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1100	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

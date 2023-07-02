@@ -1,48 +1,73 @@
-                                                                                   OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              LNW South Route Sectional Appendix Module LNW(S) RC
+                                      LNW South Route Sectional Appendix Module LNW(S) RC
 
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo
+                                                                            ooooooooooooooooooooooooooo
 
-
-Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo RA 08 09 20 31/1 31/4 33 37/0 37/5 37/7 Notes
-route           Description                              M Ch M Ch ooo ooo ooo ooo 31/6 ooo ooo 37/3 ooo 37/9 ooooooooooooooooooooooooooo
-                                                                                        ooo          37/4
-                                                                                                               ooo
-                                                                                                     37/6
-MD405   LSC2    Milverton Change of ELR – Coventry        0    00    8    45   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                South Jn
-MD410   CNN     Coventry North Jn – Nuneaton South Jn     0    00    9    53   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD415   HSA     Hatton Station Jn – Bearley Jn           18    12    12   48   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD415   HSA     Bearley Jn – Stratford Upon Avon (End    12    48    8    63   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                of Headshunt)
-MD420   HHW     Hatton North Jn – Hatton West Jn         18    25    17   62   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD425   TSB     Tyseley South Jn – Bearley Jn             0    00    17   71   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD430   OWW     Droitwich Spa – Cutnall Green (former   126    21   130   40   8    Y    N     Y    Y    Y    Y     Y   Y   Y
-                Route Boundary)
-MD430   OWW     Cutnall Green (former Route Boundary)   130    40   135   46   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                – Kidderminster
-MD435   DCL     Small Heath South Jn – Site of Former   126    59   132   47   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                Handsworth Jn
-MD435   HSJ     Site of Former Handsworth Jn –          132    47   133   32   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                Smethwick Jn
-MD435   GSJ2    Smethwick Jn – Stourbridge North Jn     133    32   141   06   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD440   GSJ1    Galton Jn – Smethwick Jn                  3    64    4    08   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD445   SJS     Stourbridge Jn – Stourbridge Town       142    16   142   78   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD450   OWW     Stourbridge North Jn – Round Oak        142    15   146   13   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD455   KWD     Kingswinford Jn – Network Rail          144    33   145   60   8    N    N    N     N    N    N     N   N   N Line out of use
-                Boundary                                                                                                        NME/2005/LNW284
-
-MD460   SJT1    Kineton MOD Branch – Burton Dassett      22    60    25   60   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                (MOD Kineton)
-MD501   DBP1    Route Boundary (LN3501) (London          23    30    29   39   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                Road Jn) – Kingsbury Jn
-MD501   DBP2    Kingsbury Jn – Water Orton East Jn       29    39    33   22   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD501   DBP3    Water Orton East Jn (Change of           34    43    40   60   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                Mileage) – Landor Street Jn
-MD501   DBP3    Landor Street Jn – Proof House Jn        40    60    41   51   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-MD545   KJW     Kingsbury Jn – Whitacre Jn (Change of    29    39    31   69   8    Y    Y     Y    Y    Y    Y     Y   Y   Y
-                Mileage)
-
-
-December 2009                                                                           30
+     MD555DBP3Whitacre West Jn – Water Orton East
+                                   31 69 34 43 N  N  N N  V N  H  N N  N  N
+              Jn
+     MD560WOP Water Orton West Jn – Park Lane
+                                   35 15 36 04 N  N  N N  N N  N  N N  N  N
+              Change of ELR
+     MD560CBR2Park Lane Change of ELR – Park Lane
+                                   36 04 36 15 N  N  N N  N N  N  N N  N  N
+              Jn
+     MD565CBR1Castle Bromwich Jn – Park Lane Jn
+                                   0  55  0 00 N  N  N N  N N  N  N N  N  N
+     MD565CBR2Park Lane Jn – Ryecroft Jn
+                                   36 04 47 48 N  N  N N  N N  N  N N  N  N
+     MD570LSS Landor Street Jn – St Andrews Jn
+                                   40 60 41 18 N  N  N N  N N  N  N N  N  N
+     MD570SKN St Andrews Jn – Bordesley Jn
+                                   41 18 41 44 N  N  N N  N N  N  N N  N  N
+     MD570SKN Bordesley Jn – Kings Norton Jn (Camp
+                                   41 44 46 77 N  N  N N  N N  N  N N  N  N
+              Hill Lines)
+     MD575SAG St Andrews Jn – Grand Jn
+                                   0  00  0 52 N  N  N N  N N  N  N N  N  N
+     MD580LEL Lifford East Jn – Lifford West Jn
+                                   46 11  4636 N  N  N N  N N  N  N N  N  N
+     MD701MCJ1London Marylebone – Neasden South
+                                  205 77 20065 N  N  N N  N N  N  N N  N  N
+              Jn (Change of Mileage)
+     MD701NAJ1Neasden South Jn (Change of
+                                   6  30  0 00 N  N  N N  N N  N  N N  N  N
+              Mileage) – Northolt Jn
+     MD701NAJ2Northolt Jn – Princes Risborough Jn
+                                   0  00 24 50 N  N  N N  N N  N  N N  N  N
+     MD701NAJ2Princes Risborough Jn – Site of
+                                   24 50 33 69 N  N  N N  N N  N  N N  N  N
+              Former Ashendon Jn (Change of
+              Mileage)
+     MD701NAJ3Site of Former Ashendon Jn (Change
+                                   0  00 18 35 N  N  N N  N N  N  N N  N  N
+              of Mileage) – Aynho Jn
+     MD705ANL Route Boundary (GW110) (Greenford
+                                   8  60 10 15 N  N  N N  N N  N  N N  N  N
+              West Jn) – Northolt Jn (South Ruislip)
+     MD710MCJ1Neasden South Jn – Network Rail
+                                  200 66 19705 N  N  N N  N N  N  N N  N  N
+              Boundary (LUL) (Harrow-on-the-Hill
+              South Jn)
+     MD712MCJ2Network Rail Boundary (LUL)
+                                   25 21 38 08 N  N  N N  N N  N  N N  N  N
+              (Amersham, Mantles Wood) –
+              Aylesbury Jn
+     MD712MCJ2Aylesbury Jn – Aylesbury
+                                   38 08 38 13 N  N  N N  N N  N  N N  N  N
+     MD715NJN Neasden South Jn – Route Boundary
+                                   6  30  6 51 N  N  N N  N N  N  N N  N  N
+              (EA1360) (Neasden Jn)
+     MD720NAJ2Princes Risborough – Change of
+                                   24 40 24 48 N  N  N N  N N  N  N N  N  N
+              Mileage (Princes Risborough Jn)
+     MD720PRA Change of Mileage (Princes
+                                   42 31 49 35 N  N  N N  N N  N  N N  N  N
+              Risborough Jn) – Aylesbury Jn
+     December 2009                                   20J

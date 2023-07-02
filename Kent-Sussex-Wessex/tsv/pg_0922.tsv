@@ -1,9 +1,14 @@
-Kent-Sussex-Wessex	0922	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	CH	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
-Kent-Sussex-Wessex	0922	SO680	BTH2	Change of Mileage	Route Boundary Wessex (Epsom)	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	N	N	N	N	Y	Y	R1	N	N	Y	Y	N	R1 Prohibited between Sutton and Route Boundary (SW180)
-Kent-Sussex-Wessex	0922	SO680	BTH2	Route Boundary Sussex (Ewell East)	Epsom (Change of ELR) [Duplicated in SW180]	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	N	N	Y	Y	Y	Y	N	N	N	Y	Y	N
-Kent-Sussex-Wessex	0922	SO680	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SW180]	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	N	N	Y	Y	Y	Y	Y	N	N	Y	Y	N
-Kent-Sussex-Wessex	0922	SO680	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	N	N	Y	Y	Y	Y	N	N	Y	Y	N
-Kent-Sussex-Wessex	0922	SO680	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn [Duplicated in SW180]	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	N	N	N	Y	Y	Y	R1 R2	N	N	Y	Y	N	R1 Prohibited between Dorking and Horsham Jn R2 Prohibited Dorking Loop platform 3
-Kent-Sussex-Wessex	0922	SO700	SMS1	Streatham South Jn (c)	Wimbledon platforms 9 and 10	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	N	N	N	N	Y	Y	E	N	N	Y	Y	N
-Kent-Sussex-Wessex	0922	SO700	SMS2	Wimbledon platforms 9 and 10	Wimbledon West Jn	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	N	N	N	N	Y	Y	N	N	N	Y	Y	N
-Kent-Sussex-Wessex	0922	SO700	SMS2	Wimbledon West Jn	Sutton	Wimbledon West Jn – Sutton	7	51	12	50	N	N	N	N	Y	Y	N	N	N	Y	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0922	SO130	XTD	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	N	N	N	N	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0922	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	N	N	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0922	SO130	XTD	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	N	N	N	E R1	E R1	N	Y	Y	Y	Y	Y	R1 60mph maximum speed
+Kent-Sussex-Wessex	0922	SO130	XTD	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	Y	N	N	N	E R1	E R1	N	Y	Y	Y	Y	Y	R1 60mph maximum speed
+Kent-Sussex-Wessex	0922	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	Y	N	N	N	E R1	E R1	N	Y	Y	Y	Y	Y	R1 60mph maximum speed
+Kent-Sussex-Wessex	0922	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	Y	N	N	N	E R1 R2 R3 R4	E R1 R2 R3 R4	N	Y	Y	Y	Y	R5 R6	R1 60mph maximum speed R2 Between London end of Grove Park Station (08m 55ch (Slows to Fasts Double Jn) and Chislehurst Jn use fast lines R3 25mph through Grove Park (Fast lines). R4 Access to Grove Park Up Sidings via 924/925 points R5 Prohibited Grove Park platform 5 with crush deflated suspension R6 Prohibited Chiselhurst platform 4 with crush deflated suspension
+Kent-Sussex-Wessex	0922	SO130	CSM1	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0922	SO130	CSM3	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0922	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	Y	N	N	N	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0922	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	Y	N	N	N	R1 R2 R3	R1 R2 R3	N	Y	Y	Y	Y	R4	R1 60mph Chelsfield Down platform R2 15mph Knockholt Down and Up platforms R3 15mph Dunton Green Down and Up platforms
+Kent-Sussex-Wessex	0922	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	Y	N	N	N	E R1	E R1	N	Y	Y	Y	Y	E	R1 75mph maximum speed
+Kent-Sussex-Wessex	0922	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	R1	E	N	N	E R1 R2	E R1 R2	N	Y	Y	Y	Y	E	R1 Prohibited Tonbridge platform 4 R2 75mph maximum speed
+Kent-Sussex-Wessex	0922	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	R1	E	N	N	E R2	E R2	N	Y	Y	Y	Y	E	R1 Prohibited Paddock Wood platform 3 R2 75mph maximum speed

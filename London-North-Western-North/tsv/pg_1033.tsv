@@ -1,16 +1,20 @@
-London-North-Western-North	1033	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					Gauge								Notes
-London-North-Western-North	1033										W6A	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Western-North	1033						M	Ch	M	Ch								
-London-North-Western-North	1033	NW9005	CNB4	Buxton SB	Buxton Sidings	Buxton SB – Buxton Sidings	164	52	165	12	Y	N	N	N	N	N	N	N
-London-North-Western-North	1033	NW9007	TTA1	New Mills South Jn	Marple Wharf Jn	New Mills South Jn – Marple Wharf Jn	172	17	177	23	Y *	S1	N	N	N	N	N	N	S1 The following traffic only is permitted: Up to 2438(h) x 2438(w) on FIA, IFA, FEA, FRA, KFA wagons
-London-North-Western-North	1033	NW9007	TTA1	Marple Wharf Jn	Romiley Jn	Marple Wharf Jn – Romiley Jn	177	23	178	33	Y *	S1	N	N	N	N	N	N	S1 The following traffic only is permitted: Up to 2438(h) x 2438(w) on FIA, IFA, FEA, FRA, KFA wagons
-London-North-Western-North	1033	NW9007	TTA1	Romiley Jn	Brinnington (Change of Mileage)	Romiley Jn – Brinnington (Change of Mileage)	178	33	181	00	Y *	S1	N	N	N	N	N	N	S1 The following traffic only is permitted: Up to 2438(h) x 2438(w) on FIA, IFA, FEA, FRA, KFA wagons
-London-North-Western-North	1033	NW9007	TTA2	Brinnington (Change of Mileage)	Ashburys East Jn	Brinnington (Change of Mileage) – Ashburys East Jn	42	77	46	24	Y *	S1	N	N	N	N	N	N	S1 The following traffic only is permitted: Up to 2438(h) x 2438(w) on FIA, IFA, FEA, FRA, KFA wagons
-London-North-Western-North	1033	NW9009	MRH	Marple Wharf Jn	Rose Hill Buffer Stop	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	Y	N	N	N	N	N	N	N
-London-North-Western-North	1033	NW9011	RYH1	Romiley Jn	Woodley Jn	Romiley Jn – Woodley Jn	178	33	179	44	Y *	Y	N	N	N	N	N	N
-London-North-Western-North	1033	NW9011	RYH2	Woodley Jn	Hyde Jn	Woodley Jn – Hyde Jn	8	74	6	16	Y *	Y	N	N	N	N	N	N
-London-North-Western-North	1033	NW9013	WJP1	Woodley Jn	Bredbury Sidings	Woodley Jn – Bredbury Sidings	40	53	39	58	Y	Y	N	N	N	N	N	N
-London-North-Western-North	1033	NW9017	NMC1/2	Hazel Grove High Level Jn	Cheadle Jn	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	Y *	Y	N	N	N	N	N	N
-London-North-Western-North	1033	NW9017	WJP1	Cheadle Jn	Northenden Jn	Cheadle Jn – Northenden Jn	35	64	33	52	Y *	N	N	N	N	N	N	N
-London-North-Western-North	1033	NW9019	BUX	Buxton	Brigg’s Sidings	Buxton – Brigg’s Sidings	0	00	4	70	Y *	N	N	N	N	N	N	N
-London-North-Western-North	1033	NW9021	BEJ	Buxton	Hazel Grove East Jn	Buxton – Hazel Grove East Jn	19	09	2	35	Y * S1	N	N	N	N	N	N	N	S1 The following traffic only is permitted: JNA, JGA and HLA wagons Qxx Zxx infrastructure traffic (except on-track machines) Conditions of travel must be sought for other freight movements
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Western-North	1033	NW2009	SDJ2	End of line (Latchford) – Ditton East Jn	10	06	18	55	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1033	NW2011	WOA1	Walton Old Jn – Arpley Jn	0	68	0	00	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1033	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1033	NW2015	DSE	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1033	NW2015	DSE	Earlestown East Jn – Edge Hill	14	75	1	78	Y * R1	Y	Y	Y	N	Y	R2	N	R1 * applies between between Bootle Branch Jn (1m 78ch) and Edge Hill R2 * Permitted Edge Hill to Huyton Jn only
+London-North-Western-North	1033	NW2017	SCN	Eccles Station Jn – Weaste Branch Network Rail / MSC Boundary	0	00	0	54	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1033	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1033	NW2021	EEE	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1033	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Western-North	1033	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Western-North	1033	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	-18	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Western-North	1033	NW2025	SHS1	St Helens Station Jn – Sutton Oak Network Rail Boundary	7	15	6	04	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1033	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn –Network Rail Boundary (MDHC)	0	15	5	53	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1033	NW2029	OME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1033	NW3001	CNH1	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	41	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1033	NW3001	CNH1	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	41	178	66	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1033	NW3001	CNH2	Chester East Jn – Change of ELR (Chester Windmill Lane Tunnel)	178	66	179	56	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1033	NW3001	CNH3	Change of ELR (Chester Windmill Lane Tunnel) – Route Boundary LNW / Wales (Rockcliffe Hall)	179	56	188	40	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1033	NW3001	CNH3	Route Boundary LNW / Wales (Rockcliffe Hall) – Holyhead	188	40	263	56	Y *	N	N	N	N	N	N	N	

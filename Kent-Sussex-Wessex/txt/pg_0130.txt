@@ -1,62 +1,94 @@
-                                                           OFFICIAL
+                                   OFFICIAL
 
 
-Kent / Sussex / Wessex Routes Sectional Appendix Module KSW1
-
-
-
-
-GSM-R GENERAL INSTRUCTION
-TW5 Section 24 - Known Searching Network Locations
-The locations in the table below have encountered a temporary reduction in radio coverage with the GSM-R system which
-may result in registration problems and the ability of the driver to contact the signaller. This will be presented to the Driver
-on the DCP as ‘searching for network’.
-
-Drivers must carry out the ‘Pending Registration’ process on the radio and continue their journey.
-
-     Location                Fault Number       Comments                                      Outcome
-     Hilsea                  FMS 283097         Coverage issues                               Area tested and no
-                                                                                              fault found
-     Camberley               FMS FRI            Coverage/Interference issues.                 Investigation ongoing
-                             283625.
-     Canterbury West         NA                 Registration issues due to interference       Fixed – Repeater
-                                                                                              installed
-     Hayes                   NA                 Registration issues due to interference       Fixed – Repeater
-                                                                                              installed
-
-TW5 Section 24 - Known Misrouted Call Locations
-
-The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls may
-misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
-
-Drivers are instructed to use the phone book to contact the signaller from these locations.
-
-      Location                                     Fault              Comments                          Outcome
-                                                   Number
-      Aldershot South Junction – Up Ash            322915             Calls are misrouted to Woking
-      Branch: GD960                                                   ASC instead of Guildford
-      Crystal Palace                               NA                 GSM-R calls from trains at        Fixed –
-                                                                      Crystal Palace being received     Changes to
-                                                                      at TBASC panel A.                 coverage
-                                                                                                        design
-      Tattenham Corner                             FMS FRI-           Misrouted calls                   Fixed –
-                                                   292073                                               GSMR
-                                                                                                        Power
-                                                                                                        increased on
-                                                                                                        serving site
-
-GSM-R Faults and Failures Response
-
-Version 1.1
-
-Purpose
-
-To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
-
-Appendix 1 covers the response to system faults from a single fixed terminal through to failures of the infrastructure
-resulting in loss of coverage in a geographical area.
+       Kent / Sussex / Wessex Routes Sectional Appendix Module KSW1
 
 
 
+                                              CONTROLLING
+                                                        GSM-R
+                LINE/PLATFORM        LOCATION
+       LOCATION            SIGNAL             SIGNAL    CONTACT
+                (DIRECTION)          CODE
+                                              BOX/PANEL NUMBER
 
-December 2009                                                93GA
+       SO250 BATTERSEA PIER JN TO WEMBLEY
+
+                Down Pig Hill Siding        Victoria ASC Panel
+       Clapham Jn             VC148 993                  74 3103 01
+                to Main Line                2A
+
+                                            Victoria ASC Panel
+                Down Pig Hill Siding
+       Clapham Jn             VC145 993
+                                            2A
+                                                         74 3103 01
+
+
+       SO260 BRIXTON JN TO SHORTLANDS JN
+
+                Up Catford Loop
+       Cambria Jn             VS679 993     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Down direction)
+
+                Down Catford Loop
+       Cambria Jn             VS678 993     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Up direction)
+
+                Up Catford Loop
+       Bellingham             VS685 994     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Down direction)
+
+                Neck Sidings
+       Bellingham             VS687 994     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Down direction)
+
+                Neck Sidings
+       Bellingham             VS686 993     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Up direction)
+
+                Down Catford Loop
+       Bellingham             VS688 993     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Up direction)
+
+       SO280 FARRINGDON TO HERNE HILL
+
+                Up Cambria Spur
+       Cambria Jn             VS675 993     Victoria ASC Panel 8
+                                                         74 3110 01
+                (Down direction)
+
+       SO300 LEWISHAM TO CRAYFORD CREEK JN (VIA BEXLEYHEATH)
+
+                Down North Kent             London Bridge Panel
+       Angerstein Jn          L1438 992                  74 2105 01
+                (Up direction)              5
+
+       SO500 VICTORIA TO BRIGHTON
+
+                Up Brighton Fast            Victoria ASC Panel
+       Clapham Jn             VC141 993                  74 3103 01
+                (Down direction)            2A
+
+                Up Brighton Slow            Victoria ASC Panel
+       Clapham Jn             VC143 993                  74 3103 01
+                (Down direction)            2A
+
+                Down Brighton Slow          Victoria ASC Panel
+       Clapham Jn             VC144 993                  74 3103 01
+                (Up direction)              2A
+
+                Down Brighton Slow          Victoria ASC Panel
+       Clapham Jn             VC150 993                  74 3103 01
+                (Up direction)              2A
+
+
+
+
+       December 2009                93C

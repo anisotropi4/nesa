@@ -1,20 +1,20 @@
-Kent-Sussex-Wessex	0925	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0925	SO130	XTD	Metropolitan Jn	Borough Market Jn	Metropolitan Jn – Borough Market Jn	1	31	1	50	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	CBM	Cannon Street Substation	Borough Market Jn	Cannon Street Substation – Borough Market Jn	0	20	0	38	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Borough Market Jn	London Bridge platforms 1-9	Borough Market Jn – London Bridge platforms 1-9	1	50	1	69	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	London Bridge platforms 1-9	North Kent East Jn	London Bridge platforms 1-9 – North Kent East Jn	1	69	4	25	Y	Y	R1 R2	N	N	N	N	R1 Prohibited between Blue Anchor and North Kent East Jn R2 No.5 Down line, clear to crossovers to and from Sussex side lines and Up Passenger Loop between London Bridge and Spa Road Jn
-Kent-Sussex-Wessex	0925	SO130	XTD	North Kent East Jn	Tanners Hill Jn	North Kent East Jn – Tanners Hill Jn	4	25	5	29	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Tanners Hill Jn	Parks Bridge Jn	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	LLL	Parks Bridge Jn	Ladywell Jn	Parks Bridge Jn – Ladywell Jn	6	14	6	29	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Parks Bridge Jn	Courthill Loop South Jn	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Courthill Loop South Jn	Hither Green Jn	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Hither Green Jn	Lee Spur Jn	Hither Green Jn – Lee Spur Jn	7	04	7	44	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Lee Spur Jn	Chislehurst Jn	Lee Spur Jn – Chislehurst Jn	7	44	11	33	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	CSM1	Chislehurst Jn	St Mary Cray Down Jn via Reversible Chatham Loop	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	CSM3	Chislehurst Jn	Hawkwood Jn (Up Chatham Loop)	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Chislehurst Jn	Petts Wood Jns	Chislehurst Jn – Petts Wood Jns	11	33	12	27	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Petts Wood Jns	Sevenoaks Substation	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Sevenoaks Substation	Tonbridge West Jn	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Tonbridge West Jn	Tonbridge East Jn	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Tonbridge East Jn	Paddock Wood	Tonbridge East Jn – Paddock Wood	29	55	34	67	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0925	SO130	XTD	Paddock Wood	Ashford (Jn with Maidstone line)	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	Y	Y	Y	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0925	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	Y	Y	Y	Y	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0925	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	N	Y	Y	Y	Y	Y	E	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0925	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	N	Y	N	N	Y	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0925	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	N	E	Y	Y	Y	Y	N	N	N	Y	N	E	
+Kent-Sussex-Wessex	0925	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	N	N	Y	N	Y	Y	N	N	N	N	E	E	
+Kent-Sussex-Wessex	0925	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	N	N	N	N	N	N	N	N	N	Y	N	N	
+Kent-Sussex-Wessex	0925	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	N	N	Y	N	Y	Y	N	N	N	N	E	E	
+Kent-Sussex-Wessex	0925	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	N	N	Y	Y	Y	Y	EH	N	N	Y	E	N	
+Kent-Sussex-Wessex	0925	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	N	Y	Y	Y	Y	Y	EH	N	N	Y	N	E	
+Kent-Sussex-Wessex	0925	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	N	N	Y	Y	Y	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0925	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	N	N	N	N	Y	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0925	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	N	N	N	N	Y	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0925	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	N	N	N	N	Y	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0925	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	Y	E	N	N	Y	Y	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0925	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	Y	E	N	N	Y	Y	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0925	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	Y	E	N	N	Y	Y	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0925	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	Y	E	N	N	Y	Y	N	Y	Y	N	Y	R1	Prohibited Dalrymple Road Bridge No.461 Nunhead Jn – Crofton Park Station Up Fast line
+Kent-Sussex-Wessex	0925	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	E	N	N	Y	Y	N	Y	Y	N	Y	N	
+Kent-Sussex-Wessex	0925	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	Y	E	N	N	Y	Y	N	Y	Y	N	Y	N	

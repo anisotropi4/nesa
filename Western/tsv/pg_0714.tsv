@@ -1,18 +1,18 @@
-Western	0714	GW900	SWM 2	Court Sart Jn	Llandore Jn	Court Sart Jn – Llandore Jn	206	58	214	62	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW900	SWM 2	Llandore Jn	Llandeilo Jn	Llandore Jn – Llandeilo Jn	214	62	223	49	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW900	SWM 2	Llandeilo Jn	Carmarthen Bridge Jn	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW900	SWM 2	Carmarthen Bridge Jn	Whitland Jn	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW900	SWM 2	Whitland Jn	Clarbeston Road Jn	Whitland Jn – Clarbeston Road Jn	259	01	271	08	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW900	CRL	Clarbeston Road Jn	Change of ELR (Letterston Jn)	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW900	NPF	Change of ELR (Letterston Jn)	Network Rail Boundary (Fishguard Harbour)	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW9001	SWA	Landore Jn	Swansea	Landore Jn – Swansea	214	62	216	07	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW906	SWL	Swansea Loop East Jn	Swansea Loop West Jn	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW910	CWL 1	Craven Arms Jn	Change of Mileage	Craven Arms Jn – Change of Mileage	20	01	20	12	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW910	CWL 2	Change of Mileage	Site of Former Llandovery Jn	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	E	Y	Y	Y	Y	Y	R1 R2	E	E	R1 Prohibited between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
-Western	0714	GW910	VOT	Site of Former Llandovery Jn	Llandeilo	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	E	Y	Y	Y	Y	Y	N	E	E
-Western	0714	GW910	LLA	Llandeilo	Pantyffynnon	Llandeilo – Pantyffynnon	18	07	10	08	E	Y	Y	Y	Y	Y	N	E R1	E R1	R1 5mph Ffairfach platform
-Western	0714	GW910	LLA	Pantyffynnon	Morlais Jn	Pantyffynnon – Morlais Jn	10	08	3	50	E	Y	Y	Y	Y	Y	N	Y	Y
-Western	0714	GW910	LLA	Morlais Jn	Llandeilo Jn	Morlais Jn – Llandeilo Jn	3	50	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0714	GW915	GWA	Gwaun-cae-Gurwen	Former Jn (Change of ELR)	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N
-Western	0714	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N
-Western	0714	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	E	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0714	GW770	EBW	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	E	R1	R1	Y	Y	Y	N	Y	Y	N	R1 Permitted to assist a failed train / contingency use only
+Western	0714	GW770	WVL	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	E	R1	R1	Y	Y	Y	N	Y	Y	N	R1 Permitted to assist a failed train / contingency use only
+Western	0714	GW770	GAE	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	N	N	N	Y	Y	Y	N	Y	Y	N	R1
+Western	0714	GW773	BJR	Machen Quarry – Site of Former Bassaleg Jn	4	69	0	00	N	N	N	N	N	N	N	N	N	N	R1
+Western	0714	GW773	WVL	Site of Former Bassaleg Jn – Park Jn (Machen Branch)	2	05	1	10	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW780	WVL	Park Jn – Park Jn SB	1	02	0	74	E	R1	R1	Y	Y	Y	N	Y	Y	N	R1 Permitted to assist a failed train / contingency use only
+Western	0714	GW780	NWN	Park Jn SB – Ebbw Jn	0	54	0	00	E	R1	R1	Y	Y	Y	N	Y	Y	N	R1 Permitted to assist a failed train / contingency use only
+Western	0714	GW784	NLL	Alexandra Dock Jn – Network Rail Boundary (Newport Docks)	159	60	160	27	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW790	ROC	Pengam Jn – Change of ELR	168	20	168	61	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW790	ROA	Change of ELR – Network Rail Boundary (ABP Cardiff Docks)	3	41	4	54	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW810	CAR	End of Line (Rhymney) – Ystrad Mynach South Jn	24	00	13	41	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0714	GW810	CAR	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0714	GW810	CAR	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0714	GW820	TBD	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW820	VON	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW820	PTA	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	N	N	N	N	N	N	N	N	N	N	
+Western	0714	GW828	CRY	Coryton – Heath Jn	2	57	0	15	E	Y	Y	Y	Y	Y	Y	Y	Y	N	

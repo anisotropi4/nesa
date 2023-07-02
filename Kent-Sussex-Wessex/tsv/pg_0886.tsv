@@ -1,24 +1,26 @@
-Kent-Sussex-Wessex	0886	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0886	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn – Eastbourne	21	39	23	75	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO600	WJB	Willingdon Jn	Connection - St Leonards LMD	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO600	WJB	Connection - St Leonards LMD	Bo Peep Jn	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO620	BTL	Montpelier Jn	Lewes	Montpelier Jn – Lewes	0	14	7	77	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO620	KJE1/2	Lewes	Southerham Jn [Duplicated on SO590]	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	N	N	N	N	N
-Kent-Sussex-Wessex	0886	SO620	STS	Southerham Jn	Newhaven Harbour Jn	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	N	N	N	N	N
-Kent-Sussex-Wessex	0886	SO620	NHB	Newhaven Harbour Jn	Wharf Road (Newhaven Marine)	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	N	N	N	N	N
-Kent-Sussex-Wessex	0886	SO620	STS	Newhaven Harbour Jn	Seaford	Newhaven Harbour Jn – Seaford	56	55	58	77	N	N	N	N	N
-Kent-Sussex-Wessex	0886	SO630	BLI1	Brighton platforms 1 and 2	Hove Jn	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	Y	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO630	BLI1	Hove Jn	Hove platforms 2 and 3	Hove Jn – Hove platforms 2 and 3	1	28	1	35	Y	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO630	PPH	Hove Jn	Hove Up platform loop via platform 1	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	Y	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO630	BLI1	Hove Up platform loop and platforms 2, and 3	Arundel Jn	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	Y	R1 R2	N	N	N	R1 15mph Southwick Up platform R2 15mph Shoreham by Sea Down platform
-Kent-Sussex-Wessex	0886	SO630	BLI1	Arundel Jn	Littlehampton Jn (Change of Mileage)	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO630	FJL	Littlehampton Jn	Ford Jn	Littlehampton Jn – Ford Jn	60	57	60	26	N	N	N	N	N
-Kent-Sussex-Wessex	0886	SO630	BLI2	Littlehampton Jn (Change of Mileage)	Littlehampton	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO640	BBR	Barnham	Bognor Regis	Barnham – Bognor Regis	22	29	25	75	N	R1	N	N	N	R1 Prohibited Bognor Regis platforms 2, 3 and 4
-Kent-Sussex-Wessex	0886	SO645	ATL	Battersea Park	Factory Jn	Battersea Park – Factory Jn	7	27	6	67	N	N	N	N	N
-Kent-Sussex-Wessex	0886	SO645	ATL	Factory Jn	Wandsworth Road Jn	Factory Jn – Wandsworth Road Jn	6	67	6	53	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO645	ATL	Wandsworth Road Jn	Shepherds Lane Jn	Wandsworth Road Jn – Shepherds Lane Jn	6	53	5	68	N	Y	N	N	N
-Kent-Sussex-Wessex	0886	SO645	ATL	Shepherds Lane Jn	Crofton Road Jn	Shepherds Lane Jn – Crofton Road Jn	5	68	3	67	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0886	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO500	VTB1	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO500	VTB1	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO500	VTB1	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO500	VTB1	Pouparts Jn – Falcon Jn	2	03	2	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO500	WLL	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	R1	N	N	N	N	R1 OPPOS applies between crossover VC289 points and Falcon Jn VC290/292 points
+Kent-Sussex-Wessex	0886	SO500	VTB1	Falcon Jn – Balham Jn	2	66	4	69	N	N	N	N	N	

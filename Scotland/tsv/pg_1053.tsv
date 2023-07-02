@@ -1,12 +1,21 @@
-Scotland	1053	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1053	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
-Scotland	1053	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
-Scotland	1053	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
-Scotland	1053	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7 R1	R2	R2	R2	R2	R2	R2	R2	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 10mph over bridge 268/001 (0m 15ch)
-Scotland	1053	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7 R1	N	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 Sleeper Services only
-Scotland	1053	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1053	SC131	HST	High Street Jn	Connection to Smithy Lye Through Line	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1053	SC131	HST	Connection to Smithy Lye Through Line	Shields Jn	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1053	SC133	MGE	Westerton Jn	Milngavie	Westerton Jn – Milngavie	6	19	9	35	5	Y	N	N	N	N	N	N
-Scotland	1053	SC135	BCH	Dalreoch Jn	Balloch	Dalreoch Jn – Balloch	16	39	20	38	6	Y	Y	R1	Y	N	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1053	SC136	HYD	Hyndland North Jn	Hyndland West Jn	Hyndland North Jn – Hyndland West Jn	0	00	0	16	8	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+Scotland	1053	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	N	N	N	N	Y	E R1	R1 Prohibited between Change of ELR and Belgrove Jn
+Scotland	1053	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1053	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1053	SC131	HST	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	Y	Y	Y	N	N	N	EH	Y	E	
+Scotland	1053	SC131	HST	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	Y	Y	Y	N	N	N	EH	Y	E	
+Scotland	1053	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1053	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1053	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	Y	Y	Y	N	N	N	N	Y	N	

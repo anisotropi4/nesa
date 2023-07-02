@@ -1,12 +1,25 @@
-Western	0840	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0840	GW915	GNT	Former Jn (Change of ELR)	Pantyffynnon	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	5	Y
-Western	0840	GW930	CAN	Carmarthen Jn	End of Line (Beyond Carmarthen Station)	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	8	Y
-Western	0840	GW940	CAN/C NW	Up Sidings No.2 GF	Carmarthen Bridge Jn	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	8	Y
-Western	0840	GW950	PEM	Whitland Jn	Pembroke RA Change	Whitland Jn – Pembroke RA Change	259	01	284	22	7	Y
-Western	0840	GW950	PEM	Pembroke RA Change	Pembroke Dock	Pembroke RA Change – Pembroke Dock	284	22	286	26	6	Y
-Western	0840	GW960	SWM2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	8	Y
-Western	0840	GW960	SWM2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	8	Y
-Western	0840	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	8	Y
-Western	0840	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	8	Y
-Western	0840	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	8	Y
-Western	0840	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	8	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Western	0840	GW790	ROA	Change of ELR – Network Rail Boundary (ABP Cardiff Docks)	3	41	4	54	7	Y	
+Western	0840	GW810	CAR	End of Line (Rhymney) – Ystrad Mynach South Jn	24	00	13	41	6	Y	
+Western	0840	GW810	CAR	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	6	Y	
+Western	0840	GW810	CAR	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	6	Y	
+Western	0840	GW820	TBD	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	8	Y	
+Western	0840	GW820	VON	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	8	Y	
+Western	0840	GW820	PTA	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	8	Y	
+Western	0840	GW828	CRY	Coryton – Heath Jn	2	57	0	15	6	Y	
+Western	0840	GW830	CAM	Merthyr Tydfil – Abercynon Jn	24	44	16	35	6	Y	
+Western	0840	GW830	CAM	Abercynon Jn – Pontypridd Jn	16	35	13	04	6	Y	
+Western	0840	GW830	CAM	Pontypridd Jn – Radyr Jn	13	04	5	23	6	Y	
+Western	0840	GW830	CAM	Radyr Jn – Queen Street North Jn	5	23	1	17	8	Y	
+Western	0840	GW830	CAM	Queen Street North Jn – Queen Street South Jn	1	17	0	66	8	Y	
+Western	0840	GW830	CEJ	Queen Street South Jn – Cardiff East Jn	0	22	0	00	8	Y	
+Western	0840	GW830	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	8	Y	
+Western	0840	GW830	BRY	Cardiff West Jn – Barry Jn	0	10	8	16	8	R1	R1 Prohibited between Penarth Curve South Jn and Grangetown on the Up Barry line
+Western	0840	GW830	BRY	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	6	Y	
+Western	0840	GW834	VON	Network Rail Boundary – Aberdare	26	62	22	34	6	Y	
+Western	0840	GW834	VON/A LK	Aberdare – Cwmbach Change of ELR	22	34	20	68	6	Y	
+Western	0840	GW834	ABD/M OA	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	6	Y	
+Western	0840	GW835	THT	End of Line – Treherbert	23	69	23	54	6	Y	
+Western	0840	GW835	THT	Treherbert – Pontypridd Jn	23	54	13	04	6	R1	R1 Prohibited between Dinas Rhonda and Porth on the Single line
+Western	0840	GW839	CAM	Queen Street South Jn – Cardiff Bay	0	66	0	02	6	Y	
+Western	0840	GW840	RAD	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	8	Y	

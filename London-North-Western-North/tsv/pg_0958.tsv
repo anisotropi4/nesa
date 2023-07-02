@@ -1,21 +1,16 @@
-London-North-Western-North	0958	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
-London-North-Western-North	0958	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7009	FHR5	Daisyfield Jn	Gannow Jn	Daisyfield Jn – Gannow Jn	11	09	21	03	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7009	FHR6	Gannow Jn	Hall Royd Jn	Gannow Jn – Hall Royd Jn	21	03	30	54	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7011	LHL	Farington Jn	Limit of Electrification	Farington Jn – Limit of Electrification	0	00	0	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7011	LHL	Limit of Electrification	Lostock Hall Jn (Lostock Hall Lines)	Limit of Electrification – Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7013	DJH	Daisyfield Jn	Hellifield	Daisyfield Jn – Hellifield	11	09	34	68	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7015	PRG	End of Line (Padiham Power Station Sidings)	Rose Grove West Jn	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	N	N	N	N	N	N	Line out of use
-London-North-Western-North	0958	NW7017	GJC	Gannow Jn	Colne	Gannow Jn – Colne	21	03	27	37	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 30mph over Bridge 91 (25m 33ch – 25m 34ch)
-London-North-Western-North	0958	NW7019	MPR2	Thorpes Bridge Jn	Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7021	MVL1	Miles Platting Jn	Philips Park West Jn	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7021	MVL1	Philips Park West Jn	Baguley Fold Jn	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7021	MVL1	Baguley Fold Jn	Ashton Moss North Jn	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7021	MVL1	Ashton Moss North Jn	Stalybridge Jn	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7021	MVL2	Stalybridge Jn	Stalybridge Tunnel Jn	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7021	MVL3	Stalybridge Tunnel Jn	Route Boundary (LN860) (Springwood Jn)	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7023	BPP	Philips Park West Jn	Brewery Jn	Philips Park West Jn – Brewery Jn	0	00	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7025	PPA1	Philips Park West Jn	Philips Park South Jn	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0958	NW7025	PPA1	Philips Park South Jn	Change of Mileage	Philips Park South Jn – Change of Mileage	2	07	3	12	7	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 4 (02m 20ch – 2m 40ch)
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0958	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC2	Rugeley North Jn – Colwich Jn	124	39	127	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC2	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC3	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC4	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC4	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC6	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC4	Heamies Bridge – Basford Hall Jn	140	00	156	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC4	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC5	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC5	Crewe South Jn – Crewe North Jn	157	60	158	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	LEC5	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	CGJ1	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0958	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	8	Y	Y	Y	Y	Y	Y	Y	Y	

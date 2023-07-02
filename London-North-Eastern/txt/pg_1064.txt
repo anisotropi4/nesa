@@ -1,46 +1,66 @@
-                                                                                          OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                           LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
+
+     Line of ELR
+             Line of Route / Sector Description
+                                   M  Ch M Ch 170 172 180 185 195 220 221 222 Noteso
+     route
+         ECN5 Low Fell Jn – King Edward Bridge South Jn
+     LN600                         77 37 7942 E  N  Y   Y   Y Y  Y   Y
+         ECM5 King Edward Bridge South Jn – Newcastle
+     LN600                         79 42 8005 E  N  Y   Y   N Y  Y   Y
+             West Jn
+         ECM6 Newcastle West Jn – Newcastle
+     LN600                         80 05 8016 E  N R3 R4 N Y  Y R5 R1Prohibited Newcastle bay platforms 9-12
+                                             R1                   R2 Prohibited Newcastle platform 4 Up Main line
+                                             R2                   R3 Prohibited Newcastle platforms 9 and 10
+                                                                  R4 Prohibited Newcastle platform 9 with deflated suspension
+                                                                  R5 Prohibited Newcastle Station platforms 5, 6, 7, 8, 9, 10, 11 and
+                                                                     12
+         ECM7 Newcastle – Newcastle East Jn
+     LN600                          0 00 0 14 E  N  Y Y  N Y  Y  Y R1Prohibited Newcastle bay platforms 9-12
+                                              R1                   Prohibited Newcastle platform 4 Up Main line
+                                              R2                   R2 Prohibited Newcastle platform 4 Up Main line
+         ECM7 Newcastle East Jn – Heaton South Jn
+     LN600                          0 14 1 65 E  N  E R1 N Y  Y  Y R1Prohibited Manors Down platform when laden
+         ECM7 Heaton South Jn – Route Boundary
+     LN600                          1 65 6967 R1 N  E Y  N Y  Y R2 R1ECS only between Heaton South Jn and Berwick upon Tweed
+             (SC147) (Prestonpans Jn)                             R2 R2 Prohibited between Berwick upon Tweed Up Goods Loop
+                                                                     (67m 38ch) and Route Boundary (SC147) (Prestonpans Jn)
+     LN618
+         HOSHolgate Jn – Skelton Jn via York Yard
+                                    0 00 1 54 N  N  Y Y  N Y  Y  Y
+            South
+     LN620
+         KEBKing Edward Bridge East Jn – King Edward
+                                    0 00 0 13 N  N  Y Y  N Y  Y  N
+            Bridge North Jn (East Curve)
+         NEN1 Newcastle Forth Jn – Forth Banks
+     LN622                          0 11 0 73 N  N N  Y  N Y  Y  N
+         REB4 Northallerton Castle Hills Jn – Network Rail
+     LN624                          0 04 0 18 N  N N  N  N N  N  N
+             Boundary (Wensleydale Railway)
+         LEN2 Northallerton High Jn – Northallerton East
+     LN626                          0 00 0 36 N  N  Y Y  N Y  Y  N
+             Jn
+         LLP1 Longlands Jn (Down Line) – Boroughbridge
+     LN627                          2858 2972 N  N  Y Y  N Y  Y  N
+             Road LC
+         LLP3 Longlands Jn (Up Line) – Boroughbridge
+     LN627                          0 69 0 00 N  N  Y Y  N Y  Y  N
+             Road LC
+         LLP2 Boroughbridge Road LC – Northallerton
+     LN627                         42 21 4279 N  N  Y Y  N Y  Y  N
+             East Jn
+         LEN3 Northallerton East Jn – Billingham Jn
+     LN627                         42 79 6369 N  N  Y R1R3 Y  Y  N R130mph LEN3/151 Oxbridge Lane underbridge 59m32ch Down
+                                                      R2             line
+                                                                   R215mph Stockton Up platform
+                                                                   R3Prohibited between Northallerton East Jn and Eaglescliffe South
+                                                                     Jn
 
 
 
-
-Line of ELR     Line of Route / Sector Description          M     Ch   M     Ch    170 172 180 185 195 220 221 222 Notes
-route
-LN627 LEN3      Boldon East Jn – Boldon West Jn              94   63    95    16    N     N      Y     Y     Y        Y   Y   N
-LN627 LEN3      Boldon West Jn – Pelaw Metro Jn              95   16    97    64    N     N      Y     Y     Y        Y   Y   N
-LN627 LEN3      Pelaw Metro Jn – Park Lane Jn                97   64   100    65    N     N      Y    R1     Y        Y   Y   N   R1   30mph Heworth Up platform
-LN627 LEN3      Park Lane Jn – High Level Bridge Jn         100   65   101    33    N     N      Y     Y     N        Y   Y   N
-LN627 LEN3      High Level Bridge Jn – Newcastle East Jn 101      33   101    59    N     N      Y     Y     N        Y   Y   N
-LN628 NEK       South Hylton – Sunderland South Jn           3    20    0     00    N     N      N     N     N        N   N   N
-LN629 PDL       Pelaw Metro Jn – Network Rail Boundary       97   64    98    01    N     N      N     N     N        N   N   N
-                (Metro Operating)
-LN630 PUL       Pelaw Metro Jn – Network Rail Boundary       97   64    97    77    N     N      N     N     N        N   N   N
-                (Metro Operating)
-LN631 DSN1      Darlington South Jn – Eaglescliffe South     0    29    8     58    N     N     R1     Y     Y        Y   Y   N   R1   15mph Dinsdale Up platform
-                Jn
-LN632 DSN2      Stockton Cut Jn – Redcar Change of           10   13    21    72    N     N     R1     Y    R2        N   N   N   R1   Prohibited between Thornaby and Redcar Change of
-                Mileage                                                                                                                Mileage
-                                                                                                                                  R2   Prohibited British Steel Redcar Up platform with deflated
-                                                                                                                                       secondary suspension
-LN632 DSN3      Redcar Change of Mileage – Saltburn          22   16    27    57    N     N      N     Y     Y        N   N   N
-LN634 MBW1 Guisborough Jn – Battersby Jn                     0    00    10    54    N     N      N    R1     N        N   N   N   R1   Prohibited between Nunthorpe and Battersby Jn
-LN634 MBW2 Battersby Jn (End of Line) – Grosmont Jn          11   61    29    66    N     N      N     N     N        N   N   N
-LN634 MBW3 Grosmont Jn – Whitby                              24   44    30    61    N     N      N     N     N        N   N   N
-LN636 No ELR Beam Mill Jn – Network Rail Boundary            18   03    18    67    N     N      N     N     N        N   N   N
-LN638 WCI       Shell Jn – Network Rail Boundary             0    00    1     03    N     N      N     N     N        N   N   N
-LN642 SSK1      Saltburn West Jn – Network Rail              27   05    34    29    N     N      N     N     N        N   N   N
-                Boundary (Cleveland Potash)
-LN644 BOH       Hartburn Jn – Bowesfield SB (Hartburn        0    00    0     44    N     N      Y     Y     Y        N   N   N
-                Curve)
-LN646 STF       Norton-on-Tees South – Ferryhill South       0    00    10    72    N     N      Y     Y     Y        Y   Y   N
-                Jn
-LN648 NWE       Norton-on-Tees West – Norton-on-Tees         0    29    0     00    N     N      Y     N     N        Y   Y   N
-                East
-LN652 POC1      Billingham Jn – Phillips Siding Jn           0    00    3     25    N     N      N     N     N        N   N   N
-LN652 POC2      Phillips Siding Jn – Seal Sands Branch Jn    3    25    5     01    N     N      N     N     N        N   N   N
-
-
-
- October 2009                                                                                 25B
+     October 2009                                   25A

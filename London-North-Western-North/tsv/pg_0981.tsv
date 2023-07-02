@@ -1,19 +1,24 @@
-London-North-Western-North	0981	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Western-North	0981	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road L.C. Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road L.C. Network Rail Boundary (MDHC)	0	14	5	53	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0981	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	H	H	Y	H	N	N
-London-North-Western-North	0981	NW3001	CNH2	Chester East Jn	Change of ELR (Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	H	H	Y	H	N	N
-London-North-Western-North	0981	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel)	Route Boundary LNW / Wales	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3001	CNH3	Route Boundary LNW / Wales	Holyhead	Route Boundary LNW / Wales - Holyhead	188	40	263	56	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW - Saltney Jn	202	60	212	06	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	5	N	N	N	N	N	N
-London-North-Western-North	0981	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	8	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	7	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3007	WDB2 /3	Change of ELR	Route Boundary Wales / LNW	Change of ELR - Route Boundary Wales / LNW	14	15	11	00	7	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn		Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	7	N	N	Y	N	N	N
-London-North-Western-North	0981	NW3009	CVS	Chester North Jn	Chester South Jn	Chester North Jn – Chester South Jn	0	36	0	13	8	H	H	Y	H	N	N
-London-North-Western-North	0981	NW3011	CRR1	Chester West Jn	Hooton South Jn	Chester West Jn – Hooton South Jn	0	16	7	68	8	H R1	H R1	R2	H R1	H R1	N	R1 Prohibited between Chester North Jn and Hooton South Jn R2 5mph on the Up through Bridge No.3 at 01m 37ch between Bache - Capenhurst
-London-North-Western-North	0981	NW3013	HHJ	Hooton South. Jn	Ellesmere Port (Limit of DC electrification)	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	8	N	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-North	0981	NW5010	SCQ2	Change of Mileage (Site of Former Milton Jn) – Change of Mileage (Site of Former Leek Brook Jn)	0	00	6	65	6	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0981	NW5010	SCQ3	Change of Mileage (Site of Former Leek Brook Jn) – Caldon Quarry	0	00	8	01	6	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0981	NW5011	HNS	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5012	NSS	Route Boundary (LN3505) (North Stafford Jn) – Stoke Jn	1	40	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5013	DJO1	Denton Jn – Change of Mileage (Site of Former Crowthorne Jn)	4	10	5	28	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5013	DJO2	Change of Mileage (Site of Former Crowthorne Jn) – Change of Mileage (Site of Former Ashton Moss South Jn)	0	53	1	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5013	AMJ	Change of Mileage (Site of Former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Hadfield – Dinting East Jn	12	61	12	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Dinting East Jn – Dinting West Jn	12	00	11	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW5021	SAJ	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0981	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	8	Y	Y	Y	Y	Y	Y	Y	Y	

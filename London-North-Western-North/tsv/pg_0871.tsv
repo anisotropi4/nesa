@@ -1,22 +1,19 @@
-London-North-Western-North	0871	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	220	221	222	Notes
-London-North-Western-North	0871	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary)	Rugeley North Jn	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	N	N	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC2	Rugeley North Jn	Colwich Jn	Rugeley North Jn – Colwich Jn	124	39	127	05	N	N	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC2	Colwich Jn	Stafford Trent Valley Jn No.1	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	N	N	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC3	Stafford Trent Valley Jn No.1	Change of ELR (North of Stafford)	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	E	Y	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC4	Change of ELR (North of Stafford)	Little Bridgeford Jn	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	Y	Y	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC4	Little Bridgeford Jn	Heamies Bridge	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	Y	Y	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC6	Little Bridgeford Jn	Heamies Bridge (Down Slow line only)	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	Y	Y	Y	Y	N	N	Y	Y	N
-London-North-Western-North	0871	NW1001	LEC4	Heamies Bridge	Basford Hall Jn	Heamies Bridge – Basford Hall Jn	140	00	156	16	N	Y	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC4	Basford Hall Jn	Change of ELR (Crewe South)	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	N	Y	Y	Y	N	N	Y	T	N
-London-North-Western-North	0871	NW1001	LEC5	Change of ELR (Crewe South)	Crewe South Jn	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	N	Y	Y	Y	N	E	Y	T	N
-London-North-Western-North	0871	NW1001	LEC5	Crewe South Jn	Crewe North Jn	Crewe South Jn – Crewe North Jn	157	60	158	18	N	Y	R1	Y	Y	Y	Y	T	Y	R1 10mph Crewe platform 11
-London-North-Western-North	0871	NW1001	LEC5	Crewe North Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	N	N	Y	Y	Y	N	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Hartford Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	N	N	Y	Y	Y	N	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ1	Hartford Jn	Change of ELR (Preston Brook Tunnel)	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	N	N	R1	Y	Y	N	Y	T	N	R1 Prohibited between Weaver Jn and Change of ELR (Preston Brook Tunnel)
-London-North-Western-North	0871	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel)	Acton Grange Jn	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	N	N	N	Y	Y	N	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ2	Acton Grange Jn	Warrington South Jn	Acton Grange Jn – Warrington South Jn	180	24	181	76	N	N	N	Y	Y	N	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ3	Warrington South Jn	Winwick Jn	Warrington South Jn – Winwick Jn	181	76	185	49	N	N	N	Y	Y	N	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ4	Winwick Jn	Golborne Jn	Winwick Jn – Golborne Jn	185	49	187	76	N	N	N	Y	Y	N	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ5	Golborne Jn	Wigan Station Jn	Golborne Jn – Wigan Station Jn	0	53	6	33	N	N	N	Y	Y	Y	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ5	Wigan Station Jn	Farington Curve Jn	Wigan Station Jn – Farington Curve Jn	6	33	20	08	N	N	N	Y	Y	Y	Y	T	N
-London-North-Western-North	0871	NW1001	CGJ5	Farington Curve Jn	Preston Ribble Jn	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	N	N	N	Y	Y	Y	Y	T	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Western-North	0871	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	-18	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW2025	SHS1	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0871	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn – Network Rail Boundary (MDHC)	0	15	5	53	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0871	NW2029	OME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0871	NW3001	CNH1	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3001	CNH1	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3001	CNH2	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	Y	Y	Y	Y	Y	Y	Y	Y	R1	N	R1 Prohibited Chester parcels platform
+London-North-Western-North	0871	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3001	CNH3	Route Boundary LNW / Wales - Holyhead	188	40	263	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3005	WSJ2	Route Boundary Wales / LNW - Saltney Jn	202	60	212	06	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0871	NW3007	WDB1	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	Y	Y	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0871	NW3007	WDB1	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	Y	Y	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0871	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	Y	Y	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0871	NW3007	WDB2 /3	Change of ELR - Route Boundary Wales / LNW	14	15	11	00	Y	Y	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0871	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	Y	Y	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0871	NW3009	CVS	Chester North Jn – Chester South Jn	0	36	0	13	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	

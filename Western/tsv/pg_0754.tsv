@@ -1,21 +1,17 @@
-Western	0754	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
-Western	0754	GW628	TUR/ CWR	Turnchapel Branch Jn	Buffer Stops	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	N	N	N	N
-Western	0754	GW628	FRY	Turnchapel Branch Jn	Plymouth Friary	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	Y	Y	Y	N	N	N	N
-Western	0754	GW637	DAC	St Budeaux Jn	Buffer Stops (Beyond Bere Alston)	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	Y	Y	N	N	N	N	N
-Western	0754	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	Y	Y	N	N	N	N	N
-Western	0754	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	Y	Y	N	N	N	N	N
-Western	0754	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	Y	Y	N	N	N	N	N
-Western	0754	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	6	66	Y	Y	N	N	N	N	N
-Western	0754	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	N	N	N	N	N	N	N
-Western	0754	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	Y	Y	N	N	N	N	N
-Western	0754	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	Y	Y	Y	N	N	N	N
-Western	0754	GW660	NEW	St Blazey Jn	Newquay	St Blazey Jn – Newquay	282	16	302	49	Y	Y	Y	N	N	N	N
-Western	0754	GW672	SDS	Burngullow Jn	Drinnick Mill	Burngullow Jn – Drinnick Mill	288	26	291	31	Y	Y	N	N	N	N	N
-Western	0754	GW672	SDS	Drinnick Mill	Parkandillack	Drinnick Mill – Parkandillack	291	31	293	52	Y	Y	N	N	N	N	N
-Western	0754	GW680	FAL1- 3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	Y	Y	Y	N	N	N	N
-Western	0754	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	Y	Y	Y	N	N	N	N
-Western	0754	GW700	BAG2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	Y	Y	Y	N	N	N	N
-Western	0754	GW700	SWM 2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	Y	Y	Y	N	N	N	N
-Western	0754	GW700	SWM 2	Route Boundary Wales	Severn Tunnel Jn	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	Y	Y	Y	N	N	N	N
-Western	0754	GW710	NO ELR	Llanwern Works East	Llanwern Works West via BSS (Corus Infrastructure)	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	N	N	N	N	N	N	N
-Western	0754	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
+Western	0754	GW310	OWW	Wolvercot Jn – Norton Jn	66	32	112	00	Y	Y	Y	N	N	N	N	
+Western	0754	GW317	OWW	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	Y	Y	Y	N	N	N	N	
+Western	0754	GW317	STD	Start of branch mileage – Long Marston	0	00	2	70	Y	Y	Y	N	N	N	N	
+Western	0754	GW401	BAG2	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	Y	Y	Y	N	N	N	N	
+Western	0754	GW401	CHL	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	Y	Y	Y	N	N	N	N	
+Western	0754	GW401	BGL1	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	Y	Y	Y	N	N	N	N	
+Western	0754	GW401	BGL2	Change of ELR – Standish Jn	94	60	99	69	Y	Y	Y	N	N	N	N	
+Western	0754	GW401	BGL2	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	Y	Y	Y	N	N	N	N	
+Western	0754	GW401	YAT	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	Y	Y	Y	N	N	N	N	
+Western	0754	GW425	SAW/S SS	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N	N	N	
+Western	0754	GW430	THO	Yate Middle Jn – Tytherington	0	00	6	24	Y	Y	N	N	N	N	N	
+Western	0754	GW440	BGL2	Yate South Jn – Westerleigh Yard	120	03	122	65	Y	Y	Y	N	N	N	N	
+Western	0754	GW450	FEC	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	Y	Y	Y	N	N	N	N	
+Western	0754	GW450	BSW	Change of ELR – Bristol East Jn	4	50	0	26	Y	Y	Y	N	N	N	N	
+Western	0754	GW4501	AFR	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	Y	Y	Y	N	N	N	N	
+Western	0754	GW4501	AMB	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	Y	Y	Y	N	N	N	N	

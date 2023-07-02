@@ -1,46 +1,68 @@
-                                                                                   OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                              Scotland Route Sectional Appendix Module SCRC
+                                        Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector Description oooo oooo oooo oooo 170               180    185    220    221 Notes
-route                                                M    Ch   M    Ch 0000              0000   0000   0000   0000 ooooooooooooooooooooooooooo
-SC145     MLG2   Change of ELR – Mallaig                 0    00    39   39        N      N      N      N      N
-SC147     ECM8   Route Boundary (LN600) (Heaton South    69   67     9   67        Y      E      Y      Y      Y
-                 Jn) – Prestonpans Jn
-SC147     ECM8   Prestonpans Jn – Calton South Tunnel    9    67     0   29        Y      E      Y      Y      Y   R1   Prohibited between Craigentinny and
-                                                                                          R1                            Calton South Tunnel
-SC147     ECM9   Calton South Tunnel – Waverley East     0    29     0   21        Y      N      Y      Y      Y
-                 End
-SC147     ECM9   Waverley East End – Edinburgh           0    21     0   00        Y      N      Y      Y      Y
-                 Waverley
-SC147     EGM4   Edinburgh Waverley – Waverley West      0    00     0   15        Y      N      Y      Y      Y
-                 End (South Lines)
-SC147     ECN1   Edinburgh Waverley – Waverley West      0    00     0   15        Y      N      Y      Y      Y
-                 End (North Lines)
-SC147     EGM3   Waverley West End – Haymarket (South    0    15     1   19        Y      N      Y      Y      Y
-                 Lines)
-SC147     ECN2   Waverley West End – Haymarket (North    0    15     1   19        Y      N      Y      Y      Y
-                 Lines)
-SC147     EGM2   Haymarket – Haymarket East Jn (South    46   02    45   72        Y      N      Y      Y      Y
-                 Lines)
-SC147     ECN2   Haymarket – Haymarket East Jn (North    1    19     1   29        Y      N      Y      Y      Y
-                 Lines)
-SC147     EGM2   Haymarket East Jn – Haymarket Central   45   72    45   35        Y      N      Y      Y      Y
-                 Jn (South Lines)
-SC147     ECN2   Haymarket East Jn – Haymarket Central   1    29     1   66        Y      N      Y      Y      Y
-                 Jn (North Lines)
-SC147     EGM2   Haymarket Central Jn – Haymarket West   45   35    44   73        Y      N      Y      Y      Y
-                 Jn (South Lines)
-SC147     ECN2   Haymarket Central Jn – Haymarket West   1    66     2   41        Y      N      Y      Y      Y
-                 Jn (North Lines)
-SC149     NBK    North Berwick – Drem Jn                 22   22    18   15        Y      N      N      N      N
-SC151     LHS1   Portobello – Leith South Yard (Goods    0    00     2   20        N      N      N      N      N
-                 Line)
+     Line of
+          ELR  Line of Route / Sector Description oooo oooo oooo oooo 142
+                                                     143144150153156158 Notes
+     route                           M  Ch M   Ch0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+     SC106PNS  Sighthill West Jn – Cowlairs South Jn
+                                      0  30  0 00 N  N  N  Y   Y  Y  Y
+               (Chord Line)
+     SC107ECM9 Waverley East End – Edinburgh
+                                      0  21  0 00 N  N  N  Y   Y  Y  Y
+               Waverley
+     SC107EGM4 Edinburgh Waverley – Waverley West
+                                      0  00  0 15 N  N  N  Y   Y  Y  Y
+               End (South Lines)
+     SC107ECN1 Edinburgh Waverley – Waverley West
+                                      0  00  0 15 N  N  N  Y   Y  Y  Y
+               End (North Lines)
+     SC107EGM3 Waverley West End – Haymarket (South
+                                      0  15  1 19 N  N  N  Y   Y  Y  Y
+               Lines)
+     SC107ECN2 Waverley West End – Haymarket (North
+                                      0  15  1 19 N  N  N  Y   Y  Y  Y
+               Lines)
+     SC107EGM2 Haymarket – Haymarket East Jn (South
+                                     46  02 45 72 N  N  N  Y   Y  Y  Y
+               Lines)
+     SC107ECN2 Haymarket – Haymarket East Jn (North
+                                      1  19  1 29 N  N  N  Y   Y  Y  Y
+               Lines)
+     SC107EGM2 Haymarket East Jn – Haymarket Central
+                                     45  72 45 35 N  N  N  Y   Y  Y  Y
+               Jn (South Lines)
+     SC107ECN2 Haymarket East Jn – Haymarket Central
+                                      1  29  1 66 N  N  N  Y   Y  Y  Y
+               Jn (North Lines)
+     SC107EGM2 Haymarket Central Jn – Haymarket West
+                                     45  35 44 73 N  N  N  Y   Y  Y  Y
+               Jn (South Lines)
+     SC107ECN2 Haymarket Central Jn – Haymarket West
+                                      1  66  2 41 N  N  N  Y   Y  Y  Y
+               Jn (North Lines)
+     SC107EGM1 Haymarket West Jn – Cowlairs West Jn
+                                     44  73  1 67 N  N  N  Y   Y  Y  Y
+     SC107EGM1 Cowlairs West Jn – Glasgow Queen
+                                      1  67  0 00 N  N  N  Y   Y  Y  Y
+               Street
+     SC109PMT  Polmont Jn – Grangemouth Jn
+                                     21  20 23 75 N  N  N  Y   Y  Y  Y
+     SC109PMT  Grangemouth Jn – Carmuirs East Jn
+                                     23  75 25 79 N  N  N  Y   Y  Y  Y
+     SC109CMS  Carmuirs East Jn – Carmuirs West Jn
+                                      0  40 -0  2 N  N  N  Y   Y  Y  Y
+     SC109SCM3 Carmuirs West Jn – Greenhill Lower Jn
+                                     108 74106 62 N  N  N  Y   Y  Y  Y
+     SC109GHL  Greenhill Lower Jn – Greenhill Upper Jn
+                                      0  52  0 00 N  N  N  Y   Y  Y  Y
+     SC110PMT  Carmuirs East Jn – Larbert Jn
+                                     25  79 26 35 N  N  N  Y   Y  Y  Y
+     SC111NBE  Newbridge Jn – Bathgate
+                                     35  21 25 18 N  N  N  Y   Y  Y  Y
 
-
-
-
-October 2009                                                                  29
+     October 2009                               12

@@ -1,18 +1,22 @@
-London-North-Western-South	0623	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Western-South	0623					W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
-London-North-Western-South	0623	MD101	London Euston – West London Junction (Willesden)	London Euston	West London Junction (Willesden)	Y *	R1	R1	R1	N	R1	N	N	R1	Applies only to traffic operating over the Slow lines between Camden Junction (to / from the Primrose Hill lines [MD145]) and West London Junction (Willesden).
-London-North-Western-South	0623	MD101	West London Junction (Willesden) – Rugby Trent Valley Junction	West London Junction (Willesden)	Rugby Trent Valley Junction	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD101	Rugby Trent Valley Junction – Armitage Junction (Exclusive)	Rugby Trent Valley Junction	Armitage Junction (Exclusive)	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD101	West London Junction (Willesden) – Sudbury Junction (Willesden Relief Lines)	West London Junction (Willesden)	Sudbury Junction (Willesden Relief Lines)	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD101	Harlesden Junction – Sudbury Junction (Brent Reception & Departure Lines)	Harlesden Junction	Sudbury Junction (Brent Reception & Departure Lines)	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD105	Hanslope Junction – Rugby via Northampton	Hanslope Junction	Rugby via Northampton	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD120	Camden Junction – Willesden Suburban Junction (DC Lines)	Camden Junction	Willesden Suburban Junction (DC Lines)	R1*	N	N	N	N	N	N	N	R1	Only L.U.L trains may operate between Queens Park Jn and the NR/LUL boundary on the connecting lines to/from Queens Park LUL lines
-London-North-Western-South	0623	MD120	Willesden Suburban Junction – Watford Junction (DC Lines)	Willesden Suburban Junction	Watford Junction (DC Lines)	Y *	N	N	N	N	N	N	N	
-London-North-Western-South	0623	MD130	Watford Junction – St Albans Abbey	Watford Junction	St Albans Abbey	Y *	N	N	N	N	N	N	N	
-London-North-Western-South	0623	MD136	Harlesden Jn – Railnet Jn	Harlesden Jn	Railnet Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD136	Railnet Jn – Willesden Carriage Shed South	Railnet Jn	Willesden Carriage Shed South	Y	N	N	N	N	N	N	N	
-London-North-Western-South	0623	MD136	Willesden Carriage Shed South – Connection with Yard line	Willesden Carriage Shed South	Connection with Yard line	Y	N	N	N	N	N	N	N	
-London-North-Western-South	0623	MD136	Willesden Carriage Shed South – Connection with Yard line	Willesden Carriage Shed South	Connection with Yard line	Y	N	N	N	N	N	N	N	
-London-North-Western-South	0623	MD136	Connection with Yard line – Wembley Central Jn	Connection with Yard line	Wembley Central Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD137	Harlesden Jn – Railnet Jn	Harlesden Jn	Railnet Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0623	MD137	Railnet Jn – Wembley Yard South Jn	Railnet Jn	Wembley Yard South Jn	Y	Y	Y	Y	N	Y	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-South	0623	MD232	WNS	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD232	WNS	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD232	WNS	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD232	PVS	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD232	PVS	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD232	NMA	Midland Yard Jn – Abbey Jn	10	09	9	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD233	MYC	Midland Yard Jn – Canal Farm Jn	0	00	0	69	8	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS1	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS1	Coventry South Jn – Coventry North Jn	93	71	94	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS1	Coventry North Jn – Stechford North Jn	94	19	109	12	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS1	Stechford North Jn – Grand Jn	109	12	111	72	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS1	Grand Jn – Proof House Jn	111	72	112	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS1	Proof House Jn – Birmingham New Street (Change of Mileage)	112	19	112	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS2	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS2	Soho South Jn – Soho North Jn	2	06	2	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS2	Soho North Jn – Galton Jn	2	38	3	64	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS2	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD301	RBS2	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	8	Y	Y	Y	Y	Y	R1	R1	Y	Y	R1 Prohibited Wolverhampton platform 6
+London-North-Western-South	0623	MD301	RBS3	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD306	BAG1	Change of Mileage (Birmingham New Street) – Lifford West Jn	42	35	47	20	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0623	MD306	BAG1	Lifford West Jn – King's Norton Station Jn	47	20	47	48	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

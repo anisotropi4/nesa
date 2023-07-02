@@ -1,20 +1,23 @@
-Anglia	0414	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0414	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	Y	N	N	N	N	Y	N	R1	N	N	R1 Prohibited Liverpool Street platforms 1 & 2
-Anglia	0414	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0414	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0414	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0414	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0414	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	Y	N	N	N	N	Y	N	R1	N	N	R1 Prohibited LTN1/52 Northern Outfall Sewer Underbridge 03m 31ch Up and Down Temple Mills line
-Anglia	0414	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	Y	N	N	N	N	Y	N	Y	N	N
-Anglia	0414	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	Y	N	N	N	N	Y	EH	Y	N	N
-Anglia	0414	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	Y	N	N	N	E	Y	EH R1	R2	N	N	R1 Prohibited Stratford platform 5 R2 Prohibited in crush laden condition with deflated suspension Maryland platform 1 and Forest Gate platform 1
-Anglia	0414	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	Y	N	N	N	E	Y	EH	E R1	N	N	R1 Prohibited with deflated suspension Manor Park platform 1 and Ilford platforms 2 & 3
-Anglia	0414	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	Y0	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Witham Jn	Marks Tey Jn	Witham Jn – Marks Tey Jn	38	55	46	49	R1	N	N	N	N	R1	N	N	N	N	R1 If stopped at signal L789 on the down main line approaching Church Street AHBC level crossing, the maximum speed of the train shall be 50mph until the front of the train is clear of the crossing
-Anglia	0414	EA1011	LTN1	Marks Tey Jn	Colchester Jn	Marks Tey Jn – Colchester Jn	46	49	51	65	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Colchester Jn	Manningtree South Jn	Colchester Jn – Manningtree South Jn	51	65	59	46	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Manningtree South Jn	Manningtree North Jn	Manningtree South Jn – Manningtree North Jn	59	46	59	69	Y	N	N	N	N	Y	N	N	N	N
-Anglia	0414	EA1011	LTN1	Manningtree North Jn	Ipswich	Manningtree North Jn – Ipswich	59	69	68	59	Y	N	N	N	N	Y	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	325	345	357	357 MOD	Notes
+Anglia	0414	EA1120	MAH	Harwich International Port – Harwich town	68	72	70	61	N	N	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1130	GRW	Halifax Jn – Griffin Wharf Boundary	0	00	0	47	N	N	N	N	N	N	N	N	N	N	
+Anglia	0414	EA1150	CST	Channelsea South Jn – Stratford Central Jn West	0	29	0	00	Y	Y	Y	N	Y	Y	Y	E	E	E	
+Anglia	0414	EA1160	BGK	Bethnal Green East Jn – Reading Lane Jn	1	10	2	55	Y	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1160	BGK	Reading Lane Jn – Hackney Downs North Jn	2	55	3	04	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1160	BGK	Hackney Downs North Jn – Coppermill Jn	3	04	4	74	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1160	BGK	Coppermill Jn – Tottenham South Jn	4	74	5	41	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1160	BGK	Tottenham South Jn – Bishops Stortford (Cannons Mill Lane Footpath LC (R/G-X)	5	41	31	31	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1161	BGK	(Cannons Mill Lane Footpath LC (R/G- X) Stansted Mountfitchet – Shepreth Branch Jn	31	31	53	06	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1161	BGK	Shepreth Branch Jn – Ely Dock Jn	53	06	69	79	R1	R1	R1	N	R1	R1	H	N	N	N	R1 See Sectional Appendix Local Instructions
+Anglia	0414	EA1161	BGK	Ely Dock Jn – Ely North Jn	69	79	71	68	R1	R1	R1	N	R1	R1	H	N	N	N	R1 See Sectional Appendix Local Instructions
+Anglia	0414	EA1162	BGK	Ely North Jn – Kings Lynn	71	68	96	75	N	N	R1	N	N	N	H	N	N	N	R1 See Sectional Appendix Local Instructions
+Anglia	0414	EA1170	HDT	Hackney Downs North Jn – Seven Sisters Jn	3	04	5	70	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1170	HDT	Seven Sisters Jn – Bury Street Jn	5	70	9	20	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1170	ENT	Bury Street Jn – Enfield Town	9	20	10	55	N	Y	Y	N	N	N	H	N	N	N	
+Anglia	0414	EA1180	GRE	Reading Lane Jn – Navarino Road Jn (Graham Rd Curve)	2	55	2	79	Y	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1190	HDT	Bury Street Jn – Cheshunt Jn	9	20	14	28	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1200	CJC	Clapton Jn – Chingford	4	37	10	33	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1210	HEB	Broxbourne Jn – Hertford East	18	35	24	19	N	Y	Y	N	N	N	H	N	N	N	
+Anglia	0414	EA1220	TLA	Stansted South Jn – Stansted East Jn	33	54	34	26	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1220	TEN	Stansted North Jn – Stansted East Jn	0	00	0	49	N	Y	Y	N	Y	Y	H	N	N	N	
+Anglia	0414	EA1220	TLA	Stansted East Jn –Stansted Airport	34	26	36	67	N	Y	Y	N	Y	Y	H	N	N	N	

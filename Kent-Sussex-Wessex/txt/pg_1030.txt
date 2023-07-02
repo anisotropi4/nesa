@@ -1,46 +1,79 @@
-                                                                                        OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
+                                    Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
 
-Line of ELR     Line of Route / Sector                  oooo oooo oooo oooo 121 150 153 156 158 159 165 Notes
-route           Description                              M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-SW110 WPH2      Farlington Jn – Portcreek Jn             40      33    41   03    Y      Y        N    Y     Y     Y      N
-                [Duplicated on SO520]
-SW110 WPH2      Portcreek Jn – Blackfriars Jn            41      03    44   50    Y      Y        N    Y     Y     Y      N
-                [Duplicated on SO520]
-SW110 PAS       Blackfriars Jn – Portsmouth and          44      26    44   50    Y      Y        N    Y     Y     Y      N
-                Southsea Low Level [Duplicated on
-                SO520]
-SW110 WPH2      Blackfriars Jn – Portsmouth and          44      26    44   50    Y      Y        N    Y     Y     Y      N
-                Southsea High Level [Duplicated on
-                SO520]
-SW110 WPH2      Portsmouth and Southsea High Level       44      50    45   36    Y      Y        N    Y     Y     Y      N
-                – Portsmouth Harbour
-                 * platforms 4 and 5 RA7
-                 * platforms 1 and 3 RA4
-                [Duplicated on SO520]
-SW115 BAE1      Worting Jn – Connection to               51      15    66   27    Y      N        N    Y     Y     Y      N
-                Ludgershall Branch line
-SW115 LUD1      Connection to main Up line (BAE1) –      66      27    67   61    N      N        N    N     N     N      N
-                Red Post Jn
-SW115 LUD2      Red Post Jn – Ludgershall                 0      00     5   64    N      N        N    N     N     N      N
-SW115 BAE1      Connection to Ludgershall Branch line    66      27    82   05    Y      N        N    Y     Y     Y      N
-                – Laverstock North Jn
-SW115 LAV       Laverstock North Jn – Laverstock         82      05    82   39    Y      N        N    Y     Y     Y      N
-                South Jn
-SW115 BAE1      Laverstock North Jn – Salisbury          82      05    82   36    Y      N        N    Y     Y     Y      N
-                Tunnel Jn
-SW115 BAE1      Salisbury Tunnel Jn – Fisherton Short    82      36    83   72    Y      Y        Y    Y     Y     Y      N
-                Mile Change of Mileage
-SW115 BAE2      Fisherton Short Mile Change of           84      00    85   37    Y      Y        R1   Y     Y     Y      N   R1   15mph Salisbury platform 3
-                Mileage – Wilton Jn                                                               R2                          R2   20mph Salisbury platform 4
-SW115 BAE2      Wilton Jn – Gillingham                   85      37   105   23    Y      Y        Y    Y     Y     Y      N
-SW115 BAE2      Gillingham – Yeovil Jn                  105      23   122   48    Y      Y        Y    Y     Y     Y      N
-SW115 BAE2      Yeovil Jn – Route Boundary (GW610)      122      48   164   30    Y      Y        Y    Y     Y     Y      N
-                (Exeter St Davids Jn)
-SW120 PAA1      Pirbright Jn – Ash Vale Jn               29      39    32   30    Y      N        N    N     N     N      N
+     Line of
+          ELR Line of Route / Sector
+                                  oo  oo oo oo RA Loco Gauge
+                                                           Notes
+     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                  M   Ch M  Ch
+     SO130CBM Cannon Street – Cannon Street
+                                    0 00  0 20  8    Y
+              Substation
+     SO130CSW Cannon Street Sub Station –
+                                    1 53  1 33  8    Y
+              Metropolitan Jn (via Metropolitan
+              Reversible line)
+     SO130XTD Metropolitan Jn – Borough Market Jn
+                                    1 31  1 50  8    Y
+     SO130CBM Cannon Street Substation – Borough
+                                    0 20  0 38  8    Y
+              Market Jn
+     SO130XTD Borough Market Jn – London Bridge
+                                    1 50  1 69  8    Y
+              platforms 1-9
+     SO130XTD London Bridge platforms 1-9 – North
+                                    1 69  4 25  8    Y
+              Kent East Jn
+     SO130XTD North Kent East Jn – Tanners Hill Jn
+                                    4 25  5 29  8    Y
+     SO130XTD Tanners Hill Jn – Parks Bridge Jn
+                                    5 29  6 14  8    Y
+     SO130LLL Parks Bridge Jn – Ladywell Jn
+                                    6 14  6 29  8    Y
+     SO130XTD Parks Bridge Jn – Courthill Loop
+                                    6 14  6 21  8    Y
+              South Jn
+     SO130XTD Courthill Loop South Jn – Hither
+                                    6 21  7 04  8    Y
+              Green Jn
+     SO130XTD Hither Green Jn – Lee Spur Jn
+                                    7 04  7 44  8    Y
+     SO130XTD Lee Spur Jn – Chislehurst Jn
+                                    7 44 11 33  8    Y
+     SO130CSM1Chislehurst Jn – St. Mary Cray Down
+                                   11 33 11 71  8    Y
+              Jn via Reversible Chatham Loop
+     SO130CSM3Chislehurst Jn – Hawkwood Jn (Up
+                                   11 33 11 66  8    Y
+              Chatham Loop)
+     SO130XTD Chislehurst Jn – Petts Wood Jns
+                                   11 33 12 27  8    Y
+     SO130XTD Petts Wood Jns – Sevenoaks
+                                   12 27 21 74  8    Y
+              Substation
+     SO130XTD Sevenoaks Substation – Tonbridge
+                                   21 74 29 35  8    R1   R1Prohibited through Sevenoaks Tunnel on the Up Main line
+              West Jn
+     SO130XTD Tonbridge West Jn – Tonbridge East
+                                   29 35 29 55  8    Y
+              Jn
+     SO130XTD Tonbridge East Jn – Paddock Wood
+                                   29 55 34 67  8    Y
+     SO130XTD Paddock Wood – Ashford (Jn with
+                                   34 67 55 54  8    Y
+              Maidstone line)
+     SO130XTD Ashford (Jn with Maidstone line) –
+                                   55 54 56 09  8    Y
+              Ashford Station
+     SO130XTD Ashford Station – Ashford (Jn with
+                                   56 09 56 20  8    Y
+              Hastings line)
 
-December 2009                                                                                94
+
+
+    December 2009                                   88C

@@ -1,14 +1,16 @@
-Western	0709	GW637	CAL	Bere Alston Jn	Gunnislake	Bere Alston Jn – Gunnislake	0	02	4	40	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0709	GW640	LIL	Liskeard	Coombe Jn	Liskeard – Coombe Jn	8	67	6	75	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0709	GW640	L	Coombe Jn	Looe	Coombe Jn – Looe	6	52	0	19	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0709	GW640	L	Coombe Jn	Coombe No.2 GF	Coombe Jn – Coombe No.2 GF	6	52	6	66	E	N	N	Y	R1	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0709	GW642	L	Coombe No.2 GF	Network Rail Boundary (Moorswater)	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	N	N	N	N	N	N	N	N	N
-Western	0709	GW650	LOF	Lostwithiel	Network Rail Boundary (Carne Point)	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	N	N	N	N	N	N	N	N	N
-Western	0709	GW660	PAR	Par Loop Jn	St Blazey Jn	Par Loop Jn – St Blazey Jn	281	57	282	16	E	N	N	Y	Y	N	N	Y	Y
-Western	0709	GW660	NEW	St Blazey Jn	Newquay	St Blazey Jn – Newquay	282	16	302	49	E	N	N	Y	Y	N	N	N	N
-Western	0709	GW672	SDS	Burngullow Jn	Drinnick Mill	Burngullow Jn – Drinnick Mill	288	26	291	31	N	N	N	N	N	N	N	N	N
-Western	0709	GW672	SDS	Drinnick Mill	Parkandillack	Drinnick Mill – Parkandillack	291	31	293	52	N	N	N	N	N	N	N	N	N
-Western	0709	GW680	FAL1 -3	Penwithers Jn	Falmouth	Penwithers Jn – Falmouth	301	25	312	46	E	N	N	Y	Y	N	N	Y	Y
-Western	0709	GW690	SIV	St Erth	St Ives	St Erth – St Ives	321	02	325	13	E	N	N	Y	Y	N	N	Y	R1
-Western	0709	GW700	BAG 2	Gloucester Barnwood Jn	Horton Road Jn	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0709	GW700	SWM 2	Horton Road Jn	Route Boundary Wales	Horton Road Jn – Route Boundary Wales	113	61	129	00	E	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0709	GW480	SWM1	Swindon Jn – Standish Jn	77	36	106	74	E	Y	Y	Y	Y	E	E	R1	R1	E R2 R3	R1 Prohibited Kemble Tamper Siding R2 Route prohibited to Class 165/0 R3 20mph Stroud Down platform
+Western	0709	GW490	SWM2	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	E	Y	Y	Y	Y	E	E	Y	Y	E R1	R1 Route prohibited to Class 165/0
+Western	0709	GW500	BKE	Westbury Line Jn – Oxford Road Jn	36	17	36	67	E	E	E	Y	E	E	E	E	E	Y	
+Western	0709	GW500	BKE	Oxford Road Jn – Southcote Jn	36	67	37	62	E	E	E	Y	E	E	E	E	E	Y	
+Western	0709	GW500	BKE	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	E	E	E	Y	E	E	E	E	E	Y	
+Western	0709	GW500	BHL	Southcote Jn – Change of ELR	37	62	81	19	E	E	E	E	N	N	N	E	E	Y	
+Western	0709	GW500	SWY	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	E	E	E	E	E	E	E	E	E	Y	
+Western	0709	GW500	WES	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0709	GW500	WEY	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0709	GW500	FRA	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0709	GW500	WEY	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0709	GW500	WEY	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0709	GW500	CCL	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0709	GW5001	SAL	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0709	GW510	WEY	Westbury North Jn – Bradford Jn	109	49	104	40	E	Y	Y	Y	Y	N	N	Y	Y	R1	R1 Prohibited Trowbridge Station when laden

@@ -1,19 +1,16 @@
-Scotland	1039	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Scotland	1039	SC147	ECM9	Calton South Tunnel	Waverley East End	Calton South Tunnel – Waverley East End	0	29	0	21	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC147	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC149	NBK	North Berwick	Drem Jn	North Berwick – Drem Jn	22	22	18	15	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
-Scotland	1039	SC151	LHS1	Portobello	Leith South Yard (Goods Line)	Portobello – Leith South Yard (Goods Line)	0	00	2	20	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC153	CPH	Craigentinny	Powderhall (Goods Line)	Craigentinny – Powderhall (Goods Line)	0	00	1	78	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC155	MHL1	Monktonhall Jn	Change of ELR	Monktonhall Jn – Change of ELR	0	11	5	60	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC155	MHL2	Change of ELR	Millerhill East Jn	Change of ELR – Millerhill East Jn	1	40	0	28	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1039	SC155	MHL3	Millerhill East Jn	Millerhill Yard (Goods Line)	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
+Scotland	1039	SC131	HST	Connection to Smithy Lye through line – Shields Jn	2	00	2	35	N	E	Y	N	N	N	
+Scotland	1039	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	Y	N	N	N	N	N	
+Scotland	1039	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	Y	N	N	N	N	N	
+Scotland	1039	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	Y	N	N	N	N	N	
+Scotland	1039	SC141	WHL	Craigendoran Jn – Crianlarich Jn	0	01	36	30	N	N	N	N	N	N	
+Scotland	1039	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	N	N	N	N	N	N	
+Scotland	1039	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	N	N	N	N	N	N	
+Scotland	1039	SC143	OBN2	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	N	N	N	N	N	N	
+Scotland	1039	SC143	OBN2	Inverhaggernie No.1 LC – Oban	31	00	71	44	N	N	N	N	N	N	
+Scotland	1039	SC145	MLG1	Fort William – Change of ELR	0	05	1	27	N	N	N	N	N	N	
+Scotland	1039	SC145	MLG2	Change of ELR – Mallaig	0	00	39	39	N	N	N	N	N	N	
+Scotland	1039	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	54	50	9	67	R1	N	EH R2 R3	R4 R5	N	E	R2 Prohibited between Route Boundary (LN600) and Drem R3 Dead hauled only between Route Boundary (LN600) and Dunbar R4 Laden services between Dunbar and Prestonpans Jn R5 Prohibited between Route Boundary (LN600) and Dunbar R6 Up to 8 cars
+Scotland	1039	SC147	ECM8	Prestonpans Jn – Calton South Tunnel	9	67	0	29	Y	E	Y	R2	R1	E	R1 Prohibited between Prestonpans Jn and Craigentinny R2 Up to 8 cars
+Scotland	1039	SC147	ECM9	Calton South Tunnel – Waverley East End	0	29	0	21	Y	E	Y	N	Y	Y	
+Scotland	1039	SC147	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	E	Y	R2	R1	Y	R1 Prohibited Edinburgh Waverley platforms 1, 3, 4 & 20 R2 Up to 12 cars

@@ -1,12 +1,22 @@
-London-North-Eastern	1278	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1278	LN920	AWP	Anlaby Road Jn	West Parade North Jn	Anlaby Road Jn – West Parade North Jn	0	00	0	24	8	Y
-London-North-Eastern	1278	LN922	TJC3	Whitehall West Jn	Skipton	Whitehall West Jn – Skipton	195	57	221	01	8	R1	R1 Prohibited between the connection to the Kirkstall Loop and Apperley Jn on the Up Shipley Main line
-London-North-Eastern	1278	LN922	TJC3	Skipton	Site of Former Skipton North Jn Change of ELR	Skipton – Site of Former Skipton North Jn Change of ELR	221	21	221	68	8	Y
-London-North-Eastern	1278	LN922	SKW1	Site of Former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of Former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	8	Y
-London-North-Eastern	1278	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	7	R1	R1 Prohibited Guiseley Down platform
-London-North-Eastern	1278	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	7	Y
-London-North-Eastern	1278	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	5	Y
-London-North-Eastern	1278	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	8	Y
-London-North-Eastern	1278	LN930	SKS1	Skipton Middle	Site of Former Embsay Jn	Skipton Middle – Site of Former Embsay Jn	222	68	220	64	8	Y
-London-North-Eastern	1278	LN930	SKS2	Site of Former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of Former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	8	Y
-London-North-Eastern	1278	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	8	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Eastern	1278	LN862	PED1	Site of Former Barnsley Jn – Site of Former Huddersfield Jn	29	13	28	37	8	Y	
+London-North-Eastern	1278	LN862	PEH	Site of Former Huddersfield Jn – Lockwood	13	42	1	18	8	R1	R1 Prohibited between Stocksmoor and Brockholes on the Down/Up Huddersfield Single line
+London-North-Eastern	1278	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	8	Y	
+London-North-Eastern	1278	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	8	Y	
+London-North-Eastern	1278	LN864	DRS1	Dewsbury Railway Street – Change of Mileage	0	10	0	00	6	Y	
+London-North-Eastern	1278	LN864	DRS1	Change of Mileage – Dewsbury East Jn	0	27	0	00	6	Y	
+London-North-Eastern	1278	LN868	SHB	Wincobank Jn – Site of Former Quarry Jn	161	52	173	48	8	Y	
+London-North-Eastern	1278	LN868	PED2	Site of Former Quarry Jn – Barnsley Station Jn	7	50	6	43	8	Y	
+London-North-Eastern	1278	LN868	BAH2	Barnsley Station Jn – Site of Former Crigglestone Jn	52	58	45	56	7	Y	
+London-North-Eastern	1278	LN868	CHS	Site of former Crigglestone Jn – Horbury Jn	1	53	0	00	7	Y	
+London-North-Eastern	1278	LN870	CTL	Wakefield Turners Lane – Calder Bridge Jn	0	50	0	00	8	Y	
+London-North-Eastern	1278	LN872	TJC3	Altofts Jn – Hunslet South Jn	185	73	193	40	8	Y	
+London-North-Eastern	1278	LN872	TJC3	Hunslet South Jn – Engine Shed Jn	193	40	195	20	8	Y	
+London-North-Eastern	1278	LN872	ELN	Engine Shed Jn – Leeds West Jn	195	20	195	53	8	R1	R1 Prohibited between Hunslet South Jn and Hunslet Station Jn on the Down Midland line
+London-North-Eastern	1278	LN874	MEW2	Methley Jn – Whitwood Jn	1	12	0	01	8	Y	
+London-North-Eastern	1278	LN875	CPM2	Castleford West Jn – Cutsyke Jn	0	00	0	61	8	Y	
+London-North-Eastern	1278	LN875	CPM1	Cutsyke Jn – Pontefract West Jn	59	02	56	42	8	Y	
+London-North-Eastern	1278	LN876	BOO	Castleford East Jn – Ledston	6	17	4	43	-	Y	
+London-North-Eastern	1278	LN878	SHG	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	8	Y	
+London-North-Eastern	1278	LN880	YMS	York (Platform 4) – Commencement of single line section @ 0m 18ch (Up line)	0	00	0	18	6	Y	
+London-North-Eastern	1278	LN880	YMS	York (Platform 5) – commencement of single line section @ 0m 18ch (Dn line)	0	00	0	18	8	Y	

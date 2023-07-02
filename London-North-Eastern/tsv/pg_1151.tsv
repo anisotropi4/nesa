@@ -1,9 +1,20 @@
-London-North-Eastern	1151	LN922	TJC3	Skipton	Site of former Skipton North Jn Change of ELR	Skipton – Site of former Skipton North Jn Change of ELR	221	21	221	68	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN922	SKW1	Site of former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	Y	Y	Y	N	N	N	Y	N	N
-London-North-Eastern	1151	LN930	SKS1	Skipton Middle	Site of former Embsay Jn	Skipton Middle – Site of former Embsay Jn	222	68	220	64	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN930	SKS2	Site of former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1151	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	Y	Y	Y	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
+London-North-Eastern	1151	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN860	MVL3	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down line)	29	00	29	74	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN860	MVN2	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN860	MVN2	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN861	BBW	Bradley Jn – Bradley Wood Jn	0	00	1	17	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1151	LN862	PED2	Barnsley Station Jn – Site of former Barnsley Jn	6	43	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN862	PED1	Site of former Barnsley Jn – Site of former Huddersfield Jn	29	13	28	37	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN862	PEH	Site of former Huddersfield Jn – Lockwood	13	42	1	18	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1151	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1151	LN864	DRS1	Dewsbury Railway Street – Change of Mileage	0	10	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1151	LN864	DRS1	Change of Mileage – Dewsbury East Jn	0	27	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1151	LN868	SHB	Wincobank Jn – Site of former Quarry Jn	161	52	173	48	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN868	PED2	Site of former Quarry Jn – Barnsley Station Jn	7	50	6	43	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN868	BAH2	Barnsley Station Jn – Site of former Crigglestone Jn	52	58	45	56	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1151	LN868	CHS	Site of former Crigglestone Jn – Horbury Jn	1	53	0	00	Y	Y	Y	N	N	N	N	N	N	

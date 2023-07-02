@@ -1,14 +1,19 @@
-Scotland	1049	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1049	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	Change of ELR (Stranraer Yard GF)	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	5	Y	N	N	N	N	N	N
-Scotland	1049	SC059	STR4	Change of ELR (Stranraer Yard GF)	End of Line	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	5	Y	N	N	N	N	N	N	.
-Scotland	1049	SC061	CNL	Shields Jn	Corkerhill	Shields Jn – Corkerhill	1	05	3	11	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1049	SC061	CNL	Corkerhill	Paisley Canal	Corkerhill – Paisley Canal	3	11	7	00	10	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited when overhead line equipment is energised
-Scotland	1049	SC063	CND1	Cardonald Jn	Cardonald North Jn	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	Y	Y	Y	Y	Y	Y	Y
-Scotland	1049	SC063	CND2	Cardonald North Jn	Deanside (Goods Line)	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	Y	Y	Y	Y	Y	Y	Y
-Scotland	1049	SC065	GOU1	Paisley (Wallneuk Jn)	Change of ELR	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	Y	Y	Y	Y	Y	Y	Y
-Scotland	1049	SC065	GOU2	Change of ELR	Bishopton	Change of ELR – Bishopton	107	70	112	60	7 R1	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 30mph over bridge 179/065 (Black Cart Water) (109m 71ch) R3 30mph over bridge 179/061 (River Gryfe) (110m 42ch)
-Scotland	1049	SC065	GOU2	Bishopton	Gourock	Bishopton – Gourock	112	60	126	58	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014
-Scotland	1049	SC067	WYS	Wemyss Bay Jn	Wemyss Bay	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	Y	R1 R2 R3	R4 R5	R1 R2 R3	N	R1 R2 R3	N	R1 40mph over bridge 181/009 (7m 36ch) R2 40mph over bridge 181/032 (2m 48ch) R3 15mph over bridge 181/034 (2m 24ch) R4 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R5 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1049	SC073	LGS1	Kilwinning Jn	Change of ELR	Kilwinning Jn – Change of ELR	25	65	30	44	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1049	SC073	LGS2	Change of ELR	Fairlie High Siding	Change of ELR – Fairlie High Siding	30	44	38	69	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1049	SC073	LGS2	Fairlie High Siding	Largs	Fairlie High Siding – Largs	38	69	42	07	5	Y	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+Scotland	1049	SC055	WCM2	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	Y	Y	Y	N	N	N	Y	N	Y	
+Scotland	1049	SC055	KHL	Newton Kirkhill Jn – Cathcart West Jn	95	77	100	77	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1049	SC057	CNC	Cathcart East Jn – Cathcart North Jn	0	45	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1049	SC059	WCM2	Glasgow Central – Bridge St Jn	102	27	101	53	Y	Y	Y	N	N	N	Y	N	Y	
+Scotland	1049	SC059	AYR1	Bridge St Jn – Cook St	0	00	0	19	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1049	SC059	LYE	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1049	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	Y	Y	Y	N	N	N	N	R1	N	R1 Prohibited 02m 40 ch – Change of ELR (Paisley Gilmour Street)
+Scotland	1049	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1049	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	Y	Y	Y	N	N	N	N	N	N	

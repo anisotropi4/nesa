@@ -1,9 +1,21 @@
-Anglia	0418	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	N	N	N	N	Y	E	EH	E	N	E R1	R1 Prohibited Up East London and Down East London lines
-Anglia	0418	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	N	N	N	N	Y	E	EH	E	N	E
-Anglia	0418	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	N	N	N	N	Y	E	EH	E	N	E
-Anglia	0418	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	N	N	N	N	Y	E	EH	E	N	N
-Anglia	0418	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	N	N	N	N	Y	Y	EH	E	N	N
-Anglia	0418	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	N	Y	N	N	N	N	N
-Anglia	0418	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	Y	N	N	N	N	N
-Anglia	0418	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	EH R1 R2 R3 R4	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3 R4	EH R1 R2 R3 R4	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R4 Prohibited with deflated suspension R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled
-Anglia	0418	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	EH R1 R2 R3	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3	EH R1 R2 R3	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph R3 Prohibited with deflated suspension R4 Must be hauled if busline exceeds 80 metres. Shoegear isolated. R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	325	345	357	357 MOD	Notes
+Anglia	0418	EA1350	LLS1	High Meads Jn – Temple Mills East Jn	0	15	0	59	N	Y	Y	N	Y	Y	H	E	N	N	
+Anglia	0418	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1360	CAW	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	N	N	N	N	N	N	N	N	N	
+Anglia	0418	EA1360	NJN	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	N	N	N	N	N	N	N	N	N	N	
+Anglia	0418	EA1360	CAW	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	N	N	N	N	N	N	N	N	N	
+Anglia	0418	EA1360	ACW	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	N	N	N	N	N	N	N	N	N	N	
+Anglia	0418	EA1360	CAW	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	N	N	N	N	N	N	N	N	N	N	
+Anglia	0418	EA1360	WAW	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) (Willesden West London Jn)	6	19	6	76	Y	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1360	CAW	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	Y	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	GOJ	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	JRT2	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	TAH1	Junction Rd Jn – Harringay Park Jn	2	42	4	15	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	HPW	Harringay Park Jn – Route Boundary (LN165) (Harringay Jn)	0	25	0	14	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	TAH1	Harringay Park Jn – South Tottenham West Jn	4	15	5	65	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	TAH1	South Tottenham West Jn – South Tottenham East Jn	5	65	5	73	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	TAH2	South Tottenham East Jn – Woodgrange Park Jn	5	73	11	79	N	N	N	N	N	N	H	N	N	N	
+Anglia	0418	EA1370	TAH3	Woodgrange Park Jn – Barking Station Jn	11	79	13	12	N	N	Y	N	N	N	H	E	Y	Y	
+Anglia	0418	EA1370	TAH3	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	N	N	Y	N	N	N	H	E	Y	Y	
+Anglia	0418	EA1370	TAH4	Barking Station Jn – Barking Platform 1	13	12	13	62	N	N	N	N	N	N	H	N	N	N	

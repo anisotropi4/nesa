@@ -1,16 +1,12 @@
-Western	0831	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0831	GW182	STA	West Drayton Jn	End of Branch (Colnbrook)	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	8	Y
-Western	0831	GW184	WIN	Slough	Windsor & Eton Central	Slough – Windsor & Eton Central	18	36	21	19	3	Y
-Western	0831	GW185	WBB	Maidenhead	Bourne End	Maidenhead – Bourne End	24	19	28	55	6	Y
-Western	0831	GW185	MWB	Bourne End GF	Marlow	Bourne End GF – Marlow	0	06	2	54	6	Y
-Western	0831	GW187	HEN	Twyford	Henley-on-Thames	Twyford – Henley-on-Thames	31	01	35	48	4	Y
-Western	0831	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn)	Reading New Jn	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	8	Y
-Western	0831	GW200	DCL	Chester Line Jn	Route Boundary (MD401) (Heyford)	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	8	Y
-Western	0831	GW220	RWC	Reading, Oxford Road Jn	Reading West Jn	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	8	Y
-Western	0831	GW240	DEC	Didcot East Jn	Didcot North Jns	Didcot East Jn – Didcot North Jns	52	66	54	00	8	Y
-Western	0831	GW250	DWC	Foxhall Jn	Didcot West Curve Jn	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	8	Y
-Western	0831	GW260	THA	Kennington Jn	Morris Cowley	Kennington Jn – Morris Cowley	18	45	16	04	7	Y
-Western	0831	GW277	OXD	Oxford North Jn	Route Boundary (MD736) (29m 25ch)	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	8	Y
-Western	0831	GW310	OWW	Wolvercot Jn	Norton Jn	Wolvercot Jn – Norton Jn	66	32	112	00	7	Y
-Western	0831	GW317	OWW	Honeybourne Stratford Line Junction	Start of branch mileage	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	7	Y
-Western	0831	GW317	STD	Start of branch mileage	Long Marston	Start of branch mileage – Long Marston	0	00	2	70	7	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Western	0831	GW103	MLN1	Paddington – Old Oak Common West	0	05	3	20	8	R1 R2	R1 Prohibited Paddington platform 6 R2 Prohibited Paddington platform 7
+Western	0831	GW103	MLN1	Old Oak Common West – Acton East Jn	3	20	4	07	8	Y	
+Western	0831	GW103	MLN1	Acton East Jn – West Ealing Jn	4	07	6	54	8	Y	
+Western	0831	GW103	MLN1	West Ealing Jn – Hanwell Jn	6	54	7	19	8	Y	
+Western	0831	GW103	MLN1	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	8	Y	
+Western	0831	GW103	MLN1	Heathrow Airport Jn (Down Main line) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	8	Y	
+Western	0831	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	8	Y	
+Western	0831	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	8	Y	
+Western	0831	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	8	Y	
+Western	0831	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	8	Y	
+Western	0831	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	8	R1	R1 Prohibited Reading platform 7 (Down Main line)

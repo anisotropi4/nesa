@@ -1,6 +1,7 @@
-Western	0812	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Western	0812					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0812	GW103	Reading New Jn – Didcot, Chester Line Jn	Reading New Jn	Didcot, Chester Line Jn	Y *	Y	Y	R1	R1	Y	R1	R1	R1 Prohibited Didcot East Jn to Didcot Chester Line Jn
-Western	0812	GW103	Didcot, Chester Line Jn – Uffington	Didcot, Chester Line Jn	Uffington	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2438(w) on IFA FRA wagons 2591(h) x 2500(w) on FCA/FYA wagons 2616(h) x 2550(w) on KFA wagons 2667(h) x 2550(w) on FIA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2705(h) x 2550(w) on FKA wagons 2896(h) x 2500(w) on FAA FLA IDA wagons
-Western	0812	GW103	Reading Southern Jn – Reading East Main Jn (RLL)	Reading Southern Jn	Reading East Main Jn (RLL)	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0812	GW105	Uffington – Thingley Jn	Uffington	Thingley Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2438(w) on IFA FRA wagons 2591(h) x 2500(w) on FCA/FYA wagons 2616(h) x 2550(w) on KFA wagons 2667(h) x 2550(w) on FIA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2705(h) x 2550(w) on FKA wagons 2896(h) x 2500(w) on FAA FLA IDA wagons
+Route	page	Line of Route	Line of Route / Sector Description	RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
+Western	0812	GW940	Carmarthen Stn to Carmarthen Bridge Jn	8	10	10				
+Western	0812	GW950	Whitland to Pembroke	7	8	8	THROUGHOUT	40 MPH	40 MPH	
+Western	0812	GW950	Pembroke to Pembroke Dock	6	8	8	THROUGHOUT	40 MPH	40 MPH	
+Western	0812	GW960	Clarbeston Rd to Milford Haven	8	10	10				
+Western	0812	GW970	Gulf Oil Branch to Waterston	8	10	10				
+Western	0812	GW980	Herbrandston Jn to Robeston	8	10	10				

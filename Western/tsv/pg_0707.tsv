@@ -1,20 +1,16 @@
-Western	0707	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
-Western	0707	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW528	BRL	North Somerset Jn	Bristol West Jn via St Philips Marsh	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW530	BLL	Feeder Bridge Jn	Dr Day’s Jn (Rhubarb Loop)	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW5401	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW548	POD/ PBY	Parson Street Jn	Network Rail boundary (BPC)	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	N	N	N	N	N	N	N	N	N
-Western	0707	GW560	SWY	Heywood Road Jn	Westbury North Jn	Heywood Road Jn – Westbury North Jn	94	45	95	33	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW560	WEY	Westbury North Jn	Fairwood Jn via Westbury	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	E	Y	Y	Y	Y	N	N	Y	R1	R1 Prohibited Westbury Down Reception line between signal W202 and points 858
-Western	0707	GW570	WEY	Clink Road Jn	Blatchbridge Jn via Frome	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	E	Y	Y	Y	Y	N	N	Y	Y
-Western	0707	GW572	FNS2	Frome North Jn	Change of ELR	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	N	N	N	N
-Western	0707	GW572	WQL	Change of ELR	Network Rail Boundary (Mendip Rail - Whatley Quarry)	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N	N	N	N	N
-Western	0707	GW580	ESB	East Somerset Jn	Network Rail Boundary (East Somerset Railway - Cranmore East)	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	E	Y	Y	Y	Y	N	N	N	N
-Western	0707	GW600	SWB	Wootton Bassett Jn	Stoke Gifford Jn No.1	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	E	Y	Y	Y	Y	E	E	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0707	GW184	WIN	Slough – Windsor & Eton Central	18	36	21	19	E	N	N	E	N	N	N	N	N	Y	
+Western	0707	GW185	WBB	Maidenhead – Bourne End	24	19	28	55	E	N	N	E	N	N	N	N	N	Y	
+Western	0707	GW185	MWB	Bourne End GF – Marlow	0	06	2	54	E	N	N	E	N	N	N	N	N	Y	
+Western	0707	GW187	HEN	Twyford – Henley-on- Thames	31	01	35	48	E	N	N	E	N	N	N	N	N	Y	
+Western	0707	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	E	E	E	Y	E	E	E	E	E	Y	
+Western	0707	GW195	RLL	Reading Southern Jn – Reading East Jn	35	33	35	61	N	N	N	E	N	N	N	N	N	R1	R1 Prohibited with tripcocks fitted
+Western	0707	GW220	RWC	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	E	E	E	Y	E	E	E	E	E	N	
+Western	0707	GW225	RFR	Caversham Road Jn – Oxford Road Jn	36	25	36	74	N	N	N	Y	N	N	N	Y	N	Y	
+Western	0707	GW240	DEC	Didcot East Jn – Didcot North Jns	52	66	54	00	E	E	E	E	E	E	E	E	E	Y	
+Western	0707	GW250	DWC	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	E	E	E	E	E	E	E	E	E	Y	
+Western	0707	GW220	RWC	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	E	E	E	Y	E	E	E	E	E	N	
+Western	0707	GW260	THA	Kennington Jn – Morris Cowley	18	45	16	04	N	N	N	N	N	N	N	N	N	Y	
+Western	0707	GW277	OXD	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	Y	Y	Y	Y	E	E	Y	Y	Y	Y	
+Western	0707	GW310	OWW	Wolvercot Jn – Pershore (excl)	66	32	112	00	E	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western	0707	GW317	OWW	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	N	N	N	N	N	N	N	N	N	N	

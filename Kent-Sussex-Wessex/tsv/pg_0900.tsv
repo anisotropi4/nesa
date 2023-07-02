@@ -1,19 +1,24 @@
-Kent-Sussex-Wessex	0900	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0900	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	Y	N	N	N	N	N	R1	N	N	N	R1 Route prohibited to Classes 377/6 and 377/7
-Kent-Sussex-Wessex	0900	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	Y	N	N	N	N	N	Y	N	N	N
-Kent-Sussex-Wessex	0900	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	N	Y	H	N	N	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	N	N	N	N	N	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	N	N	N	N	N	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	N	N	N	N	N	N	EH R1	N	N	N	R1 Route prohibited to Classes 377/6 and 377/7
-Kent-Sussex-Wessex	0900	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	N	Y	H R1	N	Y	Y	Y	E	N	Y	R1 OPPOS applies between through Bletchingley tunnel and Penshurst tunnel
-Kent-Sussex-Wessex	0900	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	N	Y	H	N	N	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	N	N	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0900	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	Y	Y	H	N	Y	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	Y	N	N	N	Y	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	Y	N	N	N	Y	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn – Eastbourne	21	39	23	75	Y	N	N	N	Y	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO600	WJB	Willingdon Jn	Connection - St Leonards LMD	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	Y	N	N	N	Y	N	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO600	WJB	Connection - St Leonards LMD	Bo Peep Jn	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	Y	N	N	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO600	TTH	Bo Peep Jn	Hastings	Bo Peep Jn – Hastings	60	69	62	33	Y	N	N	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0900	SO600	ATH	Hastings	Ore Start / End of Electrification	Hastings – Ore Start / End of Electrification	82	34	81	42	Y	N	N	N	Y	Y	Y	N	N	R1	Prohibited with deflated secondary suspension
-Kent-Sussex-Wessex	0900	SO600	ATH	Ore Start / End of Electrification	Jn with Hastings line	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	N	N	N	EH	N	EH	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
+Kent-Sussex-Wessex	0900	SO500	VTB1	Pouparts Jn – Falcon Jn	2	03	2	66	N	Y	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	WLL	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	N	R1	N	R1	R1	R1 OPPOS applies between crossover VC289 points and Falcon Jn VC290/292 points
+Kent-Sussex-Wessex	0900	SO500	VTB1	Falcon Jn – Balham Jn	2	66	4	69	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	VTB1	Balham Jn – Streatham North Jn	4	69	6	14	N	Y	N	Y	N	
+Kent-Sussex-Wessex	0900	SO500	SNS	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	SLJ	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	VTB1	Streatham North Jn – Selhurst Jn	6	14	9	43	N	Y	N	Y	N	
+Kent-Sussex-Wessex	0900	SO500	WCS	Selhurst Jn – Gloucester Road Jn	9	44	9	62	N	N	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	VTB1	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	N	Y	N	Y	N	
+Kent-Sussex-Wessex	0900	SO500	VTB2	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	VTB2	South Croydon Jn – Stoats Nest Jn	11	29	14	20	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	RED1/2	Stoats Nest Jn – Redhill	14	20	22	40	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	RED1/2	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	VTB2	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	VTB3	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	VTB3	Three Bridges – Copyhold Jn	29	21	36	73	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	CJA1	Copyhold Jn – Change of Mileage	36	73	36	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	CJA2	Change of Mileage – Ardingly Sidings	0	00	0	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	VTB3	Copyhold Jn – Keymer Jn	36	73	40	69	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	VTB3	Keymer Jn – Preston Park Jn	40	69	49	43	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO500	PPH	Preston Park Jn – Hove Jn	49	21	50	44	N	Y	N	N	N	
+Kent-Sussex-Wessex	0900	SO500	VTB3	Preston Park Jn – Brighton	49	43	50	49	N	Y	N	Y	Y	
+Kent-Sussex-Wessex	0900	SO510	LBW	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	N	Y	N	N	N	

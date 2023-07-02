@@ -1,43 +1,63 @@
-                                                                                   OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                                Scotland Route Sectional Appendix Module SCRC
+     Line of
+          ELR  Line of Route / Sector Description
+                                   ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+     route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
+                                     M Ch  M  Ch                (MOD)
+     SC149NBK  North Berwick – Drem Jn
+                                    22  22 18 15 Y  Y  Y  N  N   N  N  N  N
+     SC151LHS1 Portobello – Leith South Yard (Goods
+                                     0  00 2  20 N  N  N  N  N   N  N  N  N
+               Line)
+     SC153CPH  Craigentinny – Powderhall (Goods
+                                     0  00 1  78 N  N  N  N  N   N  N  N  N
+               Line)
+     SC155MHL1 Monktonhall Jn – Change of ELR
+                                     0  11 5  60 Y  Y  Y  N  N   N  Y  Y  N
+     SC155MHL2 Change of ELR – Millerhill East Jn
+                                     1  40 0  28 Y  Y  Y  N  N   N  Y  Y  N
+     SC155MHL3 Millerhill East Jn – Millerhill Yard
+                                     0  00 0  19 Y  Y  Y  N  N   N  Y  Y  N
+               (Goods Line)
+     SC157MLE  Millerhill South Jn – Millerhill East Jn
+                                     0  09 0  28 Y  Y  Y  N  N   N  Y  N  N
+               (Goods Line)
+     SC159NDE2 Millerhill West Jn – Millerhill South Jn /
+                                     6  52 5  72 N  N  N  N  N   N  N  N  N
+               Millerhill Yard
+     SC161NDE1 Millerhill Yard – Junction with Niddrie
+                                     5  52 3  36 Y  Y  Y  N  N   N  Y  Y  N
+               West Line
+     SC161SUB1 Junction with Niddrie West Line –
+                                     3  36 3  30 Y  Y  Y  N  N   N  Y  N  N
+               Portobello
+     SC161MHL4 Newcraighall East Jn – Network Rail /
+                                     00 00 00 08 N  N  N  N  N   N  N  N  N
+               Abellio Scotrail Boundary
+     SC163SUB1 Portobello – Change of ELR
+                                     3  30 4  00 Y  Y  Y  N  N   N  Y  Y  N
+     SC163SUB2 Change of ELR – Niddrie West
+                                     6  69 6  30 Y  Y  Y  N  N   N  Y  Y  N
+     SC164NNS  Newcraighall North Jn – Newcraighall
+                                     4  63 5  02R1  R1 N  N  N   N  N  N  N R1 55mph maximum speed
+               South Jn                         R2  R2                      R2 All passenger trains, except when
+                                                                               operated by Class 158 or 170
+                                                                               DMUs, require a Special Operating
+                                                                               Instruction
+     SC164SBO  Newcraighall South Jn – Tweedbank
+                                     5  02 35 34R1  R1 N  N  N   N  N  N  N R1 55mph maximum speed
+                                                R2  R2                      R2 All passenger trains, except when
+                                                                               operated by Class 158 or 170
+                                                                               DMUs, require a Special Operating
+                                                                               Instruction
+     SC165MHY  Niddrie South Jn – Niddrie West Jn
+                                     7  06 6  30 Y  Y  Y  N  N   N  Y  N  N
 
-Line of   ELR    Line of Route / Sector Description      oooo oooo oooo oooo RA        43 47/2 47/4 47/7 56 57 58 Notes
-route                                                     M    Ch   M    Ch 000        00 000 00 00 000 000 000 ooooooooooooooooooooooooo
-SC143     OBN1   Crianlarich Jn – Lower Crianlarich GF     0     00     0    44    5    Y     R1   R4   R1      N   R1   N R1   Prohibited from hauling passenger services
-                                                                                              R2   R5   R2          R2     R2   30mph over bridge 3 (0m 16ch) (10mph
-                                                                                              R3        R3          R3          when providing assistance)
-                                                                                                                           R3   Double Heading prohibited except for
-                                                                                                                                providing assistance
-                                                                                                                           R4    Class 47/4 locomotives that conform to RA6
-                                                                                                                                shall apply those restrictions applicable to
-                                                                                                                                the Class 47/2
-                                                                                                                           R5   Route prohibited to Class 47/4 locomotives
-                                                                                                                                that conform to RA7
-SC143     OBN2   Lower Crianlarich GF – Inverhaggernie     30    23    31    00    5   R1     R2   R5   R2      N   R2   N R1   30mph over bridge 158 (30m 80ch)
-                 No.1 LC                                                                      R3   R6   R3          R3     R2   10mph over bridge 158 (30m 80ch)
-                                                                                              R4        R4          R4     R3   Prohibited from hauling passenger services
-                                                                                                                           R4   Double Heading prohibited except for
-                                                                                                                                providing assistance
-                                                                                                                           R5   Class 47/4 locomotives that conform to RA6
-                                                                                                                                shall apply those restrictions applicable to
-                                                                                                                                the Class 47/2
-                                                                                                                           R6   Route prohibited to Class 47/4 locomotives
-                                                                                                                                that conform to RA7
-SC143     OBN2   Inverhaggernie No.1 LC – Oban             31    00    71    44    5   R1     N    N    N       N   N    N R1   30mph over bridge 176 (35m 17ch)
-                                                                                       R2                                  R2   20mph over bridge 268 (66m 16ch)
-SC145     MLG1   Fort William – Change of ELR              0     05     1    27    5    Y     R1   R2   R1      N   R1   N R1   20mph over (Lochy Viaduct) (0m 55ch – 0m
-                                                                                                   R3                           60ch)
-                                                                                                                           R2   Class 47/4 locomotives that conform to RA6
-                                                                                                                                shall apply those restrictions applicable to
-                                                                                                                                the Class 47/2
-                                                                                                                           R3   Route prohibited to Class 47/4 locomotives
-                                                                                                                                that conform to RA7
 
 
 
-
-October 2009                                                                  89
+     October 2009                               58

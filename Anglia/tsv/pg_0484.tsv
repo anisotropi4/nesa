@@ -1,21 +1,29 @@
-Anglia	0484	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Anglia	0484	EA1270	MIT	Kings Lynn Jn	Kings Lynn Yard branch end	Kings Lynn Jn – Kings Lynn Yard branch end	0	22	0	00	8	Y
-Anglia	0484	EA1280	SDC	Stratford Central Jn East	Temple Mills East Jn (Via Platforms 11 & 12 at Stratford)	Stratford Central Jn East – Temple Mills East Jn (Via Platforms 11 & 12 at Stratford)	3	76	4	45	8	Y
-Anglia	0484	EA1280	SDC	Temple Mills East Jn	Coppermill Jn	Temple Mills East Jn – Coppermill Jn	4	45	7	14	8	Y
-Anglia	0484	EA1290	TSE2	Tottenham South Jn	Change of mileage	Tottenham South Jn – Change of mileage	5	41	5	54	8	Y
-Anglia	0484	EA1290	TSE1	Change of mileage	South Tottenham East Jn	Change of mileage – South Tottenham East Jn	6	22	5	73	8	Y
-Anglia	0484	EA1300	SSL	South Tottenham West Jn	Seven Sisters Jn	South Tottenham West Jn – Seven Sisters Jn	0	13	0	00	8	Y
-Anglia	0484	EA1310	BOK2	Camden Road West Jn	Gospel Oak Jn	Camden Road West Jn – Gospel Oak Jn	0	00	1	10	8	Y
-Anglia	0484	EA1310	BOK2	Gospel Oak Jn	Kensal Green Jn	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	8	Y
-Anglia	0484	EA1310	KGC	Kensal Green Jn	Route Boundary (MD155) (Harlesden Jn)	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)	0	00	0	21	8	Y
-Anglia	0484	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	8	Y
-Anglia	0484	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	8	Y
-Anglia	0484	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	8	Y
-Anglia	0484	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	8	Y
-Anglia	0484	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	8	Y
-Anglia	0484	EA1310	BOK5	Acton Wells Jn (Connection to EA1360)	Acton Wells Jn (Connection to GW130)	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connection to GW130)	0	66	0	72	8	Y
-Anglia	0484	EA1310	AWL	Acton Wells Jn	Route Boundary (GW130) (Acton East Jn)	Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	8	Y
-Anglia	0484	EA1310	BOK5	Acton Wells Jn (Connection to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connection to GW130) – Acton Central (Limit of AC)	0	72	1	73	8	Y
-Anglia	0484	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	8	Y
-Anglia	0484	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	8	Y
-Anglia	0484	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	4	Y
+Route	page	Line of Route	Line of Route / Sector Description	GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Anglia	0484	EA1012	Ipswich – Trowse Jn	N	Y *	Y	Y	Y	N	R1	N	N	R1 W10 Between Ipswich and Haughley Jn only.
+Anglia	0484	EA1013	Trowse Jn – Norwich	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1013	Trowse Swing Bridge – Wensum Jn (EA1470) via Wensum Curve	N	Y	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1020	Carpenters Rd South Jn – Carpenters Rd North Jn	N	Y	Y	Y	Y	N	N	N	N	
+Anglia	0484	EA1030	Forest Gate Jn – Woodgrange Park Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0484	EA1040	Romford – Upminster	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1050	Shenfield Jn – Southend Victoria	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1060	Wickford Jn – Southminster	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1070	Witham – Braintree	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1080	Marks Tey Jn – Sudbury	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1090	Colchester Jn – Clacton	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1100	East Gate Jn & Hythe Jn – Colchester town	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1110	Thorpe-Le-Soken – Walton-On-Naze	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1120	Manningtree (North & South Jns) – Harwich town	N	Y *	Y	Y	N	N	Y	N	N	
+Anglia	0484	EA1130	Griffin Wharf Branch	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0484	EA1150	Channelsea South Jn – Stratford Central Jn West	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0484	EA1160	Bethnal Green East Jn – Coppermill Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1160	Coppermill Jn – Tottenham South Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0484	EA1160	Tottenham South Jn – Bishops Stortford	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1161	Bishops Stortford – Ely Dock Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1161	Ely Dock Jn – Ely North Jn	N	Y *	Y	Y	Y	N	Y	N	N	
+Anglia	0484	EA1162	Ely North Jn – Kings Lynn	N	Y	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1170	Hackney Downs North Jn – Bury Street Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1180	Reading Lane Jn – Navarino Road Jn (Graham Rd. Curve)	N	Y	N	N	N	N	N	N	N	
+Anglia	0484	EA1190	Bury Street Jn – Cheshunt Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0484	EA1200	Clapton Jn – Chingford	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1210	Broxbourne Jn – Hertford East	N	Y *	N	N	N	N	N	N	N	
+Anglia	0484	EA1220	Stansted (South & North Jns) – Stansted Airport	N	Y *	N	N	N	N	N	N	N	

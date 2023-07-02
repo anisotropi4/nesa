@@ -1,28 +1,78 @@
-                                                                                    OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              Western Route Sectional Appendix Module WR2
+                                       Western Route Sectional Appendix Module WR2
 
 
-GW940        CAN/ Up Sidings No.2 GF – Carmarthen       245    43   245   32    E      Y       Y   Y   Y    Y   Y   R1   R1 R1   Prohibited Carmarthen Down side
-             CNW Bridge Jn                                                                                                       bay platform (accessible by shunt
-                                                                                                                                 movement only)
-GW950        PEM Whitland Jn – Pembroke RA Change       259    01   284   22    E      Y       Y   Y   Y    Y   Y   Y    Y
-GW950        PEM Pembroke RA Change – Pembroke          284    22   286   26    E      Y       Y   Y   Y    Y   Y   Y    Y
-                 Dock
-GW960        SWM Clarbeston Road – Haverfordwest        271    08   276   08    E      Y       Y   Y   Y    Y   Y   Y    Y
-             2
-GW960        SWM Haverfordwest – Change of ELR (Site    276    08   280   70    E      Y       Y   Y   Y    Y   Y   Y    Y
-             2   of Former Johnston Jn)
-GW960        MIL   Change of ELR (Site of Former        280    70   283   12    E      Y       Y   Y   Y    Y   Y   Y    Y
-                   Johnston Jn) – Herbranston Jn
-GW960        MIL   Herbranston Jn – End of Line (Beyond 283    12   284   71    E      Y       Y   Y   Y    Y   Y   Y    Y
-                   Milford Haven)
-GW970        GOB Gulf Oil Branch Jn – Waterston, Gulf     0    00     2   35   N       N       N   N   N    N   N   N    N
-                 Oil Refinery
-GW980        ERB Herbrandston Jn – Robeston               0    00     1   18   N       N       N   N   N    N   N   N    N
+       LineELR Line of Route / Sector
+                               oooo ooooooooooo 121 142 143 150 153 155 156 158 159 165 Notes
+       of      Description
+                                 M   Ch   M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+                                                                        oooooooooooooooooooooooooo
+       route
+               Abercynon Jn – Pontypridd
+       GW830 CAM                 16  35   13  04 E Y  Y Y  N N  N N  N N
+               Jn
+               Pontypridd Jn – Radyr Jn
+       GW830 CAM                 13  04    5  23 E Y  Y Y  N N  N N  N N
+               Radyr Jn – Queen Street
+       GW830 CAM                  5  23    1  17 E Y  Y Y  Y Y  Y Y  Y N
+               North Jn
+               Queen Street North Jn –
+       GW830 CAM                 1   17    0  66 Y Y  Y Y  Y Y  Y Y  Y N
+               Queen Street South Jn
+               Queen Street South Jn –
+       GW830 CEJ                 0   22    0  00 E Y  Y Y  Y Y  Y Y  Y N
+               Cardiff East Jn
+       GW830 SWM2 Cardiff East Jn – Cardiff West
+                                170  18   170 56 E Y  Y Y  Y Y  Y Y  Y N
+               Jn
+               Cardiff West Jn – Barry Jn
+       GW830 BRY                 0   10    8  16 E Y  Y Y  Y Y  Y Y  Y N
+               Barry Jn – Buffer Stops
+       GW830 BRY                 8   16    8  76 E Y  Y Y  Y Y  Y Y  Y N
+               (Barry Island)
+               Network Rail Boundary –
+       GW834 VON                 26  62   22  34 E Y  Y Y  N N  N N  N N
+               Aberdare
+       GW834 VON/ Aberdare – Cwmbach
+                                 22  34   20  68 E Y  Y Y  N N  N N  N N
+           ALK Change of ELR
+               Cwmbach Change of ELR –
+       GW834 ABD/                22  01   16  35 E Y  Y Y  N N  N N  N N
+           MOA Abercynon Jn (Including
+               Mountain Ash Down Loop
+               ELR MOA)
+               End of Line – Treherbert
+       GW835 THT                 23  69   23  54 E Y  Y Y  N N  N N  N N
+               Treherbert – Pontypridd Jn
+       GW835 THT                 23  54   13  04 E Y  Y Y  N N  N N  N N
+               Queen Street South Jn –
+       GW839 CAM                  0  66    0  02 Y Y  Y Y  Y Y  Y Y  Y N
+               Cardiff Bay
+               Radyr Jn – Leckwith Loop
+       GW840 RAD                 4   41    0  69 E Y  Y Y  Y Y  Y R1 R1 N R1
+                                                                           20mph Fairwater Up platform
+               South Jn                                           R2 R2 R2 20mph Ninian Park Down platform
+               Leckwith Loop South Jn –
+       GW840 RAD                 0   69    0  47 E Y  Y Y  Y Y  Y Y  Y N
+               Penarth Curve North Jn
+               Penarth Curve North Jn –
+       GW840 RAD                 0   47    0  25 E Y  Y Y  Y Y  Y Y  Y N
+               Radyr Branch Jn
+               Leckwith Loop South Jn –
+       GW850 CLL                 0   26    0  00 E Y  Y Y  Y Y  Y Y  Y N
+               Leckwith Loop North Jn
+               Penarth Curve North Jn –
+       GW860 CPL                 0   25    0  00 E Y  Y Y  Y Y  Y Y  Y N
+               Penarth Curve South Jn
+               Cogan Jn – Penarth
+       GW864 PTH                 0   01    1  12 E Y  Y Y  Y Y  Y Y  Y N
+               Barry Jn – Bridgend Bay
+       GW870 VOG                 0   00   19  04 E Y  Y Y  Y Y  Y Y  Y N
+               Platform
 
 
 
 
-April 2009                                                                     497H
+       April 2009                                497F

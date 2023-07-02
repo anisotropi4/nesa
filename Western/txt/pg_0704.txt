@@ -1,46 +1,62 @@
-                                                                                    OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              Western Route Sectional Appendix Module WR2
+                                       Western Route Sectional Appendix Module WR2
 
-Line of      ELR Line of Route / Sector                 oooo oooo oooo ooo 121 142 143 150 153 155 156 158 159 Notes
-route            Description                             M Ch M Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 oooooooooooooooooooooooooo
-GW108        MLN Change of ELR – St Erth Jn             305    67   320   73    E      Y       Y   Y   Y    N   N   Y   Y
-             4
-GW108        MLN St Erth Jn – Penzance                  320    73   326   50    E      Y       Y   Y   Y    N   N   Y   Y
-             4
-GW110        ANL   Old Oak Common West – Greenford        3    20     7   15    E      E       E   E   E    E   E   N   N
-                   East Jn
-GW110        ANL   Greenford East Jn – Greenford West     7    15     7   48    E      E       E   E   E    E   E   N   N
-                   Jn
-GW110        ANL   Greenford West Jn – Route Boundary     7    48     8   60    E      E       E   E   E    E   E   N   N
-                   (MD705) (Northolt Jn)
-GW117        GEC Greenford East Jn – Greenford South      8    70     8   45    E      E       E   E   E    E   E   N   N
-                 Jn
-GW130        AWL Route Boundary (EA1310) (Acton           0    39     0   08    E      E       E   E   N    N   N   E   E
-                 Wells Jn) – Acton East Jn
-GW174        WEL West Ealing Jn – Drayton Green Jn        6    56     7   03    E      E       E   E   E    E   E   N   N
-             1
-GW174        WEL Drayton Green Jn – Greenford South       7    03     8   45    E      E       E   E   E    E   E   N   N
-             1   Jn
-GW174        WEL Greenford South Jn – Greenford LUL       8    45     8   65    E      E       E   E   E    E   E   N   N
-             1   Bay Jn
-GW174        WEL Greenford LUL Bay Jn – Greenford         8    65     8   76    E      E       E   E   E    E   E   N   N
-             1   West Jn
-GW175        WEL Greenford LUL Bay Jn – Greenford         8    65     9   06   N       N       N   N   N    N   N   N   N
-             2   Station
-GW176        HAN Hanwell Jn – Drayton Green Jn            0    00     0   36    E      E       E   E   E    E   E   N   N
-GW178        BRB Southall – Brentford Goods               0    00     2   70   N       N       N   N   N    N   N   N   N
-GW180        HLL   Heathrow Airport Jn (Up and Down      11    04   12    27   N       N       N   N   N    N   N   N   N
-                   Main) – NR Boundary (BAA)
-GW182        STA   West Drayton Jn – End of Branch       13    31   16    25   N       N       N   N   N    N   N   N   N
-                   (Colnbrook)
-GW184        WIN   Slough – Windsor & Eton Central       18    36   21    19    E      N       N   E   N    N   N   N   N
-GW185        WBB Maidenhead – Bourne End                 24    19   28    55    E      N       N   E   N    N   N   N   N
-GW185        MWB Bourne End GF – Marlow                   0    06     2   54    E      N       N   E   N    N   N   N   N
-GW187        HEN Twyford – Henley-on-Thames              31    01   35    48    E      N       N   E   N    N   N   N   N
+     Line of ELR
+              Line of Route / Sector
+                            oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
+     route    Description
+                              M   Ch   M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+                                                                      oooooooooooooooooooooooooo
+              Westbury Line Jn –
+     GW103 MLN1               36  17   36  78E  E E  Y  E E  E E  E Y
+              Reading West Jn
+              Reading West Jn –
+     GW103 MLN1               36  78   52  66E  E E  Y  E E  E E  E Y
+              Didcot East Jn
+              Didcot East Jn – Chester
+     GW103 MLN1               52  66   53  12E  E E  Y  E E  E E  E Y
+              Line Jn
+              Chester Line Jn – Foxhall
+     GW103 MLN1               53  12   53  55E  E E  Y  E E  E E  E Y
+              Jn
+              Foxhall Jn – Uffington
+     GW103 MLN1               53  55   66  39E  E E  Y  E E  E E  E Y
+              Uffington – Swindon Jn
+     GW105 MLN1               66  39   77  36E  E E  Y  E E  E E  E R1 R1 Prohibited Swindon platform 2
+              Swindon Jn – Wootton
+     GW105 MLN1               77  36   83  07E  Y Y  Y  Y E  E Y  Y Y
+              Bassett Jn
+              Wootton Bassett Jn –
+     GW105 MLN1               83  07   96  10E  Y Y  Y  Y N  N Y  Y Y
+              Thingley Jn
+              Thingley Jn – North
+     GW105 MLN1               96  10  117  46E  Y Y  Y  Y N  N Y  Y Y
+              Somerset Jn
+              North Somerset Jn –
+     GW105 MLN1              117  46  117  50E  Y Y  Y  Y N  N Y  Y Y
+              Feeder Bridge Jn
+              Feeder Bridge Jn –
+     GW105 MLN1              117  50  118  02E  Y Y  Y  Y N  N Y  Y Y
+              Bristol East Jn
+              Bristol East Jn – Bristol
+     GW105 MLN1              118  02  118  58E  Y Y  Y  Y N  N Y  Y R1 R1 Prohibited Bristol Temple Meads platforms 1 and 2
+              West Jn                                                   and adjacent sidings
+              Bristol West Jn – Parson
+     GW105 MLN1              118  58  120  28E  Y Y  Y  Y N  N Y  Y R1 R1 Prohibited beyond signal BL6731 and BL6733
+              Street Jn                                                 Carriage line and Carriage Washer line Prohibited all
+                                                                        other lineS
+              Parson Street Jn – Worle
+     GW105 MLN1              120  28  135  11E  Y Y  Y  Y N  N Y  Y N
+              Jn
+              Worle Jn – Uphill Jn
+     GW105 MLN1              135  11  138  04E  Y Y  Y  Y N  N Y  Y N
+              (direct)
+              Uphill Jn – Fordgate
+     GW105 MLN1              138  04  154  12E  Y Y  Y  Y N  N Y  Y N
 
 
 
 
-April 2009                                                                      494
+       April 2009                                 492

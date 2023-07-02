@@ -1,22 +1,18 @@
-London-North-Western-North	1005	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	1005	NW1001	LEC5	Crewe North Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	8	Y
-London-North-Western-North	1005	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	Hartford Jn	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	8	Y
-London-North-Western-North	1005	NW1001	CGJ1	Hartford Jn	Change of ELR (Preston Brook Tunnel)	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	8	Y
-London-North-Western-North	1005	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel)	Acton Grange Jn	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	8	Y
-London-North-Western-North	1005	NW1001	CGJ2	Acton Grange Jn	Warrington South Jn	Acton Grange Jn – Warrington South Jn	180	24	181	76	8	Y
-London-North-Western-North	1005	NW1001	CGJ3	Warrington South Jn	Winwick Jn	Warrington South Jn – Winwick Jn	181	76	185	49	8	R1	R1 Prohibited Dallam Royal Mail Terminal Bay platform 4
-London-North-Western-North	1005	NW1001	CGJ4	Winwick Jn	Golborne Jn	Winwick Jn – Golborne Jn	185	49	187	76	8	Y
-London-North-Western-North	1005	NW1001	CGJ5	Golborne Jn	Wigan Station Jn	Golborne Jn – Wigan Station Jn	0	53	6	33	8	Y
-London-North-Western-North	1005	NW1001	CGJ5	Wigan Station Jn	Farington Curve Jn	Wigan Station Jn – Farington Curve Jn	6	33	20	08	8	Y
-London-North-Western-North	1005	NW1001	CGJ5	Farington Curve Jn	Preston Ribble Jn	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	8	Y
-London-North-Western-North	1005	NW1001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y
-London-North-Western-North	1005	NW1001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y
-London-North-Western-North	1005	NW1001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y
-London-North-Western-North	1005	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station)	Stafford Trent Valley Jn No.1	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	8	Y
-London-North-Western-North	1005	NW1003	HCM2	Buffer Stop (Silverdale Colliery End)	Madeley Chord Jn	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	8	Y
-London-North-Western-North	1005	NW1003	HCM3	Madeley Chord Jn	Madeley Jn	Madeley Chord Jn – Madeley Jn	0	25	0	00	8	Y
-London-North-Western-North	1005	NW1003	HCM2	Madeley Chord Jn	End of Line	Madeley Chord Jn – End of Line	7	36	8	14	8	Y
-London-North-Western-North	1005	NW1004	RRN2	Route Boundary (MD345) (Cannock Change of ELR)	Rugeley North Jn	Route Boundary (MD345) (Cannock Change of ELR) – Rugeley North Jn	14	00	14	69	8	Y
-London-North-Western-North	1005	NW1005	KCS1	Kidsgrove Jn	Crewe South Jn	Kidsgrove Jn – Crewe South Jn	0	00	8	27	8	Y
-London-North-Western-North	1005	NW1007	SYC	Route Boundary (GW735) (Crewe Jn)	Limit of Electrification	Route Boundary (GW735) (Crewe Jn) – Limit of Electrification	2	60	1	41	8	Y
-London-North-Western-North	1005	NW1007	SYC	Limit of Electrification	Crewe South Jn	Limit of Electrification – Crewe South Jn	1	41	0	00	8	Y
+Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	1005	NW2001	Weaver Jn. – Liverpool Lime Street	8	SB1C (W9) R1	R2	R1 R2 SB1C Weaver Jn. – Edge Hill only. RA9/10 loaded freight vehicles are normally permitted between Weaver Jn. and Edge Hill only, but may also be permitted between Edge Hill and Liverpool Lime Street subject to the Territory Track Engineer granting special dispensation. Between Wavertree Jn. and Edge Hill station such vehicles must only be routed on the Down and Up Ditton Fast lines.
+London-North-Western-North	1005	NW2003	Runcorn - I.C.I. Salt Works (Runcorn Dock Branch)	8	W6A Ex. (W8)	R	R ELR: RDB, Bridge No.4 (Folly Lane, Siding Line) vehicles which exceed the RA of the line are prohibited.
+London-North-Western-North	1005	NW2005	Speke Jn. - Garston Jn.	8	SB1C (W9)	Y	
+London-North-Western-North	1005	NW2007	Allerton East Jn. - Garston Jn.	8	SB1C (W9)	Y	
+London-North-Western-North	1005	NW2009	Arpley Jn. - Ditton East Jn	8	W9 & W10	R	R W11 and W12 prohibited.
+London-North-Western-North	1005	NW2011	Walton Old Jn. - Arpley Jn.	8	W9 & W10	R	R W11 and W12 prohibited.
+London-North-Western-North	1005	NW2015	Ordsall Lane Jn. - Edge Hill	8	R1 R2	R3	R1 R2 R3 W12 Ordsall Lane Jn – Newton-le-Willows Jn SBC1 (W9) Newton-le-Willows Jn to Edge Hill ELR: DSE, Br.107 – RA9/10 loaded freight vehicles restricted to 30mph over bridge 20m 00ch and 19m 60ch.
+London-North-Western-North	1005	NW2017	Eccles – Weaste	8	/	Y	
+London-North-Western-North	1005	NW2019	Parkside Jn. - Lowton Jn. (East Curve lines).	8	W6A Ex. (W12)	R	R RA9/10 vehicles restricted to 10mph throughout.
+London-North-Western-North	1005	NW2021	Earlestown South. Jn. - Earlestown West Jn. (Liverpool Curve).	8	SB1C (W9)	Y	
+London-North-Western-North	1005	NW2023	Springs Branch Jn. - Huyton Jn. (St. Helens lines)	7	W9 & W10	Y	
+London-North-Western-North	1005	NW2025	St. Helens Station Jn. - Ravenhead Jn. (Out of use)	-	W6A Ex. (W8)	-	
+London-North-Western-North	1005	NW2027	Edge Hill, Bootle Branch Jn. - Regent Road L.C.	8	SB1C (W9)	Y	
+London-North-Western-North	1005	NW2029	Olive Mount Jn to Edge Lane Jn	8	W9 & W10	Y	
+London-North-Western-North	1005	NW3001	Crewe North Jn. – Chester East Jn.	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1005	NW3001	Chester East Jn – Holyhead	8	W6A Ex. (W7)	R1	R1 RA9/10 vehicles are restricted to 20mph between Valley and Ty Croes (256m 60ch to 255m 40ch) in the Up direction only.
+London-North-Western-North	1005	NW3003	Chester East Jn – Acton Grange Jn.	8	W6A Ex. (W7)	R	R CHW1 Br.9 (2m 56ch), Br.62 (13m 40ch), Br.63 (13m 40ch), Br.64 (13m 74ch): RA9/10 vehicles are restricted to 50mph over these bridges.

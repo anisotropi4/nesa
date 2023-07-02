@@ -1,24 +1,10 @@
-Western	0712	GW830	CAM	Abercynon Jn	Pontypridd Jn	Abercynon Jn – Pontypridd Jn	16	35	13	04	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW830	CAM	Pontypridd Jn	Radyr Jn	Pontypridd Jn – Radyr Jn	13	04	5	23	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW830	CAM	Radyr Jn	Queen Street North Jn	Radyr Jn – Queen Street North Jn	5	23	1	17	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW830	CAM	Queen Street North Jn	Queen Street South Jn	Queen Street North Jn – Queen Street South Jn	1	17	0	66	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW830	CEJ	Queen Street South Jn	Cardiff East Jn	Queen Street South Jn – Cardiff East Jn	0	22	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW830	SWM 2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW830	BRY	Cardiff West Jn	Barry Jn	Cardiff West Jn – Barry Jn	0	10	8	16	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW830	BRY	Barry Jn	Buffer Stops (Barry Island)	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW834	VON	Network Rail Boundary	Aberdare	Network Rail Boundary – Aberdare	26	62	22	34	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW834	VON/ ALK	Aberdare	Cwmbach Change of ELR	Aberdare – Cwmbach Change of ELR	22	34	20	68	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW834	ABD/ MOA	Cwmbach Change of ELR	Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW835	THT	End of Line	Treherbert	End of Line – Treherbert	23	69	23	54	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW835	THT	Treherbert	Pontypridd Jn	Treherbert – Pontypridd Jn	23	54	13	04	E	Y	Y	Y	N	N	N	N	N
-Western	0712	GW839	CAM	Queen Street South Jn	Cardiff Bay	Queen Street South Jn – Cardiff Bay	0	66	0	02	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW840	RAD	Radyr Jn	Leckwith Loop South Jn	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	E	Y	Y	Y	Y	Y	Y	R1 R2	R1 R2	R1 20mph Fairwater Up platform R2 20mph Ninian Park Down platform
-Western	0712	GW840	RAD	Leckwith Loop South Jn	Penarth Curve North Jn	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW840	RAD	Penarth Curve North Jn	Radyr Branch Jn	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW850	CLL	Leckwith Loop South Jn	Leckwith Loop North Jn	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW860	CPL	Penarth Curve North Jn	Penarth Curve South Jn	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW864	PTH	Cogan Jn	Penarth	Cogan Jn – Penarth	0	01	1	12	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW870	VOG	Barry Jn	Bridgend Bay Platform	Barry Jn – Bridgend Bay Platform	0	00	19	04	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW871	FOR	Ford Siding GF	Network Rail Boundary (Ford Works, Waterton)	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	N	N	N	N	N	N	N	N	N
-Western	0712	GW874	BAL	Llynfi Jn	Tondu Jn	Llynfi Jn – Tondu Jn	0	07	2	70	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0712	GW874	BAL	Tondu Jn	Maesteg	Tondu Jn – Maesteg	2	70	8	06	E	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0712	GW640	LIL	Liskeard – Coombe Jn	8	67	6	75	E	N	N	Y	R1	N	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
+Western	0712	GW640	LOO	Coombe Jn – Looe	6	52	0	19	E	N	N	Y	R1	N	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
+Western	0712	GW640	LOO	Coombe Jn – Coombe No.2 GF	6	52	6	66	E	N	N	Y	R1	N	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
+Western	0712	GW672	SDS	Burngullow Jn – Drinnick Mill	288	26	291	31	N	N	N	N	N	N	N	N	N	N	
+Western	0712	GW672	SDS	Drinnick Mill – Parkandillack	291	31	293	52	N	N	N	N	N	N	N	N	N	N	
+Western	0712	GW680	FAL1- 3	Penwithers Jn – Falmouth	301	25	312	46	E	N	N	Y	Y	N	N	Y	Y	N	
+Western	0712	GW690	SIV	St Erth – St Ives	321	02	325	13	E	N	N	Y	Y	N	N	Y	R1	N	R1 Prohibited St Erth bay platform
+Western	0712	GW700	BAG2	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	E	Y	Y	Y	Y	N	N	Y	Y	E	
+Western	0712	GW700	SWM2	Horton Road Jn – Route Boundary Wales	113	61	129	00	E	Y	Y	Y	Y	Y	Y	Y	Y	E R1	R1 Prohibited between Gloucester and Route Boundary Wales

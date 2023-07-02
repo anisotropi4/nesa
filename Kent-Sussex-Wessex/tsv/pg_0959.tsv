@@ -1,21 +1,15 @@
-Kent-Sussex-Wessex	0959	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
-Kent-Sussex-Wessex	0959	SO510	LBW	London Bridge platforms 10-15	Bricklayers Arms Jn	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	LBW	Bricklayers Arms Jn	New Cross Gate Up Jn	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	ELL1	New Cross Gate Up Jn	Network Rail Boundary / Up ELL	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	8	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0959	SO510	LBW	New Cross Gate Up Jn	New Cross Gate Down Jn	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	ELL1	New Cross Gate Down Jn	Network Rail Boundary / Down ELL	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	8	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0959	SO510	LBW	New Cross Gate Down Jn	Sydenham Down Jn	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	LBW	Sydenham Down Jn	Norwood Jn	Sydenham Down Jn – Norwood Jn	6	51	8	55	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	LBW	Norwood Jn	Norwood Fork Jn	Norwood Jn – Norwood Fork Jn	8	55	9	33	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	LBW	Norwood Fork Jn	Cottage Jn / Windmill Bridge Jn	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	NFE	Norwood Fork Jn	Sutton	Norwood Fork Jn – Sutton	9	33	14	75	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO510	NFE	Sutton	Epsom Downs	Sutton – Epsom Downs	14	75	18	60	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH1	Three Bridges	Crawley	Three Bridges – Crawley	29	21	30	49	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH1	Crawley	Horsham Jn	Crawley – Horsham Jn	30	49	37	39	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH1	Horsham Jn	Horsham	Horsham Jn – Horsham	37	39	37	56	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH1	Horsham	Billingshurst	Horsham – Billingshurst	37	56	44	71	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH1	Billingshurst	Arundel Jn	Billingshurst – Arundel Jn	44	71	59	75	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH2	Arundel Jn	Barnham	Arundel Jn – Barnham	19	01	22	29	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH2	Barnham	Route Boundary (SW110) (Havant Jn)	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0959	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
+Kent-Sussex-Wessex	0959	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0959	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	R1 R2 R3	R1 R2 R3	R1 R2 R3 R4	N	R1 15mph through Farringdon R2 OHLE must be isolated R3 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment R4 Route prohibited to Class 33/0 and 33/1
+Kent-Sussex-Wessex	0959	SO280	FTL	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	R1 R2	R1 R2	R1 R2	N	R1 OHLE must be isolated R2 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment
+Kent-Sussex-Wessex	0959	SO280	HHH	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
+Kent-Sussex-Wessex	0959	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns

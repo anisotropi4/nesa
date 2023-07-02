@@ -1,40 +1,59 @@
-                                                                                   OFFICIAL
+                                       Anglia Route Sectional Appendix Module AR2
 
 
-                                                             Anglia Route Sectional Appendix Module AR2
+     Table D2A – Route clearance of electric multiple units
+                                                                                 Last Updated: 30/04/2022
+     To be read in conjunction with General Notes.
+     357 MOD = 357 (Modified) and refers to Class 357 units that have had 65mm removed from the width of their footsteps
+
+     Line of ELR
+             Line of Route / Sector
+                                oooo oooo oooo oooo 313 315 317 319 321 322 325 345 357 357
+                                                                            Notes
+     route   Description         M  Ch M  Ch 000 000 000 000 000 000 000 000 000 MOD ooooooooooooooooooooooooooo
+     EA1010 LTN1 Liverpool Street platforms 1-10 –
+                                  0  00  0 22 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+             Liverpool St (L) IECC
+             Liverpool Street platforms 11-17 –
+     EA1010 LVS                   0  00  0 22 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+             Liverpool St (L) IECC
+     EA1010 LTN1 Liverpool St (L) IECC – Bethnal Green
+                                  0  22  1 10 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+             East Jn
+     EA1010 LTN1 Bethnal Green East Jn – Mile End
+                                  1  10  2 02 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+     EA1010 LTN1 Mile End – Bow Jn2  02  2 74 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+     EA1010 LTN1 Bow Jn – Carpenters Road South Jn
+                                  2  74  3 54 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+     EA1010 LTN1 Carpenters Road South Jn – Stratford
+                                  3  54  3 70 Y  Y  Y  N  Y  Y  H  Y  Y  Y
+             Central Jn West
+     EA1010 LTN1 Stratford Central Jn West – Stratford
+                                  3  70  3 75 Y  Y  Y  N  Y  Y  Y  Y  Y  Y
+             Central Jn East
+     EA1010 LTN1 Stratford Central Jn East – Forest
+                                  3  75  5 63 Y  Y  Y  N  Y  Y  Y  Y  Y  Y
+             Gate Jn
+     EA1010 LTN1 Forest Gate Jn – Ilford Depot London
+                                  5  63  7 63 Y  Y  Y  N  Y  Y  Y  Y  E  R1 R1Prohibited Ilford platform 3
+             End                                                      R1
+     EA1010 LTN1 Ilford Depot London End – Seven
+                                  7  63  8 45 R1 Y  Y  N  Y  Y  Y  Y  N  R2 R1Prohibited with shoe gear fitted
+             Kings                                                         R2 Prohibited Seven Kings platforms 1 and
+                                                                              2 (Down Main) – with deflated
+                                                                              suspension
+     EA1011 LTN1 Seven Kings – Romford Jn
+                                  8  45 12 39 R1 Y  Y  N  Y  Y  Y  Y  N  Y R1 Prohibited with shoe gear fitted
+     EA1011 LTN1 Romford Jn – Shenfield Jn
+                                  12 39 20 22 R1 Y  Y  N  Y  Y  Y  Y  N  R2 R1Prohibited with shoe gear fitted
+                                                                         R3 R2Prohibited Gidea Park platform 1 and
+                                                                              50mph through platform 2 with deflated
+                                                                              suspension
+                                                                           R3 Prohibited Brentwood Station platform 3
+                                                                              (Up Electric Line)
+     EA1011 LTN1 Shenfield Jn – Witham Jn
+                                  20 22 38 55 R1 Y  Y  N  Y  Y  Y  N  N  N R1 Prohibited with shoe gear fitted
 
 
-EA1480 WHC Change of Mileage (Site of Former       11   54     13    48   N    N      N       N   N   N   H    N   N   N
-       2   Roughton Road Jn) – Change of
-           Mileage (Site of Former Runton East
-           Jn)
-EA1480 WHC Change of Mileage (Site of Former       45   64     46    42   N    N      N       N   N   N   H    N   N   N
-       3   Runton East Jn) – Cromer
-EA1490 CRS     Cromer Jn – Network Rail Boundary   46   27     42    69   N    N      N       N   N   N   H    N   N   N
-               (North Norfolk Railway)
-EA1500 NAY     Brundall Jn – Yarmouth Via Acle     5    72     18    29   N    N      N       N   N   N   H    N   N   N
-EA1500 RBY     Breydon Access No24 LC (EA1510) –   19   13     20    45   N    N      N       N   N   N   H    N   N   N
-               Yarmouth
-EA1510 RBY    Reedham Jn – Breydon Access No24     12   34     19    13   N    N      N       N   N   N   H    N   N   N
-              LC
-EA1520 SIZ    Saxmundham Jn – Sizewell             91   40     95    79   N    N      N       N   N   N   N    N   N   N
-EA1530 CCH Coldham Lane Jn – Haughley Jn           0    23     40    49   N    N      N       N   N   N   H    N   N   N
-EA1540 SOB1 Chippenham Jn – Site of Former         0    63      0    00   N    N      N       N   N   N   H    N   N   N
-            Snailwell Jn
-EA1540 SOB2 Site of Former Snailwell Jn – Ely      1    54     12    33   N    N      N       N   N   N   H    N   N   N
-            Dock Jn
-EA1550 EWC Ely North Jn – Ely West Jn (Ely West    71   63     72    63   N    N      N       N   N   N   H    N   N   N
-           Curve)
-EA1560 EMP Ely North Jn – Ely West Jn              71   63     72    39   N    N      N       N   N   N   H    N   N   N
-EA1560 EMP Ely West Jn – Route Boundary            72   39     98    40   N    N      N       N   N   N   H    N   N   N
-           (LN135) (Peterborough)
-EA1570 WIG    March East Jn – Whitemoor Jn         85   78     86    18   N    N      N       N   N   N   N    N   N   N
-EA1570 MWL March West Jn – Whitemoor Jn            0    00      0    13   N    N      N       N   N   N   N    N   N   N
-EA1570 WIG    Whitemoor Jn – Wisbech               86   18     93    60   N    N      N       N   N   N   N    N   N   N   Line out of use (temporarily)
-EA1580 ETN    Ely North Jn – Trowse Jn             71   72    123    00   N    N      N       N   N   N   H    N   N   N
-EA1744 BFC    Europa Jn – Boss Hall Jn              0   00      0    63   N    N      N       N   N   N   EH   N   N   N
 
-
-
-
-August 2006                                                                        296C
+     August 2006                                   291

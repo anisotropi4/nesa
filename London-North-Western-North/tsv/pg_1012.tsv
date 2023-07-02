@@ -1,23 +1,15 @@
-London-North-Western-North	1012	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	1012	NW5010	SCQ1	Change of Mileage	Change of Mileage (Site of Former Milton Jn)	Change of Mileage – Change of Mileage (Site of Former Milton Jn)	0	00	3	51	6	Y
-London-North-Western-North	1012	NW5010	SCQ2	Change of Mileage (Site of Former Milton Jn)	Change of Mileage (Site of Former Leek Brook Jn)	Change of Mileage (Site of Former Milton Jn) – Change of Mileage (Site of Former Leek Brook Jn)	0	00	6	65	6	Y
-London-North-Western-North	1012	NW5010	SCQ3	Change of Mileage (Site of Former Leek Brook Jn)	Caldon Quarry	Change of Mileage (Site of Former Leek Brook Jn) – Caldon Quarry	0	00	8	01	6	Y
-London-North-Western-North	1012	NW5011	HNS	Heaton Norris Jn	Guide Bridge Station Jn	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	8	Y
-London-North-Western-North	1012	NW5012	NSS	Route Boundary (LN3505) (North Stafford Jn)	Stoke Jn	Route Boundary (LN3505) (North Stafford Jn) – Stoke Jn	1	40	0	00	8	Y
-London-North-Western-North	1012	NW5013	DJO1	Denton Jn	Change of Mileage (Site of Former Crowthorne Jn)	Denton Jn – Change of Mileage (Site of Former Crowthorne Jn)	4	10	5	28	8	Y
-London-North-Western-North	1012	NW5013	DJO2	Change of Mileage (Site of Former Crowthorne Jn)	Change of Mileage (Site of Former Ashton Moss South Jn)	Change of Mileage (Site of Former Crowthorne Jn) – Change of Mileage (Site of Former Ashton Moss South Jn)	0	53	1	19	8	Y
-London-North-Western-North	1012	NW5013	AMJ	Change of Mileage (Site of Former Ashton Moss South Jn)	Ashton Moss North Jn	Change of Mileage (Site of Former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Hadfield	Dinting East Jn	Hadfield – Dinting East Jn	12	61	12	00	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Dinting East Jn	Dinting West Jn	Dinting East Jn – Dinting West Jn	12	00	11	66	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Dinting West Jn	Hyde Jn	Dinting West Jn – Hyde Jn	11	66	6	16	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Hyde Jn	Guide Bridge West Jn	Hyde Jn – Guide Bridge West Jn	6	16	5	10	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Guide Bridge West Jn	Guide Bridge Station Jn	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Guide Bridge Station Jn	Ashburys East Jn	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Ashburys East Jn	Ashburys West Jn	Ashburys East Jn – Ashburys West Jn	1	56	1	36	8	Y
-London-North-Western-North	1012	NW5015	HAJ	Ashburys West Jn	Ardwick Jn	Ashburys West Jn – Ardwick Jn	1	36	0	40	8	Y
-London-North-Western-North	1012	NW5017	DSD	Dinting South Jn	Dinting East Jn	Dinting South Jn – Dinting East Jn	0	72	1	05	8	Y
-London-North-Western-North	1012	NW5019	GDW	Glossop	Dinting South Jn	Glossop – Dinting South Jn	0	01	0	72	8	Y
-London-North-Western-North	1012	NW5019	GDW	Dinting South Jn	Dinting West Jn	Dinting South Jn – Dinting West Jn	0	72	1	05	8	Y
-London-North-Western-North	1012	NW5021	SAJ	Stalybridge Jn	Guide Bridge West Jn	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	8	Y
-London-North-Western-North	1012	NW6001	COL	Manchester Piccadilly East Jn	Castlefield Jn	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	8	Y
-London-North-Western-North	1012	NW6001	COL	Castlefield Jn	Ordsall Lane Jn	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	8	Y
+Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	1012	NW8013	Canning Street Jn. - Hooton South Jn.	8	/	Y	
+London-North-Western-North	1012	NW8015	Bidston East Jn. – New Brighton (New Brighton lines)	6	/	R	R BEN Br.19 (6m 50ch - 6m 52ch) vehicles which exceed the RA of the line must not pass other loco hauled trains on the bridge.
+London-North-Western-North	1012	NW8017	Canning Street North - Rock Ferry South Jn. (Out of use)	-	/	-	
+London-North-Western-North	1012	NW9001	Dore West Jn. – Edgeley Jn. No.1 (Hope Valley Lines)	8	R	Y	R Clear to W6A Ex. (W7) Dore West Jn. - Hazel Grove HL Jn.
+London-North-Western-North	1012	NW9003	Chinley East Jn. - Chinley South Jn. (Chord Line)	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1012	NW9005	Chinley North Jn. - Buxton	8	R1	R2	R1 R2 Clear to W6A Ex. (W7) Chinley North Jn. - Great Rocks. RA9/10 loaded freight vehicles are restricted to 40mph Chinley North Jn. - Tunstead.
+London-North-Western-North	1012	NW9007	New Mills South Jn. - Ashburys East Jn.	8 R1	W6A Ex. (W7)	R2	R1 R2 This line is RA7 from Romiley Jn. to Ashburys East Jn ELR: TTA2, Br.18: RA8/9/10 loaded freight vehicles are restricted to 30mph over the bridge, Reddish Viaduct (43m 04ch – 43m 18ch).
+London-North-Western-North	1012	NW9009	Marple Wharf Jn. – Rose Hill	7	/	Y	
+London-North-Western-North	1012	NW9011	Romiley Jn. - Hyde Jn.	8	W6A Ex. (W7)	R	R RA9/10 loaded freight vehicles are restricted to 40mph maximum speed throughout.
+London-North-Western-North	1012	NW9013	Woodley Jn. – Bredbury Sidings	7	W6A Ex. (W7)	Y	
+London-North-Western-North	1012	NW9017	Hazel Grove High Level Jn. - Northenden Jn.	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1012	NW9019	Buxton - Brigg’s Sidings	8	/	Y	
+London-North-Western-North	1012	NW9021	Buxton – Hazel Grove East Jn	8	/	R	R ELR: BEJ, Br.42 – RA9/10 vehicles restricted to 5 mph over the bridge (10m 20ch – 10m 22ch) and must not pass any other train or vehicle on the bridge
+London-North-Western-North	1012	NW9901	Gargrave – Carlisle South Jn.	8	W6A Ex (W7)	R	R For RA9/10 loaded freight vehicles the following bridge specific restriction must be observed: ELR: SAC, Br.66 – 20 mph in both directions over the bridge “Ribblehead Viaduct” between Horton-in-Ribblesdale and Blea Moor (247m 40ch – 248m 00ch)

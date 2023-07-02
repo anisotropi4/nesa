@@ -1,16 +1,22 @@
-Kent-Sussex-Wessex	1032	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
-Kent-Sussex-Wessex	1032	SW180	BTH2	Route Boundary Sussex (Ewell East)	Epsom [Duplicated in SO680]	Route Boundary Sussex (Ewell East) – Epsom [Duplicated in SO680]	17	33	18	73	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW180	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SO680]	Epsom (Change of ELR) – Leatherhead [Duplicated in SO680]	14	27	18	02	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW180	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW180	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn (SO520) [Duplicated in SO680]	Route Boundary Sussex (Leatherhead) – Horsham jn (SO520) [Duplicated in SO680]	21	09	35	34	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW185	MPC	Motspur Park	Chessington South	Motspur Park – Chessington South	9	57	13	73	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW190	NMS1	New Malden	Fulwell Jn	New Malden – Fulwell Jn	9	62	14	53	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW190	NMS2	Fulwell Jn	Shepperton	Fulwell Jn – Shepperton	12	56	18	73	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW195	HAM	Hampton Court Jn	Hampton Court Up line	Hampton Court Jn – Hampton Court Up line	13	27	14	76	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW195	HAM	Hampton Court Jn	Hampton Court Down line	Hampton Court Jn – Hampton Court Down line	13	27	14	76	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW200	NGL	Hampton Court Jn	Effingham Jn	Hampton Court Jn – Effingham Jn	13	27	21	04	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW200	NGL	Effingham Jn	Guilford	Effingham Jn – Guilford	21	04	29	70	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW205	LEJ	Leatherhead	Effingham Jn	Leatherhead – Effingham Jn	18	02	22	15	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1032	SW210	RDG1	Clapham Jn	Point Pleasant Jn	Clapham Jn – Point Pleasant Jn	3	74	5	09	Y	N	N	N	Y	Y	Y
-Kent-Sussex-Wessex	1032	SW210	RDG1	Point Pleasant Jn	Richmond	Point Pleasant Jn – Richmond	5	09	9	57	Y	N	N	N	R1 R2 R3	R1 R2 R3	Y	R1 40mph North Sheen (Up direction) R2 40mph Mortlake (Up direction) R3 30mph Richmond (Up direction)
-Kent-Sussex-Wessex	1032	SW210	RDG1	Richmond	Virginia Water	Richmond – Virginia Water	9	57	23	15	Y	N	N	N	R1 R2 R3 R4 R5 R6 R7	R1 R2 R3 R4 R5 R6 R7	Y	R1 50mph Egham (Up direction) R2 40mph Ashford (Up direction) R3 30mph St Margarets (Up direction) R4 20mph Twickenham (Down direction) R5 50mph Felltham (Down direction) R6 50 mph Ashford (Down direction) R7 20mph Staines (Down direction)
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	1032	SO230	FFH2	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	8	Y	
+Kent-Sussex-Wessex	1032	SO240	BME2	Buckland Jn – Sandwich	99	05	86	46	8	Y	
+Kent-Sussex-Wessex	1032	SO240	BME2	Sandwich – Minster South	86	46	82	21	4	Y	
+Kent-Sussex-Wessex	1032	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	8	Y	
+Kent-Sussex-Wessex	1032	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	8	Y	
+Kent-Sussex-Wessex	1032	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	8	Y	
+Kent-Sussex-Wessex	1032	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	8	Y	
+Kent-Sussex-Wessex	1032	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	8	Y	
+Kent-Sussex-Wessex	1032	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	Y	
+Kent-Sussex-Wessex	1032	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	8	Y	
+Kent-Sussex-Wessex	1032	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	8	Y	
+Kent-Sussex-Wessex	1032	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	8	Y	
+Kent-Sussex-Wessex	1032	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	8	Y	
+Kent-Sussex-Wessex	1032	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	8	Y	
+Kent-Sussex-Wessex	1032	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	8	Y	
+Kent-Sussex-Wessex	1032	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	8	Y	
+Kent-Sussex-Wessex	1032	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	8	Y	
+Kent-Sussex-Wessex	1032	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	Y	
+Kent-Sussex-Wessex	1032	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	Y	
+Kent-Sussex-Wessex	1032	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	Y	
+Kent-Sussex-Wessex	1032	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y	

@@ -1,26 +1,3 @@
-Scotland	1087	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Scotland	1087	SC031	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC031	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC035	KSH	Bank Jn	Network Rail Boundary (Connel Park LC) / Knockshinnoch	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	10	N	N	Y	N	N	N
-Scotland	1087	SC036	GNN	Greenburn Jn	Greenburn Open Cast (Goods Line)	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	10	N	N	Y	N	N	N
-Scotland	1087	SC037	RIC1	Kay Park Jn	Bellfield	Kay Park Jn – Bellfield	0	00	1	06	10	N	N	Y	N	N	N
-Scotland	1087	SC037	RIC2	Bellfield	Riccarton (Goods Line)	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	N	N	Y	N	N	N
-Scotland	1087	SC039	BAK	Kilmarnock	Barassie	Kilmarnock – Barassie	0	05	7	56	10	N	N	Y	N	N	N
-Scotland	1087	SC045	EKE	East Kilbride	Busby Jn	East Kilbride – Busby Jn	7	60	0	40	5	N	N	N	N	N	N
-Scotland	1087	SC047	LFS2	Muirhouse South Jn	Change of ELR	Muirhouse South Jn – Change of ELR	1	19	0	61	10	N	N	Y	N	N	N
-Scotland	1087	SC047	LFS1	Change of ELR	Larkfield Jn	Change of ELR – Larkfield Jn	101	17	101	01	10	N	N	Y	N	N	N
-Scotland	1087	SC049	TSS	Muirhouse Central Jn	Terminus Jn	Muirhouse Central Jn – Terminus Jn	0	04	0	40	10	Y	Y	Y	Y	N	Y
-Scotland	1087	SC051	CTC	Muirhouse Central Jn	Cathcart North Jn (via Cathcart)	Muirhouse Central Jn – Cathcart North Jn (via Cathcart)	5	19	1	63	3	R1	R1	N	R1	R1	R1	R1 Route prohibited unless authorised by the Infrastructure Manager's structures engineer
-Scotland	1087	SC051	CTC	Cathcart North Jn	Muirhouse North Jn (via Crosshill)	Cathcart North Jn – Muirhouse North Jn (via Crosshill)	1	63	0	00	7	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC053	NNH	Neilston	Cathcart West Jn	Neilston – Cathcart West Jn	108	45	100	77	5	Y	N	N	N	N	N
-Scotland	1087	SC055	WCM2	Newton, Hamilton Jn	Newton Kirkhill Jn	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	10	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC055	KHL	Newton Kirkhill Jn	Cathcart West Jn	Newton Kirkhill Jn – Cathcart West Jn	96	77	100	77	7	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC057	CNC	Cathcart East Jn	Cathcart North Jn	Cathcart East Jn – Cathcart North Jn	0	45	0	00	7	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC059	WCM2	Glasgow Central	Bridge St Jn	Glasgow Central – Bridge St Jn	102	27	101	53	8	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC059	AYR1	Bridge St Jn	Cook St	Bridge St Jn – Cook St	0	00	0	19	8	Y	Y	Y	Y	N	Y
-Scotland	1087	SC059	LYE	Cook St	High St Line (Smithy Lye through line)	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	8	Y	Y	Y	Y	N	Y
-Scotland	1087	SC059	AYR1	Cook St	Shields Jn	Cook St – Shields Jn	0	19	1	00	8	Y	Y	Y	Y	N	Y
-Scotland	1087	SC059	AYR1	Shields Jn	Change of ELR (Paisley Gilmour Street)	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	10	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC059	AYR2	Change of ELR (Paisley Gilmour Street)	Change of ELR (Brown Street crossover)	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	10	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC059	AYR3	Change of ELR (Brown Street crossover)	Change of ELR (Dalry)	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	10	Y	Y	Y	Y	Y	Y
-Scotland	1087	SC059	AYR4	Change of ELR (Dalry)	Change of ELR (Barassie Jn)	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	10	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1087	SC141	WHL	Craigendoran Jn – Crianlarich Jn	0	01	36	30	5	Y	R1 R2 R3 R4 R5	R6 R7	R1 R2 R3 R4 R5	R1 R2 R3 R4 R5	R1 R2 R3 R4 R5	N	R1 10mph over bridge 26 (9m 52ch) R2 20mph over bridge 30 (11m 38ch) R3 20mph over bridge 97 (30m 50ch) R4 20mph over bridge 108 (33m 14ch) R5 Double Heading prohibited except for providing assistance and then at only 10mph over the above structures R6 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R7 Route prohibited to Class 47/4 locomotives that conform to RA7
+Scotland	1087	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	5	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10	R11 R12	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10	N	R1 40mph over bridge 116 (36m 39ch) R2 20mph over bridge 117 (36m 44ch) R3 30mph over bridge 131 (39m 65ch) R4 20mph over bridge 149 (45m 03ch) R5 20mph over bridge 151 (45m 43ch) R6 20mph over bridge 197 (61m 39ch) R7 20mph over bridge 201 (63m 50ch) R8 30mph over bridge 203 (64m 64ch) R9 20mph over bridge 259 (76m 29ch) R10 Double Heading prohibited except for providing assistance and then at only 10mph over the above structures R11 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R12 Route prohibited to Class 47/4 locomotives that conform to RA7

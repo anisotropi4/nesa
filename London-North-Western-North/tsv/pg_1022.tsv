@@ -1,21 +1,28 @@
-London-North-Western-North	1022	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	Gauge								Notes
-London-North-Western-North	1022	NW2009	SDJ2	End of line (Latchford)	Ditton East Jn	End of line (Latchford) – Ditton East Jn	10	06	18	55	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1022	NW2011	WOA1	Walton Old Jn	Arpley Jn	Walton Old Jn – Arpley Jn	0	68	0	00	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1022	NW2015	DSE	Ordsall Lane Jn	Newton-le-Willows Jn	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1022	NW2015	DSE	Newton-le-Willows Jn	Earlestown East Jn (Electrified section)	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1022	NW2015	DSE	Earlestown East Jn	Edge Hill	Earlestown East Jn – Edge Hill	14	75	1	78	Y * R1	Y	Y	Y	N	Y	Y	N	R1 * applies between between Bootle Branch Jn (1m 78ch) and Edge Hill
-London-North-Western-North	1022	NW2017	SCN	Eccles Station Jn	Weaste Branch Network Rail / MSC Boundary	Eccles Station Jn – Weaste Branch Network Rail / MSC Boundary	0	00	0	54	Y	N	N	N	N	N	N	N
-London-North-Western-North	1022	NW2019	PJL	Parkside Jn	Lowton Jn (East Curve lines)	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	1022	NW2021	EEE	Earlestown South Jn	Earlestown West Jn (Liverpool Curve)	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	Y	Y	Y	Y	N	N	N	N
-London-North-Western-North	1022	NW2023	SBH3	Springs Branch Jn	Gerards Bridge Jn	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	Y *	Y	Y	N	N	Y	Y	N
-London-North-Western-North	1022	NW2023	SBH2	Gerards Bridge Jn	St Helens Station Jn	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	Y *	Y	Y	N	N	Y	Y	N
-London-North-Western-North	1022	NW2023	SBH1	St Helens Station Jn	Huyton Jn	St Helens Station Jn – Huyton Jn	5	12	0	-18	Y *	Y	Y	N	N	Y	Y	N
-London-North-Western-North	1022	NW2025	SHS1	St Helens Station Jn	Sutton Oak Network Rail Boundary	St Helens Station Jn – Sutton Oak Network Rail Boundary	7	15	6	04	Y	N	N	N	N	N	N	N
-London-North-Western-North	1022	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road LC Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road LC Network Rail Boundary (MDHC)	0	14	5	53	Y *	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1022	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	Y	Y	Y	Y	N	Y	N	N
-London-North-Western-North	1022	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	41	Y *	Y	Y	N	N	N	N	N
-London-North-Western-North	1022	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	41	178	66	Y	N	N	N	N	N	N	N
-London-North-Western-North	1022	NW3001	CNH2	Chester East Jn	Change of ELR (Chester Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Chester Windmill Lane Tunnel)	178	66	179	56	Y *	Y	Y	N	N	N	N	N
-London-North-Western-North	1022	NW3001	CNH3	Change of ELR (Chester Windmill Lane Tunnel)	Route Boundary LNW / Wales (Rockcliffe Hall)	Change of ELR (Chester Windmill Lane Tunnel) – Route Boundary LNW / Wales (Rockcliffe Hall)	179	56	188	40	Y *	Y	Y	N	N	N	N	N
-London-North-Western-North	1022	NW3001	CNH3	Route Boundary LNW / Wales (Rockcliffe Hall)	Holyhead	Route Boundary LNW / Wales (Rockcliffe Hall) – Holyhead	188	40	263	56	Y *	N	N	N	N	N	N	N
-London-North-Western-North	1022	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	Y *	Y	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Western-North	1022	NW4033	CBC3	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	8	Y	
+London-North-Western-North	1022	NW4041	DAP	Dalton Jn – Park South Jn	0	00	0	76	8	Y	
+London-North-Western-North	1022	NW5001	CMP1	Crewe North Jn – Sandbach North Jn	158	17	162	62	8	Y	
+London-North-Western-North	1022	NW5001	CMP1	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	8	Y	
+London-North-Western-North	1022	NW5001	CMP1	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	8	Y	
+London-North-Western-North	1022	NW5001	CMP1	Cheadle Hulme North Jn – Edgeley Jn No.1	180	67	182	36	8	Y	
+London-North-Western-North	1022	NW5001	CMP2	Edgeley Jn No.1 – Edgeley Jn	182	36	182	59	8	Y	
+London-North-Western-North	1022	NW5001	CMP2	Edgeley Jn – Slade Lane Jn	182	59	186	46	8	Y	
+London-North-Western-North	1022	NW5001	CMP2	Slade Lane Jn – Ardwick Jn	186	46	188	08	8	Y	
+London-North-Western-North	1022	NW5001	CMP2	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	8	Y	
+London-North-Western-North	1022	NW5001	CMP2	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	8	Y	
+London-North-Western-North	1022	NW5003	STY	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	8	Y	
+London-North-Western-North	1022	NW5003	STY	Heald Green South Jn – Heald Green North Jn	2	50	3	13	8	Y	
+London-North-Western-North	1022	NW5003	STY	Heald Green North Jn – Slade Lane Jn	3	13	9	44	8	Y	
+London-North-Western-North	1022	NW5005	SMA	Heald Green South Jn – Heald Green West Jn	1	48	1	10	8	Y	
+London-North-Western-North	1022	NW5007	MIA	Manchester Airport – Heald Green North Jn	0	00	1	51	8	Y	
+London-North-Western-North	1022	NW5008	LEC6	Little Bridgeford Jn – Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	137	42	138	55	8	Y	
+London-North-Western-North	1022	NW5008	NBS	Searchlight Lane Jn (Change of ELR and mileage) – Stone Jn	4	06	0	00	8	Y	
+London-North-Western-North	1022	NW5008	NBS	Norton Bridge Jn – Yamfield Jn (Norton Bridge East Chord)	4	14	2	50	-	N	
+London-North-Western-North	1022	NW5009	CMD2	Colwich Jn – Stone Jn	38	61	27	00	8	Y	
+London-North-Western-North	1022	NW5009	CMD2	Stone Jn – Stoke Jn	27	00	20	36	8	Y	
+London-North-Western-North	1022	NW5009	CMD2	Stoke Jn – Glebe Street Jn	20	36	20	10	8	Y	
+London-North-Western-North	1022	NW5009	CMD2	Glebe Street Jn – Change of ELR	20	10	15	65	8	Y	
+London-North-Western-North	1022	NW5009	CMD1	Change of ELR – Kidsgrove Jn	16	00	13	68	8	Y	
+London-North-Western-North	1022	NW5009	CMD1	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR)	13	68	0	00	8	Y	
+London-North-Western-North	1022	NW5009	MCH	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	8	Y	
+London-North-Western-North	1022	NW5010	SCQ1	Glebe Street Jn – Change of Mileage	20	08	20	33	6	Y	

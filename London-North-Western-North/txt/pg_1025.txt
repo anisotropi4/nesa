@@ -1,50 +1,78 @@
-                                                                                 OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              LNW North Route Sectional Appendix Module NWRC
-Line of   ELR   Line of Route / Sector Description                                                    Gauge                  Notes
-route
-                                                                              W6A    W7     W8   W9    W9Plus W10 W10 W12
-                                                        M     Ch   M     Ch                                        A
-NW4011    MSM Morecambe South Jn – Morecambe             0    00     2   12    Y*     Y     Y     N       N    N   N   N
-               Buffer Stops
-NW4013    HBL Hest Bank Jn – Bare Lane Jn                0    00     1   30    Y      Y     Y     N       N    N   N   N
-NW4017    MHH Morecambe Jn – Heysham Port                0    00     4   01    Y*     Y     Y     N       N    N   N   N
-NW4019    OXW Oxenholme – Windermere                     0    00    10   15    Y      N     N     N       N    N   N   N
-NW4021    UCJ Upperby Jn – Bog Jn                        0    38     1   07    Y      Y     Y     Y       Y    Y   Y   Y
-NW4021    UCJ Bog Jn – Rome Street Jn                    1    07     1   23    Y      Y     N     N       N    N   N   N
-NW4023    ULR Upperby Jn – London Road Jn                0    00     0   34    Y      Y     Y     Y       Y    Y   Y   Y
-NW4025    MCG Currock Jn – Change of ELR (Site of        0    00     0   29    Y      Y     Y     Y       N    Y   Y   Y
-               Former Forks Jn)
-NW4025    SCG Change of ELR (Site of Former Forks        0    29     0   44    Y      Y     Y     Y       N    Y   Y   Y
-               Jn) – Bog Jn
-NW4027    BSN Bruntill Branch Jn – Stainton Jn via       0    66     0    2    Y      Y     Y     Y       N    Y   N   N
-               Down and Up Brunthill Branch Siding
-NW4027    ETC End of line Buffer Stops – Network Rail    96    6    95    6    Y      Y     Y     Y       N    Y   N   N
-               Boundary / Brunthill via Down and Up
-               Brunthill line
-NW4029    GJH Mossband Jn – Network Rail Boundary         3   02     0   24    –      –     –     –       –    –   –   –    Line Out of Use
-NW4031    GSW Gretna Jn – Route Boundary (SC031)        116   13   115   40    Y      Y     Y     N       N    N   N   N
-NW4033    CBC1 Carnforth North Jn – Carnforth Station     0   19     0   38    Y*     N     N     N       N    N   N   N
+                                       LNW North Route Sectional Appendix Module NWRC
+
+
+
+     Line of
+          ELR Line of Route / Sector
+                                  oo  oo oo oo RA Loco Gauge
+                                                           Notes
+     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                  M   Ch M  Ch
+               Miles Platting Jn – Brewery Jn
+     NW7001 MPR1                    1 30  1 52  8    Y
+               Brewery Jn – Thorpes Bridge Jn
+     NW7001 MPR1                    1 52  2 17  8    Y
+               Thorpes Bridge Jn – Castleton South
+     NW7001 MVN2                    2 17  8 21  8    Y
                Jn
-NW4033    CBC1 Carnforth Station Jn – Limit of           0    38     0   60    Y*     N     N     N       N    N   N   N
-               Electrification (Carnforth)
-NW4033    CBC1 Limit of Electrification (Carnforth) –    0    60    74   66    Y*     N     N     N       N    N   N   N
-               Whitehaven
-NW4033    CBC1 Whitehaven – Bransty SB (Change of        74   66    74   73    Y*     N     N     N       N    N   N   N
-               ELR)
-NW4033    CBC2 Bransty SB (Change of ELR) – Change       0    16    12   05    Y*    S1     S1    N       N    N   N   N    S1   Between Workington Main No.2
-               of ELR (Maryport)                                                                                                 SB (6m 53ch) and Change of
-                                                                                                                                 ELR (Maryport) the following
-                                                                                                                                 combinations are permitted to
-                                                                                                                                 run:
+               Castleton South Jn – Castleton East
+     NW7001 MVN2                    8 21  8 52  8    Y
+               Jn
+               Castleton East Jn – Hall Royd Jn
+     NW7001 MVN2                    8 52 19 61  8    R1   R1Prohibited through Summit Tunnel (Down L & Y)
+                                                     R2   R2Prohibited through Summit Tunnel (Up L & Y)
+                                                     R3   R3Prohibited through Deanroyd Tunnel (Down L & Y)
+               Hall Royd Jn – Route Boundary
+     NW7001 MVN2                   19 61 22 62  8    Y
+               (LN854) (Turners Lane Jn)
+     NW7005 CEHCastleton East Jn. – Castleton North
+                                    0 00  0 37  8    Y
+               Jn
+               Castleton South Jn – Castleton North
+     NW7005 CPI1                    8 21  8 50  8    Y
+               Jn
+               Castleton North Jn – Network Rail /
+     NW7005 CPI2                    8 50  9 04  8    Y
+               East Lancashire Railway Boundary
+               (Hopwood)
+     NW7007 FCOFarington Curve Jn – Ormskirk
+                                   25 64 12 15  8    Y
+               Farington Curve Jn – Lostock Hall
+     NW7009 FHR1                    0 00  0 75  8    Y
+               Depot
+               Lostock Hall Depot – Lostock Hall Jn
+     NW7009 FHR2                    0 75  1 42  8    Y
+               Lostock Hall Jn – Change of ELR (Site
+     NW7009 FHR3                    1 42  2 10  8    Y
+               of Former Bamber Bridge Jn)
+     NW7009 FHR4
+               Change of ELR (Site of Former
+                                    2 10 10 11  8    Y
+               Bamber Bridge Jn) – Blackburn Bolton
+               Jn
+               Blackburn Bolton Jn – Blackburn
+     NW7009 FHR4                   10 11 10 42  8    Y
+               Blackburn – Daisyfield Jn
+     NW7009 FHR5                   10 42 11 09  8    Y
+               Daisyfield Jn – Gannow Jn
+     NW7009 FHR5                   11 09 21 03  8    R1   R1Prohibited between Huncoat and Hapton on the Up East Lancs line
+               Gannow Jn – Hall Royd Jn
+     NW7009 FHR6                   21 03 30 54  8    R1   R1Prohibited between Burnley Manachester Road and Copy Pit on the
+                                                     R2     Down East Lancs line
+                                                          R2Prohibited between Burnley Manachester Road and Hall Royd Jn on
+                                                            the Up East Lancs line
+              Farington Jn – Limit of electrification
+     NW7011 LHL                     0 00  0 56  8    Y
+              Limit of electrification – Lostock Hall
+     NW7011 LHL                     0 56  0 77  8    Y
+              Jn (Lostock Hall Lines)
+              Daisyfield Jn – Hellifield
+     NW7013 DJH                    11 09 34 68  8    Y
 
-                                                                                                                                 Up to
-                                                                                                                                 2665(h), S21 TT x 2500(w)
-                                                                                                                                 on FAA, FKA, IKA wagons
 
-                                                                                                                                 2595(h), S11 TT, S14 FT x
-                                                                                                                                 2500(w)
-                                                                                                                                 on IFA, FIA wagons
 
-                                                                                    102
+
+                                                     91

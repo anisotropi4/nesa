@@ -1,46 +1,69 @@
-                                                                                        OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                         LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
 
 
 
 
-LN740    PYE2   Network Rail Boundary (ABP) – Site of     4    33    0      00     N       N       N      N         N   N   N
-                former Queens Road Jn
-LN740    PYE1   Site of former Queens Road Jn –          106   50   106     31     N       N       N      N         N   N   N
-                Immingham East Jn
-LN740    BRI2   Immingham East Jn – Humber Road          106   31   104     05     N       N       N      N         N   N   N
-                Jn
-LN741    HAU    Habrough – Ulceby South Jn                0    32    1      45     N       N       N      N         N   N   N
-LN742    KIL2   Killingholme – Immingham West             2    70    0      00     N       N       N      N         N   N   N
-                Change of Mileage
-LN742    KIL1   Immingham West Change of Mileage – 105         10   104     05     N       N       N      N         N   N   N
-                Humber Rd Jn
-LN742    BRI2   Humber Rd Jn – Ulceby North Jn           104   05   100     44     N       N       N      N         N   N   N
-LN742    BRI1   Ulceby North Jn – Brocklesby West Jn 100       44    99     20     N       N       N      N         N   N   N
-LN744    BAR    Ulceby North Jn – Barton on Humber       100   44   110     18     N       N       N      N         N   N   N
-LN746    TYB1   Cottam Power Station – Clarborough        71   79    68     32     N       N       N      N         N   N   N
-                Jn
-LN748    WHR    Retford Western Jn – Thrumpton West       64   29    63     28     N       N       N      N         N   N   N
-                Jn
-LN750    MAC3 Woodburn Jn – Deepcar                       42   29    33     35     N       N       N      N         N   N   N
-LN752    DOW    Wrawby Jn – Marshgate Jn                  33   34    0      03     N       N       N      N         N   N   N
-LN754    SAN    Scunthorpe Foreign Ore Branch             0    00    1      16     N       N       N      N         N   N   N
-LN756    NOP1   Scunthorpe Trent Jn – Site of former      0    00    0      28     N       N       N      N         N   N   N
-                Dawes Lane Jn
-LN756    NOP2   Site of former Dawes Lane Jn – NR         0    25    3      60     N       N       N      N         N   N   N
-                Boundary (Roxby)
-LN758    BKS    Brancliffe East Jn – St Catherines Jn     0    00    15     17     N       N       N      N         N   N   N
-LN758    BKS    St Catherines Jn – Low Ellers Curve Jn    15   17    15     55     N       N       N      N         N   N   N
-LN758    BKS    Low Ellers Curve Jn – Kirk Sandall Jn     15   55    20     49     N       N       N      N         N   N   N
-LN760    HAC    Firbeck Jn – Harworth Colliery            11   20    14     21     N       N       N      N         N   N   N   Line out of use (temporarily) until 09 May
-                                                                                                                                     2015
-                                                                                                                                NC/G1/2011/LNE/STNC/002
-LN762    YDS    St Catherines Jn – Decoy South Jn (St     15   17    15     71     N       N       N      N         N   N   N
-                Catherines Curve)
-LN764    UDS    Low Ellers Curve Jn – Potteric Carr Jn    15   55    16     56     N       N       N      N         N   N   N
-LN766    HJB    Bentley Jn – Hexthorpe Jn (Doncaster      3    24    0      00     N       N       N      N         N   N   N
-                Avoiding Line)
+     LN627LLP1Longlands Jn (Down Line) –
+                                   28 58 29 72  N   N   N   N  N   N   N
+              Boroughbridge Road LC
+     LN627LLP3Longlands Jn (Up Line) –
+                                   0  69  0 00  N   N   N   N  N   N   N
+              Boroughbridge Road LC
+     LN627LLP2Boroughbridge Road LC –
+                                   42 21 42 79  N   N   N   N  N   N   N
+              Northallerton East Jn
+     LN627LEN3Northallerton East Jn – Billingham Jn
+                                   42 79 63 69  N   N   N   N  N   N   N
+     LN627LEN3Billingham Jn – Ryhope Grange Jn
+                                   63 69 87 63  N   N   N   N  N   N   N
+     LN627LEN3Ryhope Grange Jn – Sunderland
+                                   87 63 89 56  N   N   N   N  N   N   N
+              South Jn
+     LN627LEN3Sunderland South Jn – Boldon East Jn
+                                   89 56 94 63  N   N   N   N  N   Y   N
+     LN627LEN3Boldon East Jn – Boldon West Jn
+                                   94 63 95 16  N   N   N   N  N   Y   N
+     LN627LEN3Boldon West Jn – Pelaw Metro Jn
+                                   95 16 97 64  N   N   N   N  N   Y   N
+     LN627LEN3Pelaw Metro Jn – Park Lane Jn
+                                   97 64 10065  N   N   N   N  N   N   N
+     LN627LEN3Park Lane Jn – High Level Bridge Jn
+                                  100 65 10133  N   N   N   N  N   N   N
+     LN627LEN3High Level Bridge Jn – Newcastle East 101
+                                      33 10159  N   N   N   N  N   N   N
+              Jn
+     LN628NEK South Hylton – Sunderland South Jn
+                                   3  20  0 00  N   N   N   N  N   Y   N
+     LN629PDL Pelaw Metro Jn – Network Rail
+                                   97 64 98 01  N   N   N   N  N   Y   N
+              Boundary (Metro Operating)
+     LN630PUL Pelaw Metro Jn – Network Rail
+                                   97 64 97 77  N   N   N   N  N   Y   N
+              Boundary (Metro Operating)
+     LN631DSN1Darlington South Jn – Eaglescliffe
+                                   0  29  8 58  N   N   N   N  N   N   N
+              South Jn
+     LN632DSN2Stockton Cut Jn – Redcar Change of
+                                   10 13 21 72  N   N   N   N  N   N   N
+              Mileage
+     LN632DSN3Redcar Change of Mileage – Saltburn
+                                   22 16 27 57  N   N   N   N  N   N   N
+     LN634MBW1 Guisborough Jn – Battersby Jn
+                                   0  00 10 54  N   N   N   N  N   N   N
+     LN634MBW2 Battersby Jn (End of Line) – Grosmont
+                                   11 61 29 66  N   N   N   N  N   N   N
+              Jn
+     LN634MBW3 Grosmont Jn – Whitby24 44 30 61  N   N   N   N  N   N   N
+     LN636No ELR Beam Mill Jn – Network Rail Boundary
+                                   18 03 18 67  N   N   N   N  N   N   N
+     LN638WCI Shell Jn – Network Rail Boundary
+                                   0  00  1 03  N   N   N   N  N   N   N
+     LN642SSK1Saltburn West Jn – Network Rail
+                                   27 05 34 29  N   N   N   N  N   N   N
+              Boundary (Cleveland Potash)
 
-October 2009                                                                                37U
+
+     October 2009                                   37R

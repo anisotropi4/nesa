@@ -1,20 +1,21 @@
-London-North-Eastern	1062	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1062	LN190	ACD	Allington East Jn	Allington North Jn (Allington Chord)	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	Y	N	Y	N	N	N	N	Y
-London-North-Eastern	1062	LN195	NOG1	Nottingham Branch Jn	Route Boundary (LN3635) (Rectory Jn SB)	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	Y	N	R1	N	N	N	N	R2	R1 Prohibited between Allington West Jn and Route Boundary (LN3635) (Rectory Jn SB) R2 Between Allington West Jn and Route Boundary (LN3635) (Rectory Jn SB), when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1062	LN200	NOB3	Wrawby Jn	Pelham Street Jn	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	N	N	N	N	N	N	N
-London-North-Eastern	1062	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn)	Coulson Change of ELR	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	Y	N	R1	N	N	N	N	Y	R1 Prohibited between Route Boundary (LN3625) (Nottingham East Jn) and Newark Crossing East Jn
-London-North-Eastern	1062	LN206	NOB2	Coulson Change of ELR	Boultham Jn	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	N	Y	N	N	N	N	Y
-London-North-Eastern	1062	LN206	NOB2	Boultham Jn	West Holmes Jn	Boultham Jn – West Holmes Jn	32	40	32	70	Y	N	Y	N	N	N	N	Y
-London-North-Eastern	1062	LN210	NSE	Newark Crossing South Jn	Newark Crossing East Jn	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	N	Y	N	N	N	N	Y
-London-North-Eastern	1062	LN215	BHP	Boultham Jn	Pyewipe Jn	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	N	Y	N	N	N	N	N
-London-North-Eastern	1062	LN220	BCB	Bessacarr Jn	Black Carr Jn	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	N	Y	Y	N	N	N	N
-London-North-Eastern	1062	LN235	FWR1	Rossington Colliery Jn	End of Line	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N
-London-North-Eastern	1062	LN235	FWR2	Rossington Colliery	End of Line	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N
-London-North-Eastern	1062	LN600	ECM2	Shaftholme Jn	Temple Hirst Jn	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1062	LN600	ECM3	Temple Hirst Jn	Colton Jn	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1062	LN600	ECM4	Colton Jn	Colton North Jn	Colton Jn – Colton North Jn	182	79	183	65	Y	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1062	LN600	ECM4	Colton North Jn	York Station	Colton North Jn – York Station	183	65	188	40	R1	N	Y	Y	Y	Y	Y	Y	R1 Prohibited York platforms 1 with deflated suspension
-London-North-Eastern	1062	LN600	ECM5	York Station	Birtley Jn	York Station – Birtley Jn	0	00	75	26	N	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1062	LN600	ECM5	Birtley Jn	Low Fell Jn (including via Tyne Yard)	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	N	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1062	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	N	N	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1062	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	N	N	Y	Y	N	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1062	LN160	FWR1	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1062	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	E	E	N	N	N	N	N	
+London-North-Eastern	1062	LN170	WEB	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1062	LN170	SPD1	Site of former Spalding South Jn – Sleaford South Jn	44	07	62	14	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1062	LN170	SPD2	Sleaford South Jn – Sleaford North Jn	62	14	63	48	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1062	LN170	SPD2	Sleaford North Jn – Site of former Greetwell West Jn	63	48	81	25	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1062	LN170	SPD3	Site of former Greetwell West Jn – Trent East Jn	81	25	98	56	R1	N	R2	N	Y	N	N	R3	R1 15 mph through Gainsborough Lea Road Down line platform R2 Prohibited Lincoln platform 2 with deflated suspension R3 Prohibited between West Holmes Jn and Trent East Jn
+London-North-Eastern	1062	LN170	MAC3	Trent East Jn – Trent West Jn	73	25	73	11	Y	N	Y	N	Y	N	N	N	
+London-North-Eastern	1062	LN170	SPD4	Trent West Jn – Bessacarr Jn	98	68	115	72	Y	N	Y	Y	N	N	N	N	
+London-North-Eastern	1062	LN170	SPD5	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	Y	N	Y	Y	N	N	N	N	
+London-North-Eastern	1062	LN175	SSE	Sleaford South Jn – Sleaford East Jn	0	00	0	43	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1062	LN180	SNW	Sleaford West Jn – Sleaford North Jn	1	34	3	42	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1062	LN185	ABE1	Allington West Jn – Site of former Barkston East Jn	0	00	4	08	Y	N	R1	N	N	N	N	Y	R1 Prohibited between Allington West Jn and Allington North Jn
+London-North-Eastern	1062	LN185	GRS1	Barkston East Jn – Site of former Honington Jn	110	12	112	00	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1062	LN185	GRS2	Site of former Honington Jn – Sleaford West Jn	112	00	120	29	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1062	LN185	GRS2	Sleaford West Jn – Sleaford East Jn	120	29	121	21	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1062	LN185	GRS2	Sleaford East Jn – Site of former Boston Sleaford Line Jn	121	21	137	06	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1062	LN185	GRS3	Site of former Boston Sleaford Line Jn – Boston	106	70	107	24	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1062	LN185	GRS3	Boston – Site of former Firsby East Jn	107	24	122	22	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1062	LN185	GRS4	Site of former Firsby East Jn - Skegness	0	28	9	17	Y	N	N	N	N	N	N	N	

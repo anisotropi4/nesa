@@ -1,22 +1,4 @@
-Kent-Sussex-Wessex	0927	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0927	SO220	ACR	Hitachi Depot (Access)	Minster West Jn	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO220	ACR	Minster West Jn	Minster East Jn	Minster West Jn – Minster East Jn	81	69	82	17	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO220	ACR	Minster East Jn	Ramsgate Substation	Minster East Jn – Ramsgate Substation	82	17	85	22	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO230	FFH2	Folkstone East Jn (SO130)	Folkstone Harbour	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO240	BME2	Buckland Jn	Sandwich	Buckland Jn – Sandwich	99	05	86	46	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO240	BME2	Sandwich	Minster South	Sandwich – Minster South	86	46	82	21	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO240	MSW	Minster South Jn	Minster West Jn	Minster South Jn – Minster West Jn	82	12	81	64	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO240	BME1	Minster South Jn	Minster East Jn	Minster South Jn – Minster East Jn	0	23	0	00	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	BSF	Battersea Pier Jn	Connection to Battersea Reversible	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	BSF	Connection to Battersea Reversible	Stewarts Lane Jn	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	BSF	Stewarts Lane Jn	Factory Jn	Stewarts Lane Jn – Factory Jn	1	36	1	61	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Longhedge Jn (via Battersea Reversible)	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	BSP2	Longhedge Jn	Pouparts Jn	Longhedge Jn – Pouparts Jn	1	66	2	19	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	FLL2	Longhedge Jn	Route Boundary (SW100) (Ludgate Jn)	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	CKL	Longhedge Jn	Latchmere Jn No.3	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	SCC	Latchmere Jn No.3	Route Boundary (SW100) (West London Jn)	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SW220]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SW220]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	CJL	Latchmere Jn No.2	Route Boundary (SW100) (Ludgate Jn)	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0927	SO250	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SW220]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	Y	Y	Y	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0927	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	1	75	Y	N	N	N	N	N	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0927	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	Y	N	N	N	E R1 R2 R3	E R1 R2 R3	N	Y	Y	Y	Y	R4	R1 45mph maximum speed R2 10mph Lewisham platform 4 (Down North Kent) R3 10mph Blackheath platform 2 R4 20mph Blackheath Station – Blackheath Jn, Up and Down North Kent, 07m 04ch to 07m 13ch
+Kent-Sussex-Wessex	0927	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	

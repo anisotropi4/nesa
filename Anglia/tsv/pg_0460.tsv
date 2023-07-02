@@ -1,3 +1,23 @@
-Anglia	0460	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	8	N	N	N	N	N	N	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode
-Anglia	0460	EA1325	ELL1	Network Rail Boundary (TFL ELL)	Canal Jn (TFL Infrastructure)	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	8	E R2 R5 R6	N	E R2 R7 R8	N	N	E R2 R5 R6	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 Train not to enter Dalston Junction platform 2 or 3 R4 15mph through platforms and not to exceed 20mph on the Infrastructure. Prohibited in diesel mode R5 Prohibited North of EL264 (5M9Ch) R6 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R7 Not to exceed 5mph R8 Prohibited north of Surrey Quays Portal (4M 38Ch)
-Anglia	0460	EA1325	ELL1	Canal Jn	TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	8	E R2 R5	N	E R2 R6	N	N	E R2 R5	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode R5 Not to exceed 25mph R6 Not to exceed 5mph
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+Anglia	0460	EA1440	FEL F	elixstowe Beach Jn – Felixstowe town	83	57	84	30	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1450	TFN T Q	rimley – Port of Felixstowe North uay Terminal	0	00	0	18	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1460	FED F B	elixstowe Beach Jn – Felixstowe each	83	57	86	34	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1470	NOL T	horpe Jn – Limit of Electrification	0	09	0	79	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1470	NOL L	imit of Electrification – Reedham Jn	0	79	12	34	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1470	NOL	Reedham Jn – Lowestoft	12	34	23	41	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1480	WHC1	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	6	Y	N	Y	R1	Y	N	Y	Y	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
+Anglia	0460	EA1480	WHC1	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	6	N	N	Y	R1	Y	N	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
+Anglia	0460	EA1480	WHC2	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	6	N	N	Y	R1	Y	N	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
+Anglia	0460	EA1480	WHC3	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	6	N	N	Y	R1	Y	N	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
+Anglia	0460	EA1490	CRS	Cromer Jn (Cromer 46m 42ch) – Sheringham 46m 42ch	46	27	42	69	6	N	N	Y	N	Y	N	Y	N	
+Anglia	0460	EA1500	NAY	Brundall Jn – Yarmouth Via Acle	5	72	18	29	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1500	RBY	Breydon Access No24 LC (EA1510) – Yarmouth	19	13	20	45	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1510	RBY	Reedham Jn – Breydon Access No24 LC	12	34	19	13	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1520	SIZ	Saxmundham Jn – Sizewell	91	40	95	79	7	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1530	CCH	Coldham Lane Jn – Haughley Jn	0	23	40	49	8	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1540	SOB1	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	8	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1540	SOB2	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	8	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1550	EWC	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	8	Y	N	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1560	EMP	Ely North Jn – Ely West Jn	71	63	72	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1560	EMP	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0460	EA1570	WIG	March East Jn – Whitemoor Jn	85	78	86	18	8	N	N	Y	Y	Y	Y	Y	N	

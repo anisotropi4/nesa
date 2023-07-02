@@ -1,16 +1,22 @@
-Western	0726	GW730	SHL	Shelwick Jn	Site of former Rotherwas Jn	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	R1	R1	N	R2	N	R2 R3	Y	Y	Y	Y	N	R1 Prohibited between Hereford Diesel Depot sidings and Site of Former Rotherwas Jn R2 Class 172/2 and 172/3 prohibited between Hereford Station and Site of former Rotherwas Jn R3 Route prohibited to Class 172/1
-Western	0726	GW730	HDC	Site of former Rotherwas Jn	Site of former Red Hill Jn	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	N	N	N	N	N	N	Y	Y	Y	Y	N
-Western	0726	GW730	HNL1	Site of former Red Hill Jn	Maindee West Jn	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	N	N	N	R1	N	N	Y	Y	Y	Y	N	R1 Prohibited between Site of former Red Hill Jn and Maindee North Jn
-Western	0726	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn)	Abbey Foregate Jn	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	N	N	Y	Y	N	N	Y	N	N	Y	N
-Western	0726	GW731	WSJ2	Abbey Foregate Jn	Crewe Jn	Abbey Foregate Jn – Crewe Jn	171	15	171	57	N	N	Y	Y	N	N	Y	R1 R2	N	R3 R4 R5	N	R1 Prohibited between Abbey Foregate Jn and Severn Bridge Jn R2 Prohibited between Shrewsbury and Crew Jn R3 3mph Shrewsbury platforms 3, 4 and 5 with deflated suspension R4 Prohibited Shrewsbury Bay platform 6 R5 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)
-Western	0726	GW731	WSJ2	Crewe Jn	Route Boundary (NW3005) (Wrexham General)	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	N	N	Y	Y	N	N	Y	N	N	R1	N	R1 3mph Ruabon Up and Down platforms with deflated suspension
-Western	0726	GW732	AFE	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	N	N	N	Y	N	N	Y	N	N	N	N
-Western	0726	GW733	SBA1/2	Sutton Bridge Jn	Welshpool	Sutton Bridge Jn – Welshpool	0	00	33	70	N	N	N	Y	N	N	N	N	N	N	N
-Western	0726	GW733	SBA2	Welshpool	Aberystwyth	Welshpool – Aberystwyth	33	70	95	60	N	N	N	Y	N	N	N	N	N	N	N
-Western	0726	GW734	DJP	Dovey Jn	Pwllheli	Dovey Jn – Pwllheli	78	60	132	70	N	N	N	Y	N	N	N	N	N	N	N
-Western	0726	GW735	SYC	Crewe Jn	Route Boundary (NW1007) (Limit of Electrification)	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	N	N	Y	Y	N	N	Y	N	N	R1	N	R1 3mph Whitchurch Up platform with deflated suspension
-Western	0726	GW736	GNQ1	Gobowen South	Commencement of single line board	Gobowen South – Commencement of single line board	0	00	0	16	N	N	N	N	N	N	N	N	N	N	N
-Western	0726	GW740	MAI	Maindee East Jn	Maindee North Jn	Maindee East Jn – Maindee North Jn	41	65	41	33	N	N	N	Y	N	N	Y	Y	N	N	N
-Western	0726	GW750	BNC	Hereford Yard Jn	Brecon Curve Jn	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	N	N	N	N	N	N	N	N	N	N	N
-Western	0726	GW750	HNL2	Brecon Curve Jn	MEB Siding	Brecon Curve Jn – MEB Siding	149	44	149	78	N	N	N	N	N	N	N	N	N	N	N
-Western	0726	GW770	EBW	Ebbw Vale Parkway	Site of Former Aberbeeg Jn	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	N	N	N	Y	N	N	Y	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
+Western	0726	GW500	BHL	Southcote Jn – Change of ELR	37	62	81	19	Y	Y	N	N	N	N	Y	Y	N	R1	R1	N
+Western	0726	GW500	SWY	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW500	WES	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW500	WEY	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW500	FRA	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW500	WEY	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW500	WEY	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	N	Y	N	Y	N	N	N	Y	N	Y	Y	N
+Western	0726	GW500	CCL	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	N	Y	N	N	N	N	Y	Y	N	R1	R1	N
+Western	0726	GW5001	SAL	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	N	Y	N	Y	N	N	N	N	N	N	N	N
+Western	0726	GW510	WEY	Westbury North Jn – Bradford Jn	109	49	104	40	R1	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW510	BFB	Bradford Jn – Bathampton Jn	9	12	0	00	Y	Y	N	N	N	N	Y	R1	N	Y	Y	N
+Western	0726	GW520	WYL	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW523	WEY	Thingley Jn – Bradford Jn	96	10	104	40	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW528	BRL	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW530	BLL	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW540	BSW	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW5401	PAC	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	Y	Y	N	N	N	N	N	Y	N	Y	Y	N
+Western	0726	GW548	POD/ PBY	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	N	N	N	N	N	N	N	N	N	N	N	N
+Western	0726	GW560	SWY	Heywood Road Jn – Westbury North Jn	94	45	95	33	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
+Western	0726	GW560	WEY	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	R1	R1	N	R1	N	N	Y	R1	N	R1	R1	N
+Western	0726	GW570	WEY	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N

@@ -1,13 +1,27 @@
-London-North-Western-North	0998	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0998	NW5012	Foley Crossing (excl.) - Stoke Jn.	Foley Crossing (excl.)	Stoke Jn.	8	W6A Ex (W7)	Y	
-London-North-Western-North	0998	NW5013	Denton Jn. - Ashton Moss North Jn.	Denton Jn.	Ashton Moss North Jn.	8	W6A Ex. (W7)	Y	
-London-North-Western-North	0998	NW5015	Hadfield - Ardwick Jn.	Hadfield	Ardwick Jn.	8	R1	R2	R1 R2	SB1C (W9) Hyde Jn. - Ardwick Jn. HAJ Br.51: RA9/10 vehicles are restricted to 20mph over the bridge (10mch - 10m 20ch); HAJ Br.54: RA9/10 vehicles are restricted to 20mph over the bridge (11m 40ch - 12mch).
-London-North-Western-North	0998	NW5017	Dinting South Jn. - Dinting East Jn.	Dinting South Jn.	Dinting East Jn.	8	/	N	
-London-North-Western-North	0998	NW5019	Glossop - Dinting West Jn.	Glossop	Dinting West Jn.	8	/	N	
-London-North-Western-North	0998	NW5021	Stalybridge - Guide Bridge West Jn.	Stalybridge	Guide Bridge West Jn.	8	SB1C (W9)	R	R	MVL3 Br.1: RA9/10 vehicles are restricted to 10mph over the bridge (7m 77ch - 8m 10ch).
-London-North-Western-North	0998	NW6001	Manchester Piccadilly East Jn. - Euxton Jn.	Manchester Piccadilly East Jn.	Euxton Jn.	8	R1 R2	R3	R1 R2 R3	SB1C (W9) Manchester Piccadilly East Jn. - Ordsall Lane Jn. W12 Castlefield Jn – Ordsall Lane Jn RA9/10 vehicles are restricted to 20mph Manchester Piccadilly East Jn. – Castlefield Jn.
-London-North-Western-North	0998	NW6003	Castlefield Jn. - Allerton Jn.	Castlefield Jn.	Allerton Jn.	7 R1	SB1C (W9)	R2	R1 R2	This route is RA8 between Castlefield Jn. and Trafford Park West Jn. RA8/9/10 vehicles permitted throughout, Castlefield Jn. to Allerton West Jn., subject to observance of the following restriction: MAJ Br.130 (18m 22ch to 18m 24ch) 10mph over the bridge. Note that RA8 vehicles are not heavy axle weight between Castlefield Jn. and Trafford Park West Jn.
-London-North-Western-North	0998	NW6004	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	Water Street Jn	Irwell Street Jn (Change of Mileage and ELR)	10	W6A Ex. (W12)	–	
-London-North-Western-North	0998	NW6004	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	Irwell Street Jn (Change of Mileage and ELR)	Deal Street Jn (Ordsall Curve lines)	10	W6A Ex. (W12)	–	
-London-North-Western-North	0998	NW6005	Manchester Victoria East Jn. - Windsor Bridge South Jn.	Manchester Victoria East Jn.	Windsor Bridge South Jn.	8	R	Y	R	SB1C (W9). Manchester Victoria East Jn. - Deal St.
-London-North-Western-North	0998	NW6007	Deal Street Jn. - Ordsall Lane Jn.	Deal Street Jn.	Ordsall Lane Jn.	8	SB1C (W9)	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0998	NW6013	LCN	Lostock Jn – Crow Nest Jn	13	39	17	18	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW6015	WKL1	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	7	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW6015	WKL2	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	7	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7001	MPR1	Miles Platting Jn – Brewery Jn	1	30	1	52	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7001	MPR1	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7001	MVN2	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7001	MVN2	Castleton South Jn – Castleton East Jn	8	21	8	52	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7001	MVN2	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7001	MVN2	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7005	CEH	Castleton East Jn – Castleton North Jn	0	00	0	37	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7005	CPI1	Castleton South Jn – Castleton North Jn	8	21	8	50	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7005	CPI2	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7006	SFO	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7007	FCO	Farington Curve Jn – Ormskirk	25	64	12	15	8	N	N	Y	N	N	N	
+London-North-Western-North	0998	NW7009	FHR1	Farington Curve Jn - Lostock Hall Depot	0	00	0	75	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR2	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR3	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR4	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR5	Blackburn – Daisyfield Jn	10	42	11	09	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR5	Daisyfield Jn – Gannow Jn	11	09	21	03	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7009	FHR6	Gannow Jn – Hall Royd Jn	21	03	30	54	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7011	LHL	Farington Jn - Limit of electrification	0	00	0	56	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7011	LHL	Limit of electrification - Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	H	H	Y	H	N	N	
+London-North-Western-North	0998	NW7013	DJH	Daisyfield Jn – Hellifield	11	09	34	68	8	H	H	Y	H	N	N	

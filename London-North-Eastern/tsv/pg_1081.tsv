@@ -1,16 +1,27 @@
-London-North-Eastern	1081	LN3201	SPC8	Derby Jn	Former Clay Cross South Jn	Derby Jn – Former Clay Cross South Jn	128	08	147	69	N	Y	N	E	Y	Y	Y	Y
-London-North-Eastern	1081	LN3201	SPC9	Former Clay Cross South Jn	Route Boundary (LN804 / LN806) (Tapton Jn)	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	N	Y	N	E	Y	Y	Y	Y
-London-North-Eastern	1081	LN3204	TSN1	Trent South Jn	Mansfield Jn	Trent South Jn – Mansfield Jn	119	17	125	64	N	Y	N	N	Y	Y	Y	Y
-London-North-Eastern	1081	LN3204	TSN2	Mansfield Jn	Nottingham East Jn	Mansfield Jn – Nottingham East Jn	124	22	123	27	N	Y	N	N	Y	Y	Y	R1	R1 Between Nottingham and Nottingham East Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
-London-North-Eastern	1081	LN3207	TCC	Trent East Jn	Change of ELR (between Morton Jn and Clay Cross North Jn)	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	N	Y	N	N	R1	Y	Y	Y	R1 Prohibited between Trent East Jn and Toton South Jn
-London-North-Eastern	1081	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn)	Clay Cross North Jn	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1081	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	E	N	N	N	N	N
-London-North-Eastern	1081	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	Carlton Road Jn (Tottenham Lines)	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	N	N	E	N	N	N	N	N
-London-North-Eastern	1081	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn)	Kentish Town Jn	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N
-London-North-Eastern	1081	LN3214	CBI	Canal Tunnel Jn	Belle Isle Jn	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N
-London-North-Eastern	1081	LN3219	CAW	Cricklewood Curve Jn	Route Boundary (LOR EA1360)	Cricklewood Curve Jn – Route Boundary (LOR EA1360)	5	19	5	72	N	Y	E	N	N	N	N	Y
-London-North-Eastern	1081	LN3222	BDH	Brent Curve Jn	Route Boundary (EA1360) (Dudding Hill)	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	E	Y	E	N	N	N	N	Y
-London-North-Eastern	1081	LN3228	TCC	Trent East Jn	Trent East ELR Change	Trent East Jn – Trent East ELR Change	119	70	119	56	N	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1081	LN3228	TES	Trent East ELR Change	Sheet Stores Jn	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	N	Y	N	N	Y	Y	Y	Y
-London-North-Eastern	1081	LN3231	WGP	Wigston South Jn	Glen Parva Jn	Wigston South Jn – Glen Parva Jn	95	37	96	07	N	Y	N	N	N	N	N	N
-London-North-Eastern	1081	LN3232	WNS	Wigston North Jn	Route Boundary (MD232) (Nuneaton South Jn)	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	N	Y	N	N	N	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1081	LN3201	SPC9	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3204	TSN1	Trent South Jn – Mansfield Jn	119	17	125	64	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3204	TSN2	Mansfield Jn – Nottingham East Jn	124	22	123	27	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3207	TCC	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1081	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1081	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1081	LN3214	CBI	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1081	LN3219	CAW	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	N	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1081	LN3222	BDH	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	N	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Eastern	1081	LN3228	TCC	Trent East Jn – Trent East ELR Change	119	70	119	56	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3228	TES	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3231	WGP	Wigston South Jn – Glen Parva Jn	95	37	96	07	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3232	WNS	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	Y	N	N	N	Y	Y	Y	Y	R1	R1	R1 15mph Hinckley Up platform
+London-North-Eastern	1081	LN3234	SEN	Syston East Jn – Syston North Jn	0	17	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3237	RUD	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1081	LN3240	LED	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1081	LN3246	AJM1	Ambergate Jn – Matlock	137	61	145	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3249	LSN	Lenton South Jn – Lenton North Jn	0	00	0	27	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1081	LN3252	MJT1	Mansfield Jn – Radford Jn	124	22	125	55	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3252	MJT2	Radford Jn – Trowell South Jn	125	55	130	51	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3255	RAC	Radford Jn – Newstead	125	55	134	20	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3255	RAC	Newstead – Kirkby Lane End Jn	134	20	136	66	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3261	THL	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1081	LN3264	AML	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	

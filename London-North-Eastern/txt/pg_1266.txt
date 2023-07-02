@@ -1,45 +1,73 @@
-                                                                                         OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                    LNE Route Sectional Appendix Module LNRC
+                                        LNE Route Sectional Appendix Module LNRC
+
+
+
+       Line of
+             ELR Line of Route / Sector Description
+                                     oooo oooo oooo oooo
+                                                  RA  Loco Gauge
+                                                              Notes
+       route                          M  Ch M  Ch 00000000000000
+                                                             ooooooooooooooooooooooooooooooooooooooooooooooo
+
+       LN101 ECM1Marshgate Jn – Shaftholme Jn
+                                     156 26 16016  9    Y
+       LN105 MEB1Moorgate – Drayton Park
+                                      0  00  2 56  9    N
+       LN105 MEB1Drayton Park – Finsbury Park Jn
+                                      2  56  3 37  9    Y
+       LN110 CFP Route Boundary (EA1320) (Canonbury
+                                      3  20  4 33  9    Y
+                 West Jn) – Finsbury Park Jn
+       LN115 CRF1Copenhagen Jn – Route Boundary
+                                      0  00  0 20 10    Y
+                 (EA1320) (North London Incline)
+       LN120 HDB Wood Green Jn – Langley Jn via Hertford
+                                      5  07 28 15  9    R1   R1Prohibited Hertford North bay platform 3
+       LN120 HDB Langley Jn via Hertford – Stevenage
+                                      28 15 29 00  9    N
+                 platform 5 (End of line)
+       LN125 SBR Cambridge Jn – Route Boundary (EA1230)
+                                      32 11 45 60  9    Y
+                 (Meldreth)
+       LN126 DCF Hitchin North Jn – Hitchin East Jn
+                                      32 53 34 03  9    Y
+       LN135 EMP Route Boundary (EA1560) (Ely West Jn) –
+                                      98 40 10066  9    Y
+                 Crescent Jn
+       LN145 WDU Marholm Jn – Glinton Jn
+                                      0  00  1 64 10    Y
+       LN147 PMJ Helpston Jn – Route Boundary (LN3615)
+                                      16 71 13 60  9    Y
+                 (Uffington SB)
+       LN150 SPD5Flyover East – Decoy North Jn
+                                     116 20 11746  8    Y
+       LN155 LCJ Flyover East Jn – Loversall Jn (Up
+                                     152 79 15236  8    Y
+                 Loversall Curve)
+       LN160 LCR Loversall Carr Jn – Rossington Colliery Jn
+                                     152 00 15212  8    Y
+       LN160 FWR1Rossington Colliery Jn – Flyover West Jn
+                                     152 12 15319  8    Y
+       LN165 HPW Route Boundary (EA1370) (Harringay Park
+                                      0  14  0 03  9    Y
+                 Jn) – Harringay Jn
+       LN170 WEB Werrington Jn – Site of Former Spalding
+                                      79 34 92 58  8    Y
+                 South Jn
+       LN170 SPD1Site of Former Spalding South Jn –
+                                      44 07 62 14  8    Y
+                 Sleaford South Jn
+       LN170 SPD2Sleaford South Jn – Sleaford North Jn
+                                      62 14 63 48  8    Y
+       LN170 SPD2Sleaford North Jn – Site of Former
+                                      63 48 81 25  8    Y
+                 Greetwell West Jn
 
 
 
 
-    Line of    ELR    Line of Route / Sector                  oooo oooo oooo oooo RA Loco Gauge Notes
-    route             Description                              M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-    LN627      LLP1   Longlands Jn (Down Line) –               28     58     29    72    8          Y
-                      Boroughbridge Road LC
-    LN627      LLP3   Longlands Jn (Up Line) –                  0     69      0    00    8          Y
-                      Boroughbridge Road LC
-    LN627      LLP2   Boroughbridge Road LC –                  42     21     42    79    8          Y
-                      Northallerton East Jn
-    LN627      LEN3   Northallerton East Jn – Billingham Jn    42     79     63    69    8          Y
-    LN627      LEN3   Billingham Jn – Ryhope Grange Jn         63     69     87    63    8          Y
-    LN627      LEN3   Ryhope Grange Jn – Sunderland            87     63     89    56    8          Y
-                      South Jn
-    LN627      LEN3   Sunderland South Jn – Boldon East Jn     89     56     94    63    8          Y
-    LN627      LEN3   Boldon East Jn – Boldon West Jn          94     63     95    16    8          Y
-    LN627      LEN3   Boldon West Jn – Pelaw Metro Jn          95     16     97    64    8          Y
-    LN627      LEN3   Pelaw Metro Jn – Park Lane Jn            97     64   100     65    8          Y
-    LN627      LEN3   Park Lane Jn – High Level Bridge Jn     100     65   101     33    8          Y
-    LN627      LEN3   High Level Bridge Jn – Newcastle        101     33   101     59    5          Y
-                      East Jn
-    LN628      NEK    South Hylton – Sunderland South Jn        3     20      0    00    8          Y
-    LN629      PDL    Pelaw Metro Jn – Network Rail            97     64     98    01    8          Y
-                      Boundary (Metro Operating)
-    LN630      PUL    Pelaw Metro Jn – Network Rail            97     64     97    77    8          Y
-                      Boundary (Metro Operating)
-    LN631      DSN1   Darlington South Jn – Eaglescliffe        0     29      8    58    8          Y
-                      South Jn
-    LN632      DSN2   Stockton Cut Jn – Redcar Change of       10     13     21    72    8          Y
-                      Mileage
-    LN632      DSN3   Redcar Change of Mileage – Saltburn      22     16     27    57    8          Y
-    LN634      MBW1 Guisborough Jn – Battersby Jn               0     00     10    54    7          Y
-    LN634      MBW2 Battersby Jn (End of Line) – Grosmont      11     61     29    66    7          Y
-                    Jn
-    LN634      MBW3 Grosmont Jn – Whitby                       24     44     30    61    7          Y
-    LN636      No     Beam Mill Jn – Network Rail Boundary     18     03     18    67    8          Y
-               ELR
-    LN638      WCI    Shell Jn – Network Rail Boundary          0     00      1    03    8          Y
-October 2009                                                                                 111
+    October 2009                                    108

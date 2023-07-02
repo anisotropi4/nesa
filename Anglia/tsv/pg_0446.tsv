@@ -1,17 +1,21 @@
-Anglia	0446	EA1160	BGK	Bethnal Green East Jn	Reading 1 10 Lane Jn	Bethnal Green East Jn – Reading 1 10 Lane Jn	2 55 4		R1 R2		N		R1 R2	R1 R2		R1 R2		R1 R2		R1 R2		R1 R2		R1 10mph maximum speed except for movements permitted by R2 R2 Single light engines and/or single headed locomotives hauled passenger and infrastructure measurement trains are permitted to run at line speed subject to the following restrictions: Fast lines 20mph over Bridge 1361 (2m 38ch) Suburban lines 20mph over Bridge 1337 (01m 20ch) NC/G1/2010/CP-RA/EA001V until 31 March 2022
-Anglia	0446	EA1160	BGK	Reading Lane Jn	Hackney Downs 2 55 North Jn	Reading Lane Jn – Hackney Downs 2 55 North Jn	3 04 4		R1		N		R1	R1		R1		R1		R1		R1		R1 10mph maximum speed
-Anglia	0446	EA1160	BGK	Hackney Downs North Jn	3 04 Coppermill Jn	Hackney Downs North Jn – 3 04 Coppermill Jn	4 74 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1160	BGK	Coppermill Jn	Tottenham South Jn 4 74	Coppermill Jn – Tottenham South Jn 4 74	5 41 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1160	BGK	Tottenham South Jn	Bishops 5 41 Stortford (Cannons Mill Lane Footpath LC (R/G-X)	Tottenham South Jn – Bishops 5 41 Stortford (Cannons Mill Lane Footpath LC (R/G-X)	31 31 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1161	BGK	(Cannons Mill Lane Footpath LC 31 31 (R/G-X) Stansted Mountfitchet	Shepreth Branch Jn	(Cannons Mill Lane Footpath LC 31 31 (R/G-X) Stansted Mountfitchet – Shepreth Branch Jn	53 06 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1161	BGK	Shepreth Branch Jn	Ely Dock Jn 53 06	Shepreth Branch Jn – Ely Dock Jn 53 06	69 79 8		Y		Y		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1161	BGK	Ely Dock Jn	Ely North Jn 69 79	Ely Dock Jn – Ely North Jn 69 79	71 68 8		Y		Y		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1162	BGK	Ely North Jn	Kings Lynn 71 68	Ely North Jn – Kings Lynn 71 68	96 75 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1170	HDT	Hackney Downs North Jn	Seven 3 04 Sisters Jn	Hackney Downs North Jn – Seven 3 04 Sisters Jn	5 70 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1170	HDT	Seven Sisters Jn	Bury Street Jn 5 70	Seven Sisters Jn – Bury Street Jn 5 70	9 20 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1170	ENT	Bury Street Jn	Enfield Town (NOT 9 20 ON D5)	Bury Street Jn – Enfield Town (NOT 9 20 ON D5)	10 55 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1180	GRE	Reading Lane Jn	Navarino Road Jn 2 55 (Graham Rd Curve)	Reading Lane Jn – Navarino Road Jn 2 55 (Graham Rd Curve)	2 79 8		Y		N		Y	Y		Y		Y		Y		Y	
-Anglia	0446	EA1190	HDT	Bury Street Jn	Cheshunt Jn 9 2	Bury Street Jn – Cheshunt Jn 9 2	0 14 28	8		Y		N	Y		Y		Y		Y		Y		Y
-Anglia	0446	EA1200	CJC	Clapton Jn	Chingford 4 3	Clapton Jn – Chingford 4 3	7 10 33	7		Y		N	Y		Y		Y		Y		Y		Y
-Anglia	0446	EA1210	HEB	Broxbourne Jn	Hertford East 18 3	Broxbourne Jn – Hertford East 18 3	5 24 19	9		Y		N	Y		Y		Y		Y		Y		Y
-Anglia	0446	EA1220	TLA	Stansted South Jn	Stansted East Jn 33 5	Stansted South Jn – Stansted East Jn 33 5	4 34 26	8		Y		N	Y		Y		Y		Y		Y		Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+Anglia	0446	EA1220	TEN	Stansted North Jn – Stansted East Jn	0	00	0	49	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1220	TLA	Stansted East Jn –Stansted Airport	34	26	36	67	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 Stansted Airport platforms 1 and 3 diesel traction see Sectional Appendix Local Instructions
+Anglia	0446	EA1230	SBR	Route Boundary (LN125) (Royston) – Shepreth Branch Jn	45	60	55	26	9	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1270	MIT	Kings Lynn Jn – Middleton towers	0	22	3	44	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1270	MIT	Kings Lynn Jn – Kings Lynn Yard branch end	0	22	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1280	SDC	Stratford Central Jn East – Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)	3	76	4	45	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1280	SDC	Temple Mills East Jn – Coppermill Jn	4	45	7	14	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1290	TSE2	Tottenham South Jn – Change of mileage	5	41	5	54	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1290	TSE1	Change of mileage – South Tottenham East Jn	6	22	5	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1300	SSL	South Tottenham West Jn – Seven Sisters Jn	0	13	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	BOK2	Camden Road West Jn – Gospel Oak Jn	0	00	1	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	BOK2	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	KGC	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)	0	00	0	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	KGW	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	BOK3	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	WMB	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	BOK4	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	BOK4	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	BOK5	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connecton to GW130)	0	66	0	72	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0446	EA1310	AWL	Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	8	Y	Y	Y	Y	Y	Y	Y	Y	

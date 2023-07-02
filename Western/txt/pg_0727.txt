@@ -1,46 +1,67 @@
-                                                                                  OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW770   WVL     Site of Former Aberbeeg Jn – Park Jn      14     23     1    02    N      N   N   Y    N   N   Y   N   N    N   N
-GW770   GAE     Park Jn – Gaer Jn (Western Valley Line) 160      24   159    33    N      N   N   Y    N   N   Y   N   N    N   N
-GW773   BJR     Machen Quarry – Site of Former              4    69     0    00    N      N   N   N    N   N   N   N   N    N   N
-                Bassaleg Jn
-GW773   WVL     Site of Former Bassaleg Jn – Park Jn        2    05     1    10    N      N   N   Y    N   N   N   N   N    N   N
-                (Machen Branch)
-GW780   WVL     Park Jn – Park Jn SB                        1    02     0    74    N      N   N   Y    N   N   Y   N   N    N   N
-GW780   NWN     Park Jn SB – Ebbw Jn                        0    54     0    00    N      N   N   Y    N   N   Y   N   N    N   N
-GW784   NLL     Alexandra Dock Jn – Network Rail          159    60   160    27    N      N   N   N    N   N   N   N   N    N   N
-                Boundary (Newport Docks)
-GW790   ROC     Pengam Jn – Change of ELR                 168    20   168    61    N      N   N   N    N   N   N   N   N    N   N
-GW790   ROA     Change of ELR – Network Rail                3    41     4    54    N      N   N   N    N   N   N   N   N    N   N
-                Boundary (ABP Cardiff Docks)
-GW810   CAR     End of Line (Rhymney) – Ystrad            24     00    13    41    N      N   N   N    N   N   N   N   N    N   N
-                Mynach South Jn
-GW810   CAR     Ystrad Mynach South Jn – Heath Jn         13     41     3    32    N      N   N   N    N   N   N   N   N    N   N
-GW810   CAR     Heath Jn – Cardiff Queen Street North       3    32     1    22    N      N   N   N    N   N   N   N   N    N   N
-                Jn
-GW820   TBD     Network Rail Boundary (Cwmbargoed)        19     59    13    53    N      N   N   N    N   N   N   N   N    N   N
-                – Site of Former Taff Bargoed Branch
-                Jn
-GW820   VON     Site of Former Taff Bargoed Branch Jn     13     53    12    41    N      N   N   N    N   N   N   N   N    N   N
-                – Site of Former Penallta Jn
-GW820   PTA     Site of Former Penallta Jn – Ystrad       15     01    13    41    N      N   N   N    N   N   N   N   N    N   N
-                Mynach South Jn
-GW828   CRY     Coryton – Heath Jn                          2    57     0    15    N      N   N   N    N   N   N   N   N    N   N
-GW830   CAM     Merthyr Tydfil – Abercynon Jn             24     44    16    35    N      N   N   N    N   N   N   N   N    N   N
-GW830   CAM     Abercynon Jn – Pontypridd Jn              16     35    13    04    N      N   N   N    N   N   N   N   N    N   N
-GW830   CAM     Pontypridd Jn – Radyr Jn                  13     04     5    23    N      N   N   N    N   N   N   N   N    N   N
-GW830   CAM     Radyr Jn – Queen Street North Jn            5    23     1    17    N      N   N   N    N   N   N   N   N    N   N
-GW830   CAM     Queen Street North Jn – Queen Street        1    17     0    66    N      N   N   N    N   N   Y   Y   N    N   N
-                South Jn
-GW830   CEJ     Queen Street South Jn – Cardiff East Jn     0    22     0    00    N      N   N   N    N   N   Y   Y   N    N   N
-GW830   SWM2 Cardiff East Jn – Cardiff West Jn            170    18   170    56    N      Y   N   Y    N   N   Y   Y   R1   Y   N R1   Prohibited Cardiff Central platform
-                                                                                                                                       8
-GW830   BRY     Cardiff West Jn – Barry Jn                  0    10     8    16    N      N   N   R1   N   N   Y   Y   Y    Y   N R1   Prohibited between Grangetown
-                                                                                                                                       and Barry Jn
-GW830   BRY     Barry Jn – Buffer Stops (Barry Island)      8    16     8    76    N      N   N   N    N   N   N   N   N    N   N
+       GW572 FNS2Frome North Jn – Change of ELR
+                                       0  00  2 38 N  N N  N N  N  N N  N  N N  N
+       GW572 WQL Change of ELR – Network Rail
+                                       2  38  2 40 N  N N  N N  N  N N  N  N N  N
+                 Boundary (Mendip Rail - Whatley
+                 Quarry)
+       GW580 ESB East Somerset Jn – Network Rail
+                                       0  11  5 48 N  N N  N N  N  N N  N  N N  N
+                 Boundary (East Somerset Railway -
+                 Cranmore East)
+       GW600 SWB Wootton Bassett Jn – Stoke Gifford Jn
+                                       83 07111 79 Y  Y N  R1N  N  Y Y  N R2 R2 N R1Prohibited between Wootton
+                 No.1                                                               Bassett Jn and Westerleigh Jn
+                                                                                  R2100mph maximum speed
+       GW600 SWB Stoke Gifford Jn No.1 – Patchway Jn
+                                      111 79112 68 Y  Y N  Y N  N  Y Y  N R1 R1 N R1100mph maximum speed
+                 No.2
+       GW600 BSW Patchway Jn No.2 – Route Boundary
+                                       5  61  9 12 N  Y N  Y N  N  Y Y  N  Y Y  N
+                 Wales
+       GW600 BSW Route Boundary – Ableton Lane Tunnel
+                                       9  12 10 51 N  Y N  Y N  N  Y Y  N  Y Y  N
+                 (GW900)
+       GW606 DAC Cowley Bridge Jn – Crediton SB
+                                      173 50179 26 N  Y N  N N  N  N N  N  N N  N
+       GW606 NDN Crediton SB – End of Line (Barnstaple)
+                                      179 26211 31 N  Y N  N N  N  N N  N  N N  N
+       GW608 DAC Crediton – Former Coleford Jn
+                                      179 26183 69 N R1 N  N N  N  N N  N  N N  N R1Up to 3 cars
+       GW608 DAC Former Coleford Jn – Meldon Quarry
+                                      183 69198 72 N  R1N  N N  N  N N  N  N N  N R1Up to 3 cars
+                                                     R2                           R2Prohibited Okehampton
+                                                                                    Groundframe to Meldon Quarry
+       GW610 BAE2Route Boundary (SW115) (Honiton) –
+                                      164 30172 04 N R1 N  Y N  N  N Y  N  Y Y  N R1Prohibited Route Boundary
+                 Exeter St Davids Jn                                                (SW115) (Honiton) - Single Line
+                                                                                    Jn (Signal EJ1) (168m 00ch
+       GW611 EMT Exmouth Jn – Exmouth  0  01  9 32 N R1 N  N N  N  N N  N  Y Y  N R1Prohibited Polsloe Bridge Halt
+                                                                                    Single line with crush deflated
+                                                                                    suspension
+       GW618 MOB Newton Abbott East Jn – End of Line
+                                       0  14  4 07 N  N N  N N  N  N N  N  N N  N
+                 (Beyond Heathfield)
+       GW620 TOR Newton Abbott West Jn – Paignton
+                                      214 43222 25 N  Y N  E N  N  Y Y  N  Y Y  N
+                 Crossover Ground Frame
+       GW628 SUT1Laira Jn – Speedway Jn
+                                      244 02244 30 N  Y N  N N  N  N N  N  Y Y  N
+       GW628 PLO Lipson Jn – Speedway Jn
+                                       0  00  0 22 N  Y N  N N  N  Y Y  N  Y Y  N
+       GW628 SUT1Speedway Jn – Mount Gould Jn
+                                      244 30244 43 N  Y N  N N  N  Y Y  N  Y Y  N
+       GW628 SUT2Mount Gould Jn – Former Friary Jn
+                                      244 41244 60 N  Y N  N N  N  N N  N  Y Y  N
+       GW628 FRY Former Friary Jn – Turnchapel Branch
+                                      244 60245 17 N  N N  N N  N  N N  N  N N  N
+                 Jn
 
 
-  April 2009                                                                       498J
+
+
+         April 2009                                498G

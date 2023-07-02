@@ -1,46 +1,67 @@
-                                                                                         OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                          LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
 
 
 
 
-Line of ELR     Line of Route / Sector Description             oooo oooo oooo oooo RA           60   66   67         68    70   73  97/3    Notes
-route                                                           M    Ch M      Ch              0000 0000 0000             0000 0000 0000
-LN600    ECM5 Low Fell Jn – King Edward Bridge South Jn         77   37     79    42     9        Y     Y       Y    Y     Y    Y    Y
-LN600    ECM5 King Edward Bridge South Jn – Newcastle           79   42     80    05     9        Y     Y       Y    Y     Y    Y    Y
-              West Jn
-LN600    ECM6 Newcastle West Jn – Newcastle                     80   05     80    16     9        R1   R1      R1    R3   R2    Y    R1    R1   Prohibited Newcastle platforms 9, 10
-                                                                                                                                                11 and 12
-                                                                                                                                           R2   Prohibited Newcastle Platform 10
-                                                                                                                                           R3   Prohibited Newcastle platforms 9, 10
-                                                                                                                                                and 12
-LN600    ECM7 Newcastle – Newcastle East Jn                      0   00      0    14     9        Y     Y       Y    Y     Y    Y    Y
-LN600    ECM7 Newcastle East Jn – Heaton South Jn                0   14      1    65     9        Y     Y       Y    Y     Y    Y    Y
-LN600    ECM7 Heaton South Jn – Route Boundary (SC147)           1   65     69    67     9        Y     Y       Y    Y     Y    Y    Y
-              (Prestonpans Jn)
-LN618    HOS    Holgate Jn – Skelton Jn via York Yard            0   00      1    54     9        Y     Y       Y    Y     Y    Y    Y
-                South
-LN620    KEB    King Edward Bridge East Jn – King Edward         0   00      0    13     9        Y     Y       Y    Y     Y    Y    Y
-                Bridge North Jn (East Curve)
-LN622    NEN1   Newcastle Forth Jn – Forth Banks                 0   11      0    73     8        Y     Y       Y    Y     Y    Y    Y
-LN624    REB4   Northallerton Castle Hills Jn – Network Rail     0   04      0    18     8        Y     Y       Y    Y     Y    Y    Y
-                Boundary (Wensleydale Railway)
-LN626    LEN2   Northallerton High Jn – Northallerton East       0   00      0    36     8        Y     Y       Y    Y     Y    Y    Y
-                Jn
-LN627    LLP1   Longlands Jn (Down Line) – Boroughbridge        28   58     29    72     8        Y     Y       Y    Y     Y    Y    Y
-                Road LC
-LN627    LLP3   Longlands Jn (Up Line) – Boroughbridge           0   69      0    00     8        Y     Y       Y    Y     Y    Y    Y
-                Road LC
-LN627    LLP2   Boroughbridge Road LC – Northallerton           42   21     42    79     8        Y     Y       Y    Y     Y    Y    Y
-                East Jn
-LN627    LEN3   Northallerton East Jn – Billingham Jn           42   79     63    69     8        Y     Y       Y    Y     Y    Y    Y
-LN627    LEN3   Billingham Jn – Ryhope Grange Jn                63   69     87    63     8        R1   R1      R1    Y     Y    R1   R1    R1   Prohibited Hartlepool Down Bay
-                                                                                                                                                platform 3
-LN627    LEN3   Ryhope Grange Jn – Sunderland South Jn          87   63     89    56     8        Y     Y       Y    Y     Y    Y    Y
-LN627    LEN3   Sunderland South Jn – Boldon East Jn            89   56     94    63     8        Y     Y       Y    Y     Y    Y    Y
-LN627    LEN3   Boldon East Jn – Boldon West Jn                 94   63     95    16     8        Y     Y       Y    Y     Y    Y    Y
-LN627    LEN3   Boldon West Jn – Pelaw Metro Jn                 95   16     97    64     8        Y     Y       Y    Y     Y    Y    Y
+     Table D4C (London North Eastern) – Route clearance of locomotives
+                                                                                     Last Updated: 04/02/2023
+     To be read in conjunction with General Notes.
+     Class 67 – Additional speed restrictions are detailed on the current Vehicle/Infrastructure Summary of Compatibility documentation
 
-October 2009                                                                                 65
+     Line of
+          ELR Line of Route / Sector
+                                 oooo oooo oooo oooo
+                                               RA  60 66  67  68  70 73  97/3 Notes
+     route    Description         M  Ch M  Ch     00000000 0000          0000
+                                                                 0000 0000
+     LN101ECM1Kings Cross – Copenhagen Jn
+                                   0  00  0 64  9  Y   Y   Y   Y  Y   Y   Y
+     LN101ECM1Copenhagen Jn – Holloway South /
+                                   0  64  1 44  9  Y   Y   Y   Y  Y   Y   Y
+              North Jns
+     LN101ECM1Holloway South / North Jns – Wood
+                                   1  44  5 07  9  Y   Y   Y   Y  Y   Y   Y
+              Green North Jn
+     LN101ECM1Wood Green North Jn – Langley Jn
+                                   5  07 25 73  9  Y   Y   R1  Y  Y   Y   Y R1 100mph over Structure ECM1/54 Down Fast
+                                                                               line (15m 22ch)
+     LN101ECM1Langley Jn – St Neots25 73 51 58  9  Y   Y   Y   Y  Y   Y   Y
+     LN101ECM1St Neots – Fletton Jn51 58 75 02  9  Y   Y   Y   Y  Y   Y   Y
+     LN101ECM1Fletton Jn – Peterborough
+                                   75 02 76 29  9  Y   Y   Y   Y  Y   Y   Y
+     LN101ECM1Peterborough – Newark North Gate
+                                   76 29120 08  9  Y   Y   Y   Y  Y   Y   Y
+     LN101PMJ Peterborough – Helpston Jn via
+                                   22 19 16 71  9  Y   Y   Y   Y  Y   Y   Y
+              Stamford lines
+     LN101ECM1Newark North Gate – Retford
+                                  120 08138 49  8  Y   Y   R1  Y  Y   Y   Y R1 100mph over Structure ECM1/296 Down Fast
+                                                                               line (135m 28ch)
+     LN101ECM1Retford – Loversall Carr Jn
+                                  138 49150 00  9  Y   Y   Y   Y  Y   Y   Y
+     LN101ECM1Loversall Carr Jn – Marshgate Jn
+                                  152 00156 26  9  Y   Y   Y   Y  Y   Y   Y
+     LN101ECM1Marshgate Jn – Shaftholme Jn
+                                  156 26160 16  9  Y   Y   Y   Y  Y   Y   Y
+     LN105MEB1Moorgate – Drayton Park
+                                   0  00  2 56  9  N   N   N   N  N   R1  N R1 Prohibited in diesel mode
+     LN105MEB1Drayton Park – Finsbury Park Jn
+                                   2  56  3 37  9  Y   Y   Y   Y  Y   Y   Y
+     LN110CFP Route Boundary (EA1320) (Canonbury
+                                   3  20  4 33  9  Y   Y   Y   Y  Y   Y   Y
+              West Jn) - Finsbury Park Jn
+     LN115CRF1Copenhagen Jn – Route Boundary
+                                   0  00  0 20 10  Y   Y   Y   Y  Y   Y   Y
+              (EA1320) (North London Incline)
+     LN120HDB Wood Green Jn – Langley Jn via
+                                   5  07 28 15  9  Y   Y   Y   Y  Y   Y   Y
+              Hertford
+     LN125SBR Cambridge Jn – Route Boundary
+                                   32 11 45 60  9  Y   Y   Y   Y  Y   Y   Y
+              (EA1230)
+
+
+     October 2009                                    62

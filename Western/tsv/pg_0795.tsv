@@ -1,25 +1,21 @@
-Western	0795	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0795	GW773	WVL	Site of Former Bassaleg Jn	Park Jn (Machen Branch)	Site of Former Bassaleg Jn – Park Jn (Machen Branch)	2	05	1	10	6	Y	Y	N	N	N	Y	Y	Y
-Western	0795	GW780	WVL	Park Jn	Park Jn SB	Park Jn – Park Jn SB	1	02	0	74	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW780	NWN	Park Jn SB	Ebbw Jn	Park Jn SB – Ebbw Jn	0	54	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW784	NLL	Alexandra Dock Jn	Network Rail Boundary (Newport Docks)	Alexandra Dock Jn – Network Rail Boundary (Newport Docks)	159	60	160	27	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW790	ROC	Pengam Jn	Change of ELR	Pengam Jn – Change of ELR	168	20	168	61	7	Y	Y	N	Y	Y	Y	Y	Y
-Western	0795	GW790	ROA	Change of ELR	Network Rail Boundary (ABP Cardiff Docks)	Change of ELR – Network Rail Boundary (ABP Cardiff Docks)	3	41	4	54	7	Y	Y	N	Y	Y	Y	Y	Y
-Western	0795	GW810	CAR	End of Line (Rhymney)	Ystrad Mynach South Jn	End of Line (Rhymney) – Ystrad Mynach South Jn	24	00	13	41	6	B	B	B	N	N	Y	N	Y
-Western	0795	GW810	CAR	Ystrad Mynach South Jn	Heath Jn	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW810	CAR	Heath Jn	Cardiff Queen Street North Jn	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW820	TBD	Network Rail Boundary (Cwmbargoed)	Site of Former Taff Bargoed Branch Jn	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW820	VON	Site of Former Taff Bargoed Branch Jn	Site of Former Penallta Jn	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW820	PTA	Site of Former Penallta Jn	Ystrad Mynach South Jn	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW828	CRY	Coryton	Heath Jn	Coryton – Heath Jn	2	57	0	15	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW830	CAM	Merthyr Tydfil	Abercynon Jn	Merthyr Tydfil – Abercynon Jn	24	44	16	35	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW830	CAM	Abercynon Jn	Pontypridd Jn	Abercynon Jn – Pontypridd Jn	16	35	13	04	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW830	CAM	Pontypridd Jn	Radyr Jn	Pontypridd Jn – Radyr Jn	13	04	5	23	6	Y	Y	Y	N	N	Y	N	Y
-Western	0795	GW830	CAM	Radyr Jn	Queen Street North Jn	Radyr Jn – Queen Street North Jn	5	23	1	17	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW830	CAM	Queen Street North Jn	Queen Street South Jn	Queen Street North Jn – Queen Street South Jn	1	17	0	66	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW830	CEJ	Queen Street South Jn	Cardiff East Jn	Queen Street South Jn – Cardiff East Jn	0	22	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW830	SWM2	Cardiff East Jn	Cardiff West Jn	Cardiff East Jn – Cardiff West Jn	170	18	170	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW830	BRY	Cardiff West Jn	Barry Jn	Cardiff West Jn – Barry Jn	0	10	8	16	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0795	GW830	BRY	Barry Jn	Buffer Stops (Barry Island)	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	6	N	B	N	N	N	Y	N	Y
-Western	0795	GW834	VON	Network Rail Boundary	Aberdare	Network Rail Boundary – Aberdare	26	62	22	34	6	Y	Y	N	N	N	Y	N	Y
-Western	0795	GW834	VON/ ALK	Aberdare	Cwmbach Change of ELR	Aberdare – Cwmbach Change of ELR	22	34	20	68	6	Y	Y	N	N	N	Y	N	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
+Western	0795	GW580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW600	BSW	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	6	N	B	N	N	R1	Y	N	Y	R1 Permitted to assist a failed train or in connection with infrastructure related trains
+Western	0795	GW606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	5	N	R1 B	N	N	R1 R2 R3	N	N	R1	R1 20mph over bridge NDN-20466 (204m 66ch) R2 20mph over Coppplestone Sharpey overbridge (186m 10ch) Barnstaple Single line R3 Permitted to assist a failed train or in connection with infrastructure related trains
+Western	0795	GW608	DAC	Crediton – Former Coleford Jn	179	26	183	69	6	N	N	N	N	N	Y	N	Y	
+Western	0795	GW608	DAC	Former Coleford Jn – Meldon Quarry	183	69	198	72	6	N	N	N	N	N	N	N	N	
+Western	0795	GW610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	6	N	B	N	N	Y	Y	N	Y	
+Western	0795	GW618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	6	N	R1	N	N	N	R1	N	R1	R1 Prohibited when hauling Dangerous Goods
+Western	0795	GW620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	6	B	B	Y	N	N	Y	N	Y	
+Western	0795	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	7	N	Y	N	Y	Y	Y	Y	Y	
+Western	0795	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	7	N	Y	N	Y	Y	Y	Y	Y	
+Western	0795	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	7	N	Y	N	Y	Y	Y	Y	Y	
+Western	0795	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	7	N	Y	N	Y	Y	Y	Y	Y	
+Western	0795	GW628	FRY	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	7	N	Y	N	Y	Y	Y	Y	Y	
+Western	0795	GW628	TUR/ CWR	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	5	N	Y	N	N	N	N	N	Y	
+Western	0795	GW628	FRY	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	7	N	Y	N	Y	Y	Y	Y	Y	

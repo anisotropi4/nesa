@@ -1,28 +1,21 @@
-Scotland	0994	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description					170	180	185	220	221	Notes
-Scotland	0994														
-Scotland	0994						M	Ch	M	Ch					
-Scotland	0994	SC153	CPH	Craigentinny	Powderhall (Goods Line)	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N
-Scotland	0994	SC155	MHL1	Monktonhall Jn	Change of ELR	Monktonhall Jn – Change of ELR	0	11	5	60	N	N	N	Y	Y
-Scotland	0994	SC155	MHL2	Change of ELR	Millerhill East Jn	Change of ELR – Millerhill East Jn	1	40	0	28	N	N	N	Y	Y
-Scotland	0994	SC155	MHL3	Millerhill East Jn	Millerhill Yard (Goods Line)	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	N	N	N	Y	Y
-Scotland	0994	SC157	MLE	Millerhill South Jn	Millerhill East Jn (Goods Line)	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	N	N	N	Y	Y
-Scotland	0994	SC159	NDE2	Millerhill West Jn	Millerhill South Jn / Millerhill Yard	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	N	N	N	N	N
-Scotland	0994	SC161	NDE1	Millerhill Yard	Junction with Niddrie West Line	Millerhill Yard – Junction with Niddrie West Line	5	52	3	36	Y	N	N	Y	Y
-Scotland	0994	SC161	SUB1	Junction with Niddrie West Line	Portobello	Junction with Niddrie West Line – Portobello	3	36	3	30	Y	N	N	Y	Y
-Scotland	0994	SC161	MHL4	Newcraighall East Jn	Network Rail / Abellio Scotrail Boundary	Newcraighall East Jn – Network Rail / Abellio Scotrail Boundary	00	00	00	08	E	N	N	N	N
-Scotland	0994	SC163	SUB1	Portobello	Change of ELR	Portobello – Change of ELR	3	30	4	00	Y	N	Y	Y	Y
-Scotland	0994	SC163	SUB2	Change of ELR	Niddrie West	Change of ELR – Niddrie West	6	69	6	30	Y	N	Y	Y	Y
-Scotland	0994	SC164	NNS	Newcraighall North Jn	Newcraighall South Jn	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	R1	N	N	N	N	R1 Permitted up to 6-cars only
-Scotland	0994	SC164	SBO	Newcraighall South Jn	Tweedbank	Newcraighall South Jn – Tweedbank	5	02	35	34	R1	N	N	N	N	R1 Permitted up to 6-cars only
-Scotland	0994	SC165	MHY	Niddrie South Jn	Niddrie West Jn	Niddrie South Jn – Niddrie West Jn	7	06	6	30	Y	N	N	Y	Y
-Scotland	0994	SC165	SUB2	Niddrie West Jn	Gorgie Jn	Niddrie West Jn – Gorgie Jn	6	30	0	45	Y	N	Y	Y	Y
-Scotland	0994	SC165	GGE	Gorgie Jn	Haymarket West Jn	Gorgie Jn – Haymarket West Jn	0	00	0	41	Y	N	Y	Y	Y
-Scotland	0994	SC167	CKT	Craiglockhart Jn	Slateford Jn	Craiglockhart Jn – Slateford Jn	0	00	0	48	Y	N	Y	Y	Y
-Scotland	0994	SC169	SUB2	Gorgie Jn	Haymarket Central Jn	Gorgie Jn – Haymarket Central Jn	0	45	0	11	Y	N	Y	Y	Y
-Scotland	0994	SC171	ECM9	Waverley East End	Edinburgh Waverley	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	N	Y	Y	Y
-Scotland	0994	SC171	EGM4	Edinburgh Waverley	Waverley West End (South Lines)	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	N	Y	Y	Y
-Scotland	0994	SC171	ECN1	Edinburgh Waverley	Waverley West End (North Lines)	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	N	Y	Y	Y
-Scotland	0994	SC171	EGM3	Waverley West End	Haymarket (South Lines)	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	N	Y	Y	Y
-Scotland	0994	SC171	ECN2	Waverley West End	Haymarket (North Lines)	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	N	Y	Y	Y
-Scotland	0994	SC171	EGM2	Haymarket	Haymarket East Jn (South Lines)	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	N	Y	Y	Y
-Scotland	0994	SC171	ECN2	Haymarket	Haymarket East Jn (North Lines)	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	N	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0994	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	Y	N	Y	Y	
+Scotland	0994	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	Y	N	R1	R1	R1 Prohibited except for the purpose of setting back behind Signals ECL290 or ECL292
+Scotland	0994	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	SCM5	Change of Mileage – Dundee Central Jn	21	01	0	36	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC119	ECN2	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	Y	Y	Y	Y	
+Scotland	0994	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	N	N	N	Y	N	Y	Y	
+Scotland	0994	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	N	N	N	Y	N	Y	Y	
+Scotland	0994	SC123	NEM1	Drumgelloch – Change of ELR	11	70	11	60	N	N	N	Y	N	Y	Y	
+Scotland	0994	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	E R1	E R1	E R1	Y	R2 R3	Y	R4 R5	R1 Prohibited between Change of ELR (11m 60ch) and Bellgrove Jn R2 Prohibited between Change of ELR (11m 60ch) and Airdrie R3 Prohibited Airdrie through platforms R4 Prohibited between Aidrie and High Street Jn when laden R5 Prohibited Bellgrove down platform with deflated suspension
+Scotland	0994	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	N	N	N	Y	Y	Y	E	
+Scotland	0994	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	N	N	N	Y	Y	Y	R1	20mph Glasgow Queen Street platform 8

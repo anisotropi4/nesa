@@ -1,20 +1,17 @@
-Western	0710	GW700	SWM 2	Route Boundary Wales	Severn Tunnel Jn	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW710	NO ELR	Llanwern Works East	Llanwern Works West via BSS (Corus Infrastructure)	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	N	N	N	N	N	N	N	N	N
-Western	0710	GW720	EUB	Network Rail Boundary (Uskmouth)	East Usk Jn	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	N	N	N	N	N	N	N	N	N
-Western	0710	GW730	SHL	Severn Bridge Jn	Craven Arms Jn	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	E	R1	R1	Y	Y	Y	Y	Y	Y	R1 Prohibited between Severn Bridge Jn and Sutton Bridge Jn
-Western	0710	GW730	SHL	Craven Arms Jn	Shelwick Jn	Craven Arms Jn – Shelwick Jn	20	01	49	26	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW730	SHL	Shelwick Jn	Site of former Rotherwas Jn	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW730	HDC	Site of former Rotherwas Jn	Site of former Red Hill Jn	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW730	HNL1	Site of former Red Hill Jn	Maindee West Jn	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW731	WSJ 2	Route Boundary (MD801) (Madeley Jn)	Abbey Foregate Jn	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	E	N	N	Y	Y	Y	Y	Y	Y
-Western	0710	GW731	WSJ 2	Abbey Foregate Jn	Crewe Jn	Abbey Foregate Jn – Crewe Jn	171	15	171	57	E	R1 R2	R1 R2	Y	Y	Y	Y	Y	Y	R1 Prohibited between Abbey Foregate Jn and Shrewsbury R2 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)
-Western	0710	GW731	WSJ 2	Crewe Jn	Route Boundary (NW3005) (Wrexham General)	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	E	E	E	Y	Y	Y	Y	Y	Y
-Western	0710	GW732	AFE	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	E	N	N	Y	Y	Y	Y	Y	Y
-Western	0710	GW733	SBA1 /2	Sutton Bridge Jn	Welshpool	Sutton Bridge Jn – Welshpool	0	00	33	70	E	N	N	N	N	N	N	Y	Y
-Western	0710	GW733	SBA2	Welshpool	Aberystwyth	Welshpool – Aberystwyth	33	70	95	60	E	N	N	N	N	N	N	Y	Y
-Western	0710	GW734	DJP	Dovey Jn	Pwllheli	Dovey Jn – Pwllheli	78	60	132	70	E	N	N	N	N	N	N	Y	Y
-Western	0710	GW735	SYC	Crewe Jn	Route Boundary (NW1007) (Limit of Electrification)	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	E	N	N	Y	Y	Y	Y	Y	Y
-Western	0710	GW736	GNQ 1	Gobowen South	Commencement of single line board	Gobowen South – Commencement of single line board	0	00	0	16	N	N	N	N	N	N	N	N	N
-Western	0710	GW740	MAI	Maindee East Jn	Maindee North Jn	Maindee East Jn – Maindee North Jn	41	65	41	33	E	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0710	GW750	BNC	Hereford Yard Jn	Brecon Curve Jn	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	N	N	N	N	N	N	N	N	N
-Western	0710	GW750	HNL2	Brecon Curve Jn	MEB Siding	Brecon Curve Jn – MEB Siding	149	44	149	78	N	N	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0710	GW520	WYL	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	GW523	WEY	Thingley Jn – Bradford Jn	96	10	104	40	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	GW528	BRL	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	GW530	BLL	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	GW540	BSW	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	GW5401	PAC	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	GW548	POD/ PBY	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	N	N	N	N	N	N	N	N	N	N	
+Western	0710	W560	SWY	Heywood Road Jn – Westbury North Jn	94	45	95	33	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	W560	WEY	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	E	Y	Y	Y	Y	N	N	Y	R1	R1	R1 Prohibited Westbury Down Reception line between signal W202 and points 858
+Western	0710	W570	WEY	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0710	W572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	N	N	N	N	N	
+Western	0710	W572	WQL	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N	N	N	N	N	N	
+Western	0710	W580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	E	Y	Y	Y	Y	N	N	N	N	N	
+Western	0710	W600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	E	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western	0710	W600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	E	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western	0710	W600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	E	Y	Y	Y	Y	E	E	Y	Y	N	

@@ -1,22 +1,25 @@
-Western	0791	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0791	GW500	WES	Heywood Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW500	WEY	Fairwood Jn (Change of ELR)	Clink Road Jn (Change of ELR)	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW500	FRA	Clink Road Jn (Change of ELR)	Blatchbridge Jn (Change of ELR)	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW500	WEY	Blatchbridge Jn (Change of ELR)	Castle Cary Jn	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW500	WEY	Castle Cary Jn	Route Boundary (SW175) (Yeovil Pen Mill Jn)	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	6	Y	Y	Y	N	N	Y	N	Y
-Western	0791	GW500	CCL	Castle Cary Jn	Cogload Jn (Down)	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW5001	SAL	Route Boundary (SW170) (Wilton Jn)	Westbury South Jn	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW510	WEY	Westbury North Jn	Bradford Jn	Westbury North Jn – Bradford Jn	109	49	104	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW510	BFB	Bradford Jn	Bathampton Jn	Bradford Jn – Bathampton Jn	9	12	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW520	WYL	Westbury East Loop Jn	Hawkeridge Jn	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW523	WEY	Thingley Jn	Bradford Jn	Thingley Jn – Bradford Jn	96	10	104	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW528	BRL	North Somerset Jn	Bristol West Jn via St Philips Marsh	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW530	BLL	Feeder Bridge Jn	Dr Day’s Jn (Rhubarb Loop)	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW540	BSW	Filton Jn No.1	Patchway Jn No.2	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW5401	PAC	Filton West Jn No.1	Patchway Jn No.1	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW548	POD/ PBY	Parson Street Jn	Network Rail boundary (BPC)	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW560	SWY	Heywood Road Jn	Westbury North Jn	Heywood Road Jn – Westbury North Jn	94	45	95	33	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW560	WEY	Westbury North Jn	Fairwood Jn via Westbury	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW570	WEY	Clink Road Jn	Blatchbridge Jn via Frome	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	8	Y	Y	Y	Y	Y	Y	Y	Y
-Western	0791	GW572	FNS2	Frome North Jn	Change of ELR	Frome North Jn – Change of ELR	0	00	2	38	6	Y	Y	Y	N	N	Y	N	Y
-Western	0791	GW572	WQL	Change of ELR	Network Rail Boundary (Mendip Rail - Whatley Quarry)	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	6	Y	Y	Y	N	N	Y	N	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
+Western	0791	GW108	MLN3	Penwithers Jn – Change of ELR	301	25	305	65	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW108	MLN4	Change of ELR – St Erth Jn	305	67	320	73	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW108	MLN4	St Erth Jn – Penzance	320	73	326	50	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW110	ANL	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW110	ANL	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW110	ANL	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW117	GEC	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW174	WEL1	West Ealing Jn – Drayton Green Jn	6	56	7	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW174	WEL1	Drayton Green Jn – Greenford South Jn	7	03	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW174	WEL1	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW174	WEL1	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW175	WEL2	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	8	Y	Y	Y	N	N	Y	Y	Y	
+Western	0791	GW176	HAN	Hanwell Jn – Drayton Green Jn	0	00	0	36	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW178	BRB	Southall – Brentford Goods	0	00	2	70	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW180	HLL	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	8	R1	R1	R1	R1	R1	R1	Y	R1	R1 See Sectional Appendix Local Instructions
+Western	0791	GW182	STA	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW184	WIN	Slough – Windsor & Eton Central	18	36	21	19	6	N	B	N	N	N	Y	N	N	
+Western	0791	GW185	WBB	Maidenhead – Bourne End	24	19	28	55	6	N	B	N	N	N	Y	N	Y	
+Western	0791	GW185	MWB	Bourne End GF – Marlow	0	06	2	54	6	N	B	N	N	N	Y	N	Y	
+Western	0791	GW187	HEN	Twyford – Henley-on-Thames	31	01	35	48	4	N	B	N	N	N	N	N	B	
+Western	0791	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0791	GW195	RLL	Reading Southern Jn – Reading East Jn	35	33	35	61	8	Y	Y	Y	N	Y	N	Y	N	
+Western	0791	GW200	DCL	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	8	Y	Y	Y	Y	Y	Y	Y	Y	

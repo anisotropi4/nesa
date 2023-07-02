@@ -1,12 +1,16 @@
-London-North-Eastern	1251	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1251					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1251	LN774	Barrow Hill North Jn – Oxcroft Disposal Point	Barrow Hill North Jn	Oxcroft Disposal Point	Y	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN776	Hall Lane Jn – Foxlow Jn	Hall Lane Jn	Foxlow Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN778	Seymour Jn to Bolsover	Seymour Jn	Bolsover	Y	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN782	Woodend Jn – Shireoaks West Jn	Woodend Jn	Shireoaks West Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN784	High Marnham – Thoresby Colliery Jn	High Marnham	Thoresby Colliery Jn	-	-	-	-	-	-	-	-	Line Out of Use (Temporary)
-London-North-Eastern	1251	LN784	Thoresby Colliery Jn – Shirebrook East Jn	Thoresby Colliery Jn	Shirebrook East Jn	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN786	Bevercotes Colliery Branch	Bevercotes Colliery Branch		-	-	-	-		-		-	Line not normally in use
-London-North-Eastern	1251	LN788	Thoresby Colliery Branch	Thoresby Colliery Branch		Y	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN802	Welbeck Colliery Branch	Welbeck Colliery Branch		Y	N	N	N	N	N	N	N
-London-North-Eastern	1251	LN804	Tapton Jn – Dore South Jn	Tapton Jn	Dore South Jn	Y *	Y Up Line S1 Down Line	Y Up Line S1 Down Line	N	N	N	N	N	S1 The following combinations are permitted: 2590 h x 2438 w box 2590 h x 2500 w box on FEA FSA/FTA KFA wagons Down Line 2615 h x 2500 w (S16) FT 2615 h x 2550 w (S16) FT on KFA wagons Down Line 2625 h x 2500 w (S17) FT 2625 h x 2550 w (S17) FT on FEA FSA/FTA wagons Down Line 2896 h x 2438 w box 2896 h x 2500 w box on FLA wagons Down Line STNC NC/G1/2009/ICP-G/LNE009 applies, valid to 31/12/12
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1251	LN646	Norton-on-Tees South – Ferryhill South Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: 2146 h x 2500 w box on FCA wagons All lines 2667 h x 2500 w box on FKA wagons All lines 2665 h x 2500 w (S21) 2675 h x 2500 w box on FKA wagons Up Line STNC NC/G1/2009/ICP-G/LNE007 applies, valid to 30/12/11
+London-North-Eastern	1251	LN648	Norton-on-Tees West – Norton-on- Tees East	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1251	LN652	Billingham Jn – Phillips Road	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1251	LN652	Belasis Lane – Seal Sands via Phillips Road	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1251	LN652	Belasis Lane Junction – ICI Haverton Hill	Y	Y	Y	N	N	N	N	N	Part not NR Infrastructure
+London-North-Eastern	1251	LN656	Seaton-on-Tees Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1251	LN662	Ryhope Grange – Hendon	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1251	LN664	Boldon East Jn – Boldon North Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1251	LN666	Boldon West Jn – Tyne Dock (NR limit) [ 1m 26ch ]	Y	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1251	LN670	Jarrow Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1251	LN672	Wardley – Pelaw Jn	-	-	-	-	-	-	-	-	Line 'Out of Use (Temporary)'
+London-North-Eastern	1251	LN674	High Level Bridge Jn – Greensfield Jn (West Curve)	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1251	LN676	Park Lane Jn – King Edward Bridge South Jn	Y	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1251	LN678	Darlington North Jn – Eastgate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons Line not NR Infrastructure beyond Bishop Auckland
+London-North-Eastern	1251	LN682	King Edward Bridge South Jn – Norwood Jn	Y *	Y	Y	N	N	N	N	N	

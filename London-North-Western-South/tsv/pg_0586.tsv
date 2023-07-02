@@ -1,21 +1,24 @@
-London-North-Western-South	0586	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-London-North-Western-South	0586	MD175	BPH	Bridge Street LC	Site of Former Bridge Street Jn	Bridge Street LC – Site of Former Bridge Street Jn	4	56	4	29	8	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
-London-North-Western-South	0586	MD175	BDN	Site of Former Bridge Street Jn	Site of Former Duston North Jn	Site of Former Bridge Street Jn – Site of Former Duston North Jn	0	00	0	18	8	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
-London-North-Western-South	0586	MD175	NMH	Site of Former Duston North Jn	Northampton South Jn	Site of Former Duston North Jn – Northampton South Jn	0	29	0	65	8	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
-London-North-Western-South	0586	MD180	RTS	Rugby Trent Valley Jn	New Bilton	Rugby Trent Valley Jn – New Bilton	0	00	0	79	7	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	WNS	Route Boundary (LN3232) (Hinckley)	Nuneaton South Jn	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	WNS	Limit of Electrification (Down direction)	Nuneaton South Jn	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	WNS	Nuneaton South Jn	Nuneaton South Change of ELR	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	PVS	Nuneaton South Change of ELR	Limit of Electrification (Up direction)	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	PVS	Limit of Electrification (Up direction)	Midland Yard Jn	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	NMA	Midland Yard Jn	Abbey Jn	Midland Yard Jn – Abbey Jn	10	09	9	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD232	WNS	Route Boundary (LN3232) (Hinckley)	Nuneaton South Jn	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS1	Rugby Trent Valley Jn	Coventry South Jn	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS1	Coventry South Jn	Coventry North Jn	Coventry South Jn – Coventry North Jn	93	71	94	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS1	Coventry North Jn	Stechford North Jn	Coventry North Jn – Stechford North Jn	94	19	109	12	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS1	Stechford North Jn	Grand Jn	Stechford North Jn – Grand Jn	109	12	111	72	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS1	Grand Jn	Proof House Jn	Grand Jn – Proof House Jn	111	72	112	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS1	Proof House Jn	Birmingham New Street (Change of Mileage)	Proof House Jn – Birmingham New Street (Change of Mileage)	112	19	112	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS2	Birmingham New Street (Change of Mileage)	Soho South Jn	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS2	Soho South Jn	Soho North Jn	Soho South Jn – Soho North Jn	2	06	2	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0586	MD301	RBS2	Soho North Jn	Galton Jn	Soho North Jn – Galton Jn	2	38	3	64	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	373	377	378	379	380	387	390	458	499	508	700	Notes
+London-North-Western-South	0586	MD301	RBS2	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	N	N	N	N	N	N	T R1 R2	N	N	N	N	R1 Prohibited Birmingham platform 12 in 11-car formations. R2 Prohibited from entering Birmingham platform 3 via points NS578 reverse and platform 7 via points NS560 reverse when formed of 11-cars
+London-North-Western-South	0586	MD301	RBS2	Soho South Jn – Soho North Jn	2	06	2	38	N	N	N	N	N	N	T	N	N	N	N	
+London-North-Western-South	0586	MD301	RBS2	Soho North Jn – Galton Jn	2	38	3	64	N	N	N	N	N	N	T	N	N	N	N	
+London-North-Western-South	0586	MD301	RBS2	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	N	N	N	N	N	N	T	N	N	N	N	
+London-North-Western-South	0586	MD301	RBS2	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	N	N	N	N	N	N	T	N	N	N	N	
+London-North-Western-South	0586	MD301	RBS3	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	N	N	N	N	N	N	T	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG1	Change of Mileage (Birmingham New Street) – Lifford West Jn	42	35	47	20	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG1	Lifford West Jn – King's Norton Station Jn	47	20	47	48	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG1	King's Norton Station Jn – King's Norton Jn (Change of Mileage)	47	48	48	02	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG2	King's Norton Jn (Change of Mileage) – Barnt Green Jn	46	77	51	58	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG2	Barnt Green Jn – Stoke Works Jn	51	58	57	43	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG2	Stoke Works Jn – Abbotswood Jn	57	43	68	60	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD306	BAG2	Abbotswood Jn – Route Boundary (GW401) (Ashchurch)	68	60	77	40	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD310	BEA	Barnt Green Jn – Redditch	51	58	56	60	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0586	MD315	SAS	Stechford South Jn – Stechford North Jn (via Up Line)	-0	20	-0	04	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD315	SAS	Stechford North Jn – Aston South Jn	-0	04	2	61	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD320	RBS1	Proof House Jn – Curzon Street Jn (Change of Mileage)	112	19	112	07	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD320	PBJ	Curzon Street Jn (Change of Mileage) – Aston South Jn	0	00	1	60	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD320	PBJ	Aston South Jn – Aston North Jn	1	60	1	73	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD320	PBJ	Aston North Jn – Bescot Jn	1	73	8	50	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD320	PBJ	Bescot Jn – Bushbury Jn	8	50	15	32	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD325	SSP	Soho South Jn – Perry Barr West Jn	2	71	0	39	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0586	MD325	PBL	Perry Barr West Jn – Perry Barr North Jn	0	29	0	00	N	N	N	N	N	N	Y	N	N	N	N	

@@ -1,46 +1,60 @@
-                                                                                       OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                  LNE Route Sectional Appendix Module LNRC
+                                        LNE Route Sectional Appendix Module LNRC
 
 
 
 
-Line of   ELR    Line of Route / Sector                oooo oooo oooo oooo RA Loco Gauge Notes
-route            Description                            M    Ch M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-LN3505    NSS    North Stafford Jn – Route Boundary     30   10       1    40     8         R1       R1      Prohibited through Meir Tunnel on the Up Stoke line
-                 (NW5012) (Stoke Jn)                                                        R2       R2      Prohibited through Meir Tunnel on the Down Stoke line
-LN3515    MJS1   Melbourne Jn – Sinfin                 131   15     130    37     8          Y
-LN3520    SSJ1   Sheet Stores Jn – Change of ELR       119   62     127    20     8          Y
-                 (Site of Former Chellaston East Jn)
-LN3520    MJS1   Change of ELR (Site of Former         127   20     128    00     8          Y
-                 Chellaston East Jn) – Change of ELR
-                 (Site of Former Chellaston West Jn)
-LN3520    SSJ2   Change of ELR (Site of Former         128   00     132    12     8          Y
-                 Chellaston West Jn) – Stenson Jn
-LN3525    KSL    Knighton Jn – Leicester Jn             97   45     127    00     8          Y
-LN3535    BCJ    Birmingham Curve Jn – Branston Jn     126   40     127    19     8          Y
-LN3601    GSM1 Kettering North Jn – Manton Jn           74   00      90    25     8         R1       R1      Prohibited through Corby Tunnel on the Down Corby line
-                                                                                            R2       R2      Prohibited through Seaton Tunnel on the Down Corby line
-LN3605    BSC    Corby BSC Works – Corby North           2   05       0    00     8          Y
-LN3610    BSC    Corby Automotive Terminal – Corby       1   10       0    00     8          Y
-                 North
-LN3615    PMJ    Route Boundary (LN147) (Helpston       13   60      12    75     9          Y
-                 Jn) – Uffington SB
-LN3615    PMJ    Uffington SB – Manton Jn               12   75       0    00     8          Y
-LN3615    GSM2 Manton Jn – Melton Jn                    90   25     105    70     8          Y
-LN3615    GSM3 Melton Jn – Syston South Jn             113   36     103    77     8          Y
-LN3620    GSM4 Melton Jn GF – Asfordby                 105   70     107    20     8          Y
-LN3625    TSN1   Nottingham East Jn – Change of ELR    123   27     123    23     8          Y
-                 (Nottingham East Jn)
-LN3625    NOB1   Change of ELR (Nottingham East Jn)      0   00      16    02     8          Y
-                 – Route Boundary (LN206) (Coulson)
-LN3635    NOG1 Route Boundary (LN195) (Nottingham      111   60     123    76     8          Y
-               Branch Jn) – Rectory Jn SB
-LN3635    NOG1 Rectory Jn SB – Change of ELR           123   76     125    25     8          Y
-               (Netherfield)
-LN3635    NOG2 Change of ELR (Netherfield) –             2   54       2    35     8          Y
-               Netherfield Jn
+     Table D5B – Locomotive Gauge Clearance table (East Midlands)
+                                                                                Last Updated: 03/04/2021
+    To be read in conjunction with General Notes.
+    •  All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
+    •  Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
+     • Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in
+       the table below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a
+       valid Summary of Compatibility prior to operation over Network Rail infrastructure.
+     • Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
+     • Gauge clearance for steam locomotives is considered under a separate process.
+     The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
+     Y   Route conforms to locomotive gauge without restriction.
+     R   Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
+     N   Route does not conform to locomotive gauge
+
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo RA
+                                                  Loco Gauge
+                                                           Notes
+     route    Description          M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+     LN3140
+          BBM Route Boundary (MD140) (Bedford St.
+                                   16 07 16 50  8    R1   R1Prohibited from the Run Round Siding line between Bedford St
+              Johns) – Bedford Station Jn                   Johns and Bedford Station Jn
+     LN3140
+          SPC1Bedford Station Jn – Bedford Station
+                                   49 60 49 65  8    Y
+              (Via Up and Down Bletchley line)
+     LN3201
+          SPC1St. Pancras platforms 1, 2 ,3 and 4 –
+                                    0 12  5 09  8    R1   R1Prohibited between Kentish Town Jn and Carlton Road Jn on the Up
+              Cricklewood                                   & Down Slow line
+     LN3201
+          SPC1Cricklewood – Change of ELR
+                                    5 09 50 00  8    R1   R1Prohibited through Ampthill Tunnel on the Up Slow line
+              (Bedford)
+     LN3201
+          SPC2Change of ELR (Bedford) – Change of
+                                   50 00 64 78  8    R1   R1Prohibited between Bedford North Jn and Sharnbrook Jn on the Up
+              ELR (Wellingborough)                          Fast line
+     LN3201
+          SPC3Change of ELR (Wellingborough) –
+                                   64 78 95 38  8    R1   R1Prohibited between Kettering North Jn and Market Harborough Jn on
+              Change of ELR (Wigston South Jn)       R2     the Down Main line
+                                                          R2Prohibtied between Market Harborough and Kilby Bridge Jn on the
+                                                            Up Main line
 
 
-October 2009                                                                               128
+
+
+    October 2009                                    125

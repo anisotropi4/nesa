@@ -1,44 +1,67 @@
-                                                                                 OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW810   CAR    End of Line (Rhymney) – Ystrad Mynach      24    00    13    41     H        N        N        N   N
-               South Jn
-GW810   CAR    Ystrad Mynach South Jn – Heath Jn          13    41     3    32     H        N        N        N   N
-GW810   CAR    Heath Jn – Cardiff Queen Street North Jn     3   32     1    22     H        N        N        N   N
-GW820   TBD    Network Rail Boundary (Cwmbargoed) –       19    59    13    53     N        N        N        N   N
-               Site of Former Taff Bargoed Branch Jn
-GW820   VON Site of Former Taff Bargoed Branch Jn –       13    53    12    41     N        N        N        N   N
-            Site of Former Penallta Jn
-GW820   PTA    Site of Former Penallta Jn – Ystrad        15    01    13    41     N        N        N        N   N
-               Mynach South Jn
-GW828   CRY    Coryton – Heath Jn                           2   57     0    15     H        N        N        N   N
-GW830   CAM Merthyr Tydfil – Abercynon Jn                 24    44    16    35     H        N        N        N   N
-GW830   CAM Abercynon Jn – Pontypridd Jn                  16    35    13    04     H        N        N        N   N
-GW830   CAM Pontypridd Jn – Radyr Jn                      13    04     5    23     H        N        N        N   N
-GW830   CAM Radyr Jn – Queen Street North Jn                5   23     1    17     H        N        N        N   N
-GW830   CAM Queen Street North Jn – Queen Street            1   17     0    66     H        N        N        N   N
-            South Jn
-GW830   CEJ    Queen Street South Jn – Cardiff East Jn      0   22     0    00     H        N        N        N   N
-GW830   SWM Cardiff East Jn – Cardiff West Jn             170   18   170    56     H        N        N        N   Y
-        2
-GW830   BRY    Cardiff West Jn – Barry Jn                   0   10     8    16     H        N        N        N   N
-GW830   BRY    Barry Jn – Buffer Stops (Barry Island)       8   16     8    76     H        N        N        N   N
-GW834   VON Network Rail Boundary – Aberdare              26    62    22    34     H        N        N        N   N
-GW834   VON/ Aberdare – Cwmbach Change of ELR             22    34    20    68     H        N        N        N   N
-        ALK
-GW834   ABD/ Cwmbach Change of ELR – Abercynon            22    01    16    35     H        N        N        N   N
-        MOA Jn (Including Mountain Ash Down Loop
-             ELR MOA)
-GW835   THT    End of Line – Treherbert                   23    69    23    54     H        N        N        N   N
-GW835   THT    Treherbert – Pontypridd Jn                 23    54    13    04     H        N        N        N   N
-GW839   CAM Queen Street South Jn – Cardiff Bay             0   66     0    02     H        N        N        N   N
-GW840   RAD    Radyr Jn – Leckwith Loop South Jn            4   41     0    69     H        N        N        N   N
-GW840   RAD    Leckwith Loop South Jn – Penarth Curve       0   69     0    47     H        N        N        N   N
-               North Jn
-GW840   RAD    Penarth Curve North Jn – Radyr Branch        0   47     0    25     H        N        N        N   N
-               Jn
-GW850   CLL    Leckwith Loop South Jn – Leckwith Loop       0   26     0    00     H        N        N        N   N
-               North Jn
-  April 2009                                                                       499H
+       GW530 BLLFeeder Bridge Jn – Dr Day’s Jn
+                                      11750 117 73  H    N    N    N    N
+                (Rhubarb Loop)
+       GW540 BSW Filton Jn No.1 – Patchway Jn No.2
+                                       4 40  5  61  H    N    N    N    N
+                Filton West Jn No.1 – Patchway Jn No.1
+       GW5401 PAC                      0 40  0  00  H    N    N    N    N
+       GW548 POD/ Parson Street Jn – Network Rail
+                                      12028 126 34  N    N    N    N    N
+             PBY boundary (BPC)
+       GW560 SWY Heywood Road Jn – Westbury North Jn
+                                      94 45  95 33  H    N    N    N    N
+       GW560 WEY Westbury North Jn – Fairwood Jn via
+                                      10949 111 18  H    N    N    N    N
+                 Westbury
+       GW570 WEY Clink Road Jn – Blatchbridge Jn via
+                                      11444 116 52  H    N    N    N    N
+                 Frome
+       GW572 FNS2 Frome North Jn – Change of ELR
+                                       0 00  2  38  N    N    N    N    N
+       GW572 WQL Change of ELR – Network Rail Boundary
+                                       2 38  2  40  N    N    N    N    N
+                 (Mendip Rail - Whatley Quarry)
+       GW580 ESBEast Somerset Jn – Network Rail
+                                       0 11  5  48  H    N    N    N    N
+                Boundary (East Somerset Railway -
+                Cranmore East)
+       GW600 SWB Wootton Bassett Jn – Stoke Gifford Jn
+                                      83 07 111 79  H    N    N    N    R1 R1 Prohibited Bristol Parkway platform 3 (Up
+                 No.1                                                         Main) with crush deflated / failed
+                                                                              secondary suspension
+       GW600 SWB Stoke Gifford Jn No.1 – Patchway Jn
+                                      11179 112 68  H    N    N    N    Y
+                 No.2
+       GW600 BSW Patchway Jn No.2 – Route Boundary
+                                       5 61  9  12  H    N    N    N    Y
+                 Wales
+       GW600 BSW Route Boundary – Ableton Lane Tunnel
+                                       9 12  10 51  H    N    N    N    Y
+                 (GW900)
+       GW606 DACCowley Bridge Jn – Crediton SB
+                                      17350 179 26  H    N    N    N    N
+       GW606 NDN Crediton SB – End of Line (Barnstaple)
+                                      17926 211 31  H    N    N    N    N
+       GW608 DACCrediton – Former Coleford Jn
+                                      17926 183 69  H    N    N    N    N
+       GW608 DACFormer Coleford Jn – Meldon Quarry
+                                      18369 198 72  N    N    N    N    N
+       GW610 BAE2 Route Boundary (SW115) (Honiton) –
+                                      16430 172 04  H    N    N    N    N
+                 Exeter St Davids Jn
+       GW611 EMTExmouth Jn – Exmouth   0 01  9  32  H    N    N    N    N
+       GW618 MOB Newton Abbott East Jn – End of Line
+                                       0 14  4  07  N    N    N    N    N
+                 (Beyond Heathfield)
+       GW620 TORNewton Abbott West Jn – Paignton
+                                      21443 222 25  H    N    N    N    N
+                Crossover Ground Frame
+       GW628 SUT1 Laira Jn – Speedway Jn
+                                      24402 244 30  H    N    N    N    N
+       GW628PLO Lipson Jn – Speedway Jn0 00  0  22  H    N    N    N    N
+         April 2009                                 499E

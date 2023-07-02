@@ -1,17 +1,20 @@
-London-North-Western-North	0934	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
-London-North-Western-North	0934	NW2023	SBH2	Gerards Bridge Jn	St Helens Station Jn	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW2023	SBH1	St Helens Station Jn	Huyton Jn	St Helens Station Jn – Huyton Jn	5	12	0	-18	7	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW2025	SHS1	St. Helens Station Jn	Network Rail Boundary	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn	Regent Road L.C. Network Rail Boundary (MDHC)	Edge Hill, Bootle Branch Jn – Regent Road L.C. Network Rail Boundary (MDHC)	0	14	5	53	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW2029	OME3	Olive Mount Jn	Edge Lane Jn	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3001	CNH1	Crewe North Jn	Limit of Electrification (Crewe Steelworks)	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3001	CNH1	Limit of Electrification (Crewe Steelworks)	Chester East Jn	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3001	CNH2	Chester East Jn	Change of ELR (Windmill Lane Tunnel)	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel)	Route Boundary LNW / Wales	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3001	CNH3	Route Boundary LNW / Wales	Holyhead	Route Boundary LNW / Wales - Holyhead	188	40	263	56	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW - Saltney Jn	202	60	212	06	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	5	Y	Y	R1	Y	R2	R2	Y	R1	R1 Route between Wrexham Central and Wrexham General prohibited to Class 20 and Class 37/5 locomotives that conform to RA6 unless authorised by the Infrastructure Manager's track engineer R2 Prohibited between Wrexham Central and Wrexham General unless authorised by the Infrastructure Manager's track engineer
-London-North-Western-North	0934	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	8	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Western-North	0934	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	7	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+London-North-Western-North	0934	NW5007	MIA	Manchester Airport – Heald Green North Jn	0	00	1	51	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Western-North	0934	NW5008	LEC6	Little Bridgeford Jn – Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	137	42	138	55	Y	Y	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0934	NW5008	NBS	Searchlight Lane Jn (Change of ELR and mileage) – Stone Jn	4	06	0	00	Y	Y	Y	Y	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5008	NBS1	Norton Bridge Jn – Yamfield Jn (Norton Bridge East Chord)	4	14	2	50	Y	Y	Y	Y	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5009	CMD2	Colwich Jn – Stone Jn	38	61	27	00	Y	Y	Y	N	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5009	CMD2	Stone Jn – Stoke Jn	27	00	20	36	Y	Y	Y	N	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5009	CMD2	Stoke Jn – Glebe Street Jn	20	36	20	10	Y	Y	Y	N	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5009	CMD2	Glebe Street Jn – Change of ELR	20	10	15	65	Y	Y	Y	N	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5009	CMD1	Change of ELR – Kidsgrove Jn	16	00	13	68	Y	Y	Y	N	Y	N	N	Y	N	
+London-North-Western-North	0934	NW5009	CMD1	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR)	13	68	0	00	Y	Y	Y	N	Y	N	R1	Y	N	R1 Prohibited between Kidsgrove Jn and Macclesfield
+London-North-Western-North	0934	NW5009	MCH	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	Y	Y	Y	N	Y	N	Y	Y	N	
+London-North-Western-North	0934	NW5010	SCQ1	Glebe Street Jn – Change of Mileage	20	08	20	33	N	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0934	NW5010	SCQ1	Change of Mileage – Change of Mileage (Site of former Milton Jn)	0	00	3	51	N	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0934	NW5010	SCQ2	Change of Mileage (Site of former Milton Jn) – Change of Mileage (Site of former Leek Brook Jn)	0	00	6	65	N	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0934	NW5010	SCQ3	Change of Mileage (Site of former Leek Brook Jn) – Caldon Quarry	0	00	8	01	N	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0934	NW5011	HNS	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	Y	Y	Y	N	N	N	Y	N	R1	R1 Prohibited between Heaton Norris Jn and Romiley lines intersection (02m 30ch)
+London-North-Western-North	0934	NW5012	NSS	Route Boundary (LN3505) (North Stafford Jn) – Stoke Jn	1	40	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-North	0934	NW5013	DJO1	Denton Jn – Change of Mileage (Site of former Crowthorne Jn)	4	10	5	28	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Western-North	0934	NW5013	DJO2	Change of Mileage (Site of former Crowthorne Jn) – Change of Mileage (Site of former Ashton Moss South Jn)	0	53	1	19	Y	Y	Y	N	N	N	Y	N	Y	

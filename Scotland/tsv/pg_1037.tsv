@@ -1,3 +1,21 @@
-Scotland	1037	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Scotland	1037	SC141	WHL	Craigendoran Jn	Crianlarich Jn	Craigendoran Jn – Crianlarich Jn	0	01	36	30	5	Y	Y	R1	Y	R2 R3 R4 R5 R6	R2 R3 R4 R5 R6	Y	R1	R2 R3 R4 R5 R6	R1 Class 20 and Class 37/5 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 31/4 R2 10mph over bridge 26 (9m 52ch) R3 20mph over bridge 30 (11m 38ch) R4 20mph over bridge 97 (30m 50ch) R5 20mph over bridge 108 (33m 14ch) R6 Double Heading prohibited except for providing assistance and then at only 10mph over the above structures
-Scotland	1037	SC141	WHL	Crianlarich Jn	Fort William	Crianlarich Jn – Fort William	36	30	99	37	5	Y	Y	R1	Y	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11	Y	R1	N	R1 Class 20 and Class 37/5 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 31/4 R2 40mph over bridge 116 (36m 39ch) R3 20mph over bridge 117 (36m 44ch) R4 30mph over bridge 131 (39m 65ch) R5 20mph over bridge 149 (45m 03ch) R6 20mph over bridge 151 (45m 43ch) R7 20mph over bridge 197 (61m 39ch) R8 20mph over bridge 201 (63m 50ch) R9 30mph over bridge 203 (64m 64ch) R10 20mph over bridge 259 (76m 29ch) R11 Double Heading prohibited except for providing assistance and then at only 10mph over the above structures
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
+Scotland	1037	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	N	N	N	R1	N	Y	R1 Up to 12 cars
+Scotland	1037	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	N	N	N	R1	N	Y	R1 Up to 12 cars
+Scotland	1037	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	N	N	N	R1	N	Y	R1 Up to 12 cars
+Scotland	1037	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	Y	N	Y	N	N	N	
+Scotland	1037	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	N	N	N	N	N	N	
+Scotland	1037	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	N	N	N	N	N	N	
+Scotland	1037	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	N	N	N	N	N	N	
+Scotland	1037	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	N	N	N	
+Scotland	1037	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	N	N	N	N	N	N	
+Scotland	1037	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	E R1 R2	N	N	R1 Prohibited between GH12 signal and Grangemouth on Down Branch line R2 Prohibited between GH10 signal an Granemouth on Up Branch line
+Scotland	1037	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	N	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1037	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	N	N	N	N	N	N	
+Scotland	1037	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	N	N	N	N	N	N	
+Scotland	1037	SC119	SCM5	Change of Mileage – Dundee Central Jn	21	01	0	36	N	N	N	N	N	N	

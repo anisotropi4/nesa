@@ -1,45 +1,61 @@
-                                                                                OFFICIAL
+                                                  OFFICIAL
 
 
-                                                               Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW195   RLL    Reading Southern Jn – Reading East Jn     35    33    35    61     N        N        N        N   N
-GW200   DCL    Chester Line Jn – Route Boundary          53    12    75    00     H        N        N        N   N
-               (MD401) (Heyford)
-GW220   RWC Reading, Oxford Road Jn – Reading              0   43     0    02     H        N        N        N   N
-            West Jn
-GW225   RFR    Caversham Road Jn – Oxford Road Jn        36    25    36    74     N        N        N        N   N
-GW240   DEC    Didcot East Jn – Didcot North Jns         52    66    54    00     H        N        N        N   N
-GW250   DWC Foxhall Jn – Didcot West Curve Jn              0   01     0    32     H        N        N        N   N
-GW260   THA    Kennington Jn – Morris Cowley             18    45    16    04     N        N        N        N   N
-GW277   OXD Oxford North Jn – Route Boundary             30    09    29    25     H        N        N        N   N
-            (MD736) (29m 25ch)
-GW310   OWW Wolvercot Jn – Norton Jn                     66    32   112    00     H        N        N        N   N
-GW317   OWW Honeybourne Stratford Line Junction –        102   06   101    31     N        N        N        N   N
-            Start of branch mileage
-GW317   STD    Start of branch mileage – Long Marston      0   00     2    70     N        N        N        N   N
-GW401   BAG2 Route Boundary (MD306) (Ashchurch) –        77    40    92    21     H        N        N        N   N
-             Gloucester Barnwood Jn (Change of
-             ELR)
-GW401   CHL    Gloucester Barnwood Jn (Change of         92    21    93    08     H        N        N        N   N
-               ELR) – Gloucester Yard Jn (Change of
-               ELR)
-GW401   BGL1 Gloucester Yard Jn (Change of ELR) –        93    08    94    10     H        N        N        N   N
-             Change of ELR
-GW401   BGL2 Change of ELR – Standish Jn                 94    60    99    69     H        N        N        N   N
-GW401   BGL2 Standish Jn – Yate South Jn (Change of      99    69   120    03     H        N        N        N   N
-             ELR)
-GW401   YAT    Yate South Jn (Change of ELR) –           120   03   121    28     H        N        N        N   N
-               Westerleigh Jn
-GW425   SAW/ Berkeley Road Jn – Sharpness (Network         0   04     3    69     N        N        N        N   N
-        SSS Rail Boundary)
-GW430   THO    Yate Middle Jn – Tytherington               0   00     6    24     H        N        N        N   N
-GW440   BGL2 Yate South Jn – Westerleigh Yard            120   03   122    65     N        N        N        N   N
-GW450   FEC    Stoke Gifford Jn No.1 – Change of ELR     111   79   113    01     H        N        N        N   N
-GW450   BSW Change of ELR – Bristol East Jn                4   50     0    26     H        N        N        N   N
-GW4501 AFR     Stoke Gifford Jn No.2 – Hallen Marsh Jn   112   05   118    42     H        N        N        N   N
-               (Change of ELR)
-GW4501 AMB Hallen Marsh Jn (Change of ELR) –             14    38    14    60     H        N        N        N   N
-           Holesmouth Jn
+                  Hanwell Jn – Heathrow Airport Jn
+         GW103 MLN1                    7 19  11 15  H    Y    Y    R1   R2 R1 Route prohibited to Class 360/1
+                  (Down Main)                                           R3 R2 Prohibited Hanwell Bridge Up and Down
+                                                                        R4    Goods Loops
+                                                                        R5 R3 Prohibited Southall Down East Sidings
+                                                                        R6 R4 Prohibited West Siding Southall West Jn
+                                                                           R5 Prohibited Hayes Up Sidings
+                                                                           R6 100mph maximum speed
+                  Heathrow Airport Jn (Down Main) –
+         GW103 MLN1                   11 15  12 09  H    N    Y    N    R1 R1 100mph maximum speed
+                  Stockley Bridge Jn (Limit of
+                  Electrification)
+         GW103 MLN1
+                  Stockley Bridge Jn (Limit of
+                                      12 09  18 36  H    N    Y    N    R1 R1 Prohibited Langley Sidings
+                  Electrification) – Slough
+                  Slough – Maidenhead Jn
+         GW103 MLN1                   18 36  24 24  H    N    R1   N    R2 R1 Prohibited Maidenhead platforms 1 and 4
+                                                                        R3    with crush deflated suspension
+                                                                           R2 Prohibited Slough Up Goods Loop and
+                                                                              Estate Sidings
+                                                                           R3 Prohibited with air bags deflated / failed
+                                                                              secondary suspension Maidenhead
+                                                                              platform 4
+                  Maidenhead Jn – Henley Branch Jn
+         GW103 MLN1                   24 24  31 04  H    N    Y    N    R1 R1 Prohibitied Twyford platform 2 in crush
+                                                                              deflated
+                  Henley Branch Jn – Reading New Jn
+         GW103 MLN1                   31 04  35 40  H    N    Y    N    R1 R1 Prohibitied Twyford platform 2 in crush
+                                                                              deflated
+                  Reading New Jn – Westbury Line Jn
+         GW103 MLN1                   35 40  36 17  H    N    R1   N    Y  R1 Prohibited Reading platform 12 with
+                                                                              deflated suspension
+         GW103 RLLReading East Jn – Route Boundary
+                                      35 61  35 38  N    N    N    N    N
+                  (SW210) (Reading Southern Jn)
+                  Westbury Line Jn – Reading West Jn
+         GW103 MLN1                   36 17  36 78  H    N    Y    N    R1 R1 Prohibited Reading West Jn Sidings
+                  Reading West Jn – Didcot East Jn
+         GW103 MLN1                   36 78  52 66  H    N    R1   N    R3 R1 Prohibited Tilehurst to Didcot East Jn
+                                                              R2           R2 20mph Tilehurst platform 1 Down Main
+                                                                              line
+                                                                           R3 Prohibited Reading West Jn Sidings
+                  Didcot East Jn – Chester Line Jn
+         GW103 MLN1                   52 66  53 12  H    N    N    N    Y
+                  Chester Line Jn – Foxhall Jn
+         GW103 MLN1                   53 12  53 55  H    N    N    N    Y
+                  Foxhall Jn – Uffington
+         GW103 MLN1                   53 55  66 39  H    N    N    N    Y
+                  Uffington – Swindon Jn
+         GW105 MLN1                   66 39  77 36  H    N    N    N    Y
 
-  April 2009                                                                      499C
+
+
+
+         April 2009                                499

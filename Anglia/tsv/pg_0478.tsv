@@ -1,18 +1,12 @@
-Anglia	0478	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge									Notes
-Anglia	0478					GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12
-Anglia	0478	EA1360	Neasden Jn – Neasden South Jn	Neasden Jn	Neasden South Jn	N	Y *	Y	N	N	N	N	N	N
-Anglia	0478	EA1360	Neasden Jn – Acton Canal Wharf Jn	Neasden Jn	Acton Canal Wharf Jn	N	Y	R1 S1	N	N	N	N	N	N	"R1 5 mph on the Up road only at Bridge No.10 at 7m 61ch between Acton Canal Wharf Jn and Neasden Jn. S1 8' 6"" high by 8' wide containers can be conveyed on FRA wagons, Deck height 990mm. 8' 6"" high by 8' 2.5"" wide containers may be conveyed on 825mm bed height Megafrets"
-Anglia	0478	EA1360	Dudding Hill Jn – Cricklewood Curve Jn	Dudding Hill Jn	Cricklewood Curve Jn	N	Y *	Y S1	N	N	N	N	N	N	"S1 8' 6"" high by 8' wide containers can be conveyed on FRA wagons, Deck height 990mm. 8' 6"" high by 8' 2.5"" wide containers may be conveyed on 825mm bed height Megafrets."
-Anglia	0478	EA1360	Dudding Hill Jn – Brent Curve Jn	Dudding Hill Jn	Brent Curve Jn	N	Y	Y	N	N	N	N	N	N
-Anglia	0478	EA1360	Acton Canal Wharf Jn – Acton Wells Jn	Acton Canal Wharf Jn	Acton Wells Jn	N	Y	Y	Y	Y	Y	Y	Y	Y
-Anglia	0478	EA1360	Acton Wells Jn – Willesden Jn	Acton Wells Jn	Willesden Jn	N	Y *	Y	Y	Y	R1	Y	Y	R1	R1 Acton Canal Wharf Jn to Route Boundary (00m 11ch)
-Anglia	0478	EA1360	Acton Wells Jn – Willesden West London Jn	Acton Wells Jn	Willesden West London Jn	N	Y	Y	Y	Y	N	Y	Y	N
-Anglia	0478	EA1370	Gospel Oak – Jn Rd Jn	Gospel Oak	Jn Rd Jn	N	Y	Y	Y	Y	N	Y	N	N
-Anglia	0478	EA1370	Carlton Rd Jn – Jn Rd Jn	Carlton Rd Jn	Jn Rd Jn	N	Y	Y	N	N	N	N	N	N
-Anglia	0478	EA1370	Jn Rd Jn – Harringay Park Jn	Jn Rd Jn	Harringay Park Jn	N	Y	Y	Y	Y	N	Y	N	N
-Anglia	0478	EA1370	Harringay Park Jn – Harringay West Jn	Harringay Park Jn	Harringay West Jn	N	Y	Y	Y	Y	N	N	N	N
-Anglia	0478	EA1370	Harringay Park Jn – South Tottenham West Jn	Harringay Park Jn	South Tottenham West Jn	N	Y	Y	Y	Y	N	Y	N	N
-Anglia	0478	EA1370	South Tottenham West Jn – South Tottenham East Jn	South Tottenham West Jn	South Tottenham East Jn	N	Y	Y	Y	Y	N	Y	N	N
-Anglia	0478	EA1370	South Tottenham East Jn – Woodgrange Park Jn	South Tottenham East Jn	Woodgrange Park Jn	N	Y *	Y	Y	Y	N	Y	N	N
-Anglia	0478	EA1370	Woodgrange Park Jn – Barking Tilbury Jn West	Woodgrange Park Jn	Barking Tilbury Jn West	N	Y *	Y	Y	Y	N	Y	N	N
-Anglia	0478	EA1380	Fenchurch Street – Barking Tilbury Jn West	Fenchurch Street	Barking Tilbury Jn West	N	Y	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Anglia	0478	EA1325	ELL1	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	8	EH R1 R2 R3	EH R1 R2 R3	N	EH R1 R2 R3	EH R1 R2 R3	E R1 R2 R3 R4	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) Vehicle must be hauled if overall length of train is less than 80m due to risk of gapping
+Anglia	0478	EA1325	ELL1	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	8	EH R1 R2	EH R1 R2	N	EH R1 R2	EH R1 R2	E R1 R2 R3	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph Vehicle must be hauled if overall length of train is less than 80m due to risk of gapping
+Anglia	0478	EA1325	ELL1	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Down East London Line) (TFL Infrastructure)	5	21	5	73	8	EH R1 R2	EH R1 R2	N	EH R1 R2	EH R1 R2	E R1 R2 R3	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph, 5mph through station platform and 10mph on section Canal Jn- 131points (DN)) Vehicle must be hauled if overall length of train is less than 80m due to risk of gapping
+Anglia	0478	EA1325	ELL2	Canal Jn – Lewisham (TFL Infrastructure)	5	21	5	78	8	N	N	Y	N	N	N	
+Anglia	0478	EA1327	ELL3	Silwood Jn – ELL/Network Rail Boundary (TFL Infrastructure)	4	66	5	51	8	N	N	Y	N	N	N	
+Anglia	0478	EA1327	ELL4	ELL/Network Rail Boundary – Old Kent Road Jn (SO680)	2	23	2	32	8	N	N	Y	N	N	N	
+Anglia	0478	EA1330	BOK 5	South Acton Jn – Kew East Jn	2	52	3	27	8	N	N	Y	N	N	N	
+Anglia	0478	EA1330	NKE1	Kew East Jn – Route Boundary (SW230) (New Kew Jn)	3	27	3	39	8	N	N	Y	N	N	N	
+Anglia	0478	EA1330	BOK5	Kew East Jn – Route Boundary (SW230) (Old Kew Jn)	3	27	3	61	8	N	N	Y	N	N	N	
+Anglia	0478	EA1340	LLS2	Lea Jn – High Meads Jn	0	51	0	65	8	Y	Y	Y	Y	N	Y	
+Anglia	0478	EA1350	CHM	Channelsea North Jn – High Meads Jn	0	00	0	15	8	Y	Y	Y	Y	N	N	

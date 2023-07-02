@@ -1,18 +1,25 @@
-London-North-Eastern	1253	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1253					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1253	LN826	Doncaster South Yorkshire Jn – Swinton Jn North / South	Doncaster South Yorkshire Jn	Swinton Jn North / South	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1253	LN828	Mexborough Jn – Aldwarke Jn via Kilnhurst	Mexborough Jn	Aldwarke Jn via Kilnhurst	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1253	LN830	Aldwarke Jn – Woodburn Jn	Aldwarke Jn	Woodburn Jn	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Up Tinsley R2 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Down Tinsley R3 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Up Tinsley R4 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Down Tinsley
-London-North-Eastern	1253	LN832	Doncaster Bridge Jn – St James Jn	Doncaster Bridge Jn	St James Jn	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1253	LN836	Doncaster, Marshgate Jn – Hare Park Jn	Doncaster, Marshgate Jn	Hare Park Jn	Y *	Y	Y	Y	N	N	N	N
-London-North-Eastern	1253	LN836	Hare Park Jn – Neville Hill East Jn	Hare Park Jn	Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1253	LN838	Leeds Armley Jn – York Skelton Jn via Harrogate	Leeds Armley Jn	York Skelton Jn via Harrogate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile and above 3650mm in height 10mph speed restriction through Wescoe Hill Tunnel on the Down: and 10mph speed restriction through Br39 on the Down. The Rail Head Treatment Train FEA wagon is permitted without restriction.
-London-North-Eastern	1253	LN840	Leeds Engine Shed Jn – Whitehall East Jn	Leeds Engine Shed Jn	Whitehall East Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1253	LN842	Stainforth Jn – Applehurst Jn	Stainforth Jn	Applehurst Jn	Y *	Y	Y	N	N	Y	Y	N
-London-North-Eastern	1253	LN842	Applehurst Jn – Adwick Jn	Applehurst Jn	Adwick Jn	Y *	Y	N	N	N	N	N	N
-London-North-Eastern	1253	LN842	Skellow Jn – Adwick Jn	Skellow Jn	Adwick Jn	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1253	LN844	Applehurst Loop	Applehurst Loop		Y	Y	Y	N	N	Y	Y	N
-London-North-Eastern	1253	LN846	Carcroft Jn – Skellow Jn	Carcroft Jn	Skellow Jn	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1253	LN848	Hare Park Jn – Crofton West Jn	Hare Park Jn	Crofton West Jn	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1253	LN850	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	Wakefield Westgate South Jn	Wakefield Kirkgate West Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1253	LN852	Holbeck Jn – Bradford Interchange	Holbeck Jn	Bradford Interchange	Y *	N	N	N	N	N	N	N
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1253	LN736	West Burton East Jn to West Burton West Jn East End Reception & Departure Lines	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1253	LN736	West Burton East Jn – West Burton West Jn West End Reception & Departure Lines	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1253	LN738	Great Coates No. 1 – Union Dock	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1253	LN740	Grimsby, Marsh West Jn – Humber Road Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1253	LN740	Immingham East Jn – Immingham NR/ABP Boundary [ 106m 50ch ]	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1253	LN741	Habrough Jn – Ulceby South Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1253	LN742	Killingholme – Brocklesby East & West Jns	Y	Y	Y	N	N	Y	N	Y	
+London-North-Eastern	1253	LN744	Ulceby North Jn – Barton On Humber	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN746	Cottam Power Station Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN748	Retford Western Jn – Thrumpton West Jn	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1253	LN750	Woodburn Jn – Deepcar	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN752	Wrawby Jn – Marshgate Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1253	LN754	Scunthorpe Foreign Ore Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN756	Scunthorpe Trent Jn – Roxby	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1253	LN758	Brancliffe East Jn – St Catherine's Jn [ 14m 62ch ]	Y	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Brancliffe East Jn and Dinnington Jn
+London-North-Eastern	1253	LN758	St Catherine's Jn [ 14m 62ch ] – Low Ellers Curve Jn [ 15m 55ch ]	Y	Y	Y	Y	N	Y	Y	N	
+London-North-Eastern	1253	LN758	Low Ellers Curve Jn [15m 55ch] – Kirk Sandall Jn	Y	N	N	N	N	Y	Y	N	
+London-North-Eastern	1253	LN758	Maltby Colliery Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN760	Firbeck Jn –– Harworth Colliery	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN762	St. Catherines Jn – Decoy South Jn (St. Catherine's Curve)	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1253	LN764	Low Ellers Curve	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1253	LN766	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1253	LN768	Mansfield Woodhouse – Shireoaks East Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN772	Warsop Jn – Shirebrook Jn	Y	N	N	N	N	N	N	N	

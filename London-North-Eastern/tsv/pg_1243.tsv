@@ -1,9 +1,11 @@
-London-North-Eastern	1243	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1243					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1243	LN101	Peterborough – Doncaster, Marshgate Jn	Peterborough	Doncaster, Marshgate Jn	R1	Y	Y	Y	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R1 PNA wagons restricted to 40mph through Newark North Gate when operating in tare condition R2 PROHIBITED Werrington Jn to South Yorkshire Jn R3 PROHIBITED on the Up Platform Loop through Doncaster platform 1 R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED on the Down Platform Loop through Doncaster platform 8 R7 PROHIBITED from Doncaster West Yard R8 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Goods R9 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Slow R10 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Up Slow R11 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Thorne Slow R12 PROHIBITED Werrington Jn to Shaftholme Jn R13 PROHIBITED on Peterborough Eastfield South Down Arrival R14 PROHIBITED on Peterborough Eastfield North Down Departure
-London-North-Eastern	1243	LN101	Doncaster, Marshgate Jn – Shaftholme Jn	Doncaster, Marshgate Jn	Shaftholme Jn	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1243	LN101	Helpston Junction – Peterborough (Stamford Lines)	Helpston Junction	Peterborough (Stamford Lines)	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1243	LN101	Decoy North Junction – Bridge Junction (Down Side Sidings)	Decoy North Junction	Bridge Junction (Down Side Sidings)	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1243	LN101	Potteric Carr Junction – Bridge Junction (Up Side Sidings)	Potteric Carr Junction	Bridge Junction (Up Side Sidings)	Y	Y	Y	Y	N	N	N	N
-London-North-Eastern	1243	LN105	Moorgate – Finsbury Park Jn	Moorgate	Finsbury Park Jn	N	N	N	N	N	N	N	N
-London-North-Eastern	1243	LN110	Canonbury West Jn – Finsbury Park Jn	Canonbury West Jn	Finsbury Park Jn	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1243	LN3615	PMJ	Route Boundary (LN147) – Uffington SB	13	60	12	75	9	N	N	Y	N	N	N	
+London-North-Eastern	1243	LN3615	PMJ	Uffington SB – Manton Jn	12	75	0	00	8	N	N	Y	N	N	N	
+London-North-Eastern	1243	LN3615	GSM2	Manton Jn – Melton Jn	90	25	105	70	8	N	N	Y	N	N	N	
+London-North-Eastern	1243	LN3615	GSM3	Melton Jn – Syston South Jn.	113	36	103	77	8	N	N	Y	N	N	N	
+London-North-Eastern	1243	LN3620	GSM4	Melton Jn GF – Asfordby	105	70	107	20	8	N	N	Y	N	N	N	
+London-North-Eastern	1243	LN3625	TSN1	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1243	LN3625	NOB1	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1243	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1243	LN3635	NOG1	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1243	LN3635	NOG2	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	8	N	N	Y	N	H R1	N	R1 75mph maximum speed

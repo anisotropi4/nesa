@@ -1,23 +1,24 @@
-Kent-Sussex-Wessex	0881	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0881	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO300	BEX	Lewisham Jn	Blackheath Jn	Lewisham Jn – Blackheath Jn	5	74	7	14	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO300	BTC	Blackheath Jn	Charlton Jn	Blackheath Jn – Charlton Jn	7	14	8	67	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO300	BEX	Blackheath Jn	Perry Street Fork Jn	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO300	PSF	Perry Street Fork Jn	Slade Green Jn	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	N	N	N	N	N
-Kent-Sussex-Wessex	0881	SO300	BEX	Perry Street Fork Jn	Crayford Creek Jn	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0881	SO110	TLP2	Bickley Jn – Petts Wood (Slow Tonbridge Loop)	12	49	13	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	CSM3	Hawkwood Jn (Up Chatham Loop) – St Mary Cray Jn	11	66	12	30	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	St Mary Cray Down Jn – St Mary Cray Up Jn	12	79	13	17	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Swanley Jn – Fawkham Jn	17	46	22	49	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Fawkham Jn – CTRL	22	49	0	00	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Fawkham Jn – Rochester Bridge Jn	22	49	33	01	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Rochester Bridge Jn – Gillingham	33	01	35	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Gillingham – Western Jn	35	75	43	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Western Jn – Eastern Jn	43	70	44	18	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Eastern Jn – Faversham Jn	44	18	52	13	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	VIR	Faversham Jn – Ramsgate Station	52	13	79	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO110	ACR	Ramsgate Station – Ramsgate Substation	85	67	85	22	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	XTD	Charing Cross – Metropolitan Jn	0	00	1	31	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	CBM	Cannon Street – Cannon Street Substation	0	00	0	20	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	CSW	Cannon Street Sub Station – Metropolitan Jn (via Metropolitan Reversible line)	1	53	1	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	XTD	Metropolitan Jn – Borough Market Jn	1	31	1	50	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	CBM	Cannon Street Substation – Borough Market Jn	0	20	0	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	XTD	Borough Market Jn – London Bridge platforms 1- 9	1	50	1	69	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	XTD	London Bridge platforms 1- 9 – North Kent East Jn	1	69	4	25	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	XTD	North Kent East Jn – Tanners Hill Jn	4	25	5	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0881	SO130	XTD	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	N	N	N	N	N	

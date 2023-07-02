@@ -1,22 +1,19 @@
-Kent-Sussex-Wessex	0929	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0929	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	15	36	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	15	66	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO290	NKL	Crayford Spur ‘A’ Jn	Dartford Jn	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO300	BEX	Lewisham Jn	Blackheath Jn	Lewisham Jn – Blackheath Jn	5	74	7	14	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO300	BTC	Blackheath Jn	Charlton Jn	Blackheath Jn – Charlton Jn	7	14	8	67	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO300	BEX	Blackheath Jn	Perry Street Fork Jn	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO300	PSF	Perry Street Fork Jn	Slade Green Jn	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO300	BEX	Perry Street Fork Jn	Crayford Creek Jn	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Hither Green Jn (SO290)	Lee Loop Jn	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	LEE	Lee Loop Jn	Lee Spur Jn	Lee Loop Jn – Lee Spur Jn	0	00	0	29	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Lee Loop Jn	Lee	Lee Loop Jn – Lee	7	29	7	66	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Lee	Crayford Spur ‘B’ Jcn	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	CRA	Crayford Spur ‘B’ Jn	Crayford Spur ‘A’ Jn	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Crayford Spur ‘B’ Jcn	Dartford Jn	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Dartford Jn	Hoo Jn	Dartford Jn – Hoo Jn	16	75	27	19	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Hoo Jn	Strood Jn	Hoo Jn – Strood Jn	27	19	31	16	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	HDR	Strood Jn	Rochester Bridge Jn	Strood Jn – Rochester Bridge Jn	31	16	31	34	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO310	PWS2	Strood Jn	Maidstone West Change of Mileage	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO320	HTG	Hoo Jn	Grain LC and Sidings beyond	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	0929	SO330	NTL	Nunhead Jn (SO260)	Lewisham Jn	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	Y	Y	Y	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0929	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	Y	N	N	N	E R1 R2 R3 R4 R5 R6	E R1 R2 R3 R4 R5 R6	N	Y	Y	Y	Y	R7	R1 45mph maximum speed R2 10mph Kidbrooke platforms 1 and 2 R3 10mph through Eltham Park (Closed) R4 10mph Welling platform 1 R5 10mph Bexleyheath platform 2 R6 10mph Barnehurst platform 1 R7 Prohibited Kidbrooke Up platform 1 with crush deflated suspension
+Kent-Sussex-Wessex	0929	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	R1	N	N	N	N	N	N	Y	Y	Y	Y	Y	R1 OPPOS applies on Erith Loop
+Kent-Sussex-Wessex	0929	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	Y	N	N	N	E	E	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	Y	E	N	N	E	E	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	R1	E	N	N	E	E	N	Y	Y	Y	N	Y	R1 OPPOS applies
+Kent-Sussex-Wessex	0929	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	Y	E	N	N	E	E	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	Y	N	N	N	E	E	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	R1	N	N	N	E	E	N	Y	Y	Y	Y	Y	R1 OPPOS applies
+Kent-Sussex-Wessex	0929	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	Y	N	N	N	N	N	N	Y	Y	Y	Y	R1	R1 Prohibited Higham platforms 1 & 2 with crush deflated suspension
+Kent-Sussex-Wessex	0929	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0929	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0929	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	Y	E	N	N	E	E	N	Y	Y	N	Y	R1	R1 45mph Avignon Road Bridge No.493 Up and Down North Kent 06m 27ch to 06m 34ch
+Kent-Sussex-Wessex	0929	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0929	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	E R1	E R1	N	Y	Y	Y	Y	Y	R1 45mph maximum speed
+Kent-Sussex-Wessex	0929	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	Y	N	N	N	N	N	N	Y	Y	Y	N	R1	R1 Prohibited Lewisham Up platform 1 with deflated suspension

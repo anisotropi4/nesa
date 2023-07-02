@@ -1,13 +1,18 @@
-Western	0821	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Western	0821					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0821	GW732	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	Abbey Foregate Jn	English Bridge Jn (Loop Lines)	Y	Y	Y	N	N	N	N	N
-Western	0821	GW733	Sutton Bridge Jn – Aberystwyth	Sutton Bridge Jn	Aberystwyth	Y *	N	N	N	N	N	N	N
-Western	0821	GW734	Dovey Jn – Pwllheli	Dovey Jn	Pwllheli	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons
-Western	0821	GW735	Shrewsbury, Crewe Jn – Nantwich	Shrewsbury, Crewe Jn	Nantwich	Y *	Y	Y	N	N	N	N	N
-Western	0821	GW736	Gobowen South – Llanddu Jn	Gobowen South	Llanddu Jn	Y	N	N	N	N	N	N	N
-Western	0821	GW740	Maindee North Jn – Maindee East Jn	Maindee North Jn	Maindee East Jn	Y	Y	Y	N	N	N	N	N
-Western	0821	GW750	Hereford/Brecon Curve GF – MEB Siding	Hereford/Brecon Curve GF	MEB Siding	Y	N	N	N	N	N	N	N
-Western	0821	GW770	Ebbw Vale Parkway – Gaer Jn (Western Valley Line)	Ebbw Vale Parkway	Gaer Jn (Western Valley Line)	Y *	Y	Y	R1	N	N	N	N	R1 W9 15mph Both lines O/Br WVL [9m 45ch]
-Western	0821	GW773	Machen Quarry – Park Jn	Machen Quarry	Park Jn	Y	N	N	N	N	N	N	N
-Western	0821	GW780	Park Jn – Ebbw Jn	Park Jn	Ebbw Jn	Y	Y	Y	N	N	N	N	N
-Western	0821	GW784	Alexandra Dock Jn – 160m 27ch (Boundary with Newport Docks)	Alexandra Dock Jn	160m 27ch (Boundary with Newport Docks)	Y	Y	Y	N	N	N	N	N
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Western	0821	GW620	Newton Abbott West Jn – Paignton	Y *	N	N	N	N	N	N	N	
+Western	0821	GW628	Laira Jn/Lipson Jn – Plymouth Friary via Speedway Jn	Y	Y	N	N	N	N	N	N	
+Western	0821	GW628	Plymouth Friary Jn. – Cattewater	Y	N	N	N	N	N	N	N	
+Western	0821	GW637	St Budeaux Jn – Gunnislake	Y	N	N	N	N	N	N	N	
+Western	0821	GW640	Liskeard – Looe via Coombe	Y *	N	N	N	N	N	N	N	
+Western	0821	GW642	Coombe (Exclusive) – Moorswater	Y	N	N	N	N	N	N	N	
+Western	0821	GW650	Lostwithiel – Carne Point, Fowey	Y *	N	N	N	N	N	N	N	
+Western	0821	GW660	Par – St Blazey Jn	Y *	Y	N	N	N	N	N	N	
+Western	0821	GW660	St Blazey Jn – Newquay	Y	N	N	N	N	N	N	N	
+Western	0821	GW660	St Blazey Jn – Par Harbour (Imerys Boundary)	Y	Y	N	N	N	N	N	N	
+Western	0821	GW672	Burngullow Jn – Parkandillack	Y	N	N	N	N	N	N	N	
+Western	0821	GW680	Penwithers Jn – Falmouth	Y	Y	N	N	N	N	N	N	
+Western	0821	GW690	St Erth – St Ives	Y	N	N	N	N	N	N	N	
+Western	0821	GW700	Gloucester Barnwood Jn – Severn Tunnel Jn	Y *	Y	Y	N	N	N	N	N	
+Western	0821	GW700	Lydney Junction – NR/DFR Boundary	Y	N	N	N	N	N	N	N	
+Western	0821	GW710	Llanwern Works East – Llanwern Works West via BSS	Y	Y	Y	Y	N	N	N	N	
+Western	0821	GW720	Uskmouth – East Usk Jn	Y	Y	N	N	N	N	N	N	

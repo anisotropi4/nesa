@@ -1,19 +1,16 @@
-Kent-Sussex-Wessex	1102	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	1102					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Kent-Sussex-Wessex	1102	SW155	Marchwood – Fawley (Goods Line)	Marchwood	Fawley (Goods Line)	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW160	Brockenhurst – Lymington Pier	Brockenhurst	Lymington Pier	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW165	Hamworthy – Hamworthy Goods (Goods Line)	Hamworthy	Hamworthy Goods (Goods Line)	Y	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW170	Westbury – Wilton Jn	Westbury	Wilton Jn	Y	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW175	Castle Cary – Dorchester Jn	Castle Cary	Dorchester Jn	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW175	Yeovil, Pen Mill Jn – Yeovil Junction	Yeovil, Pen Mill Jn	Yeovil Junction	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW180	Raynes Park – Horsham	Raynes Park	Horsham	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW185	Motspur Park – Chessington South	Motspur Park	Chessington South	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW190	New Malden Jn – Shepperton	New Malden Jn	Shepperton	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW195	Hampton Court Jn – Hampton Court	Hampton Court Jn	Hampton Court	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW200	Hampton Court Jn – Guildford (via Cobham)	Hampton Court Jn	Guildford (via Cobham)	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW205	Leatherhead – Effingham Junction	Leatherhead	Effingham Junction	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW210	Clapham Junction – Barnes Jn	Clapham Junction	Barnes Jn	Y *	Y	S1	S2	N	N	N	N	S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA FLA wagons 2590 (h) x 2500 (w) box on FCA wagons 2667 (h) x 2500 (w) box on FIA FKA wagons 2625 (h) x 2550 (w) S17 FT on FEA FSA/FTA wagons 2615 (h) x 2550 (w) S16 FT on KFA wagons S2 The following combinations are permitted, up to: 2770 (h) x 2550 (w) box on FIA IFA wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2553 (h) x 2500 (w) box on IFB wagons
-Kent-Sussex-Wessex	1102	SW210	Barnes Jn – Feltham Jn (via North Sheen)	Barnes Jn	Feltham Jn (via North Sheen)	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW210	Feltham Jn – Virginia Water	Feltham Jn	Virginia Water	Y *	Y	Y	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW210	Virginia Water – Wokingham Jn	Virginia Water	Wokingham Jn	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1102	SW210	Wokingham Jn – Reading	Wokingham Jn	Reading	Y *	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+Kent-Sussex-Wessex	1102	SW110	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW110	WPH2	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW110	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW110	WPH2	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW110	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	7*	Y	Y	Y	Y	Y	Y	Y	R1	Y	R1 Prohibited from platforms 1 & 3 at Portsmouth Harbour unless hauling Infrastructure Monitoring Trains
+Kent-Sussex-Wessex	1102	SW115	BAE1	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	8	R1	R1	R1	R1	R1	R1	R1	R1	Y	R1 40mph over Hurstbourne viaduct between Whitchurch and Andover if there is more than one locomotive
+Kent-Sussex-Wessex	1102	SW115	LUD1	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	LUD2	Red Post Jn – Ludgershall	0	00	5	64	8	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	BAE1	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	LAV	Laverstock North Jn – Laverstock South Jn	82	05	82	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	BAE1	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	BAE1	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	BAE2	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1102	SW115	BAE2	Wilton Jn – Gillingham	85	37	105	23	7	Y	Y	N	Y	R1	Y	Y	Y	Y	R1 70mph
+Kent-Sussex-Wessex	1102	SW115	BAE2	Gillingham – Yeovil Jn	105	23	122	48	6	N	Y	N	Y	R1	N	N	Y	Y	R1 70mph

@@ -1,20 +1,29 @@
-London-North-Western-North	0904	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel)	Route Boundary LNW / Wales	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	N	H	N	N	N
-London-North-Western-North	0904	NW3001	CNH3	Route Boundary LNW / Wales	Holyhead	Route Boundary LNW / Wales – Holyhead	188	40	263	56	N	H R1 R2 R3	N	N	N	R2 Prohibited Down Goods Loop (Holywell Jn) R3 Prohibited Llandudno Jn bay platform 2 R4 Prohibited Holyhead platform 3
-London-North-Western-North	0904	NW3003	CHW1	Chester East Jn	Acton Grange Jn	Chester East Jn – Acton Grange Jn	0	24	16	19	N	N	N	N	N
-London-North-Western-North	0904	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn)	Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	N	N	N	N	N
-London-North-Western-North	0904	NW3005	WSJ2	Route Boundary Wales / LNW	Saltney Jn	Route Boundary Wales / LNW – Saltney Jn	202	60	212	06	N	N	N	N	N
-London-North-Western-North	0904	NW3007	WDB1	Wrexham Central	Wrexham Exchange Jn	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	N	N	N	N	N
-London-North-Western-North	0904	NW3007	WDB1	Wrexham Exchange Jn	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	N	N	N	N	N
-London-North-Western-North	0904	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge)	Change of ELR	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	N	N	N	N	N
-London-North-Western-North	0904	NW3007	WDB2 /3	Change of ELR	Route Boundary Wales / LNW	Change of ELR – Route Boundary Wales / LNW	14	15	11	00	N	N	N	N	N
-London-North-Western-North	0904	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn		Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	N	N	N	N	N
-London-North-Western-North	0904	NW3009	CVS	Chester North Jn	Chester South Jn	Chester North Jn – Chester South Jn	0	36	0	13	N	N	N	N	N
-London-North-Western-North	0904	NW3011	CRR1	Chester West Jn	Hooton South Jn	Chester West Jn – Hooton South Jn	0	16	7	68	N	N	N	Y	Y
-London-North-Western-North	0904	NW3013	HHJ	Hooton South. Jn	Ellesmere Port (Limit of DC electrification)	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	N	N	N	Y	Y
-London-North-Western-North	0904	NW3013	HHJ	Ellesmere Port (Limit of DC electrification)	Helsby Jn	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	N	N	N	N	N
-London-North-Western-North	0904	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of line	Llandudno Jn – Blaenau Ffestiniog, End of line	0	30	27	53	N	N	N	N	N
-London-North-Western-North	0904	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	N	N	N	N	N
-London-North-Western-North	0904	NW3019	GLA	Gaerwen	Network Rail Boundary	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
-London-North-Western-North	0904	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	N	N	N	N	N
-London-North-Western-North	0904	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	N	N	N	N	N
-London-North-Western-North	0904	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	323	325	350	Notes
+London-North-Western-North	0904	NW4033	CBC1	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	N	N	N	N	N	H	E	
+London-North-Western-North	0904	NW4033	CBC1	Limit of Electrification (Carnforth) - Whitehaven	0	60	74	66	N	N	N	N	N	H	N	
+London-North-Western-North	0904	NW4033	CBC1	Whitehaven - Bransty SB (Change of ELR)	74	66	74	73	N	N	N	N	N	H	N	
+London-North-Western-North	0904	NW4033	CBC2	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	N	N	N	N	N	H	N	
+London-North-Western-North	0904	NW4033	CBC3	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	N	N	N	N	N	H R1	N	R1 Prohibited between Maryport and Carlisle South Jn
+London-North-Western-North	0904	NW4041	DAP	Dalton Jn – Park South Jn	0	00	0	76	N	N	N	N	N	H	N	
+London-North-Western-North	0904	NW5001	CMP1	Crewe North Jn – Sandbach North Jn	158	17	162	62	N	Y	Y	Y	Y	Y	R1	R1 Class 350/1 prohibited when laden
+London-North-Western-North	0904	NW5001	CMP1	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	N	Y	Y	Y	Y	Y	R1	R1 Class 350/1 prohibited when laden
+London-North-Western-North	0904	NW5001	CMP1	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	R1	Y	Y	Y	Y	Y	R2	R1 Prohibited between Wilmslow South Jn and Cheadle Hulme R2 Class 350/1 prohibited when laden
+London-North-Western-North	0904	NW5001	CMP1	Cheadle Hulme North Jn - Edgeley Jn No.1	180	67	182	36	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5001	CMP2	Edgeley Jn No.1 - Edgeley Jn	182	36	182	59	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5001	CMP2	Edgeley Jn – Slade Lane Jn	182	59	186	46	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5001	CMP2	Slade Lane Jn – Ardwick Jn	186	46	188	08	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5001	CMP2	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5001	CMP2	Manchester Piccadilly East Jn – Manchester Piccadilly	188	48	188	70	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5003	STY	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5003	STY	Heald Green South Jn – Heald Green North Jn	2	50	3	13	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5003	STY	Heald Green North Jn – Slade Lane Jn	3	13	9	44	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5005	SMA	Heald Green South Jn – Heald Green West Jn	1	48	1	10	N	Y	Y	Y	Y	H	Y	
+London-North-Western-North	0904	NW5007	MIA	Manchester Airport – Heald Green North Jn	0	00	1	51	N	Y	Y	Y	Y	H	Y	
+London-North-Western-North	0904	NW5008	LEC6	Little Bridgeford Jn – Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	137	42	138	55	Y	N	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5008	NBS	Searchlight Lane Jn (Change of ELR and mileage) – Stone Jn	4	06	0	00	Y	N	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5008	NBS1	Norton Bridge Jn – Yamfield Jn (Norton Bridge East Chord)	4	14	2	50	N	N	N	N	N	N	N	
+London-North-Western-North	0904	NW5009	CMD2	Colwich Jn – Stone Jn	38	61	27	00	Y	N	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5009	CMD2	Stone Jn – Stoke Jn	27	00	20	36	Y	N	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5009	CMD2	Stoke Jn – Glebe Street Jn	20	36	20	10	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0904	NW5009	CMD2	Glebe Street Jn – Change of ELR	20	10	15	65	Y	R1	Y	Y	Y	Y	Y	R2 Prohibited Up Goods Loop between Bradwell Jn and Longport Jn
+London-North-Western-North	0904	NW5009	CMD1	Change of ELR – Kidsgrove Jn	16	00	13	68	Y	Y	Y	Y	Y	Y	Y	

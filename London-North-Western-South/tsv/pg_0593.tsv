@@ -1,20 +1,19 @@
-London-North-Western-South	0593	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	Notes
-London-North-Western-South	0593	MD101	LEC1	London Euston	Camden Jn DC Lines	London Euston – Camden Jn DC Lines	0	00	1	36	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Camden Jn DC Lines	Camden Jn (NLL)	Camden Jn DC Lines – Camden Jn (NLL)	1	36	1	51	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Camden Jn	West London Jn (Willesden)	Camden Jn – West London Jn (Willesden)	1	51	5	23	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LLG	West London Jn (Willesden)	Sudbury Jn (Willesden Relief Lines)	West London Jn (Willesden) – Sudbury Jn (Willesden Relief Lines)	0	12	2	03	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	West London Jn (Willesden)	Harlesden Jn	West London Jn (Willesden) – Harlesden Jn	5	23	6	01	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Harlesden Jn	Watford South Jn	Harlesden Jn – Watford South Jn	6	01	17	06	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Watford South Jn	Bletchley South Jn	Watford South Jn – Bletchley South Jn	17	06	46	41	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Bletchley South Jn – Bletchley (Platforms 1 –5)	Denbigh Hall South Jn	Bletchley South Jn – Bletchley (Platforms 1 –5) – Denbigh Hall South Jn	46	41	47	52	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Denbigh Hall South Jn	Hanslope North Jn	Denbigh Hall South Jn – Hanslope North Jn	47	52	56	66	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Hanslope North Jn	Hillmorton Jn	Hanslope North Jn – Hillmorton Jn	56	66	81	28	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC1	Hillmorton Jn	Rugby Trent Valley Jn	Hillmorton Jn – Rugby Trent Valley Jn	81	28	83	18	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD101	LEC2	Rugby Trent Valley Jn	Armitage Jn (NW1001 Sectional Appendix Boundary)	Rugby Trent Valley Jn – Armitage Jn (NW1001 Sectional Appendix Boundary)	83	18	119	20	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD105	HNR	Hanslope Jn (MD101)	Northampton South Jn	Hanslope Jn (MD101) – Northampton South Jn	56	66	65	55	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD105	HNR	Northampton South Jn	Northampton North Jn	Northampton South Jn – Northampton North Jn	65	55	66	12	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD105	HNR	Northampton North Jn	Rugby South Jn	Northampton North Jn – Rugby South Jn	66	12	83	54	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD120	CWJ	Camden Jn DC lines (Down DC line mileage)	Kilburn High Road (DC Lines)	Camden Jn DC lines (Down DC line mileage) – Kilburn High Road (DC Lines)	1	36	3	01	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD120	CWJ	Kilburn High Road	Willesden Suburban Jn (DC Lines)	Kilburn High Road – Willesden Suburban Jn (DC Lines)	3	01	5	28	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD120	CWJ	Willesden Suburban Jn	Harrow and Wealdstone (Sand Drag) (DC Lines)	Willesden Suburban Jn – Harrow and Wealdstone (Sand Drag) (DC Lines)	5	28	11	46	8	Y	Y	Y	Y	Y	Y
-London-North-Western-South	0593	MD120	CWJ	Harrow and Wealdstone (Sand Drag)	Watford Jn (DC Lines)	Harrow and Wealdstone (Sand Drag) - Watford Jn (DC Lines)	11	46	17	58	8	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+London-North-Western-South	0593	MD105	HNR	Northampton South Jn – Northampton North Jn	65	55	66	12	Y	Y	Y	N	Y	Y	N	Y	Y	
+London-North-Western-South	0593	MD105	HNR	Northampton North Jn – Rugby South Jn	66	12	83	54	Y	Y	Y	N	Y	Y	N	Y	Y	
+London-North-Western-South	0593	MD120	CWJ	Camden Jn DC lines (Down DC line mileage) – Kilburn High Road (DC Lines)	1	36	3	01	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD120	CWJ	Kilburn High Road – Willesden Suburban Jn (DC Lines)	3	01	5	28	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD120	CWJ	Willesden Suburban Jn – Harrow and Wealdstone (Sand Drag) (DC Lines)	5	28	11	46	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD120	CWJ	Harrow and Wealdstone (Sand Drag) – Watford Jn (DC Lines)	11	46	17	58	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD130	WSA	Watford Junction – St Albans Abbey	0	00	6	45	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD136	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	Y	Y	Y	N	Y	Y	N	Y	N	
+London-North-Western-South	0593	MD136	WCL	Railnet Jn – Willesden Carriage Shed South	1	11	2	00	Y	Y	Y	N	Y	Y	N	Y	N	
+London-North-Western-South	0593	MD136	WCL	Willesden Carriage Shed South – Connection with Yard line	2	00	2	60	Y	Y	Y	N	Y	Y	N	Y	N	
+London-North-Western-South	0593	MD136	WEF1	Connection with Yard line – Wembley Central Jn	2	60	2	76	Y	Y	Y	N	Y	Y	N	N	N	
+London-North-Western-South	0593	MD137	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	Y	Y	Y	N	Y	Y	N	Y	N	
+London-North-Western-South	0593	MD137	UHL	Railnet Jn – Wembley Yard South Jn	1	11	1	62	Y	Y	Y	N	Y	Y	N	Y	N	
+London-North-Western-South	0593	MD137	WEF1	Wembley Yard South Jn – Wembley Central Jn	1	62	2	76	Y	Y	Y	N	Y	Y	N	Y	N	
+London-North-Western-South	0593	MD140	LEC1	Bletchley South Jn – Bletchley North Jn (Change of Mileage)	46	41	46	59	Y	Y	Y	N	N	N	N	Y	Y	
+London-North-Western-South	0593	MD140	BBM	Bletchley North Jn (Change of Mileage) – Limit of electrification (Bletchley TMD)	0	11	0	21	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD140	BBM	Limit of electrification (Bletchley TMD) – Route Boundary (LN3140) (Bedford)	0	21	16	07	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0593	MD145	CRC2	Route Boundary (EA1320) (Camden Road West Jn) – Camden Jn (North DC lines)	5	42	5	78	Y	Y	Y	EH R1	N	Y	N	Y	N	R1 Prohibited with footsteps fitted

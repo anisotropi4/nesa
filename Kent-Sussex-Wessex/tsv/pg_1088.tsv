@@ -1,23 +1,18 @@
-Kent-Sussex-Wessex	1088	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
-Kent-Sussex-Wessex	1088	SW210	RDG1	Clapham Jn	Point Pleasant Jn	Clapham Jn – Point Pleasant Jn	3	74	5	09	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RDG1	Point Pleasant Jn	Richmond	Point Pleasant Jn – Richmond	5	09	9	57	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RDG1	Richmond	Virginia Water	Richmond – Virginia Water	9	57	23	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RDG1	Virginia Water	Wokingham Jn	Virginia Water – Wokingham Jn	23	15	36	35	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RDG2	Wokingham Jn	Reading Spur Jn	Wokingham Jn – Reading Spur Jn	61	72	67	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RNJ	Reading Spur Jn	Route Boundary (GW190) (Reading New Jn)	Reading Spur Jn – Route Boundary (GW190) (Reading New Jn)	68	00	67	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RDG2	Reading Spur Jn	Reading Southern Jn	Reading Spur Jn – Reading Southern Jn	67	76	68	25	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RLL	Route Boundary Western (Reading East Main Jn)	Reading Southern Jn	Route Boundary Western (Reading East Main Jn) – Reading Southern Jn	35	35	0	00	8	N	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW210	RDG2	Reading Southern Jn	Reading platforms 4, 5 and 6	Reading Southern Jn – Reading platforms 4, 5 and 6	68	25	68	68	8	Y	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Reading Bay platform 6
-Kent-Sussex-Wessex	1088	SW220	CKL	Latchmere Jn No.3	Latchmere Jn No.1 [Duplicated in SO250]	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SO250]	2	39	2	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW220	WLL	Latchmere Jn No.1	Latchmere Jn No.2 [Duplicated in SO250]	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SO250]	0	63	0	68	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW220	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SO250]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SO250]	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW225	PPW	Point Pleasant Jn – Network Rail Boundary (TfL	District Line)	Point Pleasant Jn – Network Rail Boundary (TfL – District Line)	5	09	5	67	6	N	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1088	SW225	PPW	Network Rail Boundary (TfL – District Line)	Wimbledon North Jn (TfL infrastructure)	Network Rail Boundary (TfL – District Line) – Wimbledon North Jn (TfL infrastructure)	5	67	8	26	6	N	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1088	SW230	HOU	Barnes	New Kew Jn	Barnes – New Kew Jn	7	07	9	34	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW230	NKE2	New Kew Jn	Route Boundary (EA1330) (Kew East Jn)	New Kew Jn – Route Boundary (EA1330) (Kew East Jn)	9	34	9	64	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW230	HOU	New Kew Jn	Old Kew Jn	New Kew Jn – Old Kew Jn	9	34	10	01	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW230	BOK5	Old Kew Jn	Route Boundary (EA1330) (Kew East Jn)	Old Kew Jn – Route Boundary (EA1330) (Kew East Jn)	3	69	3	61	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW230	HOU	Old Kew Jn	Hounslow Jn	Old Kew Jn – Hounslow Jn	10	01	14	09	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW230	HJW	Hounslow Jn	Whitton Jn	Hounslow Jn – Whitton Jn	14	09	14	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW230	HOU	Hounslow Jn	Feltham Jn	Hounslow Jn – Feltham Jn	14	09	14	38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	1088	SW245	TSJ	Jn (Twickenham)	Strawberry Hill Jn	Jn (Twickenham) – Strawberry Hill Jn	11	48	12	27	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+Kent-Sussex-Wessex	1088	SW140	SDP2	Cosham – Cosham Jn	90	06	90	43	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW140	SDP2	Cosham Jn – Portcreek Jn	90	43	91	01	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW140	FJJ	Cosham Jn – Farlington Jn	90	43	91	14	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW145	SOY	Northam Jn – Canute Road LC (AOCL) (Eastern Docks)	78	15	79	02	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW150	RTJ1	Redbridge Jn – Romsey Jn	23	32	18	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW150	RTJ2	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW155	TTF	Totton – Marchwood	82	43	86	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW155	TTF	Marchwood – Fawley GF	86	10	91	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW160	BLP	Brockenhurst – Lymington Pier	92	66	98	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW165	HAG	Hamworthy – Hamworthy Goods (Stop board)	115	77	118	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW170	SAL	Wilton Jn – Route Boundary Western (GW5001) (Westbury South Jn)	132	33	115	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW175	WEY	Route Boundary (GW500) (Castle Cary Jn) – Yeovil Pen Mill Jn	130	00	141	35	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW175	YJP	Yeovil Pen Mill Jn – Yeovil Jn	1	42	0	00	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW175	WEY	Yeovil Pen Mill Jn – Dorchester Jn	141	35	162	14	6	R1	R1	R1	R1	R1	R1	R1	R1	R1 40mph maximum speed
+Kent-Sussex-Wessex	1088	SW180	RPE	Raynes Park – Epsom (Change of ELR)	8	51	14	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW180	BTH2	Route Boundary Sussex (Ewell East) – Epsom [Duplicated in SO680]	17	33	18	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1088	SW180	BTH3	Epsom (Change of ELR) – Leatherhead [Duplicated in SO680]	14	27	18	02	8	Y	Y	Y	Y	Y	Y	Y	Y	

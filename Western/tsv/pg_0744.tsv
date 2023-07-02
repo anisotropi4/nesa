@@ -1,6 +1,27 @@
-Western	0744	GW960	SWM 2	Clarbeston Road	Haverfordwest	Clarbeston Road – Haverfordwest	271	08	276	08	H	N	N	N	N
-Western	0744	GW960	SWM 2	Haverfordwest	Change of ELR (Site of Former Johnston Jn)	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	H	N	N	N	N
-Western	0744	GW960	MIL	Change of ELR (Site of Former Johnston Jn)	Herbranston Jn	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	H	N	N	N	N
-Western	0744	GW960	MIL	Herbranston Jn	End of Line (Beyond Milford Haven)	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	H	N	N	N	N
-Western	0744	GW970	GOB	Gulf Oil Branch Jn	Waterston, Gulf Oil Refinery	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N
-Western	0744	GW980	ERB	Herbrandston Jn	Robeston	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	332	345	360	387	Notes
+Western	0744	GW810	CAR	End of Line (Rhymney) – Ystrad Mynach South Jn	24	00	13	41	H	N	N	N	N	
+Western	0744	GW810	CAR	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	H	N	N	N	N	
+Western	0744	GW810	CAR	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	H	N	N	N	N	
+Western	0744	GW820	TBD	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	N	N	N	N	N	
+Western	0744	GW820	VON	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	N	N	N	N	N	
+Western	0744	GW820	PTA	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	N	N	N	N	N	
+Western	0744	GW828	CRY	Coryton – Heath Jn	2	57	0	15	H	N	N	N	N	
+Western	0744	GW830	CAM	Merthyr Tydfil – Abercynon Jn	24	44	16	35	H	N	N	N	N	
+Western	0744	GW830	CAM	Abercynon Jn – Pontypridd Jn	16	35	13	04	H	N	N	N	N	
+Western	0744	GW830	CAM	Pontypridd Jn – Radyr Jn	13	04	5	23	H	N	N	N	N	
+Western	0744	GW830	CAM	Radyr Jn – Queen Street North Jn	5	23	1	17	H	N	N	N	N	
+Western	0744	GW830	CAM	Queen Street North Jn – Queen Street South Jn	1	17	0	66	H	N	N	N	N	
+Western	0744	GW830	CEJ	Queen Street South Jn – Cardiff East Jn	0	22	0	00	H	N	N	N	N	
+Western	0744	GW830	SWM 2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	H	N	N	N	Y	
+Western	0744	GW830	BRY	Cardiff West Jn – Barry Jn	0	10	8	16	H	N	N	N	N	
+Western	0744	GW830	BRY	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	H	N	N	N	N	
+Western	0744	GW834	VON	Network Rail Boundary – Aberdare	26	62	22	34	H	N	N	N	N	
+Western	0744	GW834	VON/ ALK	Aberdare – Cwmbach Change of ELR	22	34	20	68	H	N	N	N	N	
+Western	0744	GW834	ABD/ MOA	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	H	N	N	N	N	
+Western	0744	GW835	THT	End of Line – Treherbert	23	69	23	54	H	N	N	N	N	
+Western	0744	GW835	THT	Treherbert – Pontypridd Jn	23	54	13	04	H	N	N	N	N	
+Western	0744	GW839	CAM	Queen Street South Jn – Cardiff Bay	0	66	0	02	H	N	N	N	N	
+Western	0744	GW840	RAD	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	H	N	N	N	N	
+Western	0744	GW840	RAD	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	H	N	N	N	N	
+Western	0744	GW840	RAD	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	H	N	N	N	N	
+Western	0744	GW850	CLL	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	H	N	N	N	N	

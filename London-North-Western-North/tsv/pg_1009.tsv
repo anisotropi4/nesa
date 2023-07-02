@@ -1,22 +1,13 @@
-London-North-Western-North	1009	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	1009	NW3023	CDM2	Change of ELR (Altrincham)	Mickle Trafford Jn	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	8	R1 R2 R3 R4 R5 R6	R1 Prohibited between Ashley and Mobberley on the Down line R2 Prohibited between Altrincham and Ashley on the Down line R3 Prohibited Lostock Gralam platform (Up line) R4 Prohibited Northwich platform (Down & Up Goods line) R5 Prohibited Delamere platform (Up line) R6 Prohibited between Mouldsworth and Mickle Trafford Jn on the Single line
-London-North-Western-North	1009	NW3025	WJP1	Skelton Jn	Partington Jn Network Rail Boundary	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	7	Y
-London-North-Western-North	1009	NW3027	CDM1	Network Rail Boundary (Metrolink)	Deansgate Jn	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	8	Y
-London-North-Western-North	1009	NW3027	CDM1	Deansgate Jn	Altrincham	Deansgate Jn – Altrincham	7	05	8	00	8	Y
-London-North-Western-North	1009	NW3029	SNJ	Sandbach North Jn	Northwich West Jn	Sandbach North Jn – Northwich West Jn	0	00	8	64	8	Y
-London-North-Western-North	1009	NW3031	NSN	Northwich South Jn	Northwich Station Jn	Northwich South Jn – Northwich Station Jn	8	37	8	66	8	Y
-London-North-Western-North	1009	NW3033	HEG	Hartford East Jn	Hartford North Jn (East Goods line)	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	8	Y
-London-North-Western-North	1009	NW3035	HWG	Hartford West Jn	Hartford North Jn (West Goods line)	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	8	Y
-London-North-Western-North	1009	NW3037	HCN	Hartford C.L.C. Jn	Hartford Jn	Hartford C.L.C. Jn – Hartford Jn	0	72	0	16	8	Y
-London-North-Western-North	1009	NW4001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y
-London-North-Western-North	1009	NW4001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y
-London-North-Western-North	1009	NW4001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y
-London-North-Western-North	1009	NW4001	CGJ6	Preston Fylde Jn	Lancaster	Preston Fylde Jn – Lancaster	0	33	20	78	8	Y
-London-North-Western-North	1009	NW4001	CGJ7	Lancaster	Carnforth North Jn	Lancaster – Carnforth North Jn	0	00	6	08	8	Y
-London-North-Western-North	1009	NW4001	CGJ7	Carnforth North Jn	Oxenholme	Carnforth North Jn – Oxenholme	6	08	19	11	8	Y
-London-North-Western-North	1009	NW4001	CGJ7	Oxenholme	Upperby Jn	Oxenholme – Upperby Jn	19	11	68	23	8	Y
-London-North-Western-North	1009	NW4001	CGJ7	Upperby Jn	Carlisle	Upperby Jn – Carlisle	68	23	69	09	8	R1 R2	R1 Prohibited Carlisle Down Bay platform 2 (Up Maryport & Carlisle line) R2 Prohibited Carlisle platform 4 (Up Main line)
-London-North-Western-North	1009	NW4001	WCM1	Carlisle	Mossband Jn (Including Kingmoor Yard Goods lines)	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	8	R1 R2	R1 Prohibited Carlisle bay platform 7 R2 Prohibited Carlisle bay platform 8
-London-North-Western-North	1009	NW4001	WCM1	Mossband Jn	Gretna Jn	Mossband Jn – Gretna Jn	7	57	8	57	8	Y
-London-North-Western-North	1009	NW4001	WCM1	Gretna Jn	Route Boundary (SC001) (Gretna Green)	Gretna Jn – Route Boundary (SC001) (Gretna Green)	8	57	12	30	8	Y
-London-North-Western-North	1009	NW4001	UCJ	Upperby Bridge Jn	Upperby Bridge	Upperby Bridge Jn – Upperby Bridge	67	58	68	23	8	R	R1 Prohibited between Upperby Bridge Jn and Upperby Jn on the Up Through Goods line
+Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	1009	NW5012	Foley Crossing (excl.) - Stoke Jn.	8	W6A Ex (W7)	Y	
+London-North-Western-North	1009	NW5013	Denton Jn. - Ashton Moss North Jn.	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1009	NW5015	Hadfield - Ardwick Jn.	8	R1	R2	R1 R2 SB1C (W9) Hyde Jn. - Ardwick Jn. HAJ Br.51: RA9/10 vehicles are restricted to 20mph over the bridge (10m 00ch - 10m 20ch); HAJ Br.54: RA9/10 vehicles are restricted to 20mph over the bridge (11m 40ch - 12m 00ch).
+London-North-Western-North	1009	NW5017	Dinting South Jn. - Dinting East Jn.	8	/	N	
+London-North-Western-North	1009	NW5019	Glossop - Dinting West Jn.	8	/	N	
+London-North-Western-North	1009	NW5021	Stalybridge - Guide Bridge West Jn.	8	SB1C (W9)	R	R MVL3 Br.1: RA9/10 vehicles are restricted to 10mph over the bridge (7m 77ch - 8m 10ch).
+London-North-Western-North	1009	NW6001	Manchester Piccadilly East Jn. - Euxton Jn.	8	R1 R2	R3	R1 R2 R3 SB1C (W9) Manchester Piccadilly East Jn. - Ordsall Lane Jn. W12 Castlefield Jn – Ordsall Lane Jn RA9/10 vehicles are restricted to 20mph Manchester Piccadilly East Jn. – Castlefield Jn.
+London-North-Western-North	1009	NW6003	Castlefield Jn. - Allerton Jn.	7 R1	SB1C (W9)	R2	R1 R2 This route is RA8 between Castlefield Jn. and Trafford Park West Jn. RA8/9/10 vehicles permitted throughout, Castlefield Jn. to Allerton West Jn., subject to observance of the following restriction: MAJ Br.130 (18m 22ch to 18m 24ch) 10mph over the bridge. Note that RA8 vehicles are not heavy axle weight between Castlefield Jn. and Trafford Park West Jn.
+London-North-Western-North	1009	NW6004	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	10	W6A Ex. (W12)	–	
+London-North-Western-North	1009	NW6004	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	10	W6A Ex. (W12)	–	
+London-North-Western-North	1009	NW6005	Manchester Victoria East Jn. - Windsor Bridge South Jn.	8	R	Y	R SB1C (W9). Manchester Victoria East Jn. - Deal St.
+London-North-Western-North	1009	NW6007	Deal Street Jn. - Ordsall Lane Jn.	8	SB1C (W9)	Y	

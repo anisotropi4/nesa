@@ -1,50 +1,66 @@
-                                                                              OFFICIAL
+                                          Anglia Route Sectional Appendix Module AR2
 
 
-                                                              Anglia Route Sectional Appendix Module AR2
+    EA1370TAH4Barking Station Jn – Barking Platform 1
+                                     13 12 13 62 Y   Y   N  N   N   N  N
+    EA1380FSS1Fenchurch Street – Gas Factory Jn
+                                     0  00  2 57 Y   Y   N  N   N   N  N
+    EA1380FSS1Gas Factory Jn – East Ham Depot
+                                     2  57  6 18 Y   Y   N  N   N   N  N
+    EA1380FSS1East Ham Depot – Barking Tilbury Jn
+                                     6  18  7 33 Y   Y   N  N   N   N  N
+              West
+    EA1380FSS2Barking Tilbury Jn West – Barking Tilbury
+                                     7  33  7 60 Y   Y   N  N   N   N  N
+              Jn East
+    EA1380FSS2Barking Tilbury Jn East – Upminster
+                                     7  60 15 20 Y   Y   N  N   N   N  N
+    EA1380FSS2Upminster – Southend Central
+                                     15 20 35 55 Y   Y   N  N   N   N  N
+    EA1380FSS3Southend Central – Shoeburyness
+                                     35 55 39 40 Y   Y   N  N   N   N  N
+    EA1390TLL Barking Tilbury Line Jn East – Former
+                                     7  60 22 06 Y   Y   N  N   N   N  N
+              Tilbury West Jn
+    EA1390TLL Former Tilbury West Jn – Pitsea Jn
+                                     22 06 32 43 Y   Y   N  N   N   N  N
+    EA1400GFB Gas Factory Jn – Bow Jn2  57  3 47 Y   Y   N  N   N   N  N
+    EA1410FSS2Upminster – Upminster East Jn
+                                     15 20 15 39 Y   Y   N  N   N   N  N
+    EA1410UPG Upminster East Jn – West Thurrock Jn
+                                     0  00  6 56 Y   Y   N  N   N   N  N
+    EA1420THN Thames Haven Jn – Thames Haven
+                                     26 41 30 18 Y   Y   N  N   N   N  N
+    EA1430ESK East Suffolk Jn – Westerfield Jn
+                                     69 41 73 23 Y   Y   Y  N   N   N  N
+    EA1430ESK Westerfield Jn – Oulton Broad North Jn
+                                     73 23 11627 Y   Y   N  N   N   N  N
+    EA1440FEL Westerfield Jn – Felixstowe Beach Jn
+                                     73 23 83 57 Y   Y   Y  N   N   N  N
+    EA1440FEL Felixstowe Beach Jn – Felixstowe town
+                                     83 57 84 30 Y   Y   Y  N   N   N  N
+    EA1450TFN Trimley – Port of Felixstowe North Quay
+                                     0  00  0 18 Y   Y   N  N   N   N  N
+              Terminal
+    EA1460FED Felixstowe Beach Jn – Felixstowe Beach
+                                     83 57 86 34 Y   Y   N  N   N   N  N
+    EA1470NOL Thorpe Jn – Limit of Electrification
+                                     0  09  0 79 Y   Y   Y  N   N   Y  N
+    EA1470NOL Limit of Electrification – Reedham Jn
+                                     0  79 12 34 Y   Y   Y  N   N  R1  N  R1
+    EA1470NOL Reedham Jn – Lowestoft 12 34 23 41 Y   Y  R1  N   N  R1  N  R1 R2 15mph Oulton Broad North up platform
+    EA1480WHC1Whitlingham Jn – North Walsham (End of
+                                     1  69 16 30 Y   Y   N  N   N   N  N
+              Station Loop)
+    EA1480WHC1North Walsham (End of Station Loop) –
+                                     16 30 24 00 Y   Y   N  N   N   N  N
+              Change of Mileage (Site of Former
+              Roughton Road Jn)
+    EA1480WHC2Change of Mileage (Site of Former
+                                     11 54 13 48 Y   Y   N  N   N   N  N
+              Roughton Road Jn) – Change of Mileage
+              (Site of Former Runton East Jn)
 
 
-EA1310 BOK5    Acton Wells Jn (Connecton to GW130)   0   72   1    73    8    Y     Y    Y     Y    Y      Y    Y    Y
-               – Acton Central (Limit of AC)
-EA1310 BOK5    Acton Central (Limit of AC) – South   1   73   2    52    8    Y     Y    Y     Y    Y      Y    Y    Y
-               Acton Jn
-EA1310 SAR1    South Acton Jn – Gunnersbury Jn       2   52   3    12    8   Y      Y    Y    Y     Y      Y    Y    Y
-EA1310 SAR2    Gunnersbury Jn – Richmond             9   72   12   39    4   R1     R1   R1   R1    R1     R1   R1   R1 R1    10mph over River Thames Bridge No. 29 (10m
-                                                                                                                              48ch between Gunnersbury and Kew
-                                                                                                                              Gardens)
-EA1320 CRC1/2 Route Boundary (MD145) (Camden Jn)     5   42   5    10    8    Y     Y    Y     Y    Y      Y    Y    Y
-              – Camden Road West Jn
-EA1320 BOK1   Camden Road West Jn – Camden           5   10   4    64    8    Y     Y    Y     Y    Y      Y    Y    Y
-              Road Central Jn
-EA1320 CRF1   Camden Road Central Jn – Route         0   51   0    20    8    Y     Y    Y     Y    Y      Y    Y    Y
-              Boundary (LN115) (North London
-              Incline)
-EA1320 BOK1   Camden Road Central Jn – Canonbury     4   64   3    12    8    Y     Y    Y     Y    Y      Y    Y    Y
-              West Jn
-EA1320 CFP    Canonbury West Jn – Route Boundary     3   12   3    20    8    Y     Y    Y     Y    Y      Y    Y    Y
-              (LN110) (Finsbury Park)
-EA1320 BOK1   Canonbury West Jn – Dalston Western    3   12   2    21    8    Y     Y    Y     Y    Y      Y    Y    Y
-              Jn
-EA1320 DWW1 Dalston Western Jn - Navarino Road Jn    2   21   1    52    8    Y     Y    Y     Y    Y      Y    Y    Y
-              (Change of Mileage)
-EA1320 DWW2 Navarino Road Jn (Change of Mileage)     1   11   3    19    8    Y     Y    Y     Y    Y      Y    Y    Y
-              – Lea Jn
-EA1320 DWW2    Lea Jn – Channelsea North Jn          3   19   3    32    8    Y     Y    Y     Y    Y      Y    Y    Y
-EA1320 DWW2    Channelsea North Jn – Channelsea      3   32   3    33    8    Y     Y    Y     Y    Y      Y    Y    Y
-               South Jn
-EA1320 DWW2    Channelsea South Jn – Stratford       3   33   3    74    8    N     N    N     N    N      N    N    N
-EA1325 BOK1    Limit of reversible working DNL –     3   38   2    17    8    N     N    N     N    N      N    N    N
-               Network Rail Boundary (TFL ELL)
-EA1325 ELL1    Network Rail Boundary (TFL ELL) –     2   17   5    21    8    N     N    N    E     E      N    E    N R1    Can only run when authorised by Rail for
-               Canal Jn (TFL Infrastructure)                                                  R1    R1          R1           London and only run or operate under Special
-                                                                                              R2    R2          R2           Traffic Notice subject to any operational
-                                                                                                                             restrictions published within the notice
-                                                                                              R3    R3          R3
-                                                                                                                         R2 Prohibited North of EL264 (5M9Ch)
-                                                                                                                R4
-                                                                                                                         R3 Not to exceed 25mph, 10mph on sections
-                                                                                                                             EL266-EL264 (UP) and EL264-Canal Jn (DN)
-                                                                                                                         CLASS 37/0 ONLY
 
-
-August 2006                                                                       306F
+    CAugust 2006                                    305E

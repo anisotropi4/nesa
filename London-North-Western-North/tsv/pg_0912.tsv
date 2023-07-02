@@ -1,24 +1,19 @@
-London-North-Western-North	0912	NW8001	HXS3	Sandhills Jn	Bootle Jn	Sandhills Jn – Bootle Jn	1	41	2	39	N	N	N	Y	Y
-London-North-Western-North	0912	NW8001	HXS3	Bootle Jn	Southport	Bootle Jn – Southport	2	39	18	35	N	N	N	Y	Y
-London-North-Western-North	0912	NW8003	SIL	Paradise Jn	James Street (Stock Interchange/Holding line)	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	N	N	N	Y	Y
-London-North-Western-North	0912	NW8005	SJO1	Sandhills Jn	Walton Jn	Sandhills Jn – Walton Jn	34	75	33	16	N	N	N	Y	Y
-London-North-Western-North	0912	NW8005	SJO2	Walton Jn	Ormskirk	Walton Jn – Ormskirk	3	20	12	13	N	N	N	Y	Y
-London-North-Western-North	0912	NW8007	HXS/ NMM	Bootle Jn	Change of ELR (Site of former North Mersey Jn)	Bootle Jn – Change of ELR (Site of former North Mersey Jn)	2	34	3	52	N	N	N	N	N
-London-North-Western-North	0912	NW8007	NMB	Change of ELR (Site of former North Mersey Jn)	Change of ELR (Site of former Sefton Jn)	Change of ELR (Site of former North Mersey Jn) – Change of ELR (Site of former Sefton Jn)	34	40	32	42	N	N	N	N	N
-London-North-Western-North	0912	NW8007	AFL	Change of ELR (Site of former Sefton Jn)	Aintree Station Jn	Change of ELR (Site of former Sefton Jn) – Aintree Station Jn	0	00	0	40	N	N	N	N	N
-London-North-Western-North	0912	NW8009	WJK	Walton Jn	Kirkby	Walton Jn – Kirkby	33	16	29	41	N	N	N	Y	Y
-London-North-Western-North	0912	NW8011	MIR1	Mann Island Jn	Mann Island Jn via Loop	Mann Island Jn – Mann Island Jn via Loop	0	00	2	12	N	N	N	Y	Y
-London-North-Western-North	0912	NW8011	MIR2	Mann Island Jn	Hamilton Square Jn	Mann Island Jn – Hamilton Square Jn	0	69	1	72	N	N	N	Y	Y
-London-North-Western-North	0912	NW8011	CWK1	Hamilton Square Jn	Change of ELR (Birkenhead Park)	Hamilton Square Jn – Change of ELR (Birkenhead Park)	1	72	3	00	N	N	N	Y	Y
-London-North-Western-North	0912	NW8011	CWK2	Change of ELR (Birkenhead Park)	Bidston East Jn	Change of ELR (Birkenhead Park) – Bidston East Jn	3	00	4	40	N	N	N	Y	Y
-London-North-Western-North	0912	NW8011	CWK3	Bidston East Jn	Bidston Dee Jn	Bidston East Jn – Bidston Dee Jn	4	40	4	78	N	N	N	Y	Y
-London-North-Western-North	0912	NW8011	CWK3	Bidston Dee Jn	West Kirby	Bidston Dee Jn – West Kirby	4	78	10	46	N	N	N	Y	Y
-London-North-Western-North	0912	NW8013	MIR2	Canning Street Jn	Rock Ferry	Canning Street Jn – Rock Ferry	1	60	3	42	N	N	N	Y	Y
-London-North-Western-North	0912	NW8013	CRR2	Rock Ferry	Hooton South Jn	Rock Ferry – Hooton South Jn	13	43	7	68	N	N	N	Y	Y
-London-North-Western-North	0912	NW8015	BEN	Bidston East Jn	New Brighton (New Brighton lines)	Bidston East Jn – New Brighton (New Brighton lines)	4	40	7	18	N	N	N	Y	Y
-London-North-Western-North	0912	NW8017	CCS1/ 2	Network Rail Boundary (Canning Street North)	Rock Ferry South Jn	Network Rail Boundary (Canning Street North) – Rock Ferry South Jn	15	40	13	30	N	N	N	N	N
-London-North-Western-North	0912	NW9001	MAS	Route Boundary (LN808) (Dore West Jn)	Chinley North Jn	Route Boundary (LN808) (Dore West Jn) – Chinley North Jn	154	20	174	01	N	N	N	N	N
-London-North-Western-North	0912	NW9001	TTA1	Chinley North Jn	New Mills South Jn	Chinley North Jn – New Mills South Jn	168	39	172	27	N	N	N	N	N
-London-North-Western-North	0912	NW9001	NMC1	New Mills South Jn	Hazel Grove High Level Jn	New Mills South Jn – Hazel Grove High Level Jn	172	27	177	40	N	N	N	N	N
-London-North-Western-North	0912	NW9001	HGC	Hazel Grove High Level Jn	Hazel Grove East Jn	Hazel Grove High Level Jn – Hazel Grove East Jn	2	62	2	35	N	N	N	N	N
-London-North-Western-North	0912	NW9001	BEJ	Hazel Grove East Jn (Limit of electrification)	Edgeley Jn No.1	Hazel Grove East Jn (Limit of electrification) – Edgeley Jn No.1	2	35	0	00	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	380	385	390	397	507	508	Notes
+London-North-Western-North	0912	NW1001	CGJ2	Acton Grange Jn – Warrington South Jn	180	24	181	76	EH	N	T	Y	N	N	
+London-North-Western-North	0912	NW1001	CGJ3	Warrington South Jn – Winwick Jn	181	76	185	49	EH	N	T R1	Y	N	N	R1 Prohibited from Dallam RMT access lines
+London-North-Western-North	0912	NW1001	CGJ4	Winwick Jn – Golborne Jn	185	49	187	76	EH	N	T	Y	N	N	
+London-North-Western-North	0912	NW1001	CGJ5	Golborne Jn – Wigan Station Jn	0	53	6	33	EH	N	T	Y	N	N	
+London-North-Western-North	0912	NW1001	CGJ5	Wigan Station Jn – Farington Curve Jn	6	33	20	08	EH	N	T R1 R2	Y	N	N	R1 Prohibited Wigan North Western Bay platforms R2 See Sectional Appendix Local Instructions
+London-North-Western-North	0912	NW1001	CGJ5	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	EH	N	T	Y	N	N	
+London-North-Western-North	0912	NW1001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	EH	N	T R1	Y	N	N	R1 Prohibited Preston Bay platforms R2 Prohibited Preston Up & Down Goods platform except in tare suspension case
+London-North-Western-North	0912	NW1001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	EH	N	T	Y	N	N	
+London-North-Western-North	0912	NW1001	CGJ6	Preston North Jn – Preston Fylde Jn	0	21	0	33	EH	N	T	Y	N	N	
+London-North-Western-North	0912	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	N	N	T	N	N	N	
+London-North-Western-North	0912	NW1003	HCM2	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	N	N	N	N	N	N	
+London-North-Western-North	0912	NW1003	HCM3	Madeley Chord Jn – Madeley Jn	0	25	0	00	N	N	N	N	N	N	
+London-North-Western-North	0912	NW1003	HCM2	Madeley Chord Jn – End of Line	7	36	8	14	N	N	N	N	N	N	
+London-North-Western-North	0912	NW1004	RRN2	Route Boundary (MD345) (Cannock Change of ELR) – Rugeley North Jn	14	00	14	69	N	N	Y	N	N	N	
+London-North-Western-North	0912	NW1005	KCS1	Kidsgrove Jn – Crewe South Jn	0	00	8	27	N	N	R1	N	N	N	R2 Prohibited from all sidings lines and Alsager Up & Down Goods Loop
+London-North-Western-North	0912	NW1007	SYC	Route Boundary (GW735) (Crewe Jn) – Limit of Electrification	2	60	1	41	N	N	N	N	N	N	
+London-North-Western-North	0912	NW1007	SYC	Limit of Electrification – Crewe South Jn	1	41	0	00	N	N	N	N	N	N	
+London-North-Western-North	0912	NW1009	BHI	Basford Hall Jn – Site of former Sydney Bridge Jn (Independent lines)	156	16	158	76	N	N	Y	E	N	N	

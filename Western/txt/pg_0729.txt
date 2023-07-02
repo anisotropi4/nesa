@@ -1,48 +1,61 @@
-                                                                                 OFFICIAL
+                                                  OFFICIAL
 
 
-                                                               Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW890   SDI2    Change of Mileage – Grovesend              0    00    10    05    N     N   N   N    N   N   Y   Y   N   N   N
-                Colliery Loop Jn
-GW890   SDI2    Grovesend Colliery Loop Jn – Morlais     10     05    10    64    N     N   N   N    N   N   Y   Y   N   N   N
-                Jn
-GW8901 RSB      Dynevor Jn – Jersey Marine South Jn      19     16    20    24    N     N   N   N    N   N   Y   Y   N   N   N
-GW892   VON     Network Rail Boundary (Cwmgwrach) –      33     14    41    17    N     N   N   N    N   N   N   N   N   N   N
-                Neath & Brecon Jn
-GW892   VON     Neath & Brecon Jn – Burrows Sidings      41     17    46    30    N     N   N   N    N   N   N   N   N   N   N
-GW893   NAB     Network Rail Boundary (Onllwyn) –        10     10     0    01    N     N   N   N    N   N   N   N   N   N   N
-                Neath and Brecon Jn
-GW894   JER     Jersey Marine Jn North – Jersey Marine     1    24     2    26    N     N   N   N    N   N   N   N   N   N   N
-                Jn South
-GW897   HDY     Grovesend Colliery Loop Jn – Hendy Jn      0    00     0    46    N     N   N   N    N   N   N   N   N   N   N
-GW900   BSW     Ableton Lane Tunnel – Severn Tunnel      10     51    16    73    N     Y   N   Y    N   N   Y   Y   Y   Y   N
-                Jn
-GW900   SWM2 Severn Tunnel Jn – Maindee West Jn          149    14   158    16    N     Y   N   Y    N   N   Y   Y   Y   Y   N
-GW900   SWM2 Maindee West Jn – Cardiff East Jn           158    16   170    18    N     Y   N   Y    N   N   Y   Y   Y   Y   N
-GW900   SWM2 Cardiff East Jn – Cardiff West Jn           170    18   170    56    N     Y   N   Y    N   N   Y   Y   Y   Y   N
-GW900   SWM2 Cardiff West Jn – Court Sart Jn             170    56   206    58    N   R1    N   R2   N   N   Y   Y   Y   Y   N R2 ECS only Bridgend River Bridge
-                                                                                                                               Crossover (193m 00ch) to Court Sart
-                                                                                                                               Jn
-GW900   SWM2 Court Sart Jn – Llandore Jn                 206    58   214    62    N     N   N   E    N   N   Y   Y   Y   Y   N
-GW900   SWM2 Llandore Jn – Llandeilo Jn                  214    62   223    49    N     N   N  E     N   N   Y   Y   N   N   N Prohibited between Swansea Loop
-                                                                                              R1                               West Jn (216m 00ch) and Llandeilo Jn
-GW900   SWM2 Llandeilo Jn – Carmarthen Bridge Jn         223    49   245    32    N     N   N  N     N   N   Y   Y   N   N   N
-GW900   SWM2 Carmarthen Bridge Jn – Whitland Jn          245    32   259    01    N     N   N   N    N   N   Y   Y   N   N   N
-GW900   SWM2 Whitland Jn – Clarbeston Road Jn            259    01   271    08    N     N   N   N    N   N   Y   Y   N   N   N
-GW900   CRL     Clarbeston Road Jn – Change of ELR       271    08   281    58    N     N   N   N    N   N   Y   Y   N   N   N
-                (Letterston Jn)
-GW900   NPF     Change of ELR (Letterston Jn) –          283    30   287    52    N     N   N   N    N   N   Y   Y   N   N   N
-                Network Rail Boundary (Fishguard
-                Harbour)
-GW9001 SWA      Landore Jn – Swansea                     214    62   216    07    N     N   N  E     N   N   Y   Y   Y   Y   N Prohibited between Crossover (Down
-                                                                                              R1                               Sidings 215m 62ch) and Swansea
-GW906   SWL     Swansea Loop East Jn – Swansea             0    53     0    00    N     N   N  E     N   N   Y   Y   N   N   N Prohibited between Crossover (Down
-                Loop West Jn                                                                   R1                              Sidings 215m 62ch) and Swansea
+       GW730 SHL Shelwick Jn – Site of former Rotherwas
+                                       49 26 52 19 R1R1 N  R2N  R2 Y Y  R4 Y Y  N R1 Prohibited between Hereford
+                 Jn                                             R3                   Diesel Depot sidings and Site of
+                                                                                     Former Rotherwas Jn
+                                                                                  R2 Class 172/2 and 172/3 prohibited
+                                                                                     between Hereford Station and
+                                                                                     Site of former Rotherwas Jn
+                                                                                  R3 Route prohibited to Class 172/1
+                                                                                  R4 ECS only Hereford SB to Site of
+                                                                                  former Rotherwas Jn
+       GW730 HDC Site of former Rotherwas Jn – Site of
+                                       0  00  1 74 N  N N  N N  N  Y Y  N  Y Y  N
+                 former Red Hill Jn
+       GW730 HNL1Site of former Red Hill Jn – Maindee
+                                       1  74 41 66 N  N N  R1N  N  Y Y  N  Y Y  N R1Prohibited between Site of former
+                 West Jn                                                            Red Hill Jn and Maindee North Jn
+       GW731 WSJ2Route Boundary (MD801) (Madeley Jn)
+                                      170 46171 15 N  N Y  Y N  N  Y N  Y  N Y  N
+                 – Abbey Foregate Jn
+       GW731 WSJ2Abbey Foregate Jn – Crewe Jn
+                                      171 15171 57 N  N Y  Y N  N  Y R1 R5 N R3 N R1Prohibited between Abbey
+                                                                     R2      R4     Foregate Jn and Severn Bridge Jn
+                                                                             R5   R2Prohibited between Shrewsbury
+                                                                                    and Crew Jn
+                                                                                  R33mph Shrewsbury platforms 3, 4
+                                                                                    and 5 with deflated suspension
+                                                                                  R4Prohibited Shrewsbury Bay
+                                                                                    platform 6
+                                                                                  R5Prohibited Shrewsbury Station
+                                                                                    Howard Street Landing (Loading
+                                                                                    Dock)
+       GW731 WSJ2Crewe Jn – Route Boundary (NW3005)
+                                      171 57199 00 N  N Y  Y N  N  Y N  E  N R1 N R1 3mph Ruabon Up and Down
+                 (Wrexham General)                                     R2            platforms with deflated
+                                                                                     suspension
+                                                                                  R2 Prohibited Castle Foregate Sidings
+                                                                                  to Route Boundary (NW3005)
+                                                                                  (Wrexham General)
+       GW732 AFE Abbey Foregate Jn – English Bridge Jn
+                                       0  25  0 00 N  N N  Y N  N  Y N  N  N N  N
+                 (Loop Lines)
+       GW733 SBA1/2 Sutton Bridge Jn – Welshpool
+                                       0  00 33 70 N  N N  Y N  N  N N  N  N N  N
+       GW733 SBA2Welshpool – Aberystwyth
+                                       33 70 95 60 N  N N  Y N  N  N N  N  N N  N
+       GW734 DJP Dovey Jn – Pwllheli   78 60132 70 N  N N  Y N  N  N N  N  N N  N
+       GW735 SYC Crewe Jn – Route Boundary (NW1007)
+                                       32 29  2 60 N  N Y  Y N  N  Y N  N  N R1 N R13mph Whitchurch Up platform
+                 (Limit of Electrification)                                         with deflated suspension
+       GW736 GNQ1Gobowen South – Commencement of
+                                       0  00  0 16 N  N N  N N  N  N N  N  N N  N
+                 single line board
+       GW740 MAI Maindee East Jn – Maindee North Jn
+                                       41 65 41 33 N  N N  Y N  N  Y Y  N  N N  N
 
-GW910   CWL1    Craven Arms Jn – Change of Mileage       20     01    20    12    Y     N   N   N    N   N   Y   Y   N   N   N
-
-
-
-
-  April 2009                                                                     498L
+         April 2009                                498I

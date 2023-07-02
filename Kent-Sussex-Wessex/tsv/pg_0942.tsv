@@ -1,15 +1,20 @@
-Kent-Sussex-Wessex	0942	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-Kent-Sussex-Wessex	0942	SO250	WLL	Latchmere Jn No.2	Kensington Olympia [Duplicated in SW220]	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO250	WLL	Kensington Olympia	Northbound AC/DC changeover	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO250	WLL	Northbound AC/DC changeover	Southbound AC/DC changeover	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO250	WLL	Southbound AC/DC changeover	Route Boundary (MD166) (Mitre Bridge Jn)	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO260	CAT	Brixton Jn	Canterbury Road Jn	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO260	CAT	Canterbury Road Jn	Cambria Jn	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO260	CAT	Cambria Jn	Nunhead Jn	Cambria Jn – Nunhead Jn	3	68	6	09	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO260	CAT	Nunhead Jn	Ravensbourne Jn	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO260	RVC	Ravensbourne Jn	Shortlands Jn via Ravensbourne Chord	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO260	CAT	Ravensbourne Jn	Shortlands Jn	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0942	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	R1 R2 R3	R1 R2 R3	R1 R2 R3 R4	N	R1 15mph through Farringdon R2 OHLE must be isolated R3 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment R4 Route prohibited to Class 33/0 and 33/1
-Kent-Sussex-Wessex	0942	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	R1 R2	R1 R2	R1 R2	N	R1 OHLE must be isolated R2 Locomotives must not stand under insulators positioned directly above the track as the exhaust can damage the Overhead Line Equipment
-Kent-Sussex-Wessex	0942	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0942	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Kent-Sussex-Wessex	0942	SO130	XTD	Metropolitan Jn – Borough Market Jn	1	31	1	50	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	CBM	Cannon Street Substation – Borough Market Jn	0	20	0	38	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Borough Market Jn – London Bridge platforms 1-9	1	50	1	69	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	London Bridge platforms 1-9 – North Kent East Jn	1	69	4	25	Y	Y	R1 R2	N	N	N	N	R1 Prohibited between Blue Anchor and North Kent East Jn R2 No.5 Down line, clear to crossovers to and from Sussex side lines and Up Passenger Loop between London Bridge and Spa Road Jn
+Kent-Sussex-Wessex	0942	SO130	XTD	North Kent East Jn – Tanners Hill Jn	4	25	5	29	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	CSM1	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	CSM3	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0942	SO130	XTD	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	Y	Y	Y	N	N	N	N	

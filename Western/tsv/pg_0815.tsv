@@ -1,15 +1,5 @@
-Western	0815	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Western	0815					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0815	GW260	Kennington Jn – Morris Cowley	Kennington Jn	Morris Cowley	Y	Y	Y	N	N	N	N	N
-Western	0815	GW277	Oxford North Jn – Route Boundary (MD736) 29m 25ch	Oxford North Jn	Route Boundary (MD736) 29m 25ch	Y	Y	Y	Y	N	Y	N	Y
-Western	0815	GW310	Wolvercot Jn – Norton Jn	Wolvercot Jn	Norton Jn	Y *	N	N	N	N	N	N	N
-Western	0815	GW317	Honeybourne – Long Marston	Honeybourne	Long Marston	Y	N	N	N	N	N	N	N
-Western	0815	GW401	Route Boundary (MD306) (Ashchurch) – Standish Jn	Route Boundary (MD306) (Ashchurch)	Standish Jn	Y *	Y	Y	N	N	N	N	N
-Western	0815	GW401	Standish Jn – Westerleigh Jn	Standish Jn	Westerleigh Jn	Y	Y	Y	N	N	N	N	N
-Western	0815	GW425	Berkeley Road Jn – Sharpness	Berkeley Road Jn	Sharpness	Y	N	N	N	N	N	N	N
-Western	0815	GW430	Yate Middle Jn – Tytherington	Yate Middle Jn	Tytherington	Y	N	N	N	N	N	N	N
-Western	0815	GW440	Yate South Jn – Westerleigh	Yate South Jn	Westerleigh	Y	Y	Y	N	N	N	N	N
-Western	0815	GW450	Stoke Gifford Jn – Bristol East Jn	Stoke Gifford Jn	Bristol East Jn	Y	Y	Y	N	N	N	N	N
-Western	0815	GW4501	Stoke Gifford Jn – Avonmouth (Bristol Bulk Handling Terminal)	Stoke Gifford Jn	Avonmouth (Bristol Bulk Handling Terminal)	Y *	Y	Y	N	N	N	N	N
-Western	0815	GW451	Filton Jn No 2 – Filton West Jn (Filton Chord)	Filton Jn No 2	Filton West Jn (Filton Chord)	Y	Y	Y	N	N	N	N	N
-Western	0815	GW454	Severn Beach – Narroways Hill Jn	Severn Beach	Narroways Hill Jn	Y *	N	N	N	N	N	N	N
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Western	0815	GW103	Reading New Jn – Didcot, Chester Line Jn	Y *	Y	Y	R1	R1	Y	R1	R1	R1 Prohibited Didcot East Jn to Didcot Chester Line Jn
+Western	0815	GW103	Didcot, Chester Line Jn – Uffington	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2438(w) on IFA FRA wagons 2591(h) x 2500(w) on FCA/FYA wagons 2616(h) x 2550(w) on KFA wagons 2667(h) x 2550(w) on FIA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2705(h) x 2550(w) on FKA wagons 2896(h) x 2500(w) on FAA FLA IDA wagons
+Western	0815	GW103	Reading Southern Jn – Reading East Main Jn (RLL)	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0815	GW105	Uffington – Thingley Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2438(w) on IFA FRA wagons 2591(h) x 2500(w) on FCA/FYA wagons 2616(h) x 2550(w) on KFA wagons 2667(h) x 2550(w) on FIA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2705(h) x 2550(w) on FKA wagons 2896(h) x 2500(w) on FAA FLA IDA wagons

@@ -1,44 +1,69 @@
-                                                                               OFFICIAL
+                                                  OFFICIAL
 
 
-                                                              Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW628   SUT1 Speedway Jn – Mount Gould Jn               244   30   244    43     H        N        N        N   N
-GW628   SUT2 Mount Gould Jn – Former Friary Jn          244   41   244    60     N        N        N        N   N
-GW628   FRY    Former Friary Jn – Turnchapel Branch Jn 244    60   245    17     N        N        N        N   N
-GW628   TUR/ Turnchapel Branch Jn – Buffer Stops          0   00     0    78     N        N        N        N   N
-        CWR
-GW628   FRY    Turnchapel Branch Jn – Plymouth Friary   245   17   245    40     N        N        N        N   N
-GW637   DAC    St Budeaux Jn – Buffer Stops (Beyond     227   22   219    75     N        N        N        N   N
-               Bere Alston)
-GW637   CAL    Bere Alston Jn – Gunnislake                0   02     4    40     N        N        N        N   N
-GW640   LIL    Liskeard – Coombe Jn                       8   67     6    75     N        N        N        N   N
-GW640   LOO    Coombe Jn – Looe                           6   52     0    19     N        N        N        N   N
-GW640   LOO    Coombe Jn – Coombe No.2 GF                 6   52     6    66     N        N        N        N   N
-GW642   LOO    Coombe No.2 GF – Network Rail              6   66     7    20     N        N        N        N   N
-               Boundary (Moorswater)
-GW650   LOF    Lostwithiel – Network Rail Boundary      277   54   281    59     N        N        N        N   N
-               (Carne Point)
-GW660   PAR    Par Loop Jn – St Blazey Jn               281   57   282    16     H        N        N        N   N
-GW660   NEW St Blazey Jn – Newquay                      282   16   302    49     H        N        N        N   N
-GW672   SDS    Burngullow Jn – Drinnick Mill            288   26   291    31     N        N        N        N   N
-GW672   SDS    Drinnick Mill – Parkandillack            291   31   293    52     N        N        N        N   N
-GW680   FAL1- Penwithers Jn – Falmouth                  301   25   312    46     H        N        N        N   N
-        3
-GW690   SIV    St Erth – St Ives                        321   02   325    13     H        N        N        N   N
-GW700   BAG2 Gloucester Barnwood Jn – Horton Road       92    21    92    75     H        N        N        N   N
-             Jn
-GW700   SWM Horton Road Jn – Route Boundary             113   61   129    00     H        N        N        N   N
-        2   Wales
-GW700   SWM Route Boundary Wales – Severn Tunnel        129   00   149    14     H        N        N        N   N
-        2   Jn
-GW710   NO     Llanwern Works East – Llanwern Works     153   08   156    03     N        N        N        N   N
-        ELR    West via BSS (Corus Infrastructure)
-GW720   EUB    Network Rail Boundary (Uskmouth) –         3   07     0    00     N        N        N        N   N
-               East Usk Jn
-GW730   SHL    Severn Bridge Jn – Craven Arms Jn          0   11    20    01     H        N        N        N   N
-GW730   SHL    Craven Arms Jn – Shelwick Jn             20    01    49    26     H        N        N        N   N
-GW730   SHL    Shelwick Jn – Site of former Rotherwas   49    26    52    19     H        N        N        N   N
-               Jn
+       GW195 RLLReading Southern Jn – Reading East Jn
+                                      35 33  35 61  N    N    N    N    N
+       GW200 DCLChester Line Jn – Route Boundary
+                                      53 12  75 00  H    N    N    N    N
+                (MD401) (Heyford)
+       GW220 RWC Reading, Oxford Road Jn – Reading
+                                       0 43  0  02  H    N    N    N    N
+                 West Jn
+       GW225 RFRCaversham Road Jn – Oxford Road Jn
+                                      36 25  36 74  N    N    N    N    N
+       GW240 DECDidcot East Jn – Didcot North Jns
+                                      52 66  54 00  H    N    N    N    N
+       GW250 DWC Foxhall Jn – Didcot West Curve Jn
+                                       0 01  0  32  H    N    N    N    N
+       GW260 THAKennington Jn – Morris Cowley
+                                      18 45  16 04  N    N    N    N    N
+       GW277 OXD Oxford North Jn – Route Boundary
+                                      30 09  29 25  H    N    N    N    N
+                 (MD736) (29m 25ch)
+       GW310 OWW Wolvercot Jn – Norton Jn
+                                      66 32 112 00  H    N    N    N    N
+       GW317 OWW Honeybourne Stratford Line Junction –
+                                      10206 101 31  N    N    N    N    N
+                 Start of branch mileage
+       GW317 STDStart of branch mileage – Long Marston
+                                       0 00  2  70  N    N    N    N    N
+       GW401 BAG2 Route Boundary (MD306) (Ashchurch) –
+                                      77 40  92 21  H    N    N    N    N
+                 Gloucester Barnwood Jn (Change of
+                 ELR)
+       GW401 CHLGloucester Barnwood Jn (Change of
+                                      92 21  93 08  H    N    N    N    N
+                ELR) – Gloucester Yard Jn (Change of
+                ELR)
+       GW401 BGL1 Gloucester Yard Jn (Change of ELR) –
+                                      93 08  94 10  H    N    N    N    N
+                 Change of ELR
+       GW401 BGL2 Change of ELR – Standish Jn
+                                      94 60  99 69  H    N    N    N    N
+       GW401 BGL2 Standish Jn – Yate South Jn (Change of
+                                      99 69 120 03  H    N    N    N    N
+                 ELR)
+       GW401 YATYate South Jn (Change of ELR) –
+                                      12003 121 28  H    N    N    N    N
+                Westerleigh Jn
+       GW425 SAW/ Berkeley Road Jn – Sharpness (Network
+                                       0 04  3  69  N    N    N    N    N
+             SSS Rail Boundary)
+       GW430 THOYate Middle Jn – Tytherington
+                                       0 00  6  24  H    N    N    N    N
+       GW440 BGL2 Yate South Jn – Westerleigh Yard
+                                      12003 122 65  N    N    N    N    N
+       GW450 FECStoke Gifford Jn No.1 – Change of ELR
+                                      11179 113 01  H    N    N    N    N
+       GW450 BSW Change of ELR – Bristol East Jn
+                                       4 50  0  26  H    N    N    N    N
+                Stoke Gifford Jn No.2 – Hallen Marsh Jn
+       GW4501 AFR                     11205 118 42  H    N    N    N    N
+                (Change of ELR)
+                Hallen Marsh Jn (Change of ELR) –
+       GW4501 AMB                     14 38  14 60  H    N    N    N    N
+                Holesmouth Jn
 
-  April 2009                                                                     499F
+         April 2009                                 499C

@@ -1,22 +1,20 @@
-Scotland	1034	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Scotland	1034	SC107	EGM2	Haymarket East Jn	Haymarket Central Jn (South Lines)	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC107	ECN2	Haymarket East Jn	Haymarket Central Jn (North Lines)	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC107	EGM2	Haymarket Central Jn	Haymarket West Jn (South Lines)	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC107	ECN2	Haymarket Central Jn	Haymarket West Jn (North Lines)	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC107	EGM1	Haymarket West Jn	Cowlairs West Jn	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC107	EGM1	Cowlairs West Jn	Glasgow Queen Street	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC109	PMT	Polmont Jn	Grangemouth Jn	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	Y	Y	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1034	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	5	Y	Y	R1	Y	N	N	R1	Y	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
-Scotland	1034	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1034	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
+Scotland	1034	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	
+Scotland	1034	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	
+Scotland	1034	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1034	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	Y	N	Y	R1	N	N	R1 Up to 8 cars
+Scotland	1034	SC065	GOU2	Bishopton – Gourock	112	60	126	58	Y	N	R1	R1 R2	N	N	R1 Prohibited Greenock Central Up Bay platform R2 Up to 8 cars
+Scotland	1034	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1034	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1034	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1034	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1034	SC077	ARH	Ardrossan South Beach – Ardrossan Harbour	30	44	31	35	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1034	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	N	
+Scotland	1034	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	Y	N	E	E H	N	N	
+Scotland	1034	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	
+Scotland	1034	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	N	N	N	N	N	
+Scotland	1034	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	
+Scotland	1034	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	
+Scotland	1034	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	
+Scotland	1034	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	Y	Y	Y	R1 R2	Y	Y	R1 Prohibted Motherwell to Lesmahagow Jn R2 Up to 12 cars
+Scotland	1034	SC093	SCM2	Mossend South – Whifflet North Jn	91	08	94	05	Y	Y	N	R1	N	Y	R1 Up to 8 cars

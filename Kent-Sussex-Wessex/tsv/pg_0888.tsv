@@ -1,10 +1,20 @@
-Kent-Sussex-Wessex	0888	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0888	SO680	BTH1	Streatham South Jn (c)	Change of Mileage	Streatham South Jn (c) – Change of Mileage	8	15	13	45	N	R1	N	N	N	R1 OPPOS applies between signals VC897 and VC900 at Mitcham Jn in both directions
-Kent-Sussex-Wessex	0888	SO680	BTH2	Change of Mileage	Route Boundary Wessex (Epsom)	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	N	R1	N	N	N	R1 5mph Cheam Up platform
-Kent-Sussex-Wessex	0888	SO680	BTH2	Route Boundary Sussex (Ewell East)	Epsom (Change of ELR) [Duplicated in SW180]	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	N	Y	N	N	N
-Kent-Sussex-Wessex	0888	SO680	BTH3	Epsom (Change of ELR)	Leatherhead [Duplicated in SW180]	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	N	Y	N	N	N
-Kent-Sussex-Wessex	0888	SO680	BTH3	Leatherhead	Route Boundary Sussex (Horsham) [Duplicated in SW180]	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	Y	N	N	N
-Kent-Sussex-Wessex	0888	SO680	BTH3	Route Boundary Sussex (Leatherhead)	Horsham jn [Duplicated in SW180]	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	N	R1 R2	N	N	N	R1 5mph Holmwood Down platform R2 15mph Warnham Down platform
-Kent-Sussex-Wessex	0888	SO700	SMS1	Streatham South Jn (c)	Wimbledon platforms 9 and 10	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	N	N	N	N	N
-Kent-Sussex-Wessex	0888	SO700	SMS2	Wimbledon platforms 9 and 10	Wimbledon West Jn	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	N	N	N	N	N
-Kent-Sussex-Wessex	0888	SO700	SMS2	Wimbledon West Jn	Sutton	Wimbledon West Jn – Sutton	7	51	12	50	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0888	SO510	LBW	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	ELL1	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	LBW	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	ELL1	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	LBW	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	LBW	Sydenham Down Jn – Norwood Jn	6	51	8	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	LBW	Norwood Jn – Norwood Fork Jn	8	55	9	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	LBW	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	NFE	Norwood Fork Jn – Sutton	9	33	14	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO510	NFE	Sutton – Epsom Downs	14	75	18	60	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO520	TBH1	Three Bridges – Crawley	29	21	30	49	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO520	TBH1	Crawley – Horsham Jn	30	49	37	39	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO520	TBH1	Horsham Jn – Horsham	37	39	37	56	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO520	TBH1	Horsham – Billingshurst	37	56	44	71	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO520	TBH1	Billingshurst – Arundel Jn	44	71	59	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO520	TBH2	Arundel Jn – Barnham	19	01	22	29	Y	Y	Y	N	Y	
+Kent-Sussex-Wessex	0888	SO520	TBH2	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	Y	Y	Y	N	R1 R2 R3 R4 R5	R1 Prohibited Chichester platform 1 with crush deflated suspension R2 Prohibited Chichester West Sidings R3 Prohibited Bosham platform 2 with crush deflated suspension R4 Prohibited Inlands Road Crossing with crush deflated suspension R5 OPPOS between Up Main line and Chichester Up Reception line
+Kent-Sussex-Wessex	0888	SO520	TBH2	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	Y	Y	Y	N	Y	
+Kent-Sussex-Wessex	0888	SO520	WPH2	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	Y	Y	Y	N	Y	

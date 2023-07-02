@@ -1,18 +1,22 @@
-Scotland	1103	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1103					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1103	SC017	Mossend East Jn – Mossend South Jn (East Curve)	Mossend East Jn	Mossend South Jn (East Curve)	Y	Y	Y	Y	N	Y	N	N
-Scotland	1103	SC019	Mossend South Jn – Mossend West Jn (West Curve)	Mossend South Jn	Mossend West Jn (West Curve)	Y	Y	Y	Y	N	Y	N	N
-Scotland	1103	SC021	Coltness – Garriongill Jn	Coltness	Garriongill Jn	Y	N	N	N	N	N	N	N
-Scotland	1103	SC023	Motherwell – Newton, Hamilton Jn (via Hamilton)	Motherwell	Newton, Hamilton Jn (via Hamilton)	Y *	Y	Y	N	N	N	N	N
-Scotland	1103	SC024	Larkhall – Haughhead Jn	Larkhall	Haughhead Jn	Y	N	N	N	N	N	N	N
-Scotland	1103	SC025	Rutherglen Central Jn – Finnieston incl. Bridgeton Yard (via Arrival Line) (Goods Line)	Rutherglen Central Jn	Finnieston incl. Bridgeton Yard (via Arrival Line) (Goods Line)	Y *	R1	N	N	N	N	N	N	R1 W7 traffic prohibited from using Bridgeton Yard Arrival Line
-Scotland	1103	SC027	Rutherglen West Jn – Rutherglen North Jn (West Curve)	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Y	N	N	N	N	N	N	N
-Scotland	1103	SC029	Larkfield Jn – Shields Jn Incl. Shields Jn – Terminus Jn (Up Through Terminus)	Larkfield Jn – Shields Jn Incl. Shields Jn	Terminus Jn (Up Through Terminus)	Y	Y	Y	Y	N	N	N	N
-Scotland	1103	SC031	Gretna Jn – Dumfries	Gretna Jn	Dumfries	Y *	Y	Y	N	N	N	N	N
-Scotland	1103	SC031	Dumfries to Kilmarnock GB&K Jn	Dumfries	Kilmarnock GB&K Jn	Y *	Y	Y	R1	N	N	N	N	R1 W9 prohibited EXCEPT to traffic working from / to SC039 Kilmarnock to Barrasie Line using Kilmarnock Platform 3 Line between 33m 47ch and 33m 78ch ONLY.
-Scotland	1103	SC031	Kilmarnock GB&K Jn to Eglinton Street Jn	Kilmarnock GB&K Jn	Eglinton Street Jn	Y *	Y	N	N	N	N	N	N
-Scotland	1103	SC033	Dumfries to Maxwelltown (Goods Line) (OOU)	Dumfries	Maxwelltown (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1103	SC035	Bank Jn – Greenburn Jn (Goods Line)	Bank Jn	Greenburn Jn (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1103	SC035	Greenburn Jn – Knockshinnoch (Goods Line) (OOU)	Greenburn Jn	Knockshinnoch (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1103	SC036	Greenburn Jn – Greenburn Open Cast (Goods Line)	Greenburn Jn	Greenburn Open Cast (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1103	SC037	Kay Park Jn – Riccarton (Goods Line)	Kay Park Jn	Riccarton (Goods Line)	Y	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1103	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	R1 R2 R3	Y	Y	Y	Y	R1 60mph over bridge 8 (Balgreen Road near Haymarket West) (44m 59ch) R2 60mph over 2A (South Gyle Road) (43m 00ch) R3 60mph over 13A (M8 Bridge at Newbridge) (38m 24ch)
+Scotland	1103	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1103	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	5	N	N	N	N	N	N	Y	
+Scotland	1103	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	Y	Y	Y	

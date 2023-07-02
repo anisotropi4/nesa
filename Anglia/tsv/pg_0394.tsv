@@ -1,15 +1,23 @@
-Anglia	0394	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	171	172	175	180	220	221	222	Notes
-Anglia	0394	EA1010	LTN1	Liverpool Street platforms 1-10	Liverpool St (L) IECC	Liverpool Street platforms 1-10 – Liverpool St (L) IECC	0	00	0	22	N	N	N	N	N	N	E R1	R1 Prohibited Liverpool Street platform 2
-Anglia	0394	EA1010	LVS	Liverpool Street platforms 11-17	Liverpool St (L) IECC	Liverpool Street platforms 11-17 – Liverpool St (L) IECC	0	00	0	22	N	N	N	N	N	N	E R1	R1 Liverpool Street Platforms 11-18 diesel traction see Sectional Appendix Local Instructions
-Anglia	0394	EA1010	LTN1	Liverpool St (L) IECC	Bethnal Green East Jn	Liverpool St (L) IECC – Bethnal Green East Jn	0	22	1	10	N	N	N	N	N	N	E R1	R1 Prohibited Bishopsgate Tunnel down suburban line
-Anglia	0394	EA1010	LTN1	Bethnal Green East Jn	Mile End	Bethnal Green East Jn – Mile End	1	10	2	02	N	N	N	N	N	N	E
-Anglia	0394	EA1010	LTN1	Mile End	Bow Jn	Mile End – Bow Jn	2	02	2	74	N	N	N	N	N	N	E
-Anglia	0394	EA1010	LTN1	Bow Jn	Carpenters Road South Jn	Bow Jn – Carpenters Road South Jn	2	74	3	54	N	N	N	N	N	N	E
-Anglia	0394	EA1010	LTN1	Carpenters Road South Jn	Stratford Central Jn West	Carpenters Road South Jn – Stratford Central Jn West	3	54	3	70	N	N	N	N	N	N	E
-Anglia	0394	EA1010	LTN1	Stratford Central Jn West	Stratford Central Jn East	Stratford Central Jn West – Stratford Central Jn East	3	70	3	75	N	Y	N	N	N	E	E
-Anglia	0394	EA1010	LTN1	Stratford Central Jn East	Forest Gate Jn	Stratford Central Jn East – Forest Gate Jn	3	75	5	63	N	R1 R2 R3	N	N	N	E	E	R1 Laden services between Stratford Central Jn East and Stratford R2 ECS between Stratford and Forest Gate R3 Prohibited Maryland platform 3 with footsteps fitted
-Anglia	0394	EA1010	LTN1	Forest Gate Jn	Ilford Depot London End	Forest Gate Jn – Ilford Depot London End	5	63	7	63	N	E R1	N	N	N	E R2 R3	E R2 R3	R1 Prohibited Ilford Depot roads 10 and 11 R2 Prohibited Ilford platform 4 (Down Electric) with deflated suspension R3 Prohibited Manor Park platform 2 (Down Electric) with deflated suspension
-Anglia	0394	EA1010	LTN1	Ilford Depot London End	Seven Kings	Ilford Depot London End – Seven Kings	7	63	8	45	N	N	N	N	N	E R1	E R1	R1 Prohibited Seven Kings platform 1 (Up Main) with deflated suspension
-Anglia	0394	EA1011	LTN1	Seven Kings	Romford Jn	Seven Kings – Romford Jn	8	45	12	39	N	N	N	N	N	N	N
-Anglia	0394	EA1011	LTN1	Romford Jn	Shenfield Jn	Romford Jn – Shenfield Jn	12	39	20	22	N	N	N	N	N	N	N
-Anglia	0394	EA1011	LTN1	Shenfield Jn	Witham Jn	Shenfield Jn – Witham Jn	20	22	38	55	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	153	156	158	165	168	170	Notes
+Anglia	0394	EA1011	LTN1	Romford Jn – Shenfield Jn	12	39	20	22	Y	E R1	E R2 R3	N	N	N	R4	R1 Prohibited with footsteps fitted R2 Prohibited Harold Wood platform 3 R3 40mph Harold Wood platform 4 R4 Prohibited Harold Wood platform 3 (Up Electric) with deflated suspension
+Anglia	0394	EA1011	LTN1	Shenfield Jn – Witham Jn	20	22	38	55	Y	E R1	E	N	N	N	Y	R1 Prohibited with footsteps fitted
+Anglia	0394	EA1011	LTN1	Witham Jn – Marks Tey Jn	38	55	46	49	Y	Y	E	N	N	N	Y	
+Anglia	0394	EA1011	LTN1	Marks Tey Jn – Colchester Jn	46	49	51	65	Y	R1	Y	N	N	N	Y	R1 Prohibited Colchester platform 2
+Anglia	0394	EA1011	LTN1	Colchester Jn – Manningtree South Jn	51	65	59	46	Y	R1 R2 R3	Y	N	N	N	Y	R1 15mph Manningtree platform 2 when laden and 30mph when ECS R2 15mph Manningtree platform 3 – ECS only R3 Prohibited Manningtree platform 4
+Anglia	0394	EA1011	LTN1	Manningtree South Jn – Manningtree North Jn	59	46	59	69	Y	Y	Y	N	N	N	Y	
+Anglia	0394	EA1011	LTN1	Manningtree North Jn – Ipswich	59	69	68	59	Y	Y	Y	Y	N	N	Y	
+Anglia	0394	EA1012	LTN1	Ipswich – East Suffolk Jn	68	59	69	41	Y	Y	Y	R1	N	N	Y	R1 15mph Ipswich platform 2
+Anglia	0394	EA1012	LTN1	East Suffolk Jn – Trowse Jn (EA1013)	69	41	113	68	Y	Y	Y	Y	N	N	Y	
+Anglia	0394	EA1013	LTN2	Trowse Jn – Trowse Swing Bridge	123	00	123	37	Y	Y	Y	Y	N	N	Y	
+Anglia	0394	EA1013	NCW	Trowse Swing Bridge – Wensum Jn (EA1470 / ELR NOL 0m 60ch) via Through Sidings / Wensum Curve	0	00	0	28	E	E	E	E	N	N	Y	
+Anglia	0394	EA1013	LTN2	Trowse Swing Bridge – Norwich	123	37	124	09	Y	Y	Y	Y	N	N	R1	R1 Prohibited from using the last 25 metres at the buffer stop end of Norwich Royal Dock siding 1
+Anglia	0394	EA1020	CNS	Carpenters Rd South Jn – Carpenters Rd North Jn	1	12	0	70	Y	N	N	N	N	N	N	
+Anglia	0394	EA1030	FGW	Forest Gate Jn – Woodgrange Park Jn	0	00	0	31	Y	N	N	N	N	N	N	
+Anglia	0394	EA1040	ROU	Romford – Upminster	0	00	3	30	N	N	N	N	N	N	N	
+Anglia	0394	EA1050	SSV	Shenfield Jn – Southend Victoria	20	22	41	42	N	N	N	N	N	N	N	
+Anglia	0394	EA1060	WIS	Wickford Jn – Southminster	29	13	45	42	N	N	N	N	N	N	N	
+Anglia	0394	EA1070	BRA	Witham – Braintree	24	15	17	71	N	N	Y	N	N	N	Y	
+Anglia	0394	EA1080	SUD	Marks Tey Jn – Sudbury	45	53	58	32	Y	Y	Y	N	N	N	N	
+Anglia	0394	EA1090	COC	Colchester Jn – Clacton	52	28	69	56	N	N	Y	N	N	N	R1	R1 – Prohibitied Clacton platforms 2 and 3
+Anglia	0394	EA1100	STB	East Gate Jn – Colne Jn	53	14	53	30	N	N	Y	N	N	N	Y	
+Anglia	0394	EA1100	CTH	Hythe Jn – Colne Jn	0	22	0	00	N	N	Y	N	N	N	Y	

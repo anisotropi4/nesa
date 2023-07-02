@@ -1,16 +1,19 @@
-Scotland	1110	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1110					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1110	SC171	Princes Street Gardens – Haymarket Central Jn	Princes Street Gardens	Haymarket Central Jn	Y *	Y	R1	R1	N	N	N	N	R1 W8 W9 Prohibited both Lines Haymarket North Tunnel
-Scotland	1110	SC171	Haymarket West Jn – Thornton North Jn	Haymarket West Jn	Thornton North Jn	Y *	Y	N	N	N	N	N	N
-Scotland	1110	SC171	Thornton North Jn – Ladybank Jn	Thornton North Jn	Ladybank Jn	Y *	Y	Y	N	N	N	N	N
-Scotland	1110	SC171	Ladybank Jn – Dundee	Ladybank Jn	Dundee	Y *	Y	N	N	N	N	N	N
-Scotland	1110	SC173	Inverkeithing Central Jn – Thornton North Jn (via Cowdenbeath)	Inverkeithing Central Jn	Thornton North Jn (via Cowdenbeath)	Y *	Y	Y	N	N	N	N	N
-Scotland	1110	SC175	Rosyth Dockyard – Inverkeithing South Jn (Goods Line)	Rosyth Dockyard	Inverkeithing South Jn (Goods Line)	Y	Y	Y	N	N	N	N	N
-Scotland	1110	SC176	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	Inverkeithing North Jn	Inverkeithing East Jn (Inverkeithing Curve)	Y	Y	N	N	N	N	N	N
-Scotland	1110	SC177	Thornton North Jn – Methil Power Station (Goods Line)	Thornton North Jn	Methil Power Station (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1110	SC178	Thornton South Jn – Thornton West Jn	Thornton South Jn	Thornton West Jn	Y	Y	N	N	N	N	N	N
-Scotland	1110	SC181	Ladybank Jn – Hilton Jn	Ladybank Jn	Hilton Jn	Y	Y	Y	N	N	N	N	N
-Scotland	1110	SC183	Stirling Middle Jn – (Kincardine (Clackmannan) Jn)	Stirling Middle Jn	(Kincardine (Clackmannan) Jn)	Y	Y	Y	Y	N	N	N	N
-Scotland	1110	SC183	(Kincardine (Clackmannan) Jn) – Charlestown Jn	(Kincardine (Clackmannan) Jn)	Charlestown Jn	Y	N	N	N	N	N	N	N
-Scotland	1110	SC185	Elbowend Jn – Crombie RNAD (Goods Line)	Elbowend Jn	Crombie RNAD (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1110	SC187	Glencraig GF – Bowhill (Goods Line)	Glencraig GF	Bowhill (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1110	SC147	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC147	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC147	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC147	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	5	N	R1 R2 R3	N	N	N	N	Y	R1 Infrastructure maintenance purposes only R2 Prohibited from hauling vehicles that exceed RA5 R3 30mph from 20 mile post
+Scotland	1110	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC157	MLE	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC159	NDE2	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC161	NDE1	Millerhill Yard – Junction with Niddrie West Line	5	52	3	36	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC161	SUB1	Junction with Niddrie West Line – Portobello	3	36	3	30	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC161	MHL4	Newcraighall East Jn – Network Rail / Abellio Scotrail Boundary	00	00	00	08	N	N	N	N	N	N	N	N	
+Scotland	1110	SC163	SUB1	Portobello – Change of ELR	3	30	4	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC163	SUB2	Change of ELR – Niddrie West	6	69	6	30	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1110	SC164	NNS	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	3	N	R1	R1	N	N	N	N	R1 55mph maximum speed

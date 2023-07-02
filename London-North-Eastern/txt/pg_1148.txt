@@ -1,46 +1,66 @@
-                                                                                         OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                        LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
 
 
 
-LN862    PED2   Barnsley Station Jn – Site of           6    43    0    00    Y      Y      Y       N   N     N    N   N   N
-                former Barnsley Jn
-LN862    PED1   Site of former Barnsley Jn – Site of    29   13    28   37    Y      Y      Y       N   N     N    N   N   N
-                former Huddersfield Jn
-LN862    PEH    Site of former Huddersfield Jn –        13   42    1    18    Y      Y      Y       N   N     N    N   N   N
-                Lockwood
-LN862    PEH    Lockwood – Springwood Jn                1    18    0    40    Y      Y      N       N   N     N    N   N   N
-LN862    MVL3   Springwood Jn – Huddersfield            0    40    0    00    Y      Y      N       N   N     N    N   N   N
-LN864    DRS1   Dewsbury Railway Street –               0    10    0    00    N      N      N       N   N     N    N   N   N
-                Change of Mileage
-LN864    DRS1   Change of Mileage – Dewsbury            0    27    0    00    N      N      N       N   N     N    N   N   N
-                East Jn
-LN868    SHB    Wincobank Jn – Site of former          161   52   173   48    Y      Y      Y       N   N     N    N   N   N
-                Quarry Jn
-LN868    PED2   Site of former Quarry Jn –              7    50    6    43    Y      Y      Y       N   N     N    N   N   N
-                Barnsley Station Jn
-LN868    BAH2   Barnsley Station Jn – Site of           52   58    45   56    Y      Y      Y       N   N     N    N   N   N
-                former Crigglestone Jn
-LN868    CHS    Site of former Crigglestone Jn –        1    53    0    00    Y      Y      Y       N   N     N    N   N   N
-                Horbury Jn
-LN870    CTL    Wakefield Turners Lane – Calder         0    50    0    00    Y      Y      Y       N   N     N    N   Y   Y
-                Bridge Jn
-LN872    TJC3   Altofts Jn – Hunslet South Jn          185   73   193   40    Y      Y      Y       N   N     N    Y   N   Y
-LN872    TJC3   Hunslet South Jn – Engine Shed         193   40   195   20    Y      Y      Y       N   N     N    N   N   Y
-                Jn
-LN872    ELN    Engine Shed Jn – Leeds West Jn         195   20   195   53    Y      Y      Y       N   N     N    N   N   Y
-LN874    MEW2 Methley Jn – Whitwood Jn                  1    12    0    01    Y      Y      Y       N   N     N    N   N   Y
-LN875    CPM2 Castleford West Jn – Cutsyke Jn           0    00    0    61    Y      Y      Y       N   N     N    N   N   Y
-LN875    CPM1 Cutsyke Jn – Pontefract West Jn           59   02    56   42    Y      Y      Y       N   N     N    N   N   Y
-LN876    BOO    Castleford East Jn – Ledston            6    17    4    43    N      N      N       N   N     N    N   N   N
-LN878    SHG    Sherburn Jn – Gascoigne Wood            13   20    14   30    Y      Y      Y       N   N     N    Y   N   Y
-                Jn
-LN880    YMS    York (platforms 4 & 5) –                0    00    42   06    R1    R1     R2       N   N     N    N   N   R3 R1    Prohibited Scarborough platform 3
-                Scarborough (platforms 1 to 5)                                R2    R2                                              when laden
-                                                                                                                               R2   Prohibited Scarborough platform 5
-                                                                                                                               R3   Prohibited Scarborough Bay platform 4
+     LN804TJC1Route Boundary (LN3201) (Tapton
+                                 14664 153 71 Y  Y  Y  EH  N  Y  N  N   N R1Prohibited with footsteps fitted
+              Jn) – Dore South Jn                      R1
+     LN804TJC1Dore South Jn – Sheffield Station
+                                 15371 158 40 Y  Y  Y  EH  N  Y  N  N  R2 R1Prohibited with footsteps fitted
+                                                       R1                R2 Prohibited Sheffield platform 2c
+     LN804TJC1Sheffield Station – Nunnery Main
+                                 15840 158 77 Y  Y  Y  EH  N  Y  N  N  R2 R1Prohibited with footsteps fitted
+              Line Jn                                  R1                R2 Prohibited Sheffield platform 2c
+     LN804TJC1Nunnery Main Line Jn – Site of
+                                 15877 160 47 Y  Y  Y  EH  N  Y  N  N   Y R1Prohibited with footsteps fitted
+              former Grimesthorpe Jn                   R1
+     LN804TJC2Site of former Grimesthorpe Jn –
+                                 16047 163 74 Y  Y  Y  EH  N  Y  N  N   Y R1Prohibited with footsteps fitted
+              Site of Masborough South Jn              R1
+     LN804TJC3Site of former Masborough South
+                                 16177 166 56 Y  Y  Y  EH  N  Y  N  N   Y R1Prohibited with footsteps fitted
+              Jn – Swinton Jn South                    R1
+     LN804SMJ1Swinton Jn South – Swinton Jn
+                                 16656 167 03 Y  Y  Y  EH  N  Y  N  N   Y R1Prohibited with footsteps fitted
+              North                                    R1
+     LN804SMJ1Swinton Jn North – Site of former
+                                 16703 168 64 Y  Y  Y   N  N  N  N  N   Y
+              Wath Curve Jn
+     LN804SMJ2Site of former Wath Curve Jn –
+                                 17 15  2  38 Y  Y  Y   N  N  N  N  N   Y
+              Ferrybridge South Jn
+     LN804SMJ2Ferrybridge South Jn – Site of
+                                  2 38  0  00 Y  Y  Y   N  N  N  Y  Y   Y
+              former Burton Salmon Jn
+     LN804SMJ3Site of former Burton Salmon Jn –
+                                 16 69  15 07 Y  Y  Y   N  N  N  Y  Y   Y
+              Milford Jn
+     LN804MGW Milford Jn – Gascoigne Wood SB
+                                  7 65  6  27 Y  Y  Y   N  N  N  N  N   Y
+     LN806CHR Route Boundary (LN3201) (Tapton
+                                 14664 162 24 Y  Y  Y   N  N  N  N  N   N
+              Jn) – Masborough Jn
+     LN807MAS Dore South Jn – Dore West Jn
+                                 15373 154 16 Y  Y  Y   N  N  N  N  N   N
+     LN808DWS Dore Station Jn – Dore West Jn
+                                  0 60  0  00 Y  Y  Y   N  N  N  N  N   Y
+     LN808MAS Dore West Jn – Route Boundary
+                                 15416 154 20 Y  Y  Y   N  N  N  N  N   Y
+              (NW9001) (Chinley North Jn)
+     LN809BTJ Shepcote Lane West Jn – Tinsley
+                                 16124 160 52 Y  Y  Y   N  N  N  N  N   N
+              Yard East End
+     LN810SEL Shepcote Lane West Jn – Tinsley
+                                 16124 161 63 Y  Y  Y   N  N  N  N  N   N
+              South Jn
+     LN812BLJ Shepcote Lane East Jn –
+                                 16120 161 67 Y  Y  Y   N  N  N  N  N   N
+              Broughton Lane Jn
+     LN816BEW Beighton Jn – Woodhouse Jn
+                                 48 06  46 56 Y  Y  Y   N  N  N  N  N   N
 
 
-October 2009                                                                                48G
+     October 2009                                   48C

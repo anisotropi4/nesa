@@ -1,4 +1,8 @@
-London-North-Western-North	0881	NW7009	FHR3	Lostock Hall Jn	Change of ELR (Site of Former Bamber Bridge Jn)	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	N	N	N	N	N	Y	Y	Y	N
-London-North-Western-North	0881	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn)	Blackburn Bolton Jn	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	N	N	N	N	N	Y	Y	Y	N
-London-North-Western-North	0881	NW7009	FHR4	Blackburn Bolton Jn	Blackburn	Blackburn Bolton Jn – Blackburn	10	11	10	42	N	N	N	N	N	R1	Y	Y	N	R1 Prohibited Blackburn platform 3
-London-North-Western-North	0881	NW7009	FHR5	Blackburn	Daisyfield Jn	Blackburn – Daisyfield Jn	10	42	11	09	N	N	N	N	N	Y	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Western-North	0881	NW9903	SKW1	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0881	NW9903	SJC	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0881	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0881	NW9907	WAR	Appleby North Jn – Appleby West Jn	277	27	277	56	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0881	NW9907	EDE	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0881	NW9909	NEC2	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0881	NW9911	NGD	London Road Jn – Bog Jn (Newcastle Goods Lines)	0	00	0	25	Y	Y	Y	Y	Y	Y	Y	Y	N	N	

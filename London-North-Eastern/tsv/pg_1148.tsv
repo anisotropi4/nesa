@@ -1,21 +1,21 @@
-London-North-Eastern	1148	LN862	PED2	Barnsley Station Jn	Site of former Barnsley Jn	Barnsley Station Jn – Site of former Barnsley Jn	6	43	0	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN862	PED1	Site of former Barnsley Jn	Site of former Huddersfield Jn	Site of former Barnsley Jn – Site of former Huddersfield Jn	29	13	28	37	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN862	PEH	Site of former Huddersfield Jn	Lockwood	Site of former Huddersfield Jn – Lockwood	13	42	1	18	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN862	PEH	Lockwood	Springwood Jn	Lockwood – Springwood Jn	1	18	0	40	Y	Y	N	N	N	N	N	N	N
-London-North-Eastern	1148	LN862	MVL3	Springwood Jn	Huddersfield	Springwood Jn – Huddersfield	0	40	0	00	Y	Y	N	N	N	N	N	N	N
-London-North-Eastern	1148	LN864	DRS1	Dewsbury Railway Street	Change of Mileage	Dewsbury Railway Street – Change of Mileage	0	10	0	00	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1148	LN864	DRS1	Change of Mileage	Dewsbury East Jn	Change of Mileage – Dewsbury East Jn	0	27	0	00	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1148	LN868	SHB	Wincobank Jn	Site of former Quarry Jn	Wincobank Jn – Site of former Quarry Jn	161	52	173	48	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN868	PED2	Site of former Quarry Jn	Barnsley Station Jn	Site of former Quarry Jn – Barnsley Station Jn	7	50	6	43	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN868	BAH2	Barnsley Station Jn	Site of former Crigglestone Jn	Barnsley Station Jn – Site of former Crigglestone Jn	52	58	45	56	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN868	CHS	Site of former Crigglestone Jn	Horbury Jn	Site of former Crigglestone Jn – Horbury Jn	1	53	0	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1148	LN870	CTL	Wakefield Turners Lane	Calder Bridge Jn	Wakefield Turners Lane – Calder Bridge Jn	0	50	0	00	Y	Y	Y	N	N	N	N	Y	Y
-London-North-Eastern	1148	LN872	TJC3	Altofts Jn	Hunslet South Jn	Altofts Jn – Hunslet South Jn	185	73	193	40	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1148	LN872	TJC3	Hunslet South Jn	Engine Shed Jn	Hunslet South Jn – Engine Shed Jn	193	40	195	20	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1148	LN872	ELN	Engine Shed Jn	Leeds West Jn	Engine Shed Jn – Leeds West Jn	195	20	195	53	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1148	LN874	MEW2	Methley Jn	Whitwood Jn	Methley Jn – Whitwood Jn	1	12	0	01	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1148	LN875	CPM2	Castleford West Jn	Cutsyke Jn	Castleford West Jn – Cutsyke Jn	0	00	0	61	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1148	LN875	CPM1	Cutsyke Jn	Pontefract West Jn	Cutsyke Jn – Pontefract West Jn	59	02	56	42	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1148	LN876	B	Castleford East Jn	Ledston	Castleford East Jn – Ledston	6	17	4	43	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1148	LN878	SHG	Sherburn Jn	Gascoigne Wood Jn	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1148	LN880	YMS	York (platforms 4 & 5)	Scarborough (platforms 1 to 5)	York (platforms 4 & 5) – Scarborough (platforms 1 to 5)	0	00	42	06	R1 R2	R1 R2	R2	N	N	N	N	N	R3	R1 Prohibited Scarborough platform 3 when laden R2 Prohibited Scarborough platform 5 R3 Prohibited Scarborough Bay platform 4
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
+London-North-Eastern	1148	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	Y	Y	Y	EH R1	N	Y	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Eastern	1148	LN804	TJC1	Dore South Jn – Sheffield Station	153	71	158	40	Y	Y	Y	EH R1	N	Y	N	N	R2	R1 Prohibited with footsteps fitted R2 Prohibited Sheffield platform 2c
+London-North-Eastern	1148	LN804	TJC1	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	Y	Y	EH R1	N	Y	N	N	R2	R1 Prohibited with footsteps fitted R2 Prohibited Sheffield platform 2c
+London-North-Eastern	1148	LN804	TJC1	Nunnery Main Line Jn – Site of former Grimesthorpe Jn	158	77	160	47	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
+London-North-Eastern	1148	LN804	TJC2	Site of former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
+London-North-Eastern	1148	LN804	TJC3	Site of former Masborough South Jn – Swinton Jn South	161	77	166	56	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
+London-North-Eastern	1148	LN804	SMJ1	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
+London-North-Eastern	1148	LN804	SMJ1	Swinton Jn North – Site of former Wath Curve Jn	167	03	168	64	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1148	LN804	SMJ2	Site of former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1148	LN804	SMJ2	Ferrybridge South Jn – Site of former Burton Salmon Jn	2	38	0	00	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN804	SMJ3	Site of former Burton Salmon Jn – Milford Jn	16	69	15	07	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN804	MGW	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1148	LN806	CHR	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN807	MAS	Dore South Jn – Dore West Jn	153	73	154	16	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN808	DWS	Dore Station Jn – Dore West Jn	0	60	0	00	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1148	LN808	MAS	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1148	LN809	BTJ	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN810	SEL	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN812	BLJ	Shepcote Lane East Jn – Broughton Lane Jn	161	20	161	67	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	Y	Y	Y	N	N	N	N	N	N	

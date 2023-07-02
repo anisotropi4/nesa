@@ -1,17 +1,24 @@
-Kent-Sussex-Wessex	0960	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
-Kent-Sussex-Wessex	0960	SO520	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SW110]	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	7	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	8	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	7*	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	6	Y	R1	N	Y	R2	Y	R1	R1 Prohibited beyond 12m 40ch R2 - Class 47/4 locomotives that conform to RA7 prohibited beyond 12m 40ch
-Kent-Sussex-Wessex	0960	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	6	Y	N	N	Y	R1	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
-Kent-Sussex-Wessex	0960	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	4	R1	N	N	R1	R1 R2	R1	N	R1 30mph over Red Lane Bridge (SCU1 526) (21m 78ch) STNC/G1/2010/ICP-RA/SO018a until 31 December 2017 R2 Route prohibited to Class 47/4 locomotives that conform to RA7
-Kent-Sussex-Wessex	0960	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	8	Y	Y	N	Y	Y	Y	Y
-Kent-Sussex-Wessex	0960	SO590	KJE3	Willingdon Jn	Eastbourne	Willingdon Jn – Eastbourne	21	39	23	75	8	Y	Y	N	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
+Kent-Sussex-Wessex	0960	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
+Kent-Sussex-Wessex	0960	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
+Kent-Sussex-Wessex	0960	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
+Kent-Sussex-Wessex	0960	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	6	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO290	NKL	Charlton – Slade Green Jn	7	44	15	36	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	15	66	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	8	Y	Y	Y	Y	Y	Y	Y	

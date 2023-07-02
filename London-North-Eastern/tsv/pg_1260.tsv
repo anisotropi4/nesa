@@ -1,10 +1,24 @@
-London-North-Eastern	1260	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1260					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1260	LN3520	Sheet Stores Jn – Stenson Jn	Sheet Stores Jn	Stenson Jn	Y *	Y	Y	Y	Y	Y	Y	Y	S1 The following combinations are permitted: 2438 h x 2438 w box on FEA KFA wagons Up Line 2590 h x 2438 w box on FEA FSA/FTA KFA wagons Up Line 2590 h x 2500 w box on FEA FSA/FTA KFA wagons Up Line 2615 h x 2500 w S16 FT on KFA wagons Up Line 2615 h x 2550 w S16 FT on KFA wagons Up Line 2625 h x 2500 w ST17 FT on FEA FSA/FTA wagons Up Line 2625 h x 2550 w ST17 FT on FEA FSA/FTA wagons Up Line 2896 h x 2438 w box on FLA wagons Up Line 2896 h x 2500 w box on FAA wagons Up Line STNC NC/G1/2001/ICP-G/M&C002 applies to 31/12/10
-London-North-Eastern	1260	LN3525	Knighton Jn – Leicester Jn	Knighton Jn	Leicester Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1260	LN3535	Birmingham Curve Jn – Branston Jn	Birmingham Curve Jn	Branston Jn	Y	N	N	N	N	N	N	N
-London-North-Eastern	1260	LN3601	Kettering North Jn – Manton Jn	Kettering North Jn	Manton Jn	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1260	LN3605	Corby BSC Works – Corby North	Corby BSC Works	Corby North	Y	N	N	N	N	N	N	N
-London-North-Eastern	1260	LN3610	Corby Automotive Terminal – Corby North	Corby Automotive Terminal	Corby North	Y	N	N	N	N	N	N	N
-London-North-Eastern	1260	LN3615	Uffington – Syston South Jn	Uffington	Syston South Jn	Y *	Y	R1 R2	R1 R2	R1 R2	R1 R2	N	N	R1 W10 Prohibited: The following combinations are permitted: Up to: 2895 high x 2500 wide box on FIA FKA FSA/FTA IFA IKA KFA FEA wagons R2 PROHIBITED from Melton Mowbray Up Goods Yard.
-London-North-Eastern	1260	LN3620	Melton Jn GF – Asfordby	Melton Jn GF	Asfordby	Y	N	N	N	N	N	N	N
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1260	LN904	Hambleton South Jn – Hambleton West Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1260	LN906	Hambleton East Jn – Hambleton North Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1260	LN908	Selby West Jn – Canal Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1260	LN910	Temple Hirst Jn – Selby South Jn	Y	Y	Y	R1	N	R1	N	R1	R1 Prohibited from Selby South Up sidings
+London-North-Eastern	1260	LN912	Thorne Jn – Gilberdyke Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1260	LN914	West Parade Jn (Hull) – West Parade North Jn	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA- U wagons
+London-North-Eastern	1260	LN914	West Parade North Jn – Seamer West Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN916	Hessle Road – Saltend	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1260	LN918	Springbank North Jn – Walton Street Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN920	Anlaby Road Jn – West Parade North Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN922	Whitehall West Jn – Hellifield South Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1260	LN924	Apperley Jn – Ilkley	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN926	Dockfield Jn – Esholt Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN928	Shipley East Jn – Bradford Forster Square	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN930	Skipton Middle Jn – Rylstone	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN932	Shipley South Jn – Shipley West Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN3140	Bedford St. John's (Exclusive) – Bedford Station	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1260	LN3201	St. Pancras – Cricklewood	Y *	R1	R1	N	N	N	N	N	R1 W8 W7 Prohibited EXCEPT Up Hendon, Down Hendon between Cricklewood Curve Jn and West Hampstead North Jn
+London-North-Eastern	1260	LN3201	Cricklewood – Bedford	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1260	LN3201	Bedford – Wellingborough	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1260	LN3201	Wellingborough – Wigston Sth Jn	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S, IFA- U wagons
+London-North-Eastern	1260	LN3201	Wigston South Jn – Leicester	Y *	Y	R1	R1	N	R1	N	N	R1 PROHIBITED Wigston South Jn to Wigston North Jn
+London-North-Eastern	1260	LN3201	Leicester – Ratcliffe Jn	Y	Y	R1	R1	N	R1	N	N	R1 PROHIBITED Sytton South Jn to Ratcliffe Jn

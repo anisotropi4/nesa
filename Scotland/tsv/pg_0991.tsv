@@ -1,28 +1,19 @@
-Scotland	0991	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	0991	SC109	PMT	Grangemouth Jn	Carmuirs East Jn	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	Y	N	Y	Y	Y
-Scotland	0991	SC109	CMS	Carmuirs East Jn	Carmuirs West Jn	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	Y	N	Y	Y	Y
-Scotland	0991	SC109	SCM3	Carmuirs West Jn	Greenhill Lower Jn	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	Y	N	Y	Y	Y
-Scotland	0991	SC109	GHL	Greenhill Lower Jn	Greenhill Upper Jn	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	Y	N	N	Y	Y
-Scotland	0991	SC110	PMT	Carmuirs East Jn	Larbert Jn	Carmuirs East Jn – Larbert Jn	25	79	26	35	Y	N	N	Y	Y
-Scotland	0991	SC111	NBE	Newbridge Jn	Bathgate	Newbridge Jn – Bathgate	35	21	25	18	Y	N	Y	N	N
-Scotland	0991	SC113	DMY	Winchburgh Jn	Dalmeny Jn	Winchburgh Jn – Dalmeny Jn	34	54	39	03	Y	N	N	Y	Y
-Scotland	0991	SC115	MRL1	Cowlairs West Jn	Maryhill Park Jn	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	Y	N	N	N	N
-Scotland	0991	SC115	MRL2	Maryhill Park Jn	Knightswood North Jn	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	Y	N	N	N	N
-Scotland	0991	SC1150	MLA	Maryhill Park Jn	Anniesland	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	N	N
-Scotland	0991	SC116	CSN	Cowlairs East Jn	Cowlairs North Jn	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	Y	N	N	N	N
-Scotland	0991	SC117	GMH	Grangemouth Jn	Grangemouth	Grangemouth Jn – Grangemouth	0	00	3	67	R1	N	N	N	N	R1 Prohibited except for the purpose of setting back behind Signals ECL290 or ECL292
-Scotland	0991	SC119	GHL	Greenhill Upper Jn	Greenhill Lower Jn	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	Y	N	N	Y	Y
-Scotland	0991	SC119	SCM3	Greenhill Lower Jn	Carmuirs West Jn	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	Y	N	Y	Y	Y
-Scotland	0991	SC119	SCM3	Carmuirs West Jn	Stirling Middle Jn	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	Y	N	Y	Y	Y
-Scotland	0991	SC119	SCM3	Stirling Middle Jn	Change of ELR (Dunblane)	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	Y	N	Y	Y	Y
-Scotland	0991	SC119	SCM4	Change of ELR (Dunblane)	Perth South Jn	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	Y	N	N	Y	Y
-Scotland	0991	SC119	SCM5	Perth South Jn	Change of Mileage	Perth South Jn – Change of Mileage	150	61	151	03	Y	N	N	Y	Y
-Scotland	0991	SC119	SCM5	Change of Mileage	Dundee Central Jn	Change of Mileage – Dundee Central Jn	21	01	0	36	Y	N	N	Y	Y
-Scotland	0991	SC119	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	Y	N	N	Y	Y
-Scotland	0991	SC123	NBE	Bathgate	Change of ELR	Bathgate – Change of ELR	25	18	25	00	Y	N	Y	N	N
-Scotland	0991	SC123	NEM1	Change of ELR	Drumgelloch	Change of ELR – Drumgelloch	25	00	11	70	Y	N	Y	N	N
-Scotland	0991	SC123	NEM1	Drumgelloch	Change of ELR	Drumgelloch – Change of ELR	11	70	11	60	N	N	Y	N	N
-Scotland	0991	SC123	NEM2	Change of ELR	High Street Jn	Change of ELR – High Street Jn	11	60	0	28	N	N	R1 R2 R3 R4 R5	N	N	R1 Prohibited High Street Up platform with deflated suspension R2 15mph Coatdyke Up platform R3 15mph Blairehill Up platform R4 15mph Easterhouse Down platform R5 Prohibited between Shettleston and High Street Jn
-Scotland	0991	SC123	NEM2	High Street Jn	Change of ELR	High Street Jn – Change of ELR	0	28	0	00	N	N	N	N	N
-Scotland	0991	SC123	NEM3	Change of ELR	Finnieston East Jn	Change of ELR – Finnieston East Jn	0	00	2	19	N	N	N	N	N
-Scotland	0991	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Down Line)	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0991	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	Y	Y	Y	Y	Y	E	
+Scotland	0991	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	Y	Y	Y	Y	Y	E R1	R1 60mph Lochwinnoch down platform
+Scotland	0991	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	Y	Y	Y	Y	Y	E R1 R2	R1 40mph Kilwinning up platform R2 Prohibited between Barassie and Change of ELR (Barassie Jn)
+Scotland	0991	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	Y	Y	Y	Y	Y	N	
+Scotland	0991	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	Y	Y	Y	Y	Y	N	
+Scotland	0991	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	Y	Y	Y	Y	Y	Y	N	
+Scotland	0991	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	N	N	N	Y	Y	Y	E	
+Scotland	0991	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	N	N	N	R1	R1	R1	N	R1 Prohibited when overhead line equipment is energised
+Scotland	0991	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	
+Scotland	0991	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	N	
+Scotland	0991	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC065	GOU2	Bishopton – Gourock	112	60	126	E	N	N	N	Y	Y	Y	N	

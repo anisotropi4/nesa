@@ -1,20 +1,4 @@
-Anglia	0468	EA1220	TEN	Stansted North Jn	Stansted East Jn	Stansted North Jn – Stansted East Jn	0	00	0	49	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1220	TLA	Stansted East Jn	Stansted Airport	Stansted East Jn –Stansted Airport	34	26	36	67	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1230	SBR	Route Boundary (LN125) (Royston)	Shepreth Branch Jn	Route Boundary (LN125) (Royston) – Shepreth Branch Jn	45	60	55	26	9	Y	Y	Y	Y	H	N
-Anglia	0468	EA1270	MIT	Kings Lynn Jn	Middleton towers	Kings Lynn Jn – Middleton towers	0	22	3	44	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1270	MIT	Kings Lynn Jn	Kings Lynn Yard branch end	Kings Lynn Jn – Kings Lynn Yard branch end	0	22	0	00	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1280	SDC	Stratford Central Jn East	Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)	Stratford Central Jn East – Temple Mills East Jn. (Via Platforms 11 & 12 at Stratford)	3	76	4	45	8	Y	Y	Y	Y	N	Y
-Anglia	0468	EA1280	SDC	Temple Mills East Jn	Coppermill Jn	Temple Mills East Jn – Coppermill Jn	4	45	7	14	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1290	TSE2	Tottenham South Jn	Change of mileage	Tottenham South Jn – Change of mileage	5	41	5	54	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1290	TSE1	Change of mileage	South Tottenham East Jn	Change of mileage – South Tottenham East Jn	6	22	5	73	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1300	SSL	South Tottenham West Jn	Seven Sisters Jn	South Tottenham West Jn – Seven Sisters Jn	0	13	0	00	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1310	BOK2	Camden Road West Jn	Gospel Oak Jn	Camden Road West Jn – Gospel Oak Jn	0	00	1	10	8	Y	Y	Y	Y	H	Y
-Anglia	0468	EA1310	BOK2	Gospel Oak Jn	Kensal Green Jn	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	8	Y	Y	Y	Y	H	Y
-Anglia	0468	EA1310	KGC	Kensal Green Jn	Route Boundary (MD155) (Harlesden Jn)	Kensal Green Jn – Route Boundary (MD155) (Harlesden Jn)	0	00	0	21	8	N	N	Y	Y	H	Y
-Anglia	0468	EA1310	KGW	Kensal Green Jn	Route Boundary (MD150) (Willesden Suburban Jn)	Kensal Green Jn – Route Boundary (MD150) (Willesden Suburban Jn)	5	10	5	25	8	N	N	Y	N	N	N
-Anglia	0468	EA1310	BOK3	Kensal Green Jn	Willesden High Level Jn	Kensal Green Jn – Willesden High Level Jn	5	10	5	48	8	Y	Y	Y	Y	N	Y
-Anglia	0468	EA1310	WMB	Willesden High Level Jn	Route Boundary (MD160) (Mitre Bridge Jn)	Willesden High Level Jn – Route Boundary (MD160) (Mitre Bridge Jn)	0	43	0	09	8	Y	Y	Y	Y	N	Y
-Anglia	0468	EA1310	BOK4	Willesden High Level Jn	Former Old Oak Jn (change of mileage)	Willesden High Level Jn – Former Old Oak Jn (change of mileage)	0	00	0	34	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1310	BOK4	Former Old Oak Jn (change of mileage)	Acton Wells Jn (Connection EA1360)	Former Old Oak Jn (change of mileage) – Acton Wells Jn (Connection EA1360)	0	34	0	66	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1310	BOK5	Acton Wells Jn (Connection to EA1360)	Acton Wells Jn (Connecton to GW130)	Acton Wells Jn (Connection to EA1360) – Acton Wells Jn (Connecton to GW130)	0	66	0	72	8	Y	Y	Y	Y	N	N
-Anglia	0468	EA1310	AWL	Acton Wells Jn	Route Boundary (GW130) (Acton East Jn)	Acton Wells Jn – Route Boundary (GW130) (Acton East Jn)	0	49	0	39	8	N	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	MPV	Notes
+Anglia	0468	EA1325	BOK1	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	8	N	N	N	N	N	N	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode
+Anglia	0468	EA1325	ELL1	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	8	E R2 R5 R6	N	E R2 R7 R8	N	N	E R2 R5 R6	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 Train not to enter Dalston Junction platform 2 or 3 R4 15mph through platforms and not to exceed 20mph on the Infrastructure. Prohibited in diesel mode R5 Prohibited North of EL264 (5M9Ch) R6 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R7 Not to exceed 5mph R8 Prohibited north of Surrey Quays Portal (4M 38Ch)
+Anglia	0468	EA1325	ELL1	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	8	E R2 R5	N	E R2 R6	N	N	E R2 R5	R1 R2 R3 R4	N	N	R1 Can only run as part of the Track Recording Unit R2 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R3 15mph through platforms and not to exceed 20mph on the Infrastructure R4 Prohibited in diesel mode R5 Not to exceed 25mph R6 Not to exceed 5mph

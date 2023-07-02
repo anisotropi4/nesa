@@ -1,24 +1,23 @@
-London-North-Western-North	0891	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	323	325	350	Notes
-London-North-Western-North	0891	NW3013	HHJ	Ellesmere Port (Limit of DC Electrification)	Helsby Jn	Ellesmere Port (Limit of DC Electrification) – Helsby Jn	3	44	8	67	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3015	LJT1	Llandudno Jn	Blaenau Ffestiniog, End of Line	Llandudno Jn – Blaenau Ffestiniog, End of Line	0	30	27	53	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3017	LLJ	Llandudno Jn	Llandudno	Llandudno Jn – Llandudno	0	03	3	14	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3019	GLA	Gaerwen	Network Rail Boundary	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
-London-North-Western-North	0891	NW3021	FJH	Frodsham Jn	Halton Jn	Frodsham Jn – Halton Jn	1	54	0	00	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3023	EJN	Edgeley Jn	Northenden Jn	Edgeley Jn – Northenden Jn	0	00	3	68	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3023	WJP1	Northenden Jn	Skelton Jn	Northenden Jn – Skelton Jn	33	52	30	12	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3023	SJD	Skelton Jn	Deansgate Jn	Skelton Jn – Deansgate Jn	0	00	0	33	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3023	CDM1	Deansgate Jn	Change of ELR (Altrincham)	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3023	CDM2	Change of ELR (Altrincham)	Mickle Trafford Jn	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3025	WJP1	Skelton Jn	Partington Jn Network Rail Boundary	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	N	N	N	N	N	N	N	Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
-London-North-Western-North	0891	NW3027	CDM1	Network Rail Boundary (Metrolink)	Deansgate Jn	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	N	N	N	N	N	N	N
-London-North-Western-North	0891	NW3027	CDM1	Deansgate Jn	Altrincham	Deansgate Jn – Altrincham	7	05	8	00	N	N	N	N	N	N	N
-London-North-Western-North	0891	NW3029	SNJ	Sandbach North Jn	Northwich West Jn	Sandbach North Jn – Northwich West Jn	0	00	8	64	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3031	NSN	Northwich South Jn	Northwich Station Jn	Northwich South Jn – Northwich Station Jn	8	37	8	66	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW3033	HEG	Hartford East Jn	Hartford North Jn (East Goods line)	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	N	N	N	N	N	N	N
-London-North-Western-North	0891	NW3035	HWG	Hartford West Jn	Hartford North Jn (West Goods line)	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	N	N	N	N	N	N	N
-London-North-Western-North	0891	NW3037	HCN	Hartford CLC Jn	Hartford Jn	Hartford CLC Jn – Hartford Jn	0	72	0	16	EH	N	N	N	N	H	N
-London-North-Western-North	0891	NW4001	CGJ5	Preston Ribble Jn	Preston (Change of ELR)	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	Y	Y	E	E	N	Y	Y
-London-North-Western-North	0891	NW4001	CGJ6	Preston (Change of ELR)	Preston North Jn	Preston (Change of ELR) – Preston North Jn	0	00	0	21	Y	Y	E	E	N	Y	Y
-London-North-Western-North	0891	NW4001	CGJ6	Preston North Jn	Preston Fylde Jn	Preston North Jn – Preston Fylde Jn	0	21	0	33	Y	Y	E	E	N	Y	Y
-London-North-Western-North	0891	NW4001	CGJ6	Preston Fylde Jn	Lancaster	Preston Fylde Jn – Lancaster	0	33	20	78	Y	R1	E	E	N	Y	Y	R1 Prohibited Lancaster bay platforms 1 & 2
-London-North-Western-North	0891	NW4001	CGJ7	Lancaster	Carnforth North Jn	Lancaster – Carnforth North Jn	0	00	6	08	Y	R1	E	E	N	Y	R1	R1 Prohibited Lancaster bay platforms 1 and 2
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	196	220	221	222	Notes
+London-North-Western-North	0891	NW6009	WBS1	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	N	N	N	Y	Y	R1 R2 R3	N	Y	Y	N	R1 15mph Swinton Up platform R2 15mph Moorside Down platform R3 15mph Walkden Up platform
+London-North-Western-North	0891	NW6009	WBS2	Crow Nest Jn – Wigan Station Jn	14	64	17	44	N	N	N	Y	Y	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW6009	WBS2	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW6009	WBS3	Wigan Wallgate Jn – Southport	18	04	35	27	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW6011	BBB	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	N	N	N	N	N	R1 R2 R3 R4	N	Y	Y	N	R1 15mph Hall I’th’Wood Down platform R2 30mph Bromley Cross Up platform R3 30mph Darwen Down platform R4 15mph BBB1/65 Bolton Road underbridge 23m46ch single
+London-North-Western-North	0891	NW6013	LCN	Lostock Jn – Crow Nest Jn	13	39	17	18	N	N	N	Y	Y	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW6015	WKL1	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW6015	WKL2	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	N	N	Y	Y	E	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW7001	MPR1	Miles Platting Jn – Brewery Jn	1	30	1	52	N	N	Y	Y	E	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW7001	MPR1	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	N	N	Y	Y	E	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW7001	MVN2	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	N	N	Y	E R1	E R1	Y	N	Y	Y	N	R1 Prohibited between Newton Heath TMD and Castleton South Jn
+London-North-Western-North	0891	NW7001	MVN2	Castleton South Jn – Castleton East Jn	8	21	8	52	N	N	Y	N	N	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW7001	MVN2	Castleton East Jn – Hall Royd Jn	8	52	19	61	N	N	R2 R3	N	R1	Y	N	Y	Y	N	R1 Prohibited between Castleton East Jn and Todmorden. R2 Prohibited Rochdale platform 1 with deflated suspension R3 Prohibited Smithy Bridge Up and Down platforms with deflated suspension
+London-North-Western-North	0891	NW7001	MVN2	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	N	N	Y	N	Y	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW7005	CEH	Castleton East Jn – Castleton North Jn	0	00	0	37	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW7005	CPI1	Castleton South Jn – Castleton North Jn	8	21	8	50	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW7005	CPI2	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW7006	SFO	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	N	N	N	N	N	E	N	Y	Y	N	
+London-North-Western-North	0891	NW7007	FCO	Farington Curve Jn – Ormskirk	25	64	12	15	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0891	NW7009	FHR1	Farington Curve Jn - Lostock Hall Depot	0	00	0	75	N	N	N	N	N	Y	N	Y	Y	N	
+London-North-Western-North	0891	NW7009	FHR2	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	N	N	N	N	N	Y	N	Y	Y	N	

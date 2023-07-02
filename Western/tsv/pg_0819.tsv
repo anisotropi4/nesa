@@ -1,3 +1,10 @@
-Western	0819	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Western	0819					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Western	0819	GW730	Severn Bridge Jn – Craven Arms	Severn Bridge Jn	Craven Arms	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) or S13FT x 2500(w) on FCA/FYA wagons 2615(h) x 2500(w) on KFA wagons 2625(h) x 2500(w) on FEA FSA FTA wagons 2896(h) or S44FT x 2500(w) on FLA wagons S14FT or S17FT x 2550(w) on FSA/FTA FEA KFA wagons Up Line 30mph at Br.15 Sutton Lane [1m 48ch] Br 18 Sharptone [2m 53ch] 15mph at Br.19 Bayston Park [3m 05ch] Br. Chatford [4m 57ch] Br. All Stretton [11m 56ch] Br. Ballast Pit [13m 45ch] Down Line 15mph at Br.18 Sharpstone [2m 53ch] Br. A49 Longnor [7m 24ch] 5mph Br. Quaking Well [10m 62ch]
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Western	0819	GW480	Swindon – Standish Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA IDA wagons 20mph Up Line 10mph Down Line Sapperton Long Tunnel [94m 70ch – 95m 74ch] 20mph Up Line only Bridge SWM1 Shepherds (aka Westrop Road) [104m 48ch]
+Western	0819	GW490	Gloucester Yard Jn – Horton Road Jn	Y	Y	Y	N	N	N	N	N	
+Western	0819	GW500	Reading – Heywood Road Jn via Lavington	Y *	Y	Y	R1 R2	R1 R2	R2 R3	R1 R2	R1 R2	R1 Between Reading Westbury Line Jn and Oxford Road Jn only R2 Prohibited Reading Bay platforms 1, 2 and 3 R3 Between Reading Westbury line Jn and Southcote Jn only
+Western	0819	GW500	Heywood Road Jn – Castle Cary Jn via Westbury Avoiding Lines and Frome Avoiding Lines	Y *	Y	N	N	N	N	N	N	
+Western	0819	GW500	Castle Cary Jn – Cogload Jn	Y *	Y	N	N	N	N	N	N	
+Western	0819	GW500	Southcote Junction – Wessex Route Boundary [37m 76ch]	Y	Y	Y	Y	N	Y	N	N	
+Western	0819	GW5001	Beechgrove GF – Westbury South Jn	Y	Y	Y	N	N	N	N	N	
+Western	0819	GW510	Westbury North Jn – Bradford Jn	Y	Y	Y	N	N	N	N	N	
+Western	0819	GW510	Bradford Jn – Bathampton Jn	Y	N	N	N	N	N	N	N	

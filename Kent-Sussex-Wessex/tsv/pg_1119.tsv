@@ -1,22 +1,18 @@
-Kent-Sussex-Wessex	1119	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Kent-Sussex-Wessex	1119	SO650	BBJ	Balham Jn (SO500)	Leigham Jn	Balham Jn (SO500) – Leigham Jn	4	69	6	31	8	R1 R2	R3 Prohibited between Streatham Hill station and Leigham Jn on the Down Crystal Palace line R4 Prohibited between Streatham Hill station and Leigham Jn on the Up Crystal Palace line
-Kent-Sussex-Wessex	1119	SO650	BBJ	Leigham Jn	West Norwood Jn	Leigham Jn – West Norwood Jn	6	31	6	58	8	Y
-Kent-Sussex-Wessex	1119	SO650	BBJ	West Norwood Jn	Crystal Palace platforms 1 and 2	West Norwood Jn – Crystal Palace platforms 1 and 2	6	58	8	56	8	R1 R2	R3 Prohibited West Norwood platform 1 (Up Crystal Palace line) R4 Prohibited between Gypsy Hill station and Crystal Palace Tunnel Jn on the Down line
-Kent-Sussex-Wessex	1119	SO650	SCP	Crystal Palace platforms 3 - 6	Sydenham Up Jn	Crystal Palace platforms 3 - 6 – Sydenham Up Jn	7	52	6	49	8	Y
-Kent-Sussex-Wessex	1119	SO650	BBJ	Crystal Palace platforms 1 and 2	Bromley Up Jn	Crystal Palace platforms 1 and 2 – Bromley Up Jn	8	56	9	36	8	Y
-Kent-Sussex-Wessex	1119	SO650	BJN1	Bromley Up Jn	Norwood North Jn	Bromley Up Jn – Norwood North Jn	9	36	9	75	8	Y
-Kent-Sussex-Wessex	1119	SO650	BBJ	Bromley Up Jn	Bromley Down Jn	Bromley Up Jn – Bromley Down Jn	9	36	9	48	8	Y
-Kent-Sussex-Wessex	1119	SO650	BJN2	Bromley Down Jn	Norwood North Jn	Bromley Down Jn – Norwood North Jn	9	48	9	75	8	Y
-Kent-Sussex-Wessex	1119	SO650	BBJ	Bromley Down Jn	Beckenham Jn	Bromley Down Jn – Beckenham Jn	9	48	11	62	8	Y
-Kent-Sussex-Wessex	1119	SO660	PAT	Purley (S0500)	Caterham	Purley (S0500) – Caterham	15	13	19	70	8	Y
-Kent-Sussex-Wessex	1119	SO660	TAT	Purley (S0500)	Tattenham Corner	Purley (S0500) – Tattenham Corner	15	13	23	37	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	South Bermondsey Jn (SO510)	Old Kent Road Jn	South Bermondsey Jn (SO510) – Old Kent Road Jn	1	49	2	32	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	Old Kent Road Jn	Peckham Rye Jn	Old Kent Road Jn – Peckham Rye Jn	2	32	3	47	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	Peckham Rye Jn	Tulse Hill North Jn	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	8	Y
-Kent-Sussex-Wessex	1119	SO680	WTH	Tulse Hill	West Norwood Jn	Tulse Hill – West Norwood Jn	6	14	6	41	8	Y
-Kent-Sussex-Wessex	1119	SO680	LTH	Tulse Hill	Leigham Jn	Tulse Hill – Leigham Jn	6	20	6	40	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	Tulse Hill North Jn	Streatham Jn	Tulse Hill North Jn – Streatham Jn	6	07	7	57	8	R1	R2 Prohibited between Streatham and Streatham Jn on the Up Portsmouth line
-Kent-Sussex-Wessex	1119	SO680	SSC	Streatham Jn	Streatham Common Jn	Streatham Jn – Streatham Common Jn	7	57	8	10	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	Streatham Jn	Streatham South Jn (a)	Streatham Jn – Streatham South Jn (a)	7	57	8	09	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	Streatham South Jn (a)	Streatham South Jn (b)	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	8	Y
-Kent-Sussex-Wessex	1119	SO680	BTH1	Streatham South Jn (b)	Streatham South Jn (c)	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	8	Y
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Kent-Sussex-Wessex	1119	SW155	Marchwood – Fawley (Goods Line)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW160	Brockenhurst – Lymington Pier	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW165	Hamworthy – Hamworthy Goods (Goods Line)	Y	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW170	Westbury – Wilton Jn	Y	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW175	Castle Cary – Dorchester Jn	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW175	Yeovil, Pen Mill Jn – Yeovil Junction	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW180	Raynes Park – Horsham	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW185	Motspur Park – Chessington South	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW190	New Malden Jn – Shepperton	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW195	Hampton Court Jn – Hampton Court	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW200	Hampton Court Jn – Guildford (via Cobham)	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW205	Leatherhead – Effingham Junction	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW210	Clapham Junction – Barnes Jn	Y *	Y	S1	S2	N	N	N	N	S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA FLA wagons 2590 (h) x 2500 (w) box on FCA wagons 2667 (h) x 2500 (w) box on FIA FKA wagons 2625 (h) x 2550 (w) S17 FT on FEA FSA/FTA wagons 2615 (h) x 2550 (w) S16 FT on KFA wagons S2 The following combinations are permitted, up to: 2770 (h) x 2550 (w) box on FIA IFA wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2553 (h) x 2500 (w) box on IFB wagons
+Kent-Sussex-Wessex	1119	SW210	Barnes Jn – Feltham Jn (via North Sheen)	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW210	Feltham Jn – Virginia Water	Y *	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW210	Virginia Water – Wokingham Jn	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW210	Wokingham Jn – Reading	Y *	N	N	N	N	N	N	N	

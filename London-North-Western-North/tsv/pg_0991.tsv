@@ -1,7 +1,24 @@
-London-North-Western-North	0991	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Western-North	0991	NW9903	SJC	Change of Mileage (Wennington)	Change of Mileage (Site of former Carnforth East Jn)	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	8	H	H	Y	H	N	N
-London-North-Western-North	0991	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn)	Carnforth Station Jn	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	8	H	H	Y	H	N	N
-London-North-Western-North	0991	NW9907	WAR	Appleby North Jn	Appleby West Jn	Appleby North Jn – Appleby West Jn	277	27	277	56	7	N	N	Y	N	N	N
-London-North-Western-North	0991	NW9907	EDE	Network Rail Boundary (Warcop)	End of Line	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	7	N	N	Y	N	N	N
-London-North-Western-North	0991	NW9909	NEC2	Route Boundary (LN682) (Corby Gates)	Petteril Bridge Jn	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	8	H	H	Y	H	H	H
-London-North-Western-North	0991	NW9911	NGD	London Road Jn	Bog Jn (Newcastle Goods Lines)	London Road Jn – Bog Jn (Newcastle Goods Lines)	0	00	0	25	8	N	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0991	NW1023	HOB2	Haydock Branch Jn – End of Line	0	00	0	53	8	N	N	Y	N	N	N	
+London-North-Western-North	0991	NW1025	IMG	Bamfurlong Sidings Jn – Ince Moss Jn	0	18	0	78	7	H	H	Y	H	H	N	
+London-North-Western-North	0991	NW1027	PSR1	Preston South Jn – Preston Docks Branch (Change of ELR)	21	39	21	47	8	N	N	Y	N	N	N	
+London-North-Western-North	0991	NW1027	PSR2	Preston Docks Branch (Change of ELR) – Network Rail Boundary (Ribble Steam Railway)	0	00	0	40	8	N	N	Y	N	N	N	
+London-North-Western-North	0991	NW2001	WJL1	NW1001 (Weaver Jn) – Ditton East Jn	174	53	182	67	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0991	NW2001	WJL2	Ditton East Jn – Speke East Jn	182	67	186	72	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0991	NW2001	WJL3	Speke Est Jn – Edge Hill East Jn	186	72	191	75	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0991	NW2001	WJL4	Edge Hill East Jn – Liverpool Lime Street	191	75	193	52	8	R1	R1	R1	R1	R1	N	R1 Prohibited Liverpool Lime Street platform 1
+London-North-Western-North	0991	NW2003	RDB	Runcorn – Network Rail Boundary (Runcorn Dock Branch)	0	02	0	69	8	N	N	Y	N	N	N	
+London-North-Western-North	0991	NW2005	SCR	Speke East Jn – Garston Jn	22	59	23	52	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0991	NW2007	AEG	Allerton East Jn – Garston Jn	0	00	0	28	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0991	NW2009	SDJ2	End of Line (Latchford) – Ditton East Jn	10	06	18	55	8	N	N	Y	N	N	N	
+London-North-Western-North	0991	NW2011	WOA1	Walton Old Jn – Arpley Jn	0	68	0	00	8	H	H	Y	H	H	R1	R1 Prohibited between Arpley Grid Iron Jn South and Arpley Jn
+London-North-Western-North	0991	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	8	Y	Y	Y	Y	H	Y	
+London-North-Western-North	0991	NW2015	DSE	Newton-le-Willows Jn - Earlestown East Jn (Electrified section)	16	19	14	75	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0991	NW2015	DSE	Earlestown East Jn - Edge Hill	14	75	1	57	8	Y	Y	Y	H	H	N	
+London-North-Western-North	0991	NW2017	SCN	Eccles Station Jn – Network Rail (Weaste Branch) / MSC Boundary	0	00	0	54	8	N	N	Y	N	N	N	
+London-North-Western-North	0991	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	8	Y	Y	Y	Y	H	Y	
+London-North-Western-North	0991	NW2021	EEE	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	8	H	H	Y	H	H	N	
+London-North-Western-North	0991	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	7	Y	Y	Y	H	H	N	
+London-North-Western-North	0991	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	7	Y	Y	Y	H	H	N	
+London-North-Western-North	0991	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	-18	7	Y	Y	Y	H	H	N	
+London-North-Western-North	0991	NW2025	SHS1	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	8	N	N	Y	N	N	N	

@@ -1,23 +1,21 @@
-Kent-Sussex-Wessex	0887	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0887	SO645	ATL	Crofton Road Jn	Peckham Rye Jn	Crofton Road Jn – Peckham Rye Jn	3	67	3	47	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO650	BBJ	Balham Jn (SO500)	Leigham Jn	Balham Jn (SO500) – Leigham Jn	4	69	6	31	N	R1	N	Y	Y	R1 Prohibited Streatham Hill Depot Down Sidings 1, 2 and 3
-Kent-Sussex-Wessex	0887	SO650	BBJ	Leigham Jn	West Norwood Jn	Leigham Jn – West Norwood Jn	6	31	6	58	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO650	BBJ	West Norwood Jn	Crystal Palace platforms 1 and 2	West Norwood Jn – Crystal Palace platforms 1 and 2	6	58	8	56	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO650	SCP	Crystal Palace platforms 3 - 6	Sydenham Up Jn	Crystal Palace platforms 3 - 6 – Sydenham Up Jn	7	52	6	49	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO650	BBJ	Crystal Palace platforms 1 and 2	Bromley Up Jn	Crystal Palace platforms 1 and 2 – Bromley Up Jn	8	56	9	36	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO650	BJN1	Bromley Up Jn	Norwood North Jn	Bromley Up Jn – Norwood North Jn	9	36	9	75	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO650	BBJ	Bromley Up Jn	Bromley Down Jn	Bromley Up Jn – Bromley Down Jn	9	36	9	48	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO650	BJN2	Bromley Down Jn	Norwood North Jn	Bromley Down Jn – Norwood North Jn	9	48	9	75	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO650	BBJ	Bromley Down Jn	Beckenham Jn	Bromley Down Jn – Beckenham Jn	9	48	11	62	N	N	N	N	N
-Kent-Sussex-Wessex	0887	SO660	PAT	Purley (S0500)	Caterham	Purley (S0500) – Caterham	15	13	19	70	N	N	N	N	N
-Kent-Sussex-Wessex	0887	SO660	TAT	Purley (S0500)	Tattenham Corner	Purley (S0500) – Tattenham Corner	15	13	23	37	N	N	N	N	N
-Kent-Sussex-Wessex	0887	SO680	BTH1	South Bermondsey Jn (SO510)	Old Kent Road Jn	South Bermondsey Jn (SO510) – Old Kent Road Jn	1	49	2	32	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO680	BTH1	Old Kent Road Jn	Peckham Rye Jn	Old Kent Road Jn – Peckham Rye Jn	2	32	3	47	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO680	BTH1	Peckham Rye Jn	Tulse Hill North Jn	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO680	WTH	Tulse Hill	West Norwood Jn	Tulse Hill – West Norwood Jn	6	14	6	41	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO680	LTH	Tulse Hill	Leigham Jn	Tulse Hill – Leigham Jn	6	20	6	40	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO680	BTH1	Tulse Hill North Jn	Streatham Jn	Tulse Hill North Jn – Streatham Jn	6	07	7	57	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO680	SSC	Streatham Jn	Streatham Common Jn	Streatham Jn – Streatham Common Jn	7	57	8	10	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0887	SO680	BTH1	Streatham Jn	Streatham South Jn (a)	Streatham Jn – Streatham South Jn (a)	7	57	8	09	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO680	BTH1	Streatham South Jn (a)	Streatham South Jn (b)	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	N	Y	N	N	N
-Kent-Sussex-Wessex	0887	SO680	BTH1	Streatham South Jn (b)	Streatham South Jn (c)	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0887	SO500	VTB1	Balham Jn – Streatham North Jn	4	69	6	14	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	SNS	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	SLJ	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB1	Streatham North Jn – Selhurst Jn	6	14	9	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	WCS	Selhurst Jn – Gloucester Road Jn	9	44	9	62	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB1	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB2	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB2	South Croydon Jn – Stoats Nest Jn	11	29	14	20	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	RED1/2	Stoats Nest Jn – Redhill	14	20	22	40	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	RED1/2	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0887	SO500	VTB2	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB3	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	N	N	N	R1 R2	R1 R2 R3	R1 20mph Three Bridges platforms 2, 4 and 5 R2 Prohibited Three Bridges platform 3 R3 Prohibited Haslett Avenue Bridge No.125 Up line
+Kent-Sussex-Wessex	0887	SO500	VTB3	Three Bridges – Copyhold Jn	29	21	36	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	CJA1	Copyhold Jn – Change of Mileage	36	73	36	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	CJA2	Change of Mileage – Ardingly Sidings	0	00	0	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB3	Copyhold Jn – Keymer Jn	36	73	40	69	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	VTB3	Keymer Jn – Preston Park Jn	40	69	49	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO500	PPH	Preston Park Jn – Hove Jn	49	21	50	44	Y	R1 R2	R1 R2	N	R3	R1 70mph Preston Park platform 2 R2 Prohibited Preston Park platform 3 R3 OPPOS between Preston Park Jn and Hove Jn
+Kent-Sussex-Wessex	0887	SO500	VTB3	Preston Park Jn – Brighton	49	43	50	49	Y	R1	R1	N	R2 R3	R2 Prohibited Brighton platforms 3 and 5 with crush deflated suspension R3 OPPOS between Preston Park and Brighton
+Kent-Sussex-Wessex	0887	SO510	LBW	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	N	N	N	N	N	

@@ -1,9 +1,23 @@
-Scotland	1079	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1079	SC171	ECN2	Haymarket West Jn	Dundee Central Jn	Haymarket West Jn – Dundee Central Jn	2	41	58	69	8 R1	Y	R7	R2 R3 R4 R5 R6	Y	Y	Y R7	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013 R2 60mph over bridge 8 (Balgreen Road near Haymarket West) (44m 59ch) R3 60mph over bridge 22 (Almond Viaduct near Turnhouse) (7m 23ch) R4 60mph over bridge 131 (Nabs Occupation Road near Kings Kettle, Ladybank) (38m 22ch) R5 15mph over Tay Bridge (57m 60ch) R6 Double-heading prohibited over the Tay Bridge (57m 60ch). If the locomotive fails, the assisting train must be a single-headed and assist from the rear if possible. If a light locomotive fails, or assistance has to be provided from the front, then a reach wagon(s) of at least 60 feet must be provided between the assisting locomotive and the failed locomotive R7 Double-heading permitted over the Tay Bridge (57m 60ch) (or combination of Classes 66/73) running light or hauling passenger coaching stock. If the locomotive fails, the assisting train must be a single- headed and assist from the rear if possible. If a light locomotive fails, or assistance has to be provided from thefront, then a reach wagon(s) of at least 60 feet must be provided between the assisting locomotive and the failed locomotive
-Scotland	1079	SC171	ECN2	Dundee Central Jn	Dundee	Dundee Central Jn – Dundee	58	69	59	14	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1079	SC173	CWH1	Inverkeithing Central Jn	Change of ELR (Cowdenbeath)	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1079	SC173	CWH2	Change of ELR (Cowdenbeath)	Change of ELR (Lochgelly)	Change of ELR (Cowdenbeath) – Change of ELR (Lochgelly)	0	00	0	70	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1079	SC173	CWH3	Change of ELR (Lochgelly)	Thornton West Jn	Change of ELR (Lochgelly) – Thornton West Jn	27	00	34	62	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1079	SC173	TNW	Thornton West Jn	Thornton North Jn	Thornton West Jn – Thornton North Jn	0	70	0	00	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1079	SC175	RHD2	Rosyth Dockyard	Change of ELR	Rosyth Dockyard – Change of ELR	1	21	1	00	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1079	SC175	RHD1	Change of ELR	Inverkeithing South Jn (Goods Line)	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	8	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1079	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
+Scotland	1079	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	5	Y	N	N	N	N	N	N	
+Scotland	1079	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC021	COS2	Coltness – Change of ELR	0	09	0	00	10	N	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	10	N	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	7	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC025	ARG1	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC025	ARG2	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC025	ARG2	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC025	ARG2	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC027	RNC	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC029	BRD	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1079	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	

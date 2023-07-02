@@ -1,16 +1,22 @@
-Anglia	0408	EA1310	BOK5	Acton Wells Jn (Connection to GW130)	Acton Central (Limit of AC)	Acton Wells Jn (Connection to GW130) – Acton Central (Limit of AC)	0	72	1	73	Y	N	N	N	N	N	H	N	N	N
-Anglia	0408	EA1310	BOK5	Acton Central (Limit of AC)	South Acton Jn	Acton Central (Limit of AC) – South Acton Jn	1	73	2	52	Y	N	N	N	N	N	H	N	N	N
-Anglia	0408	EA1310	SAR1	South Acton Jn	Gunnersbury Jn	South Acton Jn – Gunnersbury Jn	2	52	3	12	Y	N	N	N	N	N	H	N	N	N
-Anglia	0408	EA1310	SAR2	Gunnersbury Jn	Richmond	Gunnersbury Jn – Richmond	9	72	12	39	Y	N	N	N	N	N	H	N	N	N
-Anglia	0408	EA1320	CRC1/2	Route Boundary (MD145) (Camden Jn)	Camden Road West Jn	Route Boundary (MD145) (Camden Jn) – Camden Road West Jn	5	42	5	10	Y	N	Y	E	Y	N	Y	N	N	N
-Anglia	0408	EA1320	BOK1	Camden Road West Jn	Camden Road Central Jn	Camden Road West Jn – Camden Road Central Jn	5	10	4	64	Y	N	Y	E	Y	N	Y	E	N	N
-Anglia	0408	EA1320	CRF1	Camden Road Central Jn	Route Boundary (LN115) (North London Incline)	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	Y	N	Y	E	Y	N	Y	N	N	N
-Anglia	0408	EA1320	BOK1	Camden Road Central Jn	Canonbury West Jn	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	Y	N	Y	E	Y	N	Y	E	N	N
-Anglia	0408	EA1320	CFP	Canonbury West Jn	Route Boundary (LN110) (Finsbury Park)	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	Y	Y	Y	E	Y	Y	H	E	E	E
-Anglia	0408	EA1320	BOK1	Canonbury West Jn	Dalston Western Jn	Canonbury West Jn – Dalston Western Jn	3	12	2	21	Y	Y	Y	E	Y	Y	Y	E	E	E
-Anglia	0408	EA1320	DWW1	Dalston Western Jn	Navarino Road Jn (Change of Mileage)	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0408	EA1320	DWW2	Navarino Road Jn (Change of Mileage)	Lea Jn	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0408	EA1320	DWW2	Lea Jn	Channelsea North Jn	Lea Jn – Channelsea North Jn	3	19	3	32	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0408	EA1320	DWW2	Channelsea North Jn	Channelsea South Jn	Channelsea North Jn – Channelsea South Jn	3	32	3	33	Y	Y	Y	N	Y	Y	Y	E	E	E
-Anglia	0408	EA1320	DWW2	Channelsea South Jn	Stratford	Channelsea South Jn – Stratford	3	33	3	74	Y	N	N	N	N	N	H	N	N	N
-Anglia	0408	EA1325	BOK1	Limit of reversible working DNL	Network Rail Boundary (TFL ELL)	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	171	172	175	180	220	221	222	Notes
+Anglia	0408	EA1360	CAW	Route Boundary (LN3219) (Cricklewood Curve Jn) – Dudding Hill Jn	5	72	6	04	N	E	Y	N	N	N	Y	
+Anglia	0408	EA1360	BDH	Route Boundary (LN3222) (Brent Curve Jn) – Dudding Hill Jn	0	54	1	03	N	E	N	N	N	N	Y	
+Anglia	0408	EA1360	CAW	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	E	Y	N	N	N	N	
+Anglia	0408	EA1360	NJN	Neasden Jn – Route Boundary (MD715) (Neasden South Jn)	6	56	6	51	N	E	N	N	N	N	N	
+Anglia	0408	EA1360	CAW	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	E	Y	N	N	N	N	
+Anglia	0408	EA1360	ACW	Acton Canal Wharf Jn – Route Boundary (MD170) (Willesden Jn)	0	35	0	11	N	E R1	Y	Y	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
+Anglia	0408	EA1360	CAW	Acton Canal Wharf Jn – Acton Wells Jn (Change of Mileage)	8	45	8	77	N	E	Y	Y	Y	Y	N	
+Anglia	0408	EA1360	WAW	Acton Wells Jn (Change of Mileage) – Route Boundary (MD167) Willesden West London Jn)	6	19	6	76	Y	N	Y	Y	Y	Y	N	
+Anglia	0408	EA1360	CAW	Acton Wells Jn (Change of Mileage) – Acton Wells Jn	0	63	0	66	Y	E	Y	Y	Y	Y	N	
+Anglia	0408	EA1370	GOJ	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	N	Y	N	E	N	N	N	
+Anglia	0408	EA1370	JRT2	Junction Rd Jn – Route Boundary (LN3210) (Carlton Rd Jn)	2	42	2	38	N	E	N	N	N	N	N	
+Anglia	0408	EA1370	TAH1	Junction Rd Jn – Harringay Park Jn	2	42	4	15	N	Y	N	E	N	N	N	
+Anglia	0408	EA1370	HPW	Harringay Park Jn – Route Boundary (LN165) (Harringay Jn)	0	25	0	14	N	E	N	E	N	N	N	
+Anglia	0408	EA1370	TAH1	Harringay Park Jn – South Tottenham West Jn	4	15	5	65	N	Y	N	N	N	N	N	
+Anglia	0408	EA1370	TAH1	South Tottenham West Jn – South Tottenham East Jn	5	65	5	73	N	Y	N	N	N	N	N	
+Anglia	0408	EA1370	TAH2	South Tottenham East Jn – Woodgrange Park Jn	5	73	11	79	N	Y	N	N	N	N	N	
+Anglia	0408	EA1370	TAH3	Woodgrange Park Jn – Barking Station Jn	11	79	13	12	N	Y	N	N	N	N	N	
+Anglia	0408	EA1370	TAH3	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	N	Y	N	N	N	N	N	
+Anglia	0408	EA1370	TAH4	Barking Station Jn – Barking Platform 1	13	12	13	62	N	Y	N	N	N	N	N	
+Anglia	0408	EA1380	FSS1	Fenchurch Street – Gas Factory Jn	0	00	2	57	N	N	N	N	N	N	N	
+Anglia	0408	EA1380	FSS1	Gas Factory Jn – East Ham Depot	2	57	6	18	N	N	N	N	N	N	N	

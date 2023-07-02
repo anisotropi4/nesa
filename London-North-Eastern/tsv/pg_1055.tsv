@@ -1,10 +1,23 @@
-London-North-Eastern	1055	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1055	LN922	TJC3	Skipton	Site of Former Skipton North Jn Change of ELR	Skipton – Site of Former Skipton North Jn Change of ELR	221	21	221	68	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1055	LN922	SKW1	Site of Former Skipton North Jn Change of ELR	Route Boundary (NW9901) (Settle Jn)	Site of Former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1055	LN924	ILK1	Apperley Jn	Burley in Wharfedale	Apperley Jn – Burley in Wharfedale	202	03	208	02	Y	Y	Y	Y	R1 R2	R1 R2	Y	Y	Y	R1 Prohibited Guiseley Down platform R2 Prohibited between Guiseley and Burley in Wharfedale
-London-North-Eastern	1055	LN924	ILK2	Burley in Wharfedale	Ilkley	Burley in Wharfedale – Ilkley	208	02	211	20	Y	Y	Y	Y	N	N	Y	Y	Y
-London-North-Eastern	1055	LN926	GUE2	Dockfield Jn	Esholt Jn	Dockfield Jn – Esholt Jn	3	41	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1055	LN928	SBF	Shipley East Jn	Bradford Forster Square	Shipley East Jn – Bradford Forster Square	205	54	208	50	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1055	LN930	SKS1	Skipton Middle	Site of Former Embsay Jn	Skipton Middle – Site of Former Embsay Jn	222	68	220	64	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1055	LN930	SKS2	Site of Former Embsay Jn	Network Rail Boundary (Tilcon Siding)	Site of Former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1055	LN932	BIB	Shipley South Jn	Shipley West Jn	Shipley South Jn – Shipley West Jn	0	00	0	17	Y	Y	Y	Y	N	N	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1055	LN898	HUL3	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN898	HUL3	Selby West Jn – Selby South Jn	0	36	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN898	HUL2	Selby South Jn – Site of Former Barlby Jn	31	12	30	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN898	HUL1	Site of Former Barlby Jn – Anlaby Road Jn	30	40	0	73	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN898	HUL1	Anlaby Road Jn – Hull	0	73	0	00	R1	R1	R1	R1	R1 R2	R1 R2	R1	R1 R3	R1 R3	R1 Prohibited Hull platform 1 R2 Prohibited Hull platforms6 with deflated suspension R3 Prohibited Hull Siding A with deflated suspension
+London-North-Eastern	1055	LN900	HUE	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1055	LN902	CFM	Micklefield Jn – Church Fenton North Jn	15	62	10	31	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN904	HSC	Hambleton South Jn – Hambleton West Jn	174	10	175	33	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN906	HNC	Hambleton East Jn – Hambleton North Jn	3	34	4	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN908	SEC	Selby West Jn – Canal Jn	0	00	0	32	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN910	TCW1	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN910	TCW1	Selby Canal Jn – Selby South Jn	173	59	174	11	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN912	TJG1	Thorne Jn – Thorne North Change of ELR	7	69	9	09	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN912	TJG2	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN914	HBS	West Parade Jn – West Parade North Jn	0	25	0	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN914	HBS	West Parade North Jn – Walton Street Jn	0	72	1	29	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	R1 R3	R1 R3	R1 R3	R1 R3	R2 R3	R2 R3	R1 R3	R1 R3	R1 R3	R1 Prohibited Bridlington platform 7 when laden R2 Prohibited Bridlington platform 6 with deflated suspension Prohibited Bridlington platform 7 when laden and with deflated suspension R3 Prohibited Bridlington platform 8
+London-North-Eastern	1055	LN916	HJS	Hessle Road – Springbank North Jn	0	00	1	38	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN916	HJS	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1055	LN918	SPW	Springbank North Jn – Walton Street Jn	1	54	1	29	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN920	AWP	Anlaby Road Jn – West Parade North Jn	0	00	0	24	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1055	LN922	TJC3	Whitehall West Jn – Skipton	195	57	221	01	Y	Y	Y	Y	Y	Y	Y	Y	Y	

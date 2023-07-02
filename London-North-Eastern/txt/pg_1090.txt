@@ -1,45 +1,72 @@
-                                                                                        OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                         LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
 
-Line of ELR     Line of Route / Sector                  oo    oo   oo      oo    313 314 315 317             318    319 321 322                 325
-route           Description                             oo    oo   oo      oo    ooo ooo ooo ooo             ooo    ooo ooo ooo                 ooo
-                                                        M     Ch   M       Ch
-LN704    ISC    Newsham North Jn – Network Rail          0    00    0       36     N      N         N   N     N     N    N   N    Line out of use
-                Boundary (Blyth Bates Terminal)                                                                                   NME/2010/LNE/006 and
-                                                                                                                                  NME/2010/LNE009
-LN706    WSB    West Sleekburn Jn – North Blyth          0    00    3       22     N      N         N   N     N     N    N   N
-LN708    MWJ    Winning Jn – Marchey's House Jn          0    31    0       00     N      N         N   N     N     N    N   N
-LN724    HOS    Holgate Jn – Skelton Jn via York Yard    0    00    1       54     Y      Y         Y   Y     Y     N    Y   Y
-                South
-LN736    MAC3 Cleethorpes – Grimsby Docks               112   40   110      11     N      N         N   N     N     N    N   N
-LN736    MAC3 Grimsby Docks – Marsh West Jn             110   11   107      69     N      N         N   N     N     N    N   N
-LN736    MAC3 Marsh West Jn – Wrawby Jn                 107   69    94      12     N      N         N   N     N     N    N   N
-LN736    MAC3 Wrawby Jn – West Burton East Jn            94   12    72      18     N      N         N   N     N     N    N   N
-LN736    MAC3 West Burton East Jn – Thrumpton            72   18    63      28     N      N         N   N     N     N    N   N
-              West Jn (Up)
-LN736    MAC3 Thrumpton West Jn (Up) – Manton            63   28    58      54     N      N         N   N     N     N    N   N
-              Wood
-LN736    MAC3 Manton Wood – Brancliffe East Jn           58   54    53      57     N      N         N   N     N     N    N   N
-LN736    MAC3 Brancliffe East Jn – Woodburn Jn           53   57    42      29     N      N         N   N     N     N    N   N
-LN736    NUJ2   Woodburn Jn – Site of former Nunnery     42   29    41      68     N      N         N   N     N     N    N   N
-                Jn
-LN736    NUJ1   Site of former Nunnery Jn – Nunnery     159   33   158      77     N      N         N   N     N     N    N   N
-                Main Line Jn
-LN738    MWN    Great Coates No. 1 – Network Rail       108   34   108      44     N      N         N   N     N     N    N   N
-                Boundary (ABP)
-LN740    MWN    Marsh West Jn – Network Rail            107   69   108      44     N      N         N   N     N     N    N   N
-                Boundary (ABP)
-LN740    PYE2   Network Rail Boundary (ABP) – Site of    4    33    0       00     N      N         N   N     N     N    N   N
-                former Queens Road Jn
-LN740    PYE1   Site of former Queens Road Jn –         106   50   106      31     N      N         N   N     N     N    N   N
-                Immingham East Jn
-LN740    BRI2   Immingham East Jn – Humber Road         106   31   104      05     N      N         N   N     N     N    N   N
-                Jn
-LN741    HAU    Habrough – Ulceby South Jn               0    32    1       45     N      N         N   N     N     N    N   N
-LN742    KIL2   Killingholme – Immingham West            2    70    0       00     N      N         N   N     N     N    N   N
-                Change of Mileage
+     LN600ECM2Shaftholme Jn – Temple Hirst Jn
+                                  160 16 16916 Y  Y  Y Y  Y  N Y  Y
+     LN600ECM3Temple Hirst Jn – Colton Jn
+                                  169 16 18279 Y  Y  Y Y  Y  N Y  Y
+     LN600ECM4Colton Jn – Colton North Jn
+                                  182 79 18365 Y  Y  Y Y  Y  N Y  Y
+     LN600ECM4Colton North Jn – York Station
+                                  183 65 18840 Y  Y  Y Y  Y  N Y  Y
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 313 314 315 317 318 319 321 322 325 333 345 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo
+                                                                            ooooooooooooooooooooooooo
+                                                                            oo
+     LN600ECM5York Station – Birtley Jn
+                                    0 00 75 26 Y  Y  Y Y  Y  N Y  Y
+     LN600ECM5Birtley Jn – Low Fell Jn (including via
+                                   75 26 77 37 Y  Y  Y Y  Y  N Y  Y
+              Tyne Yard)
+     LN600ECM5Low Fell Jn – King Edward Bridge
+                                   77 37 79 42 Y  Y  Y Y  Y  N Y  Y
+              South Jn
+     LN600ECM5King Edward Bridge South Jn –
+                                   79 42 80 05 Y  Y Y  Y  Y N  Y  Y
+              Newcastle West Jn
+     LN600ECM6Newcastle West Jn – Newcastle
+                                   80 05 80 16 Y  Y Y  Y  Y N  Y  Y
+     LN600ECM7Newcastle – Newcastle East Jn
+                                   0  00  0 14 R1 Y Y  R1 Y N  Y  Y R2P
+     LN600ECM7Newcastle East Jn – Heaton South Jn
+                                   0  14  1 65 N  Y Y  N  Y N  Y      r
 
-
-October 2009                                                                                  35B
+     LN618HOS Holgate Jn – Skelton Jn via York Yard
+                                   0  00  1 54 Y  Y Y  Y  Y N  Y  Y
+              South
+     LN620KEB King Edward Bridge East Jn – King
+                                   0  00  0 13 N  N N  N  N N  N  N
+              Edward Bridge North Jn (East Curve)
+     LN622NEN1Newcastle Forth Jn – Forth Banks
+                                   0  11  0 73 N  N N  N  N N  N  N
+     LN624REB4Northallerton Castle Hills Jn – Network
+                                   0  04  0 18 N  N N  N  N N  N  N
+              Rail Boundary (Wensleydale Railway)
+     LN626LEN2Northallerton High Jn – Northallerton
+                                   0  00  0 36 N  N N  N  N N  N  N
+              East Jn
+     LN627LLP1Longlands Jn (Down Line) –
+                                   28 58 29 72 EH EHEH EH EHN  EH EH
+              Boroughbridge Road LC
+     LN627LLP3Longlands Jn (Up Line) –
+                                   0  69  0 00 EH EHEH EH EHN  EH EH
+              Boroughbridge Road LC
+     LN627LLP2Boroughbridge Road LC –
+                                   42 21 42 79 EH EHEH EH EHN  EH EH
+              Northallerton East Jn
+     LN627LEN3Northallerton East Jn – Billingham Jn
+                                   42 79 63 69 EH EHEH EH EHN  EH EH
+     LN627LEN3Billingham Jn – Ryhope Grange Jn
+                                   63 69 87 63 EH EHEH EH EHN  EH EH
+     LN627LEN3Ryhope Grange Jn – Sunderland
+                                   87 63 89 56 EH EHEH EH EHN  EH EH
+              South Jn
+     LN627LEN3Sunderland South Jn – Boldon East Jn
+                                   89 56 94 63 EH EHEH EH EHN  EH EH
+     LN627LEN3Boldon East Jn – Boldon West Jn
+                                   94 63 95 16 EH EHEH EH EHN  EH EH
+     October 2009                                    34

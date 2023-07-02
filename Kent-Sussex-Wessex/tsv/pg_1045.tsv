@@ -1,11 +1,15 @@
-Kent-Sussex-Wessex	1045	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	377	378	380	387
-Kent-Sussex-Wessex	1045	SW110	WPH1	Woking Jn	Guilford	Woking Jn – Guilford	24	62	30	27	N	Y	H	R1 R2 R3 R4 R5 R6	N	N	R7	R1 Prohibited between Woking Junction and 29m 43ch (Guildford) R2 Class 377/1-377/5 permitted between Guilford platforms 1, 2 and 3 and SW200 (towards Effingham Jn) R3 Prohibited Guildford Down Main platform 4 R4 Prohibited Guildford Up Main platform 5 R5 Prohibited Guildford Up Ash platforms 6 and 7 R6 Prohibited Guildford Down Ash platform 8 R7 Prohibited Guildford platforms 4-8
-Kent-Sussex-Wessex	1045	SW110	WPH1	Guilford	Shalford Jn	Guilford – Shalford Jn	30	27	31	42	N	Y	H	R1	N	N	R2	R1 Route prohibited to Class 377/1 – 377/5 R2 Prohibited Guildford platforms 4-8
-Kent-Sussex-Wessex	1045	SW110	WPH1	Shalford Jn	Haslemere	Shalford Jn – Haslemere	31	42	42	79	N	Y	H	R1	N	N	Y	R1 Route prohibited to Class 377/1 – 377/5
-Kent-Sussex-Wessex	1045	SW110	WPH1	Haslemere	Havant Jn	Haslemere – Havant Jn	42	79	66	17	N	N	N	R1	N	N	Y	R1 Route prohibited to Class 377/1 – 377/5
-Kent-Sussex-Wessex	1045	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham)	Havant Jn [Duplicated on SO520]	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	Y	N	N	Y	N	N	Y
-Kent-Sussex-Wessex	1045	SW110	WPH2	Havant Jn	Farlington Jn [Duplicated on SO520]	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	1045	SW110	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SO520]	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	1045	SW110	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SO520]	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	N	N	Y	N	N	R1	R1 Operation only permitted subject to prior agreement of the Wessex E&P RAM
-Kent-Sussex-Wessex	1045	SW110	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	Y	N	N	R1	N	N	N	R1 Route prohibited to Class 377/6 – 377/7
-Kent-Sussex-Wessex	1045	SW110	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	Y	N	N	R1	N	N	R2	R1 Classes 377/6 – 377/7 prohibited Portsmouth and Southsea Low Level platforms R2 Operation only permitted subject to prior agreement of the Wessex E&P RAM
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
+Kent-Sussex-Wessex	1045	SW100	BML1	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1045	SW100	CJL	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1045	SW100	RDG1	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	Y	R1	N	N	Y	Y	N	R1 Prohibited Clapham platforms 2, 3, 4, 5 and 6
+Kent-Sussex-Wessex	1045	SW100	BML1	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	BML1	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	PPW	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	R1	R1	N	N	R1	R1	N	R1 Prohibited Wimbledon platforms 1, 2, and 3
+Kent-Sussex-Wessex	1045	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	BML1	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	BML1	Hampton Court Jn – Woking	13	27	24	27	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	BML1	Woking – Basingstoke	24	27	47	61	Y	Y	N	N	Y	Y	R1 R2 R3 R4 R5	R1 20mph over bridge 85 (24m 40ch) (Up Fast) (between Woking and Brookwood) R2 40mph over bridge 107b (34m 10ch) (Up Slow) (between Fleet and Farnborough) R3 40mph Winchfield Up Slow platform R4 30mph Brookwood Up Slow platform R5 50mph Winchfield Down Slow platform
+Kent-Sussex-Wessex	1045	SW105	BML1	Basingstoke – Eastleigh West Jn	47	61	73	42	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	BML1	Eastleigh West Jn – St Denys	73	42	77	10	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1045	SW105	BML1	St Denys – Northam Jn	77	10	78	15	Y	Y	N	Y	Y	Y	N	

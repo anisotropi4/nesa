@@ -1,15 +1,29 @@
-Kent-Sussex-Wessex	0974	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	57	58	59	60	66	67	68	70	73	97/3	Notes
-Kent-Sussex-Wessex	0974	SO520	TBH1	Billingshurst	Arundel Jn	Billingshurst – Arundel Jn	44	71	59	75	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	TBH2	Arundel Jn	Barnham	Arundel Jn – Barnham	19	01	22	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	TBH2	Barnham	Route Boundary (SW110) (Havant Jn)	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SW110]	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	7*	Y	Y	Y	Y	Y	Y	Y	Y	R1	Y	R1 Prohibited from platforms 1 & 3 at Portsmouth Harbour unless hauling Infrastructure Monitoring Trains
-Kent-Sussex-Wessex	0974	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Kent-Sussex-Wessex	0974	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	6	Y	R1	R1	R1	R2	R1	R1	R1	Y	Y	R1 Prohibited beyond 12m 40ch R2 - 60mph over Riddlestown Viaduct between Riddlestown and Workingham (14m 56ch – 14m 63ch)
-Kent-Sussex-Wessex	0974	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	6	Y	N	N	N	N	N	N	N	Y	Y
-Kent-Sussex-Wessex	0974	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	4	R1	N	N	N	N	N	N	N	R1	R1	R1 30mph over Red Lane Bridge (SCU1 526) (21m 78ch) STNC/G1/2010/ICP-RA/SO018a until 31 December 2017
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
+Kent-Sussex-Wessex	0974	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0974	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	4	R1	R1	N	R1	R1	R1	R1	R1 40mph over Bridge 711 (12m 43ch)
+Kent-Sussex-Wessex	0974	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	8	Y	Y	N	Y	Y	Y	Y	

@@ -1,10 +1,18 @@
-London-North-Western-South	0638	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-South	0638	MD900	ABW	Abbotswood Jn	Norton Jn	Abbotswood Jn – Norton Jn	0	00	0	62	8	Y
-London-North-Western-South	0638	MD900	OWW	Norton Jn	Shrub Hill Jn	Norton Jn – Shrub Hill Jn	117	26	120	46	8	Y
-London-North-Western-South	0638	MD900	OWW	Shrub Hill Jn	Droitwich Spa Jn	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	8	Y
-London-North-Western-South	0638	MD900	STO	Droitwich Spa Jn	Stoke Works Jn	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	8	Y
-London-North-Western-South	0638	MD910	OWW	Pershore (excl)	Norton Jn	Pershore (excl) – Norton Jn	112	00	117	26	7	Y
-London-North-Western-South	0638	MD940	WAH	Shrub Hill Jn	Henwick SB (Branch Single)	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	7	Y
-London-North-Western-South	0638	MD940	WAH	Henwick SB	Shelwick Jn	Henwick SB – Shelwick Jn	121	65	148	11	7	R1 R2 R3	R1 Prohibited between Great Malvern and Malvern Wells SB on the Down Main line R2 Prohihited Malvern Link Up platform R3 Prohibited through Ledbury Tunnel (Up and Down line)
-London-North-Western-South	0638	MD950	BLW	Worcester Tunnel Jn	Site of former Rainbow Hill Jn Change of ELR	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	7	Y
-London-North-Western-South	0638	MD950	WAH	Site of former Rainbow Hill Jn Change of ELR	Henwick SB (Droitwich Single)	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	7	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-South	0638	MD736	OXD	Route Boundary (GW277) –Gavray Junction	29	25	19	00	8	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	7	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	7	N	N	Y	N	N	N	Line non operational
+London-North-Western-South	0638	MD736	OXD	Buffer Stops – Flyover Junction (Change of ELR)	1	27	0	62	7	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD736	BFO	Flyover Junction (Change of ELR) – Flyover Junction Summit	0	00	0	68	7	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD736	DHF	Flyover Junction Summit – Limit of Electrification	0	68	1	37	7	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD736	DHF	Limit of Electrification – Bletchley Flyover North Jn	1	37	1	61	7	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD736	DHF	Bletchley Flyover North Jn – Denbigh Hall South Jn	1	61	1	73	7	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD740	BFO	Flyover Jn (Summit) – Fenny Stratford Bletchley Flyover Jn	0	68	1	59	8	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD745	BSG	Bicester South Junction – Gavray Junction	0	00	0	52	-	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD801	WSJ1	Wolverhampton North Jn – Oxley, Stafford Road Jn (Change of Mileage)	143	52	142	79	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0638	MD801	WSJ2	Oxley, Stafford Road Jn (Change of Mileage) – Limit of Electrification	143	02	143	65	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0638	MD801	WSJ2	Limit of Electrification – Madeley Jn	143	65	156	19	8	H R1	H R1	Y	H R1	N	N	R1 Prohibited between Oxley and Cosford (Bridge No.359 at 145m 65ch – Bilbrook station) on Down Wellington line, but permitted over the Up Wellington line in both directions, under Single Line Working arrangements over the Up Wellington line for Down direction movements.
+London-North-Western-South	0638	MD801	WSJ2	Madeley Jn – Route Boundary (GW731) (Abbey Foregate )	156	19	170	46	8	H R1	H R1	Y	H R1	N	N	R1 20 mph over Bridge No.415 between Wellington and Allscott GF at 163m 70ch in the down direction
+London-North-Western-South	0638	MD805	OXC	Bushbury (Oxley) Jn – Stafford Road Jn	1	02	0	00	8	H	H	Y	H	N	N	
+London-North-Western-South	0638	MD810	MJI1	Madeley Junction – Site of Former Lightmoor Jn	156	19	160	29	8	N	N	Y	N	N	N	
+London-North-Western-South	0638	MD810	MJI2	Site of Former Lightmoor Jn – Ironbridge Power Station (NR Boundary)	156	19	160	29	8	N	N	Y	N	N	N	

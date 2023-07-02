@@ -1,44 +1,72 @@
-                                                                                     OFFICIAL
+                                       Anglia Route Sectional Appendix Module AR2
 
 
-                                                                    Anglia Route Sectional Appendix Module AR2
+              Camden Road West Jn – Gospel Oak
+     EA1310 BOK2                    0 00 1  10N  N  R1 E  Y  E  N  N  N  E R1 OPPOS applies at Camden Rd West Jn on the
+              Jn                                                              Down and Up between 0m 00ch and 0m 10ch
+              Gospel Oak Jn – Kensal Green Jn
+     EA1310 BOK2                    1 10 5  10N  N  Y  E  Y  E  N  N  N  E
+              Kensal Green Jn – Route Boundary
+     EA1310 KGC                     0 00 0  21N  N  N  N  Y  E  N  N  N  N
+              (MD155) (Harlesden Jn)
+              Kensal Green Jn – Route Boundary
+     EA1310 KGW                     5 10 5  25N  N  N  N  Y  N  N  N  N  N
+              (MD150) (Willesden Suburban Jn)
+              Kensal Green Jn – Willesden High
+     EA1310 BOK3                    5 10 5  48N  N  Y  E  Y  N  N  N  N  E
+              Level Jn
+              Willesden High Level Jn – Route
+     EA1310 WMB                     0 43 0  09N  N  Y  E  Y  N  N  N  N  E
+              Boundary (MD160) (Mitre Bridge Jn)
+              Willesden High Level Jn – Former Old
+     EA1310 BOK4                    0 00 0  34N  N  R1 N  Y  N  N  N  N  N R1 OPPOS applies
+              Oak Jn (change of mileage)
+     EA1310 BOK4
+              Former Old Oak Jn (change of mileage)
+                                    0 34 0  66N  N  R1 N  Y  N  N  N  N  N R1 OPPOS applies
+              – Acton Wells Jn (Connection EA1360)
+     EA1310 BOK5
+              Acton Wells Jn (Connection to EA1360)
+                                    0 66 0  72N  N  R1 N  Y  N  N  N  N  N R1 OPPOS applies
+              – Acton Wells Jn (Connection to
+              GW130)
+              Acton Wells Jn – Route Boundary
+     EA1310 AWL                     0 49 0  39N  N  N  N  N  N  N  E  N  N
+              (GW130) (Acton East Jn)
+     EA1310 BOK5
+              Acton Wells Jn (Connection to GW130)
+                                    0 72 1  73N  N  Y  N  R1 N  N  N  N  N R1 Between Acton Wells and the end of the OLE
+              – Acton Central (Limit of AC)                                   at Acton Central - notch 2 operation only
+              Acton Central (Limit of AC) – South
+     EA1310 BOK5                    1 73 2  52N  N  Y  N  Y  N  N  N  N  N
+              Acton Jn
+              South Acton Jn – Gunnersbury Jn
+     EA1310 SAR1                    2 52 3  12N  N  N  N  Y  N  N  N  R1 N R1 Class 499/5 only
+                                                                      R2   R2 Prohibited South Acton Jn - extent of fourth rail
+                                                                              electrified line on the Up Richmond line (to
+                                                                              allow shunt moves only)
+              Gunnersbury Jn – Richmond
+     EA1310 SAR2                    9 7212  39N  N  N  N  Y  N  N  N  R1 N R1 Class 499/0 and 499/5 only
+                                                                      R2   R2 20mph Kew Gardens platform 1 (Up Richmond
+                                                                      R3      line) passenger moves only
+                                                                           R3 Prohibited Richmond platform 3
+     EA1320 CRC1/2 Route Boundary (MD145) (Camden Jn)
+                                    5 42 5  10N  N  Y  E  Y  E  EH E  N  E
+              – Camden Road West Jn
+              Camden Road West Jn – Camden
+     EA1320 BOK1                    5 10 4  64N  N  Y  E  Y  E  EH N  N  E R1 Prohibited Up East London and Down East
+              Road Central Jn                                            R1   London lines
+              Camden Road Central Jn – Route
+     EA1320 CRF1                    0 51 0  20N  N  Y  E  E  N  N  N  N  N
+              Boundary (LN115) (North London
+              Incline)
+              Camden Road Central Jn – Canonbury
+     EA1320 BOK1                    4 64 3  12N  N  N  N  Y  E  EH N  N  E R1 Prohibited Up East London and Down East
+              West Jn                                                    R1   London lines
+              Canonbury West Jn – Route Boundary
+     EA1320 CFP                     3 12 3  20N  N  N  N  E  E  N  E  N  E
+              (LN110) (Finsbury Park)
 
 
-EA1011   LTN1   Shenfield Jn – Witham Jn                  20   22    38    55    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Witham Jn – Marks Tey Jn                  38   55    46    49    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Marks Tey Jn – Colchester Jn              46   49    51    65    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Colchester Jn – Manningtree South Jn      51   65    59    46    Y       Y      Y     N     N    Y    N
-EA1011   LTN1   Manningtree South Jn – Manningtree        59   46    59    69    Y       Y      Y     N     N    Y    N
-                North Jn
-EA1011   LTN1   Manningtree North Jn – Ipswich            59   69    68    59    Y       Y      Y     N     N    Y    N
-EA1012   LTN1   Ipswich – East Suffolk Jn                 68   59    69    41    Y       Y      Y     N     N    Y    N
-EA1012   LTN1   East Suffolk Jn – Trowse Jn (EA1013)      69   41   113    68    Y       Y      Y     N     N    Y    N
-EA1013   LTN2   Trowse Jn – Trowse Swing Bridge          123   00   123    37    Y       Y      Y     N     N    Y    N
-EA1013   NCW    Trowse Swing Bridge – Wensum Jn           0    00      0   28    Y       Y      Y     N     N    R1   N   R1   R2   Prohibited from using the last 25 metres at
-                (EA1470 / ELR NOL 0m 60ch) via                                                                                      the buffer stop end of Norwich Royal Dock
-                Through Sidings / Wensum Curve                                                                                      Siding 1
-EA1013   LTN2   Trowse Swing Bridge – Norwich            123   37   124    09    Y       Y      Y     N     N    Y    N
-EA1020   CNS    Carpenters Rd South Jn – Carpenters Rd    1    12      0   70    Y       Y      Y     N     N    Y    N
-                North Jn
-EA1030   FGW    Forest Gate Jn – Woodgrange Park Jn       0    00      0   31    Y       Y      N     N     N    N    N
-EA1040   ROU    Romford – Upminster                       0    00      3   30    Y       Y      N     N     N    N    N
-EA1050   SSV    Shenfield Jn – Southend Victoria          20   22    41    42    Y       Y      N     N     N    N    N
-EA1060   WIS    Wickford Jn – Southminster                29   13    45    42    Y       Y      N     N     N    N    N
-EA1070   BRA    Witham – Braintree                        24   15    17    71    Y       Y      N     N     N    N    N
-EA1080   SUD    Marks Tey Jn – Sudbury                    45   53    58    32    Y       Y      N     N     N    N    N
-EA1090   COC    Colchester Jn – Clacton                   52   28    69    56    Y       Y      N     N     N    N    N
-EA1100   STB    East Gate Jn – Colne Jn                   53   14    53    30    Y       Y      N     N     N    N    N
-EA1100   CTH    Hythe Jn – Colne Jn                       0    22      0   00    Y       Y      N     N     N    N    N
-EA1100   STB    Colne Jn – Colchester Town                53   30    53    76    Y       Y      N     N     N    N    N
-EA1110   TWN    Thorpe-Le-Soken Jn – Walton-On-Naze       65   19    70    15    Y       Y      Y     N     N    Y    N
-EA1120   MAH    Manningtree South Jn – Manningtree        59   35    59    67    Y       Y      Y     N     N    Y    N
-                East Jn
-EA1120   NTE    Manningtree North Jn – Manningtree        0    00      0   24    Y       Y      Y     N     N    Y    N
-                East Jn
-EA1120   MAH    Manningtree East Jn – Harwich             59   67    68    72    Y       Y      Y     N     N    Y    N
-                International Port
-EA1120   MAH    Harwich International Port – Harwich      68   72    70    61    Y       Y      N     N     N    N    N
-                town
-EA1130   GRW    Halifax Jn – Griffin Wharf Boundary       0    00      0   47    Y       Y      N     N     N    N    N
 
-August 2006                                                                            304
+     August 2006                                   300

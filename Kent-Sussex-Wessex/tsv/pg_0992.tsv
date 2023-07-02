@@ -1,11 +1,21 @@
-Kent-Sussex-Wessex	0992	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	0992					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Kent-Sussex-Wessex	0992	SO110	Rochester, Fort Pitt Tunnel western portal – Gillingham	Rochester, Fort Pitt Tunnel western portal	Gillingham	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0992	SO110	Gillingham – Ramsgate via Herne Bay	Gillingham	Ramsgate via Herne Bay	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0992	SO110	Nine Elms Jn – Linford Street Jn (Waterloo Curves) (SW100)	Nine Elms Jn	Linford Street Jn (Waterloo Curves) (SW100)	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0992	SO110	Battersea Pier Jn – Factory Jn via Stewarts Lane Jn	Battersea Pier Jn	Factory Jn via Stewarts Lane Jn	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0992	SO110	Bickley Jn – Petts Wood Jn Fast Lines and Slow Lines (SO130)	Bickley Jn	Petts Wood Jn Fast Lines and Slow Lines (SO130)	Y	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0992	SO110	Fawkham Jn – Southfleet Jn	Fawkham Jn	Southfleet Jn	Y	N	N	N	N	N	N	N	Original link – CTRL
-Kent-Sussex-Wessex	0992	SO110	Gillingham – NR/Dockyard Boundary	Gillingham	NR/Dockyard Boundary	Y	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0992	SO130	Charing Cross / Cannon Street – Lewisham Courthill Loop Jn South	Charing Cross / Cannon Street	Lewisham Courthill Loop Jn South	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0992	SO130	Lewisham Courthill Loop Jn South – Hither Green, Lee Spur Jn including access – / from Grove Park Down Sidings	Lewisham Courthill Loop Jn South – Hither Green, Lee Spur Jn including access	/ from Grove Park Down Sidings	Y	Y	Y	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	57	58	59	60	66	67	68	70	73	97/3	Notes
+Kent-Sussex-Wessex	0992	SO550	RTT	Redhill (SO500) – Tonbridge	22	40	42	16	8	Y	Y	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited on the Up Tonbridge between Nutfield and Godstone Tip
+Kent-Sussex-Wessex	0992	SO560	RSJ	Redhill – Reigate	22	40	24	27	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO560	RSJ	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO590	KJE1	Keymer Jn – Lewes	40	69	49	74	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO590	KJE1/2	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO590	KJE3	Southerham Jn – Willingdon Jn	9	14	21	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO590	KJE3	Willingdon Jn – Eastbourne	21	39	23	75	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO600	WJB	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	8	Y	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0992	SO600	WJB	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO600	TTH	Bo Peep Jn – Hastings	60	69	62	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO600	ATH	Hastings – Ore Start / End of Electrification	82	34	81	42	7	Y	Y	Y	N	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO600	ATH	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	7	R1	R1	R1	N	R1	N	R1	R1	R1	R1	R1 15mph over Military Canal Bridge No.1800 (62m 76ch) between Ham Street and Appledore
+Kent-Sussex-Wessex	0992	SO620	BTL	Montpelier Jn – Lewes	0	14	7	77	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO620	KJE1/2	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO620	STS	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	7	Y	Y	Y	N	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO620	NHB	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	7	Y	Y	Y	N	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO620	STS	Newhaven Harbour Jn – Seaford	56	55	58	77	7	Y	Y	Y	N	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO630	BLI1	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO630	BLI1	Hove Jn – Hove platforms 2 and 3	1	28	1	35	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0992	SO630	PPH	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	

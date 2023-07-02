@@ -1,53 +1,69 @@
-                                                                                          OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                                       Scotland Route Sectional Appendix Module SCRC
+     Line of
+          ELR  Line of Route / Sector Description
+                                   ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+     route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
+                                     M Ch  M  Ch                (MOD)
+     SC173TNW  Thornton West Jn – Thornton North Jn
+                                     0  70 0  00 Y  Y  Y  N  N   N  N  Y  N
+     SC175RHD2 Rosyth Dockyard – Change of ELR
+                                     1  21 1  00 N  N  N  N  N   N  N  N  N
+     SC175RHD1 Change of ELR – Inverkeithing South
+                                     1  00 0  02 N  N  N  N  N   N  N  N  N
+               Jn (Goods Line)
+     SC176IGE  Inverkeithing North Jn – Inverkeithing
+                                     0  33 0  00 Y  Y  Y  N  N   N  N  N  N
+               East Jn (Inverkeithing Curve)
+     SC177MTL1 Thornton North Jn – Change of ELR
+                                     0  11 4  65 N  N  N  N  N   N  N  N  N
+     SC177MTL2 Change of ELR – Methill Power Station
+                                     7  34 6  48 N  N  N  N  N   N  N  N  N
+               (Goods Line)
+     SC178CWH3 Thornton South Jn – Thornton West Jn
+                                    35  38 34 62 Y  Y  Y  N  N   N  N  Y  N
+     SC181CDC1 Ladybank Jn – Change of ELR
+                                     0  03 14 10 Y  Y  Y  N  N   N  N  Y  N
+     SC181CDC2 Change of ELR – Hilton Jn
+                                    44  18 45 66 Y  Y  Y  N  N   N  N  Y  N
+     SC183SAA  Stirling Middle Jn – Change of ELR
+                                     0  00 8  14 Y  Y  Y  N  N   N  N  N  N
+     SC183KNE1 Change of ELR – Longannet
+                                     0  00 5  62 Y  Y  Y  N  N   N  N  N  N
+     SC183KNE1 Longannet – Change of ELR
+                                     5  62 14 14 Y  Y  Y  N  N   N  N  N  N
+     SC183KNE2 Change of ELR – Charlestown Jn
+                                    14  14 15 39 Y  Y  Y  N  N   N  N  N  N
+     SC189CRE  Westfield – Change of Mileage
+                                    28  77 33 04 N  N  N  N  N   N  N  N  N
+     SC189CRE  Change of Mileage – Redford Jn
+                                    33  28 33 45 N  N  N  N  N   N  N  N  N
+               (Goods Line)
+     SC191ECN2 Dundee Central Jn – Dundee
+                                    58  69 59 14 Y  Y  Y  N  N   N  N  Y  N
+     SC191ECN2 Dundee – Camperdown Jn
+                                    59  14 59 77 Y  Y  Y  N  N   N  N  Y  N
+     SC191ECN3 Camperdown Jn – Change of ELR
+                                     0  21 17 17 Y  Y  Y  N  N   N  N  Y  N
+               (Arbroath SB)
+     SC191ECN4 Change of ELR (Arbroath SB) –
+                                    17  55 33 28 Y  Y  Y  N  N   N  N  Y  N
+               Change of ELR (Montrose)
+     SC191ECN5 Change of ELR (Montrose) –
+                                    203 11239 55 Y  Y  Y  N  N   N  N  Y  N
+               Craiginches
+     SC191ECN5 Craiginches – Aberdeen
+                                    239 55241 06 Y  Y  Y  N  N   N  N  Y  N
+     SC193HGL1 Perth South Jn – Change of ELR
+                                    150 61158 38 Y  Y  Y  N  N   N  N  Y  N
+     SC193HGL2 Change of ELR – Stanley Jn
+                                     7  02 7  07 Y  Y  Y  N  N   N  N  Y  N
+     SC193HGL2 Stanley Jn – Milburn Jn
+                                     7  07143 39 Y  Y  Y  N  N   N  N  Y  N
+     SC193HGL2 Milburn Jn – Welsh's Bridge Jn
+                                    117 37117 56 Y  Y  Y  N  N   N  N  Y  N
 
-Line of   ELR    Line of Route / Sector Description             oooo oooo oooo oooo RA         43 47/2 47/4 47/7 56 57 58 Notes
-route                                                            M    Ch   M    Ch 000         00 000 00 00 000 000 000 ooooooooooooooooooooooooo
-
-SC151     LHS1   Portobello – Leith South Yard (Goods             0     00     2    20    10   N     Y    Y    Y       Y   Y   Y
-                 Line)
-SC153     CPH    Craigentinny – Powderhall (Goods Line)           0     00     1    78    10   N     Y    Y    Y       Y   Y   Y
-SC155     MHL1   Monktonhall Jn – Change of ELR                   0     11     5    60    10   Y     Y    Y    Y       Y   Y   Y
-SC155     MHL2   Change of ELR – Millerhill East Jn               1     40     0    28    10   Y     Y    Y    Y       Y   Y   Y
-SC155     MHL3   Millerhill East Jn – Millerhill Yard (Goods      0     00     0    19    10   Y     Y    Y    Y       Y   Y   Y
-                 Line)
-SC157     MLE    Millerhill South Jn – Millerhill East Jn         0     09     0    28    10   Y     Y    Y    Y       Y   Y   Y
-                 (Goods Line)
-SC159     NDE2   Millerhill West Jn – Millerhill South Jn /       6     52     5    72    10   Y     Y    Y    Y       Y   Y   Y
-                 Millerhill Yard
-SC161     NDE1   Millerhill Yard – Junction with Niddrie West     5     52     3    36    10   Y     Y    Y    Y       Y   Y   Y
-                 Line
-SC161     SUB1   Junction with Niddrie West Line –                3     36     3    30    10   Y     Y    Y    Y       Y   Y   Y
-                 Portobello
-SC161     MHL4   Newcraighall East Jn – Network Rail /            00    00    00    08    N    N     N    N    N       N   N   N
-                 Abellio Scotrail Boundary
-SC163     SUB1   Portobello – Change of ELR                       3     30     4    00    10   Y     Y    Y    Y       Y   Y   Y
-SC163     SUB2   Change of ELR – Niddrie West                     6     69     6    30    10   Y     Y    Y    Y       Y   Y   Y
-SC164     NNS    Newcraighall North Jn – Newcraighall             4     63     5    02     3   N     R1   R1   R1      N   N   N R1     55mph maximum speed
-                 South Jn
-SC164     SBO    Newcraighall South Jn – Tweedbank                 5    02    35    34    3    N     R1   R1   R1      N   N   N R1     55mph maximum speed
-                                                                                                     R2   R2   R2                R2     30mph maximum speed over the following:
-                                                                                                     R3   R3   R3                        UB011/070 (27m 46ch)
-                                                                                                          R4                             UB011/056 (22m 04ch)
-                                                                                                          R5                             UB011/054 (21m 58ch)
-                                                                                                                                   R3   RA6 vehicles 30mph maximum speed over the
-                                                                                                                                        following:
-                                                                                                                                         UB011/072 (28m 31ch)
-                                                                                                                                         UB011/067 (25m 44ch)
-                                                                                                                                   R4   RA7 vehicles 20mph maximum speed over the
-                                                                                                                                        following:
-                                                                                                                                         UB011/072 (28m 31ch)
-                                                                                                                                         UB011/067 (25m 44ch)
-                                                                                                                                   R5   30mph maximum speed over the following:
-                                                                                                                                         UB011/061 (24m 03ch)
-                                                                                                                                         UB011/060 (23m 59ch)
-                                                                                                                                         UB011/053 (21m 40ch)
-
-
-
-
-October 2009                                                                         91
+     October 2009                               60

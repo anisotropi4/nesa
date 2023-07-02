@@ -1,18 +1,16 @@
-Kent-Sussex-Wessex	1053	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	442	444	450	455	456	458	508	700	707	Notes
-Kent-Sussex-Wessex	1053	SW110	WPH1	Woking Jn	Guilford	Woking Jn – Guilford	24	62	30	27	Y	Y	Y	Y	R1	R1	Y	N	N	R1 15mph Guildford platform 4
-Kent-Sussex-Wessex	1053	SW110	WPH1	Guilford	Shalford Jn	Guilford – Shalford Jn	30	27	31	42	Y	Y	Y	Y	R1	R1	Y	N	N	R1 15mph Guildford platform 4
-Kent-Sussex-Wessex	1053	SW110	WPH1	Shalford Jn	Haslemere	Shalford Jn – Haslemere	31	42	42	79	Y	Y	Y	Y	Y	Y	Y	N	N
-Kent-Sussex-Wessex	1053	SW110	WPH1	Haslemere	Havant Jn	Haslemere – Havant Jn	42	79	66	17	R1	R1	Y	N	N	R2	N	N	N	R1 40mph through Buriton Tunnel (57m 46ch to 57m 68ch) R2 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham)	Havant Jn [Duplicated on SO520]	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	Y	Y	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1053	SW110	WPH2	Havant Jn	Farlington Jn [Duplicated on SO520]	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW110	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SO520]	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW110	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SO520]	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW110	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW110	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SO520]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW110	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1053	SW115	BAE1	Worting Jn	Connection to Ludgershall Branch line	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	Y	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1053	SW115	LUD1	Connection to main Up line (BAE1)	Red Post Jn	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	Y	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1053	SW115	LUD2	Red Post Jn	Ludgershall	Red Post Jn – Ludgershall	0	00	5	64	Y	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1053	SW115	BAE1	Connection to Ludgershall Branch line	Laverstock North Jn	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	Y	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1053	SW115	LAV	Laverstock North Jn	Laverstock South Jn	Laverstock North Jn – Laverstock South Jn	82	05	82	39	Y	N	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	1053	SW115	BAE1	Laverstock North Jn	Salisbury Tunnel Jn	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	Y	N	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
+Kent-Sussex-Wessex	1053	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	1053	SW100	CJL	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	N	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1053	SW100	RDG1	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	N	Y	N	R1	N	N	N	R1 Prohibited Clapham platforms 2, 3, 4, 5 and 6
+Kent-Sussex-Wessex	1053	SW100	BML1	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	N	R1	N	N	N	N	N	R1 40mph Clapham platform 10
+Kent-Sussex-Wessex	1053	SW105	BML1	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1053	SW105	PPW	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1053	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1053	SW105	BML1	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1053	SW105	BML1	Hampton Court Jn – Woking	13	27	24	27	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1053	SW105	BML1	Woking – Basingstoke	24	27	47	61	R1 R2 R3 R4 R5	Y	N	N	N	N	N	R1 20mph over bridge 85 (24m 40ch) (Up Fast) (between Woking and Brookwood) R2 40mph over bridge 107b (34m 10ch) (Up Slow) (between Fleet and Farnborough) R3 40mph Winchfield Up Slow platform R4 30mph Brookwood Up Slow platform R5 50mph Winchfield Down Slow platform
+Kent-Sussex-Wessex	1053	SW105	BML1	Basingstoke – Eastleigh West Jn	47	61	73	42	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1053	SW105	BML1	Eastleigh West Jn – St Denys	73	42	77	10	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1053	SW105	BML1	St Denys – Northam Jn	77	10	78	15	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	1053	SW105	BML2	Northam Jn – Worgret Jn	78	15	121	77	N	R1 R2	R3	N	N	Y	Y	R1 Prohibited between Totton and Worgret Jn when laden R2 Prohibited with footsteps fitted and deflated suspension R3 Prohibited between Southampton Central and Worgret Jn
+Kent-Sussex-Wessex	1053	SW105	FUR	Worgret Jn – Network Rail Boundary (Swanage Railway)	126	30	129	55	N	N	N	N	N	N	N	

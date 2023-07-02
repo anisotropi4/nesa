@@ -1,46 +1,66 @@
-                                                                                 OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW900   SWM Cardiff East Jn – Cardiff West Jn             170   18   170    56     H        N        N        N   Y
-        2
-GW900   SWM Cardiff West Jn – Court Sart Jn               170   56   206    58     H        N        N        N   R1   R1 Prohibited Lecwith Loop North Jn to Court
-        2                                                                                                              Sart Jn
-GW900   SWM Court Sart Jn – Llandore Jn                   206   58   214    62     H        N        N        N   N
-        2
-GW900   SWM Llandore Jn – Llandeilo Jn                    214   62   223    49     H        N        N        N   N
-        2
-GW900   SWM Llandeilo Jn – Carmarthen Bridge Jn           223   49   245    32     H        N        N        N   N
-        2
-GW900   SWM Carmarthen Bridge Jn – Whitland Jn            245   32   259    01     H        N        N        N   N
-        2
-GW900   SWM Whitland Jn – Clarbeston Road Jn              259   01   271    08     H        N        N        N   N
-        2
-GW900   CRL    Clarbeston Road Jn – Change of ELR         271   08   281    58     H        N        N        N   N
-               (Letterston Jn)
-GW900   NPF    Change of ELR (Letterston Jn) – Network 283      30   287    52     H        N        N        N   N
-               Rail Boundary (Fishguard Harbour)
-GW9001 SWA Landore Jn – Swansea                           214   62   216    07     H        N        N        N   N
-GW906   SWL Swansea Loop East Jn – Swansea Loop             0   53     0    00     H        N        N        N   N
-            West Jn
-GW910   CWL1 Craven Arms Jn – Change of Mileage           20    01    20    12     H        N        N        N   N
-GW910   CWL2 Change of Mileage – Site of Former             0   00    59    14     H        N        N        N   N
-             Llandovery Jn
-GW910   VOT    Site of Former Llandovery Jn – Llandeilo   29    40    18    07     H        N        N        N   N
-GW910   LLA    Llandeilo – Pantyffynnon                   18    07    10    08     H        N        N        N   N
-GW910   LLA    Pantyffynnon – Morlais Jn                  10    08     3    50     H        N        N        N   N
-GW910   LLA    Morlais Jn – Llandeilo Jn                    3   50     0    00     H        N        N        N   N
-GW915   GWA Gwaun-cae-Gurwen – Former Jn                  16    41    14    60     N        N        N        N   N
-            (Change of ELR)
-GW915   GNT    Former Jn (Change of ELR) –                14    60    10    04     N        N        N        N   N
-               Pantyffynnon
-GW930   CAN    Carmarthen Jn – End of Line (Beyond        245   10   245    65     H        N        N        N   N
-               Carmarthen Station)
-GW940   CAN/ Up Sidings No.2 GF – Carmarthen              245   43   245    32     H        N        N        N   N
-        CNW Bridge Jn
-GW950   PEM Whitland Jn – Pembroke RA Change              259   01   284    22     H        N        N        N   N
-GW950   PEM Pembroke RA Change – Pembroke Dock 284              22   286    26     H        N        N        N   N
+       GW730 HDC Site of former Rotherwas Jn – Site of
+                                       0 00  1  74  H    N    N    N    N
+                 former Red Hill Jn
+       GW730 HNL1 Site of former Red Hill Jn – Maindee
+                                       1 74  41 66  H    N    N    N    N
+                 West Jn
+       GW731 WSJ2 Route Boundary (MD801) (Madeley Jn) – 170
+                                         46 171 15  H    N    N    N    N
+                 Abbey Foregate Jn
+       GW731 WSJ2 Abbey Foregate Jn – Crewe Jn
+                                      17115 171 57  H    N    N    N    N
+       GW731 WSJ2 Crewe Jn – Route Boundary (NW3005)
+                                      17157 199 00  H    N    N    N    N
+                 (Wrexham General)
+       GW732 AFEAbbey Foregate Jn – English Bridge Jn
+                                       0 25  0  00  H    N    N    N    N
+                (Loop Lines)
+       GW733 SBA1/ Sutton Bridge Jn – Welshpool
+                                       0 00  33 70  H    N    N    N    N
+             2
+       GW733 SBA2 Welshpool – Aberystwyth
+                                      33 70  95 60  H    N    N    N    N
+       GW734 DJPDovey Jn – Pwllheli   78 60 132 70  H    N    N    N    N
+       GW735 SYCCrewe Jn – Route Boundary (NW1007)
+                                      32 29  2  60  H    N    N    N    N
+                (Limit of Electrification)
+       GW736 GNQ1 Gobowen South – Commencement of
+                                       0 00  0  16  N    N    N    N    N
+                 single line board
+       GW740 MAIMaindee East Jn – Maindee North Jn
+                                      41 65  41 33  H    N    N    N    N
+       GW750 BNCHereford Yard Jn – Brecon Curve Jn
+                                       0 00  0  19  N    N    N    N    N
+       GW750 HNL2 Brecon Curve Jn – MEB Siding
+                                      14944 149 78  N    N    N    N    N
+       GW770 EBW Ebbw Vale Parkway – Site of Former
+                                      18 45  14 23  H    N    N    N    N
+                 Aberbeeg Jn
+       GW770 WVL Site of Former Aberbeeg Jn – Park Jn
+                                      14 23  1  02  H    N    N    N    N
+       GW770 GAEPark Jn – Gaer Jn (Western Valley Line)
+                                      16024 159 33  N    N    N    N    N
+       GW773 BJRMachen Quarry – Site of Former
+                                       4 69  0  00  N    N    N    N    N
+                Bassaleg Jn
+       GW773 WVL Site of Former Bassaleg Jn – Park Jn
+                                       2 05  1  10  N    N    N    N    N
+                 (Machen Branch)
+       GW780 WVL Park Jn – Park Jn SB  1 02  0  74  H    N    N    N    N
+       GW780 NWN Park Jn SB – Ebbw Jn  0 54  0  00  H    N    N    N    N
+       GW784 NLLAlexandra Dock Jn – Network Rail
+                                      15960 160 27  N    N    N    N    N
+                Boundary (Newport Docks)
+       GW790 ROC Pengam Jn – Change of ELR
+                                      16820 168 61  N    N    N    N    N
+       GW790 ROA Change of ELR – Network Rail Boundary
+                                       3 41  4  54  N    N    N    N    N
+                 (ABP Cardiff Docks)
 
 
-  April 2009                                                                       499J
+         April 2009                                 499G

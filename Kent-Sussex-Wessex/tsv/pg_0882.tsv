@@ -1,25 +1,22 @@
-Kent-Sussex-Wessex	0882	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0882	SO310	HDR	Hither Green Jn (SO290)	Lee Loop Jn	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	LEE	Lee Loop Jn	Lee Spur Jn	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	HDR	Lee Loop Jn	Lee	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	HDR	Lee	Crayford Spur ‘B’ Jcn	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	CRA	Crayford Spur ‘B’ Jn	Crayford Spur ‘A’ Jn	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	HDR	Crayford Spur ‘B’ Jcn	Dartford Jn	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	HDR	Dartford Jn	Hoo Jn	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	HDR	Hoo Jn	Strood Jn	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	HDR	Strood Jn	Rochester Bridge Jn	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO310	PWS2	Strood Jn	Maidstone West Change of Mileage	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO320	HTG	Hoo Jn	Grain LC and Sidings beyond	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	NTL	Nunhead Jn (SO260)	Lewisham Jn	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	LVT	Tanners Hill Jn (SO130)	Lewisham Jn	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	BEX	St Johns Jn (SO130)	Lewisham Jn	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	LCH	Lewisham Jn	Courthill Loop North Jn	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	NCS	Courthill Loop North Jn	Courthill Loop South Jn	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	LCH	Courthill Loop North Jn	Ladywell Jn	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	LCH	Ladywell Jn	New Beckenham Jn	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	NBB	New Beckenham Jn	Beckenham Jn	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO330	LCH	New Beckenham Jn	Hayes	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO350	BNG	Grove Park (SO130)	Bromley North	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N
-Kent-Sussex-Wessex	0882	SO500	VTB1	Victoria platforms 9-19	Battersea Pier Jn	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	Y	N	N	N
-Kent-Sussex-Wessex	0882	SO500	VTB1	Battersea Pier Jn	Battersea Park Jn	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	Y	N	N	N
-Kent-Sussex-Wessex	0882	SO500	VTB1	Battersea Park Jn	Pouparts Jn	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0882	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	CSM1	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	CSM2	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Ashford (Jn with Canterbury Line) – Saltwood Jn	56	35	66	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Saltwood Jn – Folkestone Central	66	38	69	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Folkestone Central – Folkestone East Staff Halt	69	73	70	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO130	XTD	Folkestone East Staff Halt – Dover Substation	70	73	76	45	N	N	N	N	N	
+Kent-Sussex-Wessex	0882	SO140	SBJ	Swanley Jn (SO110) – Otford Jn	17	46	24	53	N	N	N	N	N	

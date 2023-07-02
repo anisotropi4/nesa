@@ -1,12 +1,14 @@
-Kent-Sussex-Wessex	1011	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Kent-Sussex-Wessex	1011	SO110	VIR	Victoria platforms 1-8	Battersea Pier Jn	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	8	Y
-Kent-Sussex-Wessex	1011	SO110	BSP1	Battersea Pier Jn	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	Y
-Kent-Sussex-Wessex	1011	SO110	VIR	Battersea Pier Jn	Linford Street Jn	Battersea Pier Jn – Linford Street Jn	0	70	1	45	8	Y
-Kent-Sussex-Wessex	1011	SO110	AHG	Linford Street Jn	Route Boundary (SW100) (Nine Elms Jn)	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	8	Y
-Kent-Sussex-Wessex	1011	SO110	VIR	Linford Street Jn	Factory Jn	Linford Street Jn – Factory Jn	1	45	1	61	8	Y
-Kent-Sussex-Wessex	1011	SO110	FLL1	Factory Jn	Longhedge Jn	Factory Jn – Longhedge Jn	0	40	0	03	8	Y
-Kent-Sussex-Wessex	1011	SO110	VIR	Factory Jn	Shepherds Lane Jn	Factory Jn – Shepherds Lane Jn	1	61	2	70	8	Y
-Kent-Sussex-Wessex	1011	SO110	VIR	Shepherds Lane Jn	Brixton Jn	Shepherds Lane Jn – Brixton Jn	2	70	3	08	8	Y
-Kent-Sussex-Wessex	1011	SO110	VIR	Brixton Jn	Herne Hill North Jn	Brixton Jn – Herne Hill North Jn	3	08	3	70	8	Y
-Kent-Sussex-Wessex	1011	SO110	VIR	Herne Hill North Jn	Herne Hill South Jn	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	8	Y
-Kent-Sussex-Wessex	1011	SO110	HHT	Herne Hill South Jn	Route Boundary Sussex (Tulse Hill)	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	8	R1	R1 Prohibited between the crossover from the Up Passenger Loop to the Up Chatham Main and the Connection to the Up Holborn line on the Up Slow connecting line
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Kent-Sussex-Wessex	1011	SO130	St Johns Jn – Lewisham (exclusive) (SO300)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO130	Parks Bridge Jn – Ladywell Jn (exclusive) (Ladywell Loop)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO130	Courthill Loop Jn North (exclusive) – Courthill Loop Jn South (SO330)	Y	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO130	Chislehurst: Reversible and Up Chatham Loops	Y *	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO130	Saltwood Jn – Continental Jn (NR / Eurotunnel interface)	Y	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO130	Lee Spur Jn – Lee Loop Jn (SO310)	Y	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO140	Swanley – Ashford	Y *	Y	Y	S1	N	N	N	N	S1 The following combinations are permitted, up to: 2770 (h) x 2550 (w) box on FIA IFA wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2553 (h) x 2500 (w) box on IFB wagons All Lines
+Kent-Sussex-Wessex	1011	SO140	Otford – Sevenoaks	Y	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO150	Sittingbourne Western Jn – Sheerness-on- Sea	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO150	Sittingbourne Eastern Jn – Sittingbourne Middle Jn	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO160	Faversham – Dover Priory	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1011	SO170	Tonbridge – Mountfield Tunnel (inclusive)	Y *	S	N	N	N	N	N	N	S1 The following combination is permitted, up to: 2438 (h) x 2438 (w) box on KFA wagons 25 mph Br TTH-103 Castle Farm [51m 37ch]
+Kent-Sussex-Wessex	1011	SO170	Mountfield Tunnel (exclusive) – Bo Peep Jn	S *	N	N	N	N	N	N	N	S1 The following combinations are permitted, up to: 2438 (h) x 2438 (w) box on FEA wagons 25 mph Up Line Br. TTH-114 Whatlington B [53m 79ch]

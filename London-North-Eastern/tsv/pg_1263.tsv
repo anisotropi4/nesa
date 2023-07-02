@@ -1,21 +1,9 @@
-London-North-Eastern	1263	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1263	LN101	ECM1	Marshgate Jn	Shaftholme Jn	Marshgate Jn – Shaftholme Jn	156	26	160	16	9	Y
-London-North-Eastern	1263	LN105	MEB1	Moorgate	Drayton Park	Moorgate – Drayton Park	0	00	2	56	9	N
-London-North-Eastern	1263	LN105	MEB1	Drayton Park	Finsbury Park Jn	Drayton Park – Finsbury Park Jn	2	56	3	37	9	Y
-London-North-Eastern	1263	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn)	Finsbury Park Jn	Route Boundary (EA1320) (Canonbury West Jn) – Finsbury Park Jn	3	20	4	33	9	Y
-London-North-Eastern	1263	LN115	CRF1	Copenhagen Jn	Route Boundary (EA1320) (North London Incline)	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	10	Y
-London-North-Eastern	1263	LN120	HDB	Wood Green Jn	Langley Jn via Hertford	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	9	R1	R1 Prohibited Hertford North bay platform 3
-London-North-Eastern	1263	LN120	HDB	Langley Jn via Hertford	Stevenage platform 5 (End of line)	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	9	N
-London-North-Eastern	1263	LN125	SBR	Cambridge Jn	Route Boundary (EA1230) (Meldreth)	Cambridge Jn – Route Boundary (EA1230) (Meldreth)	32	11	45	60	9	Y
-London-North-Eastern	1263	LN126	DCF	Hitchin North Jn	Hitchin East Jn	Hitchin North Jn – Hitchin East Jn	32	53	34	03	9	Y
-London-North-Eastern	1263	LN135	EMP	Route Boundary (EA1560) (Ely West Jn)	Crescent Jn	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	9	Y
-London-North-Eastern	1263	LN147	PMJ	Helpston Jn	Route Boundary (LN3615) (Uffington SB)	Helpston Jn – Route Boundary (LN3615) (Uffington SB)	16	71	13	60	9	Y
-London-North-Eastern	1263	LN150	SPD5	Flyover East	Decoy North Jn	Flyover East – Decoy North Jn	116	20	117	46	8	Y
-London-North-Eastern	1263	LN155	LCJ	Flyover East Jn	Loversall Jn (Up Loversall Curve)	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	8	Y
-London-North-Eastern	1263	LN160	LCR	Loversall Carr Jn	Rossington Colliery Jn	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	8	Y
-London-North-Eastern	1263	LN160	FWR1	Rossington Colliery Jn	Flyover West Jn	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	8	Y
-London-North-Eastern	1263	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn)	Harringay Jn	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	9	Y
-London-North-Eastern	1263	LN170	WEB	Werrington Jn	Site of Former Spalding South Jn	Werrington Jn – Site of Former Spalding South Jn	79	34	92	58	8	Y
-London-North-Eastern	1263	LN170	SPD1	Site of Former Spalding South Jn	Sleaford South Jn	Site of Former Spalding South Jn – Sleaford South Jn	44	07	62	14	8	Y
-London-North-Eastern	1263	LN170	SPD2	Sleaford South Jn	Sleaford North Jn	Sleaford South Jn – Sleaford North Jn	62	14	63	48	8	Y
-London-North-Eastern	1263	LN170	SPD2	Sleaford North Jn	Site of Former Greetwell West Jn	Sleaford North Jn – Site of Former Greetwell West Jn	63	48	81	25	8	Y
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1263	LN3520	Sheet Stores Jn – Stenson Jn	Y *	Y	Y	Y	Y	Y	Y	Y	S1 The following combinations are permitted: 2438 h x 2438 w box on FEA KFA wagons Up Line 2590 h x 2438 w box on FEA FSA/FTA KFA wagons Up Line 2590 h x 2500 w box on FEA FSA/FTA KFA wagons Up Line 2615 h x 2500 w S16 FT on KFA wagons Up Line 2615 h x 2550 w S16 FT on KFA wagons Up Line 2625 h x 2500 w ST17 FT on FEA FSA/FTA wagons Up Line 2625 h x 2550 w ST17 FT on FEA FSA/FTA wagons Up Line 2896 h x 2438 w box on FLA wagons Up Line 2896 h x 2500 w box on FAA wagons Up Line STNC NC/G1/2001/ICP-G/M&C002 applies to 31/12/10
+London-North-Eastern	1263	LN3525	Knighton Jn – Leicester Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1263	LN3535	Birmingham Curve Jn – Branston Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1263	LN3601	Kettering North Jn – Manton Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1263	LN3605	Corby BSC Works – Corby North	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1263	LN3610	Corby Automotive Terminal – Corby North	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1263	LN3615	Uffington – Syston South Jn	Y *	Y	R1 R2	R1 R2	R1 R2	R1 R2	N	N	R1 W10 Prohibited: The following combinations are permitted: Up to: 2895 high x 2500 wide box on FIA FKA FSA/FTA IFA IKA KFA FEA wagons R2 PROHIBITED from Melton Mowbray Up Goods Yard.
+London-North-Eastern	1263	LN3620	Melton Jn GF – Asfordby	Y	N	N	N	N	N	N	N	

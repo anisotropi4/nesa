@@ -1,20 +1,18 @@
-Scotland	1065	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1065	SC025	ARG2	Exhibition Centre	Finnieston West Jn (Up line)	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC027	RNC	Rutherglen West Jn	Rutherglen North Jn (West Curve)	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC029	CLY	Larkfield Jn	Terminus Jn	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC029	BRD	Terminus Jn	Shields Jn via Through Terminus lines	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC029	CLY	Terminus Jn	Shields Jn	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	GSW	Route Boundary (NW4031) (Gretna Jn)	Old Route boundary (109mch between Eastriggs and Annan)	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109mch between Eastriggs and Annan)	115	40	109	00	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	GSW	Old Route boundary (109mch between Eastriggs and Annan)	Change of ELR	Old Route boundary (109mch between Eastriggs and Annan) – Change of ELR	109	0	33	44	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	GBK	Change of ELR	Muirhouse South Jn	Change of ELR – Muirhouse South Jn	23	44	1	18	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	MEN2	Muirhouse South Jn	Muirhouse Central Jn	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	MEN1	Muirhouse Central Jn	Eglinton St Jn	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	WCM2	Eglinton St Jn	Bridge St Jn	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC031	WCM2	Bridge St Jn	Glasgow Central	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC035	KSH	Bank Jn	Network Rail Boundary (Connel Park LC) / Knockshinnoch	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC036	GNN	Greenburn Jn	Greenburn Open Cast (Goods Line)	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC037	RIC1	Kay Park Jn	Bellfield	Kay Park Jn – Bellfield	0	00	1	06	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC037	RIC2	Bellfield	Riccarton (Goods Line)	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC039	BAK	Kilmarnock	Barassie	Kilmarnock – Barassie	0	05	7	56	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1065	SC045	EKE	East Kilbride	Busby Jn	East Kilbride – Busby Jn	7	60	0	40	5	N	R1 R2 R3 R4 R5	N	N	N	N	N	R1 Infrastructure maintenance purposes only R2 Prohibited from hauling vehicles that exceed RA5 R3 Double Heading is prohibited R4 20mph maximum speed R5 10mph over bridge 33 (3m 49ch)
-Scotland	1065	SC047	LFS2	Muirhouse South Jn	Change of ELR	Muirhouse South Jn – Change of ELR	1	19	0	61	10	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
+Scotland	1065	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	7 R1	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R2 R3	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 30mph over bridge 179/065 Black (Cart Water) (109m 71ch) R3 30mph over bridge 179/061 (River Gryfe) (110m 42ch)
+Scotland	1065	SC065	GOU2	Bishopton – Gourock	112	60	126	58	5 R1	Y	Y	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014
+Scotland	1065	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	Y	Y	R1	Y	N	N	R1	Y	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1065	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	Y	Y	R1	Y	N	N	R1	Y	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1065	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1065	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

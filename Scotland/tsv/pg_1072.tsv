@@ -1,13 +1,19 @@
-Scotland	1072	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1072	SC123	NEM3	Finnieston East Jn	Finnieston West Jn (Up Line)	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	5 R1	N	R2	R2 R3	N	N	N	R2	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014 R2 10mph over bridge 240/128 (2m 24ch) R3 Sleeper Services only subject to 20mph maximum speed
-Scotland	1072	SC123	NEM3	Finnieston West Jn	Hyndland North Jn	Finnieston West Jn – Hyndland North Jn	2	53	4	28	7	N	Y	Y	Y	Y	Y	Y
-Scotland	1072	SC123	NEM3	Hyndland North Jn	Change of ELR	Hyndland North Jn – Change of ELR	4	28	4	63	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1072	SC123	NEM4	Change of ELR	Knightswood North Jn	Change of ELR – Knightswood North Jn	0	00	0	74	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1072	SC123	NEM5	Knightswood North Jn	Change of ELR (Between Bowling and Dumbarton East)	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1072	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East)	Change of ELR (Dumbarton East)	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	5 R1	Y	Y	R2	Y	N	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014 R2 Sleeper services only
-Scotland	1072	SC123	NEM7	Change of ELR (Dumbarton East)	Craigendoran Jn	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	5 R1	Y	Y	R2	Y	N	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014 R2 Sleeper services only
-Scotland	1072	SC123	NEM7	Craigendoran Jn	Helensburgh Central	Craigendoran Jn – Helensburgh Central	22	76	24	31	5 R1	Y	Y	N	N	N	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
-Scotland	1072	SC125	YKR	Hyndland East Jn	Hyndland West Jn	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7 R1	N	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 Sleeper Services only
-Scotland	1072	SC125	YKR	Hyndland West Jn	Dalmuir Park Jn	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	8 R1	N	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 Sleeper services only
-Scotland	1072	SC129	SGN	Springburn	Bellgrove Jn	Springburn – Bellgrove Jn	0	42	2	58	10	Y	Y	Y	Y	Y	Y	Y
-Scotland	1072	SC131	HST	High Street Jn	Connection to Smithy Lye Through Line	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	8	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
+Scotland	1072	SC147	ECM9	Calton South Tunnel – Waverley East End	0	29	0	21	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC147	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1072	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1072	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	

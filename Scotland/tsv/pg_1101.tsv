@@ -1,6 +1,19 @@
-Scotland	1101	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1101					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1101	SC001	Gretna Jn – Law Jn (via Beattock)	Gretna Jn	Law Jn (via Beattock)	Y *	Y	Y	Y	N	Y	N	N
-Scotland	1101	SC001	Law Jn – Larkfield Jn	Law Jn	Larkfield Jn	Y *	Y	Y	Y	N	Y	N	N
-Scotland	1101	SC001	Larkfield Jn – Eglinton Street	Larkfield Jn	Eglinton Street	Y	Y	Y	N	N	N	N	N
-Scotland	1101	SC001	Eglinton Street – Glasgow Central	Eglinton Street	Glasgow Central	Y *	Y	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1101	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	10	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited when overhead line equipment is energised
+Scotland	1101	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	N	Y	N	Y	Y	Y	Y	
+Scotland	1101	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	7 R1	N	R2 R3	N	R2 R3	R2	R2	R2	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 30mph over bridge 179/065 (Black Cart Water) (109m 71ch) R3 30mph over bridge 179/061 (River Gryfe) (110m 42ch)
+Scotland	1101	SC065	GOU2	Bishopton – Gourock	112	60	126	58	5 R1	N	Y	N	Y	Y	R2	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 Prohibited Greenock Bay platform
+Scotland	1101	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	N	N	N	N	N	N	Y	
+Scotland	1101	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	N	R1 R2 R3 R4	N	N	N	N	Y	R1 Infrastructure maintenance purposes only R2 10mph over bridge 193/027 (37m 5ch) R3 10mph over bridge 193/033 (38m 74ch) R4 10mph over bridge 193/036 (39m 11ch)
+Scotland	1101	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	10	Y	Y	Y	Y	Y	Y	Y	

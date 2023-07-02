@@ -1,68 +1,79 @@
-                                                            OFFICIAL
+                                   OFFICIAL
 
 
-LNW North Route Sectional Appendix Module NWF
-
-
-Modified Working
-Introduction
-Prior to the introduction of Working by Pilotman, Modified Working may be authorised by the Network Rail Route Control
-Manager, for a period of up to two hours, or until a Pilotman arrives.
-In exceptional circumstances the period of up to two hours may be extended subject to the agreement of the Network Rail
-Route Control Manager, the Responsible Person and the Train/Freight Operating companies involved.
-In the event of signalling equipment failure on the single lines listed in the table and a Pilotman is not readily available,
-modified working may be introduced providing:
-•     The Signaller is able to work the points giving access to/egress from the single line or they can be set and detected
-      for the passage of trains.
-•     Direct verbal communication is available between all Signallers involved and the Responsible Person.
-
-
-Method of working
-In the event of a failure of signalling equipment the Network Rail Route Control Manager will decide whether a Pilotman is
-available or, if not, consider authorising Modified Working.
-If Modified Working is authorised, a Responsible Person will be appointed who will ascertain that the single line
-concerned is clear and that the last train passed clear complete with tail lamp. When this has been done, the
-Responsible Person will give permission for the Signaller to issue/dictate a Modified Working ticket RT3177 to authorise
-the passage of the next train. This procedure will be repeated by the Responsible Person for each train which passes
-over the single line under Modified Working arrangements.
-During Modified Working
-Once the Signaller has been given authority by the Responsible Person and the arrangements have been confirmed with
-any other Signaller involved, and the line is clear in accordance with the train signalling regulations the signaller may then
-issue/dictate the RT3177 ticket to the Driver and advise them of any additional information.
-When the Driver has read back all the information on the RT3177 ticket along with any additional information and the
-Signaller is satisfied that a clear understanding has been reached, the Signaller may authorise the Driver to pass the
-protecting signal at Danger and proceed cautiously.
-Once a train has been admitted to the single line under Modified Working arrangements, the Signaller(s) concerned must
-not authorise any subsequent train (except to assist a failed train) to pass the protecting signals for the single line until it
-has been confirmed that the train has passed clear of the single line complete with tail lamp.
-Once the train has passed clear of the single line, the Driver must, if previously instructed to do so, stop at the location
-identified on the RT3177 and contact the Signaller controlling the exit from the single line. The Driver must confirm if the
-train is complete with tail lamp.
-In the event of a failed train, obstruction or any other exceptional circumstance, a clear understanding must be reached
-between the Responsible Person, all Signallers and Drivers involved before any further movement is authorised.
-Lines Where Modified Working is authorised
-
-         Route                   Line name                  Between these                   Remarks
-                                                              locations
-    NW3001               Britannia Bridge              Menai Bridge South Jn.
-                                                       and Menai Bridge North
-                                                       Jn.
-    NW4011               Down & Up Morecambe           Between Bare Lane and
-                                                       Morecambe Station
-    NW4033               Up & Down Main                Between Parton and
-                                                       Parton North Jn
-    NW4033               Up & Down Main                Between Barrow-in-
-                                                       Furness and Park South
-    NW4033               Up & Down Main                Between St Bees and
-                                                       Bransty
-    NW6011               Down & Up Darwen              Between Blackburn
-                                                       Bolton Junction and
-                                                       Darwen Station
-    NW6011               Down & Up Darwen              Between Darwen Station
-                                                       and Bromley Cross
-    NW7007               Up & Down Main                Between Rufford and
-                                                       Ormskirk
+       LNW North Route Sectional Appendix Module NWF
 
 
 
-October 2009                                                   50
+
+       SECTION      SA    ELR   Start StartEnd    End GSM-R Predicted Poor
+                                MilesChainsMiles Chains
+                                                      Coverage Details
+
+       Salop Goods
+       Junction to Crewe
+                                                      Poor coverage through tunnel
+       Coal Yard
+                  NW1017  LLI   157   71    158   73  under WCML LLI 158m14ch -
+       (Liverpool
+                                                      158m29ch
+       Independent
+       Lines)
+                                                      Poor coverage from
+       Preston South
+                                                      Fishergate Tunnel to the NR
+       Junction to Strand
+                  NW1027  PSR2   0    0     0     40
+                                                      boundary PSR2 0m22ch –
+       Road
+                                                      0m40ch
+                                                      Poor coverage through
+       Edge Hill Bootle
+                                                      Spellow No. 2 Tunnel SCT1
+       Branch Junction to
+                  NW2027  SCT1   0    14    4     49  4m04ch - 4m19ch &
+       Atlantic Dock
+                                                      Westminster Tunnel SCT1
+       Junction (former)
+                                                      4m35ch - 4m49ch
+                                                      Poor coverage through Oriel
+       Atlantic Dock
+                                                      Road Tunnel SCT2 4m55ch -
+       Junction (former)
+                  NW2027  SCT2   4    49    5     53  4m68ch and Alexandra Dock
+       to Regent Road
+                                                      Tunnel SCT2 5m25ch -
+       LC (NR Boundary)
+                                                      5m38ch
+                                                      Poor coverage in the cutting
+       Chinley North to                               and through Dove Holes
+                  NW9005  CNB1  168   39    161   05
+       Buxton                                         Tunnel: CNB1 164m28ch –
+                                                      166m19ch
+                                                      Poor coverage through
+       Chinley North to                               Ashwood Dale and Pic Tor
+                  NW9005  CNB3  161   54    164   52
+       Buxton                                         Tunnels inclusive: CNB3
+                                                      163m73ch – 162m32ch
+       Buxton to Hindlow
+                                                      Poor coverage: BUX 2m55ch
+                  NW9019
+       Brigg's Sidings    BUX    0    0     4     70
+                                                      - 4m70ch
+       (NR Boundary)
+
+       GSM-R FAULTS AND FAILURES RESPONSE
+
+       VERSION 1.1
+
+       PURPOSE
+
+       To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
+
+       Appendix covers the response to system faults from a single fixed terminal through to failures of the
+       infrastructure resulting in loss of coverage in a geographical area.
+
+
+
+
+       October 2009                 46W

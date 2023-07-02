@@ -1,49 +1,66 @@
-                                                                                        OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                   LNW South Route Sectional Appendix Module LNW(S) RC
+                                      LNW South Route Sectional Appendix Module LNW(S) RC
 
-Line of ELR     Line of Route / Sector                       oo    oo   oo    oo 313 315 317 319 321 322 323 325 350 360 Notes
-route           Description                                  oo    oo   oo    oo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-                                                             M     Ch   M     Ch
-MD330   SCL     Soho East Jn – Soho North Jn                  0    00    0    22   N    N   Y      N   Y   Y   Y    H    Y   N
-MD335   SSP     Perry Barr West Jn – Perry Barr South         0    39    0    00   N    N   Y      N   Y   Y   Y    H    Y   N
-                Jn
-MD340   ALC1    Aston North Jn – Sutton Coldfield             0    00    5    00   N    N   Y      N   Y   Y   Y    H    N   N
-                Change of ELR
-MD340   ALC2    Sutton Coldfield Change of ELR –              5    00    13   33   N    N   Y      N   Y   Y   Y    H    N   N
-                Lichfield City Jn
-MD340   BJW3    Lichfield City Jn – Lichfield Trent Valley    16   47    18   05   N    N   Y      N   Y   Y   Y    H    N   N
-                (End of Electrification)
-MD340   BJW3    Lichfield Trent Valley – Route                18   05    19   00   N    N   N      N   N   N   N    H    N   N
-                Boundary (LN3340) (Wichnor Jn)
-MD345   BJW1    Bescot Jn – Walsall Pleck Jn (Change          0    00    0    65   N    N   Y      N   Y   Y   Y    Y    Y   N
-                of Mileage)
-MD345   BJW2    Walsall Pleck Jn (Change of Mileage)          5    42    6    34   N    N   Y      N   Y   Y   Y    Y    Y   N
-                – Limit of Electrification
-MD345   BJW2    Park Street Tunnel – Ryecroft Jn              6    34    6    76   N    N   N      N   N   N   Y    Y    Y   N
-MD345   BJW2    Ryecroft Jn – Change of Mileage               6    76    6    79   N    N   N      N   N   N   Y    Y    Y   N
-MD345   RRN1    Change of Mileage – Cannock Change            0    00    7    20   N    N   N      N   N   N   Y    Y    Y   N
-                of ELR
-MD345   RRN2    Cannock Change of ELR – Route                 7    20    14   00   N    N   N      N   N   N   Y    Y    Y   N
-                Boundary (NW1004) (Rugeley North
-                Jn)
-MD350   BJW3    Anglesea Sidings – Lichfield City Jn          12   15    16   47   N    N   N      N   N   N   N    N    N   N Line out of use
-                                                                                                                                 NC/G1/2005/LN296
-MD355   LTV   Lichfield South Jn – Lichfield Trent            0    22    0    02   N    N   N      N   N   N   N    H    N   N
-              Valley Jn (Chord Line)
-MD360   WDJ   Walsall, Pleck Jn – Darlaston Jn                1    16    0    15   N    N   Y      N   Y   Y   Y    Y    Y   N
-MD365   PJW   Portobello Jn – Wolverhampton Crane             0    04    1    59   N    N   Y      N   Y   Y   Y    Y    Y   N
-              Street Jn
-MD401   DCL   Route Boundary (GW200) (Heyford) –              75   00    81   13   N    N   N      N   N   N   N    H    N   N
-              Aynho Jn
-MD401   DCL   Aynho Jn – Leamington Spa North Jn              81   13   106   25   N    N   N      N   N   N   N    H    N   N
-MD401   DCL   Leamington Spa North Jn – Tyseley              106   25   125   73   N    N   N      N   N   N   N    H    N   N
-              South Jn
-MD401   BCV/D Tyseley South Jn – Small Heath South           125   73   126   59   N    N   N      N   N   N   N    H    N   N
-        CL    Jn
-MD401   BCV   Small Heath South Jn – Bordesley Jn            126   59   128   11   N    N   N      N   N   N   N    H    N   N
-MD405   LSC1 Leamington Spa North Jn – Milverton             106   25   107   06   N    N   N      N   N   N   N    H    N   N
-              Change of ELR
 
-December 2009                                                                                19
+
+
+     Table D1B – Route clearance of diesel multiple units
+                                                                                       Last Updated: 20/08/2022
+    To be read in conjunction with General Notes.
+    Line of ELR
+             Line of Route / Sector
+                                M Ch M Ch 165 166 RHM 168 170 171 172 175 180 195 196 220 221 Notes
+    route    Description
+    MD101LEC1London Euston – Camden Jn DC
+                                 0 00 1 36N   N   N N N R1Y N N  N Y T R1Prohibited Euston platform 17
+             Lines                                      R2            R2 Prohibited Euston platform 3 when laden
+    MD101LEC1Camden Jn DC Lines – Camden Jn
+                                 1 36 1 51N   N   N N N Y Y N N  N Y T
+             (NLL)
+    MD101LEC1Camden Jn – West London Jn
+                                 1 51 5 23E   N   N N N Y Y N N  N Y T R1Route prohibited to Class 165/1
+             (Willesden)                  R1
+    MD101LLG West London Jn (Willesden) –
+                                 0 12 2 03E   N   E N N Y Y R2 N N Y Y R1Route prohibited to Class 165/1
+             Sudbury Jn (Willesden Relief Lines)
+                                          R1                          R2 For access to Wembley Yard
+    MD101LEC1West London Jn (Willesden) –
+                                 5 23 6 01E   N   E N N Y Y N N  N Y T R1Route prohibited to Class 165/1
+             Harlesden Jn                 R1
+    MD101LEC1Harlesden Jn – Watford South Jn
+                                 6 0117 06E   N   E N N Y Y N N  N Y T R1Route prohibited to Class 165/1
+                                          R1
+    MD101LEC1Watford South Jn – Bletchley South
+                                17 0646 41E   N   E N N R2Y N N  N Y T R1Route prohibited to Class 165/1
+             Jn                           R1                          R2 ECS only between Watford Junction and Bletchley Jn
+    MD101LEC1Bletchley South Jn – Bletchley
+                                46 4147 52E   N   E N N E Y N N  Y Y T R1Route prohibited to Class 165/1
+             (platforms 1-5) – Denbigh Hall
+                                          R1
+             South Jn
+    MD101LEC1Denbigh Hall South Jn – Hanslope
+                                47 5256 66E   N   E E N E Y N N  Y Y T R1Route prohibited to Class 165/1
+             North Jn                     R1        R2                R2 Prohibited between Denbigh Hall South Jn and
+                                                                         Wolverton Works
+    MD101LEC1Hanslope North Jn – Hillmorton Jn
+                                56 6681 28 E  N   E Y N E Y N N  Y Y T R1Route prohibited to Class 165/1
+                                          R1            R2            R2 Route prohibited to Class 172/2 and 172/3
+    MD101LEC1Hillmorton Jn – Rugby Trent Valley
+                                81 2883 18 E  N   E Y N E Y N N  Y Y T R1Route prohibited to Class 165/1
+             Jn                           R1            R3            R2 Prohibited between Rugby and Rugby Trent Valley Jn
+                                          R2                          R3 Route prohibited to Class 172/2 and 172/3
+    MD101LEC2Rugby Trent Valley Jn – Armitage
+                                83 18 119
+                                        20 N  N   N Y N R1Y N N R3Y  T R1Prohibited Rugby Trent Valley Jn to Nuneaton South Jn
+             Jn (NW1001 Sectional Appendix              R2            R2 Prohibited Nuneaton to Armitage Jn (NW1001
+             Boundary)                                                   Sectional Appendix Boundary)
+                                                                      R3 Tare inflated suspension only past Telephone (Up Fast
+                                                                         1100, 114m 66ch)
+
+    MD105HNR Hanslope Jn (MD101) –
+                                56 6665 55E   N   E Y N E Y N N  Y Y Y R1Route prohibited to Class 165/1
+             Northampton South Jn         R1            R2            R2 Route prohibited to Class 172/2 and 172/3
+
+     December 2009                                   14A

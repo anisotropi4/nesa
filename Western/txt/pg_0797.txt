@@ -1,49 +1,71 @@
-                                                                            OFFICIAL
+                                                  OFFICIAL
 
 
-                                                           Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-Line of ELR    Line of Route / Sector                oooo oooo oooo oooo RA 60 66 67 68 70 73                88 97/3 Notes
-route          Description                            M Ch M Ch 000            000 000 000 000 00            00      ooooooooooooooooooooooooooo
+         Line of ELR
+                  Line of Route / Sector
+                                     oooo oooo oooo oooo RA
+                                                     60 6667 68 7073 88 97/3 Notes
+         route    Description         M  Ch M  Ch 000  000 000 000 000 00
+                                                                     00   ooooooooooooooooooooooooooo
 
-GW8901 RSB     Dynevor Jn – Jersey Marine South Jn    19   16    20    24    6     Y    Y   Y   N   Y    Y   N   Y
-GW892 VON      Network Rail Boundary (Cwmgwrach) –    33   14    41    17    6     Y    Y   N   N   N    Y   N   Y
-               Neath & Brecon Jn
-GW892   VON    Neath & Brecon Jn – Burrows Sidings    41   17    46    30    6     Y    Y   N   N   N    Y   N   Y
-GW893   NAB    Network Rail Boundary (Onllwyn) –      10   10     0    01    6     Y    Y   N   N   N    Y   N   Y
-               Neath and Brecon Jn
-GW894   JER    Jersey Marine Jn North – Jersey         1   24     2    26    6     Y    Y   Y   N   Y    Y   N   Y
-               Marine Jn South
-GW897   HDY    Grovesend Colliery Loop Jn – Hendy      0   00     0    46    6     N    Y   N   N   N    Y   N   Y
-               Jn
-GW900   BSW    Ableton Lane Tunnel – Severn Tunnel    10   51    16    73    8     Y    Y   Y   Y   Y    Y   Y   Y
-               Jn
-GW900   SWM2   Severn Tunnel Jn – Maindee West Jn    149   14   158    16    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2   Maindee West Jn – Cardiff East Jn     158   16   170    18    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2   Cardiff East Jn – Cardiff West Jn     170   18   170    56    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2    Cardiff West Jn – Court Sart Jn      170   56   206    58    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2   Court Sart Jn – Llandore Jn           206   58   214    62    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2   Llandore Jn – Llandeilo Jn            214   62   223    49    7     Y    Y   N   Y   Y    Y   Y   Y
-GW900   SWM2   Llandeilo Jn – Carmarthen Bridge Jn   223   49   245    32    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2   Carmarthen Bridge Jn – Whitland Jn    245   32   259    01    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   SWM2   Whitland Jn – Clarbeston Road Jn      259   01   271    08    8     Y    Y   Y   Y   Y    Y   Y   Y
-GW900   CRL    Clarbeston Road Jn – Change of ELR    271   08   281    58    7     N    Y   N   Y   Y    Y   Y   Y
-               (Letterston Jn)
-GW900   NPF    Change of ELR (Letterston Jn) –       283   30   287    52    7     N    Y   N   Y   Y    Y   Y   Y
-               Network Rail Boundary (Fishguard
-               Harbour)
-GW9001 SWA     Landore Jn – Swansea                  214   62   216    07    7     Y    Y   Y   Y   Y    Y   Y   Y
-GW906 SWL      Swansea Loop East Jn – Swansea          0   53     0    00    7     Y    Y   Y   Y   Y    Y   Y   Y
-               Loop West Jn
-GW910   CWL1   Craven Arms Jn – Change of Mileage     20   01    20    12    5     N    N   N   N   N    N   N   Y
-GW910   CWL2   Change of Mileage – Site of Former      0   00    59    14    5     N    N   N   N   N    N   N   Y
-               Llandovery Jn
-GW910   VOT    Site of Former Llandovery Jn –         29   40    18    07    5     N    N   N   N   N    N   N   Y
-               Llandeilo
-GW910   LLA    Llandeilo – Pantyffynnon               18   07    10    08    5     N    N   N   N   N    N   N   Y
-GW910   LLA    Pantyffynnon – Morlais Jn              10   08     3    50    5     N    Y   N   N   N    N   N   Y
+         GW730 HDCSite of former Rotherwas Jn – Site of
+                                       0  00 1  74 8  Y Y  Y  Y Y  Y  Y  Y
+                  former Red Hill Jn
+                  Site of former Red Hill Jn – Maindee
+         GW730 HNL1                    1  74 41 66 8  Y Y  Y  Y Y  Y  Y  Y
+                  West Jn
+         GW731 WSJ2
+                  Route Boundary (MD801) (Madeley
+                                      170 46171 15 8  Y Y  Y  Y Y  Y  Y  Y
+                  Jn) – Abbey Foregate Jn
+                  Abbey Foregate Jn – Crewe Jn
+         GW731 WSJ2                   171 15171 57 8  Y Y  Y  Y Y  Y  Y  Y
+                  Crewe Jn – Route Boundary
+         GW731 WSJ2                   171 57199 00 8  Y Y  Y  Y Y  Y  Y  Y
+                  (NW3005) (Wrexham General)
+         GW732 AFEAbbey Foregate Jn – English Bridge
+                                       0  25 0  00 8  Y Y  Y  Y Y  Y  Y  Y
+                  Jn (Loop Lines)
+                  Sutton Bridge Jn – Welshpool
+         GW733 SBA1/                   0  00 33 70 7  N R1 N  Y Y  Y  Y  Y R1Infrastructure maintenance purposes only
+              2                                         R2                 R220mph over bridge SBA1-22 (05m 13ch)
+                  Welshpool – Aberystwyth
+         GW733 SBA2                   33  70 95 60 5  N R1 N  N N  N  N  Y R1Infrastructure maintenance purposes only
+                                                        R2                 R240mph over bridge SBA2-159 (49m 26ch)
+                                                        R3                 R330mph over bridge SBA2-267 (91m 63ch)
+         GW734 DJPDovey Jn – Pwllheli 78  60132 70 5  N R1 N  N N  N  N  Y R1Prohibited between Morfa Mawddach and
+                                                        R2                   Pwllheli
+                                                        R3                R2 Infrastructure maintenance purposes only
+                                                        R4                R3 10mph over bridge DJP-20 (84m 57.5ch)
+                                                                          R4 20mph over bridge DJP-90 (90m 39.5ch)
+         GW735 SYCCrewe Jn – Route Boundary
+                                      32  29 2  60 8  Y Y  Y  Y Y  Y  Y  Y
+                  (NW1007) (Limit of Electrification)
+         GW736 GNQ1 Gobowen South – Commencement of
+                                       0  00 0  16 5  N N  N  N N  N  N  Y
+                  single line board
+         GW740 MAIMaindee East Jn – Maindee North Jn
+                                      41  65 41 33 8  Y Y  Y  Y Y  Y  Y  Y
+         GW750 BNCHereford Yard Jn – Brecon Curve Jn
+                                       0  00 0  19 8  Y Y  Y  Y Y  Y  Y  Y
+                  Brecon Curve Jn – MEB Siding
+         GW750 HNL2                   149 44149 78 8  Y Y  Y  Y Y  Y  Y  Y
+         GW770 EBWEbbw Vale Parkway – Site of Former
+                                      18  45 14 23 5  Y Y  Y  N Y  N  N  Y
+                  Aberbeeg Jn
+         GW770 WVLSite of Former Aberbeeg Jn – Park Jn
+                                      14  23 1  02 5  Y Y  Y  N R1 N  N  Y R130mph over Crumlin bridge No WVL/01148
+                                                                R2           (11m 48ch)
+                                                                          R2 10mph over Newbridge bridge
+                                                                             No.WVL/01048 (10m 48ch)
+         GW770 GAEPark Jn – Gaer Jn (Western Valley
+                                      160 24159 33 8  Y Y  Y  N N  N  Y  Y
+                  Line)
+         GW773 BJRMachen Quarry – Site of Former
+                                       4  69 0  00 6  Y Y  N  N N  Y  N  Y
+                  Bassaleg Jn
 
 
-
-
-  April 2009                                                                     506H
+         April 2009                                 506E

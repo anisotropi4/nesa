@@ -1,10 +1,25 @@
-London-North-Western-North	0999	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0999	NW6009	Windsor Bridge North Jn. - Southport	Windsor Bridge North Jn.	Southport	8	R1	R2	R1 R2	Clear to W6A Ex. (W7) Crow Nest Jn. - Southport. RA8/9/10 vehicles prohibited Windsor Bridge North Jn - Crow Nest Jn. unless down-loaded to 21¼ t maximum laden axle weight. RA9/10 vehicles may run between Wigan Wallgate Jn. and Southport if special dispensation has been granted by the Territory Track Engineer.
-London-North-Western-North	0999	NW6011	Bolton East Jn. - Blackburn Bolton Jn.	Bolton East Jn.	Blackburn Bolton Jn.	8	/	R	R	ELR: BBB Br.47: RA9/10 vehicles restricted to 10mph over the bridge (20m 50ch).
-London-North-Western-North	0999	NW6013	Lostock Jn. - Crow Nest Jn.	Lostock Jn.	Crow Nest Jn.	8	W6A Ex. (W7)	Y	
-London-North-Western-North	0999	NW6015	Wigan Wallgate – Kirkby	Wigan Wallgate	Kirkby	7	/	Y	
-London-North-Western-North	0999	NW7001	Manchester Victoria West Jn. - Hebden Bridge	Manchester Victoria West Jn.	Hebden Bridge	8	R1	R2	R1 R2	SB1C (W9) Manchester Victoria West Jn. - Miles Platting Jn. W6A Ex. (W7) Miles Platting Jn. - Hebden Bridge. RA9/10 vehicles restricted to 20mph between Brewery Jn. and Thorpes Bridge Jn. on the Down Passenger Loop. ELR: MVN2, Br.105: RA9/10 vehicles are restricted to 20mph over the bridge (19mch - 19m 40ch).
-London-North-Western-North	0999	NW7005	Castleton East Jn. - Hopwood G.F.	Castleton East Jn.	Hopwood G.F.	8	/	Y	
-London-North-Western-North	0999	NW7007	Farington Curve Jn. - Ormskirk	Farington Curve Jn.	Ormskirk	8	/	R	R	Freight vehicles may only be permitted subject to special dispensation being granted by the Territory Structures Assessment Engineer.
-London-North-Western-North	0999	NW7009	Farington Curve Jn. - Hall Royd Jn.(East Lancs lines)	Farington Curve Jn.	Hall Royd Jn.(East Lancs lines)	8	R1	R2	R1 R2	W6A Ex. (W7) Farington Curve Jn. - Daisyfield. ELR: FHR4, Br.15: RA9/10 vehicles restricted to 50mph over the bridge, Pleasington Viaduct (7m 64ch to 7m 78ch) in both directions. ELR: FHR4, Br.27: RA9/10 vehicles restricted to 30mph over the bridge (10m 16ch - 10m 27ch). ELR: FHR4, Br.29: RA9/10 vehicles restricted to 20mph over the bridge on the ‘Up & Down’ Through line and the Down Main line (10m 40ch - 10m 60ch). ELR: FHR6, Br.10: RA9/10 vehicles restricted to 20mph over the bridge (28m 60ch - 29mch).
-London-North-Western-North	0999	NW7011	Farington Jn. - Lostock Hall Jn. (Lostock Hall Lines)	Farington Jn.	Lostock Hall Jn. (Lostock Hall Lines)	8	W6A Ex. (W7)	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0999	NW7015	PRG	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	Y	N	N	N	Line out of use
+London-North-Western-North	0999	NW7017	GJC	Gannow Jn – Colne	21	03	27	37	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7019	MPR2	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7021	MVL1	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	H	H	Y	H	N	N	
+London-North-Western-North	0999	NW7021	MVL1	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	H	H	Y	H	N	N	
+London-North-Western-North	0999	NW7021	MVL1	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	H	H	Y	H	N	N	
+London-North-Western-North	0999	NW7021	MVL1	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	H	H	Y	H	N	N	
+London-North-Western-North	0999	NW7021	MVL2	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	H	H	Y	H	N	N	
+London-North-Western-North	0999	NW7021	MVL3	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	H	H	Y	H	N	N	
+London-North-Western-North	0999	NW7023	BPP	Philips Park West Jn – Brewery Jn	0	00	0	18	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7025	PPA1	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7025	PPA1	Philips Park South Jn – Change of Mileage	2	07	3	12	7	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7025	PPA2	Change of Mileage – Ashburys West Jn	0	57	0	00	7	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7027	PPP1	Baguley Fold Jn – Change of Mileage	2	39	2	13	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW7027	PPP2	Change of Mileage – Philips Park South Jn	0	00	0	19	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8001	HXS1	Hunts Cross West Jn – Liverpool Central	6	11	0	02	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8001	HXS2	Liverpool Central – Paradise Jn	37	13	36	71	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8001	HXS2	Paradise Jn – Sandhills Jn	36	71	34	75	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8001	HXS3	Sandhills Jn – Bootle Jn	1	41	2	39	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8001	HXS3	Bootle Jn – Southport	2	39	18	35	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8003	SIL	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8005	SJO1	Sandhills Jn – Walton Jn	34	75	33	16	7	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8005	SJO2	Walton Jn – Ormskirk	3	20	12	13	8	N	N	Y	N	N	N	
+London-North-Western-North	0999	NW8007	HXS/ NMM	Bootle Jn – Change of ELR (Site of Former North Mersey Jn)	2	34	3	52	7	N	N	Y	N	N	N	

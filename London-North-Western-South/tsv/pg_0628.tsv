@@ -1,11 +1,18 @@
-London-North-Western-South	0628	MD740	Flyover Junction (Summit) – Fenny Stratford Bletchley Flyover Junction	Flyover Junction (Summit)	Fenny Stratford Bletchley Flyover Junction	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0628	MD745	Bicester South Jn – Gavray Jn	Bicester South Jn	Gavray Jn	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Western-South	0628	MD801	Wolverhampton North Junction – Donnington Junction	Wolverhampton North Junction	Donnington Junction	Y *	N	N	N	N	N	N	N	
-London-North-Western-South	0628	MD801	Donnington Junction – Abbey Foregate (Exclusive) [170m 46ch]	Donnington Junction	Abbey Foregate (Exclusive) [170m 46ch]	Y *	Y	R1	N	N	N	N	N	R1	The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA, KFA wagons 2595(h) x 2500(w) on FKA,IKA wagons 15mph UP Line Bridge WSJ2-405[ 161m 15ch]
-London-North-Western-South	0628	MD801	Donnington Junction – Donnington (T&WDC boundary)	Donnington Junction	Donnington (T&WDC boundary)	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0628	MD805	Bushbury (Oxley) Junction – Stafford Road Junction	Bushbury (Oxley) Junction	Stafford Road Junction	Y	N	N	N	N	N	N	N	
-London-North-Western-South	0628	MD810	Madeley Junction – Ironbridge e-on Power Station	Madeley Junction	Ironbridge e-on Power Station	Y	N	N	N	N	N	N	N	
-London-North-Western-South	0628	MD900	Abbotswood Jn – Stoke Works Jn via Worcester Shrub Hill	Abbotswood Jn	Stoke Works Jn via Worcester Shrub Hill	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0628	MD910	Pershore (excl) – Norton Jn	Pershore (excl)	Norton Jn	Y *	N	N	N	N	N	N	N	
-London-North-Western-South	0628	MD940	Worcester Shrub Hill – Shelwick Jn	Worcester Shrub Hill	Shelwick Jn	S1 *	N	N	N	N	N	N	N	S1	Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons
-London-North-Western-South	0628	MD950	Worcester Tunnel Jn – Henwick	Worcester Tunnel Jn	Henwick	Y	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-South	0628	MD736	OXD	Route Boundary (GW277) –Gavray Junction	29	25	19	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	8	Y	Y	Y	Y	R1	Y	Y	Y	Y	R1 Prohibited Temporary Buffer Stops to Gates (Claydon)
+London-North-Western-South	0628	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	8	N	N	N	N	N	N	N	N	N	Line non operational
+London-North-Western-South	0628	MD736	OXD	Buffer Stops – Flyover Junction (Change of ELR)	1	27	0	62	8	Y	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Western-South	0628	MD736	BFO	Flyover Junction (Change of ELR) – Flyover Junction Summit	0	00	0	68	8	Y	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Western-South	0628	MD736	DHF	Flyover Junction Summit – Limit of Electrification	0	68	1	37	8	Y	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Western-South	0628	MD736	DHF	Limit of Electrification – Bletchley Flyover North Jn	1	37	1	61	8	Y	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Western-South	0628	MD736	DHF	Bletchley Flyover North Jn – Denbigh Hall South Jn	1	61	1	73	8	Y	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Western-South	0628	MD740	BFO	Flyover Jn (Summit) – Fenny Stratford Bletchley Flyover Jn	0	68	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD745	BSG	Bicester South Junction – Gavray Junction	0	00	0	52	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD801	WSJ1	Wolverhampton North Jn – Oxley, Stafford Road Jn (Change of Mileage)	143	52	142	79	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD801	WSJ2	Oxley, Stafford Road Jn (Change of Mileage) – Limit of Electrification	143	02	143	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD801	WSJ2	Limit of Electrification – Madeley Jn	143	65	156	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD801	WSJ2	Madeley Jn – Route Boundary (GW731) (Abbey Foregate )	156	19	170	46	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD805	OXC	Bushbury (Oxley) Jn – Stafford Road Jn	1	02	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD810	MJI1	Madeley Junction – Site of Former Lightmoor Jn	156	19	160	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0628	MD810	MJI2	Site of Former Lightmoor Jn – Ironbridge Power Station (NR Boundary)	156	19	160	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

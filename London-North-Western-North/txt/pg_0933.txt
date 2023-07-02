@@ -1,45 +1,67 @@
-                                                                                     OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                  LNW North Route Sectional Appendix Module NWRC
+                                       LNW North Route Sectional Appendix Module NWRC
 
 
 
-Line of ELR    Line of Route / Sector Description           oooo oooo oooo oooo RA 08 09 20 31/1 31/4 33 37/0 37/5 Notes
-route                                                        M    Ch M Ch 0000 0000 0000 0000 31/6 0000 0000 37/3 0000 ooooooooooooooooooooooooooo
-                                                                                              0000           37/4
-                                                                                                             37/6
-                                                                                                             0000
-NW1021 DSE     Earlestown East Jn - Newton-le-Willows Jn     14     75    16   19    8    Y     Y    Y    Y        Y   Y   Y   Y
-               (Electrified section)
-NW1021 NGJ     Newton-le-Willows Jn – Golborne Jn             0     00     0   53    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW1023 HOB2    Haydock Branch Jn – End of Line                0     00     0   53    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW1025 IMG     Bamfurlong Sidings Jn – Ince Moss Jn           0     18     0   78    7    Y     Y    Y    Y        Y   Y   Y   Y
-NW1027 PSR1    Preston South Jn – Preston Docks Branch       21     39    21   47    8    Y     Y    Y    Y        Y   Y   Y   Y
-               (Change of ELR)
-NW1027 PSR2    Preston Docks Branch (Change of ELR) –         0     00     0   40    8    Y     Y    Y    Y        Y   Y   Y   Y
-               Network Rail Boundary (Ribble Steam
-               Railway)
-NW2001 WJL1    NW1001 (Weaver Jn) – Ditton East Jn          174     53   182   67    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2001 WJL2    Ditton East Jn – Speke East Jn               182     67   186   72    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2001 WJL3    Speke Est Jn – Edge Hill East Jn             186     72   191   75    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2001 WJL4    Edge Hill East Jn – Liverpool Lime Street    191     75   193   52    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2003 RDB     Runcorn – Network Rail Boundary (Runcorn       0     02     0   69    8    Y     Y    Y    Y        Y   Y   Y   Y
-               Dock Branch)
-NW2005 SCR     Speke East Jn – Garston Jn                    22     59    23   52    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2007 AEG     Allerton East Jn – Garston Jn                  0     00     0   28    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2009 SDJ2    End of Line (Latchford) – Ditton East Jn      10     06    18   55    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2011 WOA1 Walton Old Jn – Arpley Jn                         0     68     0   00    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2015 DSE     Ordsall Lane Jn – Newton-le-Willows Jn        30     38    16   19    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2015 DSE     Newton-le-Willows Jn - Earlestown East Jn     16     19    14   75    8    Y     Y    Y    Y        Y   Y   Y   Y
-               (Electrified section)
-NW2015 DSE     Earlestown East Jn - Edge Hill                14     75     1   57    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2017 SCN     Eccles Station Jn – Network Rail (Weaste       0     00     0   54    8    Y     Y    Y    Y        Y   Y   Y   Y
-               Branch) / MSC Boundary
-NW2019 PJL     Parkside Jn – Lowton Jn (East Curve lines)     0     05     0   36    8    Y     Y    Y    Y        Y   Y   Y   Y
-NW2021 EEE     Earlestown South Jn – Earlestown West Jn     186     74   187   15    8    Y     Y    Y    Y        Y   Y   Y   Y
-               (Liverpool Curve)
-NW2023 SBH3    Springs Branch Jn – Gerards Bridge Jn         12     54     5   66    7    Y     Y    Y    Y        Y   Y   Y   Y
+              Carnforth North Jn – Carnforth Station
+     NW4033 CBC1                   0  19  0 38  Y  Y   Y  N   N  N   Y  N   N
+              Jn
+              Carnforth Station Jn – Limit of
+     NW4033 CBC1                   0  38  0 60  Y  Y   Y  N   N  N   Y  N   N
+              Electrification (Carnforth)
+              Limit of Electrification (Carnforth) –
+     NW4033 CBC1                   0  60 74 66  Y  Y   Y  N   N  N   Y  N   N
+              Whitehaven
+              Whitehaven – Bransty SB (Change of
+     NW4033 CBC1                   74 66 74 73  Y  Y   Y  N   N  N   Y  N   N
+              ELR)
+              Bransty SB (Change of ELR) –
+     NW4033 CBC2                   0  16 12 05  Y  Y   Y  N   N  N   Y  N   N
+              Change of ELR (Maryport)
+              Change of ELR (Maryport) – Carlisle
+     NW4033 CBC3                   0  00 27 49 EH  EH EH  N   N  N   N  N   N
+              South Jn
+              Dalton Jn – Park South Jn
+     NW4041 DAP                    0  00  0 76  Y  Y   Y  N   N  N   Y  N   N
+              Crewe North Jn – Sandbach North Jn
+     NW5001 CMP1                  158 17162 62  Y  Y   Y  N   Y  Y   Y  Y   Y
+              Sandbach North Jn – Wilmslow South
+     NW5001 CMP1                  162 62176 53  Y  Y   Y  N   Y  Y   Y  Y   Y
+              Jn
+              Wilmslow South Jn – Cheadle Hulme
+     NW5001 CMP1                  176 53180 67  Y  Y   Y  N   Y  Y   Y  Y   Y
+              North Jn
+              Cheadle Hulme North Jn – Edgeley Jn 180
+     NW5001 CMP1                      67182 36  Y  Y   Y  N   Y  Y   Y  Y   Y
+              No.1
+              Edgeley Jn No.1 – Edgeley Jn
+     NW5001 CMP2                  182 36182 59  Y  Y   Y  N   Y  Y   Y  Y   Y
+              Edgeley Jn – Slade Lane Jn
+     NW5001 CMP2                  182 59186 46  Y  Y   Y  N   Y  Y   Y  Y   Y
+              Slade Lane Jn – Ardwick Jn
+     NW5001 CMP2                  186 46188 08  Y  Y   Y  N   Y  Y   Y  Y   Y
+              Ardwick Jn – Manchester Piccadilly
+     NW5001 CMP2                  188 08188 48  Y  Y   Y  N   Y  Y   Y  Y   Y
+              East Jn
+              Manchester Piccadilly East Jn –
+     NW5001 CMP2                  188 48188 70  Y  Y   Y  N   Y  Y   Y  Y   Y
+              Manchester Piccadilly
+              Wilmslow South Jn – Heald Green
+     NW5003 STY                    0  00  2 50  Y  Y   Y  N   Y  N   Y  Y   Y
+              South Jn
+              Heald Green South Jn – Heald Green
+     NW5003 STY                    2  50  3 13  Y  Y   Y  N   Y  N   Y  Y   Y
+              North Jn
+              Heald Green North Jn – Slade Lane
+     NW5003 STY                    3  13  9 44  Y  Y   Y  N   Y  N   Y  Y   Y
+              Jn
+              Heald Green South Jn – Heald Green
+     NW5005 SMA                    1  48  1 10  Y  Y   Y  N   N  N   Y  N   Y
+              West Jn
 
 
-October 2009                                                                             39
+
+
+    October 2009                                     36

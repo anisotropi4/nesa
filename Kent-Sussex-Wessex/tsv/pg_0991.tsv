@@ -1,7 +1,15 @@
-Kent-Sussex-Wessex	0991	Line of route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Kent-Sussex-Wessex	0991					W6a	W7	W8	W9	W9Plus	W10	W10A	W12
-Kent-Sussex-Wessex	0991	SO110	Victoria (Eastern) – Factory Jn	Victoria (Eastern)	Factory Jn	Y *	N	N	N	N	N	N	N
-Kent-Sussex-Wessex	0991	SO110	Factory Jn – Brixton Jn	Factory Jn	Brixton Jn	Y *	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0991	SO110	Brixton Jn – Shortlands Jn	Brixton Jn	Shortlands Jn	S1 *	S2	N	N	N	N	N	N	S1 The following combination is permitted, up to: 2438 (h) x 2438 (w) box on FEA wagons S2 The following combination is permitted, up to: 2438 (h) x 2438 (w) box on KFA wagons
-Kent-Sussex-Wessex	0991	SO110	Shortlands Jn – Swanley Jn	Shortlands Jn	Swanley Jn	Y	Y	Y	Y	N	N	N	N
-Kent-Sussex-Wessex	0991	SO110	Swanley – Rochester, Fort Pitt Tunnel western portal via Sole Street	Swanley	Rochester, Fort Pitt Tunnel western portal via Sole Street	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2590 (h) x 2500 (w) box on FEA FSA/FTA wagons 2667 (h) x 2500 (w) box on FAA FLA wagons 25 mph Both lines Br. VIR-97 [17m 67ch] 15 mph Both lines Br. VIR-106 [21m 21ch] 35 mph Both lines Br. VIR-127 [27m 30ch] Prohibited Rochester Up Chatham Up Rochester Loop – enter Fort Pitt Tunnel
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	57	58	59	60	66	67	68	70	73	97/3	Notes
+Kent-Sussex-Wessex	0991	SO520	TBH1	Billingshurst – Arundel Jn	44	71	59	75	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	TBH2	Arundel Jn – Barnham	19	01	22	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	TBH2	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	TBH2	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	WPH2	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	WPH2	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	WPH2	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO520	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	7*	Y	Y	Y	Y	Y	Y	Y	Y	R1	Y	R1 Prohibited from platforms 1 & 3 at Portsmouth Harbour unless hauling Infrastructure Monitoring Trains
+Kent-Sussex-Wessex	0991	SO530	SCU1	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0991	SO530	SCU1	Sanderstead – Hurst Green Jn	12	23	21	35	6	Y	R1	R1	R1	R2	R1	R1	R1	Y	Y	R1 Prohibited beyond 12m 40ch R2 - 60mph over Riddlestown Viaduct between Riddlestown and Workingham (14m 56ch – 14m 63ch)
+Kent-Sussex-Wessex	0991	SO530	HGG1	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	6	Y	N	N	N	N	N	N	N	Y	Y	
+Kent-Sussex-Wessex	0991	SO540	SCU1	Hurst Green Jn – Uckfield	21	35	46	08	4	R1	N	N	N	N	N	N	N	R1	R1	R1 30mph over Red Lane Bridge (SCU1 526) (21m 78ch) STNC/G1/2010/ICP-RA/SO018a until 31 December 2017

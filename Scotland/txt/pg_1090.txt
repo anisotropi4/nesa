@@ -1,48 +1,69 @@
-                                                                                      OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                                  Scotland Route Sectional Appendix Module SCRC
+     Line of
+          ELR  Line of Route / Sector Description
+                                    oooo oooo oooo oooo RA
+                                                     4347/2 47/4 47/7
+                                                                 56 57 58 Notes
+     route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
 
-Line of   ELR    Line of Route / Sector Description        oooo oooo oooo oooo RA 86   87              88     90  91    92 Notes
-route                                                       M    Ch   M    Ch 000 000 000                    000 000   000 ooooooooooooooooooooooooo
-SC107     EGM2   Haymarket – Haymarket East Jn (South        46     02     45    72    10    Y    Y     Y     Y   Y    Y
-                 Lines)
-SC107     ECN2   Haymarket – Haymarket East Jn (North        1      19      1    29    10    Y    Y     Y     Y   Y    Y
-                 Lines)
-SC107     EGM2   Haymarket East Jn – Haymarket Central       45     72     45    35    10    Y    Y     Y     Y   Y    Y
-                 Jn (South Lines)
-SC107     ECN2   Haymarket East Jn – Haymarket Central       1      29      1    66    10    Y    Y    R1     Y   Y    Y   R1   Prohibited Haymarket East Jn - Haymarket
-                 Jn (North Lines)                                                                                               Central Jn on the Up North
-SC107     EGM2   Haymarket Central Jn – Haymarket West       45     35     44    73    10    Y    Y     Y     Y   Y    Y
-                 Jn (South Lines)
-SC107     ECN2   Haymarket Central Jn – Haymarket West       1      66      2    41    10    N    N     Y     N   N    N
-                 Jn (North Lines)
-SC107     EGM1   Haymarket West Jn – Cowlairs West Jn        44     73      1    67    10    Y    Y     Y     Y   N    Y
-SC107     EGM1   Cowlairs West Jn – Glasgow Queen             1     67      0    00    8     Y    Y     Y     Y   N    Y
-                 Street
-SC109     PMT    Polmont Jn – Grangemouth Jn                 21     20     23    75    10    Y    Y     Y     Y   N    Y
-SC109     PMT    Grangemouth Jn – Carmuirs East Jn           23     75     25    79    10    Y    Y     Y     Y   N    Y
-SC109     CMS    Carmuirs East Jn – Carmuirs West Jn          0     40     -0     2    10    Y    Y     Y     Y   N    Y
-SC109     SCM3   Carmuirs West Jn – Greenhill Lower Jn      108     74    106    62    10    Y    Y     Y     Y   N    Y
-SC109     GHL    Greenhill Lower Jn – Greenhill Upper Jn      0     52      0    00    10    N    N     Y     N   N    N
-SC110     PMT    Carmuirs East Jn – Larbert Jn               25     79     26    35    10    N    N     Y     N   N    N
-SC111     NBE    Newbridge Jn – Bathgate                     35     21     25    18    10    N    N     Y     N   N    Y
-SC113     DMY    Winchburgh Jn – Dalmeny Jn                  34     54     39    03    8     N    N     Y     N   N    N   R1   RA Change
-                                                                                                                                STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                                                       R1
-SC115     MRL1   Cowlairs West Jn – Maryhill Park Jn          8     26      5    51    10    N    N     Y     N   N    N
-SC115     MRL2   Maryhill Park Jn – Knightswood North Jn      4     40      5    67    8     N    N     Y     N   N    N
-SC1150    MLA    Maryhill Park Jn – Anniesland                0     00      0    70    5     N    N     N     N   N    N
-SC116     CSN    Cowlairs East Jn – Cowlairs North Jn         0     00      0    21    10    N    N     Y     N   N    N
-SC117     GMH    Grangemouth Jn – Grangemouth                 0     00      3    67    10    N    N     Y     Y   N    N
-SC119     GHL    Greenhill Upper Jn – Greenhill Lower Jn      0     00      0    52    10    N    N     Y     N   N    N
-SC119     SCM3   Greenhill Lower Jn – Carmuirs West Jn      106     62    108    74    10    Y    Y     Y     Y   N    Y
-SC119     SCM3   Carmuirs West Jn – Stirling Middle Jn      108     76    118    08    10    N    N     Y     N   N    N
-SC119     SCM3   Stirling Middle Jn – Change of ELR         118     08    123    40    10    N    N     Y     N   N    N
-                 (Dunblane)
-SC119     SCM4   Change of ELR (Dunblane) – Perth South     123     40    150    61    10    N    N     Y     N   N    N
-                 Jn
+     SC151LHS1 Portobello – Leith South Yard (Goods
+                                      0  00  2  2010 N  Y  Y  Y  Y  Y  Y
+               Line)
+     SC153CPH  Craigentinny – Powderhall (Goods Line)
+                                      0  00  1  7810 N  Y  Y  Y  Y  Y  Y
+     SC155MHL1 Monktonhall Jn – Change of ELR
+                                      0  11  5  6010 Y  Y  Y  Y  Y  Y  Y
+     SC155MHL2 Change of ELR – Millerhill East Jn
+                                      1  40  0  2810 Y  Y  Y  Y  Y  Y  Y
+     SC155MHL3 Millerhill East Jn – Millerhill Yard (Goods
+                                      0  00  0  1910 Y  Y  Y  Y  Y  Y  Y
+               Line)
+     SC157MLE  Millerhill South Jn – Millerhill East Jn
+                                      0  09  0  2810 Y  Y  Y  Y  Y  Y  Y
+               (Goods Line)
+     SC159NDE2 Millerhill West Jn – Millerhill South Jn /
+                                      6  52  5  7210 Y  Y  Y  Y  Y  Y  Y
+               Millerhill Yard
+     SC161NDE1 Millerhill Yard – Junction with Niddrie West
+                                      5  52  3  3610 Y  Y  Y  Y  Y  Y  Y
+               Line
+     SC161SUB1 Junction with Niddrie West Line –
+                                      3  36  3  3010 Y  Y  Y  Y  Y  Y  Y
+               Portobello
+     SC161MHL4 Newcraighall East Jn – Network Rail /
+                                      00 00 00  08N  N  N  N  N  N  N  N
+               Abellio Scotrail Boundary
+     SC163SUB1 Portobello – Change of ELR
+                                      3  30  4  0010 Y  Y  Y  Y  Y  Y  Y
+     SC163SUB2 Change of ELR – Niddrie West
+                                      6  69  6  3010 Y  Y  Y  Y  Y  Y  Y
+     SC164NNS  Newcraighall North Jn – Newcraighall
+                                      4  63  5  023  N  R1 R1 R1 N  N  N R1 55mph maximum speed
+               South Jn
+     SC164SBO  Newcraighall South Jn – Tweedbank
+                                      5  02 35  343  N  R1 R1 R1 N  N  N R1 55mph maximum speed
+                                                        R2 R2 R2         R2 30mph maximum speed over the following:
+                                                        R3 R3 R3             UB011/070 (27m 46ch)
+                                                           R4                UB011/056 (22m 04ch)
+                                                           R5                UB011/054 (21m 58ch)
+                                                                         R3 RA6 vehicles 30mph maximum speed over the
+                                                                            following:
+                                                                             UB011/072 (28m 31ch)
+                                                                             UB011/067 (25m 44ch)
+                                                                         R4 RA7 vehicles 20mph maximum speed over the
+                                                                            following:
+                                                                             UB011/072 (28m 31ch)
+                                                                             UB011/067 (25m 44ch)
+                                                                         R5 30mph maximum speed over the following:
+                                                                             UB011/061 (24m 03ch)
+                                                                             UB011/060 (23m 59ch)
+                                                                             UB011/053 (21m 40ch)
 
-October 2009                                                                    118
+
+
+
+     October 2009                               91

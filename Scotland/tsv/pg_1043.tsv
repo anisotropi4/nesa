@@ -1,15 +1,26 @@
-Scotland	1043	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Scotland	1043	SC193	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC193	HGL2	Welsh's Bridge Jn	Inverness platforms 1-4	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	ECN5	Aberdeen	Change of ELR	Aberdeen – Change of ELR	241	06	241	08	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	ANI1	Change of ELR	Keith Jn SB	Change of ELR – Keith Jn SB	0	00	53	05	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	ANI2	Keith Jn SB	Forres	Keith Jn SB – Forres	30	40	0	00	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	ANI3	Forres	Milburn Jn	Forres – Milburn Jn	119	26	143	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	HGL2	Milburn Jn	Welsh's Bridge Jn	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC195	HGL2	Welsh's Bridge Jn	Inverness platforms 1-4	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC197	WRO	Kittybrewster	Waterloo Goods (Goods Line)	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	8	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC199	DFN	Keith Jn	End of Line	Keith Jn – End of Line	53	06	53	36	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC203	RSW	Welsh's Bridge Jn	Rose Street Jn	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	Y	Y
-Scotland	1043	SC203	WCK	Inverness platforms 5-7	Rose Street Jn	Inverness platforms 5-7 – Rose Street Jn	0	02	0	18	5 R1	Y	Y	Y	Y	N	N	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC011 applies until 30/09/2014
-Scotland	1043	SC203	WCK	Rose Street Jn	Invergordon	Rose Street Jn – Invergordon	0	18	31	37	5 R1	Y	Y	Y	Y	N	N	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC011 applies until 30/09/2014
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
+Scotland	1043	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	
+Scotland	1043	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	
+Scotland	1043	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	N	N	N	
+Scotland	1043	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	N	N	N	N	N	N	
+Scotland	1043	SC191	ECN3	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	N	N	N	N	N	N	
+Scotland	1043	SC191	ECN4	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	N	N	N	N	N	N	
+Scotland	1043	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	N	N	N	N	N	N	
+Scotland	1043	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	N	N	N	N	N	N	
+Scotland	1043	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	N	N	N	N	N	N	
+Scotland	1043	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	N	N	N	N	N	N	
+Scotland	1043	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	N	N	N	N	N	N	
+Scotland	1043	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	N	N	N	
+Scotland	1043	SC193	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	N	
+Scotland	1043	SC193	HGL2	Welsh's Bridge Jn – Inverness platforms 1 - 4	117	56	118	03	N	N	N	N	N	N	
+Scotland	1043	SC195	ECN5	Aberdeen – Change of ELR	241	06	241	08	N	N	N	N	N	N	
+Scotland	1043	SC195	ANI1	Change of ELR – Keith Jn SB	0	00	53	05	N	N	N	N	N	N	
+Scotland	1043	SC195	ANI2	Keith Jn SB – Forres	30	40	0	00	N	N	N	N	N	N	
+Scotland	1043	SC195	ANI3	Forres – Milburn Jn	119	26	143	39	N	N	N	N	N	N	
+Scotland	1043	SC195	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	N	N	N	
+Scotland	1043	SC195	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	N	
+Scotland	1043	SC195	HGL2	Welsh's Bridge Jn – Inverness platforms 1 - 4	117	56	118	03	N	N	N	N	N	N	
+Scotland	1043	SC197	WRO	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	N	N	N	N	N	N	
+Scotland	1043	SC199	DFN	Keith Jn – End of Line	53	06	53	36	N	N	N	N	N	N	
+Scotland	1043	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	N	
+Scotland	1043	SC203	WCK	Inverness platforms 5 - 7 – Rose Street Jn	0	02	0	18	N	N	N	N	N	N	

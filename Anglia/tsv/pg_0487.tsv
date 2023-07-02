@@ -1,25 +1,14 @@
-Anglia	0487	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Anglia	0487	EA1370	TAH3	Barking Station Jn	Barking Tilbury Jn West	Barking Station Jn – Barking Tilbury Jn West	13	12	13	42	8	Y
-Anglia	0487	EA1370	TAH4	Barking Station Jn	Barking Platform 1	Barking Station Jn – Barking Platform 1	13	12	13	62	8	Y
-Anglia	0487	EA1380	FSS1	Fenchurch Street	Gas Factory Jn	Fenchurch Street – Gas Factory Jn	0	00	2	57	3	Y
-Anglia	0487	EA1380	FSS1	Gas Factory Jn	East Ham Depot	Gas Factory Jn – East Ham Depot	2	57	6	18	3	Y
-Anglia	0487	EA1380	FSS1	East Ham Depot	Barking Tilbury Jn West	East Ham Depot – Barking Tilbury Jn West	6	18	7	33	3	R	R1 Prohibited between East Ham Depot and Barking Tilbury Jn
-Anglia	0487	EA1380	FSS2	Barking Tilbury Jn West	Barking Tilbury Jn East	Barking Tilbury Jn West – Barking Tilbury Jn East	7	33	7	60	8	Y
-Anglia	0487	EA1380	FSS2	Barking Tilbury Jn East	Upminster	Barking Tilbury Jn East – Upminster	7	60	15	20	8	Y
-Anglia	0487	EA1380	FSS2	Upminster	Southend Central	Upminster – Southend Central	15	20	35	55	8	Y
-Anglia	0487	EA1380	FSS3	Southend Central	Shoeburyness	Southend Central – Shoeburyness	35	55	39	40	8	Y
-Anglia	0487	EA1390	TLL	Barking Tilbury Line Jn East	Former Tilbury West Jn	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	8	Y
-Anglia	0487	EA1390	TLL	Former Tilbury West Jn	Pitsea Jn	Former Tilbury West Jn – Pitsea Jn	22	06	32	43	8	Y
-Anglia	0487	EA1400	GFB	Gas Factory Jn	Bow Jn	Gas Factory Jn – Bow Jn	2	57	3	47	3	Y
-Anglia	0487	EA1410	FSS2	Upminster	Upminster East Jn	Upminster – Upminster East Jn	15	20	15	39	8	Y
-Anglia	0487	EA1410	UPG	Upminster East Jn	West Thurrock Jn	Upminster East Jn – West Thurrock Jn	0	00	6	56	8	Y
-Anglia	0487	EA1420	THN	Thames Haven Jn	Thames Haven	Thames Haven Jn – Thames Haven	26	41	30	18	8	Y
-Anglia	0487	EA1430	ESK	East Suffolk Jn	Westerfield Jn	East Suffolk Jn – Westerfield Jn	69	41	73	23	8	Y
-Anglia	0487	EA1430	ESK	Westerfield Jn	Oulton Broad North Jn	Westerfield Jn – Oulton Broad North Jn	73	23	116	27	7	R1 R2 R3	R1 Prohibited between Westerfield Jn and Woodbridge Single Line Jn on the Down line R2 Prohibited between Westerfield Jn and Woodbridge Single Line Jn on the Up line R3 Prohibited between Darsham and Halesworth on the Down line
-Anglia	0487	EA1440	FEL	Westerfield Jn	Felixstowe Beach Jn	Westerfield Jn – Felixstowe Beach Jn	73	23	83	57	7	Y
-Anglia	0487	EA1440	FEL	Felixstowe Beach Jn	Felixstowe town	Felixstowe Beach Jn – Felixstowe town	83	57	84	30	7	Y
-Anglia	0487	EA1450	TFN	Trimley	Port of Felixstowe North Quay Terminal	Trimley – Port of Felixstowe North Quay Terminal	0	00	0	18	7	Y
-Anglia	0487	EA1460	FED	Felixstowe Beach Jn	Felixstowe Beach	Felixstowe Beach Jn – Felixstowe Beach	83	57	86	34	7	Y
-Anglia	0487	EA1470	NOL	Thorpe Jn	Limit of Electrification	Thorpe Jn – Limit of Electrification	0	09	0	79	7	Y
-Anglia	0487	EA1470	NOL	Limit of Electrification	Reedham Jn	Limit of Electrification – Reedham Jn	0	79	12	34	7	Y
-Anglia	0487	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	7	Y
+Route	page	Line of Route	Line of Route / Sector Description	GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Anglia	0487	EA1380	Barking Tilbury Jn West – Upminster	N	Y *	Y	Y	R1 R2	N	Y	N	N	R1 W9 Prohibited on up line through Upminster station (Platform 1). Platform 2 is Bi-directional R2 15mph at Bridge 30 at 14m 20ch London side of Upminster on Up and Down lines.
+Anglia	0487	EA1380	Upminster – Shoeburyness	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0487	EA1390	Barking Tilbury Line Jn East – Former Tilbury West Jn	R1	Y	Y	Y	Y	N	Y	N	N	R1 GB1/2 between the following locations and via the following lines only: • Exchange Sidings Nos 1, 2 & 3 and Hanson Sidings/Ford Motor Company Sidings (via Ford Motor Company Connecting line) • Exchange Sidings Nos 1, 2 & 3 and the CTRL lines (via the Ripple Lane Chords) • Ripple Lane West Yard Siding No 1 and Exchange Sidings Nos 1, 2 & 3 (via Renwick Road Jn) • Ripple Lane West Yard Siding No 1 and western entrance to Barking Freightliner Depot (via the Goods lines) Ripple Lane West Yard Siding No 1 and Stora Sidings.
+Anglia	0487	EA1390	Former Tilbury West Jn – Pitsea via Tilbury	N	Y	Y	Y	R1	N	R1	N	N	R1 W9 and W10 between former Tilbury West Jn and Thames Haven Jn only.
+Anglia	0487	EA1400	Gas Factory Jn – Bow Jn	N	Y *	N	N	N	N	N	N	N	
+Anglia	0487	EA1410	Upminster – West Thurrock Jn	N	Y *	Y	Y	Y	N	Y	N	N	
+Anglia	0487	EA1420	Thames Haven Jn – Thames Haven	N	Y *	Y	Y	Y	N	Y	N	N	
+Anglia	0487	EA1430	East Suffolk Jn – Westerfield Jn	N	Y	Y	Y	N	N	Y	N	N	
+Anglia	0487	EA1430	Westerfield Jn – Oulton Broad North Jn	N	Y	N	N	N	N	N	N	N	
+Anglia	0487	EA1440	Westerfield Jn – Felixstowe Beach Jn	N	Y*	Y	Y	N	N	Y	N	N	
+Anglia	0487	EA1440	Felixstowe Beach Jn– Felixstowe Town	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0487	EA1450	Trimley – Port of Felixstowe North Quay Terminal	N	Y *	Y	Y	N	N	Y	N	N	
+Anglia	0487	EA1460	Felixstowe Beach Jn – Felixstowe Beach	N	Y	Y	Y	N	N	Y	N	N	

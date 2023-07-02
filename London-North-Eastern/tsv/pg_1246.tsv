@@ -1,18 +1,8 @@
-London-North-Eastern	1246	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-London-North-Eastern	1246					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-London-North-Eastern	1246	LN618	Holgate Jn – Skelton Jn (avoiding York station)	Holgate Jn	Skelton Jn (avoiding York station)	Y *	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1246	LN620	King Edward Bridge East Jn – King Edward Bridge North Jn	King Edward Bridge East Jn	King Edward Bridge North Jn	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1246	LN622	Forth Branch	Forth Branch		Y	N	N	N	N	N	N	N
-London-North-Eastern	1246	LN624	Northallerton, Castle Hills Jn – Castle Hills West GF	Northallerton, Castle Hills Jn	Castle Hills West GF	Y	N	N	N	N	N	N	N
-London-North-Eastern	1246	LN626	Northallerton High Jn – Northallerton East Jn	Northallerton High Jn	Northallerton East Jn	Y	Y	Y	N	N	N	N	N
-London-North-Eastern	1246	LN627	Northallerton, Longlands Jn – Billingham Jn	Northallerton, Longlands Jn	Billingham Jn	Y *	Y	Y	R1	R1	R1	R1	R1	R1 Between Eaglescliffe South Jn and Stockton Cut only
-London-North-Eastern	1246	LN627	Billingham Jn – Ryhope Grange	Billingham Jn	Ryhope Grange	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1246	LN627	Ryhope Grange – Boldon East Jn	Ryhope Grange	Boldon East Jn	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1246	LN627	Boldon East Jn – Boldon West Jn	Boldon East Jn	Boldon West Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1246	LN627	Boldon West Jn – Park Lane Jn	Boldon West Jn	Park Lane Jn	Y *	Y	Y	Y	N	Y	N	N
-London-North-Eastern	1246	LN627	Park Lane Jn – Newcastle East Jn	Park Lane Jn	Newcastle East Jn	Y *	Y	Y	N	N	N	N	N
-London-North-Eastern	1246	LN627	Dawdon Junction – Seaham Harbour (NR Limit) [1m 36ch]	Dawdon Junction	Seaham Harbour (NR Limit) [1m 36ch]	Y *	N	N	N	N	N	N	N
-London-North-Eastern	1246	LN628	South Hylton – Sunderland South Jn	South Hylton	Sunderland South Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
-London-North-Eastern	1246	LN629	Pelaw Metro Jn – Pelaw South Jn	Pelaw Metro Jn	Pelaw South Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
-London-North-Eastern	1246	LN630	Pelaw North Jn – Pelaw Metro Jn	Pelaw North Jn	Pelaw Metro Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
-London-North-Eastern	1246	LN631	Darlington South Jn – Eaglescliffe South Jn	Darlington South Jn	Eaglescliffe South Jn	Y *	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1246	LN101	Peterborough – Doncaster, Marshgate Jn	R1	Y	Y	Y	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R1 PNA wagons restricted to 40mph through Newark North Gate when operating in tare condition R2 PROHIBITED Werrington Jn to South Yorkshire Jn R3 PROHIBITED on the Up Platform Loop through Doncaster platform 1 R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED on the Down Platform Loop through Doncaster platform 8 R7 PROHIBITED from Doncaster West Yard R8 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Goods R9 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Slow R10 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Up Slow R11 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Thorne Slow R12 PROHIBITED Werrington Jn to Shaftholme Jn R13 PROHIBITED on Peterborough Eastfield South Down Arrival R14 PROHIBITED on Peterborough Eastfield North Down Departure
+London-North-Eastern	1246	LN101	Doncaster, Marshgate Jn – Shaftholme Jn	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1246	LN101	Helpston Junction – Peterborough (Stamford Lines)	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1246	LN101	Decoy North Junction – Bridge Junction (Down Side Sidings)	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1246	LN101	Potteric Carr Junction – Bridge Junction (Up Side Sidings)	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1246	LN105	Moorgate – Finsbury Park Jn	N	N	N	N	N	N	N	N	
+London-North-Eastern	1246	LN110	Canonbury West Jn – Finsbury Park Jn	Y	Y	Y	Y	Y	Y	Y	Y	

@@ -1,18 +1,29 @@
-London-North-Western-North	0994	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	0994	NW2001	Weaver Jn. – Liverpool Lime Street	Weaver Jn.	Liverpool Lime Street	8	SB1C (W9) R1	R2	R1 R2	SB1C Weaver Jn. – Edge Hill only. RA9/10 loaded freight vehicles are normally permitted between Weaver Jn. and Edge Hill only, but may also be permitted between Edge Hill and Liverpool Lime Street subject to the Territory Track Engineer granting special dispensation. Between Wavertree Jn. and Edge Hill station such vehicles must only be routed on the Down and Up Ditton Fast lines.
-London-North-Western-North	0994	NW2003	Runcorn - I.C.I. Salt Works (Runcorn Dock Branch)	Runcorn	I.C.I. Salt Works (Runcorn Dock Branch)	8	W6A Ex. (W8)	R	R	ELR: RDB, Bridge No.4 (Folly Lane, Siding Line) vehicles which exceed the RA of the line are prohibited.
-London-North-Western-North	0994	NW2005	Speke Jn. - Garston Jn.	Speke Jn.	Garston Jn.	8	SB1C (W9)	Y	
-London-North-Western-North	0994	NW2007	Allerton East Jn. - Garston Jn.	Allerton East Jn.	Garston Jn.	8	SB1C (W9)	Y	
-London-North-Western-North	0994	NW2009	Arpley Jn. - Ditton East Jn	Arpley Jn.	Ditton East Jn	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0994	NW2011	Walton Old Jn. - Arpley Jn.	Walton Old Jn.	Arpley Jn.	8	W9 & W10	R	R	W11 and W12 prohibited.
-London-North-Western-North	0994	NW2015	Ordsall Lane Jn. - Edge Hill	Ordsall Lane Jn.	Edge Hill	8	R1 R2	R3	R1 R2 R3	W12 Ordsall Lane Jn – Newton-le-Willows Jn SBC1 (W9) Newton-le-Willows Jn to Edge Hill ELR: DSE, Br.107 – RA9/10 loaded freight vehicles restricted to 30mph over bridge 20mch and 19m 60ch.
-London-North-Western-North	0994	NW2017	Eccles – Weaste	Eccles	Weaste	8	/	Y	
-London-North-Western-North	0994	NW2019	Parkside Jn. - Lowton Jn. (East Curve lines).	Parkside Jn.	Lowton Jn. (East Curve lines).	8	W6A Ex. (W12)	R	R	RA9/10 vehicles restricted to 10mph throughout.
-London-North-Western-North	0994	NW2021	Earlestown South. Jn. - Earlestown West Jn. (Liverpool Curve).	Earlestown South. Jn.	Earlestown West Jn. (Liverpool Curve).	8	SB1C (W9)	Y	
-London-North-Western-North	0994	NW2023	Springs Branch Jn. - Huyton Jn. (St. Helens lines)	Springs Branch Jn.	Huyton Jn. (St. Helens lines)	7	W9 & W10	Y	
-London-North-Western-North	0994	NW2025	St. Helens Station Jn. - Ravenhead Jn. (Out of use)	St. Helens Station Jn.	Ravenhead Jn. (Out of use)	-	W6A Ex. (W8)	-	
-London-North-Western-North	0994	NW2027	Edge Hill, Bootle Branch Jn. - Regent Road L.C.	Edge Hill, Bootle Branch Jn.	Regent Road L.C.	8	SB1C (W9)	Y	
-London-North-Western-North	0994	NW2029	Olive Mount Jn to Edge Lane Jn	Olive Mount Jn	Edge Lane Jn	8	W9 & W10	Y	
-London-North-Western-North	0994	NW3001	Crewe North Jn. – Chester East Jn.	Crewe North Jn.	Chester East Jn.	8	W6A Ex. (W7)	Y	
-London-North-Western-North	0994	NW3001	Chester East Jn – Holyhead	Chester East Jn	Holyhead	8	W6A Ex. (W7)	R1	R1	RA9/10 vehicles are restricted to 20mph between Valley and Ty Croes (256m 60ch to 255m 40ch) in the Up direction only.
-London-North-Western-North	0994	NW3003	Chester East Jn – Acton Grange Jn.	Chester East Jn	Acton Grange Jn.	8	W6A Ex. (W7)	R	R	CHW1 Br.9 (2m 56ch), Br.62 (13m 40ch), Br.63 (13m 40ch), Br.64 (13m 74ch): RA9/10 vehicles are restricted to 50mph over these bridges.
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	0994	NW4001	CGJ7	Carnforth North Jn – Oxenholme	6	08	19	11	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0994	NW4001	CGJ7	Oxenholme – Upperby Jn	19	11	68	23	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0994	NW4001	CGJ7	Upperby Jn – Carlisle	68	23	69	09	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0994	NW4001	WCM1	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	8	Y	Y	R1	Y	Y	Y	R1 Prohibited Carlisle Bay platform 7
+London-North-Western-North	0994	NW4001	WCM1	Mossband Jn – Gretna Jn	7	57	8	57	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0994	NW4001	WCM1	Gretna Jn – Route Boundary (SC001) (Gretna Green)	8	57	12	30	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0994	NW4001	UCJ	Upperby Bridge Jn – Upperby Bridge	67	58	68	23	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4003	PDB	Preston Fylde Jn – End of line	0	00	1	59	8	N	N	Y	N	N	N	Line out of use
+London-North-Western-North	0994	NW4005	PBN	Preston Fylde Jn – Kirkham North Jn	0	33	8	28	8	N	N	Y	R1	N	N	R1 Single pantograph operation only
+London-North-Western-North	0994	NW4005	PBN	Kirkham North Jn – Poulton Jn	8	28	14	40	8	N	N	Y	R1	N	N	R1 Single pantograph operation only
+London-North-Western-North	0994	NW4005	PBN	Poulton Jn – Blackpool North	14	40	17	49	8	N	N	Y	R1	N	N	R1 Single pantograph operation only
+London-North-Western-North	0994	NW4007	KBS1	Kirkham North Jn – Blackpool South	8	28	20	00	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4009	WPS	Poulton – End of Line	14	40	18	08	8	N	N	Y	N	N	N	Line out of use from 14m 75ch to the end of the line NC/G1/2001/LNW294
+London-North-Western-North	0994	NW4011	MSM	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4013	HBL	Hest Bank Jn – Bare Lane Jn	0	00	1	30	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4017	MHH	Morecambe Jn – Heysham Port	0	00	4	01	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4019	OXW	Oxenholme – Windermere	0	00	10	15	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4021	UCJ	Upperby Jn – Bog Jn	0	38	1	07	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4021	UCJ	Bog Jn – Rome St Jn	1	07	1	23	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4023	ULR	Upperby Jn – London Rd Jn	0	00	0	34	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4025	MCG	Currock Jn – Bog Jn	0	00	0	44	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4027	BSN	Bruntill Branch Jn - Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4027	ETC	End of Line Buffer Stops - Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	9	95	6	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4029	GJH	Mossband Jn – Bush-on-Esk West Jn	3	02	1	06	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4029	GJH	Bush-on-Esk West Jn – Network Rail Boundary	1	06	0	24	8	N	N	Y	N	N	N	Line out of use
+London-North-Western-North	0994	NW4031	GSW	Gretna Jn – Route Boundary (SC031) (Eastriggs)	116	13	115	40	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4033	CBC1	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	8	N	N	Y	N	N	N	
+London-North-Western-North	0994	NW4033	CBC1	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	8	N	N	Y	N	N	N	

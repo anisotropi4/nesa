@@ -1,24 +1,11 @@
-London-North-Western-North	1006	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	1006	NW1009	BHI	Basford Hall Jn	Site of former Sydney Bridge Jn (Independent lines)	Basford Hall Jn – Site of former Sydney Bridge Jn (Independent lines)	156	16	158	76	8	Y
-London-North-Western-North	1006	NW1009	CMP1	Site of former Sydney Bridge Jn	Sandbach South Jn (Independent lines)	Site of former Sydney Bridge Jn – Sandbach South Jn (Independent lines)	158	76	162	28	8	Y
-London-North-Western-North	1006	NW1011	GSG	Gresty Lane Jn	Salop Goods Jn	Gresty Lane Jn – Salop Goods Jn	0	00	0	37	8	Y
-London-North-Western-North	1006	NW1013	CSG	Crewe Sorting Sidings North	Gresty Lane	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	8	Y
-London-North-Western-North	1006	NW1015	CIL	Salop Goods Jn	Crewe North Jn (Chester Independent lines)	Salop Goods Jn – Crewe North Jn (Chester Independent lines)	157	64	158	18	8	Y
-London-North-Western-North	1006	NW1017	LLI	Salop Goods Jn	Boundary (NW1001) (Crewe Coal Yard Liverpool Independent lines)	Salop Goods Jn – Boundary (NW1001) (Crewe Coal Yard Liverpool Independent lines)	157	71	158	73	8	Y
-London-North-Western-North	1006	NW1019	CHW1/ 2	Acton Grange Jn	Warrington South Jn (Helsby lines)	Acton Grange Jn – Warrington South Jn (Helsby lines)	16	19	17	76	8	Y
-London-North-Western-North	1006	NW1021	WEE	Winwick Jn	Earlestown East Jn	Winwick Jn – Earlestown East Jn	185	49	187	10	8	Y
-London-North-Western-North	1006	NW1021	DSE	Earlestown East Jn	Newton-le- Willows Jn (Electrified section)	Earlestown East Jn – Newton-le- Willows Jn (Electrified section)	14	75	16	19	8	Y
-London-North-Western-North	1006	NW1021	NGJ	Newton-le-Willows Jn	Golborne Jn	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	8	Y
-London-North-Western-North	1006	NW1023	HOB2	Haydock Branch Jn	End of Line	Haydock Branch Jn – End of Line	0	00	0	53	8	Y
-London-North-Western-North	1006	NW1025	IMG	Bamfurlong Sidings Jn	Ince Moss Jn	Bamfurlong Sidings Jn – Ince Moss Jn	0	18	0	78	7	Y
-London-North-Western-North	1006	NW1027	PSR1	Preston South Jn	Preston Docks Branch ELR Change	Preston South Jn – Preston Docks Branch ELR Change	21	39	21	47	8	Y
-London-North-Western-North	1006	NW1027	PSR2	Preston Docks Branch ELR Change	Network Rail Boundary (Ribble Steam Railway)	Preston Docks Branch ELR Change – Network Rail Boundary (Ribble Steam Railway)	0	00	0	40	8	Y
-London-North-Western-North	1006	NW2001	WJL1	NW1001 (Weaver Jn)	Ditton East Jn	NW1001 (Weaver Jn) – Ditton East Jn	174	53	182	67	8	Y
-London-North-Western-North	1006	NW2001	WJL2	Ditton East Jn	Speke East Jn	Ditton East Jn – Speke East Jn	182	67	186	72	8	Y
-London-North-Western-North	1006	NW2001	WJL3	Speke Est Jn	Edge Hill East Jn	Speke Est Jn – Edge Hill East Jn	186	72	191	75	8	Y
-London-North-Western-North	1006	NW2001	WJL4	Edge Hill East Jn	Liverpool Lime Street	Edge Hill East Jn – Liverpool Lime Street	191	75	193	52	8	Y
-London-North-Western-North	1006	NW2003	RDB	Runcorn	Network Rail Boundary (Runcorn Dock Branch)	Runcorn – Network Rail Boundary (Runcorn Dock Branch)	0	02	0	69	8	Y
-London-North-Western-North	1006	NW2005	SCR	Speke East Jn	Garston Jn	Speke East Jn – Garston Jn	22	59	23	52	8	Y
-London-North-Western-North	1006	NW2007	AEG	Allerton East Jn	Garston Jn	Allerton East Jn – Garston Jn	0	00	0	28	8	Y
-London-North-Western-North	1006	NW2009	SDJ2	End of Line (Latchford)	Ditton East Jn	End of Line (Latchford) – Ditton East Jn	10	06	18	55	8	Y
-London-North-Western-North	1006	NW2011	WOA1	Walton Old Jn	Arpley Jn	Walton Old Jn – Arpley Jn	0	68	0	00	8	Y
+Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	1006	NW3005	Gobowen (excl.)- Saltney Jn. including ‘Up & Down’ loop Wrexham General – Wrexham Exchange Jn.	8	W6A Ex. (W7)	R	R WSJ2 Br.518 (200m 10ch) and Br.544 (207m 71ch): RA9/10 vehicles are restricted to 50mph over these bridges.
+London-North-Western-North	1006	NW3007	Wrexham Central – Wrexham Exchange Sidings	5	/	R	R Vehicles which exceed the RA of the line may be permitted Wrexham Central – Wrexham Exchange Jn. Subject to special dispensation being granted by the relevant Route Asset Manager (s) (RAM)
+London-North-Western-North	1006	NW3007	Wrexham Exchange Jn – 13m 18ch (south end of Hawarden swing bridge	8	W6A Ex. (W7)	R	R RA9/10 loaded freight vehicles are restricted at the following specific locations WDB1 BR.17: RA9/10 loaded freight vehicles are restricted to 30mph over the bridge (4m 79ch – 5m 0ch)
+London-North-Western-North	1006	NW3007	13m 20ch – Bidston West Jn	7	W6A	R1	R1 RA8 locomotives and RA8/9/10 loaded freight vehicles are restricted to 25mph 13m 20ch on WBD1. – Dee Marsh Jn.
+London-North-Western-North	1006	NW3009	Chester North Jn - Chester South Jn	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1006	NW3011	Chester West Jn. - Hooton South Jn.	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1006	NW3013	Hooton South. Jn. - Helsby Jn.	8	R	Y	R Route clear to W6A Ex. (W7) gauge Ellesmere Port - Helsby Jn.
+London-North-Western-North	1006	NW3015	Llandudno Jn. – Blaenau Ffestiniog	7	/	R	R Vehicles which exceed the RA of the line may be permitted on a very limited basis, subject to special dispensation being granted by the Territory Track and Earthworks Engineers, and additionally, observance of the following bridge specific restrictions: LJT1 Br.3 (4m 23ch to 4m 26ch) RA 8/9/10 vehicles restricted to 20mph over the bridge. LJT1 Br.20 (13m 3ch to 13m 09ch) RA 8/9/10 vehicles restricted to 20mph over the bridge. LJT1 Br.23 (14m 48ch to 14m 54ch) RA 8/9/10 vehicles restricted to 10mph over the bridge. LJT1 Br.34 (17m 36ch to 17m 65ch) RA 8/9/10 vehicles restricted to 20mph over the bridge.
+London-North-Western-North	1006	NW3017	Llandudno Jn. - Llandudno	7	/	Y	
+London-North-Western-North	1006	NW3019	Gaerwen – Amlwch (Out of use)	-	W6A Ex. (W7)	-	

@@ -1,18 +1,24 @@
-Kent-Sussex-Wessex	0885	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0885	SO520	TBH2	Route Boundary Sussex (Barnham)	Havant Jn [Duplicated on SW110]	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	Y	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO520	WPH2	Havant Jn	Farlington Jn [Duplicated on SW110]	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO520	WPH2	Farlington Jn	Portcreek Jn [Duplicated on SW110]	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO520	WPH2	Portcreek Jn	Blackfriars Jn [Duplicated on SW110]	Portcreek Jn – Blackfriars Jn [Duplicated on SW110]	41	03	44	50	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO520	WPH2	Blackfriars Jn	Portsmouth and Southsea High Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SW110]	44	26	44	50	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO520	PAS	Blackfriars Jn	Portsmouth and Southsea Low Level [Duplicated on SW110]	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO520	WPH2	Portsmouth and Southsea High Level	Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO530	SCU1	South Croydon Jn (SO600)	Sanderstead	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO530	SCU1	Sanderstead	Hurst Green Jn	Sanderstead – Hurst Green Jn	12	23	21	35	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO530	HGG1	Hurst Green Jn	End of Line beyond East Grinstead	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO540	SCU1	Hurst Green Jn	Uckfield	Hurst Green Jn – Uckfield	21	35	46	08	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO550	RTT	Redhill (SO500)	Tonbridge	Redhill (SO500) – Tonbridge	22	40	42	16	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO560	RSJ	Redhill	Reigate	Redhill – Reigate	22	40	24	27	N	Y	N	Y	Y
-Kent-Sussex-Wessex	0885	SO560	RSJ	Reigate	Route Boundary (SW300) (Shalford Jn)	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	N	N	N	Y	Y
-Kent-Sussex-Wessex	0885	SO590	KJE1	Keymer Jn	Lewes	Keymer Jn – Lewes	40	69	49	74	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO590	KJE1/2	Lewes	Southerham Jn [Duplicated on SO620]	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	N	Y	N	N	N
-Kent-Sussex-Wessex	0885	SO590	KJE3	Southerham Jn	Willingdon Jn	Southerham Jn – Willingdon Jn	9	14	21	39	N	Y	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0885	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	FTL	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	HHH	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO290	NKL	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	15	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0885	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	N	N	N	N	

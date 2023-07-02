@@ -1,21 +1,22 @@
-Anglia	0472	EA1380	FSS1	Gas Factory Jn	East Ham Depot	Gas Factory Jn – East Ham Depot	2	57	6	18	3	R1 R2 R3	R1 R2 R3	N	R1 R2 R3	N	R1 R2 R3	R1 25mph over bridge 25 (3m 09ch) (Up and Down Lines) R2 25mph over bridge 39 (4m 01ch) (Down Line only) R3 25mph over bridge 40 (4m 02ch) (Down Line only)
-Anglia	0472	EA1380	FSS1	East Ham Depot	Barking Tilbury Jn West	East Ham Depot – Barking Tilbury Jn West	6	18	7	33	3	Y	Y	N	Y	N	Y
-Anglia	0472	EA1380	FSS2	Barking Tilbury Jn West	Barking Tilbury Jn East	Barking Tilbury Jn West – Barking Tilbury Jn East	7	33	7	60	8	Y	Y	Y	Y	N	Y
-Anglia	0472	EA1380	FSS2	Barking Tilbury Jn East	Upminster	Barking Tilbury Jn East – Upminster	7	60	15	20	8	Y	Y	Y	Y	N	N
-Anglia	0472	EA1380	FSS2	Upminster	Southend Central	Upminster – Southend Central	15	20	35	55	8	Y	Y	Y	Y	N	N
-Anglia	0472	EA1380	FSS3	Southend Central	Shoeburyness	Southend Central – Shoeburyness	35	55	39	40	8	Y	Y	Y	Y	N	N
-Anglia	0472	EA1390	TLL	Barking Tilbury Line Jn East	Former Tilbury West Jn	Barking Tilbury Line Jn East – Former Tilbury West Jn	7	60	22	06	8	Y	Y	Y	Y	N	Y
-Anglia	0472	EA1390	TLL	Former Tilbury West Jn	Pitsea Jn	Former Tilbury West Jn – Pitsea Jn	22	06	32	43	8	Y	Y	Y	Y	N	N
-Anglia	0472	EA1400	GFB	Gas Factory Jn	Bow Jn	Gas Factory Jn – Bow Jn	2	57	3	47	3	N	N	N	N	N	N
-Anglia	0472	EA1410	FSS2	Upminster	Upminster East Jn	Upminster – Upminster East Jn	15	20	15	39	8	Y	Y	Y	Y	N	N
-Anglia	0472	EA1410	UPG	Upminster East Jn	West Thurrock Jn	Upminster East Jn – West Thurrock Jn	0	00	6	56	8	Y	Y	Y	Y	N	N
-Anglia	0472	EA1420	THN	Thames Haven Jn	Thames Haven	Thames Haven Jn – Thames Haven	26	41	30	18	8	N	N	Y	N	N	N
-Anglia	0472	EA1430	ESK	East Suffolk Jn	Westerfield Jn	East Suffolk Jn – Westerfield Jn	69	41	73	23	8	R1	N	Y	N	R1	R1	R1 Prohibited between Signal CO401 on the Down line and Westerfield Jn
-Anglia	0472	EA1430	ESK	Westerfield Jn	Oulton Broad North Jn	Westerfield Jn – Oulton Broad North Jn	73	23	116	27	7	N	N	Y	N	N	N
-Anglia	0472	EA1440	FEL	Westerfield Jn	Felixstowe Beach Jn	Westerfield Jn – Felixstowe Beach Jn	73	23	83	57	7	N	N	Y	N	N	N
-Anglia	0472	EA1440	FEL	Felixstowe Beach Jn	Felixstowe town	Felixstowe Beach Jn – Felixstowe town	83	57	84	30	7	N	N	Y	N	N	N
-Anglia	0472	EA1450	TFN	Trimley	Port of Felixstowe North Quay Terminal	Trimley – Port of Felixstowe North Quay Terminal	0	00	0	18	7	N	N	Y	N	N	N
-Anglia	0472	EA1460	FED	Felixstowe Beach Jn	Felixstowe Beach	Felixstowe Beach Jn – Felixstowe Beach	83	57	86	34	7	N	N	Y	N	N	N
-Anglia	0472	EA1470	NOL	Thorpe Jn	Limit of Electrification	Thorpe Jn – Limit of Electrification	0	09	0	79	7	H R1	N	Y	H	N	N	R1 The Battery Isolating Switch must be left in the open position
-Anglia	0472	EA1470	NOL	Limit of Electrification	Reedham Jn	Limit of Electrification – Reedham Jn	0	79	12	34	7	H R1	N	Y	H	N	N	R1 The Battery Isolating Switch must be left in the open position
-Anglia	0472	EA1470	NOL	Reedham Jn	Lowestoft	Reedham Jn – Lowestoft	12	34	23	41	7	N	N	Y	H	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	MPV	Notes
+Anglia	0472	EA1470	NOL	Reedham Jn – Lowestoft	12	34	23	41	7	Y	N	Y	R1	Y	Y	Y	Y	Y	R1 Only permitted when hauling the Track Recording Train
+Anglia	0472	EA1480	WHC 1	Whitlingham Jn – North Walsham (End of Station Loop)	1	69	16	30	6	N	N	Y	N	N	N	Y	Y	Y	
+Anglia	0472	EA1480	WHC 1	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	6	N	N	Y	N	N	N	Y	Y	Y	
+Anglia	0472	EA1480	WHC 2	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	6	N	N	Y	N	N	N	Y	Y	Y	
+Anglia	0472	EA1480	WHC 3	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	6	N	N	Y	N	N	N	Y	Y	Y	
+Anglia	0472	EA1490	CRS	Cromer Jn – Network Rail Boundary (North Norfolk Railway)	46	27	42	69	6	N	N	Y	N	N	N	Y	Y	Y	
+Anglia	0472	EA1500	NAY	Brundall Jn – Yarmouth Via Acle	5	72	18	29	7	Y	N	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1500	RBY	Breydon Access No24 LC (EA1510) – Yarmouth	19	13	20	45	7	Y	N	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1510	RBY	Reedham Jn – Breydon Access No24 LC	12	34	19	13	7	Y	N	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1520	SIZ	Saxmundham Jn – Sizewell	91	40	95	79	7	Y	N	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1530	CCH	Coldham Lane Jn – Haughley Jn	0	23	40	49	8	Y	Y	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1540	SOB1	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	8	Y	Y	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1540	SOB2	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	8	Y	Y	Y	N	Y	Y	Y	Y	Y	
+Anglia	0472	EA1550	EWC	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0472	EA1560	EMP	Ely North Jn – Ely West Jn	71	63	72	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0472	EA1560	EMP	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0472	EA1570	WIG	March East Jn – Whitemoor Jn	85	78	86	18	8	N	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0472	EA1570	MWL	March West Jn – Whitemoor Jn	0	00	0	13	8	N	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0472	EA1570	WIG	Whitemoor Jn – Wisbech	86	18	93	60	6	N	N	N	N	N	N	N	N	Y	Line out of use (temporarily)
+Anglia	0472	EA1580	ETN	Ely North Jn – Trowse Jn	71	72	123	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Anglia	0472	EA1744	BFC	Europa Jn – Boss Hall Jn	0	00	0	63	10	Y	Y	Y	Y	Y	Y	Y	Y	N	

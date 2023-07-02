@@ -1,23 +1,21 @@
-London-North-Eastern	1177	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	57	58	59	Notes
-London-North-Eastern	1177	LN600	ECM5	Low Fell Jn	King Edward Bridge South Jn	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN600	ECM5	King Edward Bridge South Jn	Newcastle West Jn	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN600	ECM6	Newcastle West Jn	Newcastle	Newcastle West Jn – Newcastle	80	05	80	16	9	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited Newcastle platforms 9, 10 11 and 12
-London-North-Eastern	1177	LN600	ECM7	Newcastle	Newcastle East Jn	Newcastle – Newcastle East Jn	0	00	0	14	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN600	ECM7	Newcastle East Jn	Heaton South Jn	Newcastle East Jn – Heaton South Jn	0	14	1	65	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN600	ECM7	Heaton South Jn	Route Boundary (SC147) (Prestonpans Jn)	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN618	HOS	Holgate Jn	Skelton Jn via York Yard South	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN620	KEB	King Edward Bridge East Jn	King Edward Bridge North Jn (East Curve)	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN622	NEN1	Newcastle Forth Jn	Forth Banks	Newcastle Forth Jn – Forth Banks	0	11	0	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN624	REB4	Northallerton Castle Hills Jn	Network Rail Boundary (Wensleydale Railway)	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN626	LEN2	Northallerton High Jn	Northallerton East Jn	Northallerton High Jn – Northallerton East Jn	0	00	0	36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LLP1	Longlands Jn (Down Line)	Boroughbridge Road LC	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LLP3	Longlands Jn (Up Line)	Boroughbridge Road LC	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LLP2	Boroughbridge Road LC	Northallerton East Jn	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Northallerton East Jn	Billingham Jn	Northallerton East Jn – Billingham Jn	42	79	63	69	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Billingham Jn	Ryhope Grange Jn	Billingham Jn – Ryhope Grange Jn	63	69	87	63	8	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited Hartlepool Down Bay platform 3
-London-North-Eastern	1177	LN627	LEN3	Ryhope Grange Jn	Sunderland South Jn	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Sunderland South Jn	Boldon East Jn	Sunderland South Jn – Boldon East Jn	89	56	94	63	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Boldon East Jn	Boldon West Jn	Boldon East Jn – Boldon West Jn	94	63	95	16	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Boldon West Jn	Pelaw Metro Jn	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Pelaw Metro Jn	Park Lane Jn	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
-London-North-Eastern	1177	LN627	LEN3	Park Lane Jn	High Level Bridge Jn	Park Lane Jn – High Level Bridge Jn	100	65	101	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	57	58	59	Notes
+London-North-Eastern	1177	LN101	ECM1	Kings Cross – Copenhagen Jn	0	00	0	64	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Copenhagen Jn – Holloway South / North Jns	0	64	1	44	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Holloway South / North Jns – Wood Green North Jn	1	44	5	07	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Wood Green North Jn – Langley Jn	5	07	25	73	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Langley Jn – St Neots	25	73	51	58	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	St Neots – Fletton Jn	51	58	75	02	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Fletton Jn – Peterborough	75	02	76	29	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Peterborough – Newark North Gate	76	29	120	08	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	PMJ	Peterborough – Helpston Jn via Stamford lines	22	19	16	71	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Newark North Gate – Retford	120	08	138	49	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Retford – Loversall Carr Jn	138	49	150	00	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Loversall Carr Jn – Marshgate Jn	152	00	156	26	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN101	ECM1	Marshgate Jn – Shaftholme Jn	156	26	160	16	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN105	MEB1	Moorgate – Drayton Park	0	00	2	56	9	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1177	LN105	MEB1	Drayton Park – Finsbury Park Jn	2	56	3	37	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN115	CRF1	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN120	HDB	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN125	SBR	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1177	LN126	DCF	Hitchin North Jn – Hitchin East Jn	32	53	34	05	9	Y	Y	Y	Y	Y	Y	Y	Y	N	N	

@@ -1,15 +1,12 @@
-Kent-Sussex-Wessex	0909	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	CH	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
-Kent-Sussex-Wessex	0909	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn)	ELR change (Former Farringdon Jn)	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N	N	N	N	N	N	Y	N
-Kent-Sussex-Wessex	0909	SO280	FTL	ELR change (Former Farringdon Jn)	Snow Hill Tunnel (Change of Mileage)	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N	N	N	N	N	N	Y	N
-Kent-Sussex-Wessex	0909	SO280	HHH	Snow Hill Tunnel (Change of Mileage)	Blackfriars	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N	N	N	N	N	Y	N	N
-Kent-Sussex-Wessex	0909	SO280	HHH	Blackfriars	Blackfriars Jn	Blackfriars – Blackfriars Jn	0	35	0	63	N	N	N	N	Y	N	N	Y	Y	Y	Y	E R1	R1 OPPOS Blackfriars – Loughborough Jn, between Up Fast line and Down Fast linem 23ch to 03m 33ch
-Kent-Sussex-Wessex	0909	SO280	BMJ	Blackfriars Jn	Metropolitan Jn	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	N	N	N	Y	Y	N	Y	Y	N	Y	E
-Kent-Sussex-Wessex	0909	SO280	HHH	Blackfriars Jn	Loughborough Jn	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E R1 R2	R1 OPPOS Blackfriars – Loughborough Jn, between Up Fast line and Down Fast linem 23ch to 03m 33ch R2 OPPOS Elephant and Castle Station, between platform 3 Up line and platform 4 Down Line, 01m 40ch to 01m 55ch
-Kent-Sussex-Wessex	0909	SO280	LTC	Loughborough Jn	Cambria Jn	Loughborough Jn – Cambria Jn	3	34	3	62	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E
-Kent-Sussex-Wessex	0909	SO280	LOC	Loughborough Jn	Canterbury Road Jn	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E
-Kent-Sussex-Wessex	0909	SO280	HHH	Loughborough Jn	Herne Hill North Jn	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E
-Kent-Sussex-Wessex	0909	SO290	NKL	North Kent East Jn (SO130)	Charlton Jn	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	N	N	N	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0909	SO290	NKL	Charlton Jn	Charlton	Charlton Jn – Charlton	7	35	7	44	Y	N	N	N	N	N	N	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0909	SO290	NKL	Charlton	Slade Green Jn	Charlton – Slade Green Jn	7	44	1 5	36	N	N	N	N	N	N	N	Y	Y	N	Y	R1	Prohibited Slade Green platforms 1 & 2 with crush deflated suspension
-Kent-Sussex-Wessex	0909	SO290	NKL	Slade Green Jn	Crayford Creek Jn	Slade Green Jn – Crayford Creek Jn	15	36	1 5	66	Y	N	N	N	E	E	N	Y	Y	N	Y	Y
-Kent-Sussex-Wessex	0909	SO290	NKL	Crayford Creek Jn	Crayford Spur ‘A’ Jn	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	1 6	42	Y	N	N	N	E	E	N	Y	Y	N	Y	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0909	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	N	R1	H	N	Y	Y	Y	N	N	Y	R1 Prohibited from Slow lines
+Kent-Sussex-Wessex	0909	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	N	R1	Y	N	Y	Y	Y	N	N	Y	R1 Prohibited on Slow lines between Petts Wood Jns and Orpington
+Kent-Sussex-Wessex	0909	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	N	E R1	Y	N	Y	Y	Y	N	N	Y	R1 75mph maximum speed
+Kent-Sussex-Wessex	0909	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	N	E R1 R2	Y	N	Y	Y	Y	E	N	Y	R1 75mph maximum speed R2 Prohibited Tonbridge platform 4
+Kent-Sussex-Wessex	0909	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	N	E R1	Y	N	Y	Y	Y	E	N	Y	R1 75mph maximum speed
+Kent-Sussex-Wessex	0909	SO130	XTD	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	N	E R1	Y	N	Y	Y	Y	E	EH R2	Y	R1 75mph maximum speed R2 Prohibited between Paddock Wood and Chart Leacon Depot
+Kent-Sussex-Wessex	0909	SO130	XTD	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	N	E R1 R2 R3	Y	R4	Y	Y	Y	E	EH	Y	R1 75mph maximum speed R2 Prohibited Ashford platform 1 (Up platform loop) R3 25mph Ashford platform 2 (Up Slow) R4 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6
+Kent-Sussex-Wessex	0909	SO130	XTD	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	N	E R1 R2 R3	Y	R4	Y	Y	R5	E	N		R1 75mph maximum speed R2 Prohibited Ashford platform 1 (Up platform loop) R3 25mph Ashford platform 2 (Up Slow) R4 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6 R5 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0909	SO130	XTD	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	N	N	N	R1	Y	Y	R2	E	N	N	R1 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6 R2 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0909	SO130	XTD	Ashford (Jn with Canterbury Line) – Saltwood Jn	56	35	66	38	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0909	SO130	XTD	Saltwood Jn – Folkestone Central	66	38	69	73	N	N	N	R1	Y	Y	R2	N	N	N	R1 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface R2 Class 377/1 and 377/5 only

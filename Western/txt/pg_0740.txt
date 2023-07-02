@@ -1,45 +1,69 @@
-                                                                                OFFICIAL
+                                                  OFFICIAL
 
 
-                                                               Western Route Sectional Appendix Module WR2
+                                         Western Route Sectional Appendix Module WR2
 
-GW730   HDC Site of former Rotherwas Jn – Site of          0   00     1    74     H        N        N        N   N
-            former Red Hill Jn
-GW730   HNL1 Site of former Red Hill Jn – Maindee          1   74    41    66     H        N        N        N   N
-             West Jn
-GW731   WSJ2 Route Boundary (MD801) (Madeley Jn) – 170         46   171    15     H        N        N        N   N
-             Abbey Foregate Jn
-GW731   WSJ2 Abbey Foregate Jn – Crewe Jn                171   15   171    57     H        N        N        N   N
-GW731   WSJ2 Crewe Jn – Route Boundary (NW3005)          171   57   199    00     H        N        N        N   N
-             (Wrexham General)
-GW732   AFE    Abbey Foregate Jn – English Bridge Jn       0   25     0    00     H        N        N        N   N
-               (Loop Lines)
-GW733   SBA1/ Sutton Bridge Jn – Welshpool                 0   00    33    70     H        N        N        N   N
-        2
-GW733   SBA2 Welshpool – Aberystwyth                     33    70    95    60     H        N        N        N   N
-GW734   DJP    Dovey Jn – Pwllheli                       78    60   132    70     H        N        N        N   N
-GW735   SYC    Crewe Jn – Route Boundary (NW1007)        32    29     2    60     H        N        N        N   N
-               (Limit of Electrification)
-GW736   GNQ1 Gobowen South – Commencement of               0   00     0    16     N        N        N        N   N
-             single line board
-GW740   MAI    Maindee East Jn – Maindee North Jn        41    65    41    33     H        N        N        N   N
-GW750   BNC    Hereford Yard Jn – Brecon Curve Jn          0   00     0    19     N        N        N        N   N
-GW750   HNL2 Brecon Curve Jn – MEB Siding                149   44   149    78     N        N        N        N   N
-GW770   EBW Ebbw Vale Parkway – Site of Former           18    45    14    23     H        N        N        N   N
-            Aberbeeg Jn
-GW770   WVL Site of Former Aberbeeg Jn – Park Jn         14    23     1    02     H        N        N        N   N
-GW770   GAE    Park Jn – Gaer Jn (Western Valley Line)   160   24   159    33     N        N        N        N   N
-GW773   BJR    Machen Quarry – Site of Former              4   69     0    00     N        N        N        N   N
-               Bassaleg Jn
-GW773   WVL Site of Former Bassaleg Jn – Park Jn           2   05     1    10     N        N        N        N   N
-            (Machen Branch)
-GW780   WVL Park Jn – Park Jn SB                           1   02     0    74     H        N        N        N   N
-GW780   NWN Park Jn SB – Ebbw Jn                           0   54     0    00     H        N        N        N   N
-GW784   NLL    Alexandra Dock Jn – Network Rail          159   60   160    27     N        N        N        N   N
-               Boundary (Newport Docks)
-GW790   ROC Pengam Jn – Change of ELR                    168   20   168    61     N        N        N        N   N
-GW790   ROA Change of ELR – Network Rail Boundary          3   41     4    54     N        N        N        N   N
-            (ABP Cardiff Docks)
+                Holesmouth Jn – Avonmouth (Bristol
+       GW4501 AMB                     14 60  15 40  N    N    N    N    N
+                Bulk Handling Terminal)
+       GW451 FWC Filton Jn No 2 – Filton West Jn No.2
+                                       4 66  5  41  H    N    N    N    N
+       GW454 AMB Severn Beach – St Andrews Jn (Change
+                                      11 64  16 00  H    N    N    N    N
+                 of ELR)
+       GW454 CNXSt Andrews Jn (Change of ELR) –
+                                       9 32  2  03  H    N    N    N    N
+                Narroways Hill Jn
+       GW480 SWM Swindon Jn – Standish Jn
+                                      77 36 106 74  H    N    N    N    N
+             1
+       GW490 SWM Gloucester Yard Jn – Horton Road Jn
+                                      11303 113 61  H    N    N    N    N
+             2
+       GW500 BKEWestbury Line Jn – Oxford Road Jn
+                                      36 17  36 67  H    N    N    N    Y
+       GW500 BKEOxford Road Jn – Southcote Jn
+                                      36 67  37 62  H    N    N    N    Y
+       GW500 BKESouthcote Jn – Route Boundary
+                                      37 62  37 76  H    N    N    N    N
+                (SW125) (Basingstoke)
+       GW500 BHLSouthcote Jn – Change of ELR
+                                      37 62  81 19  H    N    N    N    R1 R1 Prohibited Newbury to Change of ELR
+       GW500 SWY Change of ELR – Heywood Road Jn
+                                      81 19  94 44  H    N    N    N    N
+                 (Change of ELR)
+       GW500 WES Heywood Road Jn (Change of ELR) –
+                                      94 44  97 02  H    N    N    N    N
+                 Fairwood Jn (Change of ELR) (via
+                 Westbury Avoiding Lines)
+       GW500 WEY Fairwood Jn (Change of ELR) – Clink
+                                      11118 114 44  H    N    N    N    N
+                 Road Jn (Change of ELR)
+       GW500 FRAClink Road Jn (Change of ELR) –
+                                      11444 116 37  H    N    N    N    N
+                Blatchbridge Jn (Change of ELR)
+       GW500 WEY Blatchbridge Jn (Change of ELR) –
+                                      11652 129 50  H    N    N    N    N
+                 Castle Cary Jn
+       GW500 WEY Castle Cary Jn – Route Boundary
+                                      12950 130 00  H    N    N    N    N
+                 (SW175) (Yeovil Pen Mill Jn)
+       GW500 CCLCastle Cary Jn – Cogload Jn (Down)
+                                      11532 138 30  H    N    N    N    N
+                Route Boundary (SW170) (Wilton Jn) –
+       GW5001 SAL                     11540 110 07  H    N    N    N    N
+                Westbury South Jn
+       GW510 WEY Westbury North Jn – Bradford Jn
+                                      10949 104 40  H    N    N    N    N
+       GW510 BFBBradford Jn – Bathampton Jn
+                                       9 12  0  00  H    N    N    N    N
+       GW520 WYL Westbury East Loop Jn – Hawkeridge Jn
+                                      94 77  95 32  H    N    N    N    N
+       GW523 WEY Thingley Jn – Bradford Jn
+                                      96 10 104 40  H    N    N    N    N
+       GW528 BRLNorth Somerset Jn – Bristol West Jn via
+                                       0 00  1  08  H    N    N    N    N
+                St Philips Marsh
 
 
-  April 2009                                                                      499G
+         April 2009                                 499D

@@ -1,0 +1,23 @@
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1076	LN880	YMS	York (platform 2 and maintenance sidings) – Connection to Up line	0	0	0	15	Y	N	N	Y	Y	N	N	Y	
+London-North-Eastern	1076	LN882	WAG1	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	Y	N	R1	Y	Y	R2	R2	Y	R1 5mph Wakefield Kirkgate platform 3 with deflated suspension R2 Prohibited Wakefield Kirkgate platform 3 when laden. Must use up Goole Line (reversible)
+London-North-Eastern	1076	LN882	WAG1	Calder Bridge Jn – Crofton West Jn	48	28	49	40	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1076	LN882	WAG1	Crofton West Jn – Knottingley West Jn	49	40	58	20	Y	N	Y	E R1 R2	Y	Y	Y	Y	R1 Prohibited between Crofton East Jn and Knottingley West Jn R2 Prohibited with deflated suspension
+London-North-Eastern	1076	LN882	WAG1	Knottingley West Jn – Engine Shed Jn	58	20	73	52	R1	N	Y	N	Y	N	N	Y	R1 Prohibited Knottingley East Jn to Engine Shed Jn
+London-North-Eastern	1076	LN882	WAG2	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	N	N	Y	N	Y	N	N	Y	
+London-North-Eastern	1076	LN884	OAJ	Oakenshaw South Jn – Oakenshaw Jn.	49	41	48	76	N	N	N	N	N	N	N	N	
+London-North-Eastern	1076	LN886	TJC3	Monk Bretton – Oakenshaw South Jn	176	22	18	75	N	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1076	LN886	OSC	Oakenshaw South Jn – Crofton East Jn	181	75	18	04	N	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1076	LN888	CJS	Stainforth Jn – Thorpe Marsh Jn	166	70	16	76	N	N	N	Y	N	N	N	N	
+London-North-Eastern	1076	LN888	HTM	Thorpe Marsh Jn – Haywood Jn	69	56	67	66	N	N	N	N	N	N	N	N	
+London-North-Eastern	1076	LN888	KWS	Haywood Jn – Knottingley West Jn	67	66	58	20	E	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1076	LN888	FKW	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	N	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1076	LN889	KWS	Shaftholme Jn – Haywood Jn	68	75	67	66	N	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1076	LN892	PEF	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	N	N	Y	N	Y	N	N	Y	
+London-North-Eastern	1076	LN894	KES	Knottingley South Jn – Knottingley East Jn	0	00	0	20	N	N	N	N	N	N	N	N	
+London-North-Eastern	1076	LN896	DRA1	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N	N	
+London-North-Eastern	1076	LN898	HUL4	Neville Hill East Jn – Micklefield Jn	18	25	10	63	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1076	LN898	HUL4	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1076	LN898	HUL3	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1076	LN898	HUL3	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1076	LN898	HUL3	Selby West Jn – Selby South Jn	0	36	0	00	Y	N	Y	Y	Y	N	N	Y	

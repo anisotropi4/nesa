@@ -1,46 +1,66 @@
-                                                                                       OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                        LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
 
 
 
 
-LN627    LLP3   Longlands Jn (Up Line) –                 0    69    0      00     N       N       N      N         N   N   N
-                Boroughbridge Road LC
-LN627    LLP2   Boroughbridge Road LC –                  42   21    42     79     N       N       N      N         N   N   N
-                Northallerton East Jn
-LN627    LEN3   Northallerton East Jn – Billingham Jn    42   79    63     69     N       N       N      N         N   N   N
-LN627    LEN3   Billingham Jn – Ryhope Grange Jn         63   69    87     63     N       N       N      N         N   N   N
-LN627    LEN3   Ryhope Grange Jn – Sunderland            87   63    89     56     N       N       N      N         N   N   N
-                South Jn
-LN627    LEN3   Sunderland South Jn – Boldon East Jn     89   56    94     63     N       N       N      N         N   Y   N
-LN627    LEN3   Boldon East Jn – Boldon West Jn          94   63    95     16     N       N       N      N         N   Y   N
-LN627    LEN3   Boldon West Jn – Pelaw Metro Jn          95   16    97     64     N       N       N      N         N   Y   N
-LN627    LEN3   Pelaw Metro Jn – Park Lane Jn            97   64   100     65     N       N       N      N         N   N   N
-LN627    LEN3   Park Lane Jn – High Level Bridge Jn     100   65   101     33     N       N       N      N         N   N   N
-LN627    LEN3   High Level Bridge Jn – Newcastle East 101     33   101     59     N       N       N      N         N   N   N
-                Jn
-LN628    NEK    South Hylton – Sunderland South Jn       3    20    0      00     N       N       N      N         N   Y   N
-LN629    PDL    Pelaw Metro Jn – Network Rail            97   64    98     01     N       N       N      N         N   Y   N
-                Boundary (Metro Operating)
-LN630    PUL    Pelaw Metro Jn – Network Rail            97   64    97     77     N       N       N      N         N   Y   N
-                Boundary (Metro Operating)
-LN631    DSN1   Darlington South Jn – Eaglescliffe       0    29    8      58     N       N       N      N         N   N   N
-                South Jn
-LN632    DSN2   Stockton Cut Jn – Redcar Change of       10   13    21     72     N       N       N      N         N   N   N
-                Mileage
-LN632    DSN3   Redcar Change of Mileage – Saltburn      22   16    27     57     N       N       N      N         N   N   N
-LN634    MBW1 Guisborough Jn – Battersby Jn              0    00    10     54     N       N       N      N         N   N   N
-LN634    MBW2 Battersby Jn (End of Line) – Grosmont      11   61    29     66     N       N       N      N         N   N   N
+     LN105MEB1Moorgate – Drayton Park
+                                   0  00  2 56  N   N   N   N  N   N   N
+     LN105MEB1Drayton Park – Finsbury Park Jn
+                                   2  56  3 37  N   N   N   N  N   N   N
+     LN110CFP Route Boundary (EA1320) (Canonbury
+                                   3  20  4 33  E   N   E   N  EH  N   E
+              West Jn) - Finsbury Park Jn
+     LN115CRF1Copenhagen Jn – Route Boundary
+                                   0  00  0 20  N   N   E   N  EH  N   E
+              (EA1320) (North London Incline)
+     LN120HDB Wood Green Jn – Langley Jn via
+                                   5  07 28 15  N   N  R2   N  N   N   R1 R2Class 387/1 only
+              Hertford
+     LN125SBR Cambridge Jn – Route Boundary
+                                   32 11 45 60  N   N  R3   N  N   N   R1 R1 See Sectional Appendix Local
+              (EA1230)                                 R4              R2 Instructions
+                                                                          R2 ECS only between Letchworth Garden
+                                                                          City - Baldock on the Arrival / Departure
+                                                                          line
+                                                                          R3 Class 387/1 only
+                                                                          R4 Prohibited Norton Way North Bridge
+                                                                          No.5 Arrival / Departure line with deflated
+                                                                          suspension
+     LN126DCF Hitchin North Jn – Hitchin East Jn
+                                   32 53 34 05  N   N  R1   N  N   N   Y  R1 Class 387/1 only
+     LN135EMP Route Boundary (EA1560) (Ely West
+                                   98 40 10066  N   N   N   N  N   N   N
+              Jn) – Crescent Jn
+     LN145WDU Marholm Jn – Glinton Jn
+                                   0  00  1 64  N   N   N   N  N   N   N
+     LN147PMJ Helpston Jn – Route Boundary
+                                   16 71 13 60  N   N   N   N  N   N   N
+              (LN3615)
+     LN150SPD5Flyover East – Decoy North Jn
+                                  116 20 11746  N   N   N   N  N   N   N
+     LN155LCJ Flyover East Jn – Loversall Jn (Up
+                                  152 79 15236  N   N   N   N  N   N   N
+              Loversall Curve)
+     LN160LCR Loversall Carr Jn – Rossington Colliery 152
+                                      00 15212  N   N   N   N  N   N   N
               Jn
-LN634    MBW3 Grosmont Jn – Whitby                       24   44    30     61     N       N       N      N         N   N   N
-LN636    No ELR Beam Mill Jn – Network Rail Boundary     18   03    18     67     N       N       N      N         N   N   N
-LN638    WCI    Shell Jn – Network Rail Boundary         0    00    1      03     N       N       N      N         N   N   N
-LN642    SSK1   Saltburn West Jn – Network Rail          27   05    34     29     N       N       N      N         N   N   N
-                Boundary (Cleveland Potash)
-LN644    BOH    Hartburn Jn – Bowesfield SB (Hartburn    0    00    0      44     N       N       N      N         N   N   N
-                Curve)
+     LN160FWR1 Rossington Colliery Jn – Flyover West
+                                  152 12 15319  N   N   N   N  N   N   N
+              Jn
+     LN165HPW Route Boundary (EA1370) (Harringay
+                                   0  14  0 03  N   N   N   N  N   N   E
+              Park Jn) – Harringay Jn
+     LN170WEB Werrington Jn – Site of former
+                                   79 34 92 58  N   N   N   N  N   N   N
+              Spalding South Jn
+     LN170SPD1Site of former Spalding South Jn –
+                                   44 07 62 14  N   N   N   N  N   N   N
+              Sleaford South Jn
+     LN170SPD2Sleaford South Jn – Sleaford North Jn
+                                   62 14 63 48  N   N   N   N  N   N   N
 
 
-October 2009                                                                               37R
+     October 2009                                   37O

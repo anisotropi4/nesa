@@ -1,12 +1,28 @@
-Kent-Sussex-Wessex	0891	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0891	SO130	XTD	Borough Market Jn	London Bridge platforms 1-9	Borough Market Jn – London Bridge platforms 1-9	1	50	1	69	N	Y	H	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0891	SO130	XTD	London Bridge platforms 1-9	North Kent East Jn	London Bridge platforms 1-9 – North Kent East Jn	1	69	4	25	N	Y	H	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0891	SO130	XTD	North Kent East Jn	Tanners Hill Jn	North Kent East Jn – Tanners Hill Jn	4	25	5	29	N	Y	H	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0891	SO130	XTD	Tanners Hill Jn	Parks Bridge Jn	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	N	Y	H	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0891	SO130	LLL	Parks Bridge Jn	Ladywell Jn	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	Y	Y	R1	N	N	Y	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0891	SO130	XTD	Parks Bridge Jn	Courthill Loop South Jn	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	Y	H R1	N	Y	Y	Y	N	N	Y	R1 60mph maximum speed
-Kent-Sussex-Wessex	0891	SO130	XTD	Courthill Loop South Jn	Hither Green Jn	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	N	Y	H R1	N	Y	Y	Y	N	N	Y	R1 60mph maximum speed
-Kent-Sussex-Wessex	0891	SO130	XTD	Hither Green Jn	Lee Spur Jn	Hither Green Jn – Lee Spur Jn	7	04	7	44	N	R1	H R2	N	Y	Y	Y	N	N	Y	R1 Slow lines only R2 60mph maximum speed
-Kent-Sussex-Wessex	0891	SO130	XTD	Lee Spur Jn	Chislehurst Jn	Lee Spur Jn – Chislehurst Jn	7	44	11	33	N	R1 R2	H R3 R4 R5 R6	N	Y	Y	R7	N	N	Y	R1 Between London end of Grove Park Station (08m 55ch (Slows to Fasts Double Jn)) and Chislehurst Jn use fast lines and Grove Park bay platform 1 (reversible) only R2 Prohibited Grove Park Down Washer line and Up sidings R3 60mph maximum speed R4 Between London end of Grove Park Station (08m 55ch (Slows to Fasts Double Jn)) and Chislehurst Jn use fast lines R5 25mph through Grove Park (fast lines). R6 Access to Grove Park Up Sidings via 924/925 points R7 Prohibited Grove Park Up and Down Washer line and Up sidings
-Kent-Sussex-Wessex	0891	SO130	CSM1	Chislehurst Jn	St Mary Cray Down Jn via Reversible Chatham Loop	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	N	Y	N	N	Y	Y	Y	N	N	Y
-Kent-Sussex-Wessex	0891	SO130	CSM3	Chislehurst Jn	Hawkwood Jn (Up Chatham Loop)	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	N	Y	N	N	Y	Y	Y	N	N	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0891	SO640	BBR	Barnham – Bognor Regis	22	29	25	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO645	ATL	Battersea Park – Factory Jn	7	27	6	67	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO645	ATL	Factory Jn – Wandsworth Road Jn	6	67	6	53	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO645	ATL	Wandsworth Road Jn – Shepherds Lane Jn	6	53	5	68	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO645	ATL	Shepherds Lane Jn – Crofton Road Jn	5	68	3	67	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO645	ATL	Crofton Road Jn – Peckham Rye Jn	3	67	3	47	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BBJ	Balham Jn (SO500) – Leigham Jn	4	69	6	31	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BBJ	Leigham Jn – West Norwood Jn	6	31	6	58	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BBJ	West Norwood Jn – Crystal Palace platforms 1 and 2	6	58	8	56	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	SCP	Crystal Palace platforms 3 - 6 – Sydenham Up Jn	7	52	6	49	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BBJ	Crystal Palace platforms 1 and 2 – Bromley Up Jn	8	56	9	36	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BJN1	Bromley Up Jn – Norwood North Jn	9	36	9	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BBJ	Bromley Up Jn – Bromley Down Jn	9	36	9	48	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BJN2	Bromley Down Jn – Norwood North Jn	9	48	9	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO650	BBJ	Bromley Down Jn – Beckenham Jn	9	48	11	62	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO660	PAT	Purley (S0500) – Caterham	15	13	19	70	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO660	TAT	Purley (S0500) – Tattenham Corner	15	13	23	37	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	South Bermondsey Jn (SO510) – Old Kent Road Jn	1	49	2	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	Old Kent Road Jn – Peckham Rye Jn	2	32	3	47	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	WTH	Tulse Hill – West Norwood Jn	6	14	6	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	LTH	Tulse Hill – Leigham Jn	6	20	6	40	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	Tulse Hill North Jn – Streatham Jn	6	07	7	57	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	SSC	Streatham Jn – Streatham Common Jn	7	57	8	10	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	Streatham Jn – Streatham South Jn (a)	7	57	8	09	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	N	N	N	N	N	
+Kent-Sussex-Wessex	0891	SO680	BTH1	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	N	N	N	N	N	

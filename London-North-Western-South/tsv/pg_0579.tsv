@@ -1,23 +1,21 @@
-London-North-Western-South	0579	MD355	LTV	Lichfield South Jn	Lichfield Trent Valley Jn (Chord Line)	Lichfield South Jn – Lichfield Trent Valley Jn (Chord Line)	0	22	0	02	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0579	MD360	WDJ	Walsall, Pleck Jn	Darlaston Jn	Walsall, Pleck Jn – Darlaston Jn	1	16	0	15	Y	Y	Y	N	Y	Y	N	Y	N
-London-North-Western-South	0579	MD365	PJW	Portobello Jn	Wolverhampton Crane Street Jn	Portobello Jn – Wolverhampton Crane Street Jn	0	04	1	59	Y	Y	Y	Y	Y	Y	N	Y	N
-London-North-Western-South	0579	MD401	DCL	Route Boundary (GW200) (Heyford)	Aynho Jn	Route Boundary (GW200) (Heyford) – Aynho Jn	75	00	81	13	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD401	DCL	Aynho Jn	Leamington Spa North Jn	Aynho Jn – Leamington Spa North Jn	81	13	106	25	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD401	DCL	Leamington Spa North Jn	Tyseley South Jn	Leamington Spa North Jn – Tyseley South Jn	106	25	125	73	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD401	BCV/D CL	Tyseley South Jn	Small Heath South Jn	Tyseley South Jn – Small Heath South Jn	125	73	126	59	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD401	BCV	Small Heath South Jn	Bordesley Jn	Small Heath South Jn – Bordesley Jn	126	59	128	11	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD405	LSC1	Leamington Spa North Jn	Milverton Change of ELR	Leamington Spa North Jn – Milverton Change of ELR	106	25	107	06	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD405	LSC2	Milverton Change of ELR	Coventry South Jn	Milverton Change of ELR – Coventry South Jn	0	00	8	45	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD410	CNN	Coventry North Jn	Nuneaton South Jn	Coventry North Jn – Nuneaton South Jn	0	00	9	53	Y	Y	Y	N	N	N	N	Y	N
-London-North-Western-South	0579	MD415	HSA	Hatton Station Jn	Bearley Jn	Hatton Station Jn – Bearley Jn	18	12	12	48	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD415	HSA	Bearley Jn	Stratford Upon Avon (End of Headshunt)	Bearley Jn – Stratford Upon Avon (End of Headshunt)	12	48	8	63	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD420	HHW	Hatton North Jn	Hatton West Jn	Hatton North Jn – Hatton West Jn	18	25	17	62	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD425	TSB	Tyseley South Jn	Bearley Jn	Tyseley South Jn – Bearley Jn	0	00	17	71	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD430	OWW	Droitwich Spa	Cutnall Green (former Route Boundary)	Droitwich Spa – Cutnall Green (former Route Boundary)	126	21	130	40	Y	Y	Y	N	N	N	N	N	N	R1
-London-North-Western-South	0579	MD430	OWW	Cutnall Green (former Route Boundary)	Kidderminster	Cutnall Green (former Route Boundary) – Kidderminster	130	40	135	46	Y	Y	Y	EH R1	N	R1	N	N	N	Prohibited between Hartlebury and Route Boundary (GW370) (Cutnall Green)
-London-North-Western-South	0579	MD435	DCL	Small Heath South Jn	Site of Former Handsworth Jn	Small Heath South Jn – Site of Former Handsworth Jn	126	59	132	47	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD435	HSJ	Site of Former Handsworth Jn	Smethwick Jn	Site of Former Handsworth Jn – Smethwick Jn	132	47	133	32	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD435	GSJ2	Smethwick Jn	Stourbridge North Jn	Smethwick Jn – Stourbridge North Jn	133	32	141	06	Y	Y	Y	Y	N	Y	N	N	N
-London-North-Western-South	0579	MD440	GSJ1	Galton Jn	Smethwick Jn	Galton Jn – Smethwick Jn	3	64	4	08	Y	Y	Y	N	N	N	N	N	N
-London-North-Western-South	0579	MD445	SJS	Stourbridge Jn	Stourbridge Town	Stourbridge Jn – Stourbridge Town	142	16	142	78	Y	Y	N	N	N	N	N	N	N
-London-North-Western-South	0579	MD450	OWW	Stourbridge North Jn	Round Oak	Stourbridge North Jn – Round Oak	142	15	146	13	Y	Y	Y	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
+London-North-Western-South	0579	MD725	MCJ2	Aylesbury Vale Parkway – Change of Mileage (Quainton Road)	40	38	44	28	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD725	MCJ3	Change of Mileage (Quainton Road) – Calvert Jn (Change of Mileage)	161	50	156	72	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD725	MCJ4	Calvert Jn (Change of Mileage) – Claydon L&NE Jn	0	00	0	41	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD736	OXD	Route Boundary (GW277) –Gavray Junction	29	25	19	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	N	N	N	N	N	N	N	N	N	N	Line non operational
+London-North-Western-South	0579	MD736	OXD	Buffer Stops – Flyover Junction (Change of ELR)	1	27	0	62	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD736	BFO	Flyover Junction (Change of ELR) – Flyover Junction Summit	0	00	0	68	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD736	DHF	Flyover Junction Summit – Limit of Electrification	0	68	1	37	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD736	DHF	Limit of Electrification – Bletchley Flyover North Jn	1	37	1	61	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD736	DHF	Bletchley Flyover North Jn – Denbigh Hall South Jn	1	61	1	73	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD740	BFO	Flyover Jn (Summit) – Fenny Stratford Bletchley Flyover Jn	0	68	1	59	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD745	BSG	Bicester South Junction – Gavray Junction	0	00	0	52	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD801	WSJ1	Wolverhampton North Jn – Oxley, Stafford Road Jn (Change of Mileage)	143	52	142	79	N	N	Y	N	Y	Y	Y	H	E	N	
+London-North-Western-South	0579	MD801	WSJ2	Oxley, Stafford Road Jn (Change of Mileage) – Limit of Electrification	143	02	143	65	N	N	Y	N	Y	Y	Y	H	E	N	
+London-North-Western-South	0579	MD801	WSJ2	Limit of Electrification – Madeley Jn	143	65	156	19	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD801	WSJ2	Madeley Jn – Route Boundary (GW731) (Abbey Foregate )	156	19	170	46	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD805	OXC	Bushbury (Oxley) Jn – Stafford Road Jn	1	02	0	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD810	MJI1	Madeley Junction – Site of Former Lightmoor Jn	156	19	160	29	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD810	MJI2	Site of Former Lightmoor Jn – Ironbridge Power Station (NR Boundary)	156	19	160	29	N	N	N	N	N	N	N	N	N	N	

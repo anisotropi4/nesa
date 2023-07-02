@@ -1,23 +1,26 @@
-London-North-Western-North	0876	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	220	221	222	Notes
-London-North-Western-North	0876	NW4001	CGJ7	Lancaster	Carnforth North Jn	Lancaster – Carnforth North Jn	0	00	6	08	N	N	N	N	N	Y	Y	T	N
-London-North-Western-North	0876	NW4001	CGJ7	Carnforth North Jn	Oxenholme	Carnforth North Jn – Oxenholme	6	08	19	11	N	N	N	N	N	Y	Y	T	N
-London-North-Western-North	0876	NW4001	CGJ7	Oxenholme	Upperby Jn	Oxenholme – Upperby Jn	19	11	68	23	N	N	N	N	N	Y	Y	T	N
-London-North-Western-North	0876	NW4001	CGJ7	Upperby Jn	Carlisle	Upperby Jn – Carlisle	68	23	69	09	N	N	N	N	N	R1	Y	T R2	N	R1 Prohibited Carlisle platform 2 R2 Prohibited Carlisle platforms 3 and 4 with deflated secondary suspension
-London-North-Western-North	0876	NW4001	WCM1	Carlisle	Mossband Jn (Including Kingmoor Yard Goods lines)	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	N	N	N	N	N	R1 R2 R3	Y	T R4	N	R1 Prohibited Carlisle platform 7 R2 Prohibited Carlisle platform 8 in laden condition with deflated suspension R3 Prohibited last 5 metres of Carlisle platform 8 R4 Prohibited Carlisle platforms 3 and 4 with deflated secondary suspension
-London-North-Western-North	0876	NW4001	WCM1	Mossband Jn	Gretna Jn	Mossband Jn – Gretna Jn	7	57	8	57	N	N	N	N	N	Y	Y	T	N
-London-North-Western-North	0876	NW4001	WCM1	Gretna Jn	Route Boundary (SC001) (Gretna Green)	Gretna Jn – Route Boundary (SC001) (Gretna Green)	8	57	12	30	N	N	N	N	N	Y	Y	T	N
-London-North-Western-North	0876	NW4001	UCJ	Upperby Bridge Jn	Upperby Bridge	Upperby Bridge Jn – Upperby Bridge	67	58	68	23	N	N	N	N	N	E	Y	Y	N
-London-North-Western-North	0876	NW4003	PDB	Preston Fylde Jn	End of line	Preston Fylde Jn – End of line	0	00	1	59	N	N	N	N	N	N	N	N	N	Line out of use
-London-North-Western-North	0876	NW4005	PBN	Preston Fylde Jn	Kirkham North Jn	Preston Fylde Jn – Kirkham North Jn	0	33	8	28	N	N	N	Y	Y	Y	Y	Y	N
-London-North-Western-North	0876	NW4005	PBN	Kirkham North Jn	Poulton Jn	Kirkham North Jn – Poulton Jn	8	28	14	40	N	N	N	Y	Y	Y	Y	Y	N
-London-North-Western-North	0876	NW4005	PBN	Poulton Jn	Blackpool North	Poulton Jn – Blackpool North	14	40	17	49	N	N	N	Y	Y	R1	Y	Y	N	R1 Prohibited Blackpool platform 5 (last 20 metres) and platform 8
-London-North-Western-North	0876	NW4007	KBS1	Kirkham North Jn	Blackpool South	Kirkham North Jn – Blackpool South	8	28	20	00	N	N	N	N	N	N	N	N	N
-London-North-Western-North	0876	NW4009	WPS	Poulton	End of Line	Poulton – End of Line	14	40	18	08	N	N	N	N	N	N	N	N	N	Line out of use from 14m 75ch to the end of the line NC/G1/2001/LNW294
-London-North-Western-North	0876	NW4011	MSM	Morecambe South Jn	Morecambe Buffer Stops	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	N	N	N	Y	N	Y	N	N	N
-London-North-Western-North	0876	NW4013	HBL	Hest Bank Jn	Bare Lane Jn	Hest Bank Jn – Bare Lane Jn	0	00	1	30	N	N	N	Y	N	Y	N	N	N
-London-North-Western-North	0876	NW4017	MHH	Morecambe Jn	Heysham Port	Morecambe Jn – Heysham Port	0	00	4	01	N	N	N	N	N	Y	N	N	N
-London-North-Western-North	0876	NW4019	OXW	Oxenholme	Windermere	Oxenholme – Windermere	0	00	10	15	N	N	N	Y	N	Y	N	N	N
-London-North-Western-North	0876	NW4021	UCJ	Upperby Jn	Bog Jn	Upperby Jn – Bog Jn	0	38	1	07	N	N	N	N	N	E	Y	Y	N
-London-North-Western-North	0876	NW4021	UCJ	Bog Jn	Rome St Jn	Bog Jn – Rome St Jn	1	07	1	23	N	N	N	N	N	E	N	N	N
-London-North-Western-North	0876	NW4023	ULR	Upperby Jn	London Rd Jn	Upperby Jn – London Rd Jn	0	00	0	34	N	N	N	N	N	E	Y	Y	N
-London-North-Western-North	0876	NW4025	MCG	Currock Jn	Bog Jn	Currock Jn – Bog Jn	0	00	0	44	N	N	N	N	N	E	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Western-North	0876	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5015	HAJ	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5015	HAJ	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW5021	SAJ	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	MVE1	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6003	MAJ	Castlefield Jn - Trafford Park Sidings (Limit of Electrification)	33	57	31	35	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification) - Hunts Cross	31	35	7	07	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6003	MAJ	Hunts Cross - Hunts Cross West Jn	7	07	6	11	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss Lines)	0	00	0	32	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0876	NW6005	MVE1	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	

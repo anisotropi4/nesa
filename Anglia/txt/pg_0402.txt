@@ -1,36 +1,59 @@
-                                                                              OFFICIAL
-
-
-                                                             Anglia Route Sectional Appendix Module AR2
-
-
-EA1480 WHC Change of Mileage (Site of Former      45   64    46   42   N     N       N    N     N     N   N
-       3   Runton East Jn) – Cromer
-EA1490 CRS    Cromer Jn – Network Rail Boundary   46   27    42   69   N     N       N    N     N     N   N
-              (North Norfolk Railway)
-EA1500 NAY    Brundall Jn – Yarmouth Via Acle     5    72    18   29   N     N       N    N     N     N   N
-EA1500 RBY    Breydon Access No24 LC (EA1510) –   19   13    20   45   N     N       N    N     N     N   N
-              Yarmouth
-EA1510 RBY    Reedham Jn – Breydon Access No24    12   34    19   13   N     N       N    N     N     N   N
-              LC
-EA1520 SIZ    Saxmundham Jn – Sizewell            91   40    95   79   N     N       N    N     N     N   N
-EA1530 CCH Coldham Lane Jn – Haughley Jn          0    23    40   49   N     N       N    N     N     N   N
-EA1540 SOB1 Chippenham Jn – Site of Former        0    63    0    00   N     N       N    N     N     N   N
-            Snailwell Jn
-EA1540 SOB2 Site of Former Snailwell Jn – Ely     1    54    12   33   N     N       N    N     N     N   N
-            Dock Jn
-EA1550 EWC Ely North Jn – Ely West Jn (Ely West   71   63    72   63   N     N       N    N     N     N   N
-           Curve)
-EA1560 EMP Ely North Jn – Ely West Jn             71   63    72   39   N     N       N    Y     N     N   Y
-EA1560 EMP Ely West Jn – Route Boundary           72   39    98   40   N     N       N   R1     N     N   R1 R1    Must be planned as a non-stop train between
-           (LN135) (Peterborough)                                                                                  Cambridge and Peterborough
-EA1570 WIG    March East Jn – Whitemoor Jn        85   78    86   18   N     N       N    N     N     N   N
-EA1570 MWL March West Jn – Whitemoor Jn           0    00    0    13   N     N       N    N     N     N   N
-EA1570 WIG    Whitemoor Jn – Wisbech              86   18    93   60   N     N       N    N     N     N   N   Line out of use (temporarily)
-EA1580 ETN    Ely North Jn – Trowse Jn            71   72   123   00   N     N       N    N     N     N   Y
-EA1744 BFC    Europa Jn – Boss Hall Jn             0   00    0    63   N     N       N    N     N     N   N
+                                         Anglia Route Sectional Appendix Module AR2
 
 
 
 
-August 2006                                                                   290C
+     Table D1B – Route clearance of diesel multiple units
+                                                                                    Last Updated: 23/10/2021
+     To be read in conjunction with General Notes.
+
+
+     Line of ELR
+             Line of Route / Sector
+                                oooo oooo oooo oooo 171
+                                                 172175 180220221 222 Notes
+     route   Description         M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+     EA1010 LTN1 Liverpool Street platforms 1-10 –
+                                  0  00  0 22 N   N  N   N  N   N  E R1 Prohibited Liverpool Street platform 2
+             Liverpool St (L) IECC                                 R1
+             Liverpool Street platforms 11-17 –
+     EA1010 LVS                   0  00  0 22 N   N  N   N  N   N  E R1 Liverpool Street Platforms 11-18 diesel traction
+             Liverpool St (L) IECC                                 R1   see Sectional Appendix Local Instructions
+     EA1010 LTN1 Liverpool St (L) IECC – Bethnal Green
+                                  0  22  1 10 N   N  N   N  N   N  E R1 Prohibited Bishopsgate Tunnel down suburban
+             East Jn                                               R1   line
+     EA1010 LTN1 Bethnal Green East Jn – Mile End
+                                  1  10  2 02 N   N  N   N  N   N  E
+     EA1010 LTN1 Mile End – Bow Jn2  02  2 74 N   N  N   N  N   N  E
+     EA1010 LTN1 Bow Jn – Carpenters Road South Jn
+                                  2  74  3 54 N   N  N   N  N   N  E
+     EA1010 LTN1 Carpenters Road South Jn – Stratford
+                                  3  54  3 70 N   N  N   N  N   N  E
+             Central Jn West
+     EA1010 LTN1 Stratford Central Jn West – Stratford
+                                  3  70  3 75 N   Y  N   N  N   E  E
+             Central Jn East
+     EA1010 LTN1 Stratford Central Jn East – Forest
+                                  3  75  5 63 N   R1 N   N  N   E  E R1 Laden services between Stratford Central Jn
+             Gate Jn                              R2                    East and Stratford
+                                                  R3                 R2 ECS between Stratford and Forest Gate
+                                                                     R3 Prohibited Maryland platform 3 with footsteps
+                                                                        fitted
+     EA1010 LTN1 Forest Gate Jn – Ilford Depot London
+                                  5  63  7 63 N   E  N   N  N  E   E R1 Prohibited Ilford Depot roads 10 and 11
+             End                                  R1           R2  R2R2 Prohibited Ilford platform 4 (Down Electric) with
+                                                               R3  R3   deflated suspension
+                                                                     R3 Prohibited Manor Park platform 2 (Down
+                                                                        Electric) with deflated suspension
+     EA1010 LTN1 Ilford Depot London End – Seven
+                                  7  63  8 45 N   N  N   N  N  E   E R1 Prohibited Seven Kings platform 1 (Up Main)
+             Kings                                             R1  R1  with deflated suspension
+     EA1011 LTN1 Seven Kings – Romford Jn
+                                  8  45 12 39 N   N  N   N  N   N  N
+     EA1011 LTN1 Romford Jn – Shenfield Jn
+                                  12 39 20 22 N   N  N   N  N   N  N
+     EA1011 LTN1 Shenfield Jn – Witham Jn
+                                  20 22 38 55 N   N  N   N  N   N  N
+
+
+     August 2006                                   285

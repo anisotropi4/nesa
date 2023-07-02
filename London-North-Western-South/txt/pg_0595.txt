@@ -1,46 +1,69 @@
-                                                                                               OFFICIAL
+                                                  OFFICIAL
 
 
-                                                                    LNW South Route Sectional Appendix Module LNW(S) RC
+                                      LNW South Route Sectional Appendix Module LNW(S) RC
 
-
-
-Line of ELR     Line of Route / Sector Description            oooo oooo oooo oooo RA 43 47/2 47/4 47/7 56 57 Notes
-route                                                          M Ch M         Ch     ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-MD232   WNS     Limit of Electrification (Down direction) –     0      39    0    05       8        Y        Y       Y       Y       Y       Y
-                Nuneaton South Jn
-MD232   WNS     Nuneaton South Jn – Nuneaton South              0      05    0    00       8        Y        Y       Y       Y       Y       Y
-                Change of ELR
-MD232   PVS     Nuneaton South Change of ELR – Limit of        10      61    10   39       8        Y        Y       Y       Y       Y       Y
-                Electrification (Up direction)
-MD232   PVS     Limit of Electrification (Up direction) –      10      39    10   09       8        Y        Y       Y       Y       Y       Y
-                Midland Yard Jn
-MD232   NMA     Midland Yard Jn – Abbey Jn                     10      09    9    60       8        Y        Y       Y       Y       Y       Y
-MD233   MYC     Midland Yard Jn – Canal Farm Jn                 0      00    0    69       8        N        Y       Y       Y       Y       Y
-MD301   RBS1    Rugby Trent Valley Jn – Coventry South         83      18    93   71       8        Y        Y       Y       Y       Y       Y
-                Jn
-MD301   RBS1    Coventry South Jn – Coventry North Jn          93      71    94   19       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Coventry North Jn – Stechford North Jn         94      19   109   12       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Stechford North Jn – Grand Jn                 109      12   111   72       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Grand Jn – Proof House Jn                     111      72   112   19       8        Y        Y       Y       Y       Y       Y
-MD301   RBS1    Proof House Jn – Birmingham New Street        112      19   112   73       8        Y        Y       Y       Y       Y       Y
-                (Change of Mileage)
-MD301   RBS2    Birmingham New Street (Change of                0      05    2    06       8        Y        Y       Y       Y       Y       Y
-                Mileage) – Soho South Jn
-MD301   RBS2    Soho South Jn – Soho North Jn                   2      06    2    38       8        Y        Y       Y       Y       Y       Y
-MD301   RBS2    Soho North Jn – Galton Jn                       2      38    3    64       8        Y        Y       Y       Y       Y       Y
-MD301   RBS2    Galton Jn – Wolverhampton Crane Street          3      64    12   60       8        Y        Y       Y       Y       Y       Y
-                Jn
-MD301   RBS2    Wolverhampton Crane Street Jn –                12      60    14   43       8        Y        Y       Y       Y       Y       Y
-                Bushbury Jn (Change of Mileage)
-MD301   RBS3    Bushbury Jn (Change of Mileage) – Route 15             32    23   30       8        Y        Y       Y       Y       Y       Y
-                Boundary (NW1002) (Stafford Trent Valley
-                Jn No.1)
-MD306   BAG1    Change of Mileage (Birmingham New          42         35    47    20   8        Y        Y       Y       Y       Y       Y
-                Street) – Lifford West Jn
-MD306   BAG1    Lifford West Jn – King's Norton Station Jn 47         20    47    48   8        Y        Y       Y       Y       Y       Y
-MD306   BAG1    King's Norton Station Jn – King's Norton   47         48    48    02   8        Y        Y       Y       Y       Y       Y
-                Jn (Change of Mileage)
-
-
-December 2009                                                                                           32
+     Line of
+          ELR                     oooo oooo oooo oooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+              Line of Route / Sector
+     route    Description          M  Ch M  Ch ooo oooooo (MOD) DVT
+                                                                DVT ooo oooooo oooooooooooooooooooooooo
+                                                          oooooo (MOD)       ooo
+     MD232NMA Midland Yard Jn – Abbey Jn
+                                   10 09  9 60  Y  Y   Y  N  N   N  N   N  N
+     MD233MYC Midland Yard Jn – Canal Farm Jn
+                                   0  00  0 69  Y  Y   Y  N  N   N  N   N  N
+     MD301RBS1Rugby Trent Valley Jn – Coventry
+                                   83 18 93 71  Y  Y   Y  EH Y   Y  N   Y  N
+              South Jn
+     MD301RBS1Coventry South Jn – Coventry North Jn
+                                   93 71 94 19  Y  Y   Y  EH Y   Y  N   Y  N
+     MD301RBS1Coventry North Jn – Stechford North
+                                   94 19 10912  Y  Y   Y  Y  Y   Y  N   Y  N
+              Jn
+     MD301RBS1Stechford North Jn – Grand Jn
+                                  109 12 11172  Y  Y   Y  Y  Y   Y  N   Y  N
+     MD301RBS1Grand Jn – Proof House Jn
+                                  111 72 11219  Y  Y   Y  Y  Y   Y  N   Y  N
+     MD301RBS1Proof House Jn – Birmingham New
+                                  112 19 11273  Y  Y   Y  Y  Y   Y  N   Y  N
+              Street (Change of Mileage)
+     MD301RBS2Birmingham New Street (Change of
+                                   0  05  2 06  Y  Y   Y  Y  Y   Y  N   Y  N
+              Mileage) – Soho South Jn
+     MD301RBS2Soho South Jn – Soho North Jn
+                                   2  06  2 38  Y  Y   Y  Y  Y   Y  N   Y  N
+     MD301RBS2Soho North Jn – Galton Jn
+                                   2  38  3 64  Y  Y   Y  Y  Y   Y  N   Y  N
+     MD301RBS2Galton Jn – Wolverhampton Crane
+                                   3  64 12 60  Y  Y   Y  Y  Y   Y  N   Y  N
+              Street Jn
+     MD301RBS2Wolverhampton Crane Street Jn –
+                                   12 60 14 43  Y  Y   Y  Y  Y   Y  N   Y  N
+              Bushbury Jn (Change of Mileage)
+     MD301RBS3Bushbury Jn (Change of Mileage) –
+                                   15 32 23 30  Y  Y   Y  Y  Y   Y  N   Y  N
+              Route Boundary (NW1002) (Stafford
+              Trent Valley Jn No.1)
+     MD306BAG1Change of Mileage (Birmingham New
+                                   42 35 47 20  Y  Y   Y  N  N   N  N   N  N
+              Street) – Lifford West Jn
+     MD306BAG1Lifford West Jn – King's Norton Station
+                                   47 20 47 48  Y  Y   Y  N  N   N  N   N  N
+              Jn
+     MD306BAG1King's Norton Station Jn – King's
+                                   47 48 48 02  Y  Y   Y  N  N   N  N   N  N
+              Norton Jn (Change of Mileage)
+     MD306BAG2King's Norton Jn (Change of Mileage)
+                                   46 77 51 58  Y  Y   Y  N  N   N  N   N  N
+              – Barnt Green Jn
+     MD306BAG2Barnt Green Jn – Stoke Works Jn
+                                   51 58 57 43  Y  Y   Y  N  N   N  N   N  N
+     MD306BAG2Stoke Works Jn – Abbotswood Jn
+                                   57 43 68 60  Y  Y   Y  N  N   N  N   N  N
+     MD306BAG2Abbotswood Jn – Route Boundary
+                                   68 60 77 40  Y  Y   Y  N  N   N  N   N  N
+              (GW401) (Ashchurch)
+     MD310BEA Barnt Green Jn – Redditch
+                                   51 58 56 60  Y  Y   Y  N  N   N  N   N  N
+     December 2009                                   24

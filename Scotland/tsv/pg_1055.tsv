@@ -1,5 +1,17 @@
-Scotland	1055	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1055	SC143	OBN1	Crianlarich Jn	Lower Crianlarich GF	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	5	Y	R1 R2 R3	R4 R5	R1 R2 R3	N	R1 R2 R3	N	R1 Prohibited from hauling passenger services R2 30mph over bridge 3 (0m 16ch) (10mph when providing assistance) R3 Double Heading prohibited except for providing assistance R4 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R5 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1055	SC143	OBN2	Lower Crianlarich GF	Inverhaggernie No.1 LC	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	5	R1	R2 R3 R4	R5 R6	R2 R3 R4	N	R2 R3 R4	N	R1 30mph over bridge 158 (30m 80ch) R2 10mph over bridge 158 (30m 80ch) R3 Prohibited from hauling passenger services R4 Double Heading prohibited except for providing assistance R5 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R6 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1055	SC143	OBN2	Inverhaggernie No.1 LC	Oban	Inverhaggernie No.1 LC – Oban	31	00	71	44	5	R1 R2	N	N	N	N	N	N	R1 30mph over bridge 176 (35m 17ch) R2 20mph over bridge 268 (66m 16ch)
-Scotland	1055	SC145	MLG1	Fort William	Change of ELR	Fort William – Change of ELR	0	05	1	27	5	Y	R1	R2 R3	R1	N	R1	N	R1 20mph over (Lochy Viaduct) (0m 55ch – 0m 60ch) R2 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R3 Route prohibited to Class 47/4 locomotives that conform to RA7
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+Scotland	1055	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1055	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	N	N	N	N	N	N	N	N	N	
+Scotland	1055	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N	N	N	N	N	
+Scotland	1055	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1055	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1055	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1055	SC157	MLE	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	Y	Y	Y	N	N	N	Y	N	N	
+Scotland	1055	SC159	NDE2	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	N	N	N	N	N	N	N	N	N	
+Scotland	1055	SC161	NDE1	Millerhill Yard – Junction with Niddrie West Line	5	52	3	36	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1055	SC161	SUB1	Junction with Niddrie West Line – Portobello	3	36	3	30	Y	Y	Y	N	N	N	Y	N	N	
+Scotland	1055	SC161	MHL4	Newcraighall East Jn – Network Rail / Abellio Scotrail Boundary	00	00	00	08	N	N	N	N	N	N	N	N	N	
+Scotland	1055	SC163	SUB1	Portobello – Change of ELR	3	30	4	00	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1055	SC163	SUB2	Change of ELR – Niddrie West	6	69	6	30	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1055	SC164	NNS	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	R1 R2	R1 R2	N	N	N	N	N	N	N	R1 55mph maximum speed R2 All passenger trains, except when operated by Class 158 or 170 DMUs, require a Special Operating Instruction
+Scotland	1055	SC164	SBO	Newcraighall South Jn – Tweedbank	5	02	35	34	R1 R2	R1 R2	N	N	N	N	N	N	N	R1 55mph maximum speed R2 All passenger trains, except when operated by Class 158 or 170 DMUs, require a Special Operating Instruction
+Scotland	1055	SC165	MHY	Niddrie South Jn – Niddrie West Jn	7	06	6	30	Y	Y	Y	N	N	N	Y	N	N	

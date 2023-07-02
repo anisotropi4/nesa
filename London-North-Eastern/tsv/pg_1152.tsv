@@ -1,11 +1,23 @@
-London-North-Eastern	1152	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-London-North-Eastern	1152	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns)	Bedford Station Jn	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3140	SPC1	Bedford Station Jn	Bedford Station (Via Up and Down Bletchley line)	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC1	St. Pancras platforms 1, 2, 3 and 4	Cricklewood	St. Pancras platforms 1, 2, 3 and 4 - Cricklewood	0	12	5	09	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC1	Cricklewood	Change of ELR (Bedford)	Cricklewood – Change of ELR (Bedford)	5	09	50	00	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC2	Change of ELR (Bedford)	Change of ELR (Wellingborough)	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC3	Change of ELR (Wellingborough)	Change of ELR (Wigston South Jn)	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC4	Change of ELR (Wigston South Jn)	Change of ELR (Leicester)	Change of ELR (Wigston South Jn) – Change of ELR (Leicester)	95	38	98	73	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC5	Change of ELR (Leicester)	Leicester	Change of ELR (Leicester) – Leicester	98	73	99	07	Y	Y	Y	N	N	N	N
-London-North-Eastern	1152	LN3201	SPC5	Leicester	Ratcliffe Jn	Leicester – Ratcliffe Jn	99	07	118	34	Y	Y	Y	EH R1 R2	N	Y	N	R1 Prohibited between Leicester and Loughborough R2 Prohibited with footsteps fitted
-London-North-Eastern	1152	LN3201	SPC5	Ratcliffe Jn	Change of ELR (Ratcliffe)	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
+London-North-Eastern	1152	LN870	CTL	Wakefield Turners Lane – Calder Bridge Jn	0	50	0	00	Y	Y	Y	N	N	N	N	Y	Y	
+London-North-Eastern	1152	LN872	TJC3	Altofts Jn – Hunslet South Jn	185	73	193	40	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1152	LN872	TJC3	Hunslet South Jn – Engine Shed Jn	193	40	195	20	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1152	LN872	ELN	Engine Shed Jn – Leeds West Jn	195	20	195	53	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1152	LN874	MEW2	Methley Jn – Whitwood Jn	1	12	0	01	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1152	LN875	CPM2	Castleford West Jn – Cutsyke Jn	0	00	0	61	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1152	LN875	CPM1	Cutsyke Jn – Pontefract West Jn	59	02	56	42	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1152	LN876	BOO	Castleford East Jn – Ledston	6	17	4	43	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1152	LN878	SHG	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1152	LN880	YMS	York (platforms 4 & 5) – Scarborough (platforms 1 to 5)	0	00	42	06	R1 R2	R1 R2	R2	N	N	N	N	N	R3	R1 Prohibited Scarborough platform 3 when laden R2 Prohibited Scarborough platform 5 R3 Prohibited Scarborough Bay platform 4
+London-North-Eastern	1152	LN880	YMS	York (platform 2 and maintenance sidings) – Connection to Up line	0	0	0	15	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1152	LN882	WAG1	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1152	LN882	WAG1	Calder Bridge Jn – Crofton West Jn	48	28	49	40	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1152	LN882	WAG1	Crofton West Jn – Knottingley West Jn	49	40	58	20	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1152	LN882	WAG1	Knottingley West Jn – Engine Shed Jn	58	20	73	52	Y	Y	Y	N	N	N	N	N	R1	R1 Prohibited between Kellingley Colliery Branch Jn and Engine Shed Jn
+London-North-Eastern	1152	LN882	WAG2	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1152	LN884	OAJ	Oakenshaw South Jn – Oakenshaw Jn.	49	41	48	76	N	N	N	N	N	Y	N	N	N	
+London-North-Eastern	1152	LN886	TJC3	Monk Bretton – Oakenshaw South Jn	176	22	181	75	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1152	LN886	OSC	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1152	LN888	CJS	Stainforth Jn – Thorpe Marsh Jn	166	70	163	76	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1152	LN888	HTM	Thorpe Marsh Jn – Haywood Jn	69	56	67	66	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1152	LN888	KWS	Haywood Jn – Knottingley West Jn	67	66	58	20	Y	Y	Y	N	N	N	Y	Y	Y	

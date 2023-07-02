@@ -1,20 +1,24 @@
-London-North-Eastern	1150	LN898	HUL2	Selby South Jn	Site of former Barlby Jn	Selby South Jn – Site of former Barlby Jn	31	12	30	40	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1150	LN898	HUL1	Site of former Barlby Jn	Anlaby Road Jn	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1150	LN898	HUL1	Anlaby Road Jn	Hull	Anlaby Road Jn – Hull	0	73	0	00	Y	Y	Y	N	N	N	N	N	R1 R2 R3	R1 Prohibited Hull Siding platform A R2 Prohibited Hull Sidings B-E R3 Prohibited Hull platforms 1, 3 and 5
-London-North-Eastern	1150	LN900	HUE	Neville Hill West Jn	Hunslet East	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1150	LN902	CFM	Micklefield Jn	Church Fenton North Jn	Micklefield Jn – Church Fenton North Jn	15	62	10	31	Y	Y	Y	N	N	N	Y	Y	Y
-London-North-Eastern	1150	LN904	HSC	Hambleton South Jn	Hambleton West Jn	Hambleton South Jn – Hambleton West Jn	174	10	175	33	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1150	LN906	HNC	Hambleton East Jn	Hambleton North Jn	Hambleton East Jn – Hambleton North Jn	3	34	4	00	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1150	LN908	SEC	Selby West Jn	Canal Jn	Selby West Jn – Canal Jn	0	00	0	32	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1150	LN910	TCW1	Temple Hirst Jn	Selby Canal Jn	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1150	LN910	TCW1	Selby Canal Jn	Selby South Jn	Selby Canal Jn – Selby South Jn	173	59	174	11	Y	Y	Y	N	N	N	Y	N	Y
-London-North-Eastern	1150	LN912	TJG1	Thorne Jn	Thorne North Change of ELR	Thorne Jn – Thorne North Change of ELR	7	69	9	09	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1150	LN912	TJG2	Thorne North Change of ELR	Gilberdyke Jn	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1150	LN914	HBS	West Parade Jn	West Parade North Jn	West Parade Jn – West Parade North Jn	0	25	0	72	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1150	LN914	HBS	West Parade North Jn	Walton Street Jn	West Parade North Jn – Walton Street Jn	0	72	1	29	Y	Y	Y	N	N	N	N	N	Y
-London-North-Eastern	1150	LN914	HBS	Walton Street Jn	Seamer West Jn	Walton Street Jn – Seamer West Jn	1	29	50	43	Y	Y	Y	N	N	N	N	N	R1	R1 Prohibited Bridlington platform 5
-London-North-Eastern	1150	LN916	HJS	Hessle Road	Springbank North Jn	Hessle Road – Springbank North Jn	0	00	1	38	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1150	LN916	HJS	Springbank North Jn	Network Rail Boundary	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N	N
-London-North-Eastern	1150	LN918	SPW	Springbank North Jn	Walton Street Jn	Springbank North Jn – Walton Street Jn	1	54	1	29	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1150	LN920	AWP	Anlaby Road Jn	West Parade North Jn	Anlaby Road Jn – West Parade North Jn	0	00	0	24	Y	Y	Y	N	N	N	N	N	N
-London-North-Eastern	1150	LN922	TJC3	Whitehall West Jn	Skipton	Whitehall West Jn – Skipton	195	57	221	01	Y	Y	Y	N	N	N	R1 R2	N	N	R1 30mph Shipley platform 2 R2 40mph Bingley Down platform
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
+London-North-Eastern	1150	LN840	TJC3	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN842	CJS	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1150	LN842	CJS	Applehurst Jn – Skellow Jn	163	27	160	59	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1150	LN842	SKA	Skellow Jn – Adwick Jn	0	61	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1150	LN844	JCA	Applehurst Jn – Joan Croft Jn	0	49	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1150	LN846	CJS	Carcroft Jn – Skellow Jn	160	08	160	59	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1150	LN848	HPC	Hare Park Jn – Crofton West Jn	171	70	173	22	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1150	LN850	WWK	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	0	00	0	26	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1150	LN852	LBE1	Holbeck Jn – Site of former Laisterdyke East Jn	0	02	6	49	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN852	LBE2	Site of former Laisterdyke East Jn – Site of former Laisterdyke West Jn	190	24	190	60	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN852	LBE3	Site of former Laisterdyke West Jn – Site of former Hammerton Street Jn	190	60	191	30	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN852	LBE4	Site of former Hammerton Street Jn – Mill Lane Jn	191	30	191	75	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN852	MRB	Mill Lane Jn – Bradford Interchange	40	01	40	27	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN854	MVN2	Route Boundary (NW7001) (Hall Royd Jn) – Turners Lane Jn	22	62	48	33	Y	Y	Y	N	N	N	Y	N	Y	
+London-North-Eastern	1150	LN854	MVN2	Turners Lane Jn – Site of former Goose Hill Jn	48	33	50	31	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1150	LN854	TJC3	Site of former Goose Hill Jn – Altofts Jn	184	56	186	00	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1150	LN854	NOC	Altofts Jn – Sherburn Jn	23	57	13	20	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1150	LN854	NOC	Sherburn Jn – Colton Jn	13	20	5	41	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1150	LN854	ECM4	Colton Jn – Holgate Jn	182	79	188	07	Y	Y	Y	N	N	N	Y	Y	N	
+London-North-Eastern	1150	LN854	ECM4	Holgate Jn – York	188	07	188	40	Y	Y	Y	N	N	N	Y	Y	N	
+London-North-Eastern	1150	LN854	ECM5	York – Skelton Jn	0	00	1	50	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1150	LN858	MRB	Milner Royd Jn – Mill Lane Jn	29	20	40	01	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1150	LN859	GRD	Greetland Jn – Dryclough Jn	1	11	0	00	Y	Y	Y	N	N	N	N	N	Y	

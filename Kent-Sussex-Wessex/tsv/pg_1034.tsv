@@ -1,16 +1,24 @@
-Kent-Sussex-Wessex	1034	Line of route	ELR	Line of Route / Sector Description		Line of Route / Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
-Kent-Sussex-Wessex	1034	SW230	HJW	Hounslow Jn	Whitton Jn	Hounslow Jn – Whitton Jn	14	09	14	39	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW230	HOU	Hounslow Jn	Feltham Jn	Hounslow Jn – Feltham Jn	14	09	14	38	Y	N	N	N	Y	Y	N
-Kent-Sussex-Wessex	1034	SW245	TSJ	Jn (Twickenham)	Strawberry Hill Jn	Jn (Twickenham) – Strawberry Hill Jn	11	48	12	27	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW245	SHF	Strawberry Hill Jn	Fulwell Jn	Strawberry Hill Jn – Fulwell Jn	12	27	12	56	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW245	TSJ	Strawberry Hill Jn	Shacklegate Jn	Strawberry Hill Jn – Shacklegate Jn	12	27	12	58	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW250	SWE	Staines	Windsor and Eton Riverside	Staines – Windsor and Eton Riverside	19	02	25	48	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW255	VWW	Virginia Water Jn	Addlestone Jn	Virginia Water Jn – Addlestone Jn	24	73	19	74	Y	N	N	N	Y	Y	N
-Kent-Sussex-Wessex	1034	SW255	AJB	Addlestone Jn	Byfleet Jn	Addlestone Jn – Byfleet Jn	0	00	0	67	Y	N	N	N	Y	Y	N
-Kent-Sussex-Wessex	1034	SW255	VWW	Addlestone Jn	Weybridge	Addlestone Jn – Weybridge	19	74	19	12	Y	N	N	N	Y	Y	N
-Kent-Sussex-Wessex	1034	SW260	AAV	Ascot	Ash Vale Jn	Ascot – Ash Vale Jn	28	79	40	57	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW265	GTW1	Guilford	Change of ELR	Guilford – Change of ELR	30	27	35	50	Y	N	N	N	Y	Y	R1	R1 Prohibited Guildford platform 1
-Kent-Sussex-Wessex	1034	SW265	GTW2	Change of ELR	Aldershot South Jn	Change of ELR – Aldershot South Jn	48	34	50	01	Y	N	N	N	Y	Y	Y
-Kent-Sussex-Wessex	1034	SW265	NSA	Aldershot South Jn	Aldershot North Jn	Aldershot South Jn – Aldershot North Jn	50	01	50	43	Y	N	N	N	N	N	N
-Kent-Sussex-Wessex	1034	SW265	GTW2	Aldershot South Jn	Wokingham Jn	Aldershot South Jn – Wokingham Jn	50	01	61	74	Y	N	N	N	Y	Y	Y
-Kent-Sussex-Wessex	1034	SW300	RSJ	Route Boundary (Sussex SO560) (Redhill)	Shalford Jn	Route Boundary (Sussex SO560) (Redhill) – Shalford Jn	33	10	41	62	Y	N	N	N	N	N	Y
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	1034	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	8	R1 R2	R1 Prohibited between Blackheath Jn and Angerstein Jn on the Down North Kent line R2 Prohibited between Blackheath Jn and Angerstein Jn on the Up North Kent line
+Kent-Sussex-Wessex	1034	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	8	R1 R2	R1 Prohibited between Falconwood and Welling on the Down Bexleyheath line R2 Prohibited between Bexleyheath and Barnhurst on the Up Bexleyheath line
+Kent-Sussex-Wessex	1034	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	8	Y	
+Kent-Sussex-Wessex	1034	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	8	Y	
+Kent-Sussex-Wessex	1034	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	8	Y	
+Kent-Sussex-Wessex	1034	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	8	Y	
+Kent-Sussex-Wessex	1034	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	8	Y	
+Kent-Sussex-Wessex	1034	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	8	Y	
+Kent-Sussex-Wessex	1034	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	8	Y	
+Kent-Sussex-Wessex	1034	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	8	Y	
+Kent-Sussex-Wessex	1034	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	8	R1	R1 Prohibited Dartford platform 1 (Up Passenger Loop)
+Kent-Sussex-Wessex	1034	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	8	Y	
+Kent-Sussex-Wessex	1034	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	8	Y	
+Kent-Sussex-Wessex	1034	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	8	R1 R2	R1 Prohibited between Halling and Snodland on the Down Main line R2 Prohibited between Maidstone Barracks and Maidstone West on the Up Main
+Kent-Sussex-Wessex	1034	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	8	N	
+Kent-Sussex-Wessex	1034	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	8	Y	
+Kent-Sussex-Wessex	1034	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	8	Y	
+Kent-Sussex-Wessex	1034	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	8	Y	
+Kent-Sussex-Wessex	1034	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	8	Y	
+Kent-Sussex-Wessex	1034	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	8	Y	
+Kent-Sussex-Wessex	1034	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	8	Y	
+Kent-Sussex-Wessex	1034	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	8	Y	
+Kent-Sussex-Wessex	1034	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	8	Y	

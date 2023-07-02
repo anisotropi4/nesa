@@ -1,46 +1,67 @@
-                                                                                         OFFICIAL
+                                                  OFFICIAL
 
 
 
 
-                                                                 Scotland Route Sectional Appendix Module SCRC
+                                        Scotland Route Sectional Appendix Module SCRC
 
-Line of   ELR    Line of Route / Sector                  oooo oooo oooo oooo 314      318    320/3   320/4    322     325 Notes
-route            Description                              M    Ch   M    Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
-                                                                                                                            ooo
-SC103     CBD1   Garnqueen North Jn – Gartcosh Jn           1   33    0    00        Y          Y    Y       Y   N    H
-SC103     CBD2   Gartcosh Jn – Change of ELR               97   09   103   41        Y          Y    Y       Y   N    H
-SC103     SGN    Change of ELR – Cowlairs West Jn           0   61    -0   20        Y          Y    Y       N   N    H
-SC105     GHE    Gartsherrie South Jn – Gartcosh Jn        95   64    97   06        Y          Y    Y       Y   N    H
-SC106     PNS    Sighthill West Jn – Cowlairs South Jn      0   30    0    00        Y          Y    Y       N   N    H
-                 (Chord Line)
-SC107     ECM9   Waverley East End – Edinburgh              0   21    0    00        Y          Y    Y       Y   Y    Y
-                 Waverley
-SC107     EGM4   Edinburgh Waverley – Waverley West         0   00    0    15        Y          Y    Y       Y   Y    Y
-                 End (South Lines)
-SC107     ECN1   Edinburgh Waverley – Waverley West         0   00    0    15        Y          Y    Y       Y   Y    Y
-                 End (North Lines)
-SC107     EGM3   Waverley West End – Haymarket              0   15    1    19        Y          Y    Y       Y   Y    Y
-                 (South Lines)
-SC107     ECN2   Waverley West End – Haymarket              0   15    1    19        Y          Y    Y       Y   Y    Y
-                 (North Lines)
-SC107     EGM2   Haymarket – Haymarket East Jn             46   02    45   72        Y          Y    Y       Y   Y    Y
-                 (South Lines)
-SC107     ECN2   Haymarket – Haymarket East Jn (North       1   19    1    29        Y          Y    Y       Y   Y    Y
-                 Lines)
-SC107     EGM2   Haymarket East Jn – Haymarket             45   72    45   35        Y          Y    Y       Y   Y    H
-                 Central Jn (South Lines)
-SC107     ECN2   Haymarket East Jn – Haymarket              1   29    1    66        Y          Y    Y       Y   Y    H
-                 Central Jn (North Lines)
-SC107     EGM2   Haymarket Central Jn – Haymarket          45   35    44   73        Y          Y    Y       Y   Y    H
-                 West Jn (South Lines)
-SC107     ECN2   Haymarket Central Jn – Haymarket           1   66    2    41        Y          Y    Y       N   Y    H
-                 West Jn (North Lines)
-SC107     EGM1   Haymarket West Jn – Cowlairs West         44   73    1    67    R1             R1   R1     R1   R1   H   R1   Prohibited between
-                 Jn                                                                                                            Newbridge Jn and Cowlairs
-                                                                                                                               West Jn
-SC107     EGM1   Cowlairs West Jn – Glasgow Queen           1   67    0    00        N          N    N       N   N    H
-                 Street
-SC109     PMT    Polmont Jn – Grangemouth Jn               21   20    23   75        N          N    N       N   N    H
+     Line of
+          ELR Line of Route / Sector Description oooo oooo oooo oooo
+                                                 170  180 185  220  221 Notes
+     route                          M  Ch M  Ch  0000 00000000 0000 0000 ooooooooooooooooooooooooooo
+     SC031GBK Change of ELR – Muirhouse South Jn
+                                     23 44  1  18 N    N   Y    Y    Y
+     SC031MEN2Muirhouse South Jn – Muirhouse
+                                     0  00  0  15 N    N   Y    Y    Y
+              Central Jn
+     SC031MEN1Muirhouse Central Jn – Eglinton St Jn
+                                     0  19  0  70 N    N   Y    Y    Y
+     SC031WCM2 Eglinton St Jn – Bridge St Jn
+                                    101 39 101 53 Y    N   Y    Y    Y
+     SC031WCM2 Bridge St Jn – Glasgow Central
+                                    101 53 102 27 Y    N   Y    Y    Y
+     SC035KSH Bank Jn – Network Rail Boundary
+                                     54 05 55  28 N    N   N    N    N
+              (Connel Park LC) / Knockshinnoch
+     SC036GNN Greenburn Jn – Greenburn Open Cast
+                                     0  00  0  55 N    N   N    N    N
+              (Goods Line)
+     SC037RIC1Kay Park Jn – Bellfield0  00  1  06 N    N   N    N    N
+     SC037RIC2Bellfield – Riccarton (Goods Line)
+                                     2  20  1  75 N    N   N    N    N
+     SC039BAK Kilmarnock – Barassie  0  05  7  56 N    N   N    N    N
+     SC045EKE East Kilbride – Busby Jn
+                                     7  60  0  40 N    N   N    N    N
+     SC047LFS2Muirhouse South Jn – Change of ELR
+                                     1  19  0  61 N    N   N    N    N
+     SC047LFS1Change of ELR – Larkfield Jn
+                                    101 17 101 01 N    N   N    N    N
+     SC049TSS Muirhouse Central Jn – Terminus Jn
+                                     0  04  0  40 N    N   N    N    N
+     SC051CTC Muirhouse Central Jn – Cathcart North
+                                     5  19  1  63 N    N   N    Y    Y
+              Jn (via Cathcart)
+     SC051CTC Cathcart North Jn – Muirhouse North Jn
+                                     1  63  0  00 N    N   Y    Y    Y
+              (via Crosshill)
+     SC053NNH Neilston – Cathcart West Jn
+                                    108 45 100 77 N    N   N    N    N
+     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill
+                                     95 53 95  77 N    N   Y    Y    Y
+               Jn
+     SC055KHL Newton Kirkhill Jn – Cathcart West Jn
+                                     95 77 100 77 N    N   R1   Y    Y R1 Prohibited between Cathcart East Jn and
+                                                                          Cathcart West Jn
+     SC057CNC Cathcart East Jn – Cathcart North Jn
+                                     0  45  0  00 N    N   Y    Y    Y
+     SC059WCM2 Glasgow Central – Bridge St Jn
+                                    102 27 101 53 Y    N   Y    Y    Y
+     SC059AYR1Bridge St Jn – Cook St 0  00  0  19 E    N   E    Y    Y
+     SC059LYE Cook St – High St Line (Smithy Lye
+                                     0  00  0  44 N    N   E    N    N
+              through line)
 
-October 2009                                                                    40
+
+
+
+     October 2009                               23

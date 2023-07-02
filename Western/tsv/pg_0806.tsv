@@ -1,23 +1,19 @@
-Western	0806	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
-Western	0806	GW660	Goonbarrow Jn to Newquay	Goonbarrow Jn	Newquay	6	6	6	THROUGHOUT Class 66 only at Over Bridges: 289m 72ch, 295m 01 ¼ch, 297m 36 ¾ch	30 MPH 10 MPH 10 MPH 10 MPH	30 MPH 10 MPH 10 MPH 10 MPH		Applies to all wagons empty or loaded & locomotives
-Western	0806	GW672	Burngullow to Drinnick Mill	Burngullow	Drinnick Mill	6	9	9				
-Western	0806	GW672	Drinnick Mill to Parkandillack	Drinnick Mill	Parkandillack	5	9	9				
-Western	0806	GW680	Penwithers Jn to Falmouth	Penwithers Jn	Falmouth	6	8	8				
-Western	0806	GW690	St Erth to St Ives	St Erth	St Ives	5	5	5	THROUGHOUT	10 MPH	10 MPH		Applies to all wagons empty or loaded & locomotives
-Western	0806	GW700	Gloucester Barnwood Jn to Severn Tunnel Jn	Gloucester Barnwood Jn	Severn Tunnel Jn	8	10	10				
-Western	0806	GW710	Llanwern Works East to Works West via Steelworks	Llanwern Works East	Works West via Steelworks	8	10	10				
-Western	0806	GW720	Uskmouth to East Usk Jn	Uskmouth	East Usk Jn	8	10	10				
-Western	0806	GW730	Severn Bridge Jn to Newport, Maindee West Jn	Severn Bridge Jn	Newport, Maindee West Jn	8	10	10	Over Bridge at 42m 53 ¼ch (Dinmore Tnl - Leominster)	30 MPH	30 MPH	
-Western	0806	GW731	Abbey Foregate to Ruabon	Abbey Foregate	Ruabon	8	10	10	Over Bridge No. 438 (170 MP) (Allscott GF – Abbey Foregate Jn)	20 MPH	20 MPH		Belvedere Viaduct
-Western	0806	GW732	Abbey Foregate to English Bridge Jn	Abbey Foregate	English Bridge Jn	8	10	10				
-Western	0806	GW733	Sutton Bridge Jn to Welshpool	Sutton Bridge Jn	Welshpool	7	7	7				
-Western	0806	GW733	Welshpool to Dovey Jn	Welshpool	Dovey Jn	5	5	5				
-Western	0806	GW733	Dovey Jn to Aberystwyth	Dovey Jn	Aberystwyth	5	5	5				
-Western	0806	GW734	Dovey Jn to Morfa Mawddach	Dovey Jn	Morfa Mawddach	5	5	5				
-Western	0806	GW734	Morfa Mawddach to Barmouth	Morfa Mawddach	Barmouth	5	5	5				
-Western	0806	GW734	Barmouth to Pwllheli	Barmouth	Pwllheli	5	5	5				
-Western	0806	GW735	Severn Bridge Jn to Nantwich	Severn Bridge Jn	Nantwich	8	10	10				
-Western	0806	GW736	Gobowen South to Llanddu Jn	Gobowen South	Llanddu Jn	5	5	5				
-Western	0806	GW740	Maindee North Jn to Maindee East Jn	Maindee North Jn	Maindee East Jn	8	10	10				
-Western	0806	GW750	Brecon Curve GF to MEB Siding	Brecon Curve GF	MEB Siding	8	10	10				
-Western	0806	GW770	Ebbw Vale Parkway to Gaer Jn	Ebbw Vale Parkway	Gaer Jn	5	10	10				
+Route	page	Line of Route	Line of Route / Sector Description	RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
+Western	0806	GW185	Bourne End to Marlow	6	6	6				
+Western	0806	GW187	Twyford to Henley-on-Thames	4	8B	8B	See Local Instructions for restrictions			
+Western	0806	GW190	Reading Spur Jn to Reading New	8	10	10				
+Western	0806	GW200	Didcot to Heyford	8	10	10				
+Western	0806	GW220	Oxford Road Jn to Reading West Jn	8	10	10				
+Western	0806	GW240	Didcot East Jn to Didcot North Jn via avoiding line	8	10	10				
+Western	0806	GW250	Foxhall Jn to Didcot West Curve Jn	8	10	10				
+Western	0806	GW260	Kennington Jn to Morris Cowley	7	10	10				
+Western	0806	GW277	Oxford North Jn – Oxford Parkway (Excl)	7	10	10				
+Western	0806	GW310	Wolvercot Jn to Norton Jn	7	8B	8B				
+Western	0806	GW317	Honeybourne GF to Long Marston	7	8B	8B				
+Western	0806	GW400	Barnt Green to Westerleigh Jn	8	10	10				
+Western	0806	GW425	Berkeley Road Jn to Sharpness	6	9B	9B				
+Western	0806	GW430	Yate Middle Jn to Tytherington	8	10	10				
+Western	0806	GW440	Yate South Jn to Westerleigh Terms	8	10	10				
+Western	0806	GW450	Stoke Gifford Jn to Bristol East Jn	8	10	10				
+Western	0806	GW4501	Stoke Gifford Jn to Avonmouth BBHT	7	10	10	THROUGHOUT	35 MPH	35 MPH	
+Western	0806	GW451	Filton Jn to Filton West Jn	7	10	10				

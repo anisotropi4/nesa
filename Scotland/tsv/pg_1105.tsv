@@ -1,23 +1,13 @@
-Scotland	1105	Line of Route	Line of Route / Sector Description	Line of Route / Sector Description		Gauge								Notes
-Scotland	1105					W6	W7	W8	W9	W9Plus	W10	W10A	W12
-Scotland	1105	SC067	Wemyss Bay Jn – Wemyss Bay	Wemyss Bay Jn	Wemyss Bay	Y *	Y	N	N	N	N	N	N
-Scotland	1105	SC069	Containerbase Jn – Greenock CPA Terminal (Goods Line) (OOU)	Containerbase Jn	Greenock CPA Terminal (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Not Network Rail infrastructure. Line 'Out of Use'
-Scotland	1105	SC073	Kilwinning Jn – Largs	Kilwinning Jn	Largs	Y *	Y	Y	Y	N	N	N	N
-Scotland	1105	SC075	Misk to Stevenston (Goods Line) (OOU)	Misk	Stevenston (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1105	SC077	Ardrossan South Beach to Adrossan Harbour	Ardrossan South Beach	Adrossan Harbour	Y *	N	N	N	N	N	N	N
-Scotland	1105	SC079	Hunterston – Hunterston Low Level Sdgs (Goods Line)	Hunterston	Hunterston Low Level Sdgs (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1105	SC081	Byrehill Jn – Dubbs Jn	Byrehill Jn	Dubbs Jn	Y	Y	N	N	N	N	N	N
-Scotland	1105	SC083	Snodgrass - Bogside (Goods Line) (OOU)	Snodgrass	Bogside (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1105	SC085	Ayr Harbour – Newton Jn (Goods Line)	Ayr Harbour	Newton Jn (Goods Line)	Y	Y	N	N	N	N	N	N
-Scotland	1105	SC087	Newton Jn – Mauchline (Goods Line)	Newton Jn	Mauchline (Goods Line)	Y	Y	N	N	N	N	N	N
-Scotland	1105	SC089	Annbank – Killoch Colliery (Goods Line)	Annbank	Killoch Colliery (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1105	SC091	Dalrymple Jn – Chalmerston (Goods Line)	Dalrymple Jn	Chalmerston (Goods Line)	Y	N	N	N	N	N	N	N
-Scotland	1105	SC093	Motherwell – Coatbridge FLT	Motherwell	Coatbridge FLT	Y *	Y	Y	Y	N	Y	N	N
-Scotland	1105	SC093	Coatbridge FLT – Garnqueen North Jn	Coatbridge FLT	Garnqueen North Jn	Y	Y	Y	Y	N	N	N	N
-Scotland	1105	SC093	Garnqueen North Jn – Greenhill Lower Jn	Garnqueen North Jn	Greenhill Lower Jn	Y *	Y	Y	Y	N	N	N	N
-Scotland	1105	SC097	Whifflet South Jn – Sunnyside Jn (Goods Line)	Whifflet South Jn	Sunnyside Jn (Goods Line)	Y	Y	Y	N	N	N	N	N
-Scotland	1105	SC099	Whifflet North Jn – Rutherglen East Jn	Whifflet North Jn	Rutherglen East Jn	Y *	Y	Y	Y	N	N	N	N
-Scotland	1105	SC101	Coatbridge Jn – Langloan Jn	Coatbridge Jn	Langloan Jn	Y	Y	Y	Y	N	N	N	N
-Scotland	1105	SC103	Garnqueen North Jn – Cowlairs West Jn	Garnqueen North Jn	Cowlairs West Jn	Y *	Y	Y	Y	N	N	N	N
-Scotland	1105	SC105	Gartsherrie South Jn – Gartcosh Jn	Gartsherrie South Jn	Gartcosh Jn	Y	Y	Y	Y	N	R1	N	N	R1 W10 prohibited EXCEPT for use of Coatbridge FLT Headshunt Line
-Scotland	1105	SC106	Sighthill West Jn – Cowlairs South Jn (Chord Line)	Sighthill West Jn	Cowlairs South Jn (Chord Line)	Y	N	N	N	N	N	N	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1105	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	5 R1	N	R2	R2 R3	N	N	N	R2	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014 R2 10mph over bridge 240/128 (2m 24ch) R3 Sleeper Services only subject to 20mph maximum speed
+Scotland	1105	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	7	N	Y	Y	Y	Y	Y	Y	
+Scotland	1105	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1105	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1105	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1105	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	5 R1	Y	Y	R2	Y	N	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014 R2 Sleeper services only
+Scotland	1105	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	5 R1	Y	Y	R2	Y	N	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014 R2 Sleeper services only
+Scotland	1105	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	5 R1	Y	Y	N	N	N	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+Scotland	1105	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7 R1	N	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 Sleeper Services only
+Scotland	1105	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	8 R1	N	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 Sleeper services only
+Scotland	1105	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1105	SC131	HST	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	8	Y	Y	Y	Y	Y	Y	Y	
