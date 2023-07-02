@@ -18,7 +18,7 @@ fi
 for ROUTE in $(jq -r '.[] | keys[]' section-list.json)
 do
     echo Processing ${ROUTE}
-    for i in pdf images tsv txt raw work stage output report
+    for i in pdf images tsv ftsv txt ftxt raw work stage output report dump
     do
         if [ ! -d ${ROUTE}/${i} ]; then
             mkdir -p ${ROUTE}/${i}
@@ -28,35 +28,31 @@ do
     if [ -z "$(ls -A ${ROUTE}/pdf/)" ]; then
         echo Extract PDF pages ${ROUTE}
         (cd ${ROUTE}/pdf; pdfseparate "../../download/${FILENAME}" pg_%04d.pdf)
-    fi
+    fi    
     echo Process ${ROUTE} PDF pages
+    ./remove-background.sh ${ROUTE}
     for i in ${ROUTE}/pdf/*.pdf
     do
-        echo -n ${i}
         FILESTUB=$(basename ${i} | sed 's/.pdf//')
-        PDFPATH=${ROUTE}/work/${FILESTUB}.pdf
-        if [ ! -f ${PDFPATH} ]; then
-            N=$(pdfimages -list ${i} | wc -l)
-            if [ ${N} = 2 ]; then
-                echo -n " remove grey background"
-                gs -q -sstdout=/dev/null -dSAFER -dEmbedAllFonts=true -dNOPAUSE -dBATCH -dPDFA=1 -dNOOUTERSAVE -sProcessColorModel=DeviceCMYK -sPDFACompatibilityPolicy=1 -sDEVICE=pdfwrite -sOutputFile=${PDFPATH} ${i} 2> /dev/null
-                qpdf --replace-input --stream-data=uncompress ${PDFPATH}
-                (cd ${ROUTE};
-                 filter_pdf.py work/${FILESTUB}.pdf;
-                 qpdf --no-warn stage/${FILESTUB}.pdf output/${FILESTUB}.pdf)
-            fi
-        fi
-        echo
         TXTPATH=${ROUTE}/txt/${FILESTUB}.txt
-        if [ ! -f ${TXTPATH} ]; then
+        if [ ! -f ${TXTPATH} ]; then            
             pdftotext -layout -nopgbrk ${i} ${TXTPATH}
+        fi
+        PDFPATH=${i}
+        OUTPUTPATH=${ROUTE}/output/${FILESTUB}.pdf
+        if [ -f ${OUTPUTPATH} ]; then
+            PDFPATH=${OUTPUTPATH}
+        fi
+        TXTPATH=${ROUTE}/ftxt/${FILESTUB}.txt
+        if [ ! -f ${TXTPATH} ]; then
+           pdftotext -fixed 2.8 -nopgbrk ${PDFPATH} ${TXTPATH}
         fi
     done
     if [ -z "$(ls -A ${ROUTE}/report/)" ]; then
         echo Create gauge report ${ROUTE}
-        ./collate-gauge.py ${ROUTE}
+        ./collate-gauge2.py ${ROUTE}
     fi
-    find ${ROUTE} -name \*.tsv -exec sed -i 's/\t$//' {} \;
+    #find ${ROUTE} -name \*.tsv -exec sed -i 's/\t$//' {} \;
 done
 
 for ROUTE in $(jq -r '.[] | keys[]' section-list.json)
@@ -65,12 +61,12 @@ do
     for i in ${ROUTE}/output/*.pdf
     do
         FILESTUB=$(basename ${i} | sed 's/.pdf//')
-        echo -n ${ROUTE} ${FILESTUB}.png
         if [ ! -f ${ROUTE}/images/${FILESTUB}.png ]; then
+                echo -n ${ROUTE} ${FILESTUB}.png
             echo -n " generate"
             pdftoppm -singlefile -r 300 -png ${i} ${ROUTE}/images/${FILESTUB}
+            echo
         fi
-        echo
     done
 done
 
