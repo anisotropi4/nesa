@@ -14,8 +14,8 @@ do
     if [ ! -f ${PDFPATH} ]; then
         N=$(pdfimages -list ${i} | wc -l)
         if [ ${N} = 2 ]; then
-            echo -n ${i}
-            echo -n " remove grey background"
+            #echo -n ${i}
+            #echo -n " remove grey background"
             gs -q -sstdout=/dev/null -dSAFER -dEmbedAllFonts=true \
                -dNOPAUSE -dBATCH -dPDFA=1 -dNOOUTERSAVE \
                -sProcessColorModel=DeviceGray -sColorConversionStrategy=Gray \
@@ -25,7 +25,7 @@ do
             (cd ${ROUTE};
              filter_pdf.py work/${FILESTUB}.pdf;
              qpdf --no-warn stage/${FILESTUB}.pdf output/${FILESTUB}.pdf)
-            echo
+            #echo
         fi
     fi
 done
