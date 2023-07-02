@@ -18,7 +18,7 @@ fi
 for ROUTE in $(jq -r '.[] | keys[]' section-list.json)
 do
     echo Processing ${ROUTE}
-    for i in pdf images tsv ftsv txt ftxt raw work stage output report dump
+    for i in pdf images tsv txt ftxt raw work stage output report dump
     do
         if [ ! -d ${ROUTE}/${i} ]; then
             mkdir -p ${ROUTE}/${i}
