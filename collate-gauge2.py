@@ -5,6 +5,7 @@ import argparse
 import json
 import re
 import sys
+import warnings
 from os import path, walk
 
 import cv2
@@ -27,7 +28,7 @@ PARSER.add_argument(
 #    "route", type=str, nargs="?", default="Western", help="name of route"
 # )
 
-
+DEBUG = False
 ARGS, _ = PARSER.parse_known_args()
 ROUTE = path.dirname(ARGS.route) or ARGS.route
 
@@ -169,6 +170,18 @@ def clean_dataframe(this_df):
     return r.fillna("")
 
 
+def write_report(route, table_lookup):
+    keys = sorted(list(table_lookup.keys()))
+    for count, k in enumerate(keys):
+        df = pd.concat(table_lookup[k]).reset_index(drop=True)
+        key, _ = k
+        if DEBUG:
+            print(f"{key}\t\t\t\t{k[1]}")
+        filepath = f"{route}/report/gauge-report-{str(count).zfill(2)}.tsv"
+        df.to_csv(filepath, sep="\t", index=False, header=False)
+        count += 1
+
+
 def write_xlsx(route, table_lookup):
     filepath = f"{route}/{route.lower()}-clearance.xlsx"
     keys = sorted(list(table_lookup.keys()))
@@ -180,7 +193,8 @@ def write_xlsx(route, table_lookup):
             df = pd.concat(table_lookup[k]).reset_index(drop=True)
             key = k[0]
             tab = f"{key}-{str(count[key]).zfill(2)}"
-            print(f"{tab}\t\t\t\t{k[1]}")
+            if DEBUG:
+                print(f"{tab}\t\t\t\t{k[1]}")
             df.to_excel(writer, tab, index=False)
             count[key] += 1
 
@@ -277,7 +291,7 @@ def set_table(this_table, table_name):
     if not this_table:
         return table_name
     this_table = this_table.replace(" / ", " ").replace("/", " ")
-    if table_name:
+    if table_name and this_table != table_name:
         print(table_name)
     return this_table
 
@@ -348,7 +362,8 @@ def main(route):
     for filepath in get_route_list(route):
         header = False
         p = get_page(filepath)
-        print(filepath)
+        if DEBUG:
+            print(filepath)
         header, skip, this_table = get_table_name(route, p)
         if skip:
             continue
@@ -377,32 +392,17 @@ def main(route):
         output.insert(1, "page", p)
         output.to_csv(f"{route}/tsv/pg_{p}.tsv", index=False, sep="\t")
         key = (table_name, ":".join(df.columns))
-        print(key)
+        if DEBUG:
+            print(key)
         try:
             table_lookup[key].append(output)
         except KeyError:
             table_lookup[key] = [output]
-    write_xlsx(route, table_lookup)
+    write_report(route, table_lookup)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore", category=UserWarning)
+        write_xlsx(route, table_lookup)
 
 
 if __name__ == "__main__":
     main(ROUTE)
-
-# if p == '1115':
-# if p == '10918':
-# if p == '10920':
-# if p == '10955':
-# if p == '1008':
-# if p == '1046':
-# if p == '1046':
-# if p == '0927':
-# if p == '1062':
-# if p == "0395":
-# if p == "0394":
-# if p == '0890':
-# if p == '0885':
-# if p == '0895':
-# if p == '0988':
-# if p == '0444':
-# if p == '0446':
-#    2 / 0
