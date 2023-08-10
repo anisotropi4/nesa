@@ -1,79 +1,77 @@
                                                   OFFICIAL
 
 
-                                         Western Route Sectional Appendix Module WR2
+                                      Western Route Sectional Appendix Module WR2
 
-      Line of ELR
-              Line of Route / Sector           RA 08 20 31/1 31/4
-                                                              33 37/0 37/5 37/7 Notes
-      route   Description                      0000 0000 0000 31/6 0000 0000 37/3 0000 37/9
-                                                                            ooooooooooooooooooooooooooo
-                                  oooo oooo oooo oooo            37/4  0000
-                                   M  Ch M  Ch                   37/6
-      GW130 AWL
-              Route Boundary (EA1310) (Acton
-                                    0 39  0  08 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Wells Jn) – Acton East Jn
-      GW174 WEL1 West Ealing Jn – Drayton Green Jn
-                                    6 56  7  03 8  Y  Y  Y  Y  Y  Y  Y  Y
-      GW174 WEL1 Drayton Green Jn – Greenford South
-                                    7 03  8  45 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Jn
-      GW174 WEL1 Greenford South Jn – Greenford LUL
-                                    8 45  8  65 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Bay Jn
-      GW174 WEL1 Greenford LUL Bay Jn – Greenford
-                                    8 65  8  76 8  Y  Y  Y  Y  Y  Y  Y  Y
-              West Jn
-      GW175 WEL2 Greenford LUL Bay Jn – Greenford
-                                    8 65  9  06 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Station
-              Hanwell Jn – Drayton Green Jn
-      GW176 HAN                     0 00   0 36 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Southall – Brentford Goods
-      GW178 BRB                     0 00   2 70 8 Y  Y  Y  Y  Y  Y  Y  Y
-      GW180 HLL
-              Heathrow Airport Jn (Up and Down
-                                   11 04  12 27 8 R1 R1 R1 R1 R1 R1 R1 R1 R1See Sectional Appendix Local Instructions
-              Main) – NR Boundary (BAA)
-              West Drayton Jn – End of Branch
-      GW182 STA                    13 31  16 25 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (Colnbrook)
-              Slough – Windsor & Eton Central
-      GW184 WIN                    18 36  21 19 6  Y  Y  Y  Y  Y  N  N  N
-      GW185 WBB Maidenhead – Bourne End
-                                   24 19  28 55 6  Y  Y  Y  Y  Y  Y  Y  N
-      GW185 MWB Bourne End GF – Marlow
-                                    0 06   2 54 6  Y  Y  Y  Y  Y  Y  Y  N
-              Twyford – Henley-on-Thames
-      GW187 HEN                    31 01  35 48 4  Y  N  N  N  N  B  B  N
-      GW190 RNJ
-              Route Boundary (SW210) (Reading
-                                   68 00  68 35 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Spur Jn) – Reading New Jn
-              Reading Southern Jn – Reading East
-      GW195 RLL                    35 33  35 61 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Jn
-              Chester Line Jn – Route Boundary
-      GW200 DCL                    53 12  75 00 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (MD401) (Heyford)
-      GW220 RWC Reading, Oxford Road Jn – Reading
-                                    0 43  0  02 8  Y  Y  Y  Y  Y  Y  Y  Y
-              West Jn
-              Caversham Road Jn – Oxford Road
-      GW225 RFR                    36 25  36 74 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Jn
-              Didcot East Jn – Didcot North Jns
-      GW240 DEC                    52 66  54 00 8  Y  Y  Y  Y  Y  Y  Y  Y
-      GW250 DWC Foxhall Jn – Didcot West Curve Jn
-                                    0 01   0 32 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Kennington Jn – Morris Cowley
-      GW260 THA                    18 45  16 04 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Oxford North Jn – Route Boundary
-      GW277 OXD                    30 09  29 25 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (MD736) (29m 25ch)
+   Line of ELR                 oooo oooo oooo oooo MK1
+            Line of Route / Sector              MK2 MK3 MK3MK3 MK3 MK4  Notes
+   route    Description         M  Ch M  Ch             MODDVT DVT     ooooooooooooooooooooooooooo
+                                                               MOD
+   GW900SWM Whitland Jn – Clarbeston Road Jn
+                                259 01271 08 Y   Y   Y   N  N   N   N
+         2
+   GW900CRL Clarbeston Road Jn – Change of ELR
+                                271 08281 58 Y   Y   Y   N  N   N   N
+            (Letterston Jn)
+   GW900NPF Change of ELR (Letterston Jn) –
+                                283 30287 52 Y   Y   Y   N  N   N   N
+            Network Rail Boundary (Fishguard
+            Harbour)
+   GW9001 SWA Landore Jn – Swansea
+                                214 62216 07 Y   Y   Y   N  N   N   N
+   GW906SWL Swansea Loop East Jn – Swansea
+                                 0  53 0  00 Y   Y   Y   N  N   N   N
+            Loop West Jn
+   GW910CWL1 Craven Arms Jn – Change of Mileage
+                                20  01 20 12 Y   Y   Y   N  N   N   N
+   GW910CWL2 Change of Mileage – Site of Former
+                                 0  00 59 14 Y   Y   Y   N  N   N   N
+            Llandovery Jn
+   GW910VOT Site of Former Llandovery Jn –
+                                29  40 18 07 Y   Y   R1  N  N   N   N R1 5mph through Llandovery Platforms
+            Llandeilo
+   GW910 LLA Llandeilo – Pantyffynnon
+                                18  07 10 08 Y   Y   Y   N  N   N   N
+   GW910 LLA Pantyffynnon – Morlais Jn
+                                10  08  3 50 Y   Y   Y   N  N   N   N
+   GW910LLA Morlais Jn – Llandeilo Jn
+                                 3  50  0 00 Y   Y   Y   N  N   N   N
+   GW915GWA Gwaun-cae-Gurwen – Former Jn
+                                16  41 14 60 N   N   N   N  N   N   N
+            (Change of ELR)
+   GW915GNT Former Jn (Change of ELR) –
+                                14  60 10 04 N   N   N   N  N   N   N
+            Pantyffynnon
+   GW930CAN Carmarthen Jn – End of Line (Beyond
+                                245 10245 65 Y   Y   Y   N  N   R1  N R1 Prohibited between Camarthen Station
+            Carmarthen Station)                                          and End of Line
+   GW940CAN/ Up Sidings No.2 GF – Carmarthen
+                                245 43245 32 Y   Y   Y   N  N   N   N
+        CNW Bridge Jn
+   GW950PEM Whitland Jn – Pembroke RA Change
+                                259 01284 22 Y   Y   Y   N  N   N   N
+   GW950PEM Pembroke RA Change – Pembroke
+                                284 22286 26 Y   Y   Y   N  N   N   N
+            Dock
+   GW960SWM Clarbeston Road – Haverfordwest
+                                271 08276 08 Y   Y   Y   N  N   N   N
+         2
+   GW960SWM Haverfordwest – Change of ELR (Site
+                                276 08280 70 Y   Y   Y   N  N   N   N
+         2  of Former Johnston Jn)
+   GW960 MILChange of ELR (Site of Former
+                                280 70283 12 Y   Y   Y   N  N   N   N
+            Johnston Jn) – Herbranston Jn
+   GW960 MILHerbranston Jn – End of Line (Beyond
+                                283 12284 71 Y   Y   Y   N  N   N   N
+            Milford Haven)
+   GW970GOB Gulf Oil Branch Jn – Waterston, Gulf
+                                 0  00 2  35 N   N   N   N  N   N   N
+            Oil Refinery
+   GW980ERB Herbrandston Jn – Robeston
+                                 0  00 1  18 N   N   N   N  N   N   N
 
 
 
 
-         April 2009                                 501B
+    April 2009                                   500J

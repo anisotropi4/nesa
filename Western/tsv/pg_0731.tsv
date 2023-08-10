@@ -1,25 +1,11 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0731	GW830	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	N	Y	N	Y	N	N	Y	Y	N	R1	Y	N
-Western	0731	GW830	BRY	Cardiff West Jn – Barry Jn	0	10	8	16	N	N	N	R1	N	N	Y	Y	N	Y	Y	N
-Western	0731	GW830	BRY	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW834	VON	Network Rail Boundary – Aberdare	26	62	22	34	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW834	VON/ ALK	Aberdare – Cwmbach Change of ELR	22	34	20	68	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW834	ABD/ MOA	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW835	THT	End of Line – Treherbert	23	69	23	54	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW835	THT	Treherbert – Pontypridd Jn	23	54	13	04	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW839	CAM	Queen Street South Jn – Cardiff Bay	0	66	0	02	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0731	GW840	RAD	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW840	RAD	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	N	N	N	Y	N	N	Y	Y	N	N	N	N
-Western	0731	GW840	RAD	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	N	N	N	Y	N	N	Y	Y	N	N	N	N
-Western	0731	GW850	CLL	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	N	N	N	Y	N	N	Y	Y	N	N	N	N
-Western	0731	GW860	CPL	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	N	N	N	Y	N	N	Y	Y	N	N	N	N
-Western	0731	GW864	PTH	Cogan Jn – Penarth	0	01	1	12	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0731	GW870	VOG	Barry Jn – Bridgend Bay Platform	0	00	19	04	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0731	GW871	FOR	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW874	BAL	Llynfi Jn – Tondu Jn	0	07	2	70	N	N	N	Y	N	N	Y	Y	N	N	N	N
-Western	0731	GW874	BAL	Tondu Jn – Maesteg	2	70	8	06	N	N	N	Y	N	N	Y	N	N	N	N	N
-Western	0731	GW877	POR	Tondu Jn – Cefn Jn	0	00	2	43	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0731	GW877	OVE	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0731	GW877	OVE	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW877	OVE	Margam East Jn – Margam Yard Jn	1	40	0	79	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0731	GW877	OVE	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	N	N	N	N	N	N	N	N	N	N	N	N
+Western	0731	GW700	SWM2	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	Y	N	Y	N	N	Y	Y	N	Y	Y	N	R1
+Western	0731	GW710	NO ELR	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	N	N	N	N	N	N	N	N	N	N	N	R2
+Western	0731	GW720	EUB	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	N	N	N	N	N	N	N	N	N	N	N	R3
+Western	0731	GW730	SHL	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	N	N	R1	N	N	Y	Y	R2	N	N	N	R1 Prohibited between Sutton Bridge Jn and Craven Arms Jn R4 R2 Prohibited Up Goods Loop Jn to Craven Arms Jn
+Western	0731	GW730	SHL	Craven Arms Jn – Shelwick Jn	20	01	49	26	N	N	N	N	N	Y	Y	N	N	N	N	R5
+Western	0731	GW730	SHL	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	R1	N	R2	N	R2 R3	Y	Y	R4	Y	Y	N	R6 Prohibited between Hereford Diesel Depot sidings and Site of Former Rotherwas Jn R7 Class 172/2 and 172/3 prohibited between Hereford Station and Site of former Rotherwas Jn R8 Route prohibited to Class 172/1 R4 ECS only Hereford SB to Site of former Rotherwas Jn
+Western	0731	GW730	HDC	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0731	GW730	HNL1	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	N	N	R1	N	N	Y	Y	N	Y	Y	N	R1 Prohibited between Site of former Red Hill Jn and Maindee North Jn
+Western	0731	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	N	Y	Y	N	N	Y	N	Y	N	Y	N	
+Western	0731	GW731	WSJ2	Abbey Foregate Jn – Crewe Jn	171	15	171	57	N	Y	Y	N	N	Y	R1 R2	R5	N	R3 R4 R5	N	R1 Prohibited between Abbey Foregate Jn and Severn Bridge Jn R2 Prohibited between Shrewsbury and Crew Jn R3 3mph Shrewsbury platforms 3, 4 and 5 with deflated suspension R4 Prohibited Shrewsbury Bay platform 6 R5 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)

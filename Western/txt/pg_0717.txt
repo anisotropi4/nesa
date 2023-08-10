@@ -4,65 +4,75 @@
                                        Western Route Sectional Appendix Module WR2
 
 
-       Line of
-            ELR Line of Route / Sector
-                              oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
-       route    Description
-                                M   Ch   M   Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+       LineELR Line of Route / Sector
+                               oooo ooooooooooo 121 142 143 150 153 155 156 158 159 165Notes
+       of      Description
+                                 M   Ch   M  Ch 0000 00000000 00000000 0000 00000000 0000
                                                                         oooooooooooooooooooooooooo
-       GW900 SWM2 Cardiff East Jn – Cardiff
-                                170  18 170  56 E Y  Y Y  Y Y  Y Y  Y N
-                West Jn
-       GW900 SWM2 Cardiff West Jn – Court
-                                170  56 206  58 E Y  Y Y  Y Y  Y Y  Y N
-                Sart Jn
-       GW900 SWM2 Court Sart Jn – Llandore
-                                206  58 214  62 E Y  Y Y  Y Y  Y Y  Y N
-                Jn
-       GW900 SWM2 Llandore Jn – Llandeilo Jn
-                                214  62 223  49 E Y  Y Y  Y Y  Y Y  Y N
-       GW900 SWM2 Llandeilo Jn – Carmarthen
-                                223  49 245  32 E Y  Y Y  Y Y  Y Y  Y N
-                Bridge Jn
-       GW900 SWM2 Carmarthen Bridge Jn –
-                                245  32 259  01 E Y  Y Y  Y Y  Y Y  Y N
-                Whitland Jn
+       route
+               Abercynon Jn – Pontypridd
+       GW830 CAM                 16  35   13  04 E Y  Y Y  N N  N N  N N
+               Jn
+               Pontypridd Jn – Radyr Jn
+       GW830 CAM                 13  04    5  23 E Y  Y Y  N N  N N  N N
+               Radyr Jn – Queen Street
+       GW830 CAM                  5  23    1  17 E Y  Y Y  Y Y  Y Y  Y N
+               North Jn
+               Queen Street North Jn –
+       GW830 CAM                 1   17    0  66 Y Y  Y Y  Y Y  Y Y  Y N
+               Queen Street South Jn
+               Queen Street South Jn –
+       GW830 CEJ                 0   22    0  00 E Y  Y Y  Y Y  Y Y  Y N
+               Cardiff East Jn
+       GW830 SWM2 Cardiff East Jn – Cardiff West
+                                170  18   170 56 E Y  Y Y  Y Y  Y Y  Y N
+               Jn
+               Cardiff West Jn – Barry Jn
+       GW830 BRY                 0   10    8  16 E Y  Y Y  Y Y  Y Y  Y N
+               Barry Jn – Buffer Stops
+       GW830 BRY                 8   16    8  76 E Y  Y Y  Y Y  Y Y  Y N
+               (Barry Island)
+               Network Rail Boundary –
+       GW834 VON                 26  62   22  34 E Y  Y Y  N N  N N  N N
+               Aberdare
+       GW834 VON/ Aberdare – Cwmbach
+                                 22  34   20  68 E Y  Y Y  N N  N N  N N
+           ALK Change of ELR
+               Cwmbach Change of ELR –
+       GW834 ABD/                22  01   16  35 E Y  Y Y  N N  N N  N N
+           MOA Abercynon Jn (Including
+               Mountain Ash Down Loop
+               ELR MOA)
+               End of Line – Treherbert
+       GW835 THT                 23  69   23  54 E Y  Y Y  N N  N N  N N
+               Treherbert – Pontypridd Jn
+       GW835 THT                 23  54   13  04 E Y  Y Y  N N  N N  N N
+               Queen Street South Jn –
+       GW839 CAM                  0  66    0  02 Y Y  Y Y  Y Y  Y Y  Y N
+               Cardiff Bay
+               Radyr Jn – Leckwith Loop
+       GW840 RAD                 4   41    0  69 E Y  Y Y  Y Y  Y R1 R1 N R1
+                                                                           20mph Fairwater Up platform
+               South Jn                                           R2 R2 R2 20mph Ninian Park Down platform
+               Leckwith Loop South Jn –
+       GW840 RAD                 0   69    0  47 E Y  Y Y  Y Y  Y Y  Y N
+               Penarth Curve North Jn
+               Penarth Curve North Jn –
+       GW840 RAD                 0   47    0  25 E Y  Y Y  Y Y  Y Y  Y N
+               Radyr Branch Jn
+               Leckwith Loop South Jn –
+       GW850 CLL                 0   26    0  00 E Y  Y Y  Y Y  Y Y  Y N
+               Leckwith Loop North Jn
+               Penarth Curve North Jn –
+       GW860 CPL                 0   25    0  00 E Y  Y Y  Y Y  Y Y  Y N
+               Penarth Curve South Jn
+               Cogan Jn – Penarth
+       GW864 PTH                 0   01    1  12 E Y  Y Y  Y Y  Y Y  Y N
+               Barry Jn – Bridgend Bay
+       GW870 VOG                 0   00   19  04 E Y  Y Y  Y Y  Y Y  Y N
+               Platform
 
 
 
-       GW900 SWM2 Whitland Jn – Clarbeston
-                                259  01 271  08 E Y  Y Y  Y Y  Y Y  Y N
-                Road Jn
-       GW900 CRLClarbeston Road Jn –
-                                271  08 281  58 E Y  Y Y  Y Y  Y Y  Y N
-                Change of ELR (Letterston
-                Jn)
-       GW900 NPFChange of ELR (Letterston
-                                283  30 287  52 E Y  Y Y  Y Y  Y Y  Y N
-                Jn) – Network Rail
-                Boundary (Fishguard
-                Harbour)
-                Landore Jn – Swansea
-       GW9001 SWA               214  62 216  07 E Y  Y Y  Y Y  Y Y  Y N
-       GW906 SWLSwansea Loop East Jn –
-                                 0   53   0  00 E Y  Y Y  Y Y  Y Y  Y N
-                Swansea Loop West Jn
-       GW910 CWL1 Craven Arms Jn – Change
-                                20   01  20  12 E Y  Y Y  Y Y  Y Y  Y N
-                of Mileage
-       GW910 CWL2 Change of Mileage – Site
-                                 0   00  59  14 E Y  Y Y  Y Y  R1E  E N R1Prohibited between Builth Road and Site of Former
-                of Former Llandovery Jn                        R2         Llandovery Jn
-                                                                        R2Prohibited Llandrindod Down platform
-       GW910 VOTSite of Former Llandovery
-                                29   40  18  07 E Y  Y Y  Y Y  N E  E N
-                Jn – Llandeilo
-       GW910 LLALlandeilo – Pantyffynnon
-                                18   07  10  08 E Y  Y Y  Y Y  N E  E NR1 5mph Ffairfach platform
-                                                                 R1 R1
-       GW910 LLAPantyffynnon – Morlais Jn
-                                10   08   3  50 E Y  Y Y  Y Y  N Y  Y N
 
-
-
-       April 2009                                497H
+       April 2009                                497F

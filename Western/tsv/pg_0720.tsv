@@ -1,11 +1,13 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0720	GW103	MLN1	Paddington – Old Oak Common West	0	05	3	20	Y	Y	N	N	R2 R3	Y	Y	N	R4	R4	R5	R1 10 mph Kensal Green CSP Carriage lines 1 and 2 when laden R2 Prohibited Paddington platform 2 R3 15mph Paddington platform 4 R4 100mph maximum speed R5 Prohibited between Paddington and Kensal Green
-Western	0720	GW103	MLN1	Old Oak Common West – Acton East Jn	3	20	4	07	Y	Y	N	N	Y	Y	Y	N	R1	R1	Y	R1 100mph maximum speed
-Western	0720	GW103	MLN1	Acton East Jn – West Ealing Jn	4	07	6	54	Y	Y	N	Y	Y	Y	Y	N	R1	R1	Y	R1 100mph maximum speed
-Western	0720	GW103	MLN1	West Ealing Jn – Hanwell Jn	6	54	7	19	Y	Y	N	Y	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0720	GW103	MLN1	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0720	GW103	MLN1	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0720	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0720	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0720	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
-Western	0720	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0720	GW915	GWA	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N	N	
+Western	0720	GW915	GNT	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N	N	
+Western	0720	GW930	CAN	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0720	GW940	CAN/ CNW	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	E	Y	Y	Y	Y	Y	Y	R1	R1	N	R1 Prohibited Carmarthen Down side bay platform (accessible by shunt movement only)
+Western	0720	GW950	PEM	Whitland Jn – Pembroke RA Change	259	01	284	22	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0720	GW950	PEM	Pembroke RA Change – Pembroke Dock	284	22	286	26	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0720	GW960	SWM2	Clarbeston Road – Haverfordwest	271	08	276	08	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0720	GW960	SWM2	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0720	GW960	MIL	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	E	Y	Y	Y	Y	Y	Y	Y	Y		
+Western	0720	GW960	MIL	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	E	Y	Y	Y	Y	Y	Y	Y	Y		
+Western	0720	GW970	GOB	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N	N	N		
+Western	0720	GW980	ERB	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N	N	N		

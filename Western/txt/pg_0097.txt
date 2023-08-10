@@ -6,70 +6,83 @@
 
 
 
-       High Output Ballast Cleaner (HOBC) and Track Relaying
-       System (TRS) Trains
-       These trains are authorised to transit between their operating bases and engineering possessions in excess of
-       the normal route length limits on Western and Wales Routes provided that a suitable train path has been
-       identified.
+       GSM-R GENERAL INSTRUCTION
+       TW5 SECTION 25 – KNOWN SEARCHING NETWORK LOCATIONS
+       The locations in the table below have encountered a temporary reduction in radio coverage with the GSM-R system which
+       may result in registration problems and the ability of the driver to contact the signaller. This will be presented to the Driver
+       on the DCP as ‘searching for network’.
 
-       The train identification used and maximum lengths (including locomotives) are as follows:
+       Drivers must carry out the ‘Pending Registration’ process on the radio and continue their journey.
 
-       HOBC     6Y07 or 6Y15
-                         127 SLUs 811 metres
-                                           887 yards2659 feet
-       MOBC     6Y19     105 SLUs 670 metres
-                                           733 yards2198 feet
-       TRS      6X01 or 6X04
-                         117 SLUs 744 metres
-                                           813 yards2439 feet
-       The HOBC and TRS may also exceed the maximum permitted single engine load between the locations listed
-       below. In these circumstances the train concerned must operate with a locomotive at each end. The rear
-       loco is authorised to apply power as directed by the lead driver to assist as required in the negotiation of
-       inclines between the mileages shown. In these cases both locomotives must be manned as per Train
-       Company manning agreements and equipped with back to back radios.
+           LocationFault Number
+                             Comments     Outcome
+           East UskFMS 307441             Fixed – new cell 6538 brought online
+                             Coverage issues
 
-       Rule Book, Module TW1, Section 15.1 is modified accordingly.
+       LIMITED COVERAGE ON FREIGHT ONLY BRANCH LINES
+       The freight-only branch lines listed in the table below are sections of permanent poor GSM-R coverage. These areas of
+       poor coverage are in tunnels and deep cuttings resulting in GSM-R calls may be unreliable, as with previous NRN
+       coverage. If a train is in a poor coverage area at the time the emergency call is initiated, the train radio will receive the
+       emergency call as soon as there is sufficient GSM-R coverage.
 
-         Between                   Line       Mileage
+       SECTION      SA    ELR  StartStart End End  GSM-R Predicted Poor
+                               MilesChainsMiles
+                                              Chains
+                                                   Coverage Details
+       Honeybourne Stratford
+                                                   Poor coverage: STD 2m20ch –
+       Line Junction to Long
+                    GW317 STD   0     0    2    70
+                                                   2m70ch
+       Marston
+                                                   Poor coverage in the vicinity of
+                                                   Clifton Bridge No. 2 Tunnel:
+                                                   POD 122m38ch – 122m66ch,
+       Parson Street Junction                      also in the vicinity of
+                    GW548  POD  120  28   126   59
+       to Portbury                                 Sandstone Tunnel: POD
+                                                   123m32ch – 123m53ch and in
+                                                   the vicinity of Pill Tunnel: POD
+                                                   125m10ch – 125m72ch
+                                                   Poor coverage beyond
+       Burngullow Junction to                      Treviscoe works: SDS
+                    GW672  SDS  288  26   293   52
+       Parkandillack                               292m79ch – end of line at
+                                                   293m52ch
+       Bassaleg Junction
+                                                   Poor coverage: BJR 4m14ch –
+       (former) to Machen
+                    GW733 BJR  0    0     4   69
+                                                   4m69ch
+       Quarry
+       Tondu Junction to
+                          OGM /                    Poor coverage: OGM 0m20ch
+       Garw (Pontycymmer
+                    GW874       0     0    0    48
+                          GAW1                     – GAW1 0m48ch (end of line)
+       branch)
+       Tondu to Port Talbot                        Poor coverage: POR 0m 65ch
+                    GW877  POR  0     0    2    43
+       Docks                                       – 0m 70ch
+       Neath and Brecon
+                                                   Poor coverage NAB 9m20ch –
+                    GW893
+       Junction to OnllwynNAB  0    1     10  10
+                                                   10m10ch
+       (NR Boundary)
 
-         GW105 Uffington to Fordgate via Box
+       GSM-R FAULTS AND FAILURES RESPONSE
 
-         Chippenham and Wootton Bassett Jn
-                                   Up Main    87m 40ch to 86 mp
+       VERSION 1.1
 
-         Middle Hill Tunnel and Thingley Jn
-                                   Up Main    101m 50ch to 98m 70ch
+       PURPOSE
 
-         GW108 Fordgate to Penzance
+       To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
 
-         Wellington and Whiteball Tunnel
-                                   Down Main  170m 40ch to 174 mp
-
-         Hele & Bradninch and Whiteball Tunnel
-                                   Up Main    181m 40ch to 174mp
-
-         Newton Abbot - Totnes     Down Main  214m 05ch to 222m
-                                              66ch
-
-         Totnes – Dainton Tunnel   Up Main    222m 66ch to 217m
-                                              57ch
-
-         Totnes – Aish Emergency Crossover
-                                   Down Main  222m 66ch to 230m
-                                              37ch
-
-         Tavistock Jn - Ivybridge  Up Main    242m 55ch to 234m
-                                              27ch
-
-         GW450 Stoke Gifford to Bristol East Jn
-
-                                   Up Filton
-         Stapleton Road and Filton Abbey Wood 2m 20ch to 4 mp
-                                   Relief
-                                   Up Filton
-                                   Main
+       Appendix 1 covers the response to system faults from a single fixed terminal through to failures of the infrastructure
+       resulting in loss of coverage in a geographical area.
 
 
 
 
-       April 2009                    59P
+       April 2009                   59OA

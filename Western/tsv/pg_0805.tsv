@@ -1,17 +1,14 @@
-Route	page	Line of Route	Line of Route / Sector Description	RA	2 Axled (MAX RA)	4 Axled (MAX RA)	Location of Speed restriction	Up	Down	Notes
-Western	0805	GW103	Paddington to Uffington (excl)	8	10	10	RA8 / 9 / 10 PROHIBITED to run via NCL No. 01 & 02.			
-Western	0805	GW105	Uffington to Fordgate via Box	8	10	10				
-Western	0805	GW107	Worle Jn to Uphill Jn via WSM	8	10	10				
-Western	0805	GW108	Fordgate to Burngullow Jn	8	10	10				
-Western	0805	GW108	Burngullow Jn to to Penzance	7	9	9				
-Western	0805	GW110	Old Oak Common West to Sth Ruislip	8	10	10				
-Western	0805	GW117	Greenford East Jn to Greenford South Jn	8	10	10				
-Western	0805	GW130	Acton Wells Jn to Acton East	8	10	10				
-Western	0805	GW174	West Ealing to Greenford West	8	10	10				
-Western	0805	GW175	Greenford South Jn to Greenford Stn	8	8	8				
-Western	0805	GW176	Hanwell to Drayton Green Jn	8	10	10				
-Western	0805	GW178	Southall to Brentford Good	8	10	10				
-Western	0805	GW180	Heathrow Airport Jn to Heathrow T.4 or T.5	8	10	10				
-Western	0805	GW182	West Drayton to Colnbrook	8	10	10				
-Western	0805	GW184	Slough to Windsor & Eton	3	6*	6*	Over River Thames Bridge at 20m 56ch	10 MPH	10 MPH	* For occasional engineers trains only. Structures engineer to be consulted for specific permissions. NC/G1/2010/ICP-RA/GW001 until 31 March 2014
-Western	0805	GW185	Maidenhead to Bourne End	6	6	6				
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
+Western	0805	GW910	LLA	Morlais Jn – Llandeilo Jn	3	50	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW915	GWA	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	5	N	Y	N	N	N	N	N	Y	
+Western	0805	GW915	GNT	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	5	N	R1	N	N	N	N	N	Y	R1 10mph Ammanford (12m 36.75ch)
+Western	0805	GW930	CAN	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	8	Y	Y	Y	R1	Y	Y	R1	Y	R1 Prohibited Camarthen Down Side bay platform (accessible by shunt movement only)
+Western	0805	GW940	CAN/ CNW	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW950	PEM	Whitland Jn – Pembroke RA Change	259	01	284	22	7	Y	Y	N	Y	Y	Y	Y	Y	
+Western	0805	GW950	PEM	Pembroke RA Change – Pembroke Dock	284	22	286	26	6	Y	Y	N	N	N	Y	N	Y	
+Western	0805	GW960	SWM2	Clarbeston Road – Haverfordwest	271	08	276	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW960	SWM2	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW960	MIL	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW960	MIL	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW970	GOB	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0805	GW980	ERB	Herbrandston Jn – Robeston	0	00	1	18	8	Y	Y	Y	Y	Y	Y	Y	Y	

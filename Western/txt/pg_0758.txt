@@ -3,62 +3,51 @@
 
                                       Western Route Sectional Appendix Module WR2
 
-   Line of ELR                 oooo oooo oooo oooo MK1
-           Line of Route / Sector               MK2 MK3MK3 MK3 MK3 MK4 Notes
-   route   Description          M  Ch M  Ch            MOD DVT DVT    ooooooooooooooooooooooooooo
-                                                               MOD
-   GW730SHL Severn Bridge Jn – Craven Arms Jn
-                                 0 11 20  01 Y   Y  Y   N   N   Y  R1 R1Maximum speed 100mph
-                                                                   R2 R2Tripcocks must be isolated
-   GW730SHL Craven Arms Jn – Shelwick Jn
-                                20 01 49  26 Y   Y  Y   N   N   Y  R1 R2Maximum speed 100mph
-                                                                   R2 R2Tripcocks must be isolated
-   GW730SHL Shelwick Jn – Site of former
-                                49 26 52  19 Y   Y  Y   N   N   Y  R1 R3Maximum speed 100mph
-           Rotherwas Jn                                            R2 R2Tripcocks must be isolated
-   GW730HDC Site of former Rotherwas Jn – Site of
-                                 0 00  1  74 Y   Y  Y   N   N   Y  R1 R4Maximum speed 100mph
-           former Red Hill Jn                                      R2 R2Tripcocks must be isolated
-   GW730 HNL1 Site of former Red Hill Jn – Maindee
-                                 1 74 41  66 Y   Y  Y   N   N   Y  R1 R5Maximum speed 100mph
-           West Jn                                                 R2 R2Tripcocks must be isolated
-   GW731 WSJ2 Route Boundary (MD801) (Madeley
-                               170 46 171 15 Y   Y  Y   Y   N   Y  N
-           Jn) – Abbey Foregate Jn
-   GW731 WSJ2 Abbey Foregate Jn – Crewe Jn
-                               171 15 171 57 Y   Y  Y   Y   N   Y  R1 R1Prohibited Abbey Foregate Jn to Severn
-                                                                   R2   Bridge Jn
-                                                                   R3 R2Prohibited Shrewsbury platforms 5
-                                                                      R3Prohibited Shrewsbury platform 7 with
-                                                                   R4
-                                                                        crush deflated suspension
-                                                                   R5 R4Prohibited Shrewsbury Howard Street
-                                                                   R6   Landing
-                                                                      R5Maximum speed 100mph
-                                                                      R6Tripcocks must be isolated
-   GW731 WSJ2 Crewe Jn – Route Boundary
-                               171 57 199 00 Y   Y  Y   Y   N   Y  R1 R1Maximum speed 100mph
-           (NW3005) (Wrexham General)                              R2 R2Tripcocks must be isolated
-   GW732AFE Abbey Foregate Jn – English Bridge
-                                 0 25  0  00 Y   Y  Y   N   N   N  N
-           Jn (Loop Lines)
-   GW733 SBA1/ Sutton Bridge Jn – Welshpool
-                                 0 00 33  70 Y   Y  N   N   N   N  N
-         2
-   GW733 SBA2 Welshpool – Aberystwyth
-                                33 70  95 60 Y   Y  N   N   N   N  N
-   GW734DJP Dovey Jn – Pwllheli 78 60 132 70 Y   Y  N   N   N   N  N
-           Crewe Jn – Route Boundary
-   GW735 SYC                    32 29  2  60 Y   Y  Y   N   N   Y  N
-           (NW1007) (Limit of Electrification)
-   GW736 GNQ1 Gobowen South – Commencement of
-                                 0 00  0  16 N   N  N   N   N   N  N
-           single line board
-   GW740MAI Maindee East Jn – Maindee North Jn
-                                41 65 41  33 Y   Y  Y   N   N   N  R1 R1Maximum speed 100mph
-                                                                   R2 R2Tripcocks must be isolated
+      Line of
+           ELR                            oooooooooooooooo MK1 MK2 MK3 MK3 MK3 MK3 MK4
+                Line of Route / Sector Description                            Notes
+      route                                M  Ch M  Ch          MOD DVTDVT   ooooooooooooooooooooooooo
+                                                                       MOD
+                                                                             oo
+      GW310 OWW Wolvercot Jn – Norton Jn   66 32 11200 Y   Y  Y  N  N  N  N
+      GW317 OWW Honeybourne Stratford Line Junction – Start of
+                                          102 06 10131 Y   Y  Y  N  N  N  N
+                branch mileage
+      GW317 STD Start of branch mileage – Long Marston
+                                            0 00  2 70 Y   Y  Y  N  N  N  N
+      GW401 BAG2 Route Boundary (MD306) (Ashchurch) – Gloucester
+                                           77 40  9221 Y   Y  Y  N  N  N  N
+                Barnwood Jn (Change of ELR)
+      GW401 CHL Gloucester Barnwood Jn (Change of ELR) –
+                                           92 21  93 08Y   Y  Y  N  N  N  N
+                Gloucester Yard Jn (Change of ELR)
+      GW401 BGL1 Gloucester Yard Jn (Change of ELR) – Change of
+                                           93 08  94 10Y   Y  Y  N  N  N  N
+                ELR
+      GW401 BGL2 Change of ELR – Standish Jn
+                                           94 60  99 69Y   Y  Y  N  N  N  N
+      GW401 BGL2 Standish Jn – Yate South Jn (Change of ELR)
+                                           99 69 120 03Y   Y  Y  N  N  N  N
+      GW401 YAT Yate South Jn (Change of ELR) – Westerleigh Jn
+                                           12003 121 28Y   Y  Y  N  N  N  N
+      GW425 SAW/S Berkeley Road Jn – Sharpness (Network Rail
+                                           0  04  3 69 N   N  N  N  N  N  N
+             SS Boundary)
+      GW430 THO Yate Middle Jn – Tytherington
+                                           0  00  6 24 Y   Y  N  N  N  N  N
+      GW440 BGL2 Yate South Jn – Westerleigh Yard
+                                          120 03 12265 Y   Y  Y  N  N  N  N
+      GW450 FEC Stoke Gifford Jn No.1 – Change of ELR
+                                          111 79 11301 Y   Y  Y  N  N  N  N
+      GW450 BSW Change of ELR – Bristol East Jn
+                                           4  50  0 26 Y   Y  Y  N  N  N  N
+      GW4501AFR Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of 112
+                                              05 11842 Y   Y  Y  N  N  N  N
+                ELR)
+      GW4501AMB Hallen Marsh Jn (Change of ELR) – Holesmouth Jn
+                                           14 38 14 60 Y   Y  Y  N  N  N  N
 
 
 
 
-    April 2009                                   500FA
+    April 2009                                   500C

@@ -4,68 +4,71 @@
        Western Route Sectional Appendix Module WR1
 
 
+       Rule Book Handbook 8 – IWA, COSS or PC blocking a
+       line
+       The block markers, listed below where the supervised location (SvL) is longer than 200 metres, must not be used to
+       protect line blockages unless the route is closed at the block marker on the approach side of the block marker being used
+       for protection.
 
 
-       Defective on-train equipment
-       A train on which the ERTMS equipment is isolated or in level 0 must not enter a running line from a siding,
-       yard or depot other than in exceptional circumstances and then only when authorised by the On-Call
-       operations manager.
+                                                Distance from
+         Location Block marker                  EOA to SvL (metres)
+         WelshpoolMH1016 (from MH1010 and MH1012)
+                                                225
+                  MH1018 (from MH1014)          240
+                  MH1021 (from MH1031)          215
+         Newtown  MH1033 (from MH1037)          234
+                  MH1035 (from MH1039 and MH1041)
+                                                235
+                  MH1037 (from MH1041)          234 (*)
+                  MH1040 (from MH1036 and MH1038)
+                                                201
+         TalerddigMH1071 (from MH1075 and MH1077)
+                                                401
+                  MH1075 (from MH1079 and MH1081)
+                                                400 (*)
+                  MH1076 (from MH1070 and MH1072)
+                                                1265 (*)
+                  MH1077 (from MH1079 and MH1081)
+                                                400 (*)
+                  MH1078 (from MH1072 and MH1074)
+                                                1,265 (*)
+         Machynlleth
+                  MH1091 (from MH1093, MH1095 and MH1097)
+                                                245
+                  MH1095 (from MH1099)          234 (*)
+                  MH1097 (from MH1103)          234 (*)
+                  MH1099 (from MH1103)          234 (*)
+                  MH1100 (from MH1096)          663
+                  MH1100 (from MH1098)          234
+                  MH1102 (from MH1090)          234 (*)
+                  MH1104 (from MH1100 and MH1102)
+                                                245
+         Dovey    MH1127 (from MH1133)          232
+         Junction MH1128 (from MH1106 and MH1120)
+                                                296
+         Tywyn    MH1168 (from MH1164 and MH1166)
+                                                225
+                  MH1169 (from MH1191)          385
+         Barmouth MH1190 (from MH1168)          885
+                  MH1191 (from MH1193 and MH1197)
+                                                265
+         Porthmadog
+                  MH1239 (from MH1253)          245
 
+       (*) shows SvL for extended overlap only
+                                                Wales Route GI - Dated: 07/06/14
 
-       Stopping at end of authority
-       If a train has to stop short of a block marker because of an uncorrected odometry error, the driver must obtain
-       the signaller’s permission to press override and move forward in SR mode in order to reach the correct
-       stopping location. Written order 01 must be completed.
+       Rule Book Handbook 11 - Duties of the person in charge
+       of the possession (PICOP) on ERTMS lines
+       4.7 Possession procedure T3-P (PICOP or PICOP’s agent going to the signal box)
+       a.) When this procedure can be used
+       The use of T3-P is authorised between Machynlleth and Dovey Junction within the following block markers:
+         •  MH1090 (Down direction)
+         •  MH1131 and MH1133 (Up direction)
+       This excludes any blockage of the Aberystwyth siding.
+       T3-P must not be used if engineers’ trains are to work in the possession.
 
-       If the train fails to transition when entering an ERTMS area (Rule Book, Module S7, Section 8.1)
-       Unexpected failure to transition to ERTMS Level 2
-       If a train does not transition it will be tripped by ERTMS and, depending on the cause of the failure, may also
-       receive a TPWS intervention. The driver and signaller must try to establish the reason for the failure. If the
-       fault cannot be rectified the train may proceed if directed by operations Control. The signaller will issue written
-       order 02 to authorise the train to proceed (or written order 01 if the train stopped before being tripped). If
-       TPWS has not intervened, the driver must operate the TPWS override.
-       If TPWS intervention occurs at the Start of Cab Signalling board in any other circumstances it must be treated
-       as a TPWS equipment irregularity and the driver and signaller must complete form RT3185 (Reporting a
-       signal/AWS/TPWS/ATP/TVM failure or irregularity).
+                                                Wales Route GI - Dated: 05/12/15
 
-       Known system failure preventing transition to ERTMS Level 2
-
-       If there is a failure which may prevent a down train from transitioning but the train can be signalled normally, the signaller
-       will advise the driver that he transition may not work. The driver must prepare to be tripped at the Start of Cab Signalling
-       board. If this happens, the procedures for an unexpected failure (above) must be applied.
-
-       If it known that an MA cannot be issued at the Start of Cab Signalling board because the route cannot be Set from there in
-       the normal way, the Sutton Bridge Junction signaller will authorise the driver to pass signals SUB 54 and 53 at danger and
-       proceed at caution and stop at the Start of Cab signalling board. The driver must contact the Machynlleth SC on arrival at
-       the board and obtain written order 01 and press override to enable the train to proceed. The train will transition to SR on
-       passing over the balise at the board and, if the train is a Class 158, the driver must stop again in order to raise the ceiling
-       speed to 80km/h and then proceed.
-
-       If it is not possible to clear Sutton Bridge Junction signals SUB 54 and 53 but a route can be set from the Start of Cab
-       Signalling board in the normal way, the Sutton Bridge Junction signaller will authorise the driver to pass signals SUB 54
-       and 53 at Danger and proceed at caution as far as the Start of Cab Signalling board where normal working will apply.
-
-       Working by pilot must be introduced if required by Rule Book Module P2
-
-       If the ERTMS train fails to transition when leaving an ERTMS area (Rule Book, Module S7, Section 8.2)
-       Unexpected failure to transition to ERTMS Level 0
-       If a train does not transition it will be tripped by ERTMS at the End of Cab Signalling board. The driver must
-       contact the signaller and report the failure and they must both try to establish the reason for the failure. The
-       driver must select Level 0 manually and the train may proceed and obey all Sutton Bridge Junction signals.
-
-
-       Known system failure preventing transition to ERTMS Level 0
-       If there is a failure which may prevent an up train from transitioning but the train can be signalled normally, the
-       signaller will advise the driver that the transition may not work. The driver must prepare to be tripped at the
-       End of Cab Signalling board. If this happens, the procedures for an unexpected failure (above) must be
-       applied.
-       If it is not possible to issue an MA from block marker MH1003, the signaller will issue written order 01 to
-       enable the train to proceed. The driver must carry out the normal transition procedure on passing the End of
-       Cab Signalling board but if the transition is not successful the procedures for an unexpected failure (above)
-       must be applied. The driver must obey all Sutton Bridge Junction signals.
-                                               Wales Route GI - Dated: 07/01/2023
-
-
-
-
-       April 2009                    58I
+       April 2009                   58G

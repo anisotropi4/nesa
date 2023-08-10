@@ -1,13 +1,12 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0792	GW220	RWC	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW225	RFR	Caversham Road Jn – Oxford Road Jn	36	25	36	74	8	Y	Y	Y	N	Y	N	Y	N	
-Western	0792	GW240	DEC	Didcot East Jn – Didcot North Jns	52	66	54	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW250	DWC	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW260	THA	Kennington Jn – Morris Cowley	18	45	16	04	7	Y	Y	R1	Y	Y	Y	Y	Y	R1 Operation in single headed or ‘top and tail’ mode with track recording and track Inspection coaches only
-Western	0792	GW277	OXD	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW310	OWW	Wolvercot Jn – Norton Jn	66	32	112	00	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW317	OWW	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	7	N	Y	R1	Y	Y	Y	Y	Y	R1 10mph maximum speed
-Western	0792	GW317	STD	Start of branch mileage – Long Marston	0	00	2	70	7	N	Y	R1	Y	Y	Y	Y	Y	R1 10mph maximum speed
-Western	0792	GW401	BAG2	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW401	CHL	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0792	GW401	BGL1	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	59	Notes
+Western	0792	GW915	GNT	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	5	N	Y	Y	Y	Y	Y	Y	N	
+Western	0792	GW930	CAN	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW940	CAN/ CNW	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW950	PEM	Whitland Jn – Pembroke RA Change	259	01	284	22	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW950	PEM	Pembroke RA Change – Pembroke Dock	284	22	286	26	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW960	SWM 2	Clarbeston Road – Haverfordwest	271	08	276	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW960	SWM 2	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW960	MIL	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW960	MIL	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW970	GOB	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	8	N	Y	Y	Y	Y	Y	Y	Y	
+Western	0792	GW980	ERB	Herbrandston Jn – Robeston	0	00	1	18	8	N	Y	Y	Y	Y	Y	Y	Y	

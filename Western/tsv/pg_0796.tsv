@@ -1,22 +1,13 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0796	GW637	DAC	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	4	N	R1	N	N	N	N	N	R1	R1 5mph over Tamerton Viaduct (224m 78ch)
-Western	0796	GW637	CAL	Bere Alston Jn – Gunnislake	0	02	4	40	4	N	B	N	N	N	N	N	B	
-Western	0796	GW640	LIL	Liskeard – Coombe Jn	8	67	6	75	4	N	Y	N	N	Y	N	N	Y	
-Western	0796	GW640	LOO	Coombe Jn – Looe	6	52	0	19	4	N	Y	N	N	N	N	N	Y	
-Western	0796	GW640	LOO	Coombe Jn – Coombe No.2 GF	6	52	6	66	4	N	Y	N	N	Y	N	N	Y	
-Western	0796	GW642	LOO	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	4	N	Y	N	N	Y	N	N	Y	
-Western	0796	GW650	LOF	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	8	Y	Y	Y	N	N	Y	Y	Y	
-Western	0796	GW660	PAR	Par Loop Jn – St Blazey Jn	281	57	282	16	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW660	NEW	St Blazey Jn – Newquay	282	16	302	49	6	R1	B R2	N	N	R2 R3	R2	N	R2	R1 Prohibited between Goonbarrow and Newquay R2 20mph over bridge NEW-28936 (289m 36ch) R3 Trains working to / from a possession, or to assist a failed train in an emergency. Prior permission must be obtained from Network Rail Control
-Western	0796	GW672	SDS	Burngullow Jn – Drinnick Mill	288	26	291	31	6	Y	Y	N	N	N	Y	N	Y	
-Western	0796	GW672	SDS	Drinnick Mill – Parkandillack	291	31	293	52	5	Y	Y	N	N	N	N	N	Y	
-Western	0796	GW680	FAL1- 3	Penwithers Jn – Falmouth	301	25	312	46	6	N	Y	N	N	N	Y	N	Y	
-Western	0796	GW690	SIV	St Erth – St Ives	321	02	325	13	5	N	B	N	N	N	N	N	Y	
-Western	0796	GW700	BAG2	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW700	SWM2	Horton Road Jn – Route Boundary Wales	113	61	129	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW700	SWM2	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW710	NO ELR	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	8	R1	R1	R1	R1	R1	R1	Y	R1	R1 See Sectional Appendix Local Instructions
-Western	0796	GW720	EUB	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW730	SHL	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW730	SHL	Craven Arms Jn – Shelwick Jn	20	01	49	26	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0796	GW730	SHL	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW220	RWC	Reading, Oxford Road Jn – Reading West Jn	0	43	0	02	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW225	RFR	Caversham Road Jn – Oxford Road Jn	36	25	36	74	8	Y	Y	Y	N	Y	N	Y	N	
+Western	0796	GW240	DEC	Didcot East Jn – Didcot North Jns	52	66	54	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW250	DWC	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW260	THA	Kennington Jn – Morris Cowley	18	45	16	04	7	Y	Y	R1	Y	Y	Y	Y	Y	R1 Operation in single headed or ‘top and tail’ mode with track recording and track Inspection coaches only
+Western	0796	GW277	OXD	Oxford North Jn – Route Boundary (MD736) (29m 25ch)	30	09	29	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW310	OWW	Wolvercot Jn – Norton Jn	66	32	112	00	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW317	OWW	Honeybourne Stratford Line Junction – Start of branch mileage	102	06	101	31	7	N	Y	R1	Y	Y	Y	Y	Y	R1 10mph maximum speed
+Western	0796	GW317	STD	Start of branch mileage – Long Marston	0	00	2	70	7	N	Y	R1	Y	Y	Y	Y	Y	R1 10mph maximum speed
+Western	0796	GW401	BAG2	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW401	CHL	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0796	GW401	BGL1	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	8	Y	Y	Y	Y	Y	Y	Y	Y	

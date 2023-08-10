@@ -4,61 +4,56 @@
                       Western Route Sectional Appendix Module WR2
 
 
+       GW178 - SOUTHALL TO BRENTFORD GOODS
+       Entire Line Of Route
+
+       Train Staff and Ticket (TST) – instructions to the signaller and others
+       1. Definitions
+       Home signal: At Southall and Brentford this function is carried out by “End of Single Line Section” boards which control
+       the exit from the one-train section.
+       Section signal: At Southall and Brentford this function is carried out by “Commencement of Single Line” boards which
+       control the entrance to the one-train section.
+       Clearing point: No clearing points are provided as this is a goods only line.
 
 
-       GW180 - HEATHROW AIRPORT JN TO HEATHROW TERMINALS 4 AND 5
-       Entire Line Of Route (ERTMS SPECIFIC INSTRUCTIONS)
-
-       Movement Authorities extending beyond a signal at danger. For the purpose of applying Rule Book S7 (Section 7
-       Reporting signalling failures and irregularities, 7.1 Signalling equipment), due allowance must be made for measurement
-       errors and other tolerances and Movement Authorities (MAs) must be expected to extend up to approximately 20 metres
-       beyond the signal at danger to which they apply.
-       Failure to step up from Staff Responsible (SR) mode. When a train is making a movement in Staff Responsible (SR) mode
-       and it does not step up to a Movement Authority (MA) before the limit of movement specified by the signaller, the driver
-       must stop the train irrespective of the signal aspect.
-       The driver must inform the signaller that the train has not stepped up from SR and that they will carry out another Start of
-       Mission (SoM). If the SoM is successful and a Movement Authority (MA) is obtained, then the train can proceed normally.
-       If the SoM is not successful and the train does not obtain an MA, then the driver must obtain permission from the signaller
-       to revert to Level National Train Control (NTC).
-       Changing mode from ETCS Level 2 to Level National Train Control (NTC). When a train driver cannot obtain a Movement
-       Authority (MA) because of a failure, or after they have unsuccessfully carried out a new Start of Mission (SoM) and an MA
-       still cannot be obtained, then they must inform the signaller. The signaller will instruct the driver to revert to Level NTC and
-       proceed in accordance with Rule Book module TW5, section 24.5 as if TPWS was affected, except where modified below:
-         • Where the driver cannot be accompanied trains may proceed at a speed not exceeding 40 mph (65 km/h).
-         • If the movement is made towards buffer stops, the train must not proceed at a speed above 5 mph (10 km/h)
-           from the platform ramp.
-       If a failure can only be resolved by a train which must revert to Level NTC then the signaller may authorise this. If the
-       failure is likely to continue for some period and affect multiple trains, then the signaller must obtain permission from
-       Operations Control.
-       Recovery of trains due to failure of ERTMS. If ERTMS signalling has failed on the Heathrow branch and trains are
-       required to be recovered, they shall follow the instructions in Rule Book module TW5, section 24.5 as if TPWS was
-       affected, except where modified below.
-         • Where the driver cannot be accompanied trains may proceed at a speed not exceeding 40 mph (65 km/h).
-         • If the movement is made towards buffer stops, the train must not proceed at a speed above 5 mph (10 km/h)
-           from the platform ramp.
-       Class 345 recovery in CBTC Staff Accountable or Recovery Mode. If a Class 345 train is unable to operate in Staff
-       Responsible (SR) mode or revert to Level NTC, the driver may select Recovery Mode or Communications Based Train
-       Control (CBTC) Staff Accountable.
-       The train speed under CBTC Staff Accountable is supervised to 23 mph (40 km/h).
-       The train speed under Recovery Mode is supervised to 9 mph (15 km/h).
-       The signaller must make sure that there are at least two controlled signals which are being kept at danger between the
-       train travelling in Recovery Mode or CBTC Staff Accountable and any conflicting or converging movements ahead of it.
-       CBTC Staff Accountable and any conflicting or converging movements ahead of it.
-                                                         Dated: 26/12/2021
+       2. Principle
+       2.1 Principle of TST working
+       The principle of TST working is to prevent more than one train being in the section at the same time.
+       2.2 Handling the staff and ticket
+       The line between Southall and Brentford Goods is worked under the authority of the signaller. A shunter is authorised to
+       receive the train staff or ticket from, or deliver the train staff or ticket to the driver, working to the signaller’s instructions.
+       A train staff and a single metal ticket are provided. When not in use the train staff and ticket must be kept in the locked
+       cabinet at Southall or retained on the locomotive at Brentford.
+       Where a train has more than one locomotive at the leading end, the shunter must give the train staff or ticket to the driver
+       of the leading locomotive.
+       2.3 Communications
+       Communications with drivers may be managed by the shunter working to the signaller’s instructions except in the following
+       circumstances when the signaller must speak directly to the driver:
+       • when it is necessary to provide specific information about an event or issue in the section which requires the driver to
+         proceed at caution
+       • when the train is used to examine the line
+       • after a train or vehicles have proceeded without authority (including a SPAD) or a divided train
+       • if another traction unit is to enter the section to remove a portion of a train
+       • when it is necessary for a train to pass through the section after a failed train has been recovered from the section.
 
 
-       GW180 - HEATHROW AIRPORT JN TO HEATHROW TERMINALS 4 AND 5
-       Entire Line of Route (ERTMS)
-
-       Train tripped by TPWS at Heathrow Tunnel Junction. If an ETCS fitted train fails to transition at the ERTMS Level 1
-       Launch after passing SN321, SN323 or SN325 it will be stopped by a TPWS brake intervention caused by the Overspeed
-       Sensor System (OSS) fitted on the approach to Heathrow Tunnel Junction.
-       If a train fails to transition and is stopped by a TPWS brake intervention the driver must inform the signaller of the
-       conditions which led to the train being stopped. The signaller and the driver must complete the RT3185 form at the first
-       convenient opportunity and make reference on the form to the TPWS activation AND the ERTMS level transition failure.
-                                                         Dated: 27/08/2022
+       3. Method of signalling
+       3.1 Method of signalling
+       The driver of the leading locomotive must be in possession of the correct train staff or ticket before entering or fouling the
+       section, except where the train staff or ticket is not required when:
+       • the train is to enter the section as shown in module T3 Possession of a running line for engineering work
+       • the train is to enter the section as an assisting train
+       • working by pilotman is in operation.
+       The signaller must be told whether the train is conveying the train staff or the ticket and permission from the signaller must
+       be obtained to occupy the section.
+       3.2 Recording movements
+       A train register is provided at Southall. The shunter and signaller must record the following details:
+       • name of shunter and contact telephone number
+       • train identification number
+       • time that the train staff or ticket is removed
+       • time that the train staff or ticket is replaced.
 
 
 
 
-       April 2009                   573A
+       April 2009                   570

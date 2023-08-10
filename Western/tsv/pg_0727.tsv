@@ -1,21 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0727	GW572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW572	WQL	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	Y	Y	N	R1	N	N	Y	Y	N	R2	R2	N
-Western	0727	GW600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	Y	Y	N	Y	N	N	Y	Y	N	R1	R1	N
-Western	0727	GW600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	N	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0727	GW600	BSW	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	N	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0727	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	N	Y	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	N	Y	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW608	DAC	Crediton – Former Coleford Jn	179	26	183	69	N	R1	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW608	DAC	Former Coleford Jn – Meldon Quarry	183	69	198	72	N	R1 R2	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	N	R1	N	Y	N	N	N	Y	N	Y	Y	N
-Western	0727	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	N	R1	N	N	N	N	N	N	N	Y	Y	N
-Western	0727	GW618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0727	GW620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	N	Y	N	E	N	N	Y	Y	N	Y	Y	N
-Western	0727	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	N	Y	N	N	N	N	N	N	N	Y	Y	N
-Western	0727	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0727	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0727	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	N	Y	N	N	N	N	N	N	N	Y	Y	N
-Western	0727	GW628	FRY	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	N	N	N	N	N	N	N	N	N	N	N	N
+Western	0727	GW401	BAG2	Route Boundary (MD306) (Ashchurch) – Gloucester Barnwood Jn (Change of ELR)	77	40	92	21	Y	N	Y	N	R4	Y	Y	E	Y	Y	N	R1 10mph Ashchurch Up platform R2 20mph Cheltenham Spa Down platform R3 Route prohibited to Class 165/0 R1 Route prohibited to Class 172/0 and 172/1
+Western	0727	GW401	CHL	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	Y	N	Y	N	N	Y	Y	N	Y	Y	N	R2 Route prohibited to Class 165/0
+Western	0727	GW401	BGL1	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	Y	N	Y	N	N	Y	Y	N	Y	Y	N	R1 Route prohibited to Class 165/0
+Western	0727	GW401	BGL2	Change of ELR – Standish Jn	94	60	99	69	Y	N	Y	N	N	Y	Y	N	Y	Y	N	R1 Route prohibited to Class 165/0
+Western	0727	GW401	BGL2	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW401	YAT	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW425	SAW/S SS	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N	N	N	N	N	N	N	
+Western	0727	GW430	THO	Yate Middle Jn – Tytherington	0	00	6	24	N	N	N	N	N	N	N	N	N	N	N	
+Western	0727	GW440	BGL2	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N	N	N	N	N	N	N	
+Western	0727	GW450	FEC	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW450	BSW	Change of ELR – Bristol East Jn	4	50	0	26	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW4501	AFR	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	R1	N	N	N	N	Y	Y	N	Y	Y	N	R1 Prohibited Stoke Gifford Jn No 2 - Filton West Jn
+Western	0727	GW4501	AMB	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW4501	AMB	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	N	N	N	N	N	N	
+Western	0727	GW451	FWC	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	Y	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW454	AMB	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	Y	N	N	N	N	R1	R1	N	R1	R1	N	R1 Prohibited between Severn Beach Station and Holesmouth Jn
+Western	0727	GW454	CNX	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	Y	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0727	GW480	SWM1	Swindon Jn – Standish Jn	77	36	106	74	Y	N	N	N	N	Y	Y	N	Y	Y	N	R1 Route prohibited to Class 165/0 R2 20mph Stroud Down platform
+Western	0727	GW490	SWM2	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	Y	N	Y	N	N	Y	Y	Y	Y	Y	N	R1 Route prohibited to Class 165/0

@@ -1,19 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0797	GW730	HDC	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW730	HNL1	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW731	WSJ2	Abbey Foregate Jn – Crewe Jn	171	15	171	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW731	WSJ2	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW732	AFE	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW733	SBA1/ 2	Sutton Bridge Jn – Welshpool	0	00	33	70	7	N	R1 R2	N	Y	Y	Y	Y	Y	R1 Infrastructure maintenance purposes only R2 20mph over bridge SBA1-22 (05m 13ch)
-Western	0797	GW733	SBA2	Welshpool – Aberystwyth	33	70	95	60	5	N	R1 R2 R3	N	N	N	N	N	Y	R1 Infrastructure maintenance purposes only R2 40mph over bridge SBA2-159 (49m 26ch) R3 30mph over bridge SBA2-267 (91m 63ch)
-Western	0797	GW734	DJP	Dovey Jn – Pwllheli	78	60	132	70	5	N	R1 R2 R3 R4	N	N	N	N	N	Y	R1 Prohibited between Morfa Mawddach and Pwllheli R2 Infrastructure maintenance purposes only R3 10mph over bridge DJP-20 (84m 57.5ch) R4 20mph over bridge DJP-90 (90m 39.5ch)
-Western	0797	GW735	SYC	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW736	GNQ1	Gobowen South – Commencement of single line board	0	00	0	16	5	N	N	N	N	N	N	N	Y	
-Western	0797	GW740	MAI	Maindee East Jn – Maindee North Jn	41	65	41	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW750	BNC	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW750	HNL2	Brecon Curve Jn – MEB Siding	149	44	149	78	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0797	GW770	EBW	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	5	Y	Y	Y	N	Y	N	N	Y	
-Western	0797	GW770	WVL	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	5	Y	Y	Y	N	R1 R2	N	N	Y	R1 30mph over Crumlin bridge No WVL/01148 (11m 48ch) R2 10mph over Newbridge bridge No.WVL/01048 (10m 48ch)
-Western	0797	GW770	GAE	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	8	Y	Y	Y	N	N	N	Y	Y	
-Western	0797	GW773	BJR	Machen Quarry – Site of Former Bassaleg Jn	4	69	0	00	6	Y	Y	N	N	N	Y	N	Y	
+Western	0797	GW401	BGL2	Change of ELR – Standish Jn	94	60	99	69	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW401	BGL2	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW401	YAT	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW425	SAW/S SS	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	6	N	Y	N	Y	N	Y	Y	Y	
+Western	0797	GW430	THO	Yate Middle Jn – Tytherington	0	00	6	24	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW440	BGL2	Yate South Jn – Westerleigh Yard	120	03	122	65	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW450	FEC	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW450	BSW	Change of ELR – Bristol East Jn	4	50	0	26	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW4501	AFR	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW4501	AMB	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW4501	AMB	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW451	FWC	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW454	AMB	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	7	B	Y	N	Y	Y	Y	Y	Y	
+Western	0797	GW454	CNX	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	7	R1 B	R1	N	R1	R1	R1	Y	R1	R1 10mph over bridge CNX-0306 (3m 06ch)
+Western	0797	GW480	SWM1	Swindon Jn – Standish Jn	77	36	106	74	8	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Kemble Tamper siding
+Western	0797	GW490	SWM2	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW500	BKE	Westbury Line Jn – Oxford Road Jn	36	17	36	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW500	BKE	Oxford Road Jn – Southcote Jn	36	67	37	62	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW500	BKE	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW500	BHL	Southcote Jn – Change of ELR	37	62	81	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0797	GW500	SWY	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	8	Y	Y	Y	Y	Y	Y	Y	Y	

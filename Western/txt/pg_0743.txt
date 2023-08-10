@@ -3,64 +3,67 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-       GW730 HDC Site of former Rotherwas Jn – Site of
-                                       0 00  1  74  H    N    N    N    N
-                 former Red Hill Jn
-       GW730 HNL1 Site of former Red Hill Jn – Maindee
-                                       1 74  41 66  H    N    N    N    N
+       GW195 RLLReading Southern Jn – Reading East Jn
+                                      35 33  35 61  N    N    N    N    N
+       GW200 DCLChester Line Jn – Route Boundary
+                                      53 12  75 00  H    N    N    N    N
+                (MD401) (Heyford)
+       GW220 RWC Reading, Oxford Road Jn – Reading
+                                       0 43  0  02  H    N    N    N    N
                  West Jn
-       GW731 WSJ2 Route Boundary (MD801) (Madeley Jn) – 170
-                                         46 171 15  H    N    N    N    N
-                 Abbey Foregate Jn
-       GW731 WSJ2 Abbey Foregate Jn – Crewe Jn
-                                      17115 171 57  H    N    N    N    N
-       GW731 WSJ2 Crewe Jn – Route Boundary (NW3005)
-                                      17157 199 00  H    N    N    N    N
-                 (Wrexham General)
-       GW732 AFEAbbey Foregate Jn – English Bridge Jn
-                                       0 25  0  00  H    N    N    N    N
-                (Loop Lines)
-       GW733 SBA1/ Sutton Bridge Jn – Welshpool
-                                       0 00  33 70  H    N    N    N    N
-             2
-       GW733 SBA2 Welshpool – Aberystwyth
-                                      33 70  95 60  H    N    N    N    N
-       GW734 DJPDovey Jn – Pwllheli   78 60 132 70  H    N    N    N    N
-       GW735 SYCCrewe Jn – Route Boundary (NW1007)
-                                      32 29  2  60  H    N    N    N    N
-                (Limit of Electrification)
-       GW736 GNQ1 Gobowen South – Commencement of
-                                       0 00  0  16  N    N    N    N    N
-                 single line board
-       GW740 MAIMaindee East Jn – Maindee North Jn
-                                      41 65  41 33  H    N    N    N    N
-       GW750 BNCHereford Yard Jn – Brecon Curve Jn
-                                       0 00  0  19  N    N    N    N    N
-       GW750 HNL2 Brecon Curve Jn – MEB Siding
-                                      14944 149 78  N    N    N    N    N
-       GW770 EBW Ebbw Vale Parkway – Site of Former
-                                      18 45  14 23  H    N    N    N    N
-                 Aberbeeg Jn
-       GW770 WVL Site of Former Aberbeeg Jn – Park Jn
-                                      14 23  1  02  H    N    N    N    N
-       GW770 GAEPark Jn – Gaer Jn (Western Valley Line)
-                                      16024 159 33  N    N    N    N    N
-       GW773 BJRMachen Quarry – Site of Former
-                                       4 69  0  00  N    N    N    N    N
-                Bassaleg Jn
-       GW773 WVL Site of Former Bassaleg Jn – Park Jn
-                                       2 05  1  10  N    N    N    N    N
-                 (Machen Branch)
-       GW780 WVL Park Jn – Park Jn SB  1 02  0  74  H    N    N    N    N
-       GW780 NWN Park Jn SB – Ebbw Jn  0 54  0  00  H    N    N    N    N
-       GW784 NLLAlexandra Dock Jn – Network Rail
-                                      15960 160 27  N    N    N    N    N
-                Boundary (Newport Docks)
-       GW790 ROC Pengam Jn – Change of ELR
-                                      16820 168 61  N    N    N    N    N
-       GW790 ROA Change of ELR – Network Rail Boundary
-                                       3 41  4  54  N    N    N    N    N
-                 (ABP Cardiff Docks)
+       GW225 RFRCaversham Road Jn – Oxford Road Jn
+                                      36 25  36 74  N    N    N    N    N
+       GW240 DECDidcot East Jn – Didcot North Jns
+                                      52 66  54 00  H    N    N    N    N
+       GW250 DWC Foxhall Jn – Didcot West Curve Jn
+                                       0 01  0  32  H    N    N    N    N
+       GW260 THAKennington Jn – Morris Cowley
+                                      18 45  16 04  N    N    N    N    N
+       GW277 OXD Oxford North Jn – Route Boundary
+                                      30 09  29 25  H    N    N    N    N
+                 (MD736) (29m 25ch)
+       GW310 OWW Wolvercot Jn – Norton Jn
+                                      66 32 112 00  H    N    N    N    N
+       GW317 OWW Honeybourne Stratford Line Junction –
+                                      10206 101 31  N    N    N    N    N
+                 Start of branch mileage
+       GW317 STDStart of branch mileage – Long Marston
+                                       0 00  2  70  N    N    N    N    N
+       GW401 BAG2 Route Boundary (MD306) (Ashchurch) –
+                                      77 40  92 21  H    N    N    N    N
+                 Gloucester Barnwood Jn (Change of
+                 ELR)
+       GW401 CHLGloucester Barnwood Jn (Change of
+                                      92 21  93 08  H    N    N    N    N
+                ELR) – Gloucester Yard Jn (Change of
+                ELR)
+       GW401 BGL1 Gloucester Yard Jn (Change of ELR) –
+                                      93 08  94 10  H    N    N    N    N
+                 Change of ELR
+       GW401 BGL2 Change of ELR – Standish Jn
+                                      94 60  99 69  H    N    N    N    N
+       GW401 BGL2 Standish Jn – Yate South Jn (Change of
+                                      99 69 120 03  H    N    N    N    N
+                 ELR)
+       GW401 YATYate South Jn (Change of ELR) –
+                                      12003 121 28  H    N    N    N    N
+                Westerleigh Jn
+       GW425 SAW/ Berkeley Road Jn – Sharpness (Network
+                                       0 04  3  69  N    N    N    N    N
+             SSS Rail Boundary)
+       GW430 THOYate Middle Jn – Tytherington
+                                       0 00  6  24  H    N    N    N    N
+       GW440 BGL2 Yate South Jn – Westerleigh Yard
+                                      12003 122 65  N    N    N    N    N
+       GW450 FECStoke Gifford Jn No.1 – Change of ELR
+                                      11179 113 01  H    N    N    N    N
+       GW450 BSW Change of ELR – Bristol East Jn
+                                       4 50  0  26  H    N    N    N    N
+                Stoke Gifford Jn No.2 – Hallen Marsh Jn
+       GW4501 AFR                     11205 118 42  H    N    N    N    N
+                (Change of ELR)
+                Hallen Marsh Jn (Change of ELR) –
+       GW4501 AMB                     14 38  14 60  H    N    N    N    N
+                Holesmouth Jn
 
-
-         April 2009                                 499G
+         April 2009                                 499C

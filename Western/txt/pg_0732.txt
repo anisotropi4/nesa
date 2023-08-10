@@ -3,67 +3,67 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-       GW890 SDI1Briton Ferry Up Flying Loop Jn –
-                                      206 14207 67 N  N N  N N  N  Y Y  N  N N  N
-                 Dynover Jn
-       GW890 SDI1Dynover Jn – Jersey Marine Jn North
-                                      207 67208 33 N  N N  N N  N  Y Y  N  N N  N
-       GW890 SDI1Jersey Marine Jn North – Change of
-                                      208 33208 49 N  N N  N N  N  Y Y  N  N N  N
-                 Mileage
-       GW890 SDI2Change of Mileage – Grovesend
-                                       0  00 10 05 N  N N  N N  N  Y Y  N  N N  N
-                 Colliery Loop Jn
-       GW890 SDI2Grovesend Colliery Loop Jn – Morlais
-                                       10 05 10 64 N  N N  N N  N  Y Y  N  N N  N
-                 Jn
-       GW8901 RSBDynevor Jn – Jersey Marine South Jn
-                                       19 16 20 24 N  N N  N N  N  Y Y  N  N N  N
-       GW892 VON Network Rail Boundary (Cwmgwrach) –
-                                       33 14 41 17 N  N N  N N  N  N N  N  N N  N
-                 Neath & Brecon Jn
-       GW892 VON Neath & Brecon Jn – Burrows Sidings
-                                       41 17 46 30 N  N N  N N  N  N N  N  N N  N
-       GW893 NAB Network Rail Boundary (Onllwyn) –
-                                       10 10  0 01 N  N N  N N  N  N N  N  N N  N
-                 Neath and Brecon Jn
-       GW894 JER Jersey Marine Jn North – Jersey Marine
-                                       1  24  2 26 N  N N  N N  N  N N  N  N N  N
-                 Jn South
-       GW897 HDY Grovesend Colliery Loop Jn – Hendy Jn
-                                       0  00  0 46 N  N N  N N  N  N N  N  N N  N
-       GW900 BSW Ableton Lane Tunnel – Severn Tunnel
-                                       10 51 16 73 N  Y N  Y N  N  Y Y  N  Y Y  N
-                 Jn
-       GW900 SWM2Severn Tunnel Jn – Maindee West Jn
-                                      149 14158 16 N  Y N  Y N  N  Y Y  N  Y Y  N
-       GW900 SWM2Maindee West Jn – Cardiff East Jn
-                                      158 16170 18 N  Y N  Y N  N  Y Y  N  Y Y  N
-       GW900 SWM2Cardiff East Jn – Cardiff West Jn
-                                      170 18170 56 N  Y N  Y N  N  Y Y  N  Y Y  N
-       GW900 SWM2Cardiff West Jn – Court Sart Jn
-                                      170 56206 58 N R1 N  R2N  N  Y Y  N  Y Y  N R2 ECS only Bridgend River Bridge
-                                                                                  Crossover (193m 00ch) to Court Sart
-                                                                                  Jn
-       GW900 SWM2Court Sart Jn – Llandore Jn
-                                      206 58214 62 N  N N  E N  N  Y Y  N  Y Y  N
-       GW900 SWM2Llandore Jn – Llandeilo Jn
-                                      214 62223 49 N  N N  E N  N  Y Y  N  N N  N Prohibited between Swansea Loop
-                                                          R1                      West Jn (216m 00ch) and Llandeilo Jn
-       GW900 SWM2Llandeilo Jn – Carmarthen Bridge Jn
-                                      223 49245 32 N  N N  N N  N  Y Y  N  N N  N
-       GW900 SWM2Carmarthen Bridge Jn – Whitland Jn
-                                      245 32259 01 N  N N  N N  N  Y Y  N  N N  N
-       GW900 SWM2Whitland Jn – Clarbeston Road Jn
-                                      259 01271 08 N  N N  N N  N  Y Y  N  N N  N
-       GW900 CRL Clarbeston Road Jn – Change of ELR
-                                      271 08281 58 N  N N  N N  N  Y Y  N  N N  N
-                 (Letterston Jn)
-       GW900 NPF Change of ELR (Letterston Jn) –
-                                      283 30287 52 N  N N  N N  N  Y Y  N  N N  N
-                 Network Rail Boundary (Fishguard
-                 Harbour)
-       GW9001 SWALandore Jn – Swansea 214 62216 07 N  N N  E N  N  Y Y  N  Y Y  N Prohibited between Crossover (Down
-                                                          R1                      Sidings 215m 62ch) and Swansea
 
-         April 2009                                498L
+       Line of
+             ELR Line of Route / Sector Description
+                                       M  Ch M  Ch166 168 170 171 172 175 180 196 220 221 222 Notes
+       route                                      RHM
+                                                     000 000 000 000 000 000
+                                                                       000 000 000 ooooooooooooooooooooooooo
+       GW731 WSJ2Crewe Jn – Route Boundary (NW3005)
+                                      171 57199 00 N  Y Y  N N  Y  N E  N R1 N R1 3mph Ruabon Up and Down
+                 (Wrexham General)                                  R2            platforms with deflated
+                                                                                  suspension
+                                                                               R2 Prohibited Castle Foregate Sidings
+                                                                               to Route Boundary (NW3005)
+                                                                               (Wrexham General)
+       GW732 AFE Abbey Foregate Jn – English Bridge Jn
+                                       0  25  0 00 N  N Y  N N  Y  N N  N  N N
+                 (Loop Lines)
+       GW733 SBA1/2 Sutton Bridge Jn – Welshpool
+                                       0  00 33 70 N  N Y  N N  N  N N  N  N N
+       GW733 SBA2Welshpool – Aberystwyth
+                                       33 70 95 60 N  N Y  N N  N  N N  N  N N
+       GW734 DJP Dovey Jn – Pwllheli   78 60132 70 N  N Y  N N  N  N N  N  N N
+       GW735 SYC Crewe Jn – Route Boundary (NW1007)
+                                       32 29  2 60 N  Y Y  N N  Y  N N  N R1 N R1 3mph Whitchurch Up platform
+                 (Limit of Electrification)                                       with deflated suspension
+       GW736 GNQ1Gobowen South – Commencement of
+                                       0  00  0 16 N  N N  N N  N  N N  N  N N
+                 single line board
+       GW740 MAI Maindee East Jn – Maindee North Jn
+                                       41 65 41 33 N  N Y  N N  Y  Y N  N  N N
+       GW750 BNC Hereford Yard Jn – Brecon Curve Jn
+                                       0  00  0 19 N  N N  N N  N  N N  N  N N
+       GW750 HNL2Brecon Curve Jn – MEB Siding
+                                      149 44149 78 N  N N  N N  N  N N  N  N N
+       GW770 EBW Ebbw Vale Parkway – Site of Former
+                                       18 45 14 23 N  N Y  N N  Y  N N  N  N N
+                 Aberbeeg Jn
+       GW770 WVL Site of Former Aberbeeg Jn – Park Jn
+                                       14 23  1 02 N  N Y  N N  Y  N N  N  N N
+       GW770 GAE Park Jn – Gaer Jn (Western Valley Line) 160
+                                          24159 33 N  N Y  N N  Y  N N  N  N N
+       GW773 BJR Machen Quarry – Site of Former
+                                       4  69  0 00 N  N N  N N  N  N N  N  N N
+                 Bassaleg Jn
+       GW773 WVL Site of Former Bassaleg Jn – Park Jn
+                                       2  05  1 10 N  N Y  N N  N  N N  N  N N
+                 (Machen Branch)
+       GW780 WVL Park Jn – Park Jn SB  1  02  0 74 N  N Y  N N  Y  N N  N  N N
+       GW780 NWN Park Jn SB – Ebbw Jn  0  54  0 00 N  N Y  N N  Y  N N  N  N N
+       GW784 NLL Alexandra Dock Jn – Network Rail
+                                      159 60160 27 N  N N  N N  N  N N  N  N N
+                 Boundary (Newport Docks)
+       GW790 ROC Pengam Jn – Change of ELR
+                                      168 20168 61 N  N N  N N  N  N N  N  N N
+       GW790 ROA Change of ELR – Network Rail
+                                       3  41  4 54 N  N N  N N  N  N N  N  N N
+                 Boundary (ABP Cardiff Docks)
+       GW810 CAR End of Line (Rhymney) – Ystrad
+                                       24 00 13 41 N  N N  N N  N  N N  N  N N
+                 Mynach South Jn
+
+
+
+         April 2009                                498J

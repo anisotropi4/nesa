@@ -1,24 +1,26 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0842	GW894	JER	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	6	Y	
-Western	0842	GW897	HDY	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	6	Y	
-Western	0842	GW900	BSW	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	8	Y	
-Western	0842	GW900	SWM2	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	8	Y	
-Western	0842	GW900	SWM2	Maindee West Jn – Cardiff East Jn	158	16	170	18	8	R1 R2	R1 Prohibited between Newport and Alexandra Dock Jn on the Down Relief line R2 Prohibited Newport platform 3 (Up Down platform line)
-Western	0842	GW900	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	8	R1	R1 Prohibited Cardiff Central platform 7 (Down Barry line)
-Western	0842	GW900	SWM2	Cardiff West Jn – Court Sart Jn	170	56	206	58	8	Y	
-Western	0842	GW900	SWM2	Court Sart Jn – Llandore Jn	206	58	214	62	8	R1	R1 Prohibited between Skewen and Llansamlet on the Up line
-Western	0842	GW900	SWM2	Llandore Jn – Llandeilo Jn	214	62	223	49	7	R1	R1 Prohibited between Swansea Loop West Jn and Former Cockett West Jn (217m 66ch) on the Down Main line
-Western	0842	GW900	SWM2	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	8	R1	R1 Prohibited Between Kidwelly Jn and Buffer Stops on Goods line connections to former Cwmmawr branch
-Western	0842	GW900	SWM2	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	8	Y	
-Western	0842	GW900	SWM2	Whitland Jn – Clarbeston Road Jn	259	01	271	08	8	R1	R1 Prohibited Clarbeston Road Up Main line platform
-Western	0842	GW900	CRL	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	7	Y	
-Western	0842	GW900	NPF	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	7	Y	
-Western	0842	GW9001	SWA	Landore Jn – Swansea	214	62	216	07	7	Y	
-Western	0842	GW906	SWL	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	7	Y	
-Western	0842	GW910	CWL1	Craven Arms Jn – Change of Mileage	20	01	20	12	5	Y	
-Western	0842	GW910	CWL2	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	5	Y	
-Western	0842	GW910	VOT	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	5	Y	
-Western	0842	GW910	LLA	Llandeilo – Pantyffynnon	18	07	10	08	5	Y	
-Western	0842	GW910	LLA	Pantyffynnon – Morlais Jn	10	08	3	50	5	Y	
-Western	0842	GW910	LLA	Morlais Jn – Llandeilo Jn	3	50	0	00	8	Y	
-Western	0842	GW915	GWA	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	5	Y	
+Western	0842	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	7	Y	
+Western	0842	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	7	Y	
+Western	0842	GW628	FRY	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	7	Y	
+Western	0842	GW628	TUR/C WR	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	5	Y	
+Western	0842	GW628	FRY	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	7	Y	
+Western	0842	GW637	DAC	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	4	Y	
+Western	0842	GW637	CAL	Bere Alston Jn – Gunnislake	0	02	4	40	4	Y	
+Western	0842	GW640	LIL	Liskeard – Coombe Jn	8	67	6	75	4	R1	R1 Prohibited Liskeard platform 3 (Liskeard Loop)
+Western	0842	GW640	LOO	Coombe Jn – Looe	6	52	0	19	4	Y	
+Western	0842	GW640	LOO	Coombe Jn – Coombe No.2 GF	6	52	6	66	4	Y	
+Western	0842	GW642	LOO	Coombe No.2 GF – Network Rail Boundary (Moorswater)	6	66	7	20	4	Y	
+Western	0842	GW650	LOF	Lostwithiel – Network Rail Boundary (Carne Point)	277	54	281	59	8	Y	
+Western	0842	GW660	PAR	Par Loop Jn – St Blazey Jn	281	57	282	16	7	R1	R1 Prohibited on the Up line
+Western	0842	GW660	NEW	St Blazey Jn – Newquay	282	16	302	49	6	Y	
+Western	0842	GW672	SDS	Burngullow Jn – Drinnick Mill	288	26	291	31	6	Y	
+Western	0842	GW672	SDS	Drinnick Mill – Parkandillack	291	31	293	52	5	Y	
+Western	0842	GW680	FAL1-3	Penwithers Jn – Falmouth	301	25	312	46	6	Y	
+Western	0842	GW690	SIV	St Erth – St Ives	321	02	325	13	5	Y	
+Western	0842	GW700	BAG2	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	8	Y	
+Western	0842	GW700	SWM2	Horton Road Jn – Route Boundary Wales	113	61	129	00	8	Y	
+Western	0842	GW700	SWM2	Route Boundary Wales – Severn Tunnel Jn	129	00	149	14	8	Y	
+Western	0842	GW710	NO ELR	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	8	Y	
+Western	0842	GW720	EUB	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	8	Y	
+Western	0842	GW730	SHL	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	8	Y	
+Western	0842	GW730	SHL	Craven Arms Jn – Shelwick Jn	20	01	49	26	8	R1	R1 Prohibited between Leominster and Moreton-on-Lugg SB on the Down Main line

@@ -3,69 +3,46 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-       GW108 MLN2 St Budeaux Jn – Change of ELR
-                                      25000 256 38  H    N    N    N    N
-       GW108 MLN3 Change of ELR – Liskeard Jn
-                                      25640 264 66  H    N    N    N    N
-       GW108 MLN3 Liskeard Jn – Lostwithiel Jn
-                                      26466 277 54  H    N    N    N    N
-       GW108 MLN3 Lostwithiel Jn – Par Loop Jn
-                                      27754 281 57  H    N    N    N    N
-       GW108 MLN3 Par Loop Jn – Burngullow Jn
-                                      28157 288 26  H    N    N    N    N
-       GW108 MLN3 Burngullow Jn – Penwithers Jn
-                                      28826 301 25  H    N    N    N    N
-       GW108 MLN3 Penwithers Jn – Change of ELR
-                                      30125 305 65  H    N    N    N    N
-       GW108 MLN4 Change of ELR – St Erth Jn
-                                      30567 320 73  H    N    N    N    N
-       GW108 MLN4 St Erth Jn – Penzance
-                                      32073 326 50  H    N    N    N    N
-       GW110 ANLOld Oak Common West – Greenford
-                                       3 20  7  15  H    EH   N    N    N
-                East Jn
-       GW110 ANLGreenford East Jn – Greenford West Jn
-                                       7 15  7  48  H    N    N    N    N
-       GW110 ANLGreenford West Jn – Route Boundary
-                                       7 48  8  60  H    N    N    N    N
-                (MD705) (Northolt Jn)
-       GW117 GEC Greenford East Jn – Greenford South Jn
-                                       8 70  8  45  H    EH   N    N    N
-       GW130 AWL Route Boundary (EA1310) (Acton Wells
-                                       0 39  0  08  H    N    E    N    E
-                 Jn) – Acton East Jn
-       GW174 WEL1 West Ealing Jn – Drayton Green Jn
-                                       6 56  7  03  H    EH   N    N    N
-       GW174 WEL1 Drayton Green Jn – Greenford South Jn
-                                       7 03  8  45  H    EH   N    N    N
-       GW174 WEL1 Greenford South Jn – Greenford LUL
-                                       8 45  8  65  H    N    N    N    N
-                 Bay Jn
-       GW174 WEL1 Greenford LUL Bay Jn – Greenford West
-                                       8 65  8  76  H    N    N    N    N
-                 Jn
-       GW175 WEL2 Greenford LUL Bay Jn – Greenford
-                                       8 65  9  06  N    N    N    N    N
-                 Station
-       GW176 HANHanwell Jn – Drayton Green Jn
-                                       0 00  0  36  H    EH   N    N    N
-       GW178 BRBSouthall – Brentford Goods
-                                       0 00  2  70  N    N    N    N    N
-       GW180 HLLHeathrow Airport Jn (Up and Down Main)
-                                      11 04  12 27  N    Y    Y    Y    R1 R1 ETCS units only
-                – NR Boundary (BAA)
-       GW182 STAWest Drayton Jn – End of Branch
-                                      13 31  16 25  N    N    N    N    N
-                (Colnbrook)
-       GW184 WINSlough – Windsor & Eton Central
-                                      18 36  21 19  H    N    N    N    N
-       GW185 WBB Maidenhead – Bourne End
-                                      24 19  28 55  H    N    N    N    N
-       GW185 MWB Bourne End GF – Marlow0 06  2  54  H    N    N    N    N
-       GW187 HENTwyford – Henley-on-Thames
-                                      31 01  35 48  H    N    N    N    N
-       GW190 RNJRoute Boundary (SW210) (Reading Spur
-                                      68 00  68 35  H    N    N    N    N
-                Jn) – Reading New Jn
+         Table D2A – Route clearance of electric multiple unit trains
+                                                                                         Last Updated: 30/04/2022
+         To be read in conjunction with General Notes.
 
-         April 2009                                 499B
+         Line of ELR
+                  Line of Route / Sector
+                                     oooo oooo oooo oooo
+                                                   325  332  345  360  387 Notes
+         route    Description         M  Ch M  Ch  0000 0000 0000 0000 0000ooooooooooooooooooooooooooo
+         GW103 MLN1 Paddington – Old Oak Common West
+                                       0 05  3  20  H    R1   R2   R4   R7 R1 Prohibited Paddington platforms 1 and 2
+                                                              R3   R5   R8 R2 Prohibited Paddington platforms 4, 5 and
+                                                                   R6   R9    9 with deflated suspension
+                                                                   R10     R3 Prohibited Paddington platforms 6 and 7
+                                                                           R4 20mph Paddington platforms 3 and 4
+                                                                           R5 Route prohibited to Class 360/1
+                                                                           R6 Prohibited Paddington platform 13
+                                                                           R7 Prohibited with air bags deflated / failed
+                                                                              secondary suspension Paddington
+                                                                              platform 4
+                                                                           R8 Prohibited Marcon Siding
+                                                                           R9 100mph maximum speed
+                                                                           R10 15mph Paddington platform 2
+         GW103 MLN1 Old Oak Common West – Acton East
+                                       3 20  4  07  H    Y    Y    R1   Y  R1 Route prohibited to Class 360/1
+                  Jn
+         GW103 MLN1 Acton East Jn – West Ealing Jn
+                                       4 07  6  54  H    Y    Y    R1   R2 R1 Route prohibited to Class 360/1
+                                                                        R3 R2 Prohibited with air bags deflated / failed
+                                                                        R4    secondary suspension Acton Main Line
+                                                                        R5    platform 3
+                                                                           R3 100mph maximum speed
+                                                                           R4 Prohibited Acton Yard
+                                                                           R5 Prohibited Acton East Jn - Acton West Jn
+                                                                              Up and Down Poplar lines
+         GW103 MLN1 West Ealing Jn – Hanwell Jn
+                                       6 54  7  19  H    Y    Y    R1   R2 R1 Route prohibited to Class 360/1
+                                                                           R2 100mph maximum speed
+
+
+
+
+         April 2009                                498N

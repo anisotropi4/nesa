@@ -6,49 +6,66 @@
 
 
 
-       FOOT OR BARROW CROSSINGS BETWEEN
-       PLATFORMS
-       At staffed stations where foot or barrow level crossings are provided but public access is only permitted via a footbridge or
-       subway, whenever practicable station staff must prevent members of the public using the level crossing or otherwise
-       crossing the line.
-       Staff must report any irregular or unauthorised use of foot or barrow crossings, and any missing or defaced warning signs.
-       The manager concerned must tell the Network Rail Head of Operations Delivery.
-       Where public use of foot or barrow crossings is permitted only when escorted by railway personnel, staff must only carry
-       this out if their employer has suitably briefed them.
-                                               Western Route GI - Dated: 13/05/19
-
-       GROUND FRAMES EQUIPPED WITH KEY INSTRUMENT
-       RELEASED FROM A SIGNALBOX
-       1.The Ground Frame Operator must telephone the Signaller for permission to use the ground frame. When told that the
-         release can be granted, the Operator must -
-         • turn the key in the release instrument anti-clockwise from No.1 to No.2 position
-         • wait for the indicator to show “Free”
-         • turn the key to the No.3 position and withdraw it.
-           NOTE:
-               At ground frames where a short length track circuit is provided just in advance of the trailing end of the
-           points, the track circuit must be occupied for one minute before the key in the release instrument can be turned to
-           the No.2 position.
-       2.When the key is released, the Operator may put it into the ground frame Annett's lock in order to work the levers.
-       3.If the train is not to shut in, the Operator must keep the key out of the release instrument until the train is ready to
-         depart.
-       4.If the train is to shut in, the Operator must assure the Signaller on completion of shunting that vehicles are clear of the
-         running line and the ground frame has been restored to normal. The Signaller may give instructions as to the time that
-         the train is required to leave.
-       5.When shunting has been completed and the train is either (a) clear of the points ready to depart, or (b) has been
-         shunted into the siding clear of all running lines and the points have been restored to normal, the Operator must -
-         • take the key out of the ground frame Annett’s lock
-         • replace the Annett's key in the release instrument
-         • turn the key clockwise to the No.1 position
-         • tell the Signaller (and press the plunger where one is provided)
-         • remain at the ground frame until the Signaller confirms that all is in order.
-       6.If a ground frame is being released to work a crossover during Single Line Working, the Operator must keep the
-         Annett's key out of the release instrument until normal working is about to be resumed. For other shunting movements
-         over crossovers, the Operator must comply with 5. above as soon as the movement has passed clear of the
-         crossover points concerned.
-       7.The Operator must not use excessive force when manipulating release instrument keys.
-                                               Western Route GI - Dated: 04/04/09
+       Defective on-train equipment
+       A train on which the ERTMS equipment is isolated or in level 0 must not enter a running line from a siding,
+       yard or depot other than in exceptional circumstances and then only when authorised by the On-Call
+       operations manager.
 
 
+       Stopping at end of authority
+       If a train has to stop short of a block marker because of an uncorrected odometry error, the driver must obtain
+       the signaller’s permission to press override and move forward in SR mode in order to reach the correct
+       stopping location. Written order 01 must be completed.
+
+       If the train fails to transition when entering an ERTMS area (Rule Book, Module S7, Section 8.1)
+       Unexpected failure to transition to ERTMS Level 2
+       If a train does not transition it will be tripped by ERTMS and, depending on the cause of the failure, may also
+       receive a TPWS intervention. The driver and signaller must try to establish the reason for the failure. If the
+       fault cannot be rectified the train may proceed if directed by operations Control. The signaller will issue written
+       order 02 to authorise the train to proceed (or written order 01 if the train stopped before being tripped). If
+       TPWS has not intervened, the driver must operate the TPWS override.
+       If TPWS intervention occurs at the Start of Cab Signalling board in any other circumstances it must be treated
+       as a TPWS equipment irregularity and the driver and signaller must complete form RT3185 (Reporting a
+       signal/AWS/TPWS/ATP/TVM failure or irregularity).
+
+       Known system failure preventing transition to ERTMS Level 2
+
+       If there is a failure which may prevent a down train from transitioning but the train can be signalled normally, the signaller
+       will advise the driver that he transition may not work. The driver must prepare to be tripped at the Start of Cab Signalling
+       board. If this happens, the procedures for an unexpected failure (above) must be applied.
+
+       If it known that an MA cannot be issued at the Start of Cab Signalling board because the route cannot be Set from there in
+       the normal way, the Sutton Bridge Junction signaller will authorise the driver to pass signals SUB 54 and 53 at danger and
+       proceed at caution and stop at the Start of Cab signalling board. The driver must contact the Machynlleth SC on arrival at
+       the board and obtain written order 01 and press override to enable the train to proceed. The train will transition to SR on
+       passing over the balise at the board and, if the train is a Class 158, the driver must stop again in order to raise the ceiling
+       speed to 80km/h and then proceed.
+
+       If it is not possible to clear Sutton Bridge Junction signals SUB 54 and 53 but a route can be set from the Start of Cab
+       Signalling board in the normal way, the Sutton Bridge Junction signaller will authorise the driver to pass signals SUB 54
+       and 53 at Danger and proceed at caution as far as the Start of Cab Signalling board where normal working will apply.
+
+       Working by pilot must be introduced if required by Rule Book Module P2
+
+       If the ERTMS train fails to transition when leaving an ERTMS area (Rule Book, Module S7, Section 8.2)
+       Unexpected failure to transition to ERTMS Level 0
+       If a train does not transition it will be tripped by ERTMS at the End of Cab Signalling board. The driver must
+       contact the signaller and report the failure and they must both try to establish the reason for the failure. The
+       driver must select Level 0 manually and the train may proceed and obey all Sutton Bridge Junction signals.
 
 
-       April 2009                    59
+       Known system failure preventing transition to ERTMS Level 0
+       If there is a failure which may prevent an up train from transitioning but the train can be signalled normally, the
+       signaller will advise the driver that the transition may not work. The driver must prepare to be tripped at the
+       End of Cab Signalling board. If this happens, the procedures for an unexpected failure (above) must be
+       applied.
+       If it is not possible to issue an MA from block marker MH1003, the signaller will issue written order 01 to
+       enable the train to proceed. The driver must carry out the normal transition procedure on passing the End of
+       Cab Signalling board but if the transition is not successful the procedures for an unexpected failure (above)
+       must be applied. The driver must obey all Sutton Bridge Junction signals.
+                                               Wales Route GI - Dated: 07/01/2023
+
+
+
+
+       April 2009                    58I

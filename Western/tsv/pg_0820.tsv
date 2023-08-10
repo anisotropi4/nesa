@@ -1,19 +1,13 @@
 Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Western	0820	GW520	Westbury East Loop Jn – Hawkeridge Jn	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW523	Thingley Jn – Bradford Jn	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW528	Bristol, North Somerset Jn – Bristol West Jn via St. Philips Marsh	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW530	Bristol, North Somerset Jn – Dr. Days Jn (Rhubarb Loop)	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW540	Filton Jn – Patchway Jn	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW5401	Filton West Jn – Patchway Jn	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW548	Parson Street Jn – Portbury	Y	Y	Y	Y	N	N	N	N	
-Western	0820	GW560	Heywood Road Jn – Fairwood Jn via Westbury	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW570	Clink Road Jn – Blatchbridge Jn via Frome	Y *	Y	N	N	N	N	N	N	
-Western	0820	GW572	Frome North Jn – Whatley Quarry	Y	N	N	N	N	N	N	N	
-Western	0820	GW580	East Somerset Jn – Cranmore	Y	N	N	N	N	N	N	N	
-Western	0820	GW600	Wootton Bassett Jn – Stoke Gifford Jn No 1 via Badminton	Y *	Y	Y	N	N	N	N	N	
-Western	0820	GW600	Stoke Gifford Jn No 1 – Pilning	Y	Y	Y	N	N	N	N	N	
-Western	0820	GW606	Cowley Bridge Jn – Barnstaple	Y *	N	N	N	N	N	N	N	
-Western	0820	GW608	Crediton – Coleford (Meldon Line)	Y	N	N	N	N	N	N	N	
-Western	0820	GW610	Crannaford LC (Inclusive) – Exeter St Davids	Y *	N	N	N	N	N	N	N	
-Western	0820	GW611	Exmouth Jn – Exmouth	Y *	N	N	N	N	N	N	N	
-Western	0820	GW618	Newton Abbott East Jn – Heathfield	Y	N	N	N	N	N	N	N	
+Western	0820	GW105	Thingley Jn – North Somerset Jn	Y	Y	S	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) box on FEA KFA FRA FSA/FTA IFA wagons 20mph Down Line Br. MLN1 [101m 75ch]
+Western	0820	GW105	North Somerset Jn – Fordgate [154m 12ch]	Y *	Y	Y	N	N	N	N	N	
+Western	0820	GW105	Highworth Jn – Rover Works	Y	N	N	N	N	N	N	N	
+Western	0820	GW107	Worle Jn – Uphill Jn via Weston- Super -Mare	Y	Y	Y	N	N	N	N	N	
+Western	0820	GW108	Fordgate – Norton Fitzwarren Jn [164m 60ch]	Y *	Y	Y	N	N	N	N	N	
+Western	0820	GW108	Norton Fitzwarren Jn [164m 60ch] – Exeter St Davids Jn	Y*	Y Up Line ---------- S Down Line	Y Up Line ---------- S Down Line	N	N	N	N	N	S1 The following combinations are permitted, up to: 2595(h) x 2550(w) on FKA IKA IDA wagons
+Western	0820	GW108	Exeter St Davids Jn – Tavistock Jn	Y *	S	S	N	N	N	N	N	S1 The following combinations are permitted, up to: 2595(h) x 2550(w) on FKA IKA IDA wagons
+Western	0820	GW108	Tavistock Jn – Penwithers Jn	Y *	Y	S	N	N	N	N	N	S1 The following combinations are permitted, up to: 2595(h) x 2550(w) on FKA IKA IDA wagons
+Western	0820	GW108	Penwithers Jn – Penzance	Y *	N	N	N	N	N	N	N	
+Western	0820	GW108	Exeter Railway Junction – Marsh Barton	Y	N	N	N	N	N	N	N	
+Western	0820	GW108	Tavistock Junction – Marsh Mills	Y	N	N	N	N	N	N	N	
+Western	0820	GW108	Dockyard Junction – Devonport Dockyard	Y	N	N	N	N	N	N	N	

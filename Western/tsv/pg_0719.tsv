@@ -1,0 +1,17 @@
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
+Western	0719	GW900	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	SWM2	Cardiff West Jn – Court Sart Jn	170	56	206	58	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	SWM2	Court Sart Jn – Llandore Jn	206	58	214	62	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	SWM2	Llandore Jn – Llandeilo Jn	214	62	223	49	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	SWM2	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	SWM2	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	SWM2	Whitland Jn – Clarbeston Road Jn	259	01	271	08	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	CRL	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW900	NPF	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW9001	SWA	Landore Jn – Swansea	214	62	216	07	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW906	SWL	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW910	CWL1	Craven Arms Jn – Change of Mileage	20	01	20	12	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
+Western	0719	GW910	CWL2	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	E	Y	Y	Y	Y	Y	R1 R2	E	E	N	R1 Prohibited between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
+Western	0719	GW910	VOT	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	E	Y	Y	Y	Y	Y	N	E	E	N	
+Western	0719	GW910	LLA	Llandeilo – Pantyffynnon	18	07	10	08	E	Y	Y	Y	Y	Y	N	E R1	E R1	N	R1 5mph Ffairfach platform
+Western	0719	GW910	LLA	Pantyffynnon – Morlais Jn	10	08	3	50	E	Y	Y	Y	Y	Y	N	Y	Y	N	

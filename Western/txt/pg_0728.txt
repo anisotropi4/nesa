@@ -3,64 +3,69 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-       GW628 TUR/Turnchapel Branch Jn – Buffer Stops
-                                       0  00  0 78 N  N N  N N  N  N N  N  N N  N
-             CWR
-       GW628 FRY Turnchapel Branch Jn – Plymouth Friary 245
-                                          17245 40 N  N N  N N  N  N N  N  N N  N
-       GW637 DAC St Budeaux Jn – Buffer Stops (Beyond
-                                      227 22219 75 N  N N  N N  N  N N  N  N N  N
-                 Bere Alston)
-       GW637 CAL Bere Alston Jn – Gunnislake
-                                       0  02  4 40 N  N N  N N  N  N N  N  N N  N
-       GW640 LIL Liskeard – Coombe Jn  8  67  6 75 N  N N  N N  N  N N  N  N N  N
-       GW640 LOO Coombe Jn – Looe      6  52  0 19 N  N N  N N  N  N N  N  N N  N
-       GW640 LOO Coombe Jn – Coombe No.2 GF
-                                       6  52  6 66 N  N N  N N  N  N N  N  N N  N
-       GW642 LOO Coombe No.2 GF – Network Rail
-                                       6  66  7 20 N  N N  N N  N  N N  N  N N  N
-                 Boundary (Moorswater)
-       GW650 LOF Lostwithiel – Network Rail Boundary
-                                      277 54281 59 N  N N  N N  N  N N  N  N N  N
-                 (Carne Point)
-       GW660 PAR Par Loop Jn – St Blazey Jn
-                                      281 57282 16 N  N N  N N  N  Y Y  N  Y Y  N
-       GW660 NEW St Blazey Jn – Newquay
-                                      282 16302 49 N  N N  N N  N  Y Y  N  Y Y  N
-       GW672 SDS Burngullow Jn – Drinnick Mill
-                                      288 26291 31 N  N N  N N  N  N N  N  N N  N
-       GW672 SDS Drinnick Mill – Parkandillack
-                                      291 31293 52 N  N N  N N  N  N N  N  N N  N
-       GW680 FAL1-3 Penwithers Jn – Falmouth
-                                      301 25312 46 N  N N  N N  N  N N  N  N N  N
-       GW690 SIV St Erth – St Ives    321 02325 13 N  N N  N N  N  N N  N  N N  N
-       GW700 BAG2Gloucester Barnwood Jn – Horton Road
-                                       92 21 92 75 E  Y N  Y N  R1 Y Y  E  Y Y  N R1Route prohibited to Class 172/0
-                 Jn                                                                 and 172/1
-       GW700 SWM2Horton Road Jn – Route Boundary
-                                      113 61129 00 E  Y N  Y N  R2 Y Y  N  Y Y  N R1Prohibited between Gloucester
-                 Wales                             R1           R3                  and Route Boundary Wales
-                                                                                  R2Route prohibited to Class 172/0
-                                                                                    and 172/1
-                                                                                  R3Prohibited between Gloucester
-                                                                                    West Jn and Route Boundary
-                                                                                    Wales
-       GW700 SWM2Route Boundary Wales – Severn Tunnel 129
-                                          00149 14 N  Y N  Y N  N  Y Y  N  Y Y  N
+       Line of
+             ELR Line of Route / Sector Description
+                                       M  Ch M  Ch166 168 170 171 172 175 180 196 220 221 222 Notesooooooooooooooooooooo
+       route                                      RHM
+                                                                       000 000 000 o
+                                                     000 000 000 000 000 000
+       GW500 BKE Westbury Line Jn – Oxford Road Jn
+                                       36 17 36 67 Y  N Y  N N  Y  Y N  Y  Y N R1
+       GW500 BKE Oxford Road Jn – Southcote Jn
+                                       36 67 37 62 Y  N Y  N N  Y  Y N  Y  Y N R2
+       GW500 BKE Southcote Jn – Route Boundary
+                                       37 62 37 76 Y  N Y  N N  N  Y N  Y  Y N R3
+                 (SW125) (Basingstoke)
+       GW500 BHL Southcote Jn – Change of ELR
+                                       37 62 81 19 Y  N N  N N  Y  Y N  R1R1 N R4 100mph on the Up Westbury line
+                                                                                  from Newbury Racecourse to
+                                                                                  Midgham
+       GW500 SWY Change of ELR – Heywood Road Jn
+                                       81 19 94 44 Y  N N  N N  Y  Y N  Y  Y N
+                 (Change of ELR)
+       GW500 WES Heywood Road Jn (Change of ELR) –
+                                       94 44 97 02 Y  N N  N N  Y  Y N  Y  Y N
+                 Fairwood Jn (Change of ELR) (via
+                 Westbury Avoiding Lines)
+       GW500 WEY Fairwood Jn (Change of ELR) – Clink
+                                      111 18114 44 Y  N Y  N N  Y  Y N  Y  Y N
+                 Road Jn (Change of ELR)
+       GW500 FRA Clink Road Jn (Change of ELR) –
+                                      114 44116 37 Y  N Y  N N  Y  Y N  Y  Y N
+                 Blatchbridge Jn (Change of ELR)
+       GW500 WEY Blatchbridge Jn (Change of ELR) –
+                                      116 52129 50 Y  N Y  N N  Y  Y N  Y  Y N
+                 Castle Cary Jn
+       GW500 WEY Castle Cary Jn – Route Boundary
+                                      129 50130 00 Y  N Y  N N  N  Y N  Y  Y N
+                 (SW175) (Yeovil Pen Mill Jn)
+       GW500 CCL Castle Cary Jn – Cogload Jn (Down)
+                                      115 32138 30 Y  N N  N N  Y  Y N  R1R1 N R1 90mph between Somerton Tunnel
+                                                                                  and Cogload Jn
+       GW5001 SALRoute Boundary (SW170) (Wilton Jn) –
+                                      115 40110 07 Y  N Y  N N  N  N N  N  N N
+                 Westbury South Jn
+       GW510 WEY Westbury North Jn – Bradford Jn
+                                      109 49104 40 Y  N N  N N  Y  Y N  Y  Y N
+       GW510 BFB Bradford Jn – Bathampton Jn
+                                       9  12  0 00 Y  N N  N N  Y R1 N  Y  Y N R1 30mph on the down line through
+                                                                                  Dundas Aqueduct (03m 12ch)
+       GW520 WYL Westbury East Loop Jn – Hawkeridge
+                                       94 77 95 32 Y  N N  N N  Y  Y N  Y  Y N
                  Jn
-       GW710 NO  Llanwern Works East – Llanwern Works
-                                      153 08156 03 N  N N  N N  N  N N  N  N N  N
-             ELR West via BSS (Corus Infrastructure)
-       GW720 EUB Network Rail Boundary (Uskmouth) –
-                                       3  07  0 00 N  N N  N N  N  N N  N  N N  N
-                 East Usk Jn
-       GW730 SHL Severn Bridge Jn – Craven Arms Jn
-                                       0  11 20 01 N  N N  R1N  N  Y Y  R2 N N  N R1 Prohibited between Sutton Bridge
-                                                                                     Jn and Craven Arms Jn
-                                                                                  R2 Prohibited Up Goods Loop Jn to
-                                                                                  Craven Arms Jn
-       GW730 SHL Craven Arms Jn – Shelwick Jn
-                                       20 01 49 26 N  N N  N N  N  Y Y  N  N N  N
+       GW523 WEY Thingley Jn – Bradford Jn
+                                       96 10104 40 Y  N N  N N  Y  Y N  Y  Y N
+       GW528 BRL North Somerset Jn – Bristol West Jn via
+                                       0  00  1 08 Y  N N  N N  Y  Y N  Y  Y N
+                 St Philips Marsh
+       GW530 BLL Feeder Bridge Jn – Dr Day’s Jn
+                                      117 50117 73 Y  N N  N N  Y  Y N  Y  Y N
+                 (Rhubarb Loop)
+       GW540 BSW Filton Jn No.1 – Patchway Jn No.2
+                                       4  40  5 61 Y  N Y  N N  Y  Y N  Y  Y N
+       GW5401 PACFilton West Jn No.1 – Patchway Jn No.1
+                                       0  40  0 00 Y  N N  N N  N  Y N  Y  Y N
 
 
-         April 2009                                498H
+
+         April 2009                                498F

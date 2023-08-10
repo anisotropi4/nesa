@@ -1,22 +1,20 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0725	GW401	CHL	Gloucester Barnwood Jn (Change of ELR) – Gloucester Yard Jn (Change of ELR)	92	21	93	08	E R1	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW401	BGL1	Gloucester Yard Jn (Change of ELR) – Change of ELR	93	08	94	10	E R1	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW401	BGL2	Change of ELR – Standish Jn	94	60	99	69	E R1	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW401	BGL2	Standish Jn – Yate South Jn (Change of ELR)	99	69	120	03	N	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW401	YAT	Yate South Jn (Change of ELR) – Westerleigh Jn	120	03	121	28	N	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW425	SAW/S SS	Berkeley Road Jn – Sharpness (Network Rail Boundary)	0	04	3	69	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0725	GW430	THO	Yate Middle Jn – Tytherington	0	00	6	24	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0725	GW440	BGL2	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0725	GW450	FEC	Stoke Gifford Jn No.1 – Change of ELR	111	79	113	01	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW450	BSW	Change of ELR – Bristol East Jn	4	50	0	26	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW4501	AFR	Stoke Gifford Jn No.2 – Hallen Marsh Jn (Change of ELR)	112	05	118	42	N	R1	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW4501	AMB	Hallen Marsh Jn (Change of ELR) – Holesmouth Jn	14	38	14	60	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW4501	AMB	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0725	GW451	FWC	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	Y	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW454	AMB	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	N	Y	N	N	N	N	R1	R1	N	R1	R1	N
-Western	0725	GW454	CNX	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW480	SWM1	Swindon Jn – Standish Jn	77	36	106	74	E R1 R2	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW490	SWM2	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	E R1	Y	N	Y	N	N	Y	Y	Y	Y	Y	N
-Western	0725	GW500	BKE	Westbury Line Jn – Oxford Road Jn	36	17	36	67	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW500	BKE	Oxford Road Jn – Southcote Jn	36	67	37	62	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	N
-Western	0725	GW500	BKE	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	Y	Y	N	Y	N	N	N	Y	N	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notesooooooooooooooooooooo
+Western	0725	GW108	MLN1	Lipson Jn – Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	244	35	246	15	R1 R2 R3 R4	N	E R1 R5	N	N	Y	Y	N	Y	Y	N	R1 Prohibited between Plymouth and Change of ELR (Site of Former Devonport Jn/Cornwall Loop) R2 Prohibited Newton Abbot platform 2 with crush deflated suspension R3 Prohibited Plymouth platform 5 with deflated suspension R4 Prohibited Plymouth platform 8 with crush deflated suspension R5 Prohibited Plymouth platforms 5 and 8
+Western	0725	GW108	MLN2	Change of ELR (Site of Former Devonport Jn / Cornwall Loop) – St Budeaux Jn	247	28	250	00	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN2	St Budeaux Jn – Change of ELR	250	00	256	38	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN3	Change of ELR – Liskeard Jn	256	40	264	66	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN3	Liskeard Jn – Lostwithiel Jn	264	66	277	54	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN3	Lostwithiel Jn – Par Loop Jn	277	54	281	57	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN3	Par Loop Jn – Burngullow Jn	281	57	288	26	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN3	Burngullow Jn – Penwithers Jn	288	26	301	25	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN3	Penwithers Jn – Change of ELR	301	25	305	65	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN4	Change of ELR – St Erth Jn	305	67	320	73	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW108	MLN4	St Erth Jn – Penzance	320	73	326	50	N	N	N	N	N	Y	Y	N	Y	Y	N	
+Western	0725	GW110	ANL	Old Oak Common West – Greenford East Jn	3	20	7	15	Y	Y	N	N	Y	Y	Y	N	Y	Y	Y	
+Western	0725	GW110	ANL	Greenford East Jn – Greenford West Jn	7	15	7	48	Y	Y	N	N	Y	Y	Y	N	Y	Y	N	
+Western	0725	GW110	ANL	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	Y	Y	N	N	Y	Y	Y	N	Y	Y	N	
+Western	0725	GW117	GEC	Greenford East Jn – Greenford South Jn	8	70	8	45	Y	Y	N	N	R1	Y	Y	N	Y	Y	Y	R1 Route prohibited to Class 172/2 and 172/3
+Western	0725	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	Y	E	N	Y	E	Y	E	N	Y	Y	Y	
+Western	0725	GW174	WEL1	West Ealing Jn – Drayton Green Jn	6	56	7	03	Y	E	N	Y	Y	Y	Y	N	Y	Y	Y	
+Western	0725	GW174	WEL1	Drayton Green Jn – Greenford South Jn	7	03	8	45	Y	E	N	Y	Y	Y	Y	N	Y	Y	Y	
+Western	0725	GW174	WEL1	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	Y	E	N	Y	Y	N	N	N	Y	Y	N	

@@ -5,78 +5,73 @@
 
 
 
-       6.Drivers must complete an ATP Report Form at the end of the journey (or when relieved if sooner) as shown below,
-         whether or not they had previously reported the fault verbally as instructed in Clause 7.
-               LEVEL 1          LEVEL 2            LEVEL 3
+       10.
+         Trainborne equipment - fitted to the trains described above - through which the Driver, provided he has performed the
+         appropriate ATP set-up, receives information relating to the maximum permitted speed of the train.
+       Principles of operation
 
+         ATP is a “fail safe” system which, providing the correct data has been entered into the trainborne equipment, will
+         correctly supervise the speed of the train.
 
-           WRONG SIDE FAILURE  RIGHT SIDE -   RIGHT SIDE -RECOVERABLE
-                             NON-RECOVERABLE
+         Full Supervision by ATP is obtained on ATP fitted lines where the on-train equipment measures the actual speed of
+         the train and compares this to a target speed. A target speed is calculated by the on-train computer based on
+         permissible line speed, the condition of the line ahead as indicated by fixed signals, buffer stops, any temporary
+         speed restriction imposed, together with the maximum permitted speed of the train.
 
-          Driver continues journey and
-                           Driver continues journey and
-                                            Driver continues journey and
-          completes written fault report
-                           completes written fault report
-                                            completes written fault report form at
-          at the end of the journey or
-                           form at the end of the journey or
-                                            the end of the journey or when
-          when relieved.   when relieved.   relieved.
+         When necessary ATP will provide a warning to Drivers of the need to reduce their speed. If the train speed is not
+         reduced sufficiently, ATP will intervene and brake the train to match the target speed.
 
-          Driver faxes completed form
-                           Driver deals with completed
-                                            Driver faxes completed form direct to
-          direct to Network Rail
-                           form as per TOC instructions.
-                                            Network Rail Operations Control.
-          Operations Control.
-                           TOC follows up fault as
-                                            Operations Control follows up fault
-          Operations Control follows up
-                           necessary.       as necessary with Control and, if the
-          fault as necessary with           fault persists, issues a suitable
-          Control.                          Notice with the details.
+         Where track equipment is not available, or unable to update the target information, the trainborne ATP will operate in
+         Partial Supervision Mode, supervising to the maximum train speed only.
 
+         If it is necessary for a train to pass a signal at Danger or to undertake shunting movements or make an unsignalled
+         wrong direction movement, the Driver must select either Pass Stop Signal (“PSS”) or “Shunting” mode as
+         appropriate.
 
-       7.Speed restrictions
-         The below instructions do not apply to the imposition of Blanket Speed Restrictions (BESR), which are managed
-         according to Rulebook Module SP Section 6 and no trackside equipment will be provided.
-         (a) Temporary Speed Restrictions
+         When it is necessary to pass two or more consecutive signals at danger (e.g. Temporary Block Working or Single Line
+         Working), the Driver must carry out Temporary Isolation of ATP. The equipment must be switched in again whilst
+         the train is stationary at the last signal affected.
 
-         When a Temporary Speed Restriction (TSR) is imposed, on an ATP-fitted line, the ATP track equipment will be
-         adjusted so as to provide full supervision of speed to accord with the restriction. This adjustment must be made at
-         the same time as the lineside equipment and other arrangements are introduced as set out in the Rule Book.
-         The Maintainer must immediately advise the controlling Signaller when the adjustments to the ATP track equipment
-         have been carried out.
-         Until such time as they have been told that this adjustment has taken place, the controlling Signaller MUST tell drivers
-         of all ATP fitted trains that ATP will not give any indications for the Temporary Speed Restriction. A GSM-R advisory
-         broadcast may be used for this purpose
+         Where an emergency speed restriction (ESR) is imposed, full supervision will not be immediately available until the
+         “speed plugs” for the track equipment have been altered. During this period (usually 48 hours or less), ATP will
+         initiate a brake application (which should be cancelled) and an “ESR” indication will appear in the cab display main
+         window. This warning will remain in the cab display until the first signal after the end of the ESR. The ESR will not be
+         supervised but any other restrictive or stop signal encountered during the ESR will be supervised.
 
-         (b) Emergency Speed Restrictions
+         ATP acts on the information received at the previous beacon or loop. Should the signal aspect change after the train
+         has passed over the last loop or beacon, the display in the main window will not be updated.
 
-         When it is necessary for an Emergency Speed Restriction (ESR) to be imposed on an ATP-fitted line, the appropriate
-         Control will, unless the ESR is caused by non-removal of a TSR at the published time, arrange for lineside ATP
-         control equipment to be adjusted.
+         ATP acts as an additional safety aid to Drivers and does NOT relieve them of their general responsibility laid
+         down in the Rule Book to observe fixed and hand signals, and regulate their speed accordingly.
+       Operating modes
 
-         This adjustment to the equipment will be in two phases :-
+         ATP has seven modes of operation, defined as follows:-
 
-         (i) The Maintainer must immediately arrange to adjust the ATP track equipment. This involves inserting an ESR
-         “plug” so that all ATP-fitted trains approaching the restriction will receive an immediately-recoverable emergency
-         brake application, together with an “ESR” indication in the main cab display window. In these circumstances the
-         target speed will be extinguished until the train has passed beyond the affected area. Supervision will however be
-         maintained in respect of signal aspects, PSRs etc.
-
-         The Technician making the adjustment must advise Control immediately the above first-phase adjustment has been
-         completed.
-
-         (ii) If the Emergency Speed Restriction is likely to continue for more than a few hours, Control must arrange
-         production of TSR type ‘speed plugs’ which will provide the necessary speed supervision in respect of the ESR.
-
-         This second-phase adjustment to the ATP equipment must be carried out as quickly as possible. The Technician
-         making the adjustment must advise Control when this is done.
+         Self Test   An automatic, computer-driven test of the trainborne ATP equipment.
+         Data Entry  The setting up of trainborne ATP equipment to input the individual
+                     characteristics of the train.
+         Full Supervision
+                     Provides supervision of train speed to within the braking curve for
+                     conditions which exist ahead (restrictive signals, buffer stops, speed
+                     changes etc.), also protects against trains rolling away.
+         Partial Supervision
+                     Available providing Data Entry has been properly carried out, but where
+                     track data is not provided. Also applies when it is necessary to pass a
+                     signal at danger, enter an occupied section, make a reversal or after a
+                     recoverable fault.
+         Shunt       Used for slow speed movements, especially where train formation is likely
+                     to vary. Train speed is supervised to 20 mph.
+                     Used when passing consecutive signals at danger, also when assisting a
+         Temporary Isolation
+                     failed train.
+         Non-Recoverable
+                     Will require the train borne equipment to be completely isolated
+         Fault (“Fxx”)
+         Recoverable Fault
+                     Temporary removal of Full Supervision pending detection of correct lineside
+         (“Exx”)     data.
 
 
 
 
-       April 2009                    69
+       April 2009                    67

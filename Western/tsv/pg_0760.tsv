@@ -1,18 +1,26 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
-Western	0760	GW750	BNC	Hereford Yard Jn – Brecon Curve Jn	0	00	0	19	N	N	N	N	N	N	N	
-Western	0760	GW750	HNL2	Brecon Curve Jn – MEB Siding	149	44	149	78	N	N	N	N	N	N	N	
-Western	0760	GW770	EBW	Ebbw Vale Parkway – Site of Former Aberbeeg Jn	18	45	14	23	N	N	N	N	N	N	N	
-Western	0760	GW770	WVL	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	N	N	N	N	N	N	N	
-Western	0760	GW770	GAE	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	N	N	N	N	N	N	N	
-Western	0760	GW773	BJR	Machen Quarry – Site of Former Bassaleg Jn	4	69	0	00	N	N	N	N	N	N	N	
-Western	0760	GW773	WVL	Site of Former Bassaleg Jn – Park Jn (Machen Branch)	2	05	1	10	N	N	N	N	N	N	N	
-Western	0760	GW780	WVL	Park Jn – Park Jn SB	1	02	0	74	Y	Y	N	N	N	N	N	
-Western	0760	GW780	NWN	Park Jn SB – Ebbw Jn	0	54	0	00	Y	Y	N	N	N	N	N	
-Western	0760	GW784	NLL	Alexandra Dock Jn – Network Rail Boundary (Newport Docks)	159	60	160	27	N	N	N	N	N	N	N	
-Western	0760	GW790	ROC	Pengam Jn – Change of ELR	168	20	168	61	N	N	N	N	N	N	N	
-Western	0760	GW790	ROA	Change of ELR – Network Rail Boundary (ABP Cardiff Docks)	3	41	4	54	N	N	N	N	N	N	N	
-Western	0760	GW810	CAR	End of Line (Rhymney) – Ystrad Mynach South Jn	24	00	13	41	Y	Y	Y	N	N	N	N	
-Western	0760	GW810	CAR	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	Y	Y	Y	N	N	N	N	
-Western	0760	GW810	CAR	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	Y	Y	Y	N	N	N	N	
-Western	0760	GW820	TBD	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	Y	Y	N	N	N	N	N	
-Western	0760	GW820	VON	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	Y	Y	N	N	N	N	N	
+Western	0760	GW5401	PAC	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	Y	Y	Y	N	N	N	N	
+Western	0760	GW548	POD/ PBY	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	N	N	N	N	N	N	N	
+Western	0760	GW560	SWY	Heywood Road Jn – Westbury North Jn	94	45	95	33	Y	Y	Y	N	N	N	N	
+Western	0760	GW560	WEY	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	Y	Y	R1	N	N	N	N	R1 Prohibited Westbury Down Reception line between signal W202 and points 858
+Western	0760	GW570	WEY	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	Y	Y	Y	N	N	N	N	
+Western	0760	GW572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	N	N	
+Western	0760	GW572	WQL	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N	N	N	
+Western	0760	GW580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	Y	Y	Y	N	N	N	N	
+Western	0760	GW600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	Y	Y	Y	N	N	N	N	
+Western	0760	GW600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	Y	Y	Y	N	N	N	N	
+Western	0760	GW600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	Y	Y	Y	N	N	N	N	
+Western	0760	GW600	BSW	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	Y	Y	Y	N	N	N	N	
+Western	0760	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	Y	Y	Y	N	N	N	N	
+Western	0760	GW606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	Y	Y	Y	N	N	N	N	
+Western	0760	GW608	DAC	Crediton – Former Coleford Jn	179	26	183	69	Y	Y	Y	N	N	N	N	
+Western	0760	GW608	DAC	Former Coleford Jn – Meldon Quarry	183	69	198	72	N	N	N	N	N	N	N	
+Western	0760	GW610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	Y	Y	Y	N	N	N	N	
+Western	0760	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	Y	Y	Y	N	N	N	N	
+Western	0760	GW618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	N	N	N	N	N	N	N	
+Western	0760	GW620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	Y	Y	Y	N	N	N	N	
+Western	0760	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	Y	Y	Y	N	N	N	N	
+Western	0760	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	Y	Y	Y	N	N	N	N	
+Western	0760	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	Y	Y	Y	N	N	N	N	
+Western	0760	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	Y	Y	Y	N	N	N	N	
+Western	0760	GW628	FRY	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	Y	Y	Y	N	N	N	N	

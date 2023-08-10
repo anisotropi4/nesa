@@ -3,67 +3,67 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-       GW810 CAREnd of Line (Rhymney) – Ystrad Mynach
-                                      24 00  13 41  H    N    N    N    N
-                South Jn
-       GW810 CARYstrad Mynach South Jn – Heath Jn
-                                      13 41  3  32  H    N    N    N    N
-       GW810 CARHeath Jn – Cardiff Queen Street North Jn
-                                       3 32  1  22  H    N    N    N    N
-       GW820 TBDNetwork Rail Boundary (Cwmbargoed) –
-                                      19 59  13 53  N    N    N    N    N
-                Site of Former Taff Bargoed Branch Jn
-       GW820 VON Site of Former Taff Bargoed Branch Jn –
-                                      13 53  12 41  N    N    N    N    N
-                 Site of Former Penallta Jn
-       GW820 PTASite of Former Penallta Jn – Ystrad
-                                      15 01  13 41  N    N    N    N    N
-                Mynach South Jn
-       GW828 CRYCoryton – Heath Jn     2 57  0  15  H    N    N    N    N
-       GW830 CAM Merthyr Tydfil – Abercynon Jn
-                                      24 44  16 35  H    N    N    N    N
-       GW830 CAM Abercynon Jn – Pontypridd Jn
-                                      16 35  13 04  H    N    N    N    N
-       GW830 CAM Pontypridd Jn – Radyr Jn
-                                      13 04  5  23  H    N    N    N    N
-       GW830 CAM Radyr Jn – Queen Street North Jn
-                                       5 23  1  17  H    N    N    N    N
-       GW830 CAM Queen Street North Jn – Queen Street
-                                       1 17  0  66  H    N    N    N    N
-                 South Jn
-       GW830 CEJQueen Street South Jn – Cardiff East Jn
-                                       0 22  0  00  H    N    N    N    N
-       GW830 SWM Cardiff East Jn – Cardiff West Jn
-                                      17018 170 56  H    N    N    N    Y
+                Holesmouth Jn – Avonmouth (Bristol
+       GW4501 AMB                     14 60  15 40  N    N    N    N    N
+                Bulk Handling Terminal)
+       GW451 FWC Filton Jn No 2 – Filton West Jn No.2
+                                       4 66  5  41  H    N    N    N    N
+       GW454 AMB Severn Beach – St Andrews Jn (Change
+                                      11 64  16 00  H    N    N    N    N
+                 of ELR)
+       GW454 CNXSt Andrews Jn (Change of ELR) –
+                                       9 32  2  03  H    N    N    N    N
+                Narroways Hill Jn
+       GW480 SWM Swindon Jn – Standish Jn
+                                      77 36 106 74  H    N    N    N    N
+             1
+       GW490 SWM Gloucester Yard Jn – Horton Road Jn
+                                      11303 113 61  H    N    N    N    N
              2
-       GW830 BRYCardiff West Jn – Barry Jn
-                                       0 10  8  16  H    N    N    N    N
-       GW830 BRYBarry Jn – Buffer Stops (Barry Island)
-                                       8 16  8  76  H    N    N    N    N
-       GW834 VON Network Rail Boundary – Aberdare
-                                      26 62  22 34  H    N    N    N    N
-       GW834 VON/ Aberdare – Cwmbach Change of ELR
-                                      22 34  20 68  H    N    N    N    N
-             ALK
-       GW834 ABD/ Cwmbach Change of ELR – Abercynon
-                                      22 01  16 35  H    N    N    N    N
-             MOA Jn (Including Mountain Ash Down Loop
-                 ELR MOA)
-       GW835 THTEnd of Line – Treherbert
-                                      23 69  23 54  H    N    N    N    N
-       GW835 THTTreherbert – Pontypridd Jn
-                                      23 54  13 04  H    N    N    N    N
-       GW839 CAM Queen Street South Jn – Cardiff Bay
-                                       0 66  0  02  H    N    N    N    N
-       GW840 RADRadyr Jn – Leckwith Loop South Jn
-                                       4 41  0  69  H    N    N    N    N
-       GW840 RADLeckwith Loop South Jn – Penarth Curve
-                                       0 69  0  47  H    N    N    N    N
-                North Jn
-       GW840 RADPenarth Curve North Jn – Radyr Branch
-                                       0 47  0  25  H    N    N    N    N
-                Jn
-       GW850 CLLLeckwith Loop South Jn – Leckwith Loop
-                                       0 26  0  00  H    N    N    N    N
-                North Jn
-         April 2009                                 499H
+       GW500 BKEWestbury Line Jn – Oxford Road Jn
+                                      36 17  36 67  H    N    N    N    Y
+       GW500 BKEOxford Road Jn – Southcote Jn
+                                      36 67  37 62  H    N    N    N    Y
+       GW500 BKESouthcote Jn – Route Boundary
+                                      37 62  37 76  H    N    N    N    N
+                (SW125) (Basingstoke)
+       GW500 BHLSouthcote Jn – Change of ELR
+                                      37 62  81 19  H    N    N    N    R1 R1 Prohibited Newbury to Change of ELR
+       GW500 SWY Change of ELR – Heywood Road Jn
+                                      81 19  94 44  H    N    N    N    N
+                 (Change of ELR)
+       GW500 WES Heywood Road Jn (Change of ELR) –
+                                      94 44  97 02  H    N    N    N    N
+                 Fairwood Jn (Change of ELR) (via
+                 Westbury Avoiding Lines)
+       GW500 WEY Fairwood Jn (Change of ELR) – Clink
+                                      11118 114 44  H    N    N    N    N
+                 Road Jn (Change of ELR)
+       GW500 FRAClink Road Jn (Change of ELR) –
+                                      11444 116 37  H    N    N    N    N
+                Blatchbridge Jn (Change of ELR)
+       GW500 WEY Blatchbridge Jn (Change of ELR) –
+                                      11652 129 50  H    N    N    N    N
+                 Castle Cary Jn
+       GW500 WEY Castle Cary Jn – Route Boundary
+                                      12950 130 00  H    N    N    N    N
+                 (SW175) (Yeovil Pen Mill Jn)
+       GW500 CCLCastle Cary Jn – Cogload Jn (Down)
+                                      11532 138 30  H    N    N    N    N
+                Route Boundary (SW170) (Wilton Jn) –
+       GW5001 SAL                     11540 110 07  H    N    N    N    N
+                Westbury South Jn
+       GW510 WEY Westbury North Jn – Bradford Jn
+                                      10949 104 40  H    N    N    N    N
+       GW510 BFBBradford Jn – Bathampton Jn
+                                       9 12  0  00  H    N    N    N    N
+       GW520 WYL Westbury East Loop Jn – Hawkeridge Jn
+                                      94 77  95 32  H    N    N    N    N
+       GW523 WEY Thingley Jn – Bradford Jn
+                                      96 10 104 40  H    N    N    N    N
+       GW528 BRLNorth Somerset Jn – Bristol West Jn via
+                                       0 00  1  08  H    N    N    N    N
+                St Philips Marsh
+
+
+         April 2009                                 499D

@@ -1,10 +1,17 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
-Western	0712	GW640	LIL	Liskeard – Coombe Jn	8	67	6	75	E	N	N	Y	R1	N	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0712	GW640	LOO	Coombe Jn – Looe	6	52	0	19	E	N	N	Y	R1	N	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0712	GW640	LOO	Coombe Jn – Coombe No.2 GF	6	52	6	66	E	N	N	Y	R1	N	N	N	N	N	R1 Prohibited from working in multiple. In the event of failure it shall be repaired in situ. If unable to repair assistance shall only be provided by a Class 150 under the supervision of the Railway Undertaking
-Western	0712	GW672	SDS	Burngullow Jn – Drinnick Mill	288	26	291	31	N	N	N	N	N	N	N	N	N	N	
-Western	0712	GW672	SDS	Drinnick Mill – Parkandillack	291	31	293	52	N	N	N	N	N	N	N	N	N	N	
-Western	0712	GW680	FAL1- 3	Penwithers Jn – Falmouth	301	25	312	46	E	N	N	Y	Y	N	N	Y	Y	N	
-Western	0712	GW690	SIV	St Erth – St Ives	321	02	325	13	E	N	N	Y	Y	N	N	Y	R1	N	R1 Prohibited St Erth bay platform
-Western	0712	GW700	BAG2	Gloucester Barnwood Jn – Horton Road Jn	92	21	92	75	E	Y	Y	Y	Y	N	N	Y	Y	E	
-Western	0712	GW700	SWM2	Horton Road Jn – Route Boundary Wales	113	61	129	00	E	Y	Y	Y	Y	Y	Y	Y	Y	E R1	R1 Prohibited between Gloucester and Route Boundary Wales
+Western	0712	GW520	WYL	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	GW523	WEY	Thingley Jn – Bradford Jn	96	10	104	40	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	GW528	BRL	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	GW530	BLL	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	GW540	BSW	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	GW5401	PAC	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	GW548	POD/ PBY	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	N	N	N	N	N	N	N	N	N	N	
+Western	0712	W560	SWY	Heywood Road Jn – Westbury North Jn	94	45	95	33	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	W560	WEY	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	E	Y	Y	Y	Y	N	N	Y	R1	R1	R1 Prohibited Westbury Down Reception line between signal W202 and points 858
+Western	0712	W570	WEY	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	E	Y	Y	Y	Y	N	N	Y	Y	Y	
+Western	0712	W572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	N	N	N	N	N	
+Western	0712	W572	WQL	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N	N	N	N	N	N	
+Western	0712	W580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	E	Y	Y	Y	Y	N	N	N	N	N	
+Western	0712	W600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	E	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western	0712	W600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	E	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western	0712	W600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	E	Y	Y	Y	Y	E	E	Y	Y	N	

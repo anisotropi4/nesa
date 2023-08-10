@@ -1,25 +1,27 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	59	Notes
-Western	0782	GW540	BSW	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW540 1	PAC	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW548	POD/ PBY	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	8	N	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW560	SWY	Heywood Road Jn – Westbury North Jn	94	45	95	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW560	WEY	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW570	WEY	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	6	N	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW572	WQL	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	6	N	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW600	BSW	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	6	Y	Y	N	Y	N	N	N	N	
-Western	0782	GW606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	5	R1	N	N	N	N	N	N	N	R1 20mph over bridge NDN-20466 (204m 66ch)
-Western	0782	GW608	DAC	Crediton SB – Network Rail Boundary (Dartmoor Railway - Coleford)	179	26	183	79	6	Y	Y	N	Y	N	N	N	N	
-Western	0782	GW610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	6	Y	Y	N	Y	N	N	N	N	
-Western	0782	GW618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	6	N	R1	R1	R1	R1	R1	R1	N	R1 Prohibited when hauling Dangerous Goods
-Western	0782	GW620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	6	Y	Y	Y	Y	N	Y	N	N	
-Western	0782	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0782	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW105	MLN1	Uphill Jn – Fordgate	138	04	154	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW107	WSM	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Fordgate – Cogload Jn (Up)	154	12	158	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Tavistock Jn Yard – Laira Jn	242	55	243	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Laira Jn – Lipson Jn	243	67	244	35	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN1	Lipson Jn – Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	244	35	246	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN2	Change of ELR (Site of Former Devonport Jn/Cornwall Loop) – St Budeaux Jn	247	28	250	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN2	St Budeaux Jn – Change of ELR	250	00	256	38	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN3	Change of ELR – Liskeard Jn	256	40	264	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN3	Liskeard Jn – Lostwithiel Jn	264	66	277	54	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN3	Lostwithiel Jn – Par Loop Jn	277	54	281	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN3	Par Loop Jn – Burngullow Jn	281	57	288	26	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN3	Burngullow Jn – Penwithers Jn	288	26	301	25	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN3	Penwithers Jn – Change of ELR	301	25	305	65	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN4	Change of ELR – St Erth Jn	305	67	320	73	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW108	MLN4	St Erth Jn – Penzance	320	73	326	50	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW110	ANL	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW110	ANL	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW110	ANL	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0782	GW117	GEC	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	

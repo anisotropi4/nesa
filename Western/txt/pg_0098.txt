@@ -3,52 +3,81 @@
 
        Western Route Sectional Appendix Module WR1
 
+       APPENDIX
 
-
-
-         Between                   Line       Mileage
-
-         GW480 Swindon to Standish Jn
-
-         Kemble and Sapperton Long Tunnel
-                                   Down       92m 10ch to 95mp
-                                   Kemble
-
-         Stroud and Sapperton Short Tunnel
-                                   Up Kemble  100 mp to 94m 60ch
-
-         GW500 Reading to Cogload Jn via Westbury & Frome A/Ls
-
-         Castle Cary and East Somerset Jn
-                                   Up Main    128 mp to 122m 40ch
-
-         GW5001 Beechgrove GF (incl) to Westbury South Jn
-
-         Westbury South Jn and Warminster
-                                   Down       110m 7ch to 113mp
-
-         GW510 Westbury North Jn to Bathampton Jn
-
-         Bradford Jn and Hawkeridge Jn
-                                   Up         104m 40ch to 109m
-                                   Trowbridge 60ch
-
-         GW600 Wootton Bassett Jn to Pilning
-
-         Severn Tunnel and PatchwayUp Tunnel  13mp to 6mp
-
-         GW900 Pilning to Fishguard Harbour
-
-          Severn Tunnel and Severn Tunnel Jn
-                                  Down Tunnel  13mp to 16m 40ch
-
-          Severn Tunnel and Patchway
-                                   Up Tunnel     13mp to 6mp
-
-
-                                              Western Route GI - Dated: 25/07/2020
+       This chart details the process used by Network Rail Control to determine the operating response to GSM-R service or sub-
+       system failures.
 
 
 
 
-       April 2009                   59Q
+                                  Understand the extent
+                                  of the GSM-R System
+                                  Failure
+
+
+
+
+                 Failure of fixed terminal       Failure of on train
+                                Failure of lineside equipment
+                 equipment in NR control         radio equipment
+                                resulting in loss of GSM-R
+                 or signal box  coverage
+
+
+
+
+                                Comply with
+                 Arrange for role to be          Comply with Rule
+                                                 book Module TW5
+                                NR/L3/OCS/043/2.1 (Railway
+                 transferred to or
+                                                 section 25
+                                                        (See
+                                Communications Protocols),
+                 recovered from an
+                                                 Appendix 2)
+                                NR/L3/OCS/043/5.2 (Procedure
+                 adjacent signaller or the
+                                for the planned response to
+                 SSM. Inform Route
+                 Control        GSM-R system failure) and any
+                                Letters of Instruction
+
+
+
+
+                 Route Control responds
+                                Check local instructions where
+                 to the REC and liaises
+                                DOO services operate
+                 with lead signaller
+
+
+
+
+                                Normal Working with no
+                 Normal Working with no
+                 restrictions   restrictions
+
+
+
+
+                                               Western Route GI - Dated: 15/04/17
+
+
+       GSM-R BLANKET SPEED RESTRICTION BROADCAST
+       RS523.8.3, GERT80000/SP-6, - GERT8000/G1.5
+       Where a blanket speed restriction is to be imposed, an additional berth triggered advisory broadcast shall be made on
+       approach to the restriction. This is in addition to drivers being advised by the late notice of by other means. (where a
+       blanket speed is applied at short notice). An acknowledgement is not required for this broadcast. The broadcast shall
+       state:
+       This is an advisory broadcast from the signaller at______ As previously issued, due to _____ a blanket speed restriction
+       of _______MPH has been imposed between _____ & _____
+       End of advisory broadcast.
+                                              Western Route GI - Dated: 02/10/2021
+
+
+
+
+       April 2009                   59OB

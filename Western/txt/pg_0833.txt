@@ -3,75 +3,48 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-         Line of
-              ELR  Line of Route / Sector
-                                       oo oo  oo oo RA Loco Gauge
-                                                                Notes
-         route     Description         oo oo  oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                       M  Ch  M  Ch
-         GW108 MLN1Lipson Jn – Change of ELR (Site of
-                                       244 35246 15 8     Y
-                   Former Devonport Jn / Cornwall Loop)
-         GW108 MLN2Change of ELR (Site of Former
-                                       247 28250 00 8     Y
-                   Devonport Jn / Cornwall Loop) – St
-                   Budeaux Jn
-         GW108 MLN2St Budeaux Jn – Change of ELR
-                                       250 00256 38 8     Y
-         GW108 MLN3Change of ELR – Liskeard Jn
-                                       256 40264 66 8     R1  R1 Prohibited at Lostwithiel Signal Box on the Down Main line
-         GW108 MLN3Liskeard Jn – Lostwithiel Jn
-                                       264 66277 54 8     Y
-         GW108 MLN3Lostwithiel Jn – Par Loop Jn
-                                       277 54281 57 8     Y
-         GW108 MLN3Par Loop Jn – Burngullow Jn
-                                       281 57288 26 8     Y
-         GW108 MLN3Burngullow Jn – Penwithers Jn
-                                       288 26301 25 7     Y
-         GW108 MLN3Penwithers Jn – Change of ELR
-                                       301 25305 65 7     Y
-         GW108 MLN4Change of ELR – St Erth Jn
-                                       305 67320 73 7     Y
-         GW108 MLN4St Erth Jn – Penzance
-                                       320 73326 50 7     R1  R1 Prohibited Penzance platform 4
-         GW110 ANL Old Oak Common West – Greenford
-                                        3  20 7  15 8     Y
-                   East Jn
-         GW110 ANL Greenford East Jn – Greenford West
-                                        7  15  7 48 8     Y
-                   Jn
-         GW110 ANL Greenford West Jn – Route Boundary
-                                        7  48  8 60 8     Y
-                   (MD705) (Northolt Jn)
-         GW117 GEC Greenford East Jn – Greenford South
-                                        8  70  8 45 8     Y
-                   Jn
-         GW130 AWL Route Boundary (EA1310) (Acton
-                                        0  39  0 08 8     Y
-                   Wells Jn) – Acton East Jn
-         GW174 WEL1West Ealing Jn – Drayton Green Jn
-                                        6  56  7 03 8     Y
-         GW174 WEL1Drayton Green Jn – Greenford South
-                                        7  03  8 45 8     Y
-                   Jn
-         GW174 WEL1Greenford South Jn – Greenford LUL
-                                        8  45  8 65 8     Y
-                   Bay Jn
-         GW174 WEL1Greenford LUL Bay Jn – Greenford
-                                        8  65  8 76 8     Y
-                   West Jn
-         GW175 WEL2Greenford LUL Bay Jn – Greenford
-                                        8  65  9 06 8     Y
-                   Station
-         GW176 HAN Hanwell Jn – Drayton Green Jn
-                                         0 00  0 36 8     Y
-         GW178 BRB Southall – Brentford Goods
-                                         0 00  2 70 8     Y
-         GW180 HLL Heathrow Airport Jn (Up and Down
-                                        11 04 12 27 8     N
-                   Main) – NR Boundary (BAA)
+
+          Line of
+               Line of Route / Sector Description       Gauge                     Notes
+          route                      W6a   W7   W8    W9   W9PlusW10   W10A  W12
+          GW900Llandore Jn – Llandeilo Jn
+                                     Y     N     N     N    N     N     N     N
+          GW900Llandeilo Jn – Carmarthen Bridge Jn
+                                     Y     Y     Y     N    N     N     N     N
+          GW900Carmarthen Bridge Jn – Whitland Jn
+                                     Y     Y     S1    N    N     N     N     N  S1 The following combinations are
+                                                                                   permitted, up to:
+                                                                                   2591(h) x 2500(w) on FCA/FYA
+                                                                                   wagons
+                                                                                   2629(h) x 2550(w) on FEA
+                                                                                   FSA/FTA wagons
+                                                                                   2616(h) x 2550(w) on KFA
+                                                                                   wagons
+                                                                                   2896(h) x 2500(w) on FLA FAA
+                                                                                   wagons
+                                                                                    15mph Down Line Br. SWM2
+                                                                                    Llanygors [251m 63ch]
+                                                                                    15mph Up Line SWM2 Whitland
+                                                                                    Tunne [257m 01ch – 257m 10ch]
+          GW900Whitland Jn – Clarbeston Road Jn
+                                     Y     Y     Y     N    N     N     N     N
+          GW900Clarbeston Road Jn – Fishguard
+                                     Y*    N     N     N    N     N     N     N
+               Harbour
+          GW900Long Dyke Jn – Cardiff Docks
+                                     Y     Y     Y     N    N     N     N     N
+          GW900Margam Moors Jn – Margam Abbey
+                                     Y     Y     Y     N    N     N     N     N
+               Works East Jn
+          GW900Briton Ferry – Baglan Bay
+                                     Y     Y     Y     N    N     N     N     N
+               Landore Jn – Swansea
+          GW9001                     Y*    N     N     N    N     N     N     N
+          GW906Swansea Loop East Jn – Swansea
+                                     Y     N     N     N    N     N     N     N
+               Loop West Jn
 
 
 
 
-         April 2009                                 526C
+         April 2009                                 525D

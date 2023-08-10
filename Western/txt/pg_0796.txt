@@ -4,67 +4,52 @@
                                          Western Route Sectional Appendix Module WR2
 
          Line of ELR
-                  Line of Route / Sectoroooo oooo oooo RA
+                  Line of Route / Sector
+                                     oooo oooo oooo oooo RA
                                                      60 6667 68 7073 88 97/3 Notes
          route    Description         M  Ch M  Ch 000  000 000 000 000 00
                                                                      00   ooooooooooooooooooooooooooo
 
-         GW637 DACSt Budeaux Jn – Buffer Stops
-                                      227 22219 75 4  N R1 N  N N  N  N R1 R15mph over Tamerton Viaduct (224m 78ch)
-                  (Beyond Bere Alston)
-         GW637CAL Bere Alston Jn – Gunnislake
-                                       0  02 4  40 4  N B  N  N N  N  N  B
-         GW640LIL Liskeard – Coombe Jn 8  67 6  75 4  N Y  N  N Y  N  N  Y
-         GW640LOO Coombe Jn – Looe     6  52 0  19 4  N Y  N  N N  N  N  Y
-         GW640LOO Coombe Jn – Coombe No.2 GF
-                                       6  52 6  66 4  N Y  N  N Y  N  N  Y
-         GW642LOO Coombe No.2 GF – Network Rail
-                                       6  66 7  20 4  N Y  N  N Y  N  N  Y
-                  Boundary (Moorswater)
-         GW650 LOFLostwithiel – Network Rail Boundary
-                                      277 54281 59 8  Y Y  Y  N N  Y  Y  Y
-                  (Carne Point)
-         GW660 PARPar Loop Jn – St Blazey Jn
-                                      281 57282 16 7 Y  Y  Y  Y Y  Y  Y Y
-         GW660 NEWSt Blazey Jn – Newquay
-                                      282 16302 49 6 R1 B  N  N R2 R2 N R2 R1Prohibited between Goonbarrow and
-                                                        R2      R3           Newquay
-                                                                          R2 20mph over bridge NEW-28936 (289m 36ch)
-                                                                          R3 Trains working to / from a possession, or to
-                                                                             assist a failed train in an emergency. Prior
-                                                                             permission must be obtained from Network
-                                                                             Rail Control
-         GW672 SDSBurngullow Jn – Drinnick Mill
-                                      288 26291 31 6  Y Y  N  N N  Y  N  Y
-         GW672 SDSDrinnick Mill – Parkandillack
-                                      291 31293 52 5  Y Y  N  N N  N  N  Y
-                  Penwithers Jn – Falmouth
-         GW680 FAL1-                  301 25312 46 6  N Y  N  N N  Y  N  Y
-              3
-         GW690 SIVSt Erth – St Ives   321 02325 13 5  N B  N  N N  N  N  Y
-                  Gloucester Barnwood Jn – Horton
-         GW700 BAG2                    92 21 92 75 8  Y Y  Y  Y Y  Y  Y  Y
-                  Road Jn
-         GW700SWM2 Horton Road Jn – Route Boundary
-                                      113 61129 00 8  Y Y  Y  Y Y  Y  Y  Y
-                  Wales
-         GW700SWM2 Route Boundary Wales – Severn
-                                      129 00149 14 8  Y Y  Y  Y Y  Y  Y  Y
-                  Tunnel Jn
-         GW710NO  Llanwern Works East – Llanwern
-                                      153 08156 03 8 R1 R1 R1R1 R1 R1 Y R1 R1See Sectional Appendix Local Instructions
-              ELR Works West via BSS (Corus
-                  Infrastructure)
-         GW720EUB Network Rail Boundary (Uskmouth) –
-                                       3  07 0  00 8  Y Y  Y  Y Y  Y  Y  Y
-                  East Usk Jn
-         GW730SHL Severn Bridge Jn – Craven Arms Jn
-                                       0  11 20 01 8  Y Y  Y  Y Y  Y  Y  Y
-         GW730SHL Craven Arms Jn – Shelwick Jn
-                                      20  01 49 26 8  Y Y  Y  Y Y  Y  Y  Y
-         GW730SHL Shelwick Jn – Site of former
-                                      49  26 52 19 8  Y Y  Y  Y Y  Y  Y  Y
-                  Rotherwas Jn
+         GW220 RWCReading, Oxford Road Jn – Reading
+                                       0  43 0  02 8  Y Y  Y  Y Y  Y  Y  Y
+                  West Jn
+         GW225 RFRCaversham Road Jn – Oxford Road
+                                      36  25 36 74 8  Y Y  Y  N Y  N  Y N
+                  Jn
+         GW240 DECDidcot East Jn – Didcot North Jns
+                                      52  66 54 00 8  Y Y  Y  Y Y  Y  Y  Y
+         GW250 DWCFoxhall Jn – Didcot West Curve Jn
+                                       0  01  0 32 8  Y Y  Y  Y Y  Y  Y  Y
+         GW260 THAKennington Jn – Morris Cowley
+                                      18  45 16 04 7  Y Y  R1 Y Y  Y  Y  Y R1Operation in single headed or ‘top and tail’
+                                                                             mode with track recording and track
+                                                                             Inspection coaches only
+         GW277 OXDOxford North Jn – Route Boundary
+                                      30  09 29 25 8  Y Y  Y  Y Y  Y  Y  Y
+                  (MD736) (29m 25ch)
+         GW310 OWWWolvercot Jn – Norton Jn
+                                       66 32112 00 7  Y Y  Y  Y Y  Y  Y  Y
+         GW317 OWWHoneybourne Stratford Line Junction
+                                      102 06101 31 7  N Y  R1 Y Y  Y  Y  Y R110mph maximum speed
+                  – Start of branch mileage
+         GW317 STDStart of branch mileage – Long
+                                       0  00 2  70 7  N Y  R1 Y Y  Y  Y  Y R110mph maximum speed
+                  Marston
+         GW401 BAG2
+                  Route Boundary (MD306)
+                                       77 40 92 21 8  Y Y  Y  Y Y  Y  Y  Y
+                  (Ashchurch) – Gloucester Barnwood
+                  Jn (Change of ELR)
+         GW401 CHLGloucester Barnwood Jn (Change of
+                                       92 21 93 08 8  Y Y  Y  Y Y  Y  Y  Y
+                  ELR) – Gloucester Yard Jn (Change
+                  of ELR)
+         GW401 BGL1
+                  Gloucester Yard Jn (Change of ELR)
+                                       93 08 94 10 8  Y Y  Y  Y Y  Y  Y  Y
+                  – Change of ELR
 
 
-         April 2009                                 506D
+
+
+         April 2009                                 506

@@ -3,53 +3,78 @@
 
                                        Western Route Sectional Appendix Module WR2
 
+
        Line of
             ELR Line of Route / Sector
-                              oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
+                              oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165Notes
        route    Description
-                                M   Ch   M   Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+                                M   Ch   M   Ch 0000 0000 00000000 00000000 00000000 0000
                                                                         oooooooooooooooooooooooooo
-       GW915 GWAGwaun-cae-Gurwen –
-                                16   41  14  60 N N  N N  N N  N N  N N
-                Former Jn (Change of
-                ELR)
-       GW915 GNTFormer Jn (Change of
-                                14   60  10  04 N N  N N  N N  N N  N N
-                ELR) – Pantyffynnon
-       GW930 CANCarmarthen Jn – End of
-                                245  10 245  65 E Y  Y Y  Y Y  Y Y  Y N
-                Line (Beyond Carmarthen
-                Station)
-               Up Sidings No.2 GF –
-       GW940 CAN/               245 43  245  32 E  Y Y  Y Y  Y Y R1 R1 NR1 Prohibited Carmarthen Down side bay platform
-            CNWCarmarthen Bridge Jn                                        (accessible by shunt movement only)
-       GW950 PEMWhitland Jn – Pembroke RA
-                                259 01  284  22 E  Y Y  Y Y  Y Y  Y Y N
-                Change
-       GW950 PEMPembroke RA Change –
-                                284 22  286  26 E  Y Y  Y Y  Y Y  Y Y N
-                Pembroke Dock
-       GW960 SWM2 Clarbeston Road –
-                                271 08  276  08 E  Y Y  Y Y  Y Y  Y Y N
-               Haverfordwest
-       GW960 SWM2 Haverfordwest – Change of
-                                276 08  280  70 E  Y Y  Y Y  Y Y  Y Y N
-               ELR (Site of Former
-               Johnston Jn)
-       GW960 MILChange of ELR (Site of
-                                280 70  283  12 E  Y Y  Y Y  Y Y  Y Y
-                Former Johnston Jn) –
-                Herbranston Jn
-       GW960 MILHerbranston Jn – End of
-                                283 12  284  71 E  Y Y  Y Y  Y Y  Y Y
-                Line (Beyond Milford Haven)
-       GW970 GOBGulf Oil Branch Jn –
-                                 0  00   2   35 N  N N  N N  N N  N N
-                Waterston, Gulf Oil Refinery
-       GW980 ERBHerbrandston Jn – Robeston
-                                 0  00   1   18 N  N N  N N  N N  N N
+       GW874BAL Llynfi Jn – Tondu Jn
+                                0   07   2   70 E  Y Y  Y Y  Y Y  Y Y N
+       GW874BAL Tondu Jn – Maesteg
+                                2   70   8   06 E  Y Y  Y Y  Y Y  Y Y N
+       GW877POR Tondu Jn – Cefn Jn
+                                0   00   2   43 E  Y Y  Y Y  Y Y  Y Y N
+       GW877OVE Cefn Jn – Margam Abbey
+                                7   41   2   41 E  Y Y  Y Y  Y Y  Y Y N
+                Works East Jn
+       GW877 OVEMargam Abbey Works East
+                                 2   41   1  40 N N  N N  N N  N N  N N
+                Jn – Margam East Jn
+       GW877 OVEMargam East Jn – Margam
+                                 1   40   0  79 N N  N N  N N  N N  N N
+                Yard Jn
+       GW877 OVEMargam Yard Jn – Network
+                                 0   79   0  56 N N  N N  N N  N N  N N
+                Rail Boundary (Port Talbot
+                Docks)
+       GW890 SDI1
+                Briton Ferry Up Flying
+                                206  14 207  67 E Y  Y Y  Y Y  Y Y  Y N
+                Loop Jn – Dynover Jn
+                Dynover Jn – Jersey
+       GW890 SDI1               207  67 208  33 E Y  Y Y  Y Y  Y Y  Y N
+                Marine Jn North
+                Jersey Marine Jn North –
+       GW890 SDI1               208  33 208  49 E Y  Y Y  Y Y  Y Y  Y N
+                Change of Mileage
+                Change of Mileage –
+       GW890 SDI2                0   00  10  05 E Y  Y Y  Y Y  Y Y  Y N
+                Grovesend Colliery Loop
+                Jn
+       GW890 SDI2
+                Grovesend Colliery Loop
+                                10   05  10  64 E Y  Y Y  Y Y  Y Y  Y N
+                Jn – Morlais Jn
+                Dynevor Jn – Jersey
+       GW8901 RSB               19   16  20  24 N N  N N  N N  N N  N N
+                Marine South Jn
+       GW892 VONNetwork Rail Boundary
+                                33   14  41  17 N N  N N  N N  N N  N N
+                (Cwmgwrach) – Neath &
+                Brecon Jn
+       GW892 VONNeath & Brecon Jn –
+                                41   17  46  30 N N  N N  N N  N N  N N
+                Burrows Sidings
+       GW893 NABNetwork Rail Boundary
+                                10   10   0  01 N N  N N  N N  N N  N N
+                (Onllwyn) – Neath and
+                Brecon Jn
+       GW894 JERJersey Marine Jn North –
+                                 1   24   2  26 N N  N N  N N  N N  N N
+                Jersey Marine Jn South
+       GW897 HDYGrovesend Colliery Loop
+                                 0   00   0  46 E Y  Y Y  Y Y  Y Y  Y N
+                Jn – Hendy Jn
+       GW900 BSWAbleton Lane Tunnel –
+                                10   51  16  73 E Y  Y Y  Y Y  Y Y  Y N
+                Severn Tunnel Jn
+       GW900 SWM2 Severn Tunnel Jn –
+                                149  14 158  16 E Y  Y Y  Y Y  Y Y  Y N
+                Maindee West Jn
 
 
 
 
-       April 2009                                497I
+       April 2009                                497G

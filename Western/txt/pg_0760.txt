@@ -4,54 +4,76 @@
                                       Western Route Sectional Appendix Module WR2
 
    Line of ELR                 oooo oooo oooo oooo MK1
-           Line of Route / Sector               MK2 MK3MK3 MK3 MK3 MK4 Notes
-   route   Description          M  Ch M  Ch            MOD DVT DVT    ooooooooooooooooooooooooooo
+            Line of Route / Sector              MK2 MK3 MK3MK3 MK3 MK4  Notes
+   route    Description         M  Ch M  Ch             MODDVT DVT     ooooooooooooooooooooooooooo
                                                                MOD
-   GW750BNC Hereford Yard Jn – Brecon Curve Jn
-                                0  00  0  19 N   N  N   N   N   N  N
-   GW750 HNL2 Brecon Curve Jn – MEB Siding
-                               149 44 149 78 N   N  N   N   N   N  N
-   GW770EBW Ebbw Vale Parkway – Site of Former
-                                18 45  14 23 N   N  N   N   N   N  N
-           Aberbeeg Jn
-   GW770WVL Site of Former Aberbeeg Jn – Park Jn
-                                14 23  1  02 N   N  N   N   N   N  N
-   GW770GAE Park Jn – Gaer Jn (Western Valley
-                               160 24 159 33 N   N  N   N   N   N  N
-           Line)
-   GW773BJR Machen Quarry – Site of Former
-                                 4 69  0  00 N   N  N   N   N   N  N
-           Bassaleg Jn
-   GW773WVL Site of Former Bassaleg Jn – Park Jn
-                                 2 05  1  10 N   N  N   N   N   N  N
-           (Machen Branch)
-   GW780WVL Park Jn – Park Jn SB1  02  0  74 Y   Y  N   N   N   N  N
-   GW780NWN Park Jn SB – Ebbw Jn0  54  0  00 Y   Y  N   N   N   N  N
-   GW784NLL Alexandra Dock Jn – Network Rail
-                               159 60 160 27 N   N  N   N   N   N  N
-           Boundary (Newport Docks)
-   GW790ROC Pengam Jn – Change of ELR
-                               168 20 168 61 N   N  N   N   N   N  N
-   GW790ROA Change of ELR – Network Rail
-                                3  41  4  54 N   N  N   N   N   N  N
-           Boundary (ABP Cardiff Docks)
-   GW810CAR End of Line (Rhymney) – Ystrad
-                                24 00 13  41 Y   Y  Y   N   N   N  N
-           Mynach South Jn
-   GW810CAR Ystrad Mynach South Jn – Heath Jn
-                                13 41  3  32 Y   Y  Y   N   N   N  N
-   GW810CAR Heath Jn – Cardiff Queen Street North
-                                 3 32  1  22 Y   Y  Y   N   N   N  N
-           Jn
-   GW820TBD Network Rail Boundary (Cwmbargoed)
-                                19 59 13  53 Y   Y  N   N   N   N  N
-           – Site of Former Taff Bargoed Branch
-           Jn
-   GW820VON Site of Former Taff Bargoed Branch
-                                13 53 12  41 Y   Y  N   N   N   N  N
-           Jn – Site of Former Penallta Jn
+   GW5401 PAC Filton West Jn No.1 – Patchway Jn
+                                 0  40 0  00 Y   Y   Y   N  N   N   N
+            No.1
+   GW548POD/ Parson Street Jn – Network Rail
+                                120 28126 34 N   N   N   N  N   N   N
+        PBY boundary (BPC)
+   GW560SWY Heywood Road Jn – Westbury North
+                                94  45 95 33 Y   Y   Y   N  N   N   N
+            Jn
+   GW560WEY Westbury North Jn – Fairwood Jn via
+                                109 49111 18 Y   Y   R1  N  N   N   N R1 Prohibited Westbury Down Reception line
+            Westbury                                                     between signal W202 and points 858
+   GW570WEY Clink Road Jn – Blatchbridge Jn via
+                                114 44116 52 Y   Y   Y   N  N   N   N
+            Frome
+   GW572FNS2 Frome North Jn – Change of ELR
+                                 0  00 2  38 N   N   N   N  N   N   N
+   GW572WQL Change of ELR – Network Rail
+                                 2  38 2  40 N   N   N   N  N   N   N
+            Boundary (Mendip Rail - Whatley
+            Quarry)
+   GW580ESB East Somerset Jn – Network Rail
+                                 0  11 5  48 Y   Y   Y   N  N   N   N
+            Boundary (East Somerset Railway -
+            Cranmore East)
+   GW600SWB Wootton Bassett Jn – Stoke Gifford Jn
+                                83  07111 79 Y   Y   Y   N  N   N   N
+            No.1
+   GW600SWB Stoke Gifford Jn No.1 – Patchway Jn
+                                111 79112 68 Y   Y   Y   N  N   N   N
+            No.2
+   GW600BSW Patchway Jn No.2 – Route Boundary
+                                 5  61 9  12 Y   Y   Y   N  N   N   N
+            Wales
+   GW600BSW Route Boundary – Ableton Lane
+                                 9  12 10 51 Y   Y   Y   N  N   N   N
+            Tunnel (GW900)
+   GW606DAC Cowley Bridge Jn – Crediton SB
+                                173 50179 26 Y   Y   Y   N  N   N   N
+   GW606NDN Crediton SB – End of Line
+                                179 26211 31 Y   Y   Y   N  N   N   N
+            (Barnstaple)
+   GW608DAC Crediton – Former Coleford Jn
+                                179 26183 69 Y   Y   Y   N  N   N   N
+   GW608DAC Former Coleford Jn – Meldon Quarry
+                                183 69198 72 N   N   N   N  N   N   N
+   GW610BAE2 Route Boundary (SW115) (Honiton) –
+                                164 30172 04 Y   Y   Y   N  N   N   N
+            Exeter St Davids Jn
+   GW611EMT Exmouth Jn – Exmouth 0  01 9  32 Y   Y   Y   N  N   N   N
+   GW618MOB Newton Abbott East Jn – End of Line
+                                 0  14 4  07 N   N   N   N  N   N   N
+            (Beyond Heathfield)
+   GW620TOR Newton Abbott West Jn – Paignton
+                                214 43222 25 Y   Y   Y   N  N   N   N
+            Crossover Ground Frame
+   GW628SUT1 Laira Jn – Speedway Jn
+                                244 02244 30 Y   Y   Y   N  N   N   N
+   GW628PLO Lipson Jn – Speedway Jn
+                                 0  00 0  22 Y   Y   Y   N  N   N   N
+   GW628SUT1 Speedway Jn – Mount Gould Jn
+                                244 30244 43 Y   Y   Y   N  N   N   N
+   GW628SUT2 Mount Gould Jn – Former Friary Jn
+                                244 41244 60 Y   Y   Y   N  N   N   N
+   GW628FRY Former Friary Jn – Turnchapel Branch
+                                244 60245 17 Y   Y   Y   N  N   N   N
+            Jn
 
 
-
-
-    April 2009                                   500G
+    April 2009                                   500E

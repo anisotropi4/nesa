@@ -1,20 +1,24 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0733	GW906	SWL	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	N	N	N	E R1	N	N	Y	Y	N	N	N	N
-Western	0733	GW910	CWL1	Craven Arms Jn – Change of Mileage	20	01	20	12	Y	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW910	CWL2	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	R1 R2	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW910	VOT	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	N	N	N	N	N	N	Y	R1	N	N	N	N
-Western	0733	GW910	LLA	Llandeilo – Pantyffynnon	18	07	10	08	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW910	LLA	Pantyffynnon – Morlais Jn	10	08	3	50	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW910	LLA	Morlais Jn – Llandeilo Jn	3	50	0	00	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW915	GWA	Gwaun-cae-Gurwen – Former Jn (Change of ELR)	16	41	14	60	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0733	GW915	GNT	Former Jn (Change of ELR) – Pantyffynnon	14	60	10	04	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0733	GW930	CAN	Carmarthen Jn – End of Line (Beyond Carmarthen Station)	245	10	245	65	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW940	CAN/ CNW	Up Sidings No.2 GF – Carmarthen Bridge Jn	245	43	245	32	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW950	PEM	Whitland Jn – Pembroke RA Change	259	01	284	22	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW950	PEM	Pembroke RA Change – Pembroke Dock	284	22	286	26	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW960	SWM2	Clarbeston Road – Haverfordwest	271	08	276	08	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW960	SWM2	Haverfordwest – Change of ELR (Site of Former Johnston Jn)	276	08	280	70	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW960	MIL	Change of ELR (Site of Former Johnston Jn) – Herbranston Jn	280	70	283	12	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW960	MIL	Herbranston Jn – End of Line (Beyond Milford Haven)	283	12	284	71	N	N	N	N	N	N	Y	Y	N	N	N	N
-Western	0733	GW970	GOB	Gulf Oil Branch Jn – Waterston, Gulf Oil Refinery	0	00	2	35	N	N	N	N	N	N	N	N	N	N	N	N
-Western	0733	GW980	ERB	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	N	N	N	N	N	N	N	N
+Western	0733	GW810	CAR	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW810	CAR	Heath Jn – Cardiff Queen Street North Jn	3	32	1	22	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW820	TBD	Network Rail Boundary (Cwmbargoed) – Site of Former Taff Bargoed Branch Jn	19	59	13	53	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW820	VON	Site of Former Taff Bargoed Branch Jn – Site of Former Penallta Jn	13	53	12	41	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW820	PTA	Site of Former Penallta Jn – Ystrad Mynach South Jn	15	01	13	41	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW828	CRY	Coryton – Heath Jn	2	57	0	15	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW830	CAM	Merthyr Tydfil – Abercynon Jn	24	44	16	35	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW830	CAM	Abercynon Jn – Pontypridd Jn	16	35	13	04	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW830	CAM	Pontypridd Jn – Radyr Jn	13	04	5	23	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW830	CAM	Radyr Jn – Queen Street North Jn	5	23	1	17	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW830	CAM	Queen Street North Jn – Queen Street South Jn	1	17	0	66	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0733	GW830	CEJ	Queen Street South Jn – Cardiff East Jn	0	22	0	00	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0733	GW830	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	Y	N	Y	N	N	Y	Y	N	R1	Y	N	Prohibited Cardiff Central platform 8
+Western	0733	GW830	BRY	Cardiff West Jn – Barry Jn	0	10	8	16	N	N	R1	N	N	Y	Y	N	Y	Y	N	Prohibited between Grangetown and Barry Jn
+Western	0733	GW830	BRY	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW834	VON	Network Rail Boundary – Aberdare	26	62	22	34	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW834	VON/ ALK	Aberdare – Cwmbach Change of ELR	22	34	20	68	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW834	ABD/ MOA	Cwmbach Change of ELR – Abercynon Jn (Including Mountain Ash Down Loop ELR MOA)	22	01	16	35	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW835	THT	End of Line – Treherbert	23	69	23	54	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW835	THT	Treherbert – Pontypridd Jn	23	54	13	04	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW839	CAM	Queen Street South Jn – Cardiff Bay	0	66	0	02	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0733	GW840	RAD	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	N	N	N	N	N	N	N	N	N	N	N	
+Western	0733	GW840	RAD	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	N	N	Y	N	N	Y	Y	N	N	N	N	

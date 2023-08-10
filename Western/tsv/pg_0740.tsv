@@ -1,24 +1,15 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	332	345	360	387	Notes
-Western	0740	GW4501	AMB	Holesmouth Jn – Avonmouth (Bristol Bulk Handling Terminal)	14	60	15	40	N	N	N	N	N	
-Western	0740	GW451	FWC	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	H	N	N	N	N	
-Western	0740	GW454	AMB	Severn Beach – St Andrews Jn (Change of ELR)	11	64	16	00	H	N	N	N	N	
-Western	0740	GW454	CNX	St Andrews Jn (Change of ELR) – Narroways Hill Jn	9	32	2	03	H	N	N	N	N	
-Western	0740	GW480	SWM 1	Swindon Jn – Standish Jn	77	36	106	74	H	N	N	N	N	
-Western	0740	GW490	SWM 2	Gloucester Yard Jn – Horton Road Jn	113	03	113	61	H	N	N	N	N	
-Western	0740	GW500	BKE	Westbury Line Jn – Oxford Road Jn	36	17	36	67	H	N	N	N	Y	
-Western	0740	GW500	BKE	Oxford Road Jn – Southcote Jn	36	67	37	62	H	N	N	N	Y	
-Western	0740	GW500	BKE	Southcote Jn – Route Boundary (SW125) (Basingstoke)	37	62	37	76	H	N	N	N	N	
-Western	0740	GW500	BHL	Southcote Jn – Change of ELR	37	62	81	19	H	N	N	N	R1	R1 Prohibited Newbury to Change of ELR
-Western	0740	GW500	SWY	Change of ELR – Heywood Road Jn (Change of ELR)	81	19	94	44	H	N	N	N	N	
-Western	0740	GW500	WES	Heywood Road Jn (Change of ELR) – Fairwood Jn (Change of ELR) (via Westbury Avoiding Lines)	94	44	97	02	H	N	N	N	N	
-Western	0740	GW500	WEY	Fairwood Jn (Change of ELR) – Clink Road Jn (Change of ELR)	111	18	114	44	H	N	N	N	N	
-Western	0740	GW500	FRA	Clink Road Jn (Change of ELR) – Blatchbridge Jn (Change of ELR)	114	44	116	37	H	N	N	N	N	
-Western	0740	GW500	WEY	Blatchbridge Jn (Change of ELR) – Castle Cary Jn	116	52	129	50	H	N	N	N	N	
-Western	0740	GW500	WEY	Castle Cary Jn – Route Boundary (SW175) (Yeovil Pen Mill Jn)	129	50	130	00	H	N	N	N	N	
-Western	0740	GW500	CCL	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	H	N	N	N	N	
-Western	0740	GW5001	SAL	Route Boundary (SW170) (Wilton Jn) – Westbury South Jn	115	40	110	07	H	N	N	N	N	
-Western	0740	GW510	WEY	Westbury North Jn – Bradford Jn	109	49	104	40	H	N	N	N	N	
-Western	0740	GW510	BFB	Bradford Jn – Bathampton Jn	9	12	0	00	H	N	N	N	N	
-Western	0740	GW520	WYL	Westbury East Loop Jn – Hawkeridge Jn	94	77	95	32	H	N	N	N	N	
-Western	0740	GW523	WEY	Thingley Jn – Bradford Jn	96	10	104	40	H	N	N	N	N	
-Western	0740	GW528	BRL	North Somerset Jn – Bristol West Jn via St Philips Marsh	0	00	1	08	H	N	N	N	N	
+Western	0740	GW103	MLN1	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	H	Y	Y	R1	R2 R3 R4 R5 R6	R1 Route prohibited to Class 360/1 R2 Prohibited Hanwell Bridge Up and Down Goods Loops R3 Prohibited Southall Down East Sidings R4 Prohibited West Siding Southall West Jn R5 Prohibited Hayes Up Sidings R6 100mph maximum speed
+Western	0740	GW103	MLN1	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	H	N	Y	N	R1	R1 100mph maximum speed
+Western	0740	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	H	N	Y	N	R1	R1 Prohibited Langley Sidings
+Western	0740	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	H	N	R1	N	R2 R3	R1 Prohibited Maidenhead platforms 1 and 4 with crush deflated suspension R2 Prohibited Slough Up Goods Loop and Estate Sidings R3 Prohibited with air bags deflated / failed secondary suspension Maidenhead platform 4
+Western	0740	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	H	N	Y	N	R1	R1 Prohibitied Twyford platform 2 in crush deflated
+Western	0740	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	H	N	Y	N	R1	R1 Prohibitied Twyford platform 2 in crush deflated
+Western	0740	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	H	N	R1	N	Y	R1 Prohibited Reading platform 12 with deflated suspension
+Western	0740	GW103	RLL	Reading East Jn – Route Boundary (SW210) (Reading Southern Jn)	35	61	35	38	N	N	N	N	N	
+Western	0740	GW103	MLN1	Westbury Line Jn – Reading West Jn	36	17	36	78	H	N	Y	N	R1	R1 Prohibited Reading West Jn Sidings
+Western	0740	GW103	MLN1	Reading West Jn – Didcot East Jn	36	78	52	66	H	N	R1 R2	N	R3	R1 Prohibited Tilehurst to Didcot East Jn R2 20mph Tilehurst platform 1 Down Main line R3 Prohibited Reading West Jn Sidings
+Western	0740	GW103	MLN1	Didcot East Jn – Chester Line Jn	52	66	53	12	H	N	N	N	Y	
+Western	0740	GW103	MLN1	Chester Line Jn – Foxhall Jn	53	12	53	55	H	N	N	N	Y	
+Western	0740	GW103	MLN1	Foxhall Jn – Uffington	53	55	66	39	H	N	N	N	Y	
+Western	0740	GW105	MLN1	Uffington – Swindon Jn	66	39	77	36	H	N	N	N	Y	

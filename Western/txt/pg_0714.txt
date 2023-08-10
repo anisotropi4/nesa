@@ -3,67 +3,46 @@
 
                                        Western Route Sectional Appendix Module WR2
 
-       Line of ELR Line of Route / Sector
-                              oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
-       route  Description
-                                M   Ch   M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
-                                                                       oooooooooooooooooooooooooo
-       GW770 EBW Ebbw Vale Parkway – Site of
-                                18  45   14 23 E R1 R1 Y Y  Y N  Y Y N R1   Permitted to assist a failed train / contingency use
-              Former Aberbeeg Jn                                       only
-       GW770 WVL Site of Former Aberbeeg Jn –
-                                14  23    1 02 E R1 R1 Y Y  Y N  Y Y N R1   Permitted to assist a failed train / contingency use
-              Park Jn                                                  only
-       GW770 GAE Park Jn – Gaer Jn (Western
-                               160  24  159 33 N N  N  Y Y  Y N  Y Y N R1
-              Valley Line)
-              Machen Quarry – Site of
-       GW773 BJR                 4  69    0  00N  N N  N  N N  N N  N NR1
-              Former Bassaleg Jn
-       GW773 WVL Site of Former Bassaleg Jn –
-                                 2  05    1  10N  N N  N  N N  N N  N N
-              Park Jn (Machen Branch)
-       GW780 WVL Park Jn – Park Jn SB
-                                 1  02    0  74E R1 R1 Y  Y Y  N Y  Y NR1  Permitted to assist a failed train / contingency use
-                                                                       only
-       GW780 NWN Park Jn SB – Ebbw Jn
-                                 0  54    0  00E R1 R1 Y  Y Y  N Y  Y NR1 Permitted to assist a failed train / contingency use only
 
-              Alexandra Dock Jn –
-       GW784 NLL               159  60  160  27N  N N  N  N N  N N  N N
-              Network Rail Boundary
-              (Newport Docks)
-       GW790 ROC Pengam Jn – Change of ELR
-                               168  20  168  61N  N N  N  N N  N N  N N
-       GW790 ROA Change of ELR – Network
-                                 3  41    4  54N  N N  N  N N  N N  N N
-              Rail Boundary (ABP Cardiff
-              Docks)
-       GW810 CAR End of Line (Rhymney) –
-                                24  00   13  41E  Y Y  Y  Y Y  Y Y  Y N
-              Ystrad Mynach South Jn
-       GW810 CAR Ystrad Mynach South Jn –
-                                13  41    3  32E  Y Y  Y  Y Y  Y Y  Y N
-              Heath Jn
-       GW810 CAR Heath Jn – Cardiff Queen
-                                 3  32    1  22E  Y Y  Y  Y Y  Y Y  Y N
-              Street North Jn
-       GW820 TBD Network Rail Boundary
-                                19  59   13  53N  N N  N  N N  N N  N N
-              (Cwmbargoed) – Site of
-              Former Taff Bargoed Branch
-              Jn
-       GW820 VON Site of Former Taff Bargoed
-                                13  53   12  41N  N N  N  N N  N N  N N
-              Branch Jn – Site of Former
-              Penallta Jn
-       GW820 PTA Site of Former Penallta Jn –
-                                15  01   13  41N  N N  N  N N  N N  N N
-              Ystrad Mynach South Jn
-       GW828 CRY Coryton – Heath Jn
-                                 2  57    0  15E  Y Y  Y  Y Y  Y Y  Y N
+       Line of ELR
+               Line of Route / Sector
+                               oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165Notes
+       route   Description
+                                 M   Ch   M                             R1
+                                             Ch 00000000000000000000 0000000000000000
+                                                                           oooooooooooooooooooooooooo
+               Liskeard – Coombe Jn
+       GW640 LIL                  8   67   6  75 E N  N Y R1 N  N N  N N R1Prohibited from working in multiple. In the event of
+                                                                           failure it shall be repaired in situ. If unable to repair
+                                                                           assistance shall only be provided by a Class 150
+                                                                           under the supervision of the Railway Undertaking
+               Coombe Jn – Looe
+       GW640 LOO                  6   52   0  19 E N  N Y R1 N  N N  N N R1Prohibited from working in multiple. In the event of
+                                                                           failure it shall be repaired in situ. If unable to repair
+                                                                           assistance shall only be provided by a Class 150
+                                                                           under the supervision of the Railway Undertaking
+               Coombe Jn – Coombe No.2
+       GW640 LOO                  6   52   6  66 E N  N Y R1 N  N N  N N R1Prohibited from working in multiple. In the event of
+               GF                                                          failure it shall be repaired in situ. If unable to repair
+                                                                           assistance shall only be provided by a Class 150
+                                                                           under the supervision of the Railway Undertaking
+               Burngullow Jn – Drinnick Mill
+       GW672 SDS                288   26 291  31 N N  N N  N N  N N  N N
+               Drinnick Mill – Parkandillack
+       GW672 SDS                291   31 293  52 N N  N N  N N  N N  N N
+       GW680 FAL1- Penwithers Jn – Falmouth
+                                301   25 312  46 E N  N Y  Y N  N Y  Y N
+           3
+               St Erth – St Ives
+       GW690 SIV                321   02 325  13 E N  N Y  Y N  N Y  R1 NR1  Prohibited St Erth bay platform
+       GW700 BAG2 Gloucester Barnwood Jn –
+                                 92   21  92  75 E Y  Y Y  Y N  N Y  Y E
+               Horton Road Jn
+       GW700 SWM2 Horton Road Jn – Route
+                                113   61 129  00 E Y  Y Y  Y Y  Y Y  Y E R1  Prohibited between Gloucester and Route
+               Boundary Wales                                          R1 Boundary Wales
 
 
 
 
-       April 2009                                497E
+       April 2009                                497C

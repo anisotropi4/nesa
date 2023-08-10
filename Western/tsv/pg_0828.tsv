@@ -1,6 +1,12 @@
 Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Western	0828	GW900	Pilning – Severn Tunnel Junction(s)	Y *	Y	Y	N	N	N	N	N	
-Western	0828	GW900	Severn Tunnel Junction – Maindee West Jn	Y	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA IDA wagons
-Western	0828	GW900	Maindee West Jn – Cardiff East Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2591(h) x 2500(w) on FCA/FYA wagons 2629(h) x 2550(w) on FEA FSA/FTA wagons 2616(h) x 2550(w) on KFA wagons 2896(h) x 2500(w) on FLA FAA wagons ALL LINES 2896(h) x 2500(w) on IDA wagons Newport New Tunnel Only
-Western	0828	GW900	Cardiff East Jn – Court Sart Jn / Up Flying Loop Jn	Y *	Y	Y	N	N	N	N	N	
-Western	0828	GW900	Court Sart Jn / Up Flying Loop Jn – Llandore Jn	Y *	N	N	N	N	N	N	N	
+Western	0828	GW732	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	Y	Y	Y	N	N	N	N	N	
+Western	0828	GW733	Sutton Bridge Jn – Aberystwyth	Y *	N	N	N	N	N	N	N	
+Western	0828	GW734	Dovey Jn – Pwllheli	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons
+Western	0828	GW735	Shrewsbury, Crewe Jn – Nantwich	Y *	Y	Y	N	N	N	N	N	
+Western	0828	GW736	Gobowen South – Llanddu Jn	Y	N	N	N	N	N	N	N	
+Western	0828	GW740	Maindee North Jn – Maindee East Jn	Y	Y	Y	N	N	N	N	N	
+Western	0828	GW750	Hereford/Brecon Curve GF – MEB Siding	Y	N	N	N	N	N	N	N	
+Western	0828	GW770	Ebbw Vale Parkway – Gaer Jn (Western Valley Line)	Y *	Y	Y	R1	N	N	N	N	R1 W9 15mph Both lines O/Br WVL [9m 45ch]
+Western	0828	GW773	Machen Quarry – Park Jn	Y	N	N	N	N	N	N	N	
+Western	0828	GW780	Park Jn – Ebbw Jn	Y	Y	Y	N	N	N	N	N	
+Western	0828	GW784	Alexandra Dock Jn – 160m 27ch (Boundary with Newport Docks)	Y	Y	Y	N	N	N	N	N	

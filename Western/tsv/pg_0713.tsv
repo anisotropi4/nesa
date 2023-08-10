@@ -1,17 +1,17 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
-Western	0713	GW710	NO ELR	Llanwern Works East – Llanwern Works West via BSS (Corus Infrastructure)	153	08	156	03	N	N	N	N	N	N	N	N	N	N	
-Western	0713	GW720	EUB	Network Rail Boundary (Uskmouth) – East Usk Jn	3	07	0	00	N	N	N	N	N	N	N	N	N	N	
-Western	0713	GW730	SHL	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	E	R1	R1	Y	Y	Y	Y	Y	Y	N	R1 Prohibited between Severn Bridge Jn and Sutton Bridge Jn
-Western	0713	GW730	SHL	Craven Arms Jn – Shelwick Jn	20	01	49	26	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW730	SHL	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	E	Y	Y	Y	Y	Y	Y	Y	Y	R1	R1 Prohibited between Hereford Diesel Depot sidings and Site of Former Rotherwas Jn
-Western	0713	GW730	HDC	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW730	HNL1	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	E	Y	Y	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	E	N	N	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW731	WSJ2	Abbey Foregate Jn – Crewe Jn	171	15	171	57	E	R1 R2	R1 R2	Y	Y	Y	Y	Y	Y	R1	R2 Prohibited between Abbey Foregate Jn and Shrewsbury R3 Prohibited Shrewsbury Station Howard Street Landing (Loading Dock)
-Western	0713	GW731	WSJ2	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	E	E	E	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW732	AFE	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	E	N	N	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW733	SBA1/2	Sutton Bridge Jn – Welshpool	0	00	33	70	E	N	N	N	N	N	N	Y	Y	N	
-Western	0713	GW733	SBA2	Welshpool – Aberystwyth	33	70	95	60	E	N	N	N	N	N	N	Y	Y	N	
-Western	0713	GW734	DJP	Dovey Jn – Pwllheli	78	60	132	70	E	N	N	N	N	N	N	Y	Y	N	
-Western	0713	GW735	SYC	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	E	N	N	Y	Y	Y	Y	Y	Y	N	
-Western	0713	GW736	GNQ1	Gobowen South – Commencement of single line board	0	00	0	16	N	N	N	N	N	N	N	N	N	N	
+Western	0713	W606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W608	DAC	Crediton – Former Coleford Jn	179	26	183	69	E	Y	Y	Y	Y	N	N	R1	N	N	R1 Up to 4 cars
+Western	0713	W608	DAC	Former Coleford Jn – Meldon Quarry	183	69	198	72	N	N	N	R1 R2	N	N	N	R1 R2	N	N	R1 Prohibited Okehampton Groundframe to Meldon Quarry R2 Up to 4 cars
+Western	0713	W610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W611	EMT	Exmouth Jn – Exmouth	0	01	9	32	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	N	N	N	Y	N	N	N	N	N	N	
+Western	0713	W620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	N	N	Y	Y	Y	N	N	Y	Y	N	
+Western	0713	W628	FRY	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	N	N	Y	Y	Y	N	N	R1	R1	N	R1 Prohibited beyond Class 158 stop board (245m 13 ch) (A maximum of 3 x 158/9 car lengths can be accommodated)
+Western	0713	W628	TUR/ CWR	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	R1	N	N	N	N	N	N	R1 Prior to operation the method of working shall be agreed with the local Infrastructure Manager’s operations team
+Western	0713	W628	FRY	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	N	N	N	Y	N	N	N	N	N	N	
+Western	0713	W637	DAC	St Budeaux Jn – Buffer Stops (Beyond Bere Alston)	227	22	219	75	E	N	N	Y	Y	N	N	R1	R1	N	R1 Prohibited between St Budeaux Victoria Road Station and Buffer Stops (Beyond Bere Alston)

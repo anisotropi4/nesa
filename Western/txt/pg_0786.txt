@@ -10,73 +10,72 @@
                                                                    56 57 58 59 Notes
          route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
 
-                 Leckwith Loop South Jn – Penarth
-         GW840 RAD                     0 69  0  47 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Curve North Jn
-                 Penarth Curve North Jn – Radyr
-         GW840 RAD                     0 47  0  25 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Branch Jn
-                 Leckwith Loop South Jn – Leckwith
-         GW850 CLL                     0 26  0  00 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Loop North Jn
-                 Penarth Curve North Jn – Penarth
-         GW860 CPL                     0 25  0  00 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Curve South Jn
-                 Cogan Jn – Penarth
-         GW864 PTH                     0 01  1  12 6  Y  Y  N  Y   N  N  N  N
-                 Barry Jn – Bridgend Bay Platform
-         GW870 VOG                     0 00 19  04 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Ford Siding GF – Network Rail
-         GW871 FOR                     0 00  1  18 8  N  Y  Y  Y   Y  Y  Y  Y
-                 Boundary (Ford Works, Waterton)
-                 Llynfi Jn – Tondu Jn
-         GW874 BAL                     0 07  2  70 6  Y  Y  Y  Y   Y  Y  Y  Y
-                 Tondu Jn – Maesteg
-         GW874 BAL                     2 70  8  06 6  N  Y  Y  Y   N  N  N  N
-                 Tondu Jn – Cefn Jn
-         GW877 POR                     0 00  2  43 6  Y  Y  Y  Y   Y  Y  Y  Y
-                 Cefn Jn – Margam Abbey Works East
-         GW877 OVE                     7 41  2  41 6  Y  Y  Y  Y   Y  Y  Y  Y
+                 Filton Jn No.1 – Patchway Jn No.2
+         GW540 BSW                     4 40  5  61 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Filton West Jn No.1 – Patchway Jn
+         GW540 PAC                     0 40  0  00 7  Y  Y  Y  Y   Y  Y  Y  Y
+         1       No.1
+                 Parson Street Jn – Network Rail
+         GW548 POD/                  120 28 126 34 8  N  Y  Y  Y   Y  Y  Y  Y
+              PBYboundary (BPC)
+                 Heywood Road Jn – Westbury North
+         GW560 SWY                    94 45 95  33 8  Y  Y  Y  Y   Y  Y  Y  Y
                  Jn
-                 Margam Abbey Works East Jn –
-         GW877 OVE                     2 41  1  40 6  Y  Y  Y  Y   Y  Y  Y  Y
-                 Margam East Jn
-                 Margam East Jn – Margam Yard Jn
-         GW877 OVE                     1 40  0  79 6  Y  Y  Y  Y   Y  Y  Y  Y
+         GW560 WEY Westbury North Jn – Fairwood Jn via
+                                     109 49 111 18 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Westbury
+         GW570 WEY Clink Road Jn – Blatchbridge Jn via
+                                     114 44 116 52 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Frome
+         GW572 FNS2 Frome North Jn – Change of ELR
+                                       0 00  2  38 6  N  Y  Y  Y   Y  Y  Y  Y
+         GW572 WQL Change of ELR – Network Rail
+                                       2 38  2  40 6  N  Y  Y  Y   Y  Y  Y  Y
+                 Boundary (Mendip Rail - Whatley
+                 Quarry)
+                 East Somerset Jn – Network Rail
+         GW580 ESB                     0 11  5  48 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Boundary (East Somerset Railway -
+                 Cranmore East)
+         GW600 SWB Wootton Bassett Jn – Stoke Gifford Jn
+                                      83 07 111 79 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 No.1
+         GW600 SWB Stoke Gifford Jn No.1 – Patchway Jn
+                                     111 79 112 68 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 No.2
+         GW600 BSW Patchway Jn No.2 – Route Boundary
+                                       5 61  9  12 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Wales
+         GW600 BSW Route Boundary – Ableton Lane
+                                       9 12 10  51 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Tunnel (GW900)
+                 Cowley Bridge Jn – Crediton SB
+         GW606 DAC                   173 50 179 26 6  Y  Y  N  Y   N  N  N  N
+                 Crediton SB – End of Line
+         GW606 NDN                   179 26 211 31 5  R1 N  N  N   N  N  N  N R1 20mph over bridge NDN-20466
+                 (Barnstaple)                                                    (204m 66ch)
+                 Crediton SB – Network Rail Boundary
+         GW608 DAC                   179 26 183 79 6  Y  Y  N  Y   N  N  N  N
+                 (Dartmoor Railway - Coleford)
+         GW610 BAE2 Route Boundary (SW115) (Honiton) –
+                                     164 30 172 04 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Exeter St Davids Jn
+                 Exmouth Jn – Exmouth
+         GW611 EMT                     0 01  9  32 6  Y  Y  N  Y  N   N  N  N
+         GW618 MOB Newton Abbott East Jn – End of Line
+                                       0 14  4  07 6  N  R1 R1 R1 R1  R1 R1 N R1 Prohibited when hauling Dangerous
+                 (Beyond Heathfield)                                             Goods
+                 Newton Abbott West Jn – Paignton
+         GW620 TOR                   214 43 222 25 6  Y  Y  Y  Y   N  Y  N  N
+                 Crossover Ground Frame
+         GW628 SUT1 Laira Jn – Speedway Jn
+                                     244 02 244 30 7  Y  Y  Y  Y   Y  Y  Y  Y
+                 Lipson Jn – Speedway Jn
+         GW628 PLO                    0  00  0  22 7  Y  Y  Y  Y   Y  Y  Y  Y
+         GW628 SUT1 Speedway Jn – Mount Gould Jn
+                                     244 30 244 43 7  Y  Y  Y  Y   Y  Y  Y  Y
+         GW628 SUT2 Mount Gould Jn – Former Friary Jn
+                                     244 41 244 60 7  Y  Y  Y  Y   Y  Y  Y  Y
 
 
-
-
-                 Margam Yard Jn – Network Rail
-         GW877 OVE                     0 79  0  56 6  Y  Y  Y  Y   Y  Y  Y  Y
-                 Boundary (Port Talbot Docks)
-                 Briton Ferry Up Flying Loop Jn –
-         GW890 SDI1                  206 14 207 67 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Dynover Jn
-                 Dynover Jn – Jersey Marine Jn North
-         GW890 SDI1                  207 67 208 33 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Jersey Marine Jn North – Change of
-         GW890 SDI1                  208 33 208 49 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Mileage
-                 Change of Mileage – Grovesend
-         GW890 SDI2                    0 00 10  05 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Colliery Loop Jn
-                 Grovesend Colliery Loop Jn – Morlais
-         GW890 SDI2                   10 05 10  64 8  Y  Y  Y  Y   Y  Y  Y  Y
-                 Jn
-                 Dynevor Jn – Jersey Marine South Jn
-         GW890 RSB                    19 16 20  24 6  N  Y  Y  Y   Y  Y  Y  Y
-         1
-         GW892 VON
-                 Network Rail Boundary (Cwmgwrach)
-                                      33 14 41  17 6  N  Y  Y  Y   Y  Y  Y  Y
-                 – Neath & Brecon Jn
-                 Neath & Brecon Jn – Burrows Sidings
-         GW892 VON                    41 17 46  30 6  N  Y  Y  Y   Y  Y  Y  Y
-                 Network Rail Boundary (Onllwyn) –
-         GW893 NAB                    10 10  0  01 6  N  Y  Y  Y   Y  Y  Y  Y
-                 Neath and Brecon Jn
-
-
-
-         April 2009                                 502I
+         April 2009                                 502E

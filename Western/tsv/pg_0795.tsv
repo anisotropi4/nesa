@@ -1,21 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0795	GW580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0795	GW600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0795	GW600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0795	GW600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0795	GW600	BSW	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0795	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	6	N	B	N	N	R1	Y	N	Y	R1 Permitted to assist a failed train or in connection with infrastructure related trains
-Western	0795	GW606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	5	N	R1 B	N	N	R1 R2 R3	N	N	R1	R1 20mph over bridge NDN-20466 (204m 66ch) R2 20mph over Coppplestone Sharpey overbridge (186m 10ch) Barnstaple Single line R3 Permitted to assist a failed train or in connection with infrastructure related trains
-Western	0795	GW608	DAC	Crediton – Former Coleford Jn	179	26	183	69	6	N	N	N	N	N	Y	N	Y	
-Western	0795	GW608	DAC	Former Coleford Jn – Meldon Quarry	183	69	198	72	6	N	N	N	N	N	N	N	N	
-Western	0795	GW610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0795	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	6	N	B	N	N	Y	Y	N	Y	
-Western	0795	GW618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	6	N	R1	N	N	N	R1	N	R1	R1 Prohibited when hauling Dangerous Goods
-Western	0795	GW620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	6	B	B	Y	N	N	Y	N	Y	
-Western	0795	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	7	N	Y	N	Y	Y	Y	Y	Y	
-Western	0795	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	7	N	Y	N	Y	Y	Y	Y	Y	
-Western	0795	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	7	N	Y	N	Y	Y	Y	Y	Y	
-Western	0795	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	7	N	Y	N	Y	Y	Y	Y	Y	
-Western	0795	GW628	FRY	Former Friary Jn – Turnchapel Branch Jn	244	60	245	17	7	N	Y	N	Y	Y	Y	Y	Y	
-Western	0795	GW628	TUR/ CWR	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	5	N	Y	N	N	N	N	N	Y	
-Western	0795	GW628	FRY	Turnchapel Branch Jn – Plymouth Friary	245	17	245	40	7	N	Y	N	Y	Y	Y	Y	Y	
+Western	0795	GW108	MLN3	Penwithers Jn – Change of ELR	301	25	305	65	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW108	MLN4	Change of ELR – St Erth Jn	305	67	320	73	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW108	MLN4	St Erth Jn – Penzance	320	73	326	50	7	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW110	ANL	Old Oak Common West – Greenford East Jn	3	20	7	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW110	ANL	Greenford East Jn – Greenford West Jn	7	15	7	48	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW110	ANL	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW117	GEC	Greenford East Jn – Greenford South Jn	8	70	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW174	WEL1	West Ealing Jn – Drayton Green Jn	6	56	7	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW174	WEL1	Drayton Green Jn – Greenford South Jn	7	03	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW174	WEL1	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW174	WEL1	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW175	WEL2	Greenford LUL Bay Jn – Greenford Station	8	65	9	06	8	Y	Y	Y	N	N	Y	Y	Y	
+Western	0795	GW176	HAN	Hanwell Jn – Drayton Green Jn	0	00	0	36	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW178	BRB	Southall – Brentford Goods	0	00	2	70	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW180	HLL	Heathrow Airport Jn (Up and Down Main) – NR Boundary (BAA)	11	04	12	27	8	R1	R1	R1	R1	R1	R1	Y	R1	R1 See Sectional Appendix Local Instructions
+Western	0795	GW182	STA	West Drayton Jn – End of Branch (Colnbrook)	13	31	16	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW184	WIN	Slough – Windsor & Eton Central	18	36	21	19	6	N	B	N	N	N	Y	N	N	
+Western	0795	GW185	WBB	Maidenhead – Bourne End	24	19	28	55	6	N	B	N	N	N	Y	N	Y	
+Western	0795	GW185	MWB	Bourne End GF – Marlow	0	06	2	54	6	N	B	N	N	N	Y	N	Y	
+Western	0795	GW187	HEN	Twyford – Henley-on-Thames	31	01	35	48	4	N	B	N	N	N	N	N	B	
+Western	0795	GW190	RNJ	Route Boundary (SW210) (Reading Spur Jn) – Reading New Jn	68	00	68	35	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0795	GW195	RLL	Reading Southern Jn – Reading East Jn	35	33	35	61	8	Y	Y	Y	N	Y	N	Y	N	
+Western	0795	GW200	DCL	Chester Line Jn – Route Boundary (MD401) (Heyford)	53	12	75	00	8	Y	Y	Y	Y	Y	Y	Y	Y	

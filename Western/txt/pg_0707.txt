@@ -7,55 +7,61 @@
           ELR  Line of Route / Sector
                             oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
      route     Description
-                              M   Ch   M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+                              M   Ch   M  Ch 00000000 00000000 0000 00000000 00000000
                                                                       oooooooooooooooooooooooooo
-     GW184 WIN Slough – Windsor &
-                              18  36   21  19E  N N  E  N N  N N  N Y
-               Eton Central
-     GW185 WBB Maidenhead – Bourne
-                              24  19   28  55E  N N  E  N N  N N  N Y
-               End
-     GW185 MWB Bourne End GF – 0  06    2  54E  N N  E  N N  N N  N Y
-               Marlow
-     GW187 HEN Twyford – Henley-on-
-                              31  01   35  48E  N N  E  N N  N N  N Y
-               Thames
-     GW190 RNJ Route Boundary 68  00   68  35E  E  E Y  E E  E E  E Y
-               (SW210) (Reading Spur
-               Jn) – Reading New Jn
-     GW195 RLL Reading Southern Jn –
-                              35  33   35  61N  N N  E  N N  N N  N R1 R1 Prohibited with tripcocks fitted
-               Reading East Jn
-     GW220 RWC Reading, Oxford Road
-                               0  43    0  02E  E  E Y  E E  E E  E N
-               Jn – Reading West Jn
-     GW225 RFR Caversham Road Jn –
-                              36  25   36  74N  N N  Y  N N  N Y  N Y
-               Oxford Road Jn
-     GW240 DEC Didcot East Jn – Didcot
-                              52  66   54  00E  E  E E  E E  E E  E Y
-               North Jns
-     GW250 DWC Foxhall Jn – Didcot
-                               0  01    0  32E  E  E E  E E  E E  E Y
-               West Curve Jn
-     GW220 RWC Reading, Oxford Road
-                               0  43    0  02E  E  E Y  E E  E E  E N
-               Jn – Reading West Jn
-     GW260 THA Kennington Jn – Morris
-                              18  45   16  04N  N N  N  N N  N N  N Y
-               Cowley
-     GW277 OXD Oxford North Jn – Route
-                              30  09   29  25Y  Y  Y Y  E E  Y Y  Y Y
-               Boundary (MD736)
-               (29m 25ch)
-     GW310 OWW Wolvercot Jn – 66  32  112  00E  Y  Y Y  Y E  E Y  Y Y
-               Pershore (excl)
-     GW317 OWW Honeybourne Stratford
-                             102  06  101  31N  N N  N  N N  N N  N N
-               Line Junction – Start of
-               branch mileage
+     GW108 MLN1Fordgate – Cogload Jn
+                             154  12  158  23E  Y  Y Y  Y N  N Y  Y N
+               (Up)
+     GW108 MLN1Cogload Jn (Up) –
+                             158  23  164  60E  Y  Y Y  Y N  N R1 R1 NR1Prohibited Taunton Down Bay
+               Norton Fitzwarren Jn
+               (Connection - West
+               Somerset Railway)
+     GW108 MLN1Norton Fitzwarren Jn
+                             164  40  192  52E  Y  Y Y  Y N  N Y  Y N
+               (Connection - West
+               Somerset Railway) –
+               Cowley Bridge Jn
+     GW108 MLN1Cowley Bridge Jn –
+                             192  52  194  00E  Y  Y Y  Y N  N Y  Y N
+               Exeter St Davids Jn
+     GW108 MLN1Exeter St Davids Jn –
+                             194  00  213  75E  Y  Y Y  Y N  N Y  Y N
+               Newton Abbot East Jn
+     GW108 MLN1Newton Abbot East Jn –
+                             213  75  214  43E  Y  Y Y  Y N  N Y  Y N
+               Newton Abbot West Jn
+     GW108 MLN1Newton Abbot West Jn
+                             214  43  242  55E  Y  Y Y  Y N  N Y  Y N
+               – Tavistock Jn Yard
+     GW108 MLN1Tavistock Jn Yard –
+                             242  55  243  67E  Y  Y Y  Y N  N Y  Y N
+               Laira Jn
+     GW108 MLN1Laira Jn – Lipson Jn
+                             243  67  244  35E  Y  Y Y  Y N  N Y  Y N
+     GW108 MLN1Lipson Jn – Change of
+                             244  35  246  15E  Y  Y Y  Y N  N Y  Y N
+               ELR (Site of Former
+               Devonport Jn / Cornwall
+               Loop)
+     GW108 MLN2Change of ELR (Site of
+                             247  28  250  00E  Y  Y Y  Y N  N Y  Y N
+               Former Devonport Jn /
+               Cornwall Loop) – St
+               Budeaux Jn
+     GW108 MLN2St Budeaux Jn –
+                             250  00  256  38E  Y  Y Y  Y N  N Y  Y N
+               Change of ELR
+     GW108 MLN3Change of ELR –
+                             256  40  264  66E  Y  Y Y  Y N  N Y  Y N
+               Liskeard Jn
+     GW108 MLN3Liskeard Jn – 264  66  277  54E  Y  Y Y  Y N  N Y  Y N
+               Lostwithiel Jn
+     GW108 MLN3Lostwithiel Jn – Par
+                             277  54  281  57E  Y  Y Y  Y N  N Y  Y N
+               Loop Jn
 
 
 
 
-       April 2009                                 495
+       April 2009                                 493

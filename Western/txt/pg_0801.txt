@@ -10,44 +10,62 @@
          route    Description         M  Ch M  Ch 000  000 000 000 000 00
                                                                      00   ooooooooooooooooooooooooooo
 
-         GW910 LLAMorlais Jn – Llandeilo Jn
-                                       3  50 0  00 8  Y Y  Y  Y Y  Y  Y  Y
-         GW915 GWAGwaun-cae-Gurwen – Former Jn
-                                      16  41 14 60 5  N Y  N  N N  N  N  Y
-                  (Change of ELR)
-         GW915 GNTFormer Jn (Change of ELR) –
-                                      14  60 10 04 5  N R1 N  N N  N  N  Y R110mph Ammanford (12m 36.75ch)
-                  Pantyffynnon
-         GW930 CANCarmarthen Jn – End of Line (Beyond
-                                      245 10245 65 8  Y Y  Y R1 Y  Y R1  Y R1Prohibited Camarthen Down Side bay
-                  Carmarthen Station)                                        platform (accessible by shunt movement
-                                                                             only)
-                  Up Sidings No.2 GF – Carmarthen
-         GW940 CAN/                   245 43245 32 8  Y Y  Y  Y Y  Y  Y  Y
-              CNW Bridge Jn
-         GW950 PEMWhitland Jn – Pembroke RA Change
-                                      259 01284 22 7  Y Y  N  Y Y  Y  Y  Y
-         GW950 PEMPembroke RA Change – Pembroke
-                                      284 22286 26 6  Y Y  N  N N  Y  N  Y
-                  Dock
-         GW960 SWM2 Clarbeston Road – Haverfordwest
-                                      271 08276 08 8  Y Y  Y  Y Y  Y  Y  Y
-         GW960 SWM2 Haverfordwest – Change of ELR (Site
-                                      276 08280 70 8  Y Y  Y  Y Y  Y  Y  Y
-                  of Former Johnston Jn)
-         GW960 MILChange of ELR (Site of Former
-                                      280 70283 12 8  Y Y  Y  Y Y  Y  Y  Y
-                  Johnston Jn) – Herbranston Jn
-         GW960 MILHerbranston Jn – End of Line
-                                      283 12284 71 8  Y Y  Y  Y Y  Y  Y  Y
-                  (Beyond Milford Haven)
-         GW970 GOBGulf Oil Branch Jn – Waterston, Gulf
-                                       0  00 2  35 8  Y Y  Y  Y Y  Y  Y  Y
-                  Oil Refinery
-         GW980 ERBHerbrandston Jn – Robeston
-                                       0  00 1  18 8  Y Y  Y  Y Y  Y  Y  Y
+         GW730 HDCSite of former Rotherwas Jn – Site of
+                                       0  00 1  74 8  Y Y  Y  Y Y  Y  Y  Y
+                  former Red Hill Jn
+                  Site of former Red Hill Jn – Maindee
+         GW730 HNL1                    1  74 41 66 8  Y Y  Y  Y Y  Y  Y  Y
+                  West Jn
+         GW731 WSJ2
+                  Route Boundary (MD801) (Madeley
+                                      170 46171 15 8  Y Y  Y  Y Y  Y  Y  Y
+                  Jn) – Abbey Foregate Jn
+                  Abbey Foregate Jn – Crewe Jn
+         GW731 WSJ2                   171 15171 57 8  Y Y  Y  Y Y  Y  Y  Y
+                  Crewe Jn – Route Boundary
+         GW731 WSJ2                   171 57199 00 8  Y Y  Y  Y Y  Y  Y  Y
+                  (NW3005) (Wrexham General)
+         GW732 AFEAbbey Foregate Jn – English Bridge
+                                       0  25 0  00 8  Y Y  Y  Y Y  Y  Y  Y
+                  Jn (Loop Lines)
+                  Sutton Bridge Jn – Welshpool
+         GW733 SBA1/                   0  00 33 70 7  N R1 N  Y Y  Y  Y  Y R1Infrastructure maintenance purposes only
+              2                                         R2                 R220mph over bridge SBA1-22 (05m 13ch)
+                  Welshpool – Aberystwyth
+         GW733 SBA2                   33  70 95 60 5  N R1 N  N N  N  N  Y R1Infrastructure maintenance purposes only
+                                                        R2                 R240mph over bridge SBA2-159 (49m 26ch)
+                                                        R3                 R330mph over bridge SBA2-267 (91m 63ch)
+         GW734 DJPDovey Jn – Pwllheli 78  60132 70 5  N R1 N  N N  N  N  Y R1Prohibited between Morfa Mawddach and
+                                                        R2                   Pwllheli
+                                                        R3                R2 Infrastructure maintenance purposes only
+                                                        R4                R3 10mph over bridge DJP-20 (84m 57.5ch)
+                                                                          R4 20mph over bridge DJP-90 (90m 39.5ch)
+         GW735 SYCCrewe Jn – Route Boundary
+                                      32  29 2  60 8  Y Y  Y  Y Y  Y  Y  Y
+                  (NW1007) (Limit of Electrification)
+         GW736 GNQ1 Gobowen South – Commencement of
+                                       0  00 0  16 5  N N  N  N N  N  N  Y
+                  single line board
+         GW740 MAIMaindee East Jn – Maindee North Jn
+                                      41  65 41 33 8  Y Y  Y  Y Y  Y  Y  Y
+         GW750 BNCHereford Yard Jn – Brecon Curve Jn
+                                       0  00 0  19 8  Y Y  Y  Y Y  Y  Y  Y
+                  Brecon Curve Jn – MEB Siding
+         GW750 HNL2                   149 44149 78 8  Y Y  Y  Y Y  Y  Y  Y
+         GW770 EBWEbbw Vale Parkway – Site of Former
+                                      18  45 14 23 5  Y Y  Y  N Y  N  N  Y
+                  Aberbeeg Jn
+         GW770 WVLSite of Former Aberbeeg Jn – Park Jn
+                                      14  23 1  02 5  Y Y  Y  N R1 N  N  Y R130mph over Crumlin bridge No WVL/01148
+                                                                R2           (11m 48ch)
+                                                                          R2 10mph over Newbridge bridge
+                                                                             No.WVL/01048 (10m 48ch)
+         GW770 GAEPark Jn – Gaer Jn (Western Valley
+                                      160 24159 33 8  Y Y  Y  N N  N  Y  Y
+                  Line)
+         GW773 BJRMachen Quarry – Site of Former
+                                       4  69 0  00 6  Y Y  N  N N  Y  N  Y
+                  Bassaleg Jn
 
 
-
-
-         April 2009                                 506I
+         April 2009                                 506E

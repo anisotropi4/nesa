@@ -1,25 +1,24 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	88	97/3	Notes
-Western	0790	GW105	MLN1	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW105	MLN1	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW105	MLN1	Bristol East Jn – Bristol West Jn	118	02	118	58	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW105	MLN1	Bristol West Jn – Parson Street Jn	118	58	120	28	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW105	MLN1	Parson Street Jn – Worle Jn	120	28	135	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW105	MLN1	Worle Jn – Uphill Jn (direct)	135	11	138	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW105	MLN1	Uphill Jn – Fordgate	138	04	154	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW107	WSM	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Fordgate – Cogload Jn (Up)	154	12	158	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Tavistock Jn Yard – Laira Jn	242	55	243	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Laira Jn – Lipson Jn	243	67	244	35	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN1	Lipson Jn – Change of ELR (Site of Former Devonport Jn/Cornwall Loop)	244	35	246	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN2	Change of ELR (Site of Former Devonport Jn/Cornwall Loop) – St Budeaux Jn	247	28	250	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN2	St Budeaux Jn – Change of ELR	250	00	256	38	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN3	Change of ELR – Liskeard Jn	256	40	264	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN3	Liskeard Jn – Lostwithiel Jn	264	66	277	54	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN3	Lostwithiel Jn – Par Loop Jn	277	54	281	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Western	0790	GW108	MLN3	Par Loop Jn – Burngullow Jn	281	57	288	26	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	59	Notes
+Western	0790	GW840	RAD	Leckwith Loop South Jn – Penarth Curve North Jn	0	69	0	47	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW840	RAD	Penarth Curve North Jn – Radyr Branch Jn	0	47	0	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW850	CLL	Leckwith Loop South Jn – Leckwith Loop North Jn	0	26	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW860	CPL	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW864	PTH	Cogan Jn – Penarth	0	01	1	12	6	Y	Y	N	Y	N	N	N	N	
+Western	0790	GW870	VOG	Barry Jn – Bridgend Bay Platform	0	00	19	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW871	FOR	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	8	N	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW874	BAL	Llynfi Jn – Tondu Jn	0	07	2	70	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW874	BAL	Tondu Jn – Maesteg	2	70	8	06	6	N	Y	Y	Y	N	N	N	N	
+Western	0790	GW877	POR	Tondu Jn – Cefn Jn	0	00	2	43	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW877	OVE	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW877	OVE	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW877	OVE	Margam East Jn – Margam Yard Jn	1	40	0	79	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW877	OVE	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW890	SDI1	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW890	SDI1	Dynover Jn – Jersey Marine Jn North	207	67	208	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW890	SDI1	Jersey Marine Jn North – Change of Mileage	208	33	208	49	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW890	SDI2	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW890	SDI2	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW890 1	RSB	Dynevor Jn – Jersey Marine South Jn	19	16	20	24	6	N	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW892	VON	Network Rail Boundary (Cwmgwrach) – Neath & Brecon Jn	33	14	41	17	6	N	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW892	VON	Neath & Brecon Jn – Burrows Sidings	41	17	46	30	6	N	Y	Y	Y	Y	Y	Y	Y	
+Western	0790	GW893	NAB	Network Rail Boundary (Onllwyn) – Neath and Brecon Jn	10	10	0	01	6	N	Y	Y	Y	Y	Y	Y	Y	

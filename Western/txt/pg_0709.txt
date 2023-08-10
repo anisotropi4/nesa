@@ -7,64 +7,55 @@
           ELR  Line of Route / Sector
                             oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
      route     Description
-                              M   Ch   M                                R1
-                                          Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
-                                                                           oooooooooooooooooooooooooo
-     GW480SWM1 Swindon Jn – Standish
-                              77  36  106 74 E  Y Y  Y Y  E  E  R1 R1 E R1   Prohibited Kemble Tamper Siding
-               Jn                                                    R2 R2   Route prohibited to Class 165/0
-                                                                     R3 R3   20mph Stroud Down platform
-     GW490SWM2 Gloucester Yard Jn –
-                             113  03  113 61 E  Y Y  Y Y  E  E  Y  Y E  R1   Route prohibited to Class 165/0
-               Horton Road Jn                                        R1
-     GW500BKE  Westbury Line Jn –
-                              36  17   36 67 E  E E  Y E  E  E  E  E Y
+                              M   Ch   M  Ch 0000 0000 0000 0000 0000 0000 00000000 0000
+                                                                      oooooooooooooooooooooooooo
+     GW184 WIN Slough – Windsor &
+                              18  36   21  19E  N  N E  N N  N N  N Y
+               Eton Central
+     GW185 WBB Maidenhead – Bourne
+                              24  19   28  55E  N  N E  N N  N N  N Y
+               End
+     GW185 MWB Bourne End GF – 0  06    2  54E  N  N E  N N  N N  N Y
+               Marlow
+     GW187 HEN Twyford – Henley-on-
+                              31  01   35  48E  N  N E  N N  N N  N Y
+               Thames
+     GW190 RNJ Route Boundary 68  00   68  35E  E  E Y  E E  E E  E Y
+               (SW210) (Reading Spur
+               Jn) – Reading New Jn
+     GW195 RLL Reading Southern Jn –
+                              35  33   35  61N  N  N E  N N  N N  N R1 R1 Prohibited with tripcocks fitted
+               Reading East Jn
+     GW220 RWC Reading, Oxford Road
+                               0  43    0  02E  E  E Y  E E  E E  E N
+               Jn – Reading West Jn
+     GW225 RFR Caversham Road Jn –
+                              36  25   36  74N  N  N Y  N N  N Y  N Y
                Oxford Road Jn
-     GW500BKE  Oxford Road Jn –
-                              36  67   37  62E  E  E Y  E  E  E  E  EY
-               Southcote Jn
-     GW500BKE  Southcote Jn – Route
-                              37  62   37  76E  E  E Y  E  E  E  E  EY
-               Boundary (SW125)
-               (Basingstoke)
-     GW500BHL  Southcote Jn – Change
-                              37  62   81  19E  E  E E  N N   N  E  EY
-               of ELR
-     GW500SWY  Change of ELR –81  19   94  44E  E  E E  E  E  E  E  EY
-               Heywood Road Jn
-               (Change of ELR)
-     GW500WES  Heywood Road Jn94  44   97  02E  Y  Y Y  Y N   N  Y  YY
-               (Change of ELR) –
-               Fairwood Jn (Change of
-               ELR) (via Westbury
-               Avoiding Lines)
-     GW500WEY  Fairwood Jn (Change of
-                             111  18  114  44E  Y  Y Y  Y N   N  Y  YY
-               ELR) – Clink Road Jn
-               (Change of ELR)
-     GW500FRA  Clink Road Jn (Change
-                             114  44  116  37E  Y  Y Y  Y N   N  Y  YY
-               of ELR) – Blatchbridge
-               Jn (Change of ELR)
-     GW500WEY  Blatchbridge Jn
-                             116  52  129  50E  Y  Y Y  Y N   N  Y  YY
-               (Change of ELR) –
-               Castle Cary Jn
-     GW500WEY  Castle Cary Jn – Route
-                             129  50  130  00E  Y  Y Y  Y N   N  Y  YN
-               Boundary (SW175)
-               (Yeovil Pen Mill Jn)
-     GW500CCL  Castle Cary Jn –
-                             115  32  138  30E  Y  Y Y  Y N   N  Y  YN
-               Cogload Jn (Down)
-     GW5001 SALRoute Boundary115  40  110  07E  Y  Y Y  Y N   N  Y  YN
-               (SW170) (Wilton Jn) –
-               Westbury South Jn
-     GW510WEY  Westbury North Jn –
-                              109  49 104  40 E Y  Y  Y Y  N  N  Y  Y R1 R1  Prohibited Trowbridge Station when laden
-               Bradford Jn
+     GW240 DEC Didcot East Jn – Didcot
+                              52  66   54  00E  E  E E  E E  E E  E Y
+               North Jns
+     GW250 DWC Foxhall Jn – Didcot
+                               0  01    0  32E  E  E E  E E  E E  E Y
+               West Curve Jn
+     GW220 RWC Reading, Oxford Road
+                               0  43    0  02E  E  E Y  E E  E E  E N
+               Jn – Reading West Jn
+     GW260 THA Kennington Jn – Morris
+                              18  45   16  04N  N  N N  N N  N N  N Y
+               Cowley
+     GW277 OXD Oxford North Jn – Route
+                              30  09   29  25Y  Y  Y Y  E E  Y Y  Y Y
+               Boundary (MD736)
+               (29m 25ch)
+     GW310 OWW Wolvercot Jn – 66  32  112  00E  Y  Y Y  Y E  E Y  Y Y
+               Pershore (excl)
+     GW317 OWW Honeybourne Stratford
+                             102  06  101  31N  N  N N  N N  N N  N N
+               Line Junction – Start of
+               branch mileage
 
 
 
 
-       April 2009                                 497
+       April 2009                                 495

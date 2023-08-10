@@ -3,64 +3,62 @@
 
                                          Western Route Sectional Appendix Module WR2
 
-       GW830 SWM2Cardiff East Jn – Cardiff West Jn
-                                      170 18170 56 N  Y N  Y N  N  Y Y  N R1 Y  N R1Prohibited Cardiff Central platform
-                                                                                    8
-       GW830 BRY Cardiff West Jn – Barry Jn
-                                       0  10  8 16 N  N N  R1N  N  Y Y  N  Y Y  N R1Prohibited between Grangetown
-                                                                                    and Barry Jn
-       GW830 BRY Barry Jn – Buffer Stops (Barry Island)
-                                       8  16  8 76 N  N N  N N  N  N N  N  N N  N
-       GW834 VON Network Rail Boundary – Aberdare
-                                       26 62 22 34 N  N N  N N  N  N N  N  N N  N
-       GW834 VON/Aberdare – Cwmbach Change of ELR
-                                       22 34 20 68 N  N N  N N  N  N N  N  N N  N
-             ALK
-       GW834 ABD/Cwmbach Change of ELR – Abercynon
-                                       22 01 16 35 N  N N  N N  N  N N  N  N N  N
-             MOA Jn (Including Mountain Ash Down Loop
-                 ELR MOA)
-       GW835 THT End of Line – Treherbert
-                                       23 69 23 54 N  N N  N N  N  N N  N  N N  N
-       GW835 THT Treherbert – Pontypridd Jn
-                                       23 54 13 04 N  N N  N N  N  N N  N  N N  N
-       GW839 CAM Queen Street South Jn – Cardiff Bay
-                                       0  66  0 02 N  N N  N N  N  Y Y  N  N N  N
-       GW840 RAD Radyr Jn – Leckwith Loop South Jn
-                                       4  41  0 69 N  N N  N N  N  N N  N  N N  N
-       GW840 RAD Leckwith Loop South Jn – Penarth
-                                       0  69  0 47 N  N N  Y N  N  Y Y  N  N N  N
-                 Curve North Jn
-       GW840 RAD Penarth Curve North Jn – Radyr Branch
-                                       0  47  0 25 N  N N  Y N  N  Y Y  N  N N  N
+       Line of
+             ELR Line of Route / Sector Description
+                                       M  Ch M  Ch166 168 170 171 172 175 180 196 220 221 222 Notes
+       route                                      RHM
+                                                     000 000 000 000 000 000
+                                                                       000 000 000ooooooooooooooooooooooo
+       GW700 SWM2Route Boundary Wales – Severn Tunnel 129
+                                          00149 14 Y  N Y  N N  Y  Y N  Y  Y N R1
                  Jn
-       GW850 CLL Leckwith Loop South Jn – Leckwith
-                                       0  26  0 00 N  N N  Y N  N  Y Y  N  N N  N
-                 Loop North Jn
-       GW860 CPL Penarth Curve North Jn – Penarth
-                                       0  25  0 00 N  N N  Y N  N  Y Y  N  N N  N
-                 Curve South Jn
-       GW864 PTH Cogan Jn – Penarth    0  01  1 12 N  N N  N N  N  Y Y  N  N N  N
-       GW870 VOG Barry Jn – Bridgend Bay Platform
-                                       0  00 19 04 N  N N  N N  N  Y Y  N  Y Y  N
-       GW871 FOR Ford Siding GF – Network Rail
-                                       0  00  1 18 N  N N  N N  N  N N  N  N N  N
-                 Boundary (Ford Works, Waterton)
-       GW874 BAL Llynfi Jn – Tondu Jn  0  07  2 70 N  N N  Y N  N  Y Y  N  N N  N
-       GW874 BAL Tondu Jn – Maesteg    2  70  8 06 N  N N  Y N  N  Y N  N  N N  N
-       GW877 POR Tondu Jn – Cefn Jn    0  00  2 43 N  N N  N N  N  Y Y  N  N N  N
-       GW877 OVE Cefn Jn – Margam Abbey Works East
-                                       7  41  2 41 N  N N  N N  N  Y Y  N  N N  N
-                 Jn
-       GW877 OVE Margam Abbey Works East Jn –
-                                       2  41  1 40 N  N N  N N  N  N N  N  N N  N
-                 Margam East Jn
-       GW877 OVE Margam East Jn – Margam Yard Jn
-                                       1  40  0 79 N  N N  N N  N  N N  N  N N  N
-       GW877 OVE Margam Yard Jn – Network Rail
-                                       0  79  0 56 N  N N  N N  N  N N  N  N N  N
-                 Boundary (Port Talbot Docks)
+       GW710 NO  Llanwern Works East – Llanwern Works 153
+                                          08156 03 N  N N  N N  N  N N  N  N N R2
+             ELR West via BSS (Corus Infrastructure)
+       GW720 EUB Network Rail Boundary (Uskmouth) –
+                                       3  07  0 00 N  N N  N N  N  N N  N  N N R3
+                 East Usk Jn
+       GW730 SHL Severn Bridge Jn – Craven Arms Jn
+                                       0  11 20 01 N  N R1 N N  Y  Y R2 N  N N R1 Prohibited between Sutton Bridge
+                                                                                  Jn and Craven Arms Jn
+                                                                               R4 R2 Prohibited Up Goods Loop
+                                                                                  Jn to
+                                                                                      Craven Arms Jn
+       GW730 SHL Craven Arms Jn – Shelwick Jn
+                                       20 01 49 26 N  N N  N N  Y  Y N  N  N N R5
+       GW730 SHL Shelwick Jn – Site of former Rotherwas
+                                       49 26 52 19 R1 N R2 N R2 Y  Y R4 Y  Y N R6 Prohibited between Hereford
+                 Jn                                          R3                   Diesel Depot sidings and Site of
+                                                                                  Former Rotherwas Jn
+                                                                               R7 Class 172/2 and 172/3 prohibited
+                                                                                  between Hereford Station and
+                                                                                  Site of former Rotherwas Jn
+                                                                               R8 Route prohibited to Class 172/1
+                                                                               R4 ECS only Hereford SB to Site of
+                                                                               former Rotherwas Jn
+       GW730 HDC Site of former Rotherwas Jn – Site of
+                                       0  00  1 74 N  N N  N N  Y  Y N  Y  Y N
+                 former Red Hill Jn
+       GW730 HNL1Site of former Red Hill Jn – Maindee
+                                       1  74 41 66 N  N R1 N N  Y  Y N  Y  Y N R1 Prohibited between Site of former
+                 West Jn                                                          Red Hill Jn and Maindee North Jn
+       GW731 WSJ2Route Boundary (MD801) (Madeley Jn)
+                                      170 46171 15 N  Y Y  N N  Y  N Y  N  Y N
+                 – Abbey Foregate Jn
+       GW731 WSJ2Abbey Foregate Jn – Crewe Jn
+                                      171 15171 57 N  Y Y  N N  Y R1 R5 N R3 N R1 Prohibited between Abbey
+                                                                  R2      R4      Foregate Jn and Severn Bridge Jn
+                                                                          R5   R2 Prohibited between Shrewsbury
+                                                                                  and Crew Jn
+                                                                               R3 3mph Shrewsbury platforms 3, 4
+                                                                                  and 5 with deflated suspension
+                                                                               R4 Prohibited Shrewsbury Bay
+                                                                                  platform 6
+                                                                               R5 Prohibited Shrewsbury Station
+                                                                                  Howard Street Landing (Loading
+                                                                                  Dock)
 
 
 
-         April 2009                                498K
+
+         April 2009                                498I

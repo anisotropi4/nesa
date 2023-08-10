@@ -1,12 +1,12 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Western	0831	GW103	MLN1	Paddington – Old Oak Common West	0	05	3	20	8	R1 R2	R1 Prohibited Paddington platform 6 R2 Prohibited Paddington platform 7
-Western	0831	GW103	MLN1	Old Oak Common West – Acton East Jn	3	20	4	07	8	Y	
-Western	0831	GW103	MLN1	Acton East Jn – West Ealing Jn	4	07	6	54	8	Y	
-Western	0831	GW103	MLN1	West Ealing Jn – Hanwell Jn	6	54	7	19	8	Y	
-Western	0831	GW103	MLN1	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	8	Y	
-Western	0831	GW103	MLN1	Heathrow Airport Jn (Down Main line) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	8	Y	
-Western	0831	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	8	Y	
-Western	0831	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	8	Y	
-Western	0831	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	8	Y	
-Western	0831	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	8	Y	
-Western	0831	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	8	R1	R1 Prohibited Reading platform 7 (Down Main line)
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+Western	0831	GW874	Bridgend, Llynfi Jn – Tondu	Y *	Y	Y	N	N	N	N	N	
+Western	0831	GW874	Tondun – Maesteg	Y	N	N	N	N	N	N	N	
+Western	0831	GW877	Margam Abbey East / Newlands Loop Jn – Port Talbot Docks (Ogmore Vale Extension)	Y *	Y	Y	N	N	N	N	N	
+Western	0831	GW890	Court Sart Jn / Up Flying Loop Jn – Dynover Jn (Swansea District Line)	Y*	Y	Y	N	N	N	N	N	
+Western	0831	GW890	Dynover Jn – Morlais Jn	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons at Lonlas Tunnel [1m 07ch - 1m 50ch]
+Western	0831	GW8901	Dynevor Jn – Jersey Marine South Jn	Y *	Y	Y	N	N	N	N	N	
+Western	0831	GW892	Cwmgwrach – Neath & Brecon Jn	Y *	N	N	N	N	N	N	N	
+Western	0831	GW892	Neath & Brecon Jn – Burrows Sidings	Y	Y	Y	N	N	N	N	N	
+Western	0831	GW893	Onllwyn – Neath and Brecon Jn	Y	Y	Y	N	N	N	N	N	
+Western	0831	GW894	Jersey Marine Jn North – Jersey Marine Jn South	Y	Y	Y	N	N	N	N	N	
+Western	0831	GW897	Grovesend Colliery Loop Jn – Hendy Jn	Y	N	N	N	N	N	N	N	

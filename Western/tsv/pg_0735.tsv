@@ -1,0 +1,21 @@
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
+Western	0735	GW894	JER	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	N	N	N	N	N	N	N	N	N	N	N	
+Western	0735	GW897	HDY	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	N	N	N	N	N	N	N	N	N	N	N	
+Western	0735	GW900	BSW	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0735	GW900	SWM2	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0735	GW900	SWM2	Maindee West Jn – Cardiff East Jn	158	16	170	18	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0735	GW900	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0735	GW900	SWM2	Cardiff West Jn – Court Sart Jn	170	56	206	58	R1	N	R2	N	N	Y	Y	N	Y	Y	N	R2 ECS only Bridgend River Bridge Crossover (193m 00ch) to Court Sart Jn
+Western	0735	GW900	SWM2	Court Sart Jn – Llandore Jn	206	58	214	62	N	N	E	N	N	Y	Y	N	Y	Y	N	
+Western	0735	GW900	SWM2	Llandore Jn – Llandeilo Jn	214	62	223	49	N	N	E R1	N	N	Y	Y	N	N	N	N	Prohibited between Swansea Loop West Jn (216m 00ch) and Llandeilo Jn
+Western	0735	GW900	SWM2	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0735	GW900	SWM2	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0735	GW900	SWM2	Whitland Jn – Clarbeston Road Jn	259	01	271	08	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0735	GW900	CRL	Clarbeston Road Jn – Change of ELR (Letterston Jn)	271	08	281	58	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0735	GW900	NPF	Change of ELR (Letterston Jn) – Network Rail Boundary (Fishguard Harbour)	283	30	287	52	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0735	GW9001	SWA	Landore Jn – Swansea	214	62	216	07	N	N	E R1	N	N	Y	Y	N	Y	Y	N	Prohibited between Crossover (Down Sidings 215m 62ch) and Swansea
+Western	0735	GW906	SWL	Swansea Loop East Jn – Swansea Loop West Jn	0	53	0	00	N	N	E R1	N	N	Y	Y	N	N	N	N	Prohibited between Crossover (Down Sidings 215m 62ch) and Swansea
+Western	0735	GW910	CWL1	Craven Arms Jn – Change of Mileage	20	01	20	12	N	N	N	N	N	Y	Y	N	N	N	N	
+Western	0735	GW910	CWL2	Change of Mileage – Site of Former Llandovery Jn	0	00	59	14	N	N	N	N	N	Y	Y	N	N	N	N	R1 Prohibited Between Builth Road and Site of Former Llandovery Jn R2 Prohibited Llandrindod Down platform
+Western	0735	GW910	VOT	Site of Former Llandovery Jn – Llandeilo	29	40	18	07	N	N	N	N	N	Y	R1	N	N	N	N	R1 Prohibited Llandovery Down platform
+Western	0735	GW910	LLA	Llandeilo – Pantyffynnon	18	07	10	08	N	N	N	N	N	Y	Y	N	N	N	N	

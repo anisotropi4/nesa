@@ -1,16 +1,12 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	165	Notes
-Western	0705	GW108	MLN1	Fordgate – Cogload Jn (Up)	154	12	158	23	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	E	Y	Y	Y	Y	N	N	R1	R1	N	R1 Prohibited Taunton Down Bay
-Western	0705	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Tavistock Jn Yard – Laira Jn	242	55	243	67	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Laira Jn – Lipson Jn	243	67	244	35	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN1	Lipson Jn – Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	244	35	246	15	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN2	Change of ELR (Site of Former Devonport Jn / Cornwall Loop) – St Budeaux Jn	247	28	250	00	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN2	St Budeaux Jn – Change of ELR	250	00	256	38	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN3	Change of ELR – Liskeard Jn	256	40	264	66	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN3	Liskeard Jn – Lostwithiel Jn	264	66	277	54	E	Y	Y	Y	Y	N	N	Y	Y	N	
-Western	0705	GW108	MLN3	Lostwithiel Jn – Par Loop Jn	277	54	281	57	E	Y	Y	Y	Y	N	N	Y	Y	N	
+Western	0705	GW103	MLN1	Paddington – Old Oak Common West	0	05	3	20	E	N	N	E	N	N	N	E R1	E R1	R2	R1 Prohibited Paddington platforms 1, 2 and 4 R2 10 mph Kensal Green CSP Carriage lines 1 and 2 when laden
+Western	0705	GW103	MLN1	Old Oak Common West – Acton East Jn	3	20	4	07	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	Acton East Jn – West Ealing Jn	4	07	6	54	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	West Ealing Jn – Hanwell Jn	6	54	7	19	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	E	E	E	E	E	E	E	E R1	E R1	Y	R1 Prohibited West Drayton Up / Down Goods line platform
+Western	0705	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	E	E	E	E	E	E	E	E R1	E R1	Y	R1 Prohibited Twyford platform 5
+Western	0705	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	E	E	E	E	E	E	E	E	E	Y	
+Western	0705	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	E	E	E	Y	E	E	E	E	E	Y	

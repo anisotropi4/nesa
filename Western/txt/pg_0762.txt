@@ -3,75 +3,61 @@
 
                                       Western Route Sectional Appendix Module WR2
 
-   Line of
-        ELR Line of Route / Sectoroooo oooo oooo MK1
-                                                MK2 MK3 MK3 MK3MK3 MK4  Notes
-   route    Description         M  Ch M  Ch             MOD DVTDVT     ooooooooooooooooooooooooooo
+   Line of ELR                 oooo oooo oooo oooo MK1
+           Line of Route / Sector               MK2 MK3MK3 MK3 MK3 MK4 MK5ANotes
+   route   Description          M  Ch M  Ch            MOD DVT DVT        ooooooooooooooooooooooooooo
                                                                MOD
-   GW877 OVEMargam Abbey Works East Jn –
-                                 2  41 1  40 N   N   Y   N  N   N   N
-            Margam East Jn
-   GW877OVE Margam East Jn – Margam Yard Jn
-                                 1  40 0  79 N   N   Y   N  N   N   N
-   GW877OVE Margam Yard Jn – Network Rail
-                                 0  79 0  56 N   N   Y   N  N   N   N
-            Boundary (Port Talbot Docks)
-   GW890SDI1Briton Ferry Up Flying Loop Jn –
-                                206 14207 67 Y   Y   Y   N  N   N   N
-            Dynover Jn
-   GW890SDI1Dynover Jn – Jersey Marine Jn North
-                                207 67208 33 Y   Y   Y   N  N   N   N
-   GW890SDI1Jersey Marine Jn North – Change of
-                                208 33208 49 Y   Y   Y   N  N   N   N
-            Mileage
-   GW890SDI2Change of Mileage – Grovesend
-                                 0  00 10 05 Y   Y   Y   N  N   N   N
-            Colliery Loop Jn
-   GW890SDI2Grovesend Colliery Loop Jn – Morlais
-                                10  05 10 64 Y   Y   Y   N  N   N   N
-            Jn
-   GW8901RSBDynevor Jn – Jersey Marine South Jn
-                                19  16 20 24 N   N   N   N  N   N   N
-   GW892VON Network Rail Boundary (Cwmgwrach)
-                                33  14 41 17 N   N   N   N  N   N   N
-            – Neath & Brecon Jn
-   GW892VON Neath & Brecon Jn – Burrows
-                                41  17 46 30 N   N   N   N  N   N   N
-            Sidings
-   GW893 NABNetwork Rail Boundary (Onllwyn) –
-                                10  10 0  01 N   N   N   N  N   N   N
-            Neath and Brecon Jn
-   GW894 JERJersey Marine Jn North – Jersey
-                                 1  24 2  26 N   N   N   N  N   N   N
-            Marine Jn South
-   GW897HDY Grovesend Colliery Loop Jn – Hendy
-                                 0  00 0  46 Y   Y   Y   N  N   N   N
-            Jn
-   GW900BSW Ableton Lane Tunnel – Severn
-                                10  51 16 73 Y   Y   Y   N  N   N   N
-            Tunnel Jn
-   GW900SWM2 Severn Tunnel Jn – Maindee West Jn
-                                149 14158 16 Y   Y   Y   N  N   N  R1 R1Prohibited Severn Tunnel Jn to Llanwern
-                                                                   R2   West Jn
-                                                                   R3 R2Maximum speed 100mph
-                                                                      R3Tripcocks must be isolated
-   GW900SWM2 Maindee West Jn – Cardiff East Jn
-                                158 16170 18 Y   Y   Y   N  N   Y  R1 R1Maximum speed 100mph
-                                                                   R2 R2Tripcocks must be isolated
-   GW900SWM2 Cardiff East Jn – Cardiff West Jn
-                                170 18170 56 Y   Y   Y   N  N   Y  N
-   GW900SWM2Cardiff West Jn – Court Sart Jn
-                                170 56206 58 Y   Y   Y   N  N   Y  N
-   GW900SWM2 Court Sart Jn – Llandore Jn
-                                206 58214 62 Y   Y   Y   N  N   Y  N
-   GW900SWM2 Llandore Jn – Llandeilo Jn
-                                214 62223 49 Y   Y   Y   N  N   Y  N
-   GW900SWM2 Llandeilo Jn – Carmarthen Bridge Jn
-                                223 49245 32 Y   Y   Y   N  N   Y  N
-   GW900SWM2 Carmarthen Bridge Jn – Whitland Jn
-                                245 32259 01 Y   Y   Y   N  N   N  N
+   GW730SHL Severn Bridge Jn – Craven Arms Jn
+                                 0 11 20  01 Y   Y  Y   N   N   Y  R1    R1 Maximum speed 100mph
+                                                                   R2    R2 Tripcocks must be isolated
+   GW730SHL Craven Arms Jn – Shelwick Jn
+                                20 01 49  26 Y   Y  Y   N   N   Y  R1    R2 Maximum speed 100mph
+                                                                   R2    R2 Tripcocks must be isolated
+   GW730SHL Shelwick Jn – Site of former
+                                49 26 52  19 Y   Y  Y   N   N   Y  R1    R3 Maximum speed 100mph
+           Rotherwas Jn                                            R2    R2 Tripcocks must be isolated
+   GW730HDC Site of former Rotherwas Jn – Site of
+                                 0 00  1  74 Y   Y  Y   N   N   Y  R1    R4 Maximum speed 100mph
+           former Red Hill Jn                                      R2    R2 Tripcocks must be isolated
+   GW730 HNL1 Site of former Red Hill Jn – Maindee
+                                 1 74 41  66 Y   Y  Y   N   N   Y  R1    R5 Maximum speed 100mph
+           West Jn                                                 R2    R2 Tripcocks must be isolated
+   GW731 WSJ2 Route Boundary (MD801) (Madeley
+                               170 46 171 15 Y   Y  Y   Y   N   Y  N  H
+           Jn) – Abbey Foregate Jn
+   GW731 WSJ2 Abbey Foregate Jn – Crewe Jn
+                               171 15 171 57 Y   Y  Y   Y   N   Y  R1  H R1 Prohibited Abbey Foregate Jn to Severn Bridge Jn
+                                                                   R2  R2R2 Prohibited Shrewsbury platforms 5
+                                                                   R3  R4R3 Prohibited Shrewsbury platform 7 with crush deflated
+                                                                            suspension
+                                                                   R4
+                                                                         R4 Prohibited Shrewsbury Howard Street Landing
+                                                                   R5
+                                                                   R6    R5 Maximum speed 100mph
+                                                                         R6 Tripcocks must be isolated
+   GW731 WSJ2 Crewe Jn – Route Boundary
+                               171 57 199 00 Y   Y  Y   Y   N   Y  R1    R1 Maximum speed 100mph
+           (NW3005) (Wrexham General)                              R2    R2 Tripcocks must be isolated
+   GW732AFE Abbey Foregate Jn – English Bridge
+                                 0 25  0  00 Y   Y  Y   N   N   N  N
+           Jn (Loop Lines)
+   GW733 SBA1/ Sutton Bridge Jn – Welshpool
+                                 0 00 33  70 Y   Y  N   N   N   N  N
+         2
+   GW733 SBA2 Welshpool – Aberystwyth
+                                33 70  95 60 Y   Y  N   N   N   N  N
+   GW734DJP Dovey Jn – Pwllheli 78 60 132 70 Y   Y  N   N   N   N  N
+           Crewe Jn – Route Boundary
+   GW735 SYC                    32 29  2  60 Y   Y  Y   N   N   Y  N   H
+           (NW1007) (Limit of Electrification)
+   GW736 GNQ1 Gobowen South – Commencement of
+                                 0 00  0  16 N   N  N   N   N   N  N
+           single line board
+   GW740MAI Maindee East Jn – Maindee North Jn
+                                41 65 41  33 Y   Y  Y   N   N   N  R1    R1 Maximum speed 100mph
+                                                                   R2    R2 Tripcocks must be isolated
 
 
 
 
-    April 2009                                   500I
+    April 2009                                   500FA

@@ -3,77 +3,82 @@
 
                                       Western Route Sectional Appendix Module WR2
 
-   Line of ELR                 oooo oooo oooo oooo MK1
-            Line of Route / Sector              MK2 MK3 MK3 MK3MK3 MK4  Notes
-   route    Description         M  Ch M  Ch             MOD DVTDVT     ooooooooooooooooooooooooooo
-                                                               MOD
-   GW5401 PAC Filton West Jn No.1 – Patchway Jn
-                                 0  40 0  00 Y   Y   Y   N  N   N   N
-            No.1
-   GW548POD/ Parson Street Jn – Network Rail
-                                120 28126 34 N   N   N   N  N   N   N
-        PBY boundary (BPC)
-   GW560SWY Heywood Road Jn – Westbury North
-                                94  45 95 33 Y   Y   Y   N  N   N   N
-            Jn
-   GW560WEY Westbury North Jn – Fairwood Jn via
-                                109 49111 18 Y   Y   R1  N  N   N   N R1 Prohibited Westbury Down Reception line
-            Westbury                                                     between signal W202 and points 858
-   GW570WEY Clink Road Jn – Blatchbridge Jn via
-                                114 44116 52 Y   Y   Y   N  N   N   N
-            Frome
-   GW572FNS2 Frome North Jn – Change of ELR
-                                 0  00 2  38 N   N   N   N  N   N   N
-   GW572WQL Change of ELR – Network Rail
-                                 2  38 2  40 N   N   N   N  N   N   N
-            Boundary (Mendip Rail - Whatley
-            Quarry)
-   GW580ESB East Somerset Jn – Network Rail
-                                 0  11 5  48 Y   Y   Y   N  N   N   N
-            Boundary (East Somerset Railway -
-            Cranmore East)
-   GW600SWB Wootton Bassett Jn – Stoke Gifford Jn
-                                83  07111 79 Y   Y   Y   N  N   N   N
-            No.1
-   GW600SWB Stoke Gifford Jn No.1 – Patchway Jn
-                                111 79112 68 Y   Y   Y   N  N   N   N
-            No.2
-   GW600BSW Patchway Jn No.2 – Route Boundary
-                                 5  61 9  12 Y   Y   Y   N  N   N   N
-            Wales
-   GW600BSW Route Boundary – Ableton Lane
-                                 9  12 10 51 Y   Y   Y   N  N   N   N
-            Tunnel (GW900)
-   GW606DAC Cowley Bridge Jn – Crediton SB
-                                173 50179 26 Y   Y   Y   N  N   N   N
-   GW606NDN Crediton SB – End of Line
-                                179 26211 31 Y   Y   Y   N  N   N   N
-            (Barnstaple)
-   GW608DAC Crediton – Former Coleford Jn
-                                179 26183 69 Y   Y   Y   N  N   N   N
-   GW608DAC Former Coleford Jn – Meldon Quarry
-                                183 69198 72 N   N   N   N  N   N   N
-   GW610BAE2 Route Boundary (SW115) (Honiton) –
-                                164 30172 04 Y   Y   Y   N  N   N   N
-            Exeter St Davids Jn
-   GW611EMT Exmouth Jn – Exmouth 0  01 9  32 Y   Y   Y   N  N   N   N
-   GW618MOB Newton Abbott East Jn – End of Line
-                                 0  14 4  07 N   N   N   N  N   N   N
-            (Beyond Heathfield)
-   GW620TOR Newton Abbott West Jn – Paignton
-                                214 43222 25 Y   Y   Y   N  N   N   N
-            Crossover Ground Frame
-   GW628SUT1 Laira Jn – Speedway Jn
-                                244 02244 30 Y   Y   Y   N  N   N   N
-   GW628PLO Lipson Jn – Speedway Jn
-                                 0  00 0  22 Y   Y   Y   N  N   N   N
-   GW628SUT1 Speedway Jn – Mount Gould Jn
-                                244 30244 43 Y   Y   Y   N  N   N   N
-   GW628SUT2 Mount Gould Jn – Former Friary Jn
-                                244 41244 60 Y   Y   Y   N  N   N   N
-   GW628FRY Former Friary Jn – Turnchapel Branch
-                                244 60245 17 Y   Y   Y   N  N   N   N
-            Jn
+       Line of ELR                 oooo oooo oooo oooo MK1
+               Line of Route / Sector               MK2 MK3MK3 MK3 MK3 MK4 Notes
+       route   Description          M  Ch M  Ch            MOD DVT DVT    ooooooooooooooooooooooooooo
+                                                                   MOD
+       GW105 MLN1 Thingley Jn – North Somerset Jn
+                                    96 10 117 46 Y   Y  Y   N   N   N  N
+       GW105 MLN1 North Somerset Jn – Feeder Bridge Jn 117
+                                       46 117 50 Y   Y  Y   N   N   N  N
+       GW105 MLN1 Feeder Bridge Jn – Bristol East Jn
+                                   117 50 118 02 Y   Y  Y   N   N   N  N
+       GW105 MLN1 Bristol East Jn – Bristol West Jn
+                                   118 02 118 58 Y   Y  R1  N   N   N  N  R1Prohibited Bristol Temple Meads Platform
+                                                                            2 and adjacent sidings
+       GW105MLN1 Bristol West Jn – Parson Street Jn
+                                    11858 120 28 Y   Y   Y  N   N   N  N
+       GW105MLN1 Parson Street Jn – Worle Jn
+                                    12028 135 11 Y   Y   Y  N   N   N  N
+       GW105MLN1 Worle Jn – Uphill Jn (direct)
+                                    13511 138 04 Y   Y   Y  N   N   N  N
+       GW105MLN1 Uphill Jn – Fordgate
+                                    13804 154 12 Y   Y   Y  N   N   N  N
+       GW107WSM Worle Jn – Uphill Jn via
+                                    13511 139 05 Y   Y   Y  N   N   N  N
+               Weston-Super-Mare
+       GW108MLN1 Fordgate – Cogload Jn (Up)
+                                    15412 158 23 Y   Y   Y  N   N   N  N
+       GW108MLN1 Cogload Jn (Up) – Norton Fitzwarren
+                                    15823 164 60 Y   Y   Y  N   N   N  N
+               Jn (Connection - West Somerset
+               Railway)
+       GW108MLN1 Norton Fitzwarren Jn (Connection -
+                                    16440 192 52 Y   Y   Y  N   N   N  N
+               West Somerset Railway) – Cowley
+               Bridge Jn
+       GW108MLN1 Cowley Bridge Jn – Exeter St Davids
+                                    19252 194 00 Y   Y   Y  N   N   N  N
+               Jn
+       GW108MLN1 Exeter St Davids Jn – Newton Abbot
+                                    19400 213 75 Y   Y   Y  N   N   N  N
+               East Jn
+       GW108MLN1 Newton Abbot East Jn – Newton
+                                    21375 214 43 Y   Y   Y  N   N   N  N
+               Abbot West Jn
+       GW108MLN1 Newton Abbot West Jn – Tavistock Jn
+                                    21443 242 55 Y   Y   Y  N   N   N  N
+               Yard
+       GW108MLN1 Tavistock Jn Yard – Laira Jn
+                                    24255 243 67 Y   Y   Y  N   N   N  N
+       GW108MLN1 Laira Jn – Lipson Jn
+                                    24367 244 35 Y   Y   Y  N   N   N  N
+       GW108MLN1 Lipson Jn – Change of ELR (Site of
+                                    24435 246 15 Y   Y   Y  N   N   N  N
+               Former Devonport Jn / Cornwall Loop)
+       GW108MLN2 Change of ELR (Site of Former
+                                    24728 250 00 Y   Y   Y  N   N   N  N
+               Devonport Jn / Cornwall Loop) – St
+               Budeaux Jn
+       GW108MLN2 St Budeaux Jn – Change of ELR
+                                    25000 256 38 Y   Y   Y  N   N   N  N
+       GW108MLN3 Change of ELR – Liskeard Jn
+                                    25640 264 66 Y   Y   Y  N   N   N  N
+       GW108MLN3 Liskeard Jn – Lostwithiel Jn
+                                    26466 277 54 Y   Y   Y  N   N   N  N
+       GW108MLN3 Lostwithiel Jn – Par Loop Jn
+                                    27754 281 57 Y   Y   Y  N   N   N  N
+       GW108MLN3 Par Loop Jn – Burngullow Jn
+                                    28157 288 26 Y   Y   Y  N   N   N  N
+       GW108MLN3 Burngullow Jn – Penwithers Jn
+                                    28826 301 25 Y   Y   Y  N   N   N  N
+       GW108MLN3 Penwithers Jn – Change of ELR
+                                    30125 305 65 Y   Y   Y  N   N   N  N
+       GW108MLN4 Change of ELR – St Erth Jn
+                                    30567 320 73 Y   Y   Y  N   N   N  N
+       GW108MLN4 St Erth Jn – Penzance
+                                    32073 326 50 Y   Y   Y  N   N   N  N
 
 
-    April 2009                                   500E
+
+    April 2009                                   500A

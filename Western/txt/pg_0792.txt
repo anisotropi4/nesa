@@ -4,52 +4,46 @@
                                          Western Route Sectional Appendix Module WR2
 
          Line of ELR
-                  Line of Route / Sector
+                 Line of Route / Sector
                                      oooo oooo oooo oooo RA
-                                                     60 6667 68 70 7388 97/3 Notes
-         route    Description         M  Ch M  Ch 000  000 000 000 000 00
-                                                                     00   ooooooooooooooooooooooooooo
+                                                      4347/2 47/4 47/7
+                                                                   56 57 58 59 Notes
+         route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
 
-         GW220 RWCReading, Oxford Road Jn – Reading
-                                       0  43 0  02 8  Y Y  Y  Y Y  Y  Y  Y
-                  West Jn
-         GW225 RFRCaversham Road Jn – Oxford Road
-                                      36  25 36 74 8  Y Y  Y  N Y  N  Y N
-                  Jn
-         GW240 DECDidcot East Jn – Didcot North Jns
-                                      52  66 54 00 8  Y Y  Y  Y Y  Y  Y  Y
-         GW250 DWCFoxhall Jn – Didcot West Curve Jn
-                                       0  01  0 32 8  Y Y  Y  Y Y  Y  Y  Y
-         GW260 THAKennington Jn – Morris Cowley
-                                      18  45 16 04 7  Y Y  R1 Y Y  Y  Y  Y R1Operation in single headed or ‘top and tail’
-                                                                             mode with track recording and track
-                                                                             Inspection coaches only
-         GW277 OXDOxford North Jn – Route Boundary
-                                      30  09 29 25 8  Y Y  Y  Y Y  Y  Y  Y
-                  (MD736) (29m 25ch)
-         GW310 OWWWolvercot Jn – Norton Jn
-                                       66 32112 00 7  Y Y  Y  Y Y  Y  Y  Y
-         GW317 OWWHoneybourne Stratford Line Junction
-                                      102 06101 31 7  N Y  R1 Y Y  Y  Y  Y R110mph maximum speed
-                  – Start of branch mileage
-         GW317 STDStart of branch mileage – Long
-                                       0  00 2  70 7  N Y  R1 Y Y  Y  Y  Y R110mph maximum speed
-                  Marston
-         GW401 BAG2
-                  Route Boundary (MD306)
-                                       77 40 92 21 8  Y Y  Y  Y Y  Y  Y  Y
-                  (Ashchurch) – Gloucester Barnwood
-                  Jn (Change of ELR)
-         GW401 CHLGloucester Barnwood Jn (Change of
-                                       92 21 93 08 8  Y Y  Y  Y Y  Y  Y  Y
-                  ELR) – Gloucester Yard Jn (Change
-                  of ELR)
-         GW401 BGL1
-                  Gloucester Yard Jn (Change of ELR)
-                                       93 08 94 10 8  Y Y  Y  Y Y  Y  Y  Y
-                  – Change of ELR
+                 Former Jn (Change of ELR) –
+         GW915 GNT                    14 60 10  04 5  N  Y  Y  Y   Y  Y  Y  N
+                 Pantyffynnon
+                 Carmarthen Jn – End of Line (Beyond
+         GW930 CAN                   245 10 245 65 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Carmarthen Station)
+                 Up Sidings No.2 GF – Carmarthen
+         GW940 CAN/                  245 43 245 32 8  Y  Y  Y  Y   Y  Y  Y  Y
+              CNWBridge Jn
+                 Whitland Jn – Pembroke RA Change
+         GW950 PEM                   259 01 284 22 7  Y  Y  Y  Y   Y  Y  Y  Y
+                 Pembroke RA Change – Pembroke
+         GW950 PEM                   284 22 286 26 6  Y  Y  Y  Y   Y  Y  Y  Y
+                 Dock
+                 Clarbeston Road – Haverfordwest
+         GW960 SWM                   271 08 276 08 8  Y  Y  Y  Y   Y  Y  Y  Y
+              2
+         GW960 SWM Haverfordwest – Change of ELR (Site
+                                     276 08 280 70 8  Y  Y  Y  Y   Y  Y  Y  Y
+              2  of Former Johnston Jn)
+         GW960 MIL
+                 Change of ELR (Site of Former
+                                     280 70 283 12 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Johnston Jn) – Herbranston Jn
+                 Herbranston Jn – End of Line (Beyond
+         GW960 MIL                   283 12 284 71 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Milford Haven)
+                 Gulf Oil Branch Jn – Waterston, Gulf
+         GW970 GOB                     0 00  2  35 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Oil Refinery
+                 Herbrandston Jn – Robeston
+         GW980 ERB                     0 00  1  18 8  N  Y  Y  Y   Y  Y  Y  Y
 
 
 
 
-         April 2009                                 506
+         April 2009                                 502K

@@ -1,69 +1,88 @@
                                                   OFFICIAL
 
 
-                                        Western Route Sectional Appendix Module WR2
-
-         Table D4C – Route clearance of locomotives
-                                                                                        Last Updated: 19/03/2022
-         To be read in conjunction with General Notes.
-         Class 67 – Additional speed restrictions are detailed on the current Vehicle/Infrastructure Summary of Compatibility documentation
-         Class 92 locomotives may additionally be dead hauled on any route that conforms to W6a and RA7 provided that the ‘Battery Isolation Switch’ is set to the ‘Isolate’ position
+                                         Western Route Sectional Appendix Module WR2
 
          Line of ELR
-                  Line of Route / Sector
+                 Line of Route / Sector
                                      oooo oooo oooo oooo RA
-                                                     60 6667 68 70 7388 97/3 Notes
-         route    Description         M  Ch M  Ch 000  000 000 000 000 00
-                                                                     00   ooooooooooooooooooooooooooo
-                  Paddington – Old Oak Common West
-         GW103 MLN1                    0  05 3  20 8  Y Y  Y  Y Y  Y  Y  Y
-                  Old Oak Common West – Acton East
-         GW103 MLN1                    3  20 4  07 8  Y Y  Y  Y Y  Y  Y  Y
-                  Jn
-                  Acton East Jn – West Ealing Jn
-         GW103 MLN1                    4  07 6  54 8  Y Y  Y  Y Y  Y  Y  Y
-                  West Ealing Jn – Hanwell Jn
-         GW103 MLN1                    6  54 7  19 8  Y Y  Y  Y Y  Y  Y  Y
-                  Hanwell Jn – Heathrow Airport Jn
-         GW103 MLN1                    7  19 11 15 8  Y Y  Y  Y Y  Y  Y  Y
-                  (Down Main)
-                  Heathrow Airport Jn (Down Main) –
-         GW103 MLN1                   11  15 12 09 8  Y Y  Y  Y Y  Y  Y  Y
-                  Stockley Bridge Jn (Limit of
-                  Electrification)
-                  Stockley Bridge Jn (Limit of
-         GW103 MLN1                   12  09 18 36 8  Y Y  Y  Y Y  Y  Y  Y
-                  Electrification) – Slough
-                  Slough – Maidenhead Jn
-         GW103 MLN1                   18  36 24 24 8  Y Y  Y  Y Y  Y  Y  Y
-                  Maidenhead Jn – Henley Branch Jn
-         GW103 MLN1                   24  24 31 04 8  Y Y  Y  Y Y  Y  Y  Y
-                  Henley Branch Jn – Reading New Jn
-         GW103 MLN1                   31  04 35 40 8  Y Y  Y  Y Y  Y  Y  Y
-                  Reading New Jn – Westbury Line Jn
-         GW103 MLN1                   35  40 36 17 8  Y Y  Y  Y Y  Y  Y  Y
-         GW103 RLLReading East Jn – Route Boundary
-                                      35  61 35 38 8  Y Y  Y  Y Y  Y  Y  Y
-                  (SW210 ) (Reading Southern Jn)
-                  Westbury Line Jn – Reading West Jn
-         GW103 MLN1                   36  17 36 78 8  Y Y  Y  Y Y  Y  Y  Y
-                  Reading West Jn – Didcot East Jn
-         GW103 MLN1                   36  78 52 66 8  Y Y  Y  Y Y  Y  Y  Y
-                  Didcot East Jn – Chester Line Jn
-         GW103 MLN1                   52  66 53 12 8  Y Y  Y  Y Y  Y  Y  Y
-                  Chester Line Jn – Foxhall Jn
-         GW103 MLN1                   53  12 53 55 8  Y Y  Y  Y Y  Y  Y  Y
-                  Foxhall Jn – Uffington
-         GW103 MLN1                   53  55 66 39 8  Y Y  R1 Y Y  Y  Y  Y R1120mph maximum speed between Swindon
-                                                                             and Didcot (Up Main 64m 70ch to 63m 40ch)
-                  Uffington – Swindon Jn
-         GW105 MLN1                   66  39 77 36 8  Y Y  Y  Y Y  Y  Y  Y
-                  Swindon Jn – Wootton Bassett Jn
-         GW105 MLN1                   77  36 83 07 8  Y Y  Y  Y Y  Y  Y  Y
-                  Wootton Bassett Jn – Thingley Jn
-         GW105 MLN1                   83  07 96 10 8  Y Y  Y  Y Y  Y  Y  Y
-                  Thingley Jn – North Somerset Jn
-         GW105 MLN1                   96  10117 46 8  Y Y  Y  Y Y  Y  Y  Y
+                                                      4347/2 47/4 47/7
+                                                                   56 57 58 59 Notes
+         route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+
+                 Park Jn – Park Jn SB
+         GW780 WVL                    1  02  0  74 8  N  Y  Y  Y   Y  Y  Y  Y
+         GW780 NWN Park Jn SB – Ebbw Jn
+                                      0  54  0  00 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Alexandra Dock Jn – Network Rail
+         GW784 NLL                   159 60 160 27 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Boundary (Newport Docks)
+                 Pengam Jn – Change of ELR
+         GW790 ROC                   168 20 168 61 7  N  Y  Y  Y   Y  Y  Y  Y
+                 Change of ELR – Network Rail
+         GW790 ROA                    3  41  4  54 7  N  Y  Y  Y   Y  Y  Y  Y
+                 Boundary (ABP Cardiff Docks)
+                 End of Line (Rhymney) – Ystrad
+         GW810 CAR                    24 00 13  41 6  Y  Y  Y  Y   B  B  B  B
+                 Mynach South Jn
+                 Ystrad Mynach South Jn – Heath Jn
+         GW810 CAR                    13 41  3  32 6  Y  Y  Y  Y   Y  Y  Y  Y
+                 Heath Jn – Cardiff Queen Street North
+         GW810 CAR                    3  32  1  22 6  Y  Y  Y  Y   Y  Y  Y  Y
+                 Jn
+         GW820 TBD
+                 Network Rail Boundary (Cwmbargoed)
+                                      19 59 13  53 8  N  Y  Y  Y   Y  Y  Y  Y
+                 – Site of Former Taff Bargoed Branch
+                 Jn
+         GW820 VON
+                 Site of Former Taff Bargoed Branch
+                                      13 53 12  41 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Jn – Site of Former Penallta Jn
+                 Site of Former Penallta Jn – Ystrad
+         GW820 PTA                    15 01 13  41 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Mynach South Jn
+                 Coryton – Heath Jn
+         GW828 CRY                    2  57  0  15 6  N  Y  N  Y   N  N  N  N
+                 Merthyr Tydfil – Abercynon Jn
+         GW830 CAM                    24 44 16  35 6  N  Y  N  Y   N  N  N  N
+                 Abercynon Jn – Pontypridd Jn
+         GW830 CAM                    16 35 13  04 6  N  Y  N  Y   N  N  N  N
+                 Pontypridd Jn – Radyr Jn
+         GW830 CAM                    13 04  5  23 6  N  Y  Y  Y   Y  Y  Y  Y
+                 Radyr Jn – Queen Street North Jn
+         GW830 CAM                    5  23  1  17 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Queen Street North Jn – Queen Street
+         GW830 CAM                    1  17  0  66 8  N  Y  Y  Y   Y  Y  Y  Y
+                 South Jn
+                 Queen Street South Jn – Cardiff East
+         GW830 CEJ                    0  22  0  00 8  N  Y  Y  Y   Y  Y  Y  Y
+                 Jn
+         GW830 SWM Cardiff East Jn – Cardiff West Jn
+                                     170 18 170 56 8  Y  Y  Y  Y   Y  Y  Y  Y
+              2
+                 Cardiff West Jn – Barry Jn
+         GW830 BRY                    0  10  8  16 8  Y  Y  Y  Y   Y  Y  Y  Y
+                 Barry Jn – Buffer Stops (Barry Island)
+         GW830 BRY                    8  16  8  76 6  Y  Y  N  Y   N  N  N  N
+                 Network Rail Boundary – Aberdare
+         GW834 VON                    26 62 22  34 6  N  Y  Y  Y   Y  Y  Y  Y
+         GW834 VON/ Aberdare – Cwmbach Change of ELR
+                                      22 34 20  68 6  N  Y  Y  Y   Y  Y  Y  Y
+              ALK
+         GW834 ABD/ Cwmbach Change of ELR –
+                                      22 01 16  35 6  N  Y  Y  Y   Y  Y  Y  Y
+              MOA Abercynon Jn (Including Mountain Ash
+                 Down Loop ELR MOA)
+                 End of Line – Treherbert
+         GW835 THT                    23 69 23  54 6  N  Y  B  Y   N  N  N  N
+                 Treherbert – Pontypridd Jn
+         GW835 THT                    23 54 13  04 6  N  Y  B  Y   N  N  N  N
+                 Queen Street South Jn – Cardiff Bay
+         GW839 CAM                    0  66  0  02 6  N  Y  N  Y   N  N  N  N
+                 Radyr Jn – Leckwith Loop South Jn
+         GW840 RAD                    4  41  0  69 8  Y  Y  Y  Y   Y  Y  Y  Y
 
 
-         April 2009                                 503
+
+         April 2009                                 502H

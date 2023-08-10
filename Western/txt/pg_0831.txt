@@ -4,55 +4,55 @@
                                          Western Route Sectional Appendix Module WR2
 
 
-         Table D5C – Locomotive Gauge Clearance Table
-                                                                                        Last Updated: 19/03/2022
-         Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
-         Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
-           below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
-           Compatibility prior to operation over Network Rail infrastructure.
-         Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
-         Gauge clearance for steam locomotives is considered under a separate process.
-         The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
-         Y    Route conforms to locomotive gauge without restriction.
-         R    Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
-         N    Route does not conform to locomotive gauge
 
-         Line of
-              ELR  Line of Route / Sector
-                                      oooo oooo oooo oooo RA
-                                                      Loco Gauge
-                                                               Notes
-         route     Description         M  Ch M  Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-         GW103 MLN1Paddington – Old Oak Common West
-                                        0  05  3 20 8     R1  R1 Prohibited Paddington platform 6
-                                                          R2  R2 Prohibited Paddington platform 7
-         GW103 MLN1Old Oak Common West – Acton East
-                                        3  20  4 07 8     Y
-                   Jn
-         GW103 MLN1Acton East Jn – West Ealing Jn
-                                        4  07  6 54 8     Y
-         GW103 MLN1West Ealing Jn – Hanwell Jn
-                                        6  54  7 19 8     Y
-         GW103 MLN1Hanwell Jn – Heathrow Airport Jn
-                                        7  19 11 15 8     Y
-                   (Down Main)
-         GW103 MLN1Heathrow Airport Jn (Down Main line)
-                                        11 15 12 09 8     Y
-                   – Stockley Bridge Jn (Limit of
-                   Electrification)
-         GW103 MLN1Stockley Bridge Jn (Limit of
-                                        12 09 18 36 8     Y
-                   Electrification) – Slough
-         GW103 MLN1Slough – Maidenhead Jn
-                                        18 36 24 24 8     Y
-         GW103 MLN1Maidenhead Jn – Henley Branch Jn
-                                        24 24 31 04 8     Y
-         GW103 MLN1Henley Branch Jn – Reading New Jn
-                                        31 04 35 40 8     Y
-         GW103 MLN1Reading New Jn – Westbury Line Jn
-                                        35 40 36 17 8     R1  R1 Prohibited Reading platform 7 (Down Main line)
+          Line of
+               Line of Route / Sector Description       Gauge                     Notes
+          route
+                                     W6a   W7   W8    W9   W9PlusW10   W10A  W12
 
+          GW874Bridgend, Llynfi Jn – Tondu
+                                     Y*    Y     Y     N    N     N     N     N
 
+          GW874Tondun – Maesteg      Y     N     N     N    N     N     N     N
+
+          GW877Margam Abbey East / Newlands Loop
+                                     Y*    Y     Y     N    N     N     N     N
+               Jn – Port Talbot Docks (Ogmore Vale
+               Extension)
+
+          GW890Court Sart Jn / Up Flying Loop Jn –
+                                     Y*    Y     Y     N    N     N     N     N
+               Dynover Jn (Swansea District Line)
+
+          GW890Dynover Jn – Morlais Jn
+                                     S1 *  N     N     N    N     N     N     N  S1 Freight vehicles conforming to
+                                                                                   the W6a profile are permitted,
+                                                                                   EXCEPT IFA-S IFA-U
+                                                                                   wagons at
+                                                                                   Lonlas Tunnel [1m 07ch -
+                                                                                   1m 50ch]
+
+               Dynevor Jn – Jersey Marine South Jn
+          GW8901                     Y*    Y     Y     N    N     N     N     N
+
+          GW892Cwmgwrach – Neath & Brecon Jn
+                                     Y*    N     N     N    N     N     N     N
+
+          GW892Neath & Brecon Jn – Burrows Sidings
+                                     Y     Y     Y     N    N     N     N     N
+
+          GW893Onllwyn – Neath and Brecon Jn
+                                     Y     Y     Y     N    N     N     N     N
+
+          GW894Jersey Marine Jn North – Jersey
+                                     Y     Y     Y     N    N     N     N     N
+               Marine Jn South
+
+          GW897Grovesend Colliery Loop Jn – Hendy
+                                     Y     N     N     N    N     N     N     N
+               Jn
 
 
-         April 2009                                 526A
+
+
+         April 2009                                 525B

@@ -1,21 +1,14 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0723	GW108	MLN1	Lipson Jn – Change of ELR (Site of Former Devonport Jn / Cornwall Loop)	244	35	246	15	N	R1 R2 R3 R4	N	E R1 R5	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN2	Change of ELR (Site of Former Devonport Jn / Cornwall Loop) – St Budeaux Jn	247	28	250	00	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN2	St Budeaux Jn – Change of ELR	250	00	256	38	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN3	Change of ELR – Liskeard Jn	256	40	264	66	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN3	Liskeard Jn – Lostwithiel Jn	264	66	277	54	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN3	Lostwithiel Jn – Par Loop Jn	277	54	281	57	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN3	Par Loop Jn – Burngullow Jn	281	57	288	26	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN3	Burngullow Jn – Penwithers Jn	288	26	301	25	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN3	Penwithers Jn – Change of ELR	301	25	305	65	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN4	Change of ELR – St Erth Jn	305	67	320	73	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW108	MLN4	St Erth Jn – Penzance	320	73	326	50	N	N	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0723	GW110	ANL	Old Oak Common West – Greenford East Jn	3	20	7	15	Y	Y	Y	N	N	Y	Y	Y	N	Y	Y	Y
-Western	0723	GW110	ANL	Greenford East Jn – Greenford West Jn	7	15	7	48	Y	Y	Y	N	N	Y	Y	Y	N	Y	Y	N
-Western	0723	GW110	ANL	Greenford West Jn – Route Boundary (MD705) (Northolt Jn)	7	48	8	60	Y	Y	Y	N	N	Y	Y	Y	N	Y	Y	N
-Western	0723	GW117	GEC	Greenford East Jn – Greenford South Jn	8	70	8	45	Y	Y	Y	N	N	R1	Y	Y	N	Y	Y	Y
-Western	0723	GW130	AWL	Route Boundary (EA1310) (Acton Wells Jn) – Acton East Jn	0	39	0	08	Y	Y	E	N	Y	E	Y	E	N	Y	Y	Y
-Western	0723	GW174	WEL1	West Ealing Jn – Drayton Green Jn	6	56	7	03	Y	Y	E	N	Y	Y	Y	Y	N	Y	Y	Y
-Western	0723	GW174	WEL1	Drayton Green Jn – Greenford South Jn	7	03	8	45	Y	Y	E	N	Y	Y	Y	Y	N	Y	Y	Y
-Western	0723	GW174	WEL1	Greenford South Jn – Greenford LUL Bay Jn	8	45	8	65	Y	Y	E	N	Y	Y	N	N	N	Y	Y	N
-Western	0723	GW174	WEL1	Greenford LUL Bay Jn – Greenford West Jn	8	65	8	76	Y	Y	E	N	Y	Y	N	N	N	Y	Y	N
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notesooooooooooooooooooooo
+Western	0723	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	Y	Y	R1 R2	N	R3	Y	Y	N	R4	R4	N	R1 Prohibited Reading platforms 3 to 15 R2 Prohibited between Reading and Reading New Jn R3 Route prohibited to Class 172/2 and 172/3 R4 100mph between Reading New Jn and Reading
+Western	0723	GW103	RLL	Reading East Jn – Route Boundary (SW210) (Reading Southern Jn)	35	61	35	38	Y	N	N	N	N	N	Y	N	Y	Y	N	
+Western	0723	GW103	MLN1	Westbury Line Jn – Reading West Jn	36	17	36	78	Y	Y	N	N	R1	Y	Y	N	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
+Western	0723	GW103	MLN1	Reading West Jn – Didcot East Jn	36	78	52	66	Y	Y	N	N	R1	Y	Y	N	Y	Y	N	R1 Route prohibited to Class 172/2 and 172/3
+Western	0723	GW103	MLN1	Didcot East Jn – Chester Line Jn	52	66	53	12	Y	Y	N	N	R1	Y	Y	N	R2 R3	R2 R3	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph between Didcot and Chester Line Jn R3 Prohibited Didcot platform 4 with deflated secondary suspension
+Western	0723	GW103	MLN1	Chester Line Jn – Foxhall Jn	53	12	53	55	Y	N	N	N	N	Y	Y	N	R1	R1	N	R1 100mph maximum speed
+Western	0723	GW103	MLN1	Foxhall Jn – Uffington	53	55	66	39	Y	N	N	N	N	Y	Y	N	R1	R1	N	R1 100mph maximum speed
+Western	0723	GW105	MLN1	Uffington – Swindon Jn	66	39	77	36	Y	N	N	N	N	Y	Y	N	R2	R2	N	R1 Prohibited Swindon platform 2 R2 100mph maximum speed
+Western	0723	GW105	MLN1	Swindon Jn – Wootton Bassett Jn	77	36	83	07	Y	N	N	N	N	Y	Y	N	R1	R1	N	R1 100mph maximum speed
+Western	0723	GW105	MLN1	Wootton Bassett Jn – Thingley Jn	83	07	96	10	Y	N	N	N	N	Y	Y	N	R1	R1	N	R1 100mph maximum speed
+Western	0723	GW105	MLN1	Thingley Jn – North Somerset Jn	96	10	117	46	Y	N	R2	N	N	Y	Y	N	R1	R1	N	R1 100mph between Thingley Jn and Box Middle Hill Tunnel R2 - Prohibited Thingley Jn - St Annes Park or (Bristol) No.2 Tunnel
+Western	0723	GW105	MLN1	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	Y	N	Y	N	N	Y	Y	N	Y	Y	N	
+Western	0723	GW105	MLN1	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	Y	N	Y	N	N	Y	Y	N	Y	Y	N	

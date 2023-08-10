@@ -1,16 +1,11 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166 RHM	168	170	171	172	175	180	196	220	221	222	Notes
-Western	0722	GW105	MLN1	Bristol East Jn – Bristol West Jn	118	02	118	58	R1	Y	N	R2 R3 R4 R5	N	N	Y	R6	N	R6	R6	N
-Western	0722	GW105	MLN1	Bristol West Jn – Parson Street Jn	118	58	120	28	R1	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW105	MLN1	Parson Street Jn – Worle Jn	120	28	135	11	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW105	MLN1	Worle Jn – Uphill Jn (direct)	135	11	138	04	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW105	MLN1	Uphill Jn – Fordgate	138	04	154	12	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW107	WSM	Worle Jn – Uphill Jn via Weston-Super-Mare	135	11	139	05	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Fordgate – Cogload Jn (Up)	154	12	158	23	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Cogload Jn (Up) – Norton Fitzwarren Jn (Connection - West Somerset Railway)	158	23	164	60	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Norton Fitzwarren Jn (Connection - West Somerset Railway) – Cowley Bridge Jn	164	40	192	52	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Cowley Bridge Jn – Exeter St Davids Jn	192	52	194	00	N	Y	N	N	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Exeter St Davids Jn – Newton Abbot East Jn	194	00	213	75	N	Y	N	E	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Newton Abbot East Jn – Newton Abbot West Jn	213	75	214	43	N	R1	N	E	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Newton Abbot West Jn – Tavistock Jn Yard	214	43	242	55	N	Y	N	E	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Tavistock Jn Yard – Laira Jn	242	55	243	67	N	Y	N	E	N	N	Y	Y	N	Y	Y	N
-Western	0722	GW108	MLN1	Laira Jn – Lipson Jn	243	67	244	35	N	Y	N	E	N	N	Y	Y	N	Y	Y	N
+Western	0722	GW103	MLN1	Paddington – Old Oak Common West	0	05	3	20	Y	Y	N	N	R2 R3	Y	Y	N	R4	R4	R5	R1 10 mph Kensal Green CSP Carriage lines 1 and 2 when laden R2 Prohibited Paddington platform 2 R3 15mph Paddington platform 4 R4 100mph maximum speed R5 Prohibited between Paddington and Kensal Green
+Western	0722	GW103	MLN1	Old Oak Common West – Acton East Jn	3	20	4	07	Y	Y	N	N	Y	Y	Y	N	R1	R1	Y	R1 100mph maximum speed
+Western	0722	GW103	MLN1	Acton East Jn – West Ealing Jn	4	07	6	54	Y	Y	N	Y	Y	Y	Y	N	R1	R1	Y	R1 100mph maximum speed
+Western	0722	GW103	MLN1	West Ealing Jn – Hanwell Jn	6	54	7	19	Y	Y	N	Y	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0722	GW103	MLN1	Hanwell Jn – Heathrow Airport Jn (Down Main)	7	19	11	15	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0722	GW103	MLN1	Heathrow Airport Jn (Down Main) – Stockley Bridge Jn (Limit of Electrification)	11	15	12	09	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0722	GW103	MLN1	Stockley Bridge Jn (Limit of Electrification) – Slough	12	09	18	36	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0722	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0722	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed
+Western	0722	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	Y	Y	N	N	R1	Y	Y	N	R2	R2	N	R1 Route prohibited to Class 172/2 and 172/3 R2 100mph maximum speed

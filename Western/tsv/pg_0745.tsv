@@ -1,26 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	332	345	360	387	Notes
-Western	0745	GW860	CPL	Penarth Curve North Jn – Penarth Curve South Jn	0	25	0	00	H	N	N	N	N	
-Western	0745	GW864	PTH	Cogan Jn – Penarth	0	01	1	12	H	N	N	N	N	
-Western	0745	GW870	VOG	Barry Jn – Bridgend Bay Platform	0	00	19	04	H	N	N	N	N	
-Western	0745	GW871	FOR	Ford Siding GF – Network Rail Boundary (Ford Works, Waterton)	0	00	1	18	N	N	N	N	N	
-Western	0745	GW874	BAL	Llynfi Jn – Tondu Jn	0	07	2	70	H	N	N	N	N	
-Western	0745	GW874	BAL	Tondu Jn – Maesteg	2	70	8	06	H	N	N	N	N	
-Western	0745	GW877	POR	Tondu Jn – Cefn Jn	0	00	2	43	H	N	N	N	N	
-Western	0745	GW877	OVE	Cefn Jn – Margam Abbey Works East Jn	7	41	2	41	H	N	N	N	N	
-Western	0745	GW877	OVE	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	N	N	N	N	N	
-Western	0745	GW877	OVE	Margam East Jn – Margam Yard Jn	1	40	0	79	N	N	N	N	N	
-Western	0745	GW877	OVE	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	N	N	N	N	N	
-Western	0745	GW890	SDI1	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	H	N	N	N	N	
-Western	0745	GW890	SDI1	Dynover Jn – Jersey Marine Jn North	207	67	208	33	H	N	N	N	N	
-Western	0745	GW890	SDI1	Jersey Marine Jn North – Change of Mileage	208	33	208	49	H	N	N	N	N	
-Western	0745	GW890	SDI2	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	H	N	N	N	N	
-Western	0745	GW890	SDI2	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	H	N	N	N	N	
-Western	0745	GW8901	RSB	Dynevor Jn – Jersey Marine South Jn	19	16	20	24	N	N	N	N	N	
-Western	0745	GW892	VON	Network Rail Boundary (Cwmgwrach) – Neath & Brecon Jn	33	14	41	17	N	N	N	N	N	
-Western	0745	GW892	VON	Neath & Brecon Jn – Burrows Sidings	41	17	46	30	N	N	N	N	N	
-Western	0745	GW893	NAB	Network Rail Boundary (Onllwyn) – Neath and Brecon Jn	10	10	0	01	N	N	N	N	N	
-Western	0745	GW894	JER	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	N	N	N	N	N	
-Western	0745	GW897	HDY	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	H	N	N	N	N	
-Western	0745	GW900	BSW	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	H	N	N	N	Y	
-Western	0745	GW900	SWM 2	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	H	N	N	N	Y	
-Western	0745	GW900	SWM 2	Maindee West Jn – Cardiff East Jn	158	16	170	18	H	N	N	N	Y	
+Western	0745	GW530	BLL	Feeder Bridge Jn – Dr Day’s Jn (Rhubarb Loop)	117	50	117	73	H	N	N	N	N	
+Western	0745	GW540	BSW	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	H	N	N	N	N	
+Western	0745	GW5401	PAC	Filton West Jn No.1 – Patchway Jn No.1	0	40	0	00	H	N	N	N	N	
+Western	0745	GW548	POD/ PBY	Parson Street Jn – Network Rail boundary (BPC)	120	28	126	34	N	N	N	N	N	
+Western	0745	GW560	SWY	Heywood Road Jn – Westbury North Jn	94	45	95	33	H	N	N	N	N	
+Western	0745	GW560	WEY	Westbury North Jn – Fairwood Jn via Westbury	109	49	111	18	H	N	N	N	N	
+Western	0745	GW570	WEY	Clink Road Jn – Blatchbridge Jn via Frome	114	44	116	52	H	N	N	N	N	
+Western	0745	GW572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	
+Western	0745	GW572	WQL	Change of ELR – Network Rail Boundary (Mendip Rail - Whatley Quarry)	2	38	2	40	N	N	N	N	N	
+Western	0745	GW580	ESB	East Somerset Jn – Network Rail Boundary (East Somerset Railway - Cranmore East)	0	11	5	48	H	N	N	N	N	
+Western	0745	GW600	SWB	Wootton Bassett Jn – Stoke Gifford Jn No.1	83	07	111	79	H	N	N	N	R1	R1 Prohibited Bristol Parkway platform 3 (Up Main) with crush deflated / failed secondary suspension
+Western	0745	GW600	SWB	Stoke Gifford Jn No.1 – Patchway Jn No.2	111	79	112	68	H	N	N	N	Y	
+Western	0745	GW600	BSW	Patchway Jn No.2 – Route Boundary Wales	5	61	9	12	H	N	N	N	Y	
+Western	0745	GW600	BSW	Route Boundary – Ableton Lane Tunnel (GW900)	9	12	10	51	H	N	N	N	Y	
+Western	0745	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	H	N	N	N	N	
+Western	0745	GW606	NDN	Crediton SB – End of Line (Barnstaple)	179	26	211	31	H	N	N	N	N	
+Western	0745	GW608	DAC	Crediton – Former Coleford Jn	179	26	183	69	H	N	N	N	N	
+Western	0745	GW608	DAC	Former Coleford Jn – Meldon Quarry	183	69	198	72	N	N	N	N	N	
+Western	0745	GW610	BAE2	Route Boundary (SW115) (Honiton) – Exeter St Davids Jn	164	30	172	04	H	N	N	N	N	
+Western	0745	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	H	N	N	N	N	
+Western	0745	GW618	MOB	Newton Abbott East Jn – End of Line (Beyond Heathfield)	0	14	4	07	N	N	N	N	N	
+Western	0745	GW620	TOR	Newton Abbott West Jn – Paignton Crossover Ground Frame	214	43	222	25	H	N	N	N	N	
+Western	0745	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	H	N	N	N	N	
+Western	0745	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	H	N	N	N	N	

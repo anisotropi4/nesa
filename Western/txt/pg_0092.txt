@@ -5,7 +5,6 @@
 
 
 
-
                                              CONTROLLING GSM-R
                 LINE/PLATFORM
                             SIGNAL/BLOCK
@@ -14,29 +13,82 @@
                 (DIRECTION) MARKER    CODE
                                              BOX/PANEL   NUMBER
 
-       Port Talbot
-                Up Relief (Down              Port Talbot ASC
-                            PT7533    995                74 5303 01
-       East (Taibach)
-                Direction)                   Panel A
+       GrovesendUp District (Down            Port Talbot ASC
+                            PT590     995                74 5304 01
+       CrossoverDirection)                   Panel B
 
-       Port Talbot
-                Up Main (Down                Port Talbot ASC
-                            PT7535    995                74 5303 01
-       East (Taibach)
-                Direction)                   Panel A
+       GrovesendDown District Sidings        Port Talbot ASC
+                            PT563     995                74 5304 01
+       Crossover(Up Direction)               Panel B
 
-       Port Talbot
-                Down Relief (Up              Port Talbot ASC
-                            PT7536    995                74 5303 01
-       East (Taibach)
-                Direction)                   Panel A
+       GrovesendDown District (Up            Port Talbot ASC
+                            PT565     995                74 5304 01
+       CrossoverDirection)                   Panel B
 
-       Port Talbot                           Port Talbot ASC
-                Up Sidings  PT7540    995                74 5303 01
-       East (Taibach)                        Panel A
+       GW892 CWMGWRACH TO BURROWS SIDINGS
+
+       Neath and
+                Down Goods Loop              Neath and Brecon
+       Brecon               NB9/10    995                74 5306 01
+                (Up Direction)               Junction
+       Junction
+
+       Neath and
+                                             Neath and Brecon
+       Brecon   Down Goods Loop
+                            NB4       995                74 5306 01
+                                             Junction
+       Junction
+
+       Neath and
+                Up & Down Vale of            Neath and Brecon
+       Brecon               NB13      995                74 5306 01
+                Neath (Up Direction)         Junction
+       Junction
+
+       Neath andUp & Down Vale of
+                                             Neath and Brecon
+       Brecon   Neath       NB3       995                74 5306 01
+                                             Junction
+       Junction (Down Direction)
+
+                Up & Down Neath &
+       Jersey Marine                         Port Talbot ASC
+                Brecon (DownPT568     995                74 5304 01
+       Jn South                              Panel B
+                Direction)
+
+       GW900 PILNING TO FISHGUARD HARBOUR
+
+                In Road (Up Service)
+                Steelworks West
+       East Usk Jn          NT6023    995    SWCC East Usk
+                                                         74 5359 01
+
+                Up Relief (Down
+                Direction)
+       East Usk Jn          NT6025    995    SWCC East Usk
+                                                         74 5359 01
+
+                Down Relief (Up
+                Direction)
+       East Usk Jn          NT6042    995    SWCC East Usk
+                                                         74 5359 01
+
+       Maindee West
+                Up Main (Down
+       Jn       Direction)  NT6041    995    SWCC East Usk
+                                                         74 5359 01
+
+                Head Shunt (Up               SWCC Ebbw
+       Ebbw Jn              NT6068    995                74 5357 01
+                Direction)                   Workstation
+
+                Down Relief (Up              SWCC Ebbw
+       Ebbw Jn              NT6072    995                74 5357 01
+                Direction)                   Workstation
 
 
 
 
-       April 2009                   59M
+       April 2009                    59K

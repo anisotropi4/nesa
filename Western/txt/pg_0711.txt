@@ -3,66 +3,68 @@
 
                                        Western Route Sectional Appendix Module WR2
 
-      LLine of
-           ELR  Line of Route / Sector
-                              oooo oooo oooo ooo121 142 143 150 153 155 156 158 159 165 Notes
-       route    Description
-                                M    Ch   M   Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
-                                                                         oooooooooooooooooooooooooo
-      GW606 DAC Cowley Bridge Jn –
-                               173   50  179  26 E Y  Y  Y Y  N N  Y  YN
-                Crediton SB
-      GW606 NDN Crediton SB – End of Line
-                               179   26  211  31 E Y  Y  Y Y  N N  Y  YN
-                (Barnstaple)
-      GW608 DAC Crediton – Former
-                               179   26  183  69 E Y  Y  Y Y  N N R1  NN R1 Up to 4 cars
-                Coleford Jn
-      GW608 DAC Former Coleford Jn –
-                               183   69  198  72 N N  N R1 N  N N R1  NN R1 Prohibited Okehampton Groundframe to Meldon
-                Meldon Quarry                           R2        R2        Quarry
-                                                                         R2 Up to 4 cars
-      GW610 BAE2Route Boundary (SW115)
-                               164   30  172  04 E Y  Y  Y Y  N N  Y  YN
-                (Honiton) – Exeter St
-                Davids Jn
-      GW611 EMT Exmouth Jn – Exmouth
-                                 0   01   9   32 E Y  Y  Y Y  N N  Y  YN
-      GW618 MOB Newton Abbott East Jn –
-                                 0   14   4   07 N N  N  Y N  N N  N  NN
-                End of Line (Beyond
-                Heathfield)
-      GW620 TOR Newton Abbott West Jn –
-                               214   43  222  25 E Y  Y  Y Y  N N  Y  YN
-                Paignton Crossover
-                Ground Frame
-      GW628 SUT1Laira Jn – Speedway Jn
-                               244   02  244  30 E Y  Y  Y Y  N N  Y  YN
-      GW628 PLO Lipson Jn – Speedway Jn
-                                 0   00   0   22 E Y  Y  Y Y  N N  Y  YN
-      GW628 SUT1Speedway Jn – Mount
-                               244   30  244  43 E Y  Y  Y Y  N N  Y  YN
-                Gould Jn
-      GW628 SUT2Mount Gould Jn – Former
-                               244   41  244  60 N N  Y  Y Y  N N  Y  YN
-                Friary Jn
-      GW628 FRY Former Friary Jn –
-                               244   60  245  17 N N  Y  Y Y  N N R1 R1 NR1 Prohibited beyond Class 158 stop board (245m 13
-                Turnchapel Branch Jn                                        ch) (A maximum of 3 x 158/9 car lengths can be
-                                                                            accommodated)
-      GW628 TUR/Turnchapel Branch Jn –
-                                 0   00   0   78 N N  N R1 N  N N  N  NN R1 Prior to operation the method of working shall be
-            CWR Buffer Stops                                                agreed with the local Infrastructure Manager’s
-                                                                            operations team
-      GW628 FRY Turnchapel Branch Jn –
-                               245   17  245  40 N N  N  Y N  N N  N  NN
-                Plymouth Friary
-      GW637 DAC St Budeaux Jn – Buffer
-                               227   22  219  75 E N  N  Y Y  N N R1 R1 NR1   Prohibited between St Budeaux Victoria Road
-                Stops (Beyond Bere                                       Station and Buffer Stops (Beyond Bere Alston)
-                Alston)
+     Line of
+          ELR  Line of Route / Sector
+                            oooo oooooooo ooo 121 142 143 150 153 155 156 158 159 165 Notes
+     route     Description
+                              M   Ch   M                                R1
+                                          Ch 00000000 0000 0000 0000 0000 0000 0000 0000
+                                                                           oooooooooooooooooooooooooo
+     GW480SWM1 Swindon Jn – Standish
+                              77  36  106 74 E  Y Y  Y Y  E  E  R1 R1 E R1   Prohibited Kemble Tamper Siding
+               Jn                                                    R2 R2   Route prohibited to Class 165/0
+                                                                     R3 R3   20mph Stroud Down platform
+     GW490SWM2 Gloucester Yard Jn –
+                             113  03  113 61 E  Y Y  Y Y  E  E  Y  Y E  R1   Route prohibited to Class 165/0
+               Horton Road Jn                                        R1
+     GW500BKE  Westbury Line Jn –
+                              36  17   36 67 E  E E  Y E  E  E  E  E Y
+               Oxford Road Jn
+     GW500BKE  Oxford Road Jn –
+                              36  67   37  62E  E  E Y  E  E  E  E  EY
+               Southcote Jn
+     GW500BKE  Southcote Jn – Route
+                              37  62   37  76E  E  E Y  E  E  E  E  EY
+               Boundary (SW125)
+               (Basingstoke)
+     GW500BHL  Southcote Jn – Change
+                              37  62   81  19E  E  E E  N N   N  E  EY
+               of ELR
+     GW500SWY  Change of ELR –81  19   94  44E  E  E E  E  E  E  E  EY
+               Heywood Road Jn
+               (Change of ELR)
+     GW500WES  Heywood Road Jn94  44   97  02E  Y  Y Y  Y N   N  Y  YY
+               (Change of ELR) –
+               Fairwood Jn (Change of
+               ELR) (via Westbury
+               Avoiding Lines)
+     GW500WEY  Fairwood Jn (Change of
+                             111  18  114  44E  Y  Y Y  Y N   N  Y  YY
+               ELR) – Clink Road Jn
+               (Change of ELR)
+     GW500FRA  Clink Road Jn (Change
+                             114  44  116  37E  Y  Y Y  Y N   N  Y  YY
+               of ELR) – Blatchbridge
+               Jn (Change of ELR)
+     GW500WEY  Blatchbridge Jn
+                             116  52  129  50E  Y  Y Y  Y N   N  Y  YY
+               (Change of ELR) –
+               Castle Cary Jn
+     GW500WEY  Castle Cary Jn – Route
+                             129  50  130  00E  Y  Y Y  Y N   N  Y  YN
+               Boundary (SW175)
+               (Yeovil Pen Mill Jn)
+     GW500CCL  Castle Cary Jn –
+                             115  32  138  30E  Y  Y Y  Y N   N  Y  YN
+               Cogload Jn (Down)
+     GW5001 SALRoute Boundary115  40  110  07E  Y  Y Y  Y N   N  Y  YN
+               (SW170) (Wilton Jn) –
+               Westbury South Jn
+     GW510WEY  Westbury North Jn –
+                              109  49 104  40 E Y  Y  Y Y  N  N  Y  Y R1 R1  Prohibited Trowbridge Station when laden
+               Bradford Jn
 
 
 
 
-       April 2009                                497B
+       April 2009                                 497

@@ -1,24 +1,16 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
-Western	0762	GW877	OVE	Margam Abbey Works East Jn – Margam East Jn	2	41	1	40	N	N	Y	N	N	N	N	
-Western	0762	GW877	OVE	Margam East Jn – Margam Yard Jn	1	40	0	79	N	N	Y	N	N	N	N	
-Western	0762	GW877	OVE	Margam Yard Jn – Network Rail Boundary (Port Talbot Docks)	0	79	0	56	N	N	Y	N	N	N	N	
-Western	0762	GW890	SDI1	Briton Ferry Up Flying Loop Jn – Dynover Jn	206	14	207	67	Y	Y	Y	N	N	N	N	
-Western	0762	GW890	SDI1	Dynover Jn – Jersey Marine Jn North	207	67	208	33	Y	Y	Y	N	N	N	N	
-Western	0762	GW890	SDI1	Jersey Marine Jn North – Change of Mileage	208	33	208	49	Y	Y	Y	N	N	N	N	
-Western	0762	GW890	SDI2	Change of Mileage – Grovesend Colliery Loop Jn	0	00	10	05	Y	Y	Y	N	N	N	N	
-Western	0762	GW890	SDI2	Grovesend Colliery Loop Jn – Morlais Jn	10	05	10	64	Y	Y	Y	N	N	N	N	
-Western	0762	GW8901	RSB	Dynevor Jn – Jersey Marine South Jn	19	16	20	24	N	N	N	N	N	N	N	
-Western	0762	GW892	VON	Network Rail Boundary (Cwmgwrach) – Neath & Brecon Jn	33	14	41	17	N	N	N	N	N	N	N	
-Western	0762	GW892	VON	Neath & Brecon Jn – Burrows Sidings	41	17	46	30	N	N	N	N	N	N	N	
-Western	0762	GW893	NAB	Network Rail Boundary (Onllwyn) – Neath and Brecon Jn	10	10	0	01	N	N	N	N	N	N	N	
-Western	0762	GW894	JER	Jersey Marine Jn North – Jersey Marine Jn South	1	24	2	26	N	N	N	N	N	N	N	
-Western	0762	GW897	HDY	Grovesend Colliery Loop Jn – Hendy Jn	0	00	0	46	Y	Y	Y	N	N	N	N	
-Western	0762	GW900	BSW	Ableton Lane Tunnel – Severn Tunnel Jn	10	51	16	73	Y	Y	Y	N	N	N	N	
-Western	0762	GW900	SWM2	Severn Tunnel Jn – Maindee West Jn	149	14	158	16	Y	Y	Y	N	N	N	R1 R2 R3	R1 Prohibited Severn Tunnel Jn to Llanwern West Jn R2 Maximum speed 100mph R3 Tripcocks must be isolated
-Western	0762	GW900	SWM2	Maindee West Jn – Cardiff East Jn	158	16	170	18	Y	Y	Y	N	N	Y	R1 R2	R1 Maximum speed 100mph R2 Tripcocks must be isolated
-Western	0762	GW900	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	Y	Y	Y	N	N	Y	N	
-Western	0762	GW900	SWM2	Cardiff West Jn – Court Sart Jn	170	56	206	58	Y	Y	Y	N	N	Y	N	
-Western	0762	GW900	SWM2	Court Sart Jn – Llandore Jn	206	58	214	62	Y	Y	Y	N	N	Y	N	
-Western	0762	GW900	SWM2	Llandore Jn – Llandeilo Jn	214	62	223	49	Y	Y	Y	N	N	Y	N	
-Western	0762	GW900	SWM2	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	Y	Y	Y	N	N	Y	N	
-Western	0762	GW900	SWM2	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	Y	Y	Y	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	MK5A	Notes
+Western	0762	GW730	SHL	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	Y	Y	Y	N	N	Y	R1 R2		R1 Maximum speed 100mph R2 Tripcocks must be isolated
+Western	0762	GW730	SHL	Craven Arms Jn – Shelwick Jn	20	01	49	26	Y	Y	Y	N	N	Y	R1 R2		R2 Maximum speed 100mph R2 Tripcocks must be isolated
+Western	0762	GW730	SHL	Shelwick Jn – Site of former Rotherwas Jn	49	26	52	19	Y	Y	Y	N	N	Y	R1 R2		R3 Maximum speed 100mph R2 Tripcocks must be isolated
+Western	0762	GW730	HDC	Site of former Rotherwas Jn – Site of former Red Hill Jn	0	00	1	74	Y	Y	Y	N	N	Y	R1 R2		R4 Maximum speed 100mph R2 Tripcocks must be isolated
+Western	0762	GW730	HNL1	Site of former Red Hill Jn – Maindee West Jn	1	74	41	66	Y	Y	Y	N	N	Y	R1 R2		R5 Maximum speed 100mph R2 Tripcocks must be isolated
+Western	0762	GW731	WSJ2	Route Boundary (MD801) (Madeley Jn) – Abbey Foregate Jn	170	46	171	15	Y	Y	Y	Y	N	Y	N	H	
+Western	0762	GW731	WSJ2	Abbey Foregate Jn – Crewe Jn	171	15	171	57	Y	Y	Y	Y	N	Y	R1 R2 R3 R4 R5 R6	H R2 R4	R1 Prohibited Abbey Foregate Jn to Severn Bridge Jn R2 Prohibited Shrewsbury platforms 5 R3 Prohibited Shrewsbury platform 7 with crush deflated suspension R4 Prohibited Shrewsbury Howard Street Landing R5 Maximum speed 100mph R6 Tripcocks must be isolated
+Western	0762	GW731	WSJ2	Crewe Jn – Route Boundary (NW3005) (Wrexham General)	171	57	199	00	Y	Y	Y	Y	N	Y	R1 R2		R1 Maximum speed 100mph R2 Tripcocks must be isolated
+Western	0762	GW732	AFE	Abbey Foregate Jn – English Bridge Jn (Loop Lines)	0	25	0	00	Y	Y	Y	N	N	N	N		
+Western	0762	GW733	SBA1/ 2	Sutton Bridge Jn – Welshpool	0	00	33	70	Y	Y	N	N	N	N	N		
+Western	0762	GW733	SBA2	Welshpool – Aberystwyth	33	70	95	60	Y	Y	N	N	N	N	N		
+Western	0762	GW734	DJP	Dovey Jn – Pwllheli	78	60	132	70	Y	Y	N	N	N	N	N		
+Western	0762	GW735	SYC	Crewe Jn – Route Boundary (NW1007) (Limit of Electrification)	32	29	2	60	Y	Y	Y	N	N	Y	N	H	
+Western	0762	GW736	GNQ1	Gobowen South – Commencement of single line board	0	00	0	16	N	N	N	N	N	N	N		
+Western	0762	GW740	MAI	Maindee East Jn – Maindee North Jn	41	65	41	33	Y	Y	Y	N	N	N	R1 R2		R1 Maximum speed 100mph R2 Tripcocks must be isolated

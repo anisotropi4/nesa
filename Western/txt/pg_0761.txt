@@ -7,73 +7,57 @@
            Line of Route / Sector               MK2 MK3MK3 MK3 MK3 MK4 Notes
    route   Description          M  Ch M  Ch            MOD DVT DVT    ooooooooooooooooooooooooooo
                                                                MOD
-   GW820PTA Site of Former Penallta Jn – Ystrad
-                                15 01 13  41 Y   Y  N   N   N   N  N
-           Mynach South Jn
-   GW828CRY Coryton – Heath Jn   2 57  0  15 Y   Y  N   N   N   N  N
-   GW830CAM Merthyr Tydfil – Abercynon Jn
-                                24 44 16  35 Y   Y  N   N   N   N  N
-   GW830CAM Abercynon Jn – Pontypridd Jn
-                                16 35 13  04 Y   Y  N   N   N   N  N
-   GW830CAM Pontypridd Jn – Radyr Jn
-                                13 04  5  23 Y   Y  N   N   N   N  N
-   GW830CAM Radyr Jn – Queen Street North Jn
-                                 5 23  1  17 Y   Y  N   N   N   N  N
-   GW830CAM Queen Street North Jn – Queen Street
-                                 1 17  0  66 Y   Y  N   N   N   N  N
-           South Jn
-   GW830CEJ Queen Street South Jn – Cardiff East
-                                 0 22  0  00 Y   Y  N   N   N   N  N
-           Jn
-   GW830SWM Cardiff East Jn – Cardiff West Jn
-                               170 18 170 56 Y   Y  Y   N   N   N  N
-         2
-   GW830BRY Cardiff West Jn – Barry Jn
-                                 0 10  8  16 Y   Y  Y   N   N   N  N
-   GW830BRY Barry Jn – Buffer Stops (Barry Island)
-                                 8 16  8  76 Y   Y  Y   N   N   N  N
-   GW834VON Network Rail Boundary – Aberdare
-                                26 62 22  34 Y   Y  N   N   N   N  N
-   GW834VON/ Aberdare – Cwmbach Change of ELR
-                                22 34 20  68 Y   Y  N   N   N   N  N
-        ALK
-   GW834ABD/ Cwmbach Change of ELR –
-                                22 01 16  35 Y   Y  N   N   N   N  N
-        MOA Abercynon Jn (Including Mountain Ash
-           Down Loop ELR MOA)
-   GW835THT End of Line – Treherbert
-                                23 69 23  54 Y   Y  N   N   N   N  N
-   GW835THT Treherbert – Pontypridd Jn
-                                23 54 13  04 Y   Y  N   N   N   N  N
-   GW839CAM Queen Street South Jn – Cardiff Bay
-                                 0 66  0  02 Y   Y  N   N   N   N  N
-   GW840RAD Radyr Jn – Leckwith Loop South Jn
-                                 4 41  0  69 Y   Y  Y   N   N   N  N
-   GW840RAD Leckwith Loop South Jn – Penarth
-                                 0 69  0  47 Y   Y  Y   N   N   N  N
-           Curve North Jn
-   GW840RAD Penarth Curve North Jn – Radyr
-                                 0 47  0  25 Y   Y  Y   N   N   N  N
-           Branch Jn
-   GW850CLL Leckwith Loop South Jn – Leckwith
-                                 0 26  0  00 Y   Y  Y   N   N   N  N
-           Loop North Jn
-   GW860CPL Penarth Curve North Jn – Penarth
-                                 0 25  0  00 Y   Y  Y   N   N   N  N
-           Curve South Jn
-   GW864PTH Cogan Jn – Penarth   0 01  1  12 Y   Y  Y   N   N   N  N
-   GW870VOG Barry Jn – Bridgend Bay Platform
-                                 0 00 19  04 Y   Y  Y   N   N   N  N
-   GW871FOR Ford Siding GF – Network Rail
-                                 0 00  1  18 N   N  N   N   N   N  N
-           Boundary (Ford Works, Waterton)
-   GW874BAL Llynfi Jn – Tondu Jn 0 07  2  70 Y   Y  Y   N   N   N  N
-   GW874BAL Tondu Jn – Maesteg   2 70  8  06 Y   Y  N   N   N   N  N
-   GW877POR Tondu Jn – Cefn Jn   0 00  2  43 Y   Y  Y   N   N   N  N
-   GW877OVE Cefn Jn – Margam Abbey Works East
-                                 7 41  2  41 Y   Y  Y   N   N   N  N
-           Jn
+   GW628TUR/ Turnchapel Branch Jn – Buffer Stops
+                                 0 00  0  78 N   N  N   N   N   N  N
+        CWR
+   GW628FRY Turnchapel Branch Jn – Plymouth
+                               245 17 245 40 Y   Y  Y   N   N   N  N
+           Friary
+   GW637DAC St Budeaux Jn – Buffer Stops (Beyond
+                               227 22 219 75 Y   Y  N   N   N   N  N
+           Bere Alston)
+   GW637CAL Bere Alston Jn – Gunnislake
+                                 0 02  4  40 Y   Y  N   N   N   N  N
+   GW640LILLiskeard – Coombe Jn  8 67  6  75 Y   Y  N   N   N   N  N
+   GW640LOO Coombe Jn – Looe     6 52  0  19 Y   Y  N   N   N   N  N
+   GW640LOO Coombe Jn – Coombe No.2 GF
+                                 6 52  6  66 Y   Y  N   N   N   N  N
+   GW642LOO Coombe No.2 GF – Network Rail
+                                 6 66  7  20 N   N  N   N   N   N  N
+           Boundary (Moorswater)
+   GW650LOF Lostwithiel – Network Rail Boundary
+                               277 54 281 59 Y   Y  N   N   N   N  N
+           (Carne Point)
+   GW660PAR Par Loop Jn – St Blazey Jn
+                               281 57 282 16 Y   Y  Y   N   N   N  N
+   GW660NEW St Blazey Jn – Newquay
+                               282 16 302 49 Y   Y  Y   N   N   N  N
+   GW672SDS Burngullow Jn – Drinnick Mill
+                               288 26 291 31 Y   Y  N   N   N   N  N
+   GW672SDS Drinnick Mill – Parkandillack
+                               291 31 293 52 Y   Y  N   N   N   N  N
+   GW680 FAL1- Penwithers Jn – Falmouth
+                               301 25 312 46 Y   Y  Y   N   N   N  N
+         3
+   GW690SIVSt Erth – St Ives   321 02 325 13 Y   Y  Y   N   N   N  N
+   GW700 BAG2 Gloucester Barnwood Jn – Horton
+                                92 21  92 75 Y   Y  Y   N   N   N  N
+           Road Jn
+   GW700 SWM Horton Road Jn – Route Boundary
+                               113 61 129 00 Y   Y  Y   N   N   N  N
+         2 Wales
+   GW700 SWM Route Boundary Wales – Severn
+                               129 00 149 14 Y   Y  Y   N   N   N  N
+         2 Tunnel Jn
+   GW710NO Llanwern Works East – Llanwern
+                               153 08 156 03 N   N  N   N   N   N  N
+        ELR Works West via BSS (Corus
+           Infrastructure)
+   GW720EUB Network Rail Boundary (Uskmouth) –
+                                 3 07  0  00 N   N  N   N   N   N  N
+           East Usk Jn
 
 
 
-    April 2009                                   500H
+
+    April 2009                                   500F
