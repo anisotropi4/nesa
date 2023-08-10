@@ -5,80 +5,95 @@
 
 
 
-                                              CONTROLLING
-                                                        GSM-R
-                LINE/PLATFORM        LOCATION
-       LOCATION            SIGNAL             SIGNAL    CONTACT
-                (DIRECTION)          CODE
-                                              BOX/PANEL NUMBER
+                                             CONTROLLING GSM-R
+                  LINE/PLATFORM       LOCATION
+       LOCATION                SIGNAL        SIGNAL      CONTACT
+                  (DIRECTION)         CODE
+                                             BOX/PANEL   NUMBER
 
-       LN634 GUISBOROUGH JN TO WHITBY
+                  Up Goods
+       Whitehouse              W3     998    Whitehouse  74 8275 01
+                  Down direction
 
+       Whitehouse Down Main    W21 G  998    Whitehouse  74 8275 01
+
+                  Up Main
+       South Bank Jn           G255   998    Grangetown  74 8276 01
+                  (Down Direction)
+
+       South Bank Up Goods     G256   998    Grangetown  74 8276 01
+
+                  Up Goods
+       Beam Mill Jn            G259   998    Grangetown  74 8276 01
+                  (Down Direction)
+
+                  Down Goods
+       Beam Mill Jn            G260   998    Grangetown  74 8276 01
+                  (Up Direction)
+
+                  Up Goods            998
+       Grangetown              G261          Grangetown  74 8276 01
+                  (Down Direction)
+
+       Grangetown Down Goods          998
+                               G266          Grangetown  74 8276 01
+                  (Up Direction)
+
+       Grangetown Down Goods   G265   998    Grangetown  74 8276 01
+
+                  Up & Down BSC Beam
+                  Mill
+       Grangetown              G714
+                  (Up Direction)      998    Grangetown  74 8276 01
+                  Lackenby & Beam Mill
+                  BSC
+
+       Grangetown Jn
+                  Tees Dock    G720   998    Grangetown  74 8276 01
+
+       Grangetown Jn
+                  Up Main      G724   998    Grangetown  74 8276 01
+
+       Shell Jn   Down Main    G745   998    Grangetown  74 8276 01
+
+       Redcar Ore                     998
+                  Up Main BSC Redcar
+                               G740          Grangetown  74 8276 01
+       Terminal Jn
+
+       Redcar Ore                     998
+                  TOD Point Departure
+                               G744          Grangetown  74 8276 01
+       Terminal Jn
+
+       Redcar Ore                     998
+                  Up Main BSC Redcar
+                               G742          Grangetown  74 8276 01
+       Terminal Jn
 
                   Down Main           998
-       Nunthorpe               N6
-                  (Up Direction)             Nunthorpe   74 8273 01
-                  Nunthorpe Station
+       Redcar Central          R224          Redcar Central
+                                                         74 8277 01
+                  (Up Direction)
 
+       Redcar Central
+                  Down Main    R228   998    Redcar Central
+                                                         74 8277 01
 
-       Nunthorpe  Up Main             998
-                               N2            Nunthorpe   74 8273 01
-                  Nunthorpe Station
+       Redcar SB  Through Sidings     998
+                               R231          Redcar Central
+                                                         74 8277 01
+                  (Up Direction)
 
+                  Platform 2
+       Saltburn                L212   998    Longbeck    74 4240 01
+                  (Up direction)
 
-       Nunthorpe  Down Main           998
-                               N10
-                  (Down Direction)           Nunthorpe   74 8273 01
-                  Nunthorpe Station
-
-
-       Nunthorpe  Up Main      N1     998    Nunthorpe   74 8273 01
-
-
-       Battersby  Battersby station
-                               B1     998    Nunthorpe   74 8273 01
-
-
-       LN638 GRANGETOWN (SHELL JN) TO CLEVELAND FREIGHTLINER TERMINAL (WILTON)
-
-
-                  Freightliner Depot and
-       Wilton Jn               G738   998    Grangetown  74 8276 01
-                  SIdings
-
-
-                  Freightliner Depot and
-       Wilton Jn               G736   998    Grangetown  74 8276 01
-                  SIdings
-
-
-       LN652 BILLINGHM-ON-TEES TO SEAL SANDS STORAGE
-
-
-                  Seal Sands Storage
-       Billingham Jn           B11    998    Billingham-on-Tees
-                                                         74 8288 01
-                  Siding
-
-
-                  Haverton and East Grid
-       Billingham Jn           BL12   998    Belasis Lane74 8311 01
-                  Sdgs Exit
-
-
-       Billingham Jn
-                  Phillips Petroleum Exit
-                               BL2    998    Belasis Lane74 8311 01
-
-
-       LN666 BOLTON WEST JN TO TYNE DOCK
-
-
-                  Down/Up Tyne Dock          Tyneside IECC
-       Boldon North Jn         T6263  998                74 8217 01
-                  Branch                     Sunderland W/S
+                  Platform 1
+       Saltburn                L211   998    Longbeck    74 4240 01
+                  (Up direction)
 
 
 
 
-       December 2006                 28K
+       December 2006                 28J

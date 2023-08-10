@@ -7,42 +7,65 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                   ooo ooo ooo ooo
-                                                RA  08 09 2031/1 31/4
-                                                                   3337/0 37/5
-                                                                            Notes
-     route                          o  o  o  o              31/6     37/3
-                                    M  Ch M  Ch                      37/4
-                                                                     37/6
-          GSM2 Manton Jn – Melton Jn
-     LN3615                          90 25105 70 8  Y  Y  Y  Y  Y  Y  Y  Y
-          GSM3 Melton Jn – Syston South Jn
-     LN3615                         113 36103 77 8  Y  Y  Y  Y  Y  Y  Y  Y
-          GSM4 Melton Jn GF – Asfordby
-     LN3620                         105 70107 20 8  Y  Y  Y  Y  Y  Y  Y  Y
-     LN3625
-          TSN1Nottingham East Jn – Change of ELR
-                                    123 27123 23 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (Nottingham East Jn)
-     LN3625
-          NOB1Change of ELR (Nottingham East Jn) –
-                                     0  00 16 02 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Route Boundary (LN206) (Coulson)
-     LN3635
-          NOG1Route Boundary (LN195) (Nottingham
-                                    111 60123 76 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Branch Jn) – Rectory Jn SB
-     LN3635
-          NOG1Rectory Jn SB – Change of ELR
-                                    123 76125 25 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (Netherfield)
-     LN3635
-          NOG2Change of ELR (Netherfield) –
-                                     2  54  2 35 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Netherfield Jn
+          ELR Line of Route / Sector Description oooo oooo oooo oooo
+                                                 RA   86  87  88  90   91  92  Notes
+     route                          M  Ch M  Ch      00000000    0000 00000000
+     LN882WAG1 Wakefield Kirkgate West Jn – Calder
+                                    47 43 48  28 8    H   H   Y   H    H   N
+              Bridge Jn
+     LN882WAG1 Calder Bridge Jn – Crofton West Jn
+                                    48 28 49  40 8    H   H   Y   H    H   N
+     LN882WAG1 Crofton West Jn – Knottingley West Jn
+                                    49 40 58  20 8    H   H   Y   H    H   N
+     LN882WAG1 Knottingley West Jn – Engine Shed Jn
+                                    58 20 73  52 8    N   N   Y   N    N   N
+     LN882WAG2 Engine Shed Jn – Goole Potters Grange
+                                     0 64  0  00 8    N   N   Y   N    N   N
+              Jn
+     LN884OAJ Oakenshaw South Jn – Oakenshaw Jn.
+                                    49 41 48  76 8    N   N   Y   N    N   N
+     LN886TJC3Monk Bretton – Oakenshaw South Jn
+                                   176 22 181 75 8    N   N   Y   N    N   N
+     LN886OSC Oakenshaw South Jn – Crofton East Jn
+                                   181 75 183 04 8    N   N   Y   N    N   N
+     LN888CJS Stainforth Jn – Thorpe Marsh Jn
+                                   166 70 163 76 9    N   N   Y   N    N   N
+     LN888HTM Thorpe Marsh Jn – Haywood Jn
+                                    69 56 67  66 9    N   N   Y   N    N   N
+     LN888KWS Haywood Jn – Knottingley West Jn
+                                    67 66 58  20 9    H   H   Y   H    H   N
+     LN888FKW Knottingley West Jn – Ferrybridge North
+                                     2 71  2  27 9    N   N   Y   N    H   N
+              Jn
+     LN889KWS Shaftholme Jn – Haywood Jn
+                                    68 75 67  66 9    N   N   Y   N    H   N
+     LN892PEF Pontefract East Jn – Ferrybridge South
+                                     3 06  2  38 8    N   N   Y   N    N   N
+              Jn
+     LN894KES Knottingley South Jn – Knottingley East
+                                     0 00  0  20 9    N   N   Y   N    N   N
+              Jn
+     LN896DRA1Drax Branch Jn – Drax Power Station
+                                     0 00  4  16 8    N   N   Y   N    N   N
+              (NR Boundary)
+     LN898HUL4Neville Hill East Jn – Micklefield Jn
+                                    18 25 10  63 8    N   N   Y   N    N   N
+     LN898HUL4Micklefield Jn – Micklefield Change of
+                                    10 63 10  60 8    N   N   Y   N    N   N
+              ELR
+     LN898HUL3Micklefield Change of ELR – Gascoigne
+                                    10 60  6  27 8    N   N   Y   N    N   N
+              Wood Jn
+     LN898HUL3Gascoigne Wood Jn – Selby West Jn
+                                     6 27  0  36 8    N   N   Y   N    N   N
+     LN898HUL3Selby West Jn – Selby South Jn
+                                     0 36  0  00 8    N   N   Y   N    N   N
+     LN898HUL2Selby South Jn – Site of Former Barlby
+                                    31 12 30  40 8    N   N   Y   N    N   N
+              Jn
+     LN898HUL1Site of Former Barlby Jn – Anlaby Road
+                                    30 40  0  73 8    N   N   Y   N    N   N
+              Jn
 
 
-
-
-     October 2009                                    77
+     October 2009                                   73H

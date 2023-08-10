@@ -6,65 +6,67 @@
 
 
 
-     Line of ELR
-             Line of Route / Sector Description
-                                   oooo oooooo 170 172 180 185 195 220 221 222 Notes
-     route                          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-         HUL2 Selby South Jn – Site of former Barlby Jn
-     LN898                          31 12 30 40 Y  N Y  Y  Y N  N  Y
-         HUL1 Site of former Barlby Jn – Anlaby Road Jn
-     LN898                          30 40  0 73 Y  N Y  Y  Y N  N  Y
-         HUL1 Anlaby Road Jn – Hull
-     LN898                           0 73  0 00 R1 N R1 R1 Y N  N R1 R1Prohibited Hull platform 1
-                                                R2   R3 R4          R2 Prohibited Hull platform 3 with deflated suspension
-                                                R4   R4             R3 Prohibited Hull platform 3
-                                                                    R4 Prohibited Hull siding A
-     LN900
-         HUENeville Hill West Jn – Hunslet East
-                                     0 00  0 55 N  N N  N  N N  N  N
-     LN902
-         CFM Micklefield Jn – Church Fenton North Jn
-                                    15 62 10 31 Y  N Y  Y  Y Y  Y  Y
-     LN904
-         HSCHambleton South Jn – Hambleton West Jn
-                                    17410 17533 N  N Y  Y  Y Y  Y  Y
-     LN906
-         HNCHambleton East Jn – Hambleton North Jn
-                                     3 34  4 00 Y  N Y  Y  Y Y  Y  Y
-     LN908
-         SECSelby West Jn – Canal Jn 0 00  0 32 N  N N  N  N Y  Y  N
-         TCW1 Temple Hirst Jn – Selby Canal Jn
-     LN910                          16916 17359 Y  N Y  N  Y Y  Y  Y
-         TCW1 Selby Canal Jn – Selby South Jn
-     LN910                          17359 17411 Y  N Y  N  Y Y  Y  Y
-         TJG1 Thorne Jn – Thorne North Change of ELR
-     LN912                           7 69  9 09 Y  N Y  Y  Y N  N  Y
-         TJG2 Thorne North Change of ELR – Gilberdyke
-     LN912                          14 06  0 00 Y  N Y  Y  Y N  N  Y
-             Jn
-     LN914
-         HBSWest Parade Jn – West Parade North Jn
-                                     0 25  0 72 Y  N Y  Y  Y N  N  Y
-     LN914
-         HBSWest Parade North Jn – Walton Street Jn
-                                     0 72  1 29 Y  N Y  Y  Y N  N  Y
-     LN914
-         HBSWalton Street Jn – Seamer West Jn
-                                     1 29 50 43 R2 N R1 Y  Y N  N  N R1Prohibited Beverley to Seamer West Jn
-                                                                     R2Prohibited Bridlington platform 4 with deflated suspension
-     LN916
-         HJSHessle Road – Springbank North Jn
-                                     0 00  1 38 Y  N Y  N  N N  N  N
-     LN916
-         HJSSpringbank North Jn – Network Rail
-                                     1 38  5 62 N  N N  N  N N  N  N
-            Boundary
-         SPW Springbank North Jn – Walton Street Jn
-     LN918                           1 54  1 29 Y  N Y  N  N N  N  N
-         AWP Anlaby Road Jn – West Parade North Jn
-     LN920                           0 00  0 24 Y  N E  Y  Y N  N  Y
+     Line of
+          ELR Line of Route / Sector Description
+                                      oooo oooo oooo oooo 170
+                                                        172 180 185 195 220
+                                                                     221222 Notes
+     route                             M  Ch  M  Ch  ooo ooo ooo ooo ooo ooo ooo
+                                                                        ooo ooooooooooooooooooooooooooo
+     LN806CHR Route Boundary (LN3201) (Tapton Jn) –
+                                      146 64 162  24 Y  E  N N  R1 Y  Y  Y R1 Prohibited between Beighton Jn and
+              Masborough Jn                                                   Masborough Jn
+     LN807MAS Dore South Jn – Dore West Jn
+                                      153 73 154  16 Y  N  N Y  Y  Y  Y  Y
+     LN808DWS Dore Station Jn – Dore West Jn
+                                        0 60   0  00 Y  N  N Y  Y  Y  Y  Y
+     LN808MAS Dore West Jn – Route Boundary (NW9001)
+                                      154 16 154  20 Y  N  N Y  Y  Y  Y  Y
+              (Chinley North Jn)
+     LN809BTJ Shepcote Lane West Jn – Tinsley Yard East
+                                      161 24 160  52 N  N  N N  N  N  N  N
+              End
+     LN810SEL Shepcote Lane West Jn – Tinsley South Jn
+                                      161 24 161  63 N  N  N N  N  N  N  N
+     LN812BLJ Shepcote Lane East Jn – Broughton Lane Jn
+                                      161 20 161  67 N  N  N N  N  N  N  N
+     LN816BEW Beighton Jn – Woodhouse Jn
+                                       48 06  46  56 Y  N  N N  Y  Y  Y  Y
+     LN818HCD Holmes Jn – Rotherham Central Jn
+                                        0 00   0  62 Y  N  N Y  Y  Y  Y  N
+     LN824SKM Moorthorpe Jn – South Kirkby Jn
+                                        0 57   0  05 Y  N  N Y  Y  Y  Y  Y
+     LN826PED5South Yorkshire Jn – Mexborough Jn
+                                       22 57  15  64 Y  E  E Y  Y  Y  Y  Y
+     LN826SJM2Mexborough Jn – Site of former Mexborough
+                                       15 64  14  78 Y  E  E Y  Y  Y  Y  Y
+              North Jn
+     LN826SJM1Site of former Mexborough North Jn – Swinton
+                                      167 15 166  56 Y  E  E Y  Y  Y  Y  Y
+              Jn South
+     LN828WME Mexborough Jn – Aldwarke Jn
+                                       10 17   7  26 Y  E  N Y  Y  Y  Y  Y
+     LN830WME Aldwarke Jn – Woodburn Jn 7 25   0  00 Y  N  N Y  Y  Y  Y  Y
+     LN832SJB Doncaster, Bridge Jn – St. James Jn
+                                       22 54  22  38 N  E  N N  N  N  N  N
+     LN836DOL1Doncaster Marshgate Jn – Hare Park Jn
+                                      156 28 171  70 Y  N  Y Y  Y  Y  Y  Y
+     LN836DOL1Hare Park Jn – Site of former West Riding Jn
+                                      171 70 175  32 Y  N  Y Y  Y  Y  Y  Y
+     LN836DOL2Site of former West Riding Jn – Copley Hill
+                                      175 32 184  65 Y  N R1 Y  Y  Y  Y  Y R1 5mph Wakefield Westgate Down platform loop
+              West Jn                                                         with deflated suspension
+     LN836DOL2Copley Hill West Jn – Whitehall West Jn
+                                      184 65 185  25 Y  N  Y Y  Y  Y  Y  Y
+     LN836DOL2Whitehall West Jn – Whitehall East Jn
+                                      185 25 185  28 Y  N  Y Y  Y  Y  Y  Y
+     LN836DOL2Whitehall East Jn – Leeds
+                                      185 28 185  70 Y  N R1 Y  Y  Y  Y  Y R1 Prohibited Leeds platform 2 with deflated
+                                                                              suspension
+     LN836HUL4Leeds – Neville Hill East Jn
+                                       20 50  18  25 Y  N  Y Y  Y  Y  Y  Y
 
 
 
 
-     October 2009                                   25L
+     October 2009                                   25G

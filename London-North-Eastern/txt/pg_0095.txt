@@ -5,82 +5,75 @@
 
 
 
-              STATION       DOWN    UP   SINGLE    MULTI-PLATFORM
-       BRADFORD INTERCHANGE   -      -     -   Platform 1
-                                                      209
-                                               Platform 2
-                                                      203
-                                               Platform 3
-                                                      127
-                                               Platform 4
-                                                      128
-       BRAMLEY               102    102    -             -
-       BRAMPTON (CUMBRIA)    106.6  107    -             -
-       BRIDLINGTON
-       Platform 4            168.2  -     -             -
-       Platform 5             -    168.2  -             -
-       Platform 6             -     -     -             138
-       Platform 7             -     -     -         214 (out of use)
-       BRIGG                  140   154   -             -
-       BRIGHOUSE             118    118   -             -
-       BRITISH STEEL REDCAR  60     60    -             -
-       BROCKHOLES             -     -     65            -
-       BROCKLEY WHINS        64.8   65    -             -
-       BROOKMANS PARK
-       Platform 4 (Down Slow)123.5  -      -             -
-       Platform 3 (Down Fast)123.5  -      -             -
-       Platform 2 (Up Fast)   -    123.5   -             -
-       Platform 1 (Up Slow)   -    123.5   -             -
-       BROOMFLEET             95    95     -             -
-       BROUGH                 184   184    -         Up Bay 142
-       BURLEY-IN-WHARFEDALE   98    98     -             -
-       BURLEY PARK            97    97     -             -
-       CASTLEFORD             104  OOU            (Platform 2 = Out of use)
-       CASTLETON MOOR         -     -     77.4           -
-       CATTAL                 86    86     -             -
-       CHAPELTOWN             85    85     -             -
-       CHATHILL               83    164    -             -
-       CHESTER-LE-STREET     104.5 104.5   -             -
-       CHESTERFIELD           –     –      –             –
-       Platform 1 (Down Main) 211   –      –             –
-       Platform 2 (Up Main)   –     205    –             –
-       Platform 3 (Down Barrow Hill)
-                              240   –      –             –
-       CHURCH FENTON
-       Platform 1 (Up Normanton)
-                              -    101.5   -             -
-       Platform 2 (Down Normanton)
-                             132    -      -             -
-                              -     -
-       Platform 3 (Up/Down Pass. Loop)     -   121 (Up direction to Drivers viewing
-                                                 point of CF720 signal)
-                              -     -
-       Platform 3 (Up/Down Pass.Loop)      -   132 (Down direction)
-                             119
-       Platform 4 (Down Leeds)      -      -
-       CLEETHORPES            -     -      -                   DMU’s
-                                                     Except DMU’s
-                                               Platform 1
-                                                       202.6     170
-                                               Platform 2
-                                                       205.6     174
-                                               Platform 3
-                                                       205.6     174
-                                               Platform 4
-                                                       203.0     203
-       COLLINGHAM             89    66    -             -
-       COMMONDALE             -     -     51            -
-       CONISBROUGH            117   97    -             -
-       CONONLEY              116.5 95.6   -             -
-       CORBRIDGE              97    97    -             -
-       COTTINGHAM             105   105   -             -
-       COTTINGLEY             117   117   -             -
-       CRAMLINGTON            101   101   -             -
-       CRESWELL               79    79    -             -
-       CREWS HILL             126  126.2  -             -
-       CROSSFLATTS            102   102   -             -
+
+       OPERATIONAL STATION PLATFORM LENGTHS IN
+       METRES
+       NOTE – For lengths of East Midlands Platforms, see relevant Table ‘A’ in Module LN4
+               STATION        DOWN   UP   SINGLE    MULTI-PLATFORM
+       ACKLINGTON              114   114    -             -
+       ADWICK                  104   104    -             -
+       ALEXANDRA PALACE
+       Platform 1(Up Slow No. 2)
+                               -    169.4   -             -
+       Platform 2 (Up Slow No.1)
+                               -    167.7   -             -
+       Platform 3 (Down Slow) 170.2   -     -             -
+       Platform 4 (Down Hertford)
+                              169.9   -     -             -
+       ALLENS WEST             122   97     -             -
+       ALNMOUTH                233   233    -             -
+       ALTHORPE                102   102    -             --
+       ANCASTER                87    88     -             -
+       APPERLEY BRIDGE         100   101    -             -
+       ARLESEY                244.7 244.7   -             -
+       ARRAM                  79.5   81.5   -             -
+       ASHWELL & MORDEN       168.4 167.8   -             -
+       BAILDON                 -      -    102            -
+       BALDOCK                168.8 168.2   -             -
+       BARDON MILL             95    91     -             -
+       BARNETBY
+       Platform 1 (Up Cleethorpes Slow)
+                               -    116.5   -             -
+       Platform 2 (Up Cleethorpes Fast)
+                               -    103.5   -             -
+       Platform 3 (Down Cleethorpes Fast)
+                               103    -     -             -
+       Platform 4 (Down Cleethorpes Slow)
+                               116    -     -             -
+       BARNSLEY                163   102    -             -
+       BARROW HAVEN            -      -   60.5 Up         -
+                                          46 Down
+       BARTON-ON-HUMBER        -      -    55             -
+       BATLEY                  119   126    -             -
+       BATTERSBY               -      -    155.6          -
+       BAYFORD                123.6 122.5   -             -
+       BEMPTON                 -      -   93.8 Up         -
+                                          117.8 Dn
+       BEN RHYDDING            99    99     -             -
+       BENTLEY (STH YORKS)     104   104    -             -
+       BERRY BROW              -      -    65             -
+       BERWICK-UPON-TWEED      233   234    -             -
+       BEVERLEY                101   93     -             -
+       BIGGLESWADE
+       Platform 4 (Down Slow)  247    -     -             -
+       Platform 3 (Down Fast) 246.7   -     -             -
+       Platform 2 (Up Fast)    -    246.3   -             -
+       Platform 1 (Up Slow)    -    244.4   -             -
+       BILLINGHAM              146   146    -             -
+       BINGLEY                111.5 111.5   -             -
+       BISHOP AUCKLAND         -      -    80             -
+       BLAYDON                 97    97     -             -
+       BOLTON-ON-DEARNE        96    96     -             -
+       BOSTON                  174   175    -             -
+       BOWES PARK              138   138    -             -
+       BRADFORD FORSTER SQUARE -      -     -   Platform 1
+                                                       273
+                                                Platform 2
+                                                       266
+                                                Platform 3
+                                                       101
 
 
 
 
-       February 2021                 39        (Supplement No. 49 – 27 February 2021)
+       February 2021                 38

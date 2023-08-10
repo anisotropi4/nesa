@@ -12,55 +12,60 @@
                                                     Loco Gauge
                                                              Notes
        route     Description         M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-       LN898 HUL2Selby South Jn – Site of Former
-                                      31 12 30 40  8    Y
-                 Barlby Jn
-       LN898 HUL1Site of Former Barlby Jn – Anlaby
-                                      30 40  0 73  8    Y
-                 Road Jn
-       LN898 HUL1Anlaby Road Jn – Hull0  73  0 00  8    R1   R1Prohibited Hull Dock Platform A
-       LN900 HUE Neville Hill West Jn – Hunslet East
-                                      0  00  0 55 10    Y
-       LN902 CFM Micklefield Jn – Church Fenton North
-                                      15 62 10 31  9    Y
+       LN756 NOP1Scunthorpe Trent Jn – Site of Former
+                                      0  00  0 28  8    Y
+                 Dawes Lane Jn
+       LN756 NOP2Site of Former Dawes Lane Jn – NR
+                                      0  25  3 60  8    Y
+                 Boundary (Roxby)
+       LN758 BKS Brancliffe East Jn – St Catherines Jn
+                                      0  00 15 17  8    Y
+       LN758 BKS St Catherines Jn – Low Ellers Curve
+                                      15 17 15 55  8    Y
                  Jn
-       LN904 HSC Hambleton South Jn – Hambleton
-                                     174 10 17533 10    Y
-                 West Jn
-       LN906 HNC Hambleton East Jn – Hambleton
-                                      3  34  4 00 10    Y
-                 North Jn
-       LN908 SEC Selby West Jn – Canal Jn
-                                      0  00  0 32  9    Y
-       LN910 TCW1Temple Hirst Jn – Selby Canal Jn
-                                     169 16 17359  9    Y
-       LN910 TCW1Selby Canal Jn – Selby South Jn
-                                     173 59 17411  9    Y
-       LN912 TJG1Thorne Jn – Thorne North Change of
-                                      7  69  9 09  8    Y
-                 ELR
-       LN912 TJG2Thorne North Change of ELR –
-                                      14 06  0 00  8    Y
-                 Gilberdyke Jn
-       LN914 HBS West Parade Jn – West Parade North
-                                      0  25  0 72  8    Y
-                 Jn
-       LN914 HBS West Parade North Jn – Walton Street
-                                      0  72  1 29  7    Y
-                 Jn
-       LN914 HBS Walton Street Jn – Seamer West Jn
-                                      1  29 50 43  6    R1   R1Prohibited from Bridlington platform 4 (Down line)
-                                                        R2   R2Prohibited from Bridlington bay platform 7
-       LN916 HJS Hessle Road – Springbank North Jn
-                                      0  00  1 38  8    Y
-       LN916 HJS Springbank North Jn – Network Rail
-                                      1  38  5 62  7    Y
-                 Boundary
-       LN918 SPW Springbank North Jn – Walton Street
-                                      1  54  1 29  8    Y
-                 Jn
+       LN758 BKS Low Ellers Curve Jn – Kirk Sandall Jn
+                                      15 55 20 49  8    Y
+       LN760 HAC Firbeck Jn – Harworth Colliery
+                                      11 20 14 21  7    Y
+       LN762 YDS St. Catherines Jn – Decoy South Jn
+                                      15 17 15 71  8    Y
+                 (St. Catherines Curve)
+       LN764 UDS Low Ellers Curve Jn – Potteric Carr Jn
+                                      15 55 16 56  8    Y
+       LN766 HJB Bentley Jn – Hexthorpe Jn (Doncaster
+                                      3  24  0 00  8    Y
+                 Avoiding Line)
+       LN768 PSE Route Boundary (LN3273) (Mansfield)
+                                     143 00 15430  8    R1   R1Prohibited between Littlewood (143m 40ch) and Shirebrook on the
+                 – Shireoaks East Jn                    R2     Down Mansfield
+                                                             R2Prohibited between Langwith Whaley-Thorns and Creswell on the
+                                                               Down Mansfield
+       LN772 SWP Warsop Jn – Shirebrook Jn
+                                      0  00  0 45  9    Y
+       LN774 BAC2Barrow Hill North Jn – Seymour Jn SB
+                                     149 53 15221  7    Y
+       LN774 BAC3Seymour Jn SB – Oxcroft Disposal
+                                     155 06  0 78  7    Y
+                 Point
+       LN776 HLF1Hall Lane Jn – Change of ELR
+                                      0  44  0 00  7    Y
+       LN776 HLF2Change of ELR – Foxlow Jn
+                                     150 47 15064  7    Y
+       LN778 BOC1Seymour Jn – Bolsover7  51  5 21  7    Y
+       LN782 SHW Woodend Jn – Shireoaks West Jn
+                                     153 71 15436  8    Y
+       LN784 HIM High Marnham – Thoresby Colliery Jn
+                                      27 48 17 16  8    Y
+       LN784 HIM Thoresby Colliery Jn – Warsop Jn
+                                      17 16 10 59  8    Y
+       LN784 HIM Warsop Jn – Shirebrook South Jn
+                                      10 59 10 19  8    Y
+       LN784 HIM Shirebrook South Jn – Shirebrook
+                                      10 19  9 72 10    Y
+                 East Jn
+       LN786 BEC Boughton Jn – Network Rail Boundary
+                                      0  00  4 22  -    Y
+                 (Bevercotes Colliery)
 
 
-
-
-    October 2009                                    122
+    October 2009                                    115

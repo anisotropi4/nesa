@@ -6,26 +6,94 @@
 
 
 
-     Line of
-          ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo
-                                                  RA  60 66  67  68  70 73  97/3Notes
-     route                           M  Ch M  Ch     000000000000   000000000000
-     LN634MBW3 Grosmont Jn – Whitby  24  44 30 61  7  N   Y   N   Y  Y   Y   Y
-     LN636No ELR Beam Mill Jn – Network Rail Boundary
-                                     18  03 18 67  8  Y   Y   Y   Y  Y   Y   Y
-     LN638WCI Shell Jn – Network Rail Boundary
-                                      0  00 1  03  8  Y   Y   Y   Y  Y   Y   Y
-     LN642SSK1Saltburn West Jn – Network Rail Boundary
-                                     27  05 34 29  8  Y   Y   Y   Y  Y   Y   Y
-              (Cleveland Potash)
-     LN644BOH Hartburn Jn – Bowesfield SB (Hartburn
-                                      0  00 0  44  8  Y   Y   Y   Y  Y   Y   Y
-              Curve)
-     LN646STF Norton-on-Tees South – Ferryhill South Jn
-                                      0  00 10 72  8  Y   Y   Y   Y  Y   Y   Y
+     Line of ELR
+             Line of Route / Sector Description
+                                    oooo oooo oooo oooo RA 37/5 37/7 43 47/2 47/4 47/7 56
+                                                                       5758 59  Notes
+     route                           M  Ch  M Ch 000 000 37/9 000 000 000 000 000 000 000 000
+                                                       000
+
+         WAG2 Engine Shed Jn – Goole Potters Grange Jn
+     LN882                            0  64  0 00 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN884
+         OAJ Oakenshaw South Jn – Oakenshaw Jn.
+                                      49 41 48 76 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN886
+         TJC3Monk Bretton – Oakenshaw South Jn
+                                     176 22 18175 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN886
+         OSC Oakenshaw South Jn – Crofton East Jn
+                                     181 75 18304 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN888
+         CJS Stainforth Jn – Thorpe Marsh Jn
+                                     166 70 16376 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN888
+         HTM Thorpe Marsh Jn – Haywood Jn
+                                      69 56 67 66 9  Y Y  Y  Y Y  Y  Y Y  N  Y
+     LN888
+         KWS Haywood Jn – Knottingley West Jn
+                                      67 66 58 20 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN888
+         FKW Knottingley West Jn – Ferrybridge North Jn
+                                      2  71  2 27 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN889
+         KWS Shaftholme Jn – Haywood Jn
+                                      68 75 67 66 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN892
+         PEF Pontefract East Jn – Ferrybridge South Jn
+                                      3  06  2 38 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN894
+         KES Knottingley South Jn – Knottingley East Jn
+                                      0  00  0 20 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN896
+         DRA1Drax Branch Jn – Drax Power Station (NR
+                                      0  00  4 16 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Boundary)
+     LN898
+         HUL4Neville Hill East Jn – Micklefield Jn
+                                      18 25 10 63 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN898
+         HUL4Micklefield Jn – Micklefield Change of ELR
+                                      10 63 10 60 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN898
+         HUL3Micklefield Change of ELR – Gascoigne Wood
+                                      10 60  6 27 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Jn
+     LN898
+         HUL3Gascoigne Wood Jn – Selby West Jn
+                                      6  27  0 36 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN898
+         HUL3Selby West Jn – Selby South Jn
+                                      0  36  0 00 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN898
+         HUL2Selby South Jn – Site of Former Barlby Jn
+                                      31 12 30 40 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN898
+         HUL1Site of Former Barlby Jn – Anlaby Road Jn
+                                      30 40  0 73 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN898
+         HUL1Anlaby Road Jn – Hull    0  73  0 00 8 R1 R1 R1R1 R1 R1R1 R1 R1R1 R1Prohibited Hull platforms 3
+     LN900
+         HUE Neville Hill West Jn – Hunslet East
+                                      0  00  0 55 10 Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN902
+         CFM Micklefield Jn – Church Fenton North Jn
+                                      15 62 10 31 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN904
+         HSC Hambleton South Jn – Hambleton West Jn
+                                     174 10 17533 10 Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN906
+         HNC Hambleton East Jn – Hambleton North Jn
+                                      3  34  4 00 10 Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN908
+         SEC Selby West Jn – Canal Jn 0  00  0 32 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+         TCW1 Temple Hirst Jn – Selby Canal Jn
+     LN910                           169 16 17359 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+         TCW1 Selby Canal Jn – Selby South Jn
+     LN910                           173 59 17411 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN912
+         TJG1Thorne Jn – Thorne North Change of ELR
+                                      7  69  9 09 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
 
 
-
-
-     October 2009                                   66A
+     October 2009                                   61J                                             )

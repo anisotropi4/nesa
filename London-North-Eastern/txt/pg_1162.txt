@@ -6,67 +6,64 @@
 
 
 
-     Line of
-          ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo RA
-                                                    08 09 20 2531/1 31/4
-                                                                      3337/0 Notes
-     route                           M  Ch M  Ch               31/6     37/3
-                                                                        37/4
-                                                                        37/6
-     LN185GRS2Sleaford West Jn – Sleaford East Jn
-                                    120 29 12121  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN185GRS2Sleaford East Jn – Site of Former Boston
-                                    121 21 13706  8 Y  Y  Y  N  Y  Y  Y  Y
-              Sleaford Line Jn
-     LN185GRS3Site of Former Boston Sleaford Line Jn –
-                                    106 70 10724  8 Y  Y  Y  N  Y  Y  Y  Y
-              Boston
-     LN185GRS3Boston – Site of Former Firsby East Jn
-                                    107 24 12222  7 Y  Y  Y  N  Y  Y  Y  Y
-     LN185GRS4Site of Former Firsby East Jn - Skegness
-                                      0 28  9 17  7 Y  Y  R1 N  R1 R1 R1 R1 R1Prohibited Skegness platform 7
-     LN190ACD Allington East Jn – Allington North Jn
-                                      0 00  0 25  8 Y  Y  Y  N  Y  Y  Y  Y
-              (Allington Chord)
-     LN195NOG1Nottingham Branch Jn – Route Boundary
-                                    106 08 11160  8 Y  Y  Y  N  Y  Y  Y  Y
-              (LN3635) (Rectory Jn SB)
-     LN200NOB3Wrawby Jn – Pelham Street Jn
-                                     12 55 41 26  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN206NOB1Route Boundary (LN3625) (Nottingham
-                                     16 02 32 00  8 Y  Y  Y  N  Y  Y  Y  Y
-              East Jn) – Coulson Change of ELR
-     LN206NOB2Coulson Change of ELR – Boultham Jn
-                                     32 00 32 40  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN206NOB2Boultham Jn – West Holmes Jn
-                                     32 40 32 70  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN210NSE Newark Crossing South Jn – Newark
-                                      0 00  0 21  8 Y  Y  Y  N  Y  Y  Y  Y
-              Crossing East Jn
-     LN215BHP Boultham Jn – Pyewipe Jn0 00  0 65  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN220BCB Bessacarr Jn – Black Carr Jn
-                                    115 72 11644  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN235FWR1 Rossington Colliery Jn – End of Line
-                                    152 12 15169  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN235FWR2 Rossington Colliery – End of Line
-                                    153 31 15169  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM2Shaftholme Jn – Temple Hirst Jn
-                                    160 16 16916  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM3Temple Hirst Jn – Colton Jn
-                                    169 16 18279 10 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM4Colton Jn – Colton North Jn
-                                    182 79 18365  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM4Colton North Jn – York Station
-                                    183 65 18840  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM5York Station – Birtley Jn
-                                      0 00 75 26 9* Y  Y  Y  N  Y  Y  Y  Y
-              *    York platform 2 RA3, platform 4
-              RA8 and platform 5 RA8
-     LN600ECM5Birtley Jn – Low Fell Jn (including via Tyne
-                                     75 26 77 37  9 Y  Y  Y  N  Y  Y  Y  Y
-              Yard)
-     LN600ECM5Low Fell Jn – King Edward Bridge South Jn
-                                     77 37 79 42  9 Y  Y  Y  N  Y  Y  Y  Y
+     Table D3A (East Midlands) – Route clearance of coaching stock
+                                                                                     Last Updated: 14/07/2018
+    To be read in conjunction with General Notes.
+    Network Rail documentation may refer to either Mark 1-3 stock or C1-3 gauge as detailed below:
+    C1 = standard passenger coaching stock gauge for Mark 1 and Mark 2 coaches with 9’0” wide bodywork and 64’6” or (57’) long underframes.
+    C3 = standard passenger coaching stock gauge for Mark 3 coaches which are 23 metres (75’) long overall.
+    Mk3 (MOD) = Mk 3 coaches (Modified) and refers to Mk 3 coaches which have been fitted with powered bodyside plug doors.
+    Mk3 DVT (MOD) = Mk3 DVT (Modified) and refers to Mk3 DVTs that have had centre pivot lateral bump stops modified to ESG-S-MO15, reducing lateral body movement.
+    Mk4 DVTs can operate over all routes cleared for Mark 4 coaching stock. Any restrictions applied to Mk4 coaching stock also apply to Mk 4 DVTs.
+    Mk3 coaches used with Class 43 power cars and fitted with external power-operated sliding doors, manufactured by Vapor Stone Rail Systems, and CET are compatible with all routes shown as
+    cleared for Mk3 coaches.
 
-     October 2009                                    54
+     Line of
+          ELR Line of Route / Sector Description oooo oooo oooo oooo MK1
+                                                    MK2 MK3MK3 MK3 MK3 MK4 Notes
+     route                          M  Ch M  Ch 0000               DVT
+                                                       0000 (MOD) DVT
+                                                    0000               0000
+                                                                  (MOD)
+     LN3140
+          BBM Route Boundary (MD140) (Bedford St.
+                                    16 07  16 50 Y   Y  Y   N   N   N   N
+              Johns) – Bedford Station Jn
+     LN3140
+          SPC1Bedford Station Jn – Bedford Station
+                                    49 60  49 65 Y   Y  Y   N   N   N   N
+              (Via Up and Down Bletchley line)
+     LN3201
+          SPC1St. Pancras platforms 1, 2, 3 and 4 -
+                                     0 12  5  09 Y   Y  Y   N   N   N   N
+              Cricklewood
+     LN3201
+          SPC1Cricklewood – Change of ELR (Bedford)
+                                     5 09  50 00 Y   Y  Y   N   N   N   N
+     LN3201
+          SPC2Change of ELR (Bedford) – Change of
+                                    50 00  64 78 Y   Y  Y   N   N   N   N
+              ELR (Wellingborough)
+     LN3201
+          SPC3Change of ELR (Wellingborough) –
+                                    64 78  95 38 Y   Y  Y   N   N   N   N
+              Change of ELR (Wigston South Jn)
+     LN3201
+          SPC4Change of ELR (Wigston South Jn) –
+                                    95 38  98 73 Y   Y  Y   N   N   N   N
+              Change of ELR (Leicester)
+     LN3201
+          SPC5Change of ELR (Leicester) – Leicester
+                                    98 73  99 07 Y   Y  Y   N   N   N   N
+     LN3201
+          SPC5Leicester – Ratcliffe Jn
+                                    99 07 118 34 Y   Y  Y   EH  N   Y   N R1 Prohibited between Leicester and
+                                                            R1               Loughborough
+                                                            R2            R2 Prohibited with footsteps fitted
+
+     LN3201
+          SPC5Ratcliffe Jn – Change of ELR (Ratcliffe)
+                                    11834 118 60 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+                                                            R1
+
+     October 2009                                    49

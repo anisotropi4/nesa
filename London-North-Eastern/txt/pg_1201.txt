@@ -7,62 +7,65 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                      oooo oooo oooo oooo
-                                                    RA  60 66  67  68  70 73  97/3Notes
-     route                             M  Ch M  Ch     000000000000   000000000000
-     LN694BNE Benton North Jn – Site of Former Earsdon Jn
-                                       0  00  2 53  8   Y  Y   Y   Y   Y  Y   Y
-     LN694EJM Site of Former Earsdon Jn – Morpeth North Jn
-                                       7  08 20 47  8   Y  Y   Y   Y   Y  Y   Y
-     LN696HJM Hepscott Jn – Morpeth Jn 19 44 20 47  8   Y  Y   Y   Y   Y  Y   Y
-     LN700BWO2 Butterwell Jn – Signal B1
-                                       0  00  0 48  8   Y  Y   N   Y   Y  Y   Y
-     LN702BWC Bedlington North – Network Rail Boundary
-                                       0  00  4 14  8   Y  Y   Y   Y   Y  Y   Y
-              (Lynemouth Colliery)
-     LN704ISC Newsham North Jn – Network Rail Boundary
-                                       0  00  0 36  -   N  N   N   N   N  N   N Line out of use
-              (Blyth Bates Terminal)                                            NME/2010/LNE/006 and NME/2010/LNE009
-     LN706WSB West Sleekburn Jn – North Blyth
-                                       0  00  3 22  8   Y  Y   Y   Y   Y  Y   Y
-     LN708MWJ Winning Jn – Marchey's House Jn
-                                       0  31  0 00  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3Cleethorpes – Grimsby Docks
-                                      112 40 11011  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3Grimsby Docks – Marsh West Jn
-                                      110 11 10769  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3Marsh West Jn – Wrawby Jn
-                                      107 69 94 12  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3Wrawby Jn – West Burton East Jn
-                                       94 12 72 18  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3West Burton East Jn – Thrumpton West Jn
-                                       72 18 63 28  8   Y  Y   Y   Y   Y  Y   Y
-              (Up)
-     LN736MAC3Thrumpton West Jn (Up) – Manton Wood
-                                       63 28 58 54  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3Manton Wood – Brancliffe East Jn
-                                       58 54 53 57  8   Y  Y   Y   Y   Y  Y   Y
-     LN736MAC3Brancliffe East Jn – Woodburn Jn
-                                       53 57 42 29  8   Y  Y   Y   Y   Y  Y   Y
-     LN736NUJ2Woodburn Jn – Site of Former Nunnery Jn
-                                       42 29 41 68  8   Y  Y   Y   Y   Y  Y   Y
-     LN736NUJ1Site of Former Nunnery Jn – Nunnery Main
-                                      159 33 15877  8   Y  Y   Y   Y   Y  Y   Y
-              Line Jn
-     LN738MWN Great Coates No. 1 – Network Rail Boundary
-                                      108 34 10844  8   Y  Y   Y   Y   Y  Y   Y
-              (ABP)
-     LN740MWN Marsh West Jn – Network Rail Boundary (ABP) 107
-                                          69 10844  8   Y  Y   Y   Y   Y  Y   Y
-     LN740PYE2Network Rail Boundary (ABP) – Site of Former
-                                       4  33  0 00  8   Y  Y   Y   Y   Y  Y   Y
-              Queens Road Jn
-     LN740PYE1Site of Former Queens Road Jn – Immingham 106
-                                          50 10631  8   Y  Y   Y   Y   Y  Y   Y
+          ELR Line of Route / Sector
+                                 oooo oooo oooo oooo
+                                               RA  60 66  67  68  70 73  97/3 Notes
+     route    Description         M  Ch M  Ch     00000000 0000  0000 0000
+                                                                         0000
+     LN126DCF Hitchin North Jn – Hitchin East Jn
+                                   32 53 34 05  9  Y   Y   Y   Y  Y   Y   Y
+     LN135EMP Route Boundary (EA1560) (Ely West
+                                   98 40100 66  9  Y   Y   Y   Y  Y   Y   Y
+              Jn) – Crescent Jn
+     LN145WDU Marholm Jn – Glinton Jn
+                                   0  00  1 64 10  Y   Y   Y   Y  Y   Y   Y
+     LN147PMJ Helpston Jn – Route Boundary
+                                   16 71 13 60  9  Y   Y   Y   Y  Y   Y   Y
+              (LN3615)
+     LN150SPD5Flyover East – Decoy North Jn
+                                  116 20117 46  8  Y   Y   Y   Y  Y   Y   Y
+     LN155LCJ Flyover East Jn – Loversall Jn (Up
+                                  152 79152 36  8  Y   Y   Y   Y  Y   Y   Y
+              Loversall Curve)
+     LN160LCR Loversall Carr Jn – Rossington Colliery 152
+                                      00152 12  8  Y   Y   Y   Y  Y   Y   Y
+              Jn
+     LN160FWR1 Rossington Colliery Jn – Flyover West
+                                  152 12153 19  8  Y   Y   Y   Y  Y   Y   Y
+              Jn
+     LN165HPW Route Boundary (EA1370) (Harringay
+                                   0  14  0 03  9  Y   Y   Y   Y  Y   Y   Y
+              Park Jn) – Harringay Jn
+     LN170WEB Werrington Jn – Site of Former
+                                   79 34 92 58  8  Y   Y   Y   Y  Y   Y   Y
+              Spalding South Jn
+     LN170SPD1Site of Former Spalding South Jn –
+                                   44 07 62 14  8  Y   Y   Y   Y  Y   Y   Y
+              Sleaford South Jn
+     LN170SPD2Sleaford South Jn – Sleaford North Jn
+                                   62 14 63 48  8  Y   Y   Y   Y  Y   Y   Y
+     LN170SPD2Sleaford North Jn – Site of Former
+                                   63 48 81 25  8  Y   Y   Y   Y  Y   Y   Y
+              Greetwell West Jn
+     LN170SPD3Site of Former Greetwell West Jn –
+                                   81 25 98 56  8  Y   Y   Y   Y  Y   Y   Y
+              Trent East Jn
+     LN170MAC3Trent East Jn – Trent West Jn
+                                   73 25 73 11  8  Y   Y   Y   Y  Y   Y   Y
+     LN170SPD4Trent West Jn – Bessacarr Jn
+                                   98 68115 72  8  Y   Y   Y   Y  Y   Y   Y
+     LN170SPD5Bessacarr Jn – Doncaster, Flyover
+                                  115 72116 20  8  Y   Y   Y   Y  Y   Y   Y
               East Jn
+     LN175SSE Sleaford South Jn – Sleaford East Jn
+                                   0  00  0 43  8  Y   Y   Y   Y  Y   Y   Y
+     LN180SNW Sleaford West Jn – Sleaford North Jn
+                                   1  34  3 42  8  Y   Y   Y   Y  Y   Y   Y
+     LN185ABE1Allington West Jn – Site of Former
+                                   0  00  4 08  8  Y   Y   Y   Y  Y   Y   Y
+              Barkston East Jn
+     LN185GRS1Barkston East Jn – Site of Former
+                                  110 12112 00  8  Y   Y   Y   Y  Y   Y   Y
+              Honington Jn
 
-
-
-
-     October 2009                                   67A
+     October 2009                                    63

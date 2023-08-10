@@ -5,54 +5,70 @@
 
 
 
+              STATION       DOWN   UP   SINGLE     MULTI-PLATFORM
+       SWINTON (SOUTH YORKS)
+       Platform 1 (Down Main) 92    -     -              -
+       Platform 2 (Up Main)   -     92    -              -
+       Platform 3 (Down Doncaster)
+                              92    -     -              -
+       TEESSIDE AIRPORT      76.4  76.4   -              -
+       THIRSK                135   148    -              -
+       THORNABY              143   146    -              -
+       THORNE NORTH           89    90    -              -
+       THORNE SOUTH           90    90    -              -
+       THORNTON ABBEY         55    55    -              -
+       THORPE CULVERT         62    63    -              -
+       THURNSCOE              92    92    -              -
+       ULCEBY                 -     -    44.7            -
+       ULLESKELF             106   106    -              -
+       UNIVERSITY            65.4  65.4   -              -
+       WAINFLEET              98    99    -              -
+       WAKEFIELD KIRKGATE
+       Platform 1 (Down L&Y) 92     -     -              -
+       Platform 2 (Up L&Y)   -      120   -              -
+       Platform 3 (Down Goole)
+                             -      -     -          (Up/Down) 103
+       WAKEFIELD WESTGATE    254    253   -              -
+       WATTON-AT-STONE      126.6  126.5  -              -
+       WEETON                88    86.9   -              -
+       WELHAM GREEN          129    129   -              -
+       WELWYN GARDEN CITY
+       Platform 1 (Up Back)   -     185   -              -
+       Platform 2 (Up Slow)   -     185   -              -
+       Platform 3 (Down Slow)185    -     -              -
+       Platform 4 (Down Back)185    -     -              -
+       WELWYN NORTH          170   170.1  -              -
+       WETHERAL              80     95    -              -
+       WHITBY                 -     -     -
+       Platform 1             -     -                   177.3
+       Platform 2             -     -                   172.0
+       WHITLEY BRIDGE        65     59    -              -
+       WHITWELL              79     79    -              -
+       WIDDRINGTON           90     90    -              -
+       WINCHMORE HILL       136.6  135.4  -              -
+       WOMBWELL              134    99    -              -
+       WOODHOUSE             82     82    -              -
+       WOODLESFORD           100    71    -              -
+       WORKSOP             121    113 (Up
+                                        WORKS 121
+                                  direction
+                                        OP
+       WRESSLE               95    79.4   -              -
+       WYLAM                 92    107    -              -
+       YARM                  94    101    -              -
+       YORK
+       Platform 1 Bay         -     -     -             184.8
+       Platform 2 Bay         -     -     -             169.7
+       Platform 3             -     -     -        Down 242.3 Up 272.6
+       Platform 4             -     -     -             157.5
+       Platform 5             -     -     -        Down 391.8 Up 410.6
+       Platform 6 Bay         -     -     -             264.5
+       Platform 7 Bay         -     -     -             249
+       Platform 8 Bay         -     -     -             152
+       Platform 9             -     -     -        Down 380.7 Up 401.4
+       Platform 10            -     -     -        Down 332.5 Up 330.1
+       Platform 11            -     -     -           Down 329.5
+                                      London North Eastern Route GI - Dated: 07/05/2023
 
-       Overlay Miniature Stop Light Level Crossings (OMSL)
-       A Miniature Stop Light (MSL) is the conventional active warning system used to give indications at private user worked
-       crossings, public bridleway and footpath crossings. Indications provided for the user to determine that the crossing is safe
-       to cross (green) or not safe to cross (red). The system is designed to overlay existing infrastructure without interacting with
-       it, however permissible speeds in the wrong direction on the approach should be identified on multiple track lines with
-       wrong direction speed boards. It is expected that train detection inputs to the system will usually be provided as part of the
-       system and typically these systems may be referred to as “EBI Gate 200” or “VaMoS”, although other systems may be
-       used. The system is usually activated by wheel sensors that operate in a similar way to Axle Counters, when they detect a
-       train they set the lights to red, when the train hits the strike out sensor the lights go to green.
-       Where a system failure is detected or operational scenario (e.g. train failure, slow trains, engineering works) may incur the
-       red (not safe to cross) indication for excessive periods, user indications are suppressed. On encountering this mode the
-       user is directed on safe operation by the signage provided, however they can be reactivated by another train passing or
-       through a manual reset.
-       Would all staff please note that, like Axle Counters, using metal tools or simply passing by within a metre wearing safety
-       boots can cause activation of these sensors and should be avoided.
-                                     London North Eastern Territory GI - Dated: 02/06/18
 
-
-       Proceeding over a manned level crossing equipped with
-       non block signals operated by a crossing keeper during
-       signal failure/disconnection of equipment or Single Line
-       Working
-       At the level crossings listed the protecting signals are not part of the block signalling and are only provided to protect the
-       level crossing.
-       During a signal failure/disconnection of equipment the driver will receive a green hand signal from the crossing keeper as
-       authority to proceed over the level crossing irrespective of the aspect/indication shown at that protecting signal at locations
-       on the lines indicated below:
-       Ulceby North Jn to Barton on Humber (LN744-LN5)
-       Barrow Road
-       Mansfield Woodhouse to Shireoaks Jn (LN768-LN5)
-       Norwood
-       York to Scarborough (LN880-LN7)
-       Howsham
-       Leeds Armley Jn to York Skelton Jn (via Harrogate) (LN838-LN7)
-       Belmont (Up direction only* - SPT provided on Down direction signal)
-       Wilstrop
-       Marston Moor
-       Hull to Seamer West Jn (LN914-LN7)
-       Gristhorpe
-       King Edward Bridge Jn to Carlisle North Jn (LN682-LN8)
-       Milton Village
-       Bedlington North Jn to Lynemouth Alcan (LN702-8)
-       North Seaton
-       The Driver having received the green handsignal must regulate the speed of the train in accordance with the
-       aspect/indication previously displayed at the section signal.
-
-
-
-
-       February 2021                 51        (Supplement No. 49 – 27 February 2021)
+       February 2021                 50

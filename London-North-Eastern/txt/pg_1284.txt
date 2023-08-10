@@ -4,87 +4,66 @@
                                         LNE Route Sectional Appendix Module LNRC
 
 
-     Line of
-          ELR Line of Route / Sector
-                                  oooo oooo oooo oooo RA
-                                                  Loco Gauge
-                                                           Notes
-     route    Description          M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
 
-     LN3201
-          SPC4Change of ELR (Wigston South Jn) –
-                                   95 38 98 73  8    Y
-              Change of ELR (Leicester )
-     LN3201
-          SPC5Change of ELR (Leicester ) –
-                                   98 73 99 07  8    Y
-              Leicester
-     LN3201
-          SPC5Leicester – Ratcliffe Jn
-                                   99 07 11834  8    Y
-     LN3201
-          SPC5Ratcliffe Jn – Change of ELR
-                                  118 34 11860  8    Y
-              (Ratcliffe)
-     LN3201
-          SPC6Change of ELR (Ratcliffe) – Change
-                                  118 60 12627  8    Y
-              of ELR (Spondon)
-     LN3201
-          SPC7Change of ELR (Spondon) – London
-                                  126 27 12823  8    Y
-              Road Jn
-     LN3201
-          SPC8London Road Jn – Derby Jn
-                                  127 54 12808  8    Y
-     LN3201
-          SPC8Derby Jn – Former Clay Cross South
-                                  128 08 14769  8    Y
-              Jn
-     LN3201
-          SPC9Former Clay Cross South Jn – Route
-                                  142 10 14664  8    Y
-              Boundary (LN804 / LN806) (Tapton
-              Jn)
-     LN3204
-          TSN1Trent South Jn – Mansfield Jn
-                                  119 17 12564  8    Y
-     LN3204
-          TSN2Mansfield Jn – Nottingham East Jn
-                                  124 22 12327  8    Y
-     LN3207
-          TCC Trent East Jn – Change of ELR
-                                  119 70 14210  8    Y
-              (between Morton Jn and Clay Cross
-              North Jn)
-     LN3207
-          SPC9Change of ELR (between Morton Jn
-                                  142 10 14312  8    Y
-              and Clay Cross North Jn) – Clay Cross
-              North Jn
-     LN3210
-          JRT2Route Boundary (EA1370) (Junction
-                                    2 38  2 00  8    Y
-              Road Jn) – Change of ELR (Between
-              Tottenham North Curve No.2 and No.1
-              Tunnels)
-     LN3210
-          JRT1Change of ELR (Between Tottenham
-                                    0 18  0 03  8    Y
-              North Curve No.2 and No.1 Tunnels) –
-              Carlton Road Jn (Tottenham Lines)
-     LN3213
-          MCL Route Boundary (SO280) (former
-                                    0 66  3 58  5    N
-              Farringdon Jn) – Kentish Town Jn
-     LN3214
-          CBI Canal Tunnel Jn – Belle Isle Jn
-                                   0  00 0  53  3    N
-     LN3219
-          CAW Cricklewood Curve Jn – Route
-                                    5 19  5 72  8    Y
-              Boundary (EA1360) (Dudding Hill)
+
+       Line of
+             ELR Line of Route / Sector
+                                     oooo oooo oooo oooo RA Loco Gauge
+                                                              Notes
+       route     Description          M  Ch  M  Ch 000 0000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                                         0
+       LN854 MVN2Turners Lane Jn – Site of Former
+                                      48 33  50 31 9     Y
+                 Goose Hill Jn
+       LN854 TJC3Site of Former Goose Hill Jn – Altofts
+                                      18456 186 00 8     Y
+                 Jn
+       LN854 NOC Altofts Jn – Sherburn Jn
+                                       2357  13 20 9     Y
+       LN854 NOC Sherburn Jn – Colton Jn
+                                       1320  5  41 9     Y
+       LN854 ECM4Colton Jn – Holgate Jn
+                                      18279 188 07 9     Y
+       LN854 ECM4Holgate Jn – York    18807 188 40 9     Y
+       LN854 ECM5York – Skelton Jn     0 00  1  50 9*    Y
+                 *    York platform 2 RA3, platform
+                 4 RA8 and platform 5 RA8
+       LN858 MRB Milner Royd Jn – Mill Lane Jn
+                                      29 20  40 01 8    R1   R1Prohibited between Hipperholme Tunnel and Lightcliffe Tunnel on the
+                                                        R2     Down line
+                                                        R3   R2Prohibited on the Down line through Beacon Hill Tunnel
+                                                             R3Prohibited on the Down line through Wyke Tunnel
+       LN859 GRD Greetland Jn – Dryclough Jn
+                                       1 11   0 00 8     Y
+       LN860 MVL3Route Boundary (NW7021)
+                                      15 11  25 20 9     Y
+                 (Stalybridge Tunnel Jn) – Springwood
+                 Jn
+       LN860 MVL3Springwood Jn – Change of ELR
+                                      25 20  29 00 9     Y
+                 (Heaton Lodge Jn)
+       LN860 MVL4Change of ELR (Heaton Lodge Jn) –
+                                      29 00  29 45 9     Y
+                 Heaton Lodge Jn (Up line)
+       LN860 MVL4Change of ELR (Heaton Lodge Jn) –
+                                      29 00  29 74 9     Y
+                 Heaton Lodge East Jn (Down Line)
+       LN860 MVN2Heaton Lodge Jn – Heaton Lodge East
+                                      37 18  37 47 9     Y
+                 Jn
+       LN860 MVN2Heaton Lodge East Jn – Thornhill LNW
+                                      37 47  39 72 8     Y
+                 Jn
+       LN860 MDL1Thornhill LNW Jn – Copley Hill East Jn
+                                      32 16  42 03 8    R1   R1Prohibited between Cottingley and Copley Hill East Jn on the Up
+                                                        R2     Huddersfield line
+                                                             R2Prohibited between Batley and Morley on the Down Huddersfield line
+       LN861 BBW Bradley Jn – Bradley Wood Jn
+                                       0 00   1 17 8     Y
+       LN862 PED2Barnsley Station Jn – Site of Former
+                                       6 43   0 00 8     Y
+                 Barnsley Jn
 
 
 
-    October 2009                                    126
+    October 2009                                    119

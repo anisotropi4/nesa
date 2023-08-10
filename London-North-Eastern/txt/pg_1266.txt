@@ -1,73 +1,76 @@
                                                   OFFICIAL
 
 
-                                        LNE Route Sectional Appendix Module LNRC
+                                          LNE Route Sectional Appendix Module LNRC
 
 
 
-       Line of
-             ELR Line of Route / Sector Description
-                                     oooo oooo oooo oooo
-                                                  RA  Loco Gauge
-                                                              Notes
-       route                          M  Ch M  Ch 00000000000000
-                                                             ooooooooooooooooooooooooooooooooooooooooooooooo
+     Line ofLine of Route / Sector               Gauge                Notes
+     Route  Description
+                                 W6  W7   W8  W9  W9PlusW10  W10A W12
+     LN875  Castleford West Jn – Pontefract West
+                                 Y*  Y    Y   N   N     N    N    N
+            Jn
+     LN876  Castleford East Jn – Ledston
+                                 -   -    -   -   -     -    -    -   Line 'Out of Use'
+     LN878  Sherburn Jn – Gascoigne Wood
+                                 Y   Y    Y   Y   N     Y    N    Y
+     LN880  York – Scarborough   Y*  N    N   N   N     N    N    N
+     LN882  Wakefield Kirkgate West Jn – Calder
+                                 Y*  Y    Y   N   N     N    N    N
+            Bridge Jn
+     LN882  Calder Bridge Jn – Crofton West Jn
+                                 Y*  Y    Y   Y   N     N    N    N
+     LN882  Crofton West Jn – Goole Potters
+                                 Y*  Y    Y   N   N     N    N    N
+            Grange Jn
+     LN882  Mineral Jn – Goole Docks
+                                 Y   Y    Y   N   N     N    N    N
+     LN882  Whitley Bridge Junction – NR/Power
+                                 Y   Y    Y   N   N     N    N    N
+            Station Boundary [0m 03ch]
+     LN884  Oakenshaw South Jn – Oakenshaw Jn
+                                 Y   N    N   N   N     N    N    N
+     LN886  Monk Bretton Loop – Crofton East Jn
+                                 Y   N    N   N   N     N    N    N
+     LN888  Shaftholme Jn – Knottingley West Jn
+                                 Y   Y    R1  R1  R1    R1   R1   R1  R1 PROHIBITED Haywood Jn to Knottingly
+                                                                        West Jn
+     LN888  Knottingley West Jn – Ferrybridge
+                                 Y   Y    Y   N   N     N    N    N
+            North Jn
+     LN889  Saftholme Jn – Haywood Jn
+                                 Y   Y    Y   Y   Y     Y    Y    Y
+     LN892  Pontefract East Jn – Ferrybridge South
+                                 Y   Y    Y   N   N     N    N    N
+            Jn
+     LN894  Knottingley South Jn – Knottingley East
+                                 Y   Y    Y   N   N     N    N    N
+            Jn
+     LN896  Drax Power Station Branch
+                                 Y   Y    Y   N   N     N    N    N
+     LN898  Neville Hill East Jn – Gascoigne Wood
+                                 Y*  Y    Y   N   N     N    N    N
+            Jn
+     LN898  Gascoigne Wood Jn – Selby West Jn
+                                 Y   Y    Y   Y   N     Y    N    Y
+     LN898  Selby West Jn – Millfield Farm UWC
+                                 Y*  R1   R1  R1  R1    R1   R1   R1  R1 Prohibited from Selby Up bay platform 3
+     LN898  Millfield Farm UWC – Hull, Anlaby
+                                 Y*  Y    Y   N   N     N    N    N
+            Road Jn
+     LN898  Hull, Anlaby Road Jn – Hull
+                                 Y*  N    N   N   N     N    N    N
+     LN898  Hessle East Jn – Dairycoates NR limit
+                                 Y   Y    Y   N   N     N    N    N
+            [0m 70ch]
+     LN900  Neville Hill West Jn – Hunslet East
+                                 Y   N    N   N   N     N    N    N
+     LN902  Micklefield Jn – Church Fenton North
+                                 Y*  Y    Y   N   N     N    N    N
+            Jn
 
-       LN101 ECM1Marshgate Jn – Shaftholme Jn
-                                     156 26 16016  9    Y
-       LN105 MEB1Moorgate – Drayton Park
-                                      0  00  2 56  9    N
-       LN105 MEB1Drayton Park – Finsbury Park Jn
-                                      2  56  3 37  9    Y
-       LN110 CFP Route Boundary (EA1320) (Canonbury
-                                      3  20  4 33  9    Y
-                 West Jn) – Finsbury Park Jn
-       LN115 CRF1Copenhagen Jn – Route Boundary
-                                      0  00  0 20 10    Y
-                 (EA1320) (North London Incline)
-       LN120 HDB Wood Green Jn – Langley Jn via Hertford
-                                      5  07 28 15  9    R1   R1Prohibited Hertford North bay platform 3
-       LN120 HDB Langley Jn via Hertford – Stevenage
-                                      28 15 29 00  9    N
-                 platform 5 (End of line)
-       LN125 SBR Cambridge Jn – Route Boundary (EA1230)
-                                      32 11 45 60  9    Y
-                 (Meldreth)
-       LN126 DCF Hitchin North Jn – Hitchin East Jn
-                                      32 53 34 03  9    Y
-       LN135 EMP Route Boundary (EA1560) (Ely West Jn) –
-                                      98 40 10066  9    Y
-                 Crescent Jn
-       LN145 WDU Marholm Jn – Glinton Jn
-                                      0  00  1 64 10    Y
-       LN147 PMJ Helpston Jn – Route Boundary (LN3615)
-                                      16 71 13 60  9    Y
-                 (Uffington SB)
-       LN150 SPD5Flyover East – Decoy North Jn
-                                     116 20 11746  8    Y
-       LN155 LCJ Flyover East Jn – Loversall Jn (Up
-                                     152 79 15236  8    Y
-                 Loversall Curve)
-       LN160 LCR Loversall Carr Jn – Rossington Colliery Jn
-                                     152 00 15212  8    Y
-       LN160 FWR1Rossington Colliery Jn – Flyover West Jn
-                                     152 12 15319  8    Y
-       LN165 HPW Route Boundary (EA1370) (Harringay Park
-                                      0  14  0 03  9    Y
-                 Jn) – Harringay Jn
-       LN170 WEB Werrington Jn – Site of Former Spalding
-                                      79 34 92 58  8    Y
-                 South Jn
-       LN170 SPD1Site of Former Spalding South Jn –
-                                      44 07 62 14  8    Y
-                 Sleaford South Jn
-       LN170 SPD2Sleaford South Jn – Sleaford North Jn
-                                      62 14 63 48  8    Y
-       LN170 SPD2Sleaford North Jn – Site of Former
-                                      63 48 81 25  8    Y
-                 Greetwell West Jn
 
 
 
-
-    October 2009                                    108
+    October 2009                                    101

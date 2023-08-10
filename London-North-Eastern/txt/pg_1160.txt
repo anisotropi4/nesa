@@ -5,68 +5,63 @@
 
 
 
-
-     Table D4A (London North Eastern) – Route clearance of locomotives
-                                                                                     Last Updated: 04/02/2023
-     To be read in conjunction with General Notes.
-     ine of
-          ELR Line of Route / Sector
-                                  oooo oooo oooo oooo RA
-                                                  08 09 20 25 31/1 31/4
-                                                                    3337/0 Notes
-     route    Description          M  Ch M  Ch               31/6     37/3
-                                                                      37/4
-                                                                      37/6
-     LN101ECM1Kings Cross – Copenhagen Jn
-                                   0  00  0 64  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Copenhagen Jn – Holloway South /
-                                   0  64  1 44  9 Y  Y   Y N  Y  Y  Y  Y
-              North Jns
-     LN101ECM1Holloway South / North Jns – Wood
-                                   1  44  5 07  9 Y  Y   Y N  Y  Y  Y  Y
-              Green North Jn
-     LN101ECM1Wood Green North Jn – Langley Jn
-                                    5 07 25 73  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Langley Jn – St Neots25 73 51 58  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1St Neots – Fletton Jn51 58 75 02  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Fletton Jn – Peterborough
-                                   75 02  7629  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Peterborough – Newark North Gate
-                                   76 29 12008  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101PMJ Peterborough – Helpston Jn via
-                                   22 19  1671  9 Y  Y   Y N  Y  Y  Y  Y
-              Stamford lines
-     LN101ECM1Newark North Gate – Retford
-                                  120 08 13849  8 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Retford – Loversall Carr Jn
-                                  138 49 15000  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Loversall Carr Jn – Marshgate Jn
-                                  152 00 15626  9 Y  Y   Y N  Y  Y  Y  Y
-     LN101ECM1Marshgate Jn – Shaftholme Jn
-                                  156 26 16016  9 Y  Y   Y N  Y  Y  Y  Y
-     LN105MEB1Moorgate – Drayton Park
-                                   0  00  2 56  9 N  N   N N  N  N  N  N
-     LN105MEB1Drayton Park – Finsbury Park Jn
-                                   2  56  3 37  9 Y  Y   Y N  Y  Y  Y  Y
-     LN110CFP Route Boundary (EA1320) (Canonbury
-                                   3  20  4 33  9 Y  Y   Y N  Y  Y  Y  Y
-              West Jn) - Finsbury Park Jn
-     LN115CRF1Copenhagen Jn – Route Boundary
-                                   0  00  0 20 10 Y  Y   Y N  Y  Y  Y  Y
-              (EA1320) (North London Incline)
-     LN120HDB Wood Green Jn – Langley Jn via
-                                   5  07 28 15  9 Y  Y   Y N  Y  Y  Y  Y
-              Hertford
-     LN120HDB Langley Jn via Hertford – Stevenage
-                                   28 15 29 00  9 N  N   N N  N  N  N  N
-              platform 5 (End of line)
-     LN125SBR Cambridge Jn – Route Boundary
-                                   32 11 45 60  9 Y  Y   Y N  Y  Y  Y  Y
-              (EA1230)
-     LN126DCF Hitchin North Jn – Hitchin East Jn
-                                   32 53 34 05  8 N  N   Y N  Y  Y  Y  Y
+     LN888FKW Knottingley West Jn – Ferrybridge
+                                  2 71  2  27 Y  Y  Y   N  N  N  Y  Y   Y
+              North Jn
+     LN889KWS Shaftholme Jn – Haywood Jn
+                                 68 75  67 66 Y  Y  Y   N  N  N  Y  Y   Y
+     LN892PEF Pontefract East Jn – Ferrybridge
+                                  3 06  2  38 N  N  N   N  N  N  N  N   Y
+              South Jn
+     LN894KES Knottingley South Jn – Knottingley
+                                  0 00  0  20 Y  Y  Y   N  N  N  N  N   Y
+              East Jn
+     LN896DRA1Drax Branch Jn – Drax Power
+                                  0 00  4  16 N  N  N   N  N  N  N  N   N
+              Station (NR Boundary)
+     LN898HUL4Neville Hill East Jn – Micklefield Jn
+                                 18 25  10 63 Y  Y  Y   N  N  N  Y  Y   Y
+     LN898HUL4Micklefield Jn – Micklefield
+                                 10 63  10 60 Y  Y  Y   N  N  N  Y  N   Y
+              Change of ELR
+     LN898HUL3Micklefield Change of ELR –
+                                 10 60  6  27 Y  Y  Y   N  N  N  Y  N   Y
+              Gascoigne Wood Jn
+     LN898HUL3Gascoigne Wood Jn – Selby West
+                                  6 27  0  36 Y  Y  Y   N  N  N  Y  N   Y
+              Jn
+     LN898HUL3Selby West Jn – Selby South Jn
+                                  0 36  0  00 Y  Y  Y   N  N  N  N  N   Y
+     LN898HUL2Selby South Jn – Site of former
+                                 31 12  30 40 Y  Y  Y   N  N  N  N  N   Y
+              Barlby Jn
+     LN898HUL1Site of former Barlby Jn – Anlaby
+                                 30 40  0  73 Y  Y  Y   N  N  N  N  N   Y
+              Road Jn
+     LN898HUL1Anlaby Road Jn – Hull
+                                  0 73  0  00 Y  Y  Y   N  N  N  N  N  R1 R1Prohibited Hull Siding platform A
+                                                                       R2 R2Prohibited Hull Sidings B-E
+                                                                       R3 R3Prohibited Hull platforms 1 and 3
+     LN900HUE Neville Hill West Jn – Hunslet East
+                                  0 00  0  55 N  N  N   N  N  N  N  N   N
+     LN902CFM Micklefield Jn – Church Fenton
+                                 15 62  10 31 Y  Y  Y   N  N  N  Y  Y   Y
+              North Jn
+     LN904HSC Hambleton South Jn – Hambleton
+                                 17410 175 33 Y  Y  Y   N  N  N  Y  N   Y
+              West Jn
+     LN906HNC Hambleton East Jn – Hambleton
+                                  3 34  4  00 Y  Y  Y   N  N  N  Y  N   Y
+              North Jn
+     LN908SEC Selby West Jn – Canal Jn
+                                  0 00  0  32 Y  Y  Y   N  N  N  Y  N   Y
+     LN910TCW1 Temple Hirst Jn – Selby Canal Jn
+                                 16916 173 59 Y  Y  Y   N  N  N  Y  N   Y
+     LN910TCW1 Selby Canal Jn – Selby South Jn
+                                 17359 174 11 Y  Y  Y   N  N  N  Y  N   Y
+     LN912TJG1Thorne Jn – Thorne North Change
+                                  7 69  9  09 Y  Y  Y   N  N  N  N  N   N
+              of ELR
 
 
-
-
-     October 2009                                    52
+     October 2009                                   48H

@@ -5,57 +5,66 @@
 
 
 
-     LN190ACD Allington East Jn – Allington North
-                                  0 00  0  25 Y  Y  Y   N  N  N  N  N   N
-              Jn (Allington Chord)
-     LN195NOG1Nottingham Branch Jn – Route
-                                 10608 111 60 Y  Y  Y   N  N  N  Y  N   N
-              Boundary (LN3635) (Rectory Jn
-              SB)
-     LN200NOB3Wrawby Jn – Pelham Street Jn
-                                 12 55  41 26 Y  Y  Y   N  N  N  N  N   N
-     LN206NOB1Route Boundary (LN3625)
-                                 16 02  32 00 Y  Y  Y   N  N  N  Y  N   N
-              (Nottingham East Jn) – Coulson
-              Change of ELR
-     LN206NOB2Coulson Change of ELR –
-                                 32 00  32 40 Y  Y  Y   N  N  N  Y  N   N
-              Boultham Jn
-     LN206NOB2Boultham Jn – West Holmes Jn
-                                 32 40  32 70 Y  Y  Y   N  N  N  Y  N   N
-     LN210NSE Newark Crossing South Jn –
-                                  0 00  0  21 Y  Y  Y   N  N  N  Y  N   N
-              Newark Crossing East Jn
-     LN215BHP Boultham Jn – Pyewipe Jn
-                                  0 00  0  65 Y  Y  Y   N  N  N  Y  N   N
-     LN220BCB Bessacarr Jn – Black Carr Jn
-                                 11572 116 44 Y  Y  Y   N  N  N  Y  Y   N
-     LN235FWR1 Rossington Colliery Jn – End of
-                                 15212 151 69 N  N  N   N  N  N  N  N   N
-              Line
-     LN235FWR2 Rossington Colliery – End of Line
-                                 15331 151 69 N  N  N   N  N  N  N  N   N
-     LN600ECM2Shaftholme Jn – Temple Hirst Jn
-                                 16016 169 16 Y  Y  Y   N  N  N  Y  Y   Y
-     LN600ECM3Temple Hirst Jn – Colton Jn
-                                 16916 182 79 Y  Y  Y   N  N  N  Y  Y   Y
-     LN600ECM4Colton Jn – Colton North Jn
-                                 18279 183 65 Y  Y  Y   N  N  N  Y  Y   Y
-     LN600ECM4Colton North Jn – York Station
-                                 18365 188 40 Y  Y  Y   N  N  N  Y  Y   Y
-     LN600ECM5York Station – Birtley Jn
-                                  0 00  75 26 Y  Y  Y   N  N  N  Y  Y   Y
-     LN600ECM5Birtley Jn – Low Fell Jn (including
-                                 75 26  77 37 Y  Y  Y   N  N  N  Y  Y   Y
-              via Tyne Yard)
-     LN600ECM5Low Fell Jn – King Edward Bridge
-                                 77 37  79 42 Y  Y  Y   N  N  N  Y  Y   Y
-              South Jn
-     LN600ECM5King Edward Bridge South Jn –
-                                 79 42  80 05 Y  Y  Y   N  N  N  Y  Y   Y
-              Newcastle West Jn
+
+     Table D2A (East Midlands) – Route clearance of electrical multiple unit trains
+                                                                                     Last Updated: 17/08/2019
+     To be read in conjunction with General Notes.
+
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 317
+                                                   319321 322325377 380387 390700 Notes
+     route    Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
+
+     LN3140
+          BBM Route Boundary (MD140) (Bedford
+                                   16 07  16 50 N  EH N   N  H   N  N   E  N  E
+              St. Johns) – Bedford Station Jn
+          SPC1 Bedford Station Jn – Bedford Station
+     LN3140                        49 60  49 65 N  E  N   N  H  E   N   N  N  N R1 For access to Jowett
+              (Via Up and Down Bletchley line)                  R1                 Sidings
+     LN3201
+          SPC1 St Pancras platforms 1, 2, 3 and 4 -
+                                    0 12  5  09 Y  Y  Y   Y  H   Y  N   Y  N  Y
+              Cricklewood
+          SPC1 Cricklewood – Change of ELR
+     LN3201                         5 09  50 00 Y  Y  Y   Y  H   Y  N   Y  N  R1 R1Prohibited on the Up
+              (Bedford)                                                            Hendon and Down Hendon
+                                                                                   between Cricklewood South
+                                                                                   Jn - Silkstream Jn
+          SPC2 Change of ELR (Bedford) – Change
+     LN3201                        50 00  64 78 N  N  N   N  H   N  N   N  N  N
+              of ELR (Wellingborough)
+          SPC3 Change of ELR (Wellingborough) –
+     LN3201                        64 78  95 38 N  N  N   N  H   N  N   N  N  N
+              Change of ELR (Wigston South Jn)
+          SPC4 Change of ELR (Wigston South Jn) –
+     LN3201                        95 38  98 73 N  N  N   N  H   N  N   N  EH N
+              Change of ELR (Leicester )
+          SPC5 Change of ELR (Leicester) –
+     LN3201                        98 73  99 07 N  N  N   N  H   N  N   N  EH N R1 Prohibited Leicester
+              Leicester                                                    R1      platform 4
+
+          SPC5 Leicester – Ratcliffe Jn
+     LN3201                        99 07 118 34 N  N  N   N  H   N  N   N  EH N R1 Prohibited Leicester
+                                                                           R1      platform 4
+
+          SPC5 Ratcliffe Jn – Change of ELR
+     LN3201                        11834 118 60 N  N  N   N  H   N  N   N  EH N
+              (Ratcliffe)
+          SPC6 Change of ELR (Ratcliffe) – Change
+     LN3201                        11860 126 27 N  N  N   N  H   N  N   N  EH N
+              of ELR (Spondon)
+          SPC7 Change of ELR (Spondon) – London
+     LN3201                        12627 128 23 N  N  N   N  H   N  N   N  EH N
+              Road Jn
+          SPC8 London Road Jn – Derby Jn
+     LN3201                        12754 128 08 N  N  N   N  H   N  EH  N  EH N R1 Prohibited Derby platform 4
+                                                                           R1   R2 5mph Derby platform 3
+                                                                           R2
+          SPC8 Derby Jn – Former Clay Cross South
+     LN3201                        12808 147 69 N  N  N   N  H   N  N   N  N  N
+              Jn
 
 
-
-
-     October 2009                                    45
+     October 2009                                    38

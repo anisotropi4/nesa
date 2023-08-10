@@ -5,77 +5,62 @@
 
 
 
-
-     Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo MK1
-                                                    MK2 MK3MK3 MK3 MK3 MK4 Notes
-     route                          M  Ch M  Ch 0000               DVT
-                                                       0000 (MOD) DVT
-                                                    0000               0000
-                                                                  (MOD)
-     LN3520
-          SSJ1Sheet Stores Jn – Change of ELR (Site
-                                    11962 127 20 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-              of Former Chellaston East Jn)                 R1
-     LN3520
-          MJS1Change of ELR (Site of Former
-                                    12720 128 00 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-              Chellaston East Jn) – Change of ELR           R1
-              (Site of Former Chellaston West Jn)
-     LN3520
-          SSJ2Change of ELR (Site of Former
-                                    12800 132 12 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-              Chellaston West Jn) – Stenson Jn              R1
-     LN3525
-          KSL Knighton Jn – Leicester Jn
-                                    97 45 127 00 Y   Y  Y   N   N   N   N
-     LN3535
-          BCJ Birmingham Curve Jn – Branston Jn
-                                    12640 127 19 Y   Y  Y   N   N   N   N
-          GSM1 Kettering North Jn – Manton Jn
-     LN3601                         74 00  90 25 Y   Y  Y   N   N   N   N
-
-     LN3605
-          BSC Corby BSC Works – Corby North
-                                     2 05  0  00 Y   Y  Y   N   N   N   N
-     LN3610
-          BSC Corby Automotive Terminal – Corby
-                                     1 10  0  00 Y   Y  Y   N   N   N   N
-              North
-     LN3615
-          PMJ Route Boundary (LN147) – Uffington SB
-                                    13 60  12 75 Y   Y  Y   N   N   N   N
-     LN3615
-          PMJ Uffington SB – Manton Jn
-                                    12 75  0  00 Y   Y  Y   N   N   N   N
-          GSM2 Manton Jn – Melton Jn
-     LN3615                         90 25 105 70 Y   Y  Y   N   N   N   N
-          GSM3 Melton Jn – Syston South Jn
-     LN3615                         11336 103 77 Y   Y  Y   N   N   N   N
-          GSM4 Melton Jn GF – Asfordby
-     LN3620                         10570 107 20 Y   Y  Y   N   N   N   N
-     LN3625
-          TSN1Nottingham East Jn – Change of ELR
-                                    12327 123 23 Y   Y  Y   N   N   N   N
-              (Nottingham East Jn)
-          NOB1
-     LN3625   Change of ELR (Nottingham East Jn) –
-                                     0 00  16 02 Y   Y  Y   N   N   N   N
-              Route Boundary (LN206) (Coulson)
-          NOG1
-     LN3635                         11160 123 76
-              Route Boundary (LN195) (Nottingham Y   Y  Y   N   N   N   N
-              Branch Jn) – Rectory Jn SB
-     LN3635
-          NOG1Rectory Jn SB – Change of ELR
-                                    12376 125 25 Y   Y  Y   N   N   N   N
-              (Netherfield)
-     LN3635
-          NOG2Change of ELR (Netherfield) –
-                                     2 54  2  35 Y   Y  Y   N   N   N   N
-              Netherfield Jn
+     LN860MVL3Route Boundary (NW7021)
+                                 15 11  25 20 Y  Y  Y   N  N  N  N  N   Y
+              (Stalybridge Tunnel Jn) –
+              Springwood Jn
+     LN860MVL3Springwood Jn – Change of ELR
+                                 25 20  29 00 Y  Y  Y   N  N  N  N  N   Y
+              (Heaton Lodge Jn)
+     LN860MVL4Change of ELR (Heaton Lodge Jn)
+                                 29 00  29 45 Y  Y  Y   N  N  N  N  N   N
+              – Heaton Lodge Jn (Up line)
+     LN860MVL4Change of ELR (Heaton Lodge Jn)
+                                 29 00  29 74 Y  Y  Y   N  N  N  N  N   Y
+              – Heaton Lodge East Jn (Down
+              line)
+     LN860MVN2Heaton Lodge Jn – Heaton Lodge
+                                 37 18  37 47 Y  Y  Y   N  N  N  N  N   Y
+              East Jn
+     LN860MVN2Heaton Lodge East Jn – Thornhill
+                                 37 47  39 72 Y  Y  Y   N  N  N  N  N   Y
+              LNW Jn
+     LN860MDL1Thornhill LNW Jn – Copley Hill
+                                 32 16  42 03 Y  Y  Y   N  N  N  N  N   Y
+              East Jn
+     LN861BBW Bradley Jn – Bradley Wood Jn
+                                  0 00  1  17 Y  Y  Y   N  N  N  N  N   Y
+     LN862PED2Barnsley Station Jn – Site of
+                                  6 43  0  00 Y  Y  Y   N  N  N  N  N   N
+              former Barnsley Jn
+     LN862PED1Site of former Barnsley Jn – Site of
+                                 29 13  28 37 Y  Y  Y   N  N  N  N  N   N
+              former Huddersfield Jn
+     LN862PEH Site of former Huddersfield Jn –
+                                 13 42  1  18 Y  Y  Y   N  N  N  N  N   N
+              Lockwood
+     LN862PEH Lockwood – Springwood Jn
+                                  1 18  0  40 Y  Y  N   N  N  N  N  N   N
+     LN862MVL3Springwood Jn – Huddersfield
+                                  0 40  0  00 Y  Y  N   N  N  N  N  N   N
+     LN864DRS1Dewsbury Railway Street –
+                                  0 10  0  00 N  N  N   N  N  N  N  N   N
+              Change of Mileage
+     LN864DRS1Change of Mileage – Dewsbury
+                                  0 27  0  00 N  N  N   N  N  N  N  N   N
+              East Jn
+     LN868SHB Wincobank Jn – Site of former
+                                 16152 173 48 Y  Y  Y   N  N  N  N  N   N
+              Quarry Jn
+     LN868PED2Site of former Quarry Jn –
+                                  7 50  6  43 Y  Y  Y   N  N  N  N  N   N
+              Barnsley Station Jn
+     LN868BAH2Barnsley Station Jn – Site of
+                                 52 58  45 56 Y  Y  Y   N  N  N  N  N   N
+              former Crigglestone Jn
+     LN868CHS Site of former Crigglestone Jn –
+                                  1 53  0  00 Y  Y  Y   N  N  N  N  N   N
+              Horbury Jn
 
 
-
-
-     October 2009                                   51A
+     October 2009                                   48F

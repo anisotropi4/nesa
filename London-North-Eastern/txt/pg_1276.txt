@@ -12,55 +12,60 @@
                                                     Loco Gauge
                                                              Notes
        route     Description         M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-       LN838 LEH2Site of Former Pannal Jn – Site of
-                                      14 60 15 20  8    Y
-                 Former Crimple Jn
-       LN838 LEH3Site of former Crimple Jn – Harrogate
-                                      15 20 17 24  8    Y
-       LN838 HAY2Harrogate – Site of Former Starbeck
-                                      20 38 18 60  8    R1   R1Prohibited Harrogate Bay platform 2
-                 North Jn
-       LN838 HAY1Site of Former Starbeck North Jn –
-                                      18 60  1 50  8    R1   R1Prohibited between Knaresborough and Knaresborough single line
-                 Skelton Jn                                    Jn on the Up line
-       LN840 TJC3Leeds Engine Shed Jn – Whitehall
-                                     195 20 19552  8    Y
+       LN627 LLP1Longlands Jn (Down Line) –
+                                      28 58 29 72  8    Y
+                 Boroughbridge Road LC
+       LN627 LLP3Longlands Jn (Up Line) –
+                                      0  69  0 00  8    Y
+                 Boroughbridge Road LC
+       LN627 LLP2Boroughbridge Road LC –
+                                      42 21 42 79  8    Y
+                 Northallerton East Jn
+       LN627 LEN3Northallerton East Jn – Billingham Jn
+                                      42 79 63 69  8    Y
+       LN627 LEN3Billingham Jn – Ryhope Grange Jn
+                                      63 69 87 63  8    Y
+       LN627 LEN3Ryhope Grange Jn – Sunderland
+                                      87 63 89 56  8    Y
+                 South Jn
+       LN627 LEN3Sunderland South Jn – Boldon East Jn
+                                      89 56 94 63  8    Y
+       LN627 LEN3Boldon East Jn – Boldon West Jn
+                                      94 63 95 16  8    Y
+       LN627 LEN3Boldon West Jn – Pelaw Metro Jn
+                                      95 16 97 64  8    Y
+       LN627 LEN3Pelaw Metro Jn – Park Lane Jn
+                                      97 64 10065  8    Y
+       LN627 LEN3Park Lane Jn – High Level Bridge Jn
+                                     100 65 10133  8    Y
+       LN627 LEN3High Level Bridge Jn – Newcastle
+                                     101 33 10159  5    Y
                  East Jn
-       LN842 CJS Stainforth Jn – Applehurst Jn
-                                     166 70 16327  8    Y
-       LN842 CJS Applehurst Jn – Skellow Jn
-                                     163 27 16059  8    Y
-       LN842 SKA Skellow Jn – Adwick Jn
-                                      0  61  0 00  8    Y
-       LN844 JCA Applehurst Jn – Joan Croft Jn
-                                      0  49  0 00  9    Y
-       LN846 CJS Carcroft Jn – Skellow Jn
-                                     160 08 16059  9    Y
-       LN848 HPC Hare Park Jn – Crofton West Jn
-                                     171 70 17322  8    Y
-       LN850 WWK Wakefield Westgate South Jn –
-                                      0  00  0 26  9    Y
-                 Wakefield Kirkgate West Jn
-       LN852 LBE1Holbeck Jn – Site of Former
-                                      0  02  6 49  8    R1   R1Prohibited between New Pudsey and former Laisterdyke East Jn on
-                 Laisterdyke East Jn                           the Down line
-       LN852 LBE2Site of Former Laisterdyke East Jn –
-                                     190 24 19060  8    Y
-                 Site of Former Laisterdyke West Jn
-       LN852 LBE3Site of Former Laisterdyke West Jn –
-                                     190 60 19130  8    Y
-                 Site of Former Hammerton Street Jn
-       LN852 LBE4Site of Former Hammerton Street Jn –
-                                     191 30 19175  8    R1   R1Prohibited between former Hammerton St Jn and Mill Lane Jn on the
-                 Mill Lane Jn                                  Down line
-       LN852 MRB Mill Lane Jn – Bradford Interchange
-                                      40 01 40 27  8    Y
-       LN854 MVN2Route Boundary (NW7001) (Hall Royd
-                                      22 62 48 33  9    R1   R1Prohibited between Route Boundary (NW7001) (Hall Royd Jn) and
-                 Jn) – Turners Lane Jn                  R2     Hebden Bridge (Up L & Y)
-                                                             R2Prohibited through Weasel Hall Tunnel (Up L & Y)
-
-
-
-
-    October 2009                                    118
+       LN628 NEK South Hylton – Sunderland South Jn
+                                      3  20  0 00  8    Y
+       LN629 PDL Pelaw Metro Jn – Network Rail
+                                      97 64 98 01  8    Y
+                 Boundary (Metro Operating)
+       LN630 PUL Pelaw Metro Jn – Network Rail
+                                      97 64 97 77  8    Y
+                 Boundary (Metro Operating)
+       LN631 DSN1Darlington South Jn – Eaglescliffe
+                                      0  29  8 58  8    Y
+                 South Jn
+       LN632 DSN2Stockton Cut Jn – Redcar Change of
+                                      10 13 21 72  8    Y
+                 Mileage
+       LN632 DSN3Redcar Change of Mileage – Saltburn
+                                      22 16 27 57  8    Y
+       LN634 MBW1 Guisborough Jn – Battersby Jn
+                                      0  00 10 54  7    Y
+       LN634 MBW2 Battersby Jn (End of Line) – Grosmont
+                                      11 61 29 66  7    Y
+                 Jn
+       LN634 MBW3 Grosmont Jn – Whitby24 44 30 61  7    Y
+       LN636 No  Beam Mill Jn – Network Rail Boundary
+                                      18 03 18 67  8    Y
+             ELR
+       LN638 WCI Shell Jn – Network Rail Boundary
+                                      0  00  1 03  8    Y
+    October 2009                                    111

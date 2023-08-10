@@ -4,73 +4,74 @@
                                           LNE Route Sectional Appendix Module LNRC
 
 
-     Line of ELR Line of Route / Sector Description
-                                        oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159
-                                                                                Notes
-     route                               M  Ch M  Ch                            ooooooooooooooooooooooooooo
-     LN3201 SPC9 Former Clay Cross South Jn – Route Boundary (LN804 /
-                                         142 10 14664 Y  Y Y  Y  Y Y  Y Y  Y  Y
-             LN806) (Tapton Jn)
-     LN3204 TSN1 Trent South Jn – Mansfield Jn
-                                         119 17 12564 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3204 TSN2 Mansfield Jn – Nottingham East Jn
-                                         124 22 12327 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3207 TCC Trent East Jn – Change of ELR (between Morton Jn and
-                                         119 70 14210 Y  N N  N  Y Y  Y Y  Y  Y
-             Clay Cross North Jn)
-     LN3207 SPC9 Change of ELR (between Morton Jn and Clay Cross
-                                         142 10 14312 Y  N N  N  Y Y  Y Y  Y  Y
-             North Jn) – Clay Cross North Jn
-     LN3210 JRT2 Route Boundary (EA1370) (Junction Road Jn) – Change
-                                           2 38  2 00 N  N N  N  Y Y  Y Y  N  N
-             of ELR (Between Tottenham North Curve No 2 and No 1
-             Tunnels)
-     LN3210 JRT1 Change of ELR (Between Tottenham North Curve No 2
-                                           0 18  0 03 Y  N N  N  Y Y  Y Y  N  N
-             and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)
-     LN3213 MCL Route Boundary (SO280) (former Farringdon Jn) –
-                                           0 66  3 58 N  N N  N  N N  N N  N  N
-             Kentish Town Jn
-             Canal Tunnel Jn – Belle Isle Jn
-     LN3214 CBI                           0  00  0 53 N  N N  N  N N  N N  N  N
-     LN3219 CAW Cricklewood Curve Jn – Route Boundary (LOR EA1360)
-                                          5  19  5 72 N  N N  N  Y Y  Y Y  N  N
-             (Dudding Hill)
-     LN3222 BDH Brent Curve Jn – Route Boundary (EA1360) (Dudding
-                                           0 00  0 54 N  N N  N  Y Y  Y Y  N  N
-             Hill)
-     LN3228 TCC Trent East Jn – Trent East ELR Change
-                                         119 70 11956 Y  N N  N  Y Y  Y Y  Y Y
-             Trent East ELR Change – Sheet Stores Jn
-     LN3228 TES                           0  00  0 30 Y  N N  N  Y Y  Y Y  Y Y
-     LN3231 WGP Wigston South Jn – Glen Parva Jn
-                                          95 37  9607 Y  N N  N  Y Y  Y Y  Y Y
-     LN3232 WNS Wigston North Jn – Route Boundary (MD232) (Nuneaton
-                                          15 31  2 62 Y  N N  N  Y Y  Y Y  R1R1 R115mph Hinckley Up platform
-             South Jn)
-     LN3234 SEN Syston East Jn – Syston North Jn
-                                           0 17  0 00 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3237 RUD Loughborough South Jn – Network Rail/GCR (N)
-                                          92 45 92 49 N  N N  N  N N  N N  N  N
-             Boundary
-             Little Eaton Jn – Denby
-     LN3240 LED                          131 06 13546 N  N N  N  N N  N N  N  N Line out of use
-                                                                               NC/G1/2010/LNE/021
-     LN3246 AJM1 Ambergate Jn – Matlock  137 61 14500 Y  N N  N  Y Y  Y Y  Y  Y
-             Lenton South Jn – Lenton North Jn
-     LN3249 LSN                           0  00  0 27 Y  N N  N  Y Y  Y Y  Y  N
-     LN3252 MJT1 Mansfield Jn – Radford Jn
-                                         124 22 12555 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3252 MJT2 Radford Jn – Trowell South Jn
-                                         125 55 13051 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3255 RAC Radford Jn – Newstead    125 55 13420 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3255 RAC Newstead – Kirkby Lane End Jn
-                                         134 20 13666 Y  N N  N  Y Y  Y Y  Y  Y
-             Trent South Jn – Toton South Jn (High Level Lines)
-     LN3261 THL                          119 17 12136 Y  N N  N  Y Y  Y Y  Y  Y
-     LN3264 AML Attenborough Jn – Meadow Lane Jn (Attenborough
-                                          0  62  0 00 Y  N N  N  Y Y  Y Y  Y  Y
-             Curve)
 
 
-     October 2009                                    27
+     Line of ELR
+             Line of Route / Sector Description
+                                   oooo oooooo 170 172 180 185 195 220 221 222 Notes
+     route                          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+     LN880
+         YMS York (platform 2 and maintenance sidings) –
+                                     0  0 0  15 Y  N N  Y  Y N  N  Y
+             Connection to Up line
+         WAG1 Wakefield Kirkgate West Jn – Calder Bridge
+     LN882                          47 4348  28 Y  N R1 Y  Y R2 R2 Y R15mph Wakefield Kirkgate platform 3 with deflated suspension
+             Jn                                                      R2Prohibited Wakefield Kirkgate platform 3 when laden. Must
+                                                                       use up Goole Line (reversible)
+         WAG1 Calder Bridge Jn – Crofton West Jn
+     LN882                          48 2849  40 Y  N Y  Y  Y Y  Y  Y
+         WAG1 Crofton West Jn – Knottingley West Jn
+     LN882                          49 4058  20 Y  N Y  E  Y Y  Y  Y R1Prohibited between Crofton East Jn and Knottingley West Jn
+                                                        R1           R2Prohibited with deflated suspension
+                                                        R2
+         WAG1 Knottingley West Jn – Engine Shed Jn
+     LN882                          58 2073  52 R1 N Y  N  Y N  N  Y R1Prohibited Knottingley East Jn to Engine Shed Jn
+         WAG2 Engine Shed Jn – Goole Potters Grange Jn
+     LN882                           0 64 0  00 N  N Y  N  Y N  N  Y
+     LN884
+         OAJOakenshaw South Jn – Oakenshaw Jn.
+                                    49 4148  76 N  N N  N  N N  N  N
+         TJC3 Monk Bretton – Oakenshaw South Jn
+     LN886                          1762218  75 N  N N  N  N Y  Y  Y
+                                          1
+     LN886
+         OSCOakenshaw South Jn – Crofton East Jn
+                                    1817518  04 N  N N  N  N Y  Y  Y
+                                          3
+     LN888
+         CJSStainforth Jn – Thorpe Marsh Jn
+                                    1667016  76 N  N N  Y  N N  N  N
+                                          3
+     LN888
+         HTM Thorpe Marsh Jn – Haywood Jn
+                                    69 5667  66 N  N N  N  N N  N  N
+         KWS Haywood Jn – Knottingley West Jn
+     LN888                          67 6658  20 E  N Y  N  N Y  Y  Y
+     LN888
+         FKW Knottingley West Jn – Ferrybridge North Jn
+                                     2 71 2  27 N  N Y  N  N Y  Y  Y
+         KWS Shaftholme Jn – Haywood Jn
+     LN889                          68 7567  66 N  N Y  N  N Y  Y  Y
+     LN892
+         PEFPontefract East Jn – Ferrybridge South Jn
+                                     3 06 2  38 N  N Y  N  Y N  N  Y
+     LN894
+         KESKnottingley South Jn – Knottingley East Jn
+                                     0 00 0  20 N  N N  N  N N  N  N
+         DRA1 Drax Branch Jn – Drax Power Station (NR
+     LN896                           0 00 4  16 N  N N  N  N N  N  N
+             Boundary)
+         HUL4 Neville Hill East Jn – Micklefield Jn
+     LN898                          18 2510  63 Y  N Y  Y  Y Y  Y  Y
+         HUL4 Micklefield Jn – Micklefield Change of ELR
+     LN898                          10 6310  60 Y  N Y  Y  Y Y  Y  Y
+         HUL3 Micklefield Change of ELR – Gascoigne
+     LN898                          10 60 6  27 Y  N Y  Y  Y Y  Y  Y
+             Wood Jn
+         HUL3 Gascoigne Wood Jn – Selby West Jn
+     LN898                           6 27 0  36 Y  N Y  Y  Y Y  Y  Y
+         HUL3 Selby West Jn – Selby South Jn
+     LN898                           0 36 0  00 Y  N Y  Y  Y N  N  Y
+
+
+     October 2009                                   25K

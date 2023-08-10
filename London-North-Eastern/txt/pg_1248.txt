@@ -3,61 +3,85 @@
 
                                           LNE Route Sectional Appendix Module LNRC
 
-     Line ofLine of Route / Sector                 Gauge                  Notes
-     Route  Description
-                                  W6   W7  W8   W9  W9PlusW10  W10A  W12
-     LN185  Barkston East Jn., Former site of –
-                                 Y*   Y   Y    N   N      N   N     N
-            Boston, Sleaford Line Jn., Former site
-            of
-     LN185  Boston, Sleaford Line Jn., Former site
-                                 Y*   N   N    N   N      N   N     N
-            of – Skegness
-     LN190  Allington East Jn – Allington North Jn
-                                 Y    Y   Y    N   N      N   N     N
-     LN195  Grantham, Nottingham Branch Jn –
-                                 Y    Y   Y    N   N      N   N     N
-            Bottesford West Jn
-     LN200  Wrawby Jn – Pelham Street Jn
-                                 Y    Y   Y    N   N      N   N     N
-     LN206  Staythorpe Crossing – Boultham Jn
-                                 Y    Y   Y    N   N      N   N     N
-     LN206  Boultham Jn – West Holmes Jn
-                                 Y    Y   Y    Y   N      Y   N     Y
-     LN210  Newark Crossing CurveY    Y   Y    N   N      N   N     N
-     LN215  Boultham Jn – Pyewipe Jn
-                                 Y    Y   Y    Y   N      Y   N     Y
-     LN220  Bessacarr Jn – Black Carr Jn
-                                 Y    Y   Y    Y   Y      Y   Y     Y
-     LN235  Rossington Colliery Branch
-                                 Y    Y   Y    Y   Y      Y   Y     Y
-     LN600  Shaftholme Jn – Colton Jn
-                                 Y*   Y   Y    Y   Y      Y   Y     Y
-     LN600  Colton Jn – York     Y*   Y   Y    Y   R1     R1  R1    R1   R1 PROHIBITED Holgate Jn to York
-     LN600  York – Newcastle via East Coast Main
-                                 Y*   Y   Y    Y   R1     R1  R1    R1   R1 PROHIBITED York to Skelton Jn
-            Line                                   R2     R2  R2    R2   R2 PROHIBITED Darlington platform 1
-                                                   R3     R3  R3    R3     (permitted at the north end to access
-                                                   R4     R4  R4    R4     Up/Down Station Loop)
-                                                   R5     R5  R5    R5   R3 PROHIBITED Darlington bay platform 2
-                                                   R6     R6  R6    R6   R4 PROHIBITED Darlington bay platform 3
-                                                   R7     R7  R7    R7   R5 PROHIBITED Darlington platform 4
-                                                   R8     R8  R8    R8   R6 PROHIBITED Darlington Down Bypass
-                                                   R9     R9  R9    R9   R7 PROHIBITED over King Edwards Bridge
-                                                                           on the Up Main
-                                                                         R8 PROHIBITED over King Edwards Bridge
-                                                                           on the Down Main
-                                                                         R9 PROHIBITED Newcastle platforms 2, 3,
-                                                                           4, 5/6, 7/8, 9, 10, 11 and 12
-     LN600  Newcastle – Reston GSP
-                                 Y*   Y   Y    Y   R1     R1  R1    R1   R1 PROHIBITED between Newcastle East
-                                                   R2     R2  R2    R2     Jn and Argyle St Jn on the Up
-                                                                         R2 PROHIBITED between Newcastle East
-                                                                           Jn and Argyle St Jn on the Down
-     LN600  Birtley Junction – Low Fell Junction via
-                                 Y    Y   Y    Y   Y      Y   Y     Y
-            Tyne Yard
+     Line of
+          ELR Line of Route / Sector Description
+                                    oo oo oo oo  RA   86   87  88   90  91   92  Notes
+     route                          oo oo oo oo  00000000 0000     00000000 0000ooooooooooooooooooooooooooo
+                                    M  Ch M  Ch
+     LN3204
+          TSN2Mansfield Jn – Nottingham East Jn
+                                    124 22123 27  8   N    N   Y    N   H    N R1 75mph maximum speed
+                                                                        R1
+     LN3207
+          TCC Trent East Jn – Change of ELR
+                                    119 70142 10  8   H   H    Y   H    H    N R1 Permitted between Trent East Jn to
+              (between Morton Jn and Clay Cross       R1  R1       R1   R2        Stapleford and Sandiacre via Up
+              North Jn)                                                 R3        Main/Erewash and Down
+                                                                                  Erewash/Down Goods
+                                                                               R2 Permitted between Toton Jn and
+                                                                                  Toton TMD only
+                                                                               R3 75mph maximum speed
+     LN3207
+          SPC9Change of ELR (between Morton Jn and
+                                    142 10143 12  8   N    N   Y    N   N    N
+              Clay Cross North Jn) – Clay Cross North
+              Jn
+     LN3210
+          JRT2Route Boundary (EA1370) (Junction Road
+                                     2  38  2 00  8   N    N   Y    N   N   EH
+              Jn) – Change of ELR (Between
+              Tottenham North Curve No 2 and No 1
+              Tunnels)
+     LN3210
+          JRT1Change of ELR (Between Tottenham
+                                     0  18  0 03  8   N    N   Y    N   N   EH
+              North Curve No 2 and No 1 Tunnels) –
+              Carlton Road Jn (Tottenham Lines)
+     LN3214
+          CBI Canal Tunnel Jn – Belle Isle Jn
+                                    0  00  0  53  3   N    N   N    N   N    N
+     LN3213
+          MCL Route Boundary (SO280) (former
+                                     0  66  3  58 5   N    N   N    N   N    N
+              Farringdon Jn) – Kentish Town Jn
+     LN3219
+          CAW Cricklewood Curve Jn – Route Boundary
+                                     5  19 5  72  8   H    H   Y    H   H    N
+              (LOR EA1360) (Dudding Hill)
+     LN3222
+          BDH Brent Curve Jn – Route Boundary
+                                     0  00  0 54  8   N    N   Y    N   N   EH
+              (EA1360) (Dudding Hill)
+     LN3228
+          TCC Trent East Jn – Trent East ELR Change
+                                    119 70119 56  8   H    H   Y    H   H    N
+     LN3228
+          TES Trent East ELR Change – Sheet Stores
+                                     0  00 0  30  8   H    H   Y    H   H    N
+              Jn
+     LN3231
+          WGP Wigston South Jn – Glen Parva Jn
+                                    95  37 96 07  8   H    H   Y    H   H    N
+     LN3232
+          WNS Wigston North Jn – Route Boundary
+                                    15  31  2 62  8   H    H   Y    H   N    N
+              (MD232) (Nuneaton South Jn)
+     LN3234
+          SEN Syston East Jn – Syston North Jn
+                                     0  17  0 00  8   N    N   Y    N   N   EH
+     LN3237
+          RUD Loughborough South Jn – Network
+                                     92 45 92 49  8   N    N   Y    N   N   N
+              Rail/GCR (N) Boundary
+     LN3240
+          LED Little Eaton Jn – Denby
+                                    131 06135 46  8   N    N   Y    N   N    N Line out of use
+                                                                               NC/G1/2010/LNE/021
+     LN3246
+          AJM1Ambergate Jn – Matlock137 61 14500  8   N    N   Y    N   N    N
+     LN3249
+          LSN Lenton South Jn – Lenton North Jn
+                                     0  00  0 27  8   N    N   Y    N   N    N
 
 
-
-    October 2009                                     90
+     October 2009                                    85

@@ -5,51 +5,54 @@
 
 
 
-     Line ofLine of Route / Sector                Gauge                 Notes
+
+     Line ofLine of Route / Sector               Gauge               Notes
      Route  Description
-                                 W6  W7   W8    W9 W9PlusW10  W10A W12
-     LN854  Hall Royd Jn – Turners Lane Jn
-                                 Y*  Y    Y     N  N     N    N    N
-     LN854  Turners Lane Jn – Altofts Jn
-                                 Y*  Y    Y     Y  N     N    N    N
-     LN854  Altofts Jn – Sherburn Jn
-                                 Y*  Y    Y     N  N     N    N    N
-     LN854  Sherburn Jn – Colton Jn
-                                 Y*  Y    Y     Y  N     N    N    N
-     LN854  Healey Mills TMD – Horbury Jn
-                                 Y*  N    N     N  N     N    N    N
-     LN858  Milner Royd Jn – Bradford, Mill Lane Jn
-                                 Y*  N    N     N  N     N    N    N
-     LN859  Greetland Jn – Dryclough Jn
-                                 Y   N    N     N  N     N    N    N
-     LN860  LNW/LNE Route Boundary (Diggle)
-                                 Y*  Y    S1    N  N     N    N    N    S1 The following combinations are
-            [ 15m 11ch ] – Springwood Jn                                  permitted:
+                                  W6   W7  W8  W9  W9PlusW10 W10AW12
+     LN632  Stockton Cut Jn – Saltburn
+                                  Y*   Y    Y  R1   R1   R1  R1  R1  R1 PROHIBITED Shell Jn to Saltburn
+                                               R2   R2   R2  R2  R2  R2 PROHIBITED from Tees Yard
+                                               R3   R3   R3  R3  R3  R3 PROHIBITED on the Up Goods No 2
+                                               R4   R4   R4  R4  R4    between Thornaby East Jn and Newport
+                                               R5   R5   R5  R5  R5    East Jn
+                                               R6   R6   R6  R6  R6  R4 PROHIBITED on the Down Goods
+                                                                       between Thornaby East Jn and Newport
+                                               R7   R7   R7  R7  R7    East Jn
+                                               R8   R8   R8  R8  R8  R5 PROHIBITED on the Up Main between
+                                               R9   R9   R9  R9  R9    Newport East Jn and Whitehouse
+                                                                     R6 PROHIBITED on the Down Main
+                                                                       between Newport East Jn and
+                                                                       Whitehouse
+                                                                     R7 PROHIBITED on the Up Main between
+                                                                       South Bank Jn and Grangetown Jn
+                                                                     R8 PROHIBITED on the Down Main
+                                                                       between South Bank Jn and Shell Jn
+                                                                     R9 PROHIBITED on the Grangetown Beam
+                                                                       Mill line
+     LN632  Thornaby East Jn – Newport East Jn
+                                  Y*   Y    Y   N   N    N   N    N
+            via Tees Yard
+     LN632  Newport East Jn – Middlesborough
+                                  Y*   N    N   N   N    N   N    N  Middlesborough Goods Yard = DB Schenker
+            Goods Yard                                               responsibility
+     LN632  Redcar Ore Terminal Jn – Redcar Ore
+                                  Y*   Y    Y   N   N    N   N    N  Redcar Ore Terminal = Corus responsibility
+            Terminal (NR Limit) [ 20m 25ch ]
+     LN634  Guisborough Jn – Whitby
+                                  Y*   N    N   N   N    N   N    N
+     LN636  Beam Mill Jn – Slag Road (Lackenby)
+                                   Y   Y    Y   N   N    N   N    N
+     LN638  Grangetown (Shell Jn) – Cleveland
+                                   Y   Y    Y  R1   R1   R1  R1  R1  R1 PROHIBITED ICI Wilton Jn to
+            Freightliner Terminal (Wilton)                             Cleveland Freightliner Terminal (Wilton)
+                                                                       (non NR Infrastructure)
+                                                                     Part NR Infrastructure - NR Boundary at 1m
+                                                                     03ch
+     LN640  ICI Wilton Coal Terminal
+                                   -   -    -   -    -    -   -   -  Not NR Infrastructure
+     LN642  Saltburn West Jn – Boulby Potash Mine
+                                   Y   N    N   N   N    N   N    N  Part NR Infrastructure - - NR Boundary at
+                                                                     34m 29ch
+     LN644  Hartburn Curve         Y   Y    Y   N   N    N   N    N
 
-                                                                        2590 h x 2438 w box 2590 h x 2500 w box
-                                                                        on FCA FEA FSA/FTA KFA wagons
-                                                                        All lines
-                                                                        2595 h x 2550 w box on IKA wagons
-                                                                        All lines
-                                                                        2615 h x 2500 w (S16) FT 2615 h x 2550 w
-                                                                        (S16) FT on KFA wagons
-                                                                        All lines
-                                                                        2625 h x 2500 w (S17) FT 2625 h x 2550
-                                                                        w (S17) FT on FEA FSA/FTA wagons
-                                                                        All lines
-                                                                        2667 h x 2500 w box on FLA wagons
-                                                                        All lines
-                                                                        2665 h x 2550 w (S21) 2705 h x 2550 w
-                                                                        (S25) on FAA wagons
-                                                                        All lines
-                                                                        2896 h x 2438 w box 2896 h x 2500 w box
-                                                                        on FLA wagons
-                                                                        All lines
-                                                                        STNC NC/G1/2001/ICP-G/LNE012 applies to 31/12/10
-     LN860  Springwood Jn – Thornhill LNW Jn
-                                 Y*  Y    Y     N  N     N    N    N
-
-
-
-
-    October 2009                                     99
+    October 2009                                     92

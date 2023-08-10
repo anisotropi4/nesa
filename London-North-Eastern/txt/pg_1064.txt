@@ -3,64 +3,53 @@
 
                                           LNE Route Sectional Appendix Module LNRC
 
-     Line of ELR
-             Line of Route / Sector Description
-                                   M  Ch M Ch 170 172 180 185 195 220 221 222 Noteso
-     route
-         ECN5 Low Fell Jn – King Edward Bridge South Jn
-     LN600                         77 37 7942 E  N  Y   Y   Y Y  Y   Y
-         ECM5 King Edward Bridge South Jn – Newcastle
-     LN600                         79 42 8005 E  N  Y   Y   N Y  Y   Y
-             West Jn
-         ECM6 Newcastle West Jn – Newcastle
-     LN600                         80 05 8016 E  N R3 R4 N Y  Y R5 R1Prohibited Newcastle bay platforms 9-12
-                                             R1                   R2 Prohibited Newcastle platform 4 Up Main line
-                                             R2                   R3 Prohibited Newcastle platforms 9 and 10
-                                                                  R4 Prohibited Newcastle platform 9 with deflated suspension
-                                                                  R5 Prohibited Newcastle Station platforms 5, 6, 7, 8, 9, 10, 11 and
-                                                                     12
-         ECM7 Newcastle – Newcastle East Jn
-     LN600                          0 00 0 14 E  N  Y Y  N Y  Y  Y R1Prohibited Newcastle bay platforms 9-12
-                                              R1                   Prohibited Newcastle platform 4 Up Main line
-                                              R2                   R2 Prohibited Newcastle platform 4 Up Main line
-         ECM7 Newcastle East Jn – Heaton South Jn
-     LN600                          0 14 1 65 E  N  E R1 N Y  Y  Y R1Prohibited Manors Down platform when laden
-         ECM7 Heaton South Jn – Route Boundary
-     LN600                          1 65 6967 R1 N  E Y  N Y  Y R2 R1ECS only between Heaton South Jn and Berwick upon Tweed
-             (SC147) (Prestonpans Jn)                             R2 R2 Prohibited between Berwick upon Tweed Up Goods Loop
-                                                                     (67m 38ch) and Route Boundary (SC147) (Prestonpans Jn)
-     LN618
-         HOSHolgate Jn – Skelton Jn via York Yard
-                                    0 00 1 54 N  N  Y Y  N Y  Y  Y
-            South
-     LN620
-         KEBKing Edward Bridge East Jn – King Edward
-                                    0 00 0 13 N  N  Y Y  N Y  Y  N
-            Bridge North Jn (East Curve)
-         NEN1 Newcastle Forth Jn – Forth Banks
-     LN622                          0 11 0 73 N  N N  Y  N Y  Y  N
-         REB4 Northallerton Castle Hills Jn – Network Rail
-     LN624                          0 04 0 18 N  N N  N  N N  N  N
-             Boundary (Wensleydale Railway)
-         LEN2 Northallerton High Jn – Northallerton East
-     LN626                          0 00 0 36 N  N  Y Y  N Y  Y  N
-             Jn
-         LLP1 Longlands Jn (Down Line) – Boroughbridge
-     LN627                          2858 2972 N  N  Y Y  N Y  Y  N
-             Road LC
-         LLP3 Longlands Jn (Up Line) – Boroughbridge
-     LN627                          0 69 0 00 N  N  Y Y  N Y  Y  N
-             Road LC
-         LLP2 Boroughbridge Road LC – Northallerton
-     LN627                         42 21 4279 N  N  Y Y  N Y  Y  N
-             East Jn
-         LEN3 Northallerton East Jn – Billingham Jn
-     LN627                         42 79 6369 N  N  Y R1R3 Y  Y  N R130mph LEN3/151 Oxbridge Lane underbridge 59m32ch Down
-                                                      R2             line
-                                                                   R215mph Stockton Up platform
-                                                                   R3Prohibited between Northallerton East Jn and Eaglescliffe South
-                                                                     Jn
 
 
 
-     October 2009                                   25A
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 170 172
+                                                     180185195 220221222 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+     LN101ECM1St Neots – Fletton Jn51 58 75 02  Y  N R1  N  N  N  N  R3 R1Passenger operation can be planned for Fast /
+                                                     R2              R4   Main lines only. ECS can be planned for Fast /
+                                                                          Main and Slow lines.
+                                                                       R2 For all planned movements and unplanned
+                                                                          diversions when returning to Fast / Main lines a
+                                                                          maximum speed of 70mph applies until the unit has
+                                                                          passed the next signal.
+                                                                       R3 Shall be planned for Fast / Main lines only
+                                                                       R4 For unplanned diversions when returning to
+                                                                          Fast/Main lines a maximum speed of 70mph
+                                                                          applies until the unit has passed the next signal
+     LN101ECM1Fletton Jn – Peterborough
+                                   75 02 76 29  Y  N R1  N  N  N  N  R3 R1Passenger operation can be planned for Fast /
+                                                     R2              R4   Main lines only. ECS can be planned for Fast /
+                                                                          Main and Slow lines.
+                                                                       R2 For all planned movements and unplanned
+                                                                          diversions when returning to Fast / Main lines a
+                                                                          maximum speed of 70mph applies until the unit has
+                                                                          passed the next signal.
+                                                                       R3 Shall be planned for Fast / Main lines only
+                                                                       R4 For unplanned diversions when returning to
+                                                                          Fast/Main lines a maximum speed of 70mph
+                                                                          applies until the unit has passed the next signal
+     LN101ECM1Peterborough – Newark North Gate
+                                   76 29 12008 R1  N R2  N  N  N  N  R4 R1Prohibited Grantham Bay platform 3 with deflated
+                                                     R3              R5   suspension
+                                                                       R2 Passenger operation can be planned for Fast /
+                                                                          Main lines only. ECS can be planned for Fast /
+                                                                          Main and Slow lines.
+                                                                       R3 For all planned movements and unplanned
+                                                                          diversions when returning to Fast / Main lines a
+                                                                          maximum speed of 70mph applies until the unit has
+                                                                          passed the next signal.
+                                                                       R4 Shall be planned for Fast / Main lines only
+                                                                       R5 For unplanned diversions when returning to
+                                                                          Fast/Main lines a maximum speed of 70mph
+                                                                          applies until the unit has passed the next signal
+
+
+
+
+     October 2009                                   21B

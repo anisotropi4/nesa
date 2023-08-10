@@ -7,49 +7,62 @@
 
 
      Line of
-          ELR Line of Route / Sector
-                                  oooo oooo oooo oooo 170 172
-                                                     180185195 220221222 Notes
-     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-     LN101ECM1St Neots – Fletton Jn51 58 75 02  Y  N R1  N  N  N  N  R3 R1Passenger operation can be planned for Fast /
-                                                     R2              R4   Main lines only. ECS can be planned for Fast /
-                                                                          Main and Slow lines.
-                                                                       R2 For all planned movements and unplanned
-                                                                          diversions when returning to Fast / Main lines a
-                                                                          maximum speed of 70mph applies until the unit has
-                                                                          passed the next signal.
-                                                                       R3 Shall be planned for Fast / Main lines only
-                                                                       R4 For unplanned diversions when returning to
-                                                                          Fast/Main lines a maximum speed of 70mph
-                                                                          applies until the unit has passed the next signal
-     LN101ECM1Fletton Jn – Peterborough
-                                   75 02 76 29  Y  N R1  N  N  N  N  R3 R1Passenger operation can be planned for Fast /
-                                                     R2              R4   Main lines only. ECS can be planned for Fast /
-                                                                          Main and Slow lines.
-                                                                       R2 For all planned movements and unplanned
-                                                                          diversions when returning to Fast / Main lines a
-                                                                          maximum speed of 70mph applies until the unit has
-                                                                          passed the next signal.
-                                                                       R3 Shall be planned for Fast / Main lines only
-                                                                       R4 For unplanned diversions when returning to
-                                                                          Fast/Main lines a maximum speed of 70mph
-                                                                          applies until the unit has passed the next signal
-     LN101ECM1Peterborough – Newark North Gate
-                                   76 29 12008 R1  N R2  N  N  N  N  R4 R1Prohibited Grantham Bay platform 3 with deflated
-                                                     R3              R5   suspension
-                                                                       R2 Passenger operation can be planned for Fast /
-                                                                          Main lines only. ECS can be planned for Fast /
-                                                                          Main and Slow lines.
-                                                                       R3 For all planned movements and unplanned
-                                                                          diversions when returning to Fast / Main lines a
-                                                                          maximum speed of 70mph applies until the unit has
-                                                                          passed the next signal.
-                                                                       R4 Shall be planned for Fast / Main lines only
-                                                                       R5 For unplanned diversions when returning to
-                                                                          Fast/Main lines a maximum speed of 70mph
-                                                                          applies until the unit has passed the next signal
+          ELR Line of Route / Sector Description
+                                      oooo oooo oooo oooo 142
+                                                      143 144150153155156 158159 Notes
+     route                             M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo
+                                                                                oooooooooooooooooooooooooo
+     LN880YMS York (platforms 4 & 5) – Scarborough
+                                        0 00 42  06R1  R1 R1 R3 R3 R3  R3 R1 R3 R15mph Scarborough platform 5
+              (platforms 1 to 5)                   R2  R2 R2              R2   R2 Prohibited Scarborough platform 5
+                                                                                  with deflated suspension
+                                                                               R3 Prohibited Scarborough platform 5
+     LN880YMS York (Platform 2 and maintenance sidings) –
+                                        0  0  0  15 Y  Y  Y  Y   Y  Y  Y  Y  Y
+              Connection to Up line
+     LN882WAG1 Wakefield Kirkgate West Jn – Calder Bridge Jn
+                                       47 43 48  28 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN882WAG1 Calder Bridge Jn – Crofton West Jn
+                                       48 28 49  40 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN882WAG1 Crofton West Jn – Knottingley West Jn
+                                       49 40 58  20 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN882WAG1 Knottingley West Jn – Engine Shed Jn
+                                       58 20 73  52 Y  Y  Y  Y   Y  Y  Y  Y  R1 R1Prohibited between England Lane
+                                                                                  Crossover and Engine Shed Jn
+     LN882WAG2 Engine Shed Jn – Goole Potters Grange Jn
+                                        0 64  0  00 Y  Y  Y  Y   Y  Y  Y  Y  N
+     LN884OAJ Oakenshaw South Jn – Oakenshaw Jn.
+                                       49 41 48  76 N  N  N  N   N  N  N  N  N
+     LN886TJC3Monk Bretton – Oakenshaw South Jn
+                                      176 22 181 75 N  N  N  N   N  N  N  N  N
+     LN886OSC Oakenshaw South Jn – Crofton East Jn
+                                      181 75 183 04 N  N  N  N   N  N  N  N  N
+     LN888CJS Stainforth Jn – Thorpe Marsh Jn
+                                      166 70 163 76 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN888HTM Thorpe Marsh Jn – Haywood Jn
+                                       69 56 67  66 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN888KWS Haywood Jn – Knottingley West Jn
+                                       67 66 58  20 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN888FKW Knottingley West Jn – Ferrybridge North Jn
+                                        2 71  2  27 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN889KWS Shaftholme Jn – Haywood Jn
+                                       68 75 67  66 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN892PEF Pontefract East Jn – Ferrybridge South Jn
+                                        3 06  2  38 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN894KES Knottingley South Jn – Knottingley East Jn
+                                        0 00  0  20 N  N  N  Y   Y  Y  Y  Y  Y
+     LN896DRA1Drax Branch Jn – Drax Power Station (NR
+                                        0 00  4  16 N  N  N  Y   N  N  N  N  N
+              Boundary)
+     LN898HUL4Neville Hill East Jn – Micklefield Jn
+                                       18 25 10  63 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN898HUL4Micklefield Jn – Micklefield Change of ELR
+                                       10 63 10  60 Y  Y  Y  Y   Y  Y  Y  Y  Y
+     LN898HUL3Micklefield Change of ELR – Gascoigne Wood
+                                       10 60  6  27 Y  Y  Y  Y   Y  Y  Y  Y  Y
+              Jn
 
 
 
 
-     October 2009                                   21B
+     October 2009                                    18

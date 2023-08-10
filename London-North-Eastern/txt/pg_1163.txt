@@ -7,65 +7,79 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo RA
-                                                    08 09 20 25 31/1 31/4
-                                                                      3337/0 Notes
-     route                           M  Ch M  Ch                31/6    37/3
-                                                                        37/4
-                                                                        37/6
-     LN600ECM5King Edward Bridge South Jn – Newcastle
-                                     79 42 80 05  9 Y  Y  Y  N  Y  Y  Y  Y
-              West Jn
-     LN600ECM6Newcastle West Jn – Newcastle
-                                     80 05 80 16  9 R1 R1 R1 N  R1 R1 R1 R2 R1Prohibited Newcastle platform 10
-                                                                           R2 Prohibited Newcastle platforms 9, 10 11
-                                                                              and 12
-     LN600ECM7Newcastle – Newcastle East Jn
-                                     0  00  0 14  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM7Newcastle East Jn – Heaton South Jn
-                                     0  14  1 65  9 Y  Y  Y  N  Y  Y  Y  Y
-     LN600ECM7Heaton South Jn – Route Boundary
-                                     1  65 69 67  9 Y  Y  Y  N  Y  Y  Y  Y
-              (SC147) (Prestonpans Jn)
-     LN618HOS Holgate Jn – Skelton Jn via York Yard
-                                     0  00  1 54  9 Y  Y  Y  N  Y  Y  Y  Y
-              South
-     LN620KEB King Edward Bridge East Jn – King
-                                     0  00  0 13  9 Y  Y  Y  N  Y  Y  Y  Y
-              Edward Bridge North Jn (East Curve)
-     LN622NEN1Newcastle Forth Jn – Forth Banks
-                                     0  11  0 73  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN624REB4Northallerton Castle Hills Jn – Network Rail
-                                     0  04  0 18  8 Y  Y  Y  N  Y  Y  Y  Y
-              Boundary (Wensleydale Railway)
-     LN626LEN2Northallerton High Jn – Northallerton East
-                                     0  00  0 36  8 Y  Y  Y  N  Y  Y  Y  Y
+          ELR Line of Route / Sector Description oooo oooo oooo oooo MK1
+                                                    MK2 MK3MK3 MK3 MK3 MK4 Notes
+     route                          M  Ch M  Ch 0000               DVT
+                                                       0000 (MOD) DVT
+                                                    0000               0000
+                                                                  (MOD)
+     LN3201
+          SPC6Change of ELR (Ratcliffe) – Change of
+                                    11860 126 27 Y   Y  Y   EH  N   Y   N R1 Prohibited between Trent South Jn
+              ELR (Spondon)                                 R1               and Change of ELR (Spondon)
+                                                            R2            R2 Prohibited with footsteps fitted
+     LN3201
+          SPC7Change of ELR (Spondon) – London
+                                    12627 128 23 Y   Y  Y   N   N   Y   N
+              Road Jn
+     LN3201
+          SPC8London Road Jn – Derby Jn
+                                    12754 128 08 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+                                                            R1
+     LN3201
+          SPC8Derby Jn – Former Clay Cross South Jn
+                                    12808 147 69 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+                                                            R1
+     LN3201
+          SPC9Former Clay Cross South Jn – Route
+                                    14210 146 64 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+              Boundary (LN804 / LN806) (Tapton Jn)          R1
+     LN3204
+          TSN1Trent South Jn – Mansfield Jn
+                                    11917 125 64 Y   Y  Y   N   N   N   N
+     LN3204
+          TSN2Mansfield Jn – Nottingham East Jn
+                                    12422 123 27 Y   Y  Y   N   N   N   N
+     LN3207TCC Trent East Jn – Change of ELR (between
+                                    11970 142 10 Y   Y  Y   EH  N   R1  N R1 Prohibited between Toton North Jn
+              Morton Jn and Clay Cross North Jn)            R1               and Change of ELR
+                                                            R2            R2 Prohibited with footsteps fitted
+     LN3207
+          SPC9Change of ELR (between Morton Jn and
+                                    14210 143 12 Y   Y  Y   N   N   N   N
+              Clay Cross North Jn) – Clay Cross North
               Jn
-     LN627LLP1Longlands Jn (Down Line) –
-                                     28 58 29 72  8 Y  Y  Y  N  Y  Y  Y  Y
-              Boroughbridge Road LC
-     LN627LLP3Longlands Jn (Up Line) – Boroughbridge
-                                     0  69  0 00  8 Y  Y  Y  N  Y  Y  Y  Y
-              Road LC
-     LN627LLP2Boroughbridge Road LC – Northallerton
-                                     42 21 42 79  8 Y  Y  Y  N  Y  Y  Y  Y
-              East Jn
-     LN627LEN3Northallerton East Jn – Billingham Jn
-                                     42 79 63 69  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN627LEN3Billingham Jn – Ryhope Grange Jn
-                                     63 69 87 63  8 Y  Y  R1 N  R1 R1 R1 R1 R1Prohibited Hartlepool Down Bay platform
-                                                                              3
-     LN627LEN3Ryhope Grange Jn – Sunderland South Jn
-                                     87 63 89 56  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN627LEN3Sunderland South Jn – Boldon East Jn
-                                     89 56 94 63  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN627LEN3Boldon East Jn – Boldon West Jn
-                                     94 63 95 16  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN627LEN3Boldon West Jn – Pelaw Metro Jn
-                                     95 16 97 64  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN627LEN3Pelaw Metro Jn – Park Lane Jn
-                                     97 64 10065  8 Y  Y  Y  N  Y  Y  Y  Y
-     LN627LEN3Park Lane Jn – High Level Bridge Jn
-                                    100 65 10133  8 Y  Y  Y  N  Y  Y  Y  Y
-     October 2009                                    55
+     LN3210
+          JRT2Route Boundary (EA1370) (Junction
+                                     2 38  2  00 Y   Y  Y   N   N   N   N
+              Road Jn) – Change of ELR (Between
+              Tottenham North Curve No 2 and No 1
+              Tunnels)
+     LN3210
+          JRT1Change of ELR (Between Tottenham
+                                     0 18  0  03 Y   Y  Y   N   N   N   N
+              North Curve No 2 and No 1 Tunnels) –
+              Carlton Road Jn (Tottenham Lines)
+     LN3213
+          MCL Route Boundary (SO280) (former
+                                     0 66  3  58 N   N  N   N   N   N   N
+              Farringdon Jn) – Kentish Town Jn
+     LN3214
+          CBI Canal Tunnel Jn – Belle Isle Jn
+                                    0  00  0 53  N   N  N   N   N   N   N
+     LN3219
+          CAW Cricklewood Curve Jn – Route Boundary
+                                     5 19  5  72 Y   Y  Y   N   N   N   N
+              (LOR EA1360) (Dudding Hill)
+     LN3222
+          BDH Brent Curve Jn – Route Boundary
+                                     0 00  0  54 Y   Y  Y   N   N   N   N
+              (EA1360) (Dudding Hill)
+     LN3228
+          TCC Trent East Jn – Trent East ELR Change
+                                    11970 119 56 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+                                                            R1
+
+
+
+     October 2009                                    50

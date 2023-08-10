@@ -7,64 +7,75 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo RA
-                                                    08  09 20 25 31/1 31/4
-                                                                       33 37/0Notes
-     route                           M  Ch M  Ch                 31/6     37/3
-                                                                          37/4
-                                                                          37/6
-     LN652POC2Phillips Siding Jn – Seal Sands Branch Jn
-                                     3  25  5 01 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN652SES Seal Sands Branch Jn – End of NR
-                                     0  00  2 44 8  Y   Y   Y  N  Y  Y  Y  Y
-              maintenance
-     LN656SOT Seaton Snook Jn – Seaton-on-Tees
-                                     0  00  1 51 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN662HNB Ryhope Grange – Hendon 0  00  1 53 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN664BNW Boldon East Jn – Boldon North Jn
-                                     0  00  0 20 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN666BGE Boldon West Jn – Boldon North Jn
-                                     0  00  0 32 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN666GLT Boldon North Jn – Tyne Dock
-                                     0  32  1 26 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN670JAW1Pelaw Jn – Network Rail Boundary (Shell
-                                     0  09  3 36 8  Y   Y   Y  N  Y  Y  Y  Y
-              Mex Depot Jarrow)
-     LN672FEP Wardley – Pelaw Jn     19 70 20 75 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN674HLK High Level Bridge Jn – Greensfield Jn
-                                     0  00  0 21 8  Y   Y   Y  N  Y  Y  Y  Y
-              (West Curve)
-     LN676PLG1Park Lane Jn – Site of Former High Street
-                                    100 65 10115 8  Y   Y   Y  N  Y  Y  Y  Y
-              Jn
-     LN676PLG2Site of Former High Street Jn – Greensfield
-                                     0  00  0 21 8  Y   Y   Y  N  Y  Y  Y  Y
-              Jn
-     LN676HLK Greensfield Jn – King Edward Bridge
-                                     0  16  0 48 8  Y   Y   Y  N  Y  Y  Y  Y
-              South Jn
-     LN678DAE1Darlington North Jn – Site of Former
-                                     44 36 44 64 8  Y   Y   Y  N  Y  Y  Y  Y
-              Parkgate Jn
-     LN678DAE1Site of Former Parkgate Jn – Shildon SB
-                                     0  00  8 29 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN678DAE2Shildon SB – Bishop Auckland
-                                     8  29 11 23 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN682NEC1King Edward Bridge South Jn – Norwood
-                                     0  48  1 71 8  Y   Y   Y  N  Y  Y  Y  Y
-              Jn
-     LN682NEC1Norwood Jn – Site of Former Blaydon East
-                                     1  71  5 28 8  Y   Y   Y  N  Y  Y  Y  Y
-              Jn
-     LN682NEC2Site of Former Blaydon East Jn – Route
-                                     3  78 58 00 8  Y   Y   Y  N  Y  Y  Y  Y
-              Boundary (NW9909) (Petteril Bridge Jn)
-     LN684NLF Low Fell Jn – Limit of Electrification
-                                     0  00  1 26 8  Y   Y   Y  N  Y  Y  Y  Y
-     LN684NLF Limit of Electrification – Norwood Jn
-                                     1  26  1 42 8  Y   Y   Y  N  Y  Y  Y  Y
+          ELR Line of Route / Sector Description oooo oooo oooo oooo MK1
+                                                    MK2 MK3MK3 MK3 MK3 MK4 Notes
+     route                          M  Ch M  Ch 0000               DVT
+                                                       0000 (MOD) DVT
+                                                    0000               0000
+                                                                  (MOD)
+     LN3520
+          SSJ1Sheet Stores Jn – Change of ELR (Site
+                                    11962 127 20 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+              of Former Chellaston East Jn)                 R1
+     LN3520
+          MJS1Change of ELR (Site of Former
+                                    12720 128 00 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+              Chellaston East Jn) – Change of ELR           R1
+              (Site of Former Chellaston West Jn)
+     LN3520
+          SSJ2Change of ELR (Site of Former
+                                    12800 132 12 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
+              Chellaston West Jn) – Stenson Jn              R1
+     LN3525
+          KSL Knighton Jn – Leicester Jn
+                                    97 45 127 00 Y   Y  Y   N   N   N   N
+     LN3535
+          BCJ Birmingham Curve Jn – Branston Jn
+                                    12640 127 19 Y   Y  Y   N   N   N   N
+          GSM1 Kettering North Jn – Manton Jn
+     LN3601                         74 00  90 25 Y   Y  Y   N   N   N   N
+
+     LN3605
+          BSC Corby BSC Works – Corby North
+                                     2 05  0  00 Y   Y  Y   N   N   N   N
+     LN3610
+          BSC Corby Automotive Terminal – Corby
+                                     1 10  0  00 Y   Y  Y   N   N   N   N
+              North
+     LN3615
+          PMJ Route Boundary (LN147) – Uffington SB
+                                    13 60  12 75 Y   Y  Y   N   N   N   N
+     LN3615
+          PMJ Uffington SB – Manton Jn
+                                    12 75  0  00 Y   Y  Y   N   N   N   N
+          GSM2 Manton Jn – Melton Jn
+     LN3615                         90 25 105 70 Y   Y  Y   N   N   N   N
+          GSM3 Melton Jn – Syston South Jn
+     LN3615                         11336 103 77 Y   Y  Y   N   N   N   N
+          GSM4 Melton Jn GF – Asfordby
+     LN3620                         10570 107 20 Y   Y  Y   N   N   N   N
+     LN3625
+          TSN1Nottingham East Jn – Change of ELR
+                                    12327 123 23 Y   Y  Y   N   N   N   N
+              (Nottingham East Jn)
+          NOB1
+     LN3625   Change of ELR (Nottingham East Jn) –
+                                     0 00  16 02 Y   Y  Y   N   N   N   N
+              Route Boundary (LN206) (Coulson)
+          NOG1
+     LN3635                         11160 123 76
+              Route Boundary (LN195) (Nottingham Y   Y  Y   N   N   N   N
+              Branch Jn) – Rectory Jn SB
+     LN3635
+          NOG1Rectory Jn SB – Change of ELR
+                                    12376 125 25 Y   Y  Y   N   N   N   N
+              (Netherfield)
+     LN3635
+          NOG2Change of ELR (Netherfield) –
+                                     2 54  2  35 Y   Y  Y   N   N   N   N
+              Netherfield Jn
 
 
 
-     October 2009                                   56A
+
+     October 2009                                   51A

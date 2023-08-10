@@ -8,57 +8,63 @@
 
      Line of
           ELR Line of Route / Sector Description
-                                      oooo oooo oooo oooo
-                                                    RA  60 66  67  68  70 73 97/3Notes
-     route                             M  Ch M  Ch     000000000000   00000000 0000
-     LN860MVL3                                       9  Y
-              Route Boundary (NW7021) (Stalybridge Tunnel
-                                       15  11 25 20         Y   Y  Y   Y  Y   Y
-              Jn) – Springwood Jn
-     LN860MVL3Springwood Jn – Change of ELR (Heaton Lodge
-                                       25  20 29 00  9  Y   Y   Y  Y   Y  Y   Y
-              Jn)
-     LN860MVL3Change of ELR (Heaton Lodge Jn) – Heaton
-                                       29  00 29 45  9  Y   Y   Y  Y   Y  Y   Y
-              Lodge Jn (Up line)
-     LN860MVL4Change of ELR (Heaton Lodge Jn) – Heaton
-                                       29  00 29 74  9  Y   Y   Y  Y   Y  Y   Y
-              Lodge East Jn (Down Line)
-     LN860MVN2 Heaton Lodge Jn – Heaton Lodge East Jn
-                                       37  18 37 47  9  Y   Y   Y  Y   Y  Y   Y
-     LN860MVN2 Heaton Lodge East Jn – Thornhill LNW Jn
-                                       37  47 39 72  8  Y   Y   Y  Y   Y  Y   Y
-     LN860MDL1Thornhill LNW Jn – Copley Hill East Jn
-                                       32  16 42 03  8  Y   Y   Y  Y   Y  Y   Y
-     LN861BBW Bradley Jn – Bradley Wood Jn
-                                        0  00 1  17  8  Y   Y   Y  Y   Y  Y   Y
-     LN862PED2Barnsley Station Jn – Site of Former Barnsley Jn
-                                        6  43 0  00  8  Y   Y   Y  Y   Y  Y   Y
-     LN862PED1Site of Former Barnsley Jn – Site of Former
-                                       29  13 28 37  8  Y   Y   Y  Y   Y  Y   Y
-              Huddersfield Jn
-     LN862PEH Site of Former Huddersfield Jn – Lockwood
-                                       13  42 1  18  8  Y   Y   Y  Y   Y  Y   Y
-     LN862PEH Lockwood – Springwood Jn  1  18 0  40  8  Y   Y   Y  Y   Y  Y   Y
-     LN862MVL3Springwood Jn – Huddersfield
-                                        0  40 0  00  8  Y   Y   Y  Y   Y  Y   Y
-     LN864DRS1Dewsbury Railway Street – Change of Mileage
-                                        0  10 0  00  6  Y   Y   N  N   Y  Y   Y
-     LN864DRS1Change of Mileage – Dewsbury East Jn
-                                        0  27 0  00  6  Y   Y   N  N   Y  Y   Y
-     LN868SHB Wincobank Jn – Site of former Quarry Jn
-                                       161 52173 48  8  Y   Y   Y  Y  R1  Y   Y R1Prohibited Up line between Wombwell
-                                                                                  and Elescar
-     LN868PED2Site of Former Quarry Jn – Barnsley Station Jn
-                                        7  50 6  43  8  Y   Y   Y  Y   Y  Y   Y
-     LN868BAH2Barnsley Station Jn – Site of Former
-                                       52  58 45 56  7  Y   Y   N  Y   Y  Y   Y
-              Crigglestone Jn
-     LN868CHS Site of former Crigglestone Jn – Horbury Jn
-                                        1  53 0  00  7  R1  Y   N  Y   Y  Y   Y R110mph over bridge No.3 and bridge
-                                                                                  No.4
+                                     oooo oooo oooo oooo
+                                                   RA  60 66  67 68 70 73  97/3 Notes
+     route                            M  Ch M  Ch     00000000 00000000 0000
+                                                                           0000
+     LN648NWE Norton-on-Tees West – Norton-on-Tees East
+                                       0  29  0 00  8  Y   Y   Y  Y  Y  Y   Y
+     LN652POC1Billingham Jn – Phillips Siding Jn
+                                       0  00  3 25  8  Y   Y   Y  Y  Y  Y   Y
+     LN652POC2Phillips Siding Jn – Seal Sands Branch Jn
+                                       3  25  5 01  8  Y   Y   Y  Y  Y  Y   Y
+     LN652SES Seal Sands Branch Jn – End of NR
+                                       0  00  2 44  8  Y   Y   Y  Y  Y  Y   Y
+              maintenance
+     LN656SOT Seaton Snook Jn – Seaton-on-Tees
+                                       0  00  1 51  8  Y   Y   Y  Y  Y  Y   Y
+     LN662HNB Ryhope Grange – Hendon   0  00  1 53  8  Y   Y   Y  Y  Y  Y   Y
+     LN664BNW Boldon East Jn – Boldon North Jn
+                                       0  00  0 20  8  Y   Y   Y  Y  Y  Y   Y
+     LN666BGE Boldon West Jn – Boldon North Jn
+                                       0  00  0 32  8  Y   Y   Y  Y  Y  Y   Y
+     LN666GLT Boldon North Jn – Tyne Dock
+                                       0  32  1 26  8  Y   Y   Y  Y  Y  Y   Y
+     LN670JAW1Pelaw Jn – Network Rail Boundary (Shell Mex
+                                       0  09  3 36  8  Y   Y   Y  Y  Y  Y   Y
+              Depot Jarrow)
+     LN672FEP Wardley – Pelaw Jn       19 70 20 75  8  R1  R1 R1 R1 R1  R1  R1Line out of use (temporarily)
+                                                                              NC/G1/2011/LNE/STNC/001 until 30 April 2023
+
+     LN674HLK High Level Bridge Jn – Greensfield Jn (West
+                                       0  00  0 21  8  Y   Y   Y  Y  Y  Y   Y
+              Curve)
+     LN676PLG1Park Lane Jn – Site of Former High Street Jn
+                                      100 65101 15  8  Y   Y   Y  Y  Y  Y   Y
+     LN676PLG2Site of Former High Street Jn – Greensfield Jn
+                                       0  00  0 21  8  Y   Y   Y  Y  Y  Y   Y
+     LN676HLK Greensfield Jn – King Edward Bridge South Jn
+                                       0  16  0 48  8  Y   Y   Y  Y  Y  Y   Y
+     LN678DAE1Darlington North Jn – Site of Former Parkgate
+                                       44 36 44 64  8  Y   Y   Y  Y  Y  Y   Y
+              Jn
+     LN678DAE1Site of Former Parkgate Jn – Shildon SB
+                                       0  00  8 29  8  Y   Y   Y  Y  Y  Y   Y
+     LN678DAE2Shildon SB – Bishop Auckland
+                                       8  29 11 23  8  Y   Y   Y  Y  Y  Y   Y
+     LN682NEC1King Edward Bridge South Jn – Norwood Jn
+                                       0  48  1 71  8  Y   Y   Y  Y  Y  Y   Y
+     LN682NEC1Norwood Jn – Site of Former Blaydon East Jn
+                                       1  71  5 28  8  Y   Y   Y  Y  Y  Y   Y
+     LN682NEC2Site of Former Blaydon East Jn – Route
+                                       3  78 58 00  8  Y   Y   Y  Y  Y  Y   Y
+              Boundary (NW9909) (Petteril Bridge Jn)
+     LN684NLF Low Fell Jn – Limit of Electrification
+                                       0  00  1 26  8  Y   Y   Y R1  Y  Y   Y R1 Prohibited Royal Mail Terminal platform
+     LN684NLF Limit of Electrification – Norwood Jn
+                                       1  26  1 42  8  Y   Y   Y  Y  Y  Y   Y
 
 
 
 
-     October 2009                                   67G
+     October 2009                                    67

@@ -6,65 +6,51 @@
 
 
 
+     Table D5B – Locomotive Gauge Clearance Table (London North Eastern)
+                                                                                Last Updated: 10/12/2022
+     To be read in conjunction with General Notes.
+     • All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
+     • Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
+     • Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in
+       the table below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a
+       valid Summary of Compatibility prior to operation over Network Rail infrastructure.
+    •  Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
+    •  Gauge clearance for steam locomotives is considered under a separate process.
+    The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
+    Y    Route conforms to locomotive gauge without restriction.
+    R    Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
+    N    Route does not conform to locomotive gauge
+
        Line of
              ELR Line of Route / Sector
                                     oooo oooo oooo oooo RA
                                                     Loco Gauge
                                                              Notes
        route     Description         M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-       LN736 MAC3Thrumpton West Jn (Up) – Manton
-                                      63 28 58 54  8    Y
-                 Wood
-       LN736 MAC3Manton Wood – Brancliffe East Jn
-                                      58 54 53 57  8    Y
-       LN736 MAC3Brancliffe East Jn – Woodburn Jn
-                                      53 57 42 29  8    Y
-       LN736 NUJ2Woodburn Jn – Site of Former
-                                      42 29 41 68  8    Y
-                 Nunnery Jn
-       LN736 NUJ1Site of Former Nunnery Jn – Nunnery
-                                     159 33 15877  8    Y
-                 Main Line Jn
-       LN738 MWN Great Coates No. 1 – Network Rail
-                                     108 34 10844  8    Y
-                 Boundary (ABP)
-       LN740 MWN Marsh West Jn – Network Rail
-                                     107 69 10844  8    Y
-                 Boundary (ABP)
-       LN740 PYE2Network Rail Boundary (ABP) – Site of
-                                      4  33  0 00  8    Y
-                 Former Queens Road Jn
-       LN740 PYE1Site of Former Queens Road Jn –
-                                     106 50 10631  8    Y
-                 Immingham East Jn
-       LN740 BRI2Immingham East Jn – Humber Road
-                                     106 31 10405  8    Y
-                 Jn
-       LN741 HAU Habrough – Ulceby South Jn
-                                      0  32  1 45  8    Y
-       LN742 KIL2Killingholme – Immingham West
-                                      2  70  0 00  8    Y
-                 Change of Mileage
-       LN742 KIL1Immingham West Change of Mileage
-                                     105 10 10405  8    Y
-                 – Humber Rd Jn
-       LN742 BRI2Humber Rd Jn – Ulceby North Jn
-                                     104 05 10044  8    Y
-       LN742 BRI1Ulceby North Jn – Brocklesby West Jn
-                                     100 44 99 20  8    Y
-       LN744 BAR Ulceby North Jn – Barton on Humber
-                                     100 44 11018  8    Y
-       LN746 TYB1Cottam Power Station – Clarborough
-                                      71 79 68 32  8    Y
-                 Jn
-       LN748 WHR Retford Western Jn – Thrumpton West
-                                      64 29 63 28  8    Y
-                 Jn
-       LN750 MAC3Woodburn Jn – Deepcar42 29 33 35  8    Y
-       LN752 DOW Wrawby Jn – Marshgate Jn
-                                      33 34  0 03  8    R1   R1Prohibited Scunthorpe Up bay platform
-       LN754 SAN Scunthorpe Foreign Ore Branch – 0
-                                      0  00  1 16 10    Y
+       LN101 ECM1Kings Cross – Copenhagen Jn
+                                      0  00  0 64  9    Y
+       LN101 ECM1Copenhagen Jn – Holloway
+                                      0  64  1 44  9    Y
+                 South/North Jns
+       LN101 ECM1Holloway South/North Jns – Wood
+                                      1  44  5 07  9    Y
+                 Green North Jn
+       LN101 ECM1Wood Green North Jn – Langley Jn
+                                      5  07 25 73  9    Y
+       LN101 ECM1Langley Jn – St Neots25 73 51 58  9    Y
+       LN101 ECM1St Neots – Fletton Jn51 58 75 02  9    Y
+       LN101 ECM1Fletton Jn – Peterborough
+                                      75 02 76 29  8    Y
+       LN101 ECM1Peterborough – Newark North Gate
+                                      76 29 12008  9    Y
+       LN101 PMJ Peterborough – Helpston Jn via
+                                      22 19 16 71  9    Y
+                 Stamford lines
+       LN101 ECM1Newark North Gate – Retford
+                                     120 08 13849  8    Y
+       LN101 ECM1Retford – Loversall Carr Jn
+                                     138 49 15000  9    Y
+       LN101 ECM1Loversall Carr Jn – Marshgate Jn
+                                     152 00 15626  9    Y
 
-
-    October 2009                                    114
+    October 2009                                    107

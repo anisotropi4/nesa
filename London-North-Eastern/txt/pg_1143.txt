@@ -4,62 +4,72 @@
                                           LNE Route Sectional Appendix Module LNRC
 
 
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 317
+                                                   319321 322325377 380387 390700 Notes
+     route    Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 0000 0000
 
-     LN627LEN3Northallerton East Jn – Billingham
-                                 42 79  63 69 Y  Y  Y   N  N  N  Y  Y  R1 R1Prohibited between Norton-on-Tees
-              Jn                                                            South Jn and Billingham Jn
-     LN627LEN3Billingham Jn – Ryhope Grange Jn
-                                 63 69  87 63 Y  Y  Y   N  N  N  R1 Y   N R1Prohibited Hartlepool Bay and Up
-                                                                            (disused) platforms
-     LN627LEN3Ryhope Grange Jn – Sunderland
-                                 87 63  89 56 Y  Y  Y   N  N  N  Y  Y   N
-              South Jn
-     LN627LEN3Sunderland South Jn – Boldon
-                                 89 56  94 63 R1 R1 Y   N  N  N  Y  Y   N R130mph maximum speed
-              East Jn
-     LN627LEN3Boldon East Jn – Boldon West Jn
-                                 94 63  95 16 R1 R1 Y   N  N  N  Y  Y   N R130mph maximum speed
-     LN627LEN3Boldon West Jn – Pelaw Metro Jn
-                                 95 16  97 64 R1 R1 Y   N  N  N  Y  Y   N R130mph maximum speed
-     LN627LEN3Pelaw Metro Jn – Park Lane Jn
-                                 97 64 100 65 Y  Y  Y   N  N  N  R1 Y   N R120mph Heworth down platform
-     LN627LEN3Park Lane Jn – High Level Bridge
-                                 10065 101 33 Y  Y  Y   N  N  N  Y  Y   N
-              Jn
-     LN627LEN3High Level Bridge Jn – Newcastle
-                                 10133 101 59 Y  Y  Y   N  N  N  Y  Y   Y
-              East Jn
-     LN628NEK South Hylton – Sunderland South
-                                  3 20  0  00 R1 R1 N   N  N  N  N  N   N R1Permitted for the purposes of track
-              Jn                                                            recording and maintenance only
-     LN629PDL Pelaw Metro Jn – Network Rail
-                                 97 64  98 01 N  N  N   N  N  N  N  N   N
-              Boundary (Metro Operating)
-     LN630PUL Pelaw Metro Jn – Network Rail
-                                 97 64  97 77 N  N  N   N  N  N  N  N   N
-              Boundary (Metro Operating)
-     LN631DSN1Darlington South Jn – Eaglescliffe
-                                  0 29  8  58 Y  Y  Y   N  N  N  Y  N   Y
-              South Jn
-     LN632DSN2Stockton Cut Jn – Redcar Change
-                                 10 13  21 72 Y  Y  Y   N  N  N  N  N   Y
-              of Mileage
-     LN632DSN3Redcar Change of Mileage –
-                                 22 16  27 57 Y  Y  Y   N  N  N  N  N  R1 R1Prohibited Redcar East Up platform
-              Saltburn                                                 R2   with deflated suspension
-                                                                       R3 R2Prohibited Longbeck Down platform
-                                                                       R4   with deflated suspension
-                                                                         R3 Prohibited Marske Down platform with
-                                                                            deflated suspension
-                                                                          R4Prohibited Saltburn platform 2 with
-                                                                            deflated suspension
-     LN634MBW1 Guisborough Jn – Battersby Jn
-                                  0 00  10 54 Y  Y  Y   N  N  N  N  N  R1 R1Prohibited between 00m 50ch and
-                                                                            Battersby Jn
-     LN634MBW2 Battersby Jn (End of line) –
-                                 11 61  29 66 R1 R1 R1  N  N  N  N  N   N R1Special authority required to use the
-              Grosmont Jn                                                   Run-Round Loop at Battersby
-     LN634MBW3 Grosmont Jn – Whitby
-                                 24 44  30 61 Y  Y  Y   N  N  N  N  N   N
+          MJT1 Mansfield Jn – Radford Jn
+     LN3252                        12422 12555  N  N  N   N  H   N  N   N  N  N
+          MJT2 Radford Jn – Trowell South Jn
+     LN3252                        12555 13051  N  N  N   N  H   N  N   N  N  N
+          RAC Radford Jn – Newstead
+     LN3255                        12555 13420  N  N  N   N  H   N  N   N  N  N
+          RAC Newstead – Kirkby Lane End Jn
+     LN3255                        13420 13666  N  N  N   N  H   N  N   N  N  N
+     LN3261
+          THL Trent South Jn – Toton South Jn
+                                   11917 12136  N  N  N   N  H   N  N   N  N  N
+              (High Level Lines)
+          AML Attenborough Jn – Meadow Lane Jn
+     LN3264                        0  62 0  00  N  N  N   N  H   N  N   N  N  N
+              (Attenborough Curve)
+          TCC Codnor Park Jn – Ironville Jn
+     LN3273                        13276 13318  N  N  N   N  H   N  N   N  N  N
+          PBS1 Ironville Jn – Kirkby Summit
+     LN3273                        13318 13879  N  N  N   N  H   N  N   N  N  N
+              Crossover
+          PBS2 Kirkby Summit Crossover – Mansfield
+     LN3273                        13711 14040  N  N  N   N  H   N  N   N  N  N
+              ELR Change
+          PBS3 Mansfield Change of ELR – Route
+     LN3273                        14040 14300  N  N  N   N  H   N  N   N  N  N
+              Boundary (LN768) (Shireoaks East
+              Jn)
+     LN3340
+          BJW3 Route Boundary (MD340) (Lichfield
+                                   19 00 23 33  N  N  N   N  H   N  EH  N  EH N
+              Trent Valley) – Wichnor Jn
+          DBP1 London Road Jn – Route Boundary
+     LN3501                        0  00 23 30  N  N  N   N  H   N  EH  N  EH N R1 Prohibited between Wichnor
+              (MD501) (Kingsbury Jn)                                R1     R2      Jn and Route Boundary
+                                                                           R3      (MD501) (Kingsbury Jn)
+                                                                           R4   R2 15mph Burton on Trent Up
+                                                                           R5      Main platform
+                                                                                R3 Prohibited Derby platform 4
+                                                                                R4 5mph Derby platform 3
+                                                                                R5 Prohibited Down and Up
+                                                                                   Goods lines between Clay
+                                                                                   Mills Jn and Leicester Jn
+          NSS North Stafford Jn – Route Boundary
+     LN3505                        30 10 1  40  N  N  N   N  H   N  N   N  N  N
+              (NW5012) (Stoke Jn)
+          MJS1 Melbourne Jn – Sinfin
+     LN3515                       131 15 13037  N  N  N   N  N   N  N   N  N  N
+          SSJ1 Sheet Stores Jn – Change of ELR
+     LN3520                       119 62 12720  N  N  N   N  H   N  N   N  EH N
+              (Site of Former Chellaston East Jn)
+     LN3520
+          MJS1 Change of ELR (Site of Former
+                                  127 20 12800  N  N  N   N  H   N  N   N  EH N
+              Chellaston East Jn) – Change of ELR
+              (Site of Former Chellaston West Jn)
+     LN3520
+          SSJ2 Change of ELR (Site of Former
+                                  128 00 13212  N  N  N   N  H   N  N   N  EH N R1 15mph over bridge 10
+              Chellaston West Jn) – Stenson Jn                             R1      Swarkestone Road on the
+                                                                                   Down Line 128m 14ch
 
-     October 2009                                    46
+
+     October 2009                                    40

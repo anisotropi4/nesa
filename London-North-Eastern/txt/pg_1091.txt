@@ -4,67 +4,62 @@
                                           LNE Route Sectional Appendix Module LNRC
 
 
-     LN627LEN3Boldon West Jn – Pelaw Metro Jn
-                                   95 16 97 64 EH EHEH EH EHN  EH EH
-     LN627LEN3Pelaw Metro Jn – Park Lane Jn
-                                   97 64100 65 EH EHEH EH EHN  EH EH
-     LN627LEN3Park Lane Jn – High Level Bridge Jn
-                                  100 65101 33 EH EHEH EH EHN  EH EH
-     Line of
-          ELR Line of Route / Sector
-                                  oo oo  oo oo 313 314 315 317 318 319 321 322 325 333 345 Notes
-     route    Description         oo oo  oo oo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo
-                                                                            oooooooooooooooooooooooo
-                                  M  Ch  M  Ch                              ooo
-     LN627LEN3High Level Bridge Jn – Newcastle East 101
-                                      33101 59 Y  Y Y  Y  Y N  Y  Y
-              Jn
-     LN628NEK South Hylton – Sunderland South Jn
-                                   3  20  0 00 N  N N  N  N N  N  N
-     LN630PUL Pelaw Metro Jn – Network Rail
-                                   97 64 97 77 N  N N  N  N N  N  N
-              Boundary (Metro Operating)
-     LN631DSN1Darlington South Jn – Eaglescliffe
-                                   0  29  8 58 N  N N  N  N N  N  N
-              South Jn
-     LN632DSN2Stockton Cut Jn – Redcar Change of
-                                   10 13 21 72 N  N N  N  N N  N  N
-              Mileage
-     LN632DSN3Redcar Change of Mileage – Saltburn
-                                   22 16 27 57  N  N   N  N   N  N   N  N
-     LN634MBW1 Guisborough Jn – Battersby Jn
-                                   0  00 10 54  N  N   N  N   N  N   N  N
-     LN634MBW2 Battersby Jn (End of Line) – Grosmont
-                                   11 61 29 66  N  N   N  N   N  N   N  N
-              Jn
-     LN634MBW3 Grosmont Jn – Whitby24 44 30 61  N  N   N  N   N  N   N  N
-     LN636No ELR Beam Mill Jn – Network Rail Boundary
-                                   18 03 18 67  N  N   N  N   N  N   N  N
-     LN638WCI Shell Jn – Network Rail Boundary
-                                   0  00  1 03  N  N   N  N   N  N   N  N
-     LN642SSK1Saltburn West Jn – Network Rail
-                                   27 05 34 29  N  N   N  N   N  N   N  N
-              Boundary (Cleveland Potash)
-     LN644BOH Hartburn Jn – Bowesfield SB (Hartburn
-                                   0  00  0 44  N  N   N  N   N  N   N  N
-              Curve)
-     LN646STF Norton-on-Tees South – Ferryhill
-                                   0  00 10 72  N  N   N  N   N  N   N  N
-              South Jn
-     LN648NWE Norton-on-Tees West – Norton-on-
-                                   0  29  0 00  N  N   N  N   N  N   N  N
-              Tees East
-     LN652POC1Billingham Jn – Phillips Siding Jn
-                                   0  00  3 25  N  N   N  N   N  N   N  N
-     LN652POC2Phillips Siding Jn – Seal Sands Branch
-                                   3  25  5 01  N  N   N  N   N  N   N  N
-              Jn
-     LN652SES Seal Sands Branch Jn – End of NR
-                                   0  00  2 44  N  N   N  N   N  N   N  N
-              maintenance
-     LN656SOT Seaton Snook Jn – Seaton-on-Tees
-                                   0  00  1 51  N  N   N  N   N  N   N  N
-     LN662HNB Ryhope Grange – Hendon
-                                   0  00  1 53  N  N   N  N   N  N   N  N
 
-     October 2009                                    35
+     LN3520SSJ2 Change of ELR (Site of Former
+                                   12800 132 12 E  Y  N   N  N   N  Y   Y  Y
+              Chellaston West Jn) – Stenson Jn
+     LN3525KSLKnighton Jn – Leicester Jn
+                                   97 45 127 00 N  Y  N   N  N   N  N   N  E R1 Prohibited between Knighton Jn and
+                                                                           R1   Birmingham Curve Jn
+     LN3535BCJBirmingham Curve Jn – Branston Jn
+                                   12640 127 19 N  Y  N   N  N   N  N   N  N
+          GSM1 Kettering North Jn – Manton Jn
+     LN3601                        74 00  90 25 N  Y  N   N  N   N  Y   Y  Y
+     LN3605BSC Corby BSC Works – Corby North
+                                    2 05  0  00 N  N  N   N  N   N  N   N  N
+     LN3610BSC Corby Automotive Terminal – Corby
+                                    1 10  0  00 N  N  N   N  N   N  N   N  N
+              North
+     LN3615PMJ Route Boundary (LN147) – Uffington
+                                   13 60  12 75 N  Y  N   N  N   N  N   N  Y
+              SB
+     LN3615PMJ Uffington SB – Manton Jn
+                                   12 75  0  00 N  Y  N   N  N   N  N   N  Y
+          GSM2 Manton Jn – Melton Jn
+     LN3615                        90 25 105 70 N  Y  N   N  N   N  Y   Y  Y
+          GSM3 Melton Jn – Syston South Jn
+     LN3615                        11336 103 77 N  Y  N   N  N   N  Y   Y  Y
+          GSM4 Melton Jn GF – Asfordby
+     LN3620                        10570 107 20 N  N  N   N  N   N  Y   Y  N
+          TSN1 Nottingham East Jn – Change of ELR
+     LN3625                        12327 123 23 N  Y  N   N  N   N  N   N  Y
+              (Nottingham East Jn)
+     LN3625
+          NOB1 Change of ELR (Nottingham East Jn)
+                                    0 00  16 02 N  Y  N   N  E   N  N   N  R1R1 Between Nottingham East Jn and
+              – Route Boundary (LN206) (Coulson)             R2                 Netherfield Jn, when accelerating from a
+                                                                                stand at any red signal a maximum of
+                                                                                50% power shall be applied until the next
+                                                                                proceed aspect is observed
+                                                                             R2 Prohibited between Eastcroft Sidings
+                                                                                (00m 22ch) and Route Boundary (LN206)
+                                                                                (Coulson)
+     LN3635
+          NOG1 Route Boundary (LN195) (Nottingham
+                                   11160 123 76 N  Y  N   N  N   N  N   N  R1R1 When accelerating from a stand at any red
+              Branch Jn) – Rectory Jn SB                                        signal a maximum of 50% power shall be
+                                                                                applied until the next proceed aspect is
+                                                                                observed
+          NOG1 Rectory Jn SB – Change of ELR
+     LN3635                        12376 125 25 N  Y  N   N  N   N  N   N  R1R1 When accelerating from a stand at any red
+              (Netherfield)                                                     signal a maximum of 50% power shall be
+                                                                                applied until the next proceed aspect is
+                                                                                observed
+          NOG2 Change of ELR (Netherfield) –
+     LN3635                         2 54  2  35 N  Y  N   N  N   N  N   N  R1R1 When accelerating from a stand at any red
+              Netherfield Jn                                                    signal a maximum of 50% power shall be
+                                                                                applied until the next proceed aspect is
+                                                                                observed
+
+
+     October 2009                                    32

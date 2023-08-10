@@ -4,76 +4,66 @@
                                           LNE Route Sectional Appendix Module LNRC
 
 
-     Line of ELR
-             Line of Route / Sector Description
-                                    M  Ch  M  Ch  325333345 357
-                                                              357365377378 387
-                                                                             Notes
-     route                                                    MOD            ooooooooooooooooooooooooooo
-     LN854
-         NOC Altofts Jn – Sherburn Jn
-                                    23  57 13  20 H   N  N N   N  N  N  N N
-     LN854
-         NOC Sherburn Jn – Colton Jn13  20  5  41 H   N  N N   N  N  N  N N
-         ECM4 Colton Jn – Holgate Jn
-     LN854                          182 79 188 07 Y   N  N N   N  N  N  N N
-         ECM4 Holgate Jn – York
-     LN854                          188 07 188 40 Y   N  N N   N  N  N  N N
-         ECM5 York – Skelton Jn
-     LN854                           0  00  1  50 Y   N  N N   N  N  N  N N
-     LN858
-         MRB Milner Royd Jn – Mill Lane Jn
-                                    29  20 40  01 H   N  N N   N  N  N  N N
-     LN859
-         GRD Greetland Jn – Dryclough Jn
-                                     1  11  0  00 H   N  N N   N  N  N  N N
-     LN860
-         MVL3 Route Boundary (NW7021) (Stalybridge
-                                    15  11 25  20 H   N  N N   N  N  N  N N
-             Tunnel Jn) – Springwood Jn
-         MVL3 Springwood Jn – Change of ELR (Heaton
-     LN860                          25  20 29  00 H   N  N N   N  N  N  N N
-             Lodge Jn)
-         MVL4 Change of ELR (Heaton Lodge Jn) –
-     LN860                          29  00 29  45 H   N  N N   N  N  N  N N
-             Heaton Lodge Jn (Up line)
-         MVL4 Change of ELR (Heaton Lodge Jn) –
-     LN860                          29  00 29  74 H   N  N N   N  N  N  N N
-             Heaton Lodge East Jn (Down Line)
-         MVN2 Heaton Lodge Jn – Heaton Lodge East Jn
-     LN860                          37  18 37  47 H   N  N N   N  N  N  N N
-         MVN2 Heaton Lodge East Jn – Thornhill LNW Jn
-     LN860                          37  47 39  72 H   N  N N   N  N  N  N N
-         MDL1 Thornhill LNW Jn – Copley Hill East Jn
-     LN860                          32  16 42  03 H   N  N N   N  N  N  N N
-         BBW Bradley Jn – Bradley Wood Jn
-     LN861                           0  00  1  17 H   N  N N   N  N  N  N N
-         PED2 Barnsley Station Jn – Site of former
-     LN862                           6  43  0  00 H   N  N N   N  N  N  N N
-             Barnsley Jn
-         PED1 Site of former Barnsley Jn – Site of Former
-     LN862                          29  13 28  37 H   N  N N   N  N  N  N N
-             Huddersfield Jn
-     LN862
-         PEHSite of former Huddersfield Jn – Lockwood
-                                    13  42  1  18 H   N  N N   N  N  N  N N
-     LN862
-         PEHLockwood – Springwood Jn 1  18  0  40 H   N  N N   N  N  N  N N
-         MVL3 Springwood Jn – Huddersfield
-     LN862                           0  40  0  00 H   N  N N   N  N  N  N N
-         DRS1 Dewsbury Railway Street – Change of
-     LN864                           0  10  0  00 N   N  N N   N  N  N  N N
-             Mileage
-         DRS1 Change of Mileage – Dewsbury East Jn
-     LN864                           0  27  0  00 N   N  N N   N  N  N  N N
-     LN868
-         SHBWincobank Jn – Site of former Quarry Jn
-                                    161 52 173 48 H   N  N N   N  N  N  N N
-         PED2 Site of former Quarry Jn – Barnsley Station
-     LN868                           7  50  6  43 H   N  N N   N  N  N  N N
-             Jn
+
+
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 325
+                                                  333345357357 360365377378387 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo MOD ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+     LN662HNB Ryhope Grange – Hendon
+                                   0  00  1 53 N   N  N  N  N  N  N  N  N  N
+     LN664BNW Boldon East Jn – Boldon North Jn
+                                   0  00  0 20 N   N  N  N  N  N  N  N  N  N
+     LN666BGE Boldon West Jn – Boldon North Jn
+                                   0  00  0 32 N   N  N  N  N  N  N  N  N  N
+     LN666GLT Boldon North Jn – Tyne Dock
+                                   0  32  1 26 N   N  N  N  N  N  N  N  N  N
+     LN670JAW1Pelaw Jn – Network Rail Boundary
+                                   0  09  3 36 N   N  N  N  N  N  N  N  N  N
+              (Shell Mex Depot Jarrow)
+     LN672FEP Wardley – Pelaw Jn   19 70 20 75 N   N  N  N  N  N  N  N  N  N
+     LN674HLK High Level Bridge Jn – Greensfield Jn
+                                   0  00  0 21 H   N  N  N  N  N  N  N  N  N
+              (West Curve)
+     LN676PLG1Park Lane Jn – Site of former High
+                                  100 65 10115 H   N  N  N  N  N  N  N  N  N
+              Street Jn
+     LN676PLG2Site of former High Street Jn –
+                                   0  00  0 21 H   N  N  N  N  N  N  N  N  N
+              Greensfield Jn
+     LN676HLK Greensfield Jn – King Edward Bridge
+                                   0  16  0 48 H   N  N  N  N  N  N  N  N  N
+              South Jn
+     LN678DAE1Darlington North Jn – Site of former
+                                   44 36 44 64 H   N  N  N  N  N  N  N  N  N
+              Parkgate Jn
+     LN678DAE1Site of former Parkgate Jn – Shildon
+                                   0  00  8 29 H   N  N  N  N  N  N  N  N  N
+              SB
+     LN678DAE2Shildon SB – Bishop Auckland
+                                   8  29 11 23 H   N  N  N  N  N  N  N  N  N
+     LN682NEC1King Edward Bridge South Jn –
+                                   0  48  1 71 H   N  N  N  N  N  N  N  N  N
+              Norwood Jn
+     LN682NEC1Norwood Jn – Site of former Blaydon
+                                   1  71  5 28 H   N  N  N  N  N  N  N  N  N
+              East Jn
+     LN682NEC2Site of former Blaydon East Jn – Route
+                                   3  78 58 00 H   N  N  N  N  N  N  N  N  N
+              Boundary (NW9909) (Petteril Bridge
+              Jn)
+     LN684NLF Low Fell Jn – Limit of Electrification
+                                   0  00  1 26 H   N  N  N  N  N  N  N  N  N
+     LN684NLF Limit of Electrification – Norwood Jn
+                                   1  26  1 42 H   N  N  N  N  N  N  N  N  N
+     LN694BNE Benton North Jn – Site of former
+                                   0  00  2 53 H   N  N  N  N  N  N  N  N  N
+              Earsdon Jn
+     LN694EJM Site of former Earsdon Jn – Morpeth
+                                   7  08 20 47 H   N  N  N  N  N  N  N  N  N
+              North Jn
 
 
 
-
-     October 2009                                   37J
+     October 2009                                   37E

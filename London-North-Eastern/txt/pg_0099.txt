@@ -5,44 +5,64 @@
 
 
 
-       HULL
-       Platform 1             -     -      -         75 (Out of use)
-       Platform 2             -     -      -            170
-       Platform 3             -     -      -            175
-       Platform 4             -     -      -            175
-       Platform 5             -     -      -            234.9
-       Platform 6             -     -      -            231.2
-       Platform 7             -     -      -            229.3
-       HUNMANBY               92    92     -             -
-       HUNTINGDON
-       Platform 1 (Up Bay)    -     -      -            166.1
-       Platform 2 (Up Slow)   -    295.4   -             -
-       Platform 3 (Down Slow)247.7  -      -             -
-       HUTTON CRANSWICK      83.2   60     -             -
-       HYKEHAM                79    81     -             -
-       ILKLEY                 -     -      -         Platform 1 199
-                                                     Platform 2 199
-       JAMES COOK UNIVERSITY  -     -     102            -
-       HOSPITAL
-       KEIGHLEY              225    202    -             -
-       KILDALE                -      -    38.5           -
-       KINGS CROSS
-       Platform 0                   -                   305
-       Platform 1             -     -      -            304
-       Platform 2             -     -      -            285
-       Platform 3             -     -      -            288
-       Platform 4             -     -      -            290
-       Platform 5             -     -      -            278
-       Platform 6             -     -      -            289
-       Platform 7             -     -      -            289
-       Platform 8             -     -      -            291
-       Platform 9             -     -      -            176
-       Platform 10            -     -      -            176
-                              -            -
-       KIRK SANDALL          104    104    -             -
-       KIRKSTALL FORGE       100    100    -             -
+              STATION       DOWN    UP   SINGLE    MULTI-PLATFORM
+       HARROGATE
+       Platform 1 (Down Main/Up York)
+                            221.4 *191 #   -   * For trains from Leeds direction
+                                               departing towards York direction
+                                               # = For trains either from Leeds or
+                                               York direction departing towards
+                                               Leeds direction (to H26 signal)
+       Platform 3 (Up Main/Down York)
+                              -     223
+       HARTLEPOOL
+       Platform 2            150 *  -      -   * = Bi-directional platform 143
+                                               metres in Up direction
+       Platform 1 (Bay)       -     -      -            78
+       HATFIELD
+       Platform 3 (Down Slow)170     -     -             -
+       Platform 2 (Down Fast)170     -     -             -
+       Platform 1 (Up slow)   -     170    -             -
+       HATFIELD & STAINFORTH 102    102    -             -
+       HAVENHOUSE            49     61     -   * = to Drivers viewing point of W31
+                                               signal
+       HAYDON BRIDGE         108.5 110     -             -
+       HEADINGLEY             97    97     -             -
+       HEALING               56.3  56.3    -             -
+       HEBDEN BRIDGE          110  109     -             -
+       HECKINGTON             98    94     -             -
+       HEIGHINGTON            103   90     -             -
+       HENSALL               50.5  50.8    -             -
+       HERTFORD NORTH
+       Platform 1             -    154.9  -              -
+       Platform 2            152.7  -     -              -
+       Platform 3             -     -     -           Bay145.5
+       HESSLE                 105   105   -              -
+       HEWORTH                120   120   -              -
+       HEXHAM                 102   102   -              -
+       HIGHBURY & ISLINGTON  126.5 128.8  -              -
+       HITCHIN                249   247   -              -
+       HONLEY                 -     -     65             -
+       HORDEN                 100   100
+       HORNBEAM PARK         87.1  86.9    -             -
+       HORNSEY
+       Platform 2 (Down Slow No.1)
+                             124.5   -     -             -
+       Platform 1 (Up Slow No.1)
+                              -     126    -             -
+       HORSFORTH              110   115    -             -
+       HOWDEN                 123   120    -             -
+       HUBBERTS BRIDGE        62    37     -             -
+       HUDDERSFIELD
+       Platform 1             -     180    -             -
+       Platform 2 Bay         -      -     -            65
+       Platform 4             -      -     -        Down 213, Up 172
+                                                        39
+       Platform 5 Bay         -     -      -            73
+       Platform 6 Down Bay    -     -      -            147
+       Platform 8             -     -      -
 
 
 
 
-       February 2021                 43        (Supplement No. 49 – 27 February 2021)
+       February 2021                 42

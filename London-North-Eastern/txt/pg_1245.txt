@@ -4,50 +4,71 @@
                                           LNE Route Sectional Appendix Module LNRC
 
 
-
-
-     Line ofLine of Route / Sector               Gauge                 Notes
-     Route  Description
-                                  W6   W7  W8  W9   W9PlusW10 W10AW12
-     LN101  Holloway South / North Jns – Wood
-                                  Y*   Y    Y   Y    R1   R1   R1  R1 R1 PROHIBITED on the Up Fast
-            Green North Jn                           R2   R2   R2  R2   between Holloway South Jn and
-                                                     R3   R3   R3  R3   Wood Green South Jn
-                                                     R4   R4   R4  R4 R2 PROHIBITED on the Down Fast
-                                                                        between Holloway South Jn and
-                                                     R5   R5   R5  R5   Wood Green South Jn
-                                                     R6   R6   R6  R6 R3 PROHIBITED across Ferme Park
-                                                     R7   R7   R7  R7   Flyover
-                                                     R8   R8   R8  R8 R4 PROHIBITED from Doncaster Up bay
-                                                     R9   R9   R9  R9   platform 2
-                                                                   R13R5 PROHIBITED from Doncaster Down
-                                                                   R14  bay platform 5, 6 and 7
-                                                                   R15R6 PROHIBITED from Bounds Green
-                                                                   R16  Depot
-                                                                      R7 PROHIBITED from the Down Washer
-                                                                        Carriage between Ferme Park and
-                                                                        Wood Green South Jn
-                                                                      R8 PROHIBITED between Holloway Jn
-                                                                        North and Finsbury Park (North) Jn on
-                                                                        the Down Slow
-                                                                      R9 PROHIBITED between Holloway Jn
-                                                                        South and Wood Green South Jn on
-                                                                        the Up Fast
-                                                                      R13 - PROHIBITED on Peterborough
-                                                                      Eastfield South Down Arrival
-                                                                      R14 - PROHIBITED on Peterborough
-                                                                      Eastfield North Down Departure
-                                                                      R15 - PROHIBITED Werrington Jn to Black
-                                                                      Carr Jn
-                                                                      R16 - PROHIBITED from Balby Tunnel on
-                                                                      the Up Fast line and the Down Fast line
-     LN101  Wood Green North Jn – Langley Jn
-                                  Y*   Y    Y   N    N     N   N   N
-     LN101  Langley Jn – Peterborough
-                                   Y   Y    Y   Y    R1   R1   Y   Y  R1 PROHIBITED from Huntingdon Up
-                                                                        bay platform 1
-
-
-
-
-    October 2009                                    88A
+     Line of ELR
+             Line of Route / Sector Description
+                                        oo oo oo  oo RA 58 59 60 66 67 68 70 73 97/3Notes
+     route                              oo oo oo  oo 0000 0000 0000 0000 0000 0000
+                                                                         0000 0000 0000 ooooooooooooooooooooooooo
+                                        M  Ch M   Ch                               oo
+             Change of ELR (Between Tottenham North Curve
+     LN3210 JRT1                         0  18  0 03 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             No 2 and No 1 Tunnels) – Carlton Road Jn
+             (Tottenham Lines)
+             Route Boundary (SO280) (former Farringdon Jn) –
+     LN3213 MCL                          0  66  3 58 5  N  N  N  N  N  Y  N  R1 N R115mph
+             Kentish Town Jn                                                 R2   R2OHLE must be switched off and
+                                                                             R3     Block To Electric Traction (BTET)
+                                                                             R4     imposed no requirement for
+                                                                                    earthing
+                                                                                  R3Locomotives must not stand under
+                                                                                    insulators positioned directly
+                                                                                    above the track as the exhaust
+                                                                                    can damage the Overhead Line
+                                                                                    Equipment
+                                                                                  R4Prohibited in DC mode
+             Canal Tunnel Jn – Belle Isle Jn
+     LN3214 CBI                          0  00  0 53 3  N  N  N  N  N  Y  N  N  N
+             Cricklewood Curve Jn – Route Boundary (LOR
+     LN3219 CAW                          5  19  5 72 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             EA1360) (Dudding Hill)
+             Brent Curve Jn – Route Boundary (EA1360)
+     LN3222 BDH                          0  00  0 54 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             (Dudding Hill)
+             Trent East Jn – Trent East ELR Change
+     LN3228 TCC                         119 70119 56 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Trent East ELR Change – Sheet Stores Jn
+     LN3228 TES                          0  00 0  30 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Wigston South Jn – Glen Parva Jn
+     LN3231 WGP                          95 37 96 07 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Wigston North Jn – Route Boundary (MD232)
+     LN3232 WNS                          15 31 2  62 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             (Nuneaton South Jn)
+             Syston East Jn – Syston North Jn
+     LN3234 SEN                           0 17  0 00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Loughborough South Jn – Network Rail/GCR (N)
+     LN3237 RUD                          92 45 92 49 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Boundary
+             Little Eaton Jn – Denby
+     LN3240 LED                         131 06 13546 8  N  N  N  N  N  Y  N  N  N Line out of use
+                                                                                  NC/G1/2010/LNE/021
+          AJM1 Ambergate Jn – Matlock
+     LN3246                             137 61145 00 8  Y  Y  Y  Y  N  Y  R1 Y  Y R1Prohibited between Ambergate
+                                                                                    and Whatstandwell
+             Lenton South Jn – Lenton North Jn
+     LN3249 LSN                          0  00 0  27 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Mansfield Jn – Radford Jn
+     LN3252 MJT1                        124 22125 55 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Radford Jn – Trowell South Jn
+     LN3252 MJT2                        125 55130 51 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Radford Jn – Newstead
+     LN3255 RAC                         125 55134 20 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Newstead – Kirkby Lane End Jn
+     LN3255 RAC                         134 20136 66 7  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Trent South Jn – Toton South Jn (High Level Lines)
+     LN3261 THL                         119 17121 36 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Attenborough Jn – Meadow Lane Jn (Attenborough
+     LN3264 AML                          0  62 0  00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+             Curve)
+             Codnor Park Jn – Ironville Jn
+     LN3273 TCC                         132 76133 18 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     October 2009                                    82

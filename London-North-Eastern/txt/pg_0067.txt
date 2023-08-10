@@ -5,74 +5,54 @@
 
 
 
+                                              CONTROLLING
+                                                        GSM-R
+                LINE/PLATFORM        LOCATION
+       LOCATION            SIGNAL             SIGNAL    CONTACT
+                (DIRECTION)          CODE
+                                              BOX/PANEL NUMBER
 
-       TW5 SECTION 24 – KNOWN MISROUTED CALL LOCATIONS
-
-       The locations in the table below are known areas where calls are frequently misrouted to the wrong signaller. Calls
-       may misroute to the wrong signaller if the ‘contact signaller’ button is pressed.
-
-       Drivers are instructed to use the phone book to contact the signaller from these locations.
-
-
-           Location     Fault Number Comments  Outcome
-
-           Wakefield Westgate
-                        FMS YOR -540359        Fixed – data fill changed
-                                     Misrouted calls
-
-       TW5 SECTION 24 – KNOWN NON-TD REGISTRATION LOCATIONS
-
-       The locations in the table below are known areas where the lack of Train Describers results in registration problems.
-       There will also be a likelihood of misrouted calls to the signaller if the ‘contact signaller’ button is pressed.
-
-       Drivers are instructed to register using the wildcard and not follow GSM-R bulletin 21 until the alias plates are added
-       to the signals. The Driver is also instructed to use the phone book to contact the signaller from these locations.
-
-            Location          Fault Number
-                                         Comments        Outcome
-
-            Bradford Interchange
-                              NA         No Alias plate in place
-                                                         TBC
+       LN3615 HELPSTON JN TO SYSTON SOUTH JN
 
 
-       LIMITED COVERAGE ON FREIGHT ONLY BRANCH LINES
-
-       The freight-only branch lines listed in the table below are sections of permanent poor GSM-R coverage. These
-       areas of poor coverage are in tunnels and deep cuttings resulting in GSM-R calls may be unreliable, as with
-       previous NRN coverage. If a train is in a poor coverage area at the time the emergency call is initiated, the train
-       radio will receive the emergency call as soon as there is sufficient GSM-R coverage.
-
-       SECTION        SA   ELR  StartStart End  End   GSM-R Predicted Poor
-                                MilesChainsMilesChainsCoverage Details
-
-       Pelaw Junction to Jarrow                       Poor coverage: JAW1
-                      LN670JAW1 0    9     3    36
-       (NR Boundary)                                  3m0ch - 3m36ch
-
-       Saltburn West to Boulby                        Poor coverage: SSK1
-                      LN642SSK1 27   5     34   29
-       Mine (NR Boundary)                             29m25ch - 30m05ch
-
-       Embsay Junction                                Poor coverage through
-                      LN930
-       (former) to Skipton SKS1 220  64    221  68    Haw Bank Tunnel: SKS1
-       Middle Junction                                220m77ch - 221m07ch
+                  Reversible/Bi-
+       Ketton                  WGF2   997    Ketton      74 7150 01
+                  Directional - Siding
 
 
 
-       GSM-R FAULTS AND FAILURES RESPONSE
+       GSM-R – CAB RADIO REGISTRATION – AREA SPECIFIC 99X LOCATION CODES
+       When required to use a 99X location code (also known as ‘wild card number’) to pre-register or to register the cab radio as
+       shown in the GSM-R user procedures the following area specific location code must be used in the areas covered by this
+       Sectional Appendix:
+       997 East Midlands Route
+       998 LNE Route.
 
-       VERSION 1.1
 
-       PURPOSE
-
-       To provide guidance on the response to onboard GSM-R system faults and local/area infrastructure faults.
-
-       Appendix covers the response to system faults from a single fixed terminal through to failures of the infrastructure
-       resulting in loss of coverage in a geographical area.
+                                      London North Eastern Route GI - Dated: 14/12/19
 
 
 
 
-       December 2006                28ZG
+       GSM-R GENERAL INSTRUCTION
+       TW5 SECTION 24 – KNOWN SEARCHING NETWORK LOCATIONS
+
+       The locations in the table below have encountered a temporary reduction in radio coverage with the GSM-R system
+       which may result in registration problems and the ability of the driver to contact the signaller. This will be presented
+       to the Driver on the DCP as ‘searching for network’.
+
+       Drivers must carry out the 'Pending Registration' process on the radio and continue their journey.
+
+            Location
+                  Fault   Comments             Outcome
+                  Number
+
+            HendonFMS                          Fixed – repeater installed
+                          GSM-R issues at Hendon and then
+                  DER93555again at West Hampstead with it
+                          dropping out
+
+
+
+
+       December 2006                28ZF

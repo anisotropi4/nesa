@@ -6,63 +6,53 @@
 
 
 
-     LN740MWN Marsh West Jn – Network Rail
-                                  107 69 10844  N   N   N   N  N   N   N
-              Boundary (ABP)
-     LN740PYE2Network Rail Boundary (ABP) – Site of
-                                   4  33  0 00  N   N   N   N  N   N   N
-              former Queens Road Jn
-     LN740PYE1Site of former Queens Road Jn –
-                                  106 50 10631  N   N   N   N  N   N   N
-              Immingham East Jn
-     LN740BRI2Immingham East Jn – Humber Road
-                                  106 31 10405  N   N   N   N  N   N   N
-              Jn
-     LN741HAU Habrough – Ulceby South Jn
-                                   0  32  1 45  N   N   N   N  N   N   N
-     LN742KIL2Killingholme – Immingham West
-                                   2  70  0 00  N   N   N   N  N   N   N
-              Change of Mileage
-     LN742KIL1Immingham West Change of Mileage – 105
-                                      10 10405  N   N   N   N  N   N   N
-              Humber Rd Jn
-     LN742BRI2Humber Rd Jn – Ulceby North Jn
-                                  104 05 10044  N   N   N   N  N   N   N
-     LN742BRI1Ulceby North Jn – Brocklesby West Jn
-                                  100 44 99 20  N   N   N   N  N   N   N
-     LN744BAR Ulceby North Jn – Barton on Humber
-                                  100 44 11018  N   N   N   N  N   N   N
-     LN746TYB1Cottam Power Station – Clarborough
-                                   71 79 68 32  N   N   N   N  N   N   N
-              Jn
-     LN748WHR Retford Western Jn – Thrumpton West
-                                   64 29 63 28  N   N   N   N  N   N   N
-              Jn
-     LN750MAC3Woodburn Jn – Deepcar42 29 33 35  N   N   N   N  N   N   N
-     LN752DOW Wrawby Jn – Marshgate Jn
-                                   33 34  0 03  N   N   N   N  N   N   N
-     LN754SAN Scunthorpe Foreign Ore Branch
-                                   0  00  1 16  N   N   N   N  N   N   N
-     LN756NOP1Scunthorpe Trent Jn – Site of former
-                                   0  00  0 28  N   N   N   N  N   N   N
-              Dawes Lane Jn
-     LN756NOP2Site of former Dawes Lane Jn – NR
-                                   0  25  3 60  N   N   N   N  N   N   N
-              Boundary (Roxby)
-     LN758BKS Brancliffe East Jn – St Catherines Jn
-                                   0  00 15 17  N   N   N   N  N   N   N
-     LN758BKS St Catherines Jn – Low Ellers Curve Jn
-                                   15 17 15 55  N   N   N   N  N   N   N
-     LN758BKS Low Ellers Curve Jn – Kirk Sandall Jn
-                                   15 55 20 49  N   N   N   N  N   N   N
-     LN760HAC Firbeck Jn – Harworth Colliery
-                                   11 20 14 21  N   N   N   N  N   N   N  Line out of use (temporarily) until 09 May
-                                                                             2015
-                                                                          NC/G1/2011/LNE/STNC/002
-     LN762YDS St Catherines Jn – Decoy South Jn (St
-                                   15 17 15 71  N   N   N   N  N   N   N
-              Catherines Curve)
-     LN764UDS Low Ellers Curve Jn – Potteric Carr Jn
-                                   15 55 16 56  N   N   N   N  N   N   N
+     Table D2C (London North Eastern) – Route clearance of electric multiple units
+                                                                                       Last Updated: 04/03/2023
 
-     October 2009                                   37U
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 379
+                                                   380 387 397 508 599 700 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo oooooooooooooooooooooooooooooo
+     LN101ECM1Kings Cross – Copenhagen Jn
+                                   0  00  0 64  N   N  R1   N  N   N   Y  R 1- Class 387/1 only
+                                                       R2                 R 2 - Prohibited Kings Cross platforms 2 &
+                                                                          4 with deflated suspension
+     LN101ECM1Copenhagen Jn – Holloway South /
+                                   0  64  1 44  N   N  R1   N  EH  N   Y  R1 Class 387/2 and 387/3 to operate ECS
+              North Jns                                                   only
+     LN101ECM1Holloway South / North Jns – Wood
+                                   1  44  5 07  E   N  E    N  EH  N   Y  R1 Prohibited between Holloway South /
+              Green North Jn                    R1     R2                 North Jns and Finsbury Park
+                                                R2     R3                 R2 Class 387/2 and 387/3 prohibited
+                                                                          between Hornsey and Wood Green North
+                                                                          Jn
+                                                                          R3 Class 387/2 and 387/3 to operate ECS
+                                                                          only
+     LN101ECM1Wood Green North Jn – Langley Jn
+                                   5  07 25 73  N   N  R1   N  N   N   Y  R1 Class 387/1 only
+     LN101ECM1Langley Jn – St Neots25 73 51 58  N   N  R1   N  N   N   Y  R1 Class 387/1 only
+     LN101ECM1St Neots – Fletton Jn51 58 75 02  N   N  R1   N  N   N   Y  R1 Class 387/1 only
+     LN101ECM1Fletton Jn – Peterborough
+                                   75 02 76 29  N   N  R1   N  N   N   Y  R1 Class 387/1 only
+     LN101ECM1Peterborough – Newark North Gate
+                                   76 29 12008  N   N  R2   N  N   N   R1 R2 Class 387/1 only
+                                                       R3                 R3 Prohibited New England Jn to Newark
+                                                                          North Gate
+     LN101PMJ Peterborough – Helpston Jn via
+                                   22 19 16 71  N   N   N   N  N   N   N
+              Stamford lines
+     LN101ECM1Newark North Gate – Retford
+                                  120 08 13849  N   N   N   N  N   N   N
+     LN101ECM1Retford – Loversall Carr Jn
+                                  138 49 15000  N   N   N   N  N   N   N
+     LN101ECM1Loversall Carr Jn – Marshgate Jn
+                                  152 00 15626  N  EH   N  E   N   N   N  R4Prohibited between Loversall Carr Jn
+                                                   R1      R2               and Doncaster
+                                                                          R5Prohibited between Loversall Carr Jn
+                                                                            and Potteric Carr Jn
+     LN101ECM1Marshgate Jn – Shaftholme Jn
+                                  156 26 16016  N  EH   N   E  N   N   N
+
+
+     October 2009                                   37N

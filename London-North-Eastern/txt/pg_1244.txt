@@ -6,38 +6,82 @@
 
 
 
-     Table D5A – Route Clearance of Freight Vehicles (London North Eastern and East Midlands)
-                                                                                       Last Updated: 19/11/2022
+     Table D4C (East Midlands) – Route clearance of locomotives
+                                                                                       Last Updated: 12/06/2021
      To be read in conjunction with General Notes.
+     Class 67 – Additional speed restrictions are detailed on the current Vehicle/Infrastructure Summary of Compatibility documentation
+     Line of ELR                        oooo oooo oooo oooo RA
+              Line of Route / Sector Description         58 59 60 66 67 68 70 7397/3Notes
+     route                               M  Ch M  Ch 0000 0000 0000 0000 0000 0000
+                                                                          0000 0000 0000 ooooooooooooooooooooooo
+                                                                                   oooo
+     LN3140
+          BBM Route Boundary (MD140) (Bedford St. Johns) –
+                                         16  07 16 50 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Bedford Station Jn
+     LN3140
+          SPC1Bedford Station Jn – Bedford Station (Via Up and
+                                         49  60 49 65 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Down Bletchley line)
+     LN3201
+          SPC1St Pancras platforms 1, 2, 3 and 4 - Cricklewood
+                                          0  12  5 09 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC1Cricklewood – Change of ELR (Bedford)
+                                          5  09 50 00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC2Change of ELR (Bedford) – Change of ELR
+                                         50  00 64 78 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              (Wellingborough)
+     LN3201SPC3 Change of ELR (Wellingborough) – Change of ELR
+                                         64  78 95 38 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              (Wigston South Jn)
+     LN3201
+          SPC4Change of ELR (Wigston South Jn) – Change of
+                                         95  38 98 73 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              ELR (Leicester)
+     LN3201
+          SPC5Change of ELR (Leicester) – Leicester
+                                          98 73 99 07 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC5Leicester – Ratcliffe Jn    99 07118 34 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC5Ratcliffe Jn – Change of ELR (Ratcliffe)
+                                         118 34118 60 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC6Change of ELR (Ratcliffe) – Change of ELR
+                                         118 60126 27 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              (Spondon)
+     LN3201
+          SPC7Change of ELR (Spondon) – London Road Jn
+                                         126 27128 23 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC8London Road Jn – Derby Jn  127 54128 08 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC8Derby Jn – Former Clay Cross South Jn
+                                         128 08147 69 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3201
+          SPC9Former Clay Cross South Jn – Route Boundary
+                                         142 10146 64 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              (LN804 / LN806) (Tapton Jn)
+     LN3204
+          TSN1Trent South Jn – Mansfield Jn
+                                         119 17125 64 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3204
+          TSN2Mansfield Jn – Nottingham East Jn
+                                         124 22123 27 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     LN3207
+          TCC Trent East Jn – Change of ELR (between Morton Jn
+                                         119 70142 10 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              and Clay Cross North Jn)
+     LN3207
+          SPC9Change of ELR (between Morton Jn and Clay
+                                         142 10143 12 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Cross North Jn) – Clay Cross North Jn
+     LN3210
+          JRT2Route Boundary (EA1370) (Junction Road Jn) –
+                                          2  38 2  00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Change of ELR (Between Tottenham North Curve
+              No 2 and No 1 Tunnels)
 
-     The notations (used in these tables) are explained as follows for freight vehicles or loads conforming to the Group Standards:
-     Y Permitted to operate over the route without restriction.
-     R Permitted to operate over part or all of the route but restrictions apply. See “Notes” column for details.
-     S Permitted for, or prohibited to, specific traffic. See “Notes” column for details.
-     * Route does not conform to Group Standard W6A Lower Gauge as defined in GE/RT8073. Certain W6A vehicles are prohibited from all or part of the route; these restrictions are detailed on
-       the Summary of Compatibility for the vehicles concerned.
-     N Prohibited from operating over the route
-     Conditions of Operation
-     When operating within a possession the notations detailed within the table may not apply subject to a risk assessment and the application of appropriate control measures (in accordance with
-       company and Group Standards).
-     Freight traffic, other than containers/swap bodies, which exceed W6A gauge shall only operate in accordance with GORT3056-K
-     Vehicles conveying containers/swap bodies are also subject to the procedure detailed in GO/RM3056, Section J Intermodal Traffic.
-     Temporary authority for a specific wagon and container/swapbody combination may be granted by the Infrastructure Manager’s Gauging Engineer. This authority shall be detailed and issued on
-       an RT3973/CON form.
-     Note
-     GO/RM3056 Section J Intermodal Traffic contains details of the wagon type (by TOPS code) and container/swapbody (by height, width and/or size code) combinations that conform to the
-     gauges shown as column headings in this table.
-
-     Line ofLine of Route / Sector                Gauge                Notes
-     Route  Description
-                                  W6   W7  W8  W9  W9Plus W10 W10A W12
-     LN101  Kings Cross – Copenhagen Jn
-                                   Y   N    N   N    N     N   N   N
-     LN101  Copenhagen Jn – Holloway South /
-                                  Y*   R1  R1   R1   R1   R1   R1  R1  R1 PROHIBITED on the Fast Lines
-            North Jns
-
-
-
-
-    October 2009                                     88
+     October 2009                                    81

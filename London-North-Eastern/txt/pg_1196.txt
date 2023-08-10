@@ -6,64 +6,72 @@
 
 
 
-     Line of
-          ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo
-                                                  RA  60 66  67  68  70 73  97/3Notes
-     route                           M  Ch M  Ch     000000000000   000000000000
-     LN600ECM5Low Fell Jn – King Edward Bridge South Jn
-                                     77  37 79 42  9  Y   Y   Y   Y  Y   Y   Y
-     LN600ECM5King Edward Bridge South Jn – Newcastle
-                                     79  42 80 05  9  Y   Y   Y   Y  Y   Y   Y
-              West Jn
-     LN600ECM6Newcastle West Jn – Newcastle
-                                     80  05 80 16  9  R1  R1 R1  R3  R2  Y  R1 R1 Prohibited Newcastle platforms 9, 10
-                                                                                  11 and 12
-                                                                               R2 Prohibited Newcastle Platform 10
-                                                                               R3 Prohibited Newcastle platforms 9, 10
-                                                                                  and 12
-     LN600ECM7Newcastle – Newcastle East Jn
-                                      0  00 0  14  9  Y   Y   Y   Y  Y   Y   Y
-     LN600ECM7Newcastle East Jn – Heaton South Jn
-                                      0  14 1  65  9  Y   Y   Y   Y  Y   Y   Y
-     LN600ECM7Heaton South Jn – Route Boundary (SC147)
-                                      1  65 69 67  9  Y   Y   Y   Y  Y   Y   Y
-              (Prestonpans Jn)
-     LN618HOS Holgate Jn – Skelton Jn via York Yard
-                                      0  00 1  54  9  Y   Y   Y   Y  Y   Y   Y
-              South
-     LN620KEB King Edward Bridge East Jn – King Edward
-                                      0  00 0  13  9  Y   Y   Y   Y  Y   Y   Y
-              Bridge North Jn (East Curve)
-     LN622NEN1Newcastle Forth Jn – Forth Banks
-                                      0  11 0  73  8  Y   Y   Y   Y  Y   Y   Y
-     LN624REB4Northallerton Castle Hills Jn – Network Rail
-                                      0  04 0  18  8  Y   Y   Y   Y  Y   Y   Y
-              Boundary (Wensleydale Railway)
-     LN626LEN2Northallerton High Jn – Northallerton East
-                                      0  00 0  36  8  Y   Y   Y   Y  Y   Y   Y
-              Jn
-     LN627LLP1Longlands Jn (Down Line) – Boroughbridge
-                                     28  58 29 72  8  Y   Y   Y   Y  Y   Y   Y
-              Road LC
-     LN627LLP3Longlands Jn (Up Line) – Boroughbridge
-                                      0  69 0  00  8  Y   Y   Y   Y  Y   Y   Y
-              Road LC
-     LN627LLP2Boroughbridge Road LC – Northallerton
-                                     42  21 42 79  8  Y   Y   Y   Y  Y   Y   Y
-              East Jn
-     LN627LEN3Northallerton East Jn – Billingham Jn
-                                     42  79 63 69  8  Y   Y   Y   Y  Y   Y   Y
-     LN627LEN3Billingham Jn – Ryhope Grange Jn
-                                     63  69 87 63  8  R1  R1 R1   Y  Y   R1 R1 R1 Prohibited Hartlepool Down Bay
-                                                                                  platform 3
-     LN627LEN3Ryhope Grange Jn – Sunderland South Jn
-                                     87  63 89 56  8  Y   Y   Y   Y  Y   Y   Y
-     LN627LEN3Sunderland South Jn – Boldon East Jn
-                                     89  56 94 63  8  Y   Y   Y   Y  Y   Y   Y
-     LN627LEN3Boldon East Jn – Boldon West Jn
-                                     94  63 95 16  8  Y   Y   Y   Y  Y   Y   Y
-     LN627LEN3Boldon West Jn – Pelaw Metro Jn
-                                     95  16 97 64  8  Y   Y   Y   Y  Y   Y   Y
+     Line of ELR
+             Line of Route / Sector Description
+                                    oooo oooo oooo oooo RA 37/5 37/7 43 47/2 47/4 47/7 56
+                                                                       5758 59  Notes
+     route                           M  Ch  M Ch 000 000 37/9 000 000 000 000 000 000 000 000
+                                                       000
 
-     October 2009                                    65
+     LN859
+         GRD Greetland Jn – Dryclough Jn
+                                      1  11  0 00 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+         MVL3
+     LN860   Route Boundary (NW7021) (Stalybridge
+                                      15 11 25 20 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Tunnel Jn) – Springwood Jn
+         MVL3
+     LN860   Springwood Jn – Change of ELR (Heaton
+                                      25 20 29 00 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Lodge Jn)
+         MVL3
+     LN860   Change of ELR (Heaton Lodge Jn) – Heaton
+                                      29 00 29 45 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Lodge Jn (Up line)
+         MVL4
+     LN860   Change of ELR (Heaton Lodge Jn) – Heaton
+                                      29 00 29 74 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Lodge East Jn (Down Line)
+         MVN2 Heaton Lodge Jn – Heaton Lodge East Jn
+     LN860                            37 18 37 47 9  Y Y  Y  Y Y  Y  Y Y  Y  Y
+         MVN2 Heaton Lodge East Jn – Thornhill LNW Jn
+     LN860                            37 47 39 72 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+         MDL1
+     LN860   Thornhill LNW Jn – Copley Hill East Jn
+                                      32 16 42 03 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN861
+         BBW Bradley Jn – Bradley Wood Jn
+                                      0  00  1 17 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN862
+         PED2Barnsley Station Jn – Site of Former Barnsley
+                                      6  43  0 00 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Jn
+     LN862
+         PED1Site of Former Barnsley Jn – Site of Former
+                                      29 13 28 37 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+             Huddersfield Jn
+     LN862
+         PEH Site of Former Huddersfield Jn – Lockwood
+                                      13 42  1 18 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN862
+         PEH Lockwood – Springwood Jn 1  18  0 40 8  Y Y  N  Y Y  Y  Y Y  Y  Y
+     LN862
+         MVL3Springwood Jn – Huddersfield
+                                      0  40  0 00 8  Y Y  N  Y Y  Y  Y Y  Y  Y
+     LN864
+         DRS1Dewsbury Railway Street – Change of Mileage
+                                      0  10  0 00 6  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN864
+         DRS1Change of Mileage – Dewsbury East Jn
+                                      0  27  0 00 6  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN868
+         SHB Wincobank Jn – Site of former Quarry Jn
+                                     161 52 17348 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+     LN868
+         PED2Site of Former Quarry Jn – Barnsley Station Jn
+                                      7  50  6 43 8  Y Y  Y  Y Y  Y  Y Y  Y  Y
+
+
+
+
+     October 2009                                   61H

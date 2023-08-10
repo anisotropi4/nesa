@@ -5,64 +5,61 @@
 
 
 
-     LN736NUJ1Site of former Nunnery Jn –
-                                 15933 158 77 Y  Y  Y   N  N  N  N  N   Y
-              Nunnery Main Line Jn
-     LN738MWN Great Coates No. 1 – Network Rail
-                                 10834 108 44 Y  Y  Y   N  N  N  N  N   N
-              Boundary (ABP)
-     LN740MWN Marsh West Jn – Network Rail
-                                 10769 108 44 Y  Y  Y   N  N  N  N  N   N
-              Boundary (ABP)
-     LN740PYE2Network Rail Boundary (ABP) –
-                                  4 33  0  00 Y  Y  Y   N  N  N  N  N   N
-              Site of former Queens Road Jn
-     LN740PYE1Site of former Queens Road Jn –
-                                 10650 106 31 Y  Y  Y   N  N  N  N  N   N
-              Immingham East Jn
-     LN740BRI2Immingham East Jn – Humber
-                                 10631 104 05 Y  Y  Y   N  N  N  N  N   N
-              Road Jn
-     LN741HAU Habrough – Ulceby South Jn
-                                  0 32  1  45 Y  Y  Y   N  N  N  N  N   N
-     LN742KIL2Killingholme – Immingham West
-                                  2 70  0  00 Y  Y  Y   N  N  N  N  N   N
-              Change of Mileage
-     LN742KIL1Immingham West Change of
-                                 10510 104 05 Y  Y  Y   N  N  N  N  N   N
-              Mileage – Humber Rd Jn
-     LN742BRI2Humber Rd Jn – Ulceby North Jn
-                                 10405 100 44 Y  Y  Y   N  N  N  N  N   N
-     LN742BRI1Ulceby North Jn – Brocklesby
-                                 10044  99 20 Y  Y  Y   N  N  N  N  N   N
-              West Jn
-     LN744BAR Ulceby North Jn – Barton on
-                                 10044 110 18 Y  Y  N   N  N  N  N  N   N
-              Humber
-     LN746TYB1Cottam Power Station –
-                                 71 79  68 32 N  N  N   N  N  N  N  N   N
-              Clarborough Jn
-     LN748WHR Retford Western Jn – Thrumpton
-                                 64 29  63 28 Y  Y  Y   N  N  N  N  N   N
-              West Jn
-     LN750MAC3Woodburn Jn – Deepcar
-                                 42 29  33 35 Y  Y  Y   N  N  N  N  N   N
-     LN752DOW Wrawby Jn – Marshgate Jn
-                                 33 34  0  03 Y  Y  Y   N  N  N  N  N   N
-     LN754SAN Scunthorpe Foreign Ore Branch
-                                  0 00  1  16 N  N  N   N  N  N  N  N   N
-     LN756NOP1Scunthorpe Trent Jn – Site of
-                                  0 00  0  28 N  N  N   N  N  N  N  N   N
-              former Dawes Lane Jn
-     LN756NOP2Site of former Dawes Lane Jn –
-                                  0 25  3  60 N  N  N   N  N  N  N  N   N
-              NR Boundary (Roxby)
-     LN758BKS Brancliffe East Jn – St Catherines
-                                  0 00  15 17 Y  Y  Y   N  N  N  N  N   N
-              Jn
-     LN758BKS St Catherines Jn –Low Ellers
-                                 15 17  15 55 N  N  N   N  N  N  N  N   N
-              Curve Jn
+     LN101PMJ Peterborough – Helpston Jn via
+                                 22 19  16 71 Y  Y  Y   N  N  Y  Y  N   N
+              Stamford lines
+     LN101ECM1Newark North Gate – Retford
+                                 12008 138 49 Y  Y  Y  EH  N  Y  Y  Y   N R1Prohibited with footsteps fitted
+                                                       R1
+     LN101ECM1Retford – Loversall Carr Jn
+                                 13849 150 00 Y  Y  Y  EH  N  Y  Y  Y   N R1Prohibited with footsteps fitted
+                                                       R1
+     LN101ECM1Loversall Carr Jn – Marshgate Jn
+                                 15200 156 26 Y  Y  Y  EH  N  R1 Y  Y  R3 R1Prohibited between Doncaster and
+                                                       R1              R4   Marshgate Jn
+                                                       R2                R2 Prohibited with footsteps fitted
+                                                                         R3 Prohibited between Loversall Carr Jn
+                                                                            to Black Carr Jn
+                                                                          R4Prohibited Doncaster platform 2
+     LN101ECM1Marshgate Jn – Shaftholme Jn
+                                 15626 160 16 Y  Y  Y   N  N  N  Y  Y   Y
+     LN105MEB1Moorgate – Drayton Park
+                                  0 00  2  56 N  N  N   N  N  N  N  N   N
+     LN105MEB1Drayton Park – Finsbury Park Jn
+                                  2 56  3  37 N  N  N   N  N  N  N  N   N
+     LN110CFP Route Boundary (EA1320)
+                                  3 20  4  33 Y  Y  Y   N  N  Y  Y  Y   N
+              (Canonbury West Jn) - Finsbury
+              Park Jn
+     LN115CRF1Copenhagen Jn – Route Boundary
+                                  0 00  0  20 Y  Y  Y  EH  N  Y  EH Y   N R1Prohibited with footsteps fitted
+              (EA1320) (North London Incline)          R1
+     LN120HDB Wood Green Jn – Langley Jn via
+                                  5 07  28 15 Y  Y  Y   N  N  Y  Y  Y   N
+              Hertford
+     LN120HDB Langley Jn via Hertford –
+                                 28 15  29 00 N  N  N   N  N  N  N  N   N
+              Stevenage platform 5 (End of line)
+     LN125SBR Cambridge Jn – Route Boundary
+                                 32 11  45 60 Y  Y  Y   N  N  Y  Y  Y   N
+              (EA1230)
+     LN126DCF Hitchin North Jn – Hitchin East Jn
+                                 32 53  34 05 Y  Y  Y   N  N  Y  Y  Y   N
+     LN135EMP Route Boundary (EA1560) (Ely
+                                 98 40 100 66 Y  Y  Y   N  N  Y  Y  Y   N
+              West Jn) – Crescent Jn
+     LN145WDU Marholm Jn – Glinton Jn
+                                  0 00  1  64 Y  Y  Y   N  N  N  Y  N   N
+     LN147PMJ Helpston Jn – Route Boundary
+                                 16 71  13 60 Y  Y  Y   N  N  N  Y  N   N
+              (LN3615)
+     LN150SPD5Flyover East – Decoy North Jn
+                                 11620 117 46 Y  Y  Y   N  N  N  Y  Y   N
+     LN155LCJ Flyover East Jn – Loversall Jn (Up
+                                 15279 152 36 Y  Y  Y   N  N  N  Y  Y   N
+              Loversall Curve)
+     LN160LCR Loversall Carr Jn – Rossington
+                                 15200 152 12 Y  Y  Y   N  N  N  Y  Y   N
+              Colliery Jn
 
-
-     October 2009                                   48A
+     October 2009                                    43

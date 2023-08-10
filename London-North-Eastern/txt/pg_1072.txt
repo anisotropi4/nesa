@@ -6,67 +6,86 @@
 
 
 
-     Line of
-          ELR Line of Route / Sector Description
-                                      oooo oooo oooo oooo 170
-                                                        172 180 185 195 220
-                                                                     221222 Notes
-     route                             M  Ch  M  Ch  ooo ooo ooo ooo ooo ooo ooo
-                                                                        ooo ooooooooooooooooooooooooooo
-     LN806CHR Route Boundary (LN3201) (Tapton Jn) –
-                                      146 64 162  24 Y  E  N N  R1 Y  Y  Y R1 Prohibited between Beighton Jn and
-              Masborough Jn                                                   Masborough Jn
-     LN807MAS Dore South Jn – Dore West Jn
-                                      153 73 154  16 Y  N  N Y  Y  Y  Y  Y
-     LN808DWS Dore Station Jn – Dore West Jn
-                                        0 60   0  00 Y  N  N Y  Y  Y  Y  Y
-     LN808MAS Dore West Jn – Route Boundary (NW9001)
-                                      154 16 154  20 Y  N  N Y  Y  Y  Y  Y
-              (Chinley North Jn)
-     LN809BTJ Shepcote Lane West Jn – Tinsley Yard East
-                                      161 24 160  52 N  N  N N  N  N  N  N
-              End
-     LN810SEL Shepcote Lane West Jn – Tinsley South Jn
-                                      161 24 161  63 N  N  N N  N  N  N  N
-     LN812BLJ Shepcote Lane East Jn – Broughton Lane Jn
-                                      161 20 161  67 N  N  N N  N  N  N  N
-     LN816BEW Beighton Jn – Woodhouse Jn
-                                       48 06  46  56 Y  N  N N  Y  Y  Y  Y
-     LN818HCD Holmes Jn – Rotherham Central Jn
-                                        0 00   0  62 Y  N  N Y  Y  Y  Y  N
-     LN824SKM Moorthorpe Jn – South Kirkby Jn
-                                        0 57   0  05 Y  N  N Y  Y  Y  Y  Y
-     LN826PED5South Yorkshire Jn – Mexborough Jn
-                                       22 57  15  64 Y  E  E Y  Y  Y  Y  Y
-     LN826SJM2Mexborough Jn – Site of former Mexborough
-                                       15 64  14  78 Y  E  E Y  Y  Y  Y  Y
-              North Jn
-     LN826SJM1Site of former Mexborough North Jn – Swinton
-                                      167 15 166  56 Y  E  E Y  Y  Y  Y  Y
-              Jn South
-     LN828WME Mexborough Jn – Aldwarke Jn
-                                       10 17   7  26 Y  E  N Y  Y  Y  Y  Y
-     LN830WME Aldwarke Jn – Woodburn Jn 7 25   0  00 Y  N  N Y  Y  Y  Y  Y
-     LN832SJB Doncaster, Bridge Jn – St. James Jn
-                                       22 54  22  38 N  E  N N  N  N  N  N
-     LN836DOL1Doncaster Marshgate Jn – Hare Park Jn
-                                      156 28 171  70 Y  N  Y Y  Y  Y  Y  Y
-     LN836DOL1Hare Park Jn – Site of former West Riding Jn
-                                      171 70 175  32 Y  N  Y Y  Y  Y  Y  Y
-     LN836DOL2Site of former West Riding Jn – Copley Hill
-                                      175 32 184  65 Y  N R1 Y  Y  Y  Y  Y R1 5mph Wakefield Westgate Down platform loop
-              West Jn                                                         with deflated suspension
-     LN836DOL2Copley Hill West Jn – Whitehall West Jn
-                                      184 65 185  25 Y  N  Y Y  Y  Y  Y  Y
-     LN836DOL2Whitehall West Jn – Whitehall East Jn
-                                      185 25 185  28 Y  N  Y Y  Y  Y  Y  Y
-     LN836DOL2Whitehall East Jn – Leeds
-                                      185 28 185  70 Y  N R1 Y  Y  Y  Y  Y R1 Prohibited Leeds platform 2 with deflated
-                                                                              suspension
-     LN836HUL4Leeds – Neville Hill East Jn
-                                       20 50  18  25 Y  N  Y Y  Y  Y  Y  Y
+    Line of ELR
+            Line of Route / Sector Description
+                                   M  Ch M  Ch 170 172
+                                                     180185195220221 222 Notes
+    route
+    LN627
+        LEN3Boldon East Jn – Boldon West Jn
+                                   94 63 95 16 N   N  Y  Y  Y  Y  Y  N
+    LN627
+        LEN3Boldon West Jn – Pelaw Metro Jn
+                                   95 16 97 64 N   N  Y  Y  Y  Y  Y  N
+    LN627
+        LEN3Pelaw Metro Jn – Park Lane Jn
+                                   97 64 10065 N   N  Y R1  Y  Y  Y  N R1 30mph Heworth Up platform
+    LN627
+        LEN3Park Lane Jn – High Level Bridge Jn
+                                  100 65 10133 N   N  Y  Y  N  Y  Y  N
+    LN627
+        LEN3High Level Bridge Jn – Newcastle East Jn 101
+                                      33 10159 N   N  Y  Y  N  Y  Y  N
+    LN628
+        NEK South Hylton – Sunderland South Jn
+                                   3  20  0 00 N   N  N  N  N  N  N  N
+    LN629
+        PDL Pelaw Metro Jn – Network Rail Boundary
+                                   97 64 98 01 N   N  N  N  N  N  N  N
+            (Metro Operating)
+    LN630
+        PUL Pelaw Metro Jn – Network Rail Boundary
+                                   97 64 97 77 N   N  N  N  N  N  N  N
+            (Metro Operating)
+    LN631
+        DSN1Darlington South Jn – Eaglescliffe South
+                                   0  29  8 58 N   N R1  Y  Y  Y  Y  N R1 15mph Dinsdale Up platform
+            Jn
+    LN632
+        DSN2Stockton Cut Jn – Redcar Change of
+                                   10 13 21 72 N   N R1  Y R2  N  N  N R1 Prohibited between Thornaby and Redcar Change of
+            Mileage                                                       Mileage
+                                                                       R2 Prohibited British Steel Redcar Up platform with deflated
+                                                                          secondary suspension
+    LN632
+        DSN3Redcar Change of Mileage – Saltburn
+                                   22 16 27 57 N   N  N  Y  Y  N  N  N
+    LN634
+        MBW1 Guisborough Jn – Battersby Jn
+                                   0  00 10 54 N   N  N R1  N  N  N  N R1 Prohibited between Nunthorpe and Battersby Jn
+    LN634
+        MBW2 Battersby Jn (End of Line) – Grosmont Jn
+                                   11 61 29 66 N   N  N  N  N  N  N  N
+    LN634
+        MBW3 Grosmont Jn – Whitby  24 44 30 61 N   N  N  N  N  N  N  N
+        No ELR Beam Mill Jn – Network Rail Boundary
+    LN636                          18 03 18 67 N   N  N  N  N  N  N  N
+    LN638
+        WCI Shell Jn – Network Rail Boundary
+                                   0  00  1 03 N   N  N  N  N  N  N  N
+    LN642
+        SSK1Saltburn West Jn – Network Rail
+                                   27 05 34 29 N   N  N  N  N  N  N  N
+            Boundary (Cleveland Potash)
+    LN644
+        BOH Hartburn Jn – Bowesfield SB (Hartburn
+                                   0  00  0 44 N   N  Y  Y  Y  N  N  N
+            Curve)
+    LN646
+        STF Norton-on-Tees South – Ferryhill South
+                                   0  00 10 72 N   N  Y  Y  Y  Y  Y  N
+            Jn
+    LN648
+        NWE Norton-on-Tees West – Norton-on-Tees
+                                   0  29  0 00 N   N  Y  N  N  Y  Y  N
+            East
+    LN652
+        POC1Billingham Jn – Phillips Siding Jn
+                                   0  00  3 25 N   N  N  N  N  N  N  N
+    LN652
+        POC2Phillips Siding Jn – Seal Sands Branch Jn
+                                   3  25  5 01 N   N  N  N  N  N  N  N
 
 
 
-
-     October 2009                                   25G
+     October 2009                                   25B

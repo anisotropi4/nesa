@@ -4,73 +4,67 @@
                                           LNE Route Sectional Appendix Module LNRC
 
 
-     Line of ELR
-             Line of Route / Sector Description
-                                   M  Ch  M  Ch  325333 345357 357365 377378 387Notes
-     route                                                     MOD              ooooooooooooooooooooooooooo
-         KWS Shaftholme Jn – Haywood Jn
-     LN889                         68  75 67  66 H   N  N   N  N   N   N  N N
-     LN892
-         PEFPontefract East Jn – Ferrybridge South Jn
-                                    3  06  2  38 H   N  N   N  N   N   N  N N
-     LN894
-         KESKnottingley South Jn – Knottingley East Jn
-                                    0  00  0  20 H   N  N   N  N   N   N  N N
-         DRA1 Drax Branch Jn – Drax Power Station (NR
-     LN896                          0  00  4  16 N   N  N   N  N   N   N  N N
-             Boundary)
-         HUL4 Neville Hill East Jn – Micklefield Jn
-     LN898                         18  25 10  63 H   N  N   N  N   N   N  N N
-         HUL4 Micklefield Jn – Micklefield Change of
-     LN898                         10  63 10  60 H   N  N   N  N   N   N  N N
-             ELR
-         HUL3 Micklefield Change of ELR – Gascoigne
-     LN898                         10  60  6  27 H   N  N   N  N   N   N  N N
-             Wood Jn
-         HUL3 Gascoigne Wood Jn – Selby West Jn
-     LN898                          6  27  0  36 H   N  N   N  N   N   N  N N
-         HUL3 Selby West Jn – Selby South Jn
-     LN898                          0  36  0  00 H   N  N   N  N   N   N  N N
-         HUL2 Selby South Jn – Site of former Barlby Jn
-     LN898                         31  12 30  40 H   N  N   N  N   N   N  N N
-         HUL1 Site of former Barlby Jn – Anlaby Road Jn
-     LN898                         30  40  0  73 H   N  N   N  N   N   N  N N
-         HUL1 Anlaby Road Jn – Hull
-     LN898                          0  73  0  00 H   N  N   N  N   N   N  N N   R1Prohibited Hull platform 1
-                                                 R1
-     LN900
-         HUENeville Hill West Jn – Hunslet East
-                                    0  00  0  55 N   N  N   N  N   N   N  N N
-     LN902
-         CFM Micklefield Jn – Church Fenton North Jn
-                                   15  62 10  31 H   N  N   N  N   N   N  N N
-     LN904
-         HSCHambleton South Jn – Hambleton West
-                                   174 10 175 33 H   N  N   N  N   N   N  N N
-            Jn
-     LN906
-         HNC Hambleton East Jn – Hambleton North
-                                    3  34  4  00 H   N  N   N  N   N   N  N N
-             Jn
-     LN908
-         SECSelby West Jn – Canal Jn0  00  0  32 H   N  N   N  N   N   N  N N
-         TCW1 Temple Hirst Jn – Selby Canal Jn
-     LN910                         169 16 173 59 H   N  N   N  N   N   N  N N
-         TCW1 Selby Canal Jn – Selby South Jn
-     LN910                         173 59 174 11 H   N  N   N  N   N   N  N N
-         TJG1 Thorne Jn – Thorne North Change of ELR
-     LN912                          7  69  9  09 H   N  N   N  N   N   N  N N
-         TJG2 Thorne North Change of ELR –
-     LN912                         14  06  0  00 H   N  N   N  N   N   N  N N
-             Gilberdyke Jn
-     LN914
-         HBSWest Parade Jn – West Parade North Jn
-                                    0  25  0  72 H   N  N   N  N   N   N  N N
-     LN914
-         HBSWest Parade North Jn – Walton Street Jn
-                                    0  72  1  29 H   N  N   N  N   N   N  N N
 
 
-
-
-     October 2009                                   37L
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 325
+                                                  333345357357 360365377378387 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo MOD ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+     LN740BRI2Immingham East Jn – Humber Road
+                                  106 31 10405 N   N  N  N  N  N  N  N  N  N
+              Jn
+     LN741HAU Habrough – Ulceby South Jn
+                                   0  32  1 45 H   N  N  N  N  N  N  N  N  N
+     LN742KIL2Killingholme – Immingham West
+                                   2  70  0 00 N   N  N  N  N  N  N  N  N  N
+              Change of Mileage
+     LN742KIL1Immingham West Change of Mileage – 105
+                                      10 10405 N   N  N  N  N  N  N  N  N  N
+              Humber Rd Jn
+     LN742BRI2Humber Rd Jn – Ulceby North Jn
+                                  104 05 10044 N   N  N  N  N  N  N  N  N  N
+     LN742BRI1Ulceby North Jn – Brocklesby West Jn
+                                  100 44 99 20 H   N  N  N  N  N  N  N  N  N R1 Prohibited between Ulceby South Jn
+                                               R1                               and Brocklesby West Jn
+     LN744BAR Ulceby North Jn – Barton on Humber
+                                  100 44 11018 H   N  N  N  N  N  N  N  N  N
+     LN746TYB1Cottam Power Station – Clarborough
+                                   71 79 68 32 N   N  N  N  N  N  N  N  N  N
+              Jn
+     LN748WHR Retford Western Jn – Thrumpton West
+                                   64 29 63 28 N   N  N  N  N  N  N  N  N  N
+              Jn
+     LN750MAC3Woodburn Jn – Deepcar42 29 33 35 N   N  N  N  N  N  N  N  N  N
+     LN752DOW Wrawby Jn – Marshgate Jn
+                                   33 34  0 03 H   N  N  N  N  N  N  N  N  N
+     LN754SAN Scunthorpe Foreign Ore Branch
+                                   0  00  1 16 N   N  N  N  N  N  N  N  N  N
+     LN756NOP1Scunthorpe Trent Jn – Site of former
+                                   0  00  0 28 N   N  N  N  N  N  N  N  N  N
+              Dawes Lane Jn
+     LN756NOP2Site of former Dawes Lane Jn – NR
+                                   0  25  3 60 N   N  N  N  N  N  N  N  N  N
+              Boundary (Roxby)
+     LN758BKS Brancliffe East Jn – St Catherines Jn
+                                   0  00 15 17 N   N  N  N  N  N  N  N  N  N
+     LN758BKS St Catherines Jn – Low Ellers Curve Jn
+                                   15 17 15 55 N   N  N  N  N  N  N  N  N  N
+     LN758BKS Low Ellers Curve Jn – Kirk Sandall Jn
+                                   15 55 20 49 N   N  N  N  N  N  N  N  N  N
+     LN760HAC Firbeck Jn – Harworth Colliery
+                                   11 20 14 21 N   N  N  N  N  N  N  N  N  N
+     LN762YDS St Catherines Jn – Decoy South Jn (St
+                                   15 17 15 71 N   N  N  N  N  N  N  N  N  N
+              Catherines Curve)
+     LN764UDS Low Ellers Curve Jn – Potteric Carr Jn
+                                   15 55 16 56 N   N  N  N  N  N  N  N  N  N
+     LN766HJB Bentley Jn – Hexthorpe Jn (Doncaster
+                                   3  24  0 00 H   N  N  N  N  N  N  N  N  N
+              Avoiding Line)
+     LN768PSE Route Boundary (LN3273) (Mansfield)
+                                  143 00 15430 H   N  N  N  N  N  N  N  N  N
+              – Shireoaks East Jn
+     LN772SWP Warsop Jn – Shirebrook Jn
+                                   0  00  0 45 N   N  N  N  N  N  N  N  N  N
+     October 2009                                   37G

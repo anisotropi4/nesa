@@ -3,70 +3,67 @@
 
                                           LNE Route Sectional Appendix Module LNRC
 
-     LN600ECM2Shaftholme Jn – Temple Hirst Jn
-                                  160 16 16916 Y  Y  Y Y  Y  N Y  Y
-     LN600ECM3Temple Hirst Jn – Colton Jn
-                                  169 16 18279 Y  Y  Y Y  Y  N Y  Y
-     LN600ECM4Colton Jn – Colton North Jn
-                                  182 79 18365 Y  Y  Y Y  Y  N Y  Y
-     LN600ECM4Colton North Jn – York Station
-                                  183 65 18840 Y  Y  Y Y  Y  N Y  Y
-     Line of
-          ELR Line of Route / Sector
-                                  oooo oooo oooo oooo 313 314 315 317 318 319 321 322 325 333 345 Notes
-     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo
-                                                                            ooooooooooooooooooooooooo
-                                                                            oo
-     LN600ECM5York Station – Birtley Jn
-                                    0 00 75 26 Y  Y  Y Y  Y  N Y  Y
-     LN600ECM5Birtley Jn – Low Fell Jn (including via
-                                   75 26 77 37 Y  Y  Y Y  Y  N Y  Y
-              Tyne Yard)
-     LN600ECM5Low Fell Jn – King Edward Bridge
-                                   77 37 79 42 Y  Y  Y Y  Y  N Y  Y
-              South Jn
-     LN600ECM5King Edward Bridge South Jn –
-                                   79 42 80 05 Y  Y Y  Y  Y N  Y  Y
-              Newcastle West Jn
-     LN600ECM6Newcastle West Jn – Newcastle
-                                   80 05 80 16 Y  Y Y  Y  Y N  Y  Y
-     LN600ECM7Newcastle – Newcastle East Jn
-                                   0  00  0 14 R1 Y Y  R1 Y N  Y  Y R2P
-     LN600ECM7Newcastle East Jn – Heaton South Jn
-                                   0  14  1 65 N  Y Y  N  Y N  Y      r
 
-     LN618HOS Holgate Jn – Skelton Jn via York Yard
-                                   0  00  1 54 Y  Y Y  Y  Y N  Y  Y
-              South
-     LN620KEB King Edward Bridge East Jn – King
-                                   0  00  0 13 N  N N  N  N N  N  N
-              Edward Bridge North Jn (East Curve)
-     LN622NEN1Newcastle Forth Jn – Forth Banks
-                                   0  11  0 73 N  N N  N  N N  N  N
-     LN624REB4Northallerton Castle Hills Jn – Network
-                                   0  04  0 18 N  N N  N  N N  N  N
-              Rail Boundary (Wensleydale Railway)
-     LN626LEN2Northallerton High Jn – Northallerton
-                                   0  00  0 36 N  N N  N  N N  N  N
-              East Jn
-     LN627LLP1Longlands Jn (Down Line) –
-                                   28 58 29 72 EH EHEH EH EHN  EH EH
-              Boroughbridge Road LC
-     LN627LLP3Longlands Jn (Up Line) –
-                                   0  69  0 00 EH EHEH EH EHN  EH EH
-              Boroughbridge Road LC
-     LN627LLP2Boroughbridge Road LC –
-                                   42 21 42 79 EH EHEH EH EHN  EH EH
-              Northallerton East Jn
-     LN627LEN3Northallerton East Jn – Billingham Jn
-                                   42 79 63 69 EH EHEH EH EHN  EH EH
-     LN627LEN3Billingham Jn – Ryhope Grange Jn
-                                   63 69 87 63 EH EHEH EH EHN  EH EH
-     LN627LEN3Ryhope Grange Jn – Sunderland
-                                   87 63 89 56 EH EHEH EH EHN  EH EH
-              South Jn
-     LN627LEN3Sunderland South Jn – Boldon East Jn
-                                   89 56 94 63 EH EHEH EH EHN  EH EH
-     LN627LEN3Boldon East Jn – Boldon West Jn
-                                   94 63 95 16 EH EHEH EH EHN  EH EH
-     October 2009                                    34
+
+     LN3234SEN Syston East Jn – Syston North Jn
+                                    0 17  0  00 N  Y  N   N  N   N  Y   Y  Y
+     LN3237RUD Loughborough South Jn – Network
+                                   92 45  92 49 N  N  N   N  N   N  N   N  N
+              Rail/GCR (N) Boundary
+     LN3240LEDLittle Eaton Jn – Denby
+                                   13106 135 46 N  N  N   N  N   N  N   N  N Line out of use
+                                                                             NC/G1/2010/LNE/021
+          AJM1 Ambergate Jn – Matlock
+     LN3246                        13761 145 00 N  Y  N   N  N   N  N   N  Y
+     LN3249LSNLenton South Jn – Lenton North Jn
+                                    0 00  0  27 N  Y  N   N  N   N  N   N  Y
+          MJT1 Mansfield Jn – Radford Jn
+     LN3252                        12422 125 55 N  Y  N   N  Y   N  N   N  Y
+          MJT2 Radford Jn – Trowell South Jn
+     LN3252                        12555 130 51 N  Y  N   N  Y   N  N   N  Y
+     LN3255RAC Radford Jn – Newstead
+                                   12555 134 20 N  Y  N   N  N   N  N   N  Y
+     LN3255RAC Newstead – Kirkby Lane End Jn
+                                   13420 136 66 N  Y  N   N  N   N  N   N  Y
+     LN3261THLTrent South Jn – Toton South Jn (High
+                                   11917 121 36 N  Y  E   N  R1  N  N   N  Y R1 Prohibited between Trent South Jn and
+              Level Lines)                                                      Meadow Lane Jn
+     LN3264AML Attenborough Jn – Meadow Lane Jn
+                                    0 62  0  00 N  Y  N   N  Y   N  N   N  Y
+              (Attenborough Curve)
+     LN3273TCC Codnor Park Jn – Ironville Jn
+                                   13276 133 18 N  Y  E   N  N   N  N   N  Y
+          PBS1 Ironville Jn – Kirkby Summit Crossover
+     LN3273                        13318 138 79 N  Y  E   N  N   N  N   N  Y
+          PBS2 Kirkby Summit Crossover – Mansfield
+     LN3273                        13711 140 40 N  Y  E   N  N   N  N   N  Y
+              ELR Change
+          PBS3 Mansfield Change of ELR – Route
+     LN3273                        14040 143 00 N  Y  E   N  N   N  N   N  Y
+              Boundary (LN768) (Shireoaks East Jn)
+     LN3340
+          BJW3 Route Boundary (MD340) (Lichfield
+                                   19 00  23 33 N  Y  N   N  N   N  Y   Y  N
+              Trent Valley) – Wichnor Jn
+          DBP1 London Road Jn – Route Boundary
+     LN3501                         0 00  23 30 E  Y  E   E  N   N  Y   Y  R2R1 Prohibited between Barton South Jn and
+              (MD501) (Kingsbury Jn)                      R1                    Route Boundary (MD501) Kingsbury Jn
+                                                                             R2 Prohibited between Wichnor Jn and Route
+                                                                                Boundary (MD501) Kingsbury Jn
+     LN3505NSS North Stafford Jn – Route Boundary
+                                   30 10  1  40 N  Y  N   N  N   N  Y   Y  Y
+              (NW5012) (Stoke Jn)
+          MJS1 Melbourne Jn – Sinfin
+     LN3515                        13115 130 37 N  N  N   N  N   N  N   N  N
+     LN3520SSJ1 Sheet Stores Jn – Change of ELR
+                                   11962 127 20 E  Y  N   N  N   N  Y   Y  Y
+              (Site of Former Chellaston East Jn)
+     LN3520
+          MJS1 Change of ELR (Site of Former
+                                   12720 128 00 E  Y  N   N  N   N  Y   Y  Y
+              Chellaston East Jn) – Change of ELR
+              (Site of Former Chellaston West Jn)
+
+
+
+     October 2009                                    31

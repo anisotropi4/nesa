@@ -5,81 +5,62 @@
 
 
 
-
-     Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo MK1
-                                                    MK2 MK3MK3 MK3 MK3 MK4 Notes
-     route                          M  Ch M  Ch 0000               DVT
-                                                       0000 (MOD) DVT
-                                                    0000               0000
-                                                                  (MOD)
-     LN3201
-          SPC6Change of ELR (Ratcliffe) – Change of
-                                    11860 126 27 Y   Y  Y   EH  N   Y   N R1 Prohibited between Trent South Jn
-              ELR (Spondon)                                 R1               and Change of ELR (Spondon)
-                                                            R2            R2 Prohibited with footsteps fitted
-     LN3201
-          SPC7Change of ELR (Spondon) – London
-                                    12627 128 23 Y   Y  Y   N   N   Y   N
-              Road Jn
-     LN3201
-          SPC8London Road Jn – Derby Jn
-                                    12754 128 08 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-                                                            R1
-     LN3201
-          SPC8Derby Jn – Former Clay Cross South Jn
-                                    12808 147 69 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-                                                            R1
-     LN3201
-          SPC9Former Clay Cross South Jn – Route
-                                    14210 146 64 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-              Boundary (LN804 / LN806) (Tapton Jn)          R1
-     LN3204
-          TSN1Trent South Jn – Mansfield Jn
-                                    11917 125 64 Y   Y  Y   N   N   N   N
-     LN3204
-          TSN2Mansfield Jn – Nottingham East Jn
-                                    12422 123 27 Y   Y  Y   N   N   N   N
-     LN3207TCC Trent East Jn – Change of ELR (between
-                                    11970 142 10 Y   Y  Y   EH  N   R1  N R1 Prohibited between Toton North Jn
-              Morton Jn and Clay Cross North Jn)            R1               and Change of ELR
-                                                            R2            R2 Prohibited with footsteps fitted
-     LN3207
-          SPC9Change of ELR (between Morton Jn and
-                                    14210 143 12 Y   Y  Y   N   N   N   N
-              Clay Cross North Jn) – Clay Cross North
+     LN818HCD Holmes Jn – Rotherham Central
+                                  0 00  0  62 Y  Y  Y   N  N  N  N  N   Y
               Jn
-     LN3210
-          JRT2Route Boundary (EA1370) (Junction
-                                     2 38  2  00 Y   Y  Y   N   N   N   N
-              Road Jn) – Change of ELR (Between
-              Tottenham North Curve No 2 and No 1
-              Tunnels)
-     LN3210
-          JRT1Change of ELR (Between Tottenham
-                                     0 18  0  03 Y   Y  Y   N   N   N   N
-              North Curve No 2 and No 1 Tunnels) –
-              Carlton Road Jn (Tottenham Lines)
-     LN3213
-          MCL Route Boundary (SO280) (former
-                                     0 66  3  58 N   N  N   N   N   N   N
-              Farringdon Jn) – Kentish Town Jn
-     LN3214
-          CBI Canal Tunnel Jn – Belle Isle Jn
-                                    0  00  0 53  N   N  N   N   N   N   N
-     LN3219
-          CAW Cricklewood Curve Jn – Route Boundary
-                                     5 19  5  72 Y   Y  Y   N   N   N   N
-              (LOR EA1360) (Dudding Hill)
-     LN3222
-          BDH Brent Curve Jn – Route Boundary
-                                     0 00  0  54 Y   Y  Y   N   N   N   N
-              (EA1360) (Dudding Hill)
-     LN3228
-          TCC Trent East Jn – Trent East ELR Change
-                                    11970 119 56 Y   Y  Y   EH  N   Y   N R1 Prohibited with footsteps fitted
-                                                            R1
+     LN824SKM Moorthorpe Jn – South Kirkby Jn
+                                  0 57  0  05 Y  Y  Y   N  N  N  N  N   Y
+     LN826PED5South Yorkshire Jn – Mexborough
+                                 22 57  15 64 Y  Y  Y  EH  N  Y  N  N   Y R1Prohibited with footsteps fitted
+              Jn                                       R1
+     LN826SJM2Mexborough Jn – Site of former
+                                 15 64  14 78 Y  Y  Y  EH  N  Y  N  N   N R1Prohibited with footsteps fitted
+              Mexborough North Jn                      R1
+     LN826SJM1Site of former Mexborough North
+                                 16715 166 56 Y  Y  Y  EH  N  Y  N  N   N R1Prohibited with footsteps fitted
+              Jn – Swinton Jn South                    R1
+     LN828WME Mexborough Jn – Aldwarke Jn
+                                 10 17  7  26 Y  Y  Y   N  N  N  N  N   Y
+     LN830WME Aldwarke Jn – Woodburn Jn
+                                  7 25  0  00 Y  Y  Y   N  N  N  N  N   Y
+     LN832SJB Doncaster, Bridge Jn – St. James
+                                 22 54  22 38 Y  Y  Y   N  N  N  N  N   Y
+              Jn
+     LN836DOL1Doncaster Marshgate Jn – Hare
+                                 15628 171 70 Y  Y  Y   N  N  N  Y  Y   Y
+              Park Jn
+     LN836DOL1Hare Park Jn – Site of former
+                                 17170 175 32 Y  Y  Y   N  N  N  Y  Y   Y
+              West Riding Jn
+     LN836DOL2Site of former West Riding Jn –
+                                 17532 184 65 Y  Y  Y   N  N  N  Y  Y   Y
+              Copley Hill West Jn
+     LN836DOL2Copley Hill West Jn – Whitehall
+                                 18465 185 25 Y  Y  Y   N  N  N  Y  Y   Y
+              West Jn
+     LN836DOL2Whitehall West Jn – Whitehall
+                                 18525 185 28 Y  Y  Y   N  N  N  Y  Y   Y
+              East Jn
+     LN836DOL2Whitehall East Jn – Leeds
+                                 18528 185 70 Y  Y  Y   N  N  N  Y  Y  R1 R1Prohibited Leeds platform 2 with
+                                                                       R2   deflated suspension
+                                                                         R2 Prohibited Leeds platform 6
+     LN836HUL4Leeds – Neville Hill East Jn
+                                 20 50  18 25 Y  Y  Y   N  N  N  Y  Y   Y
+     LN838LEH1Armley Jn – Site of former Pannal
+                                  0 12  14 60 Y  Y  Y   N  N  N  Y  N   N
+              Jn
+     LN838LEH2Site of former Pannal Jn – Site of
+                                 14 60  15 20 Y  Y  Y   N  N  N  Y  N   N
+              former Crimple Jn
+     LN838LEH3Site of former Crimple Jn –
+                                 15 20  17 24 Y  Y  Y   N  N  N  Y  N   N
+              Harrogate
+     LN838HAY2Harrogate – Site of former
+                                 20 38  18 60 Y  Y  Y   N  N  N  N  N   N
+              Starbeck North Jn
+     LN838HAY1Site of former Starbeck North Jn –
+                                 18 60  1  50 Y  Y  Y   N  N  N  N  N   N
+              Skelton Jn
 
-
-
-     October 2009                                    50
+     October 2009                                   48D

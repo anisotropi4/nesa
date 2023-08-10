@@ -5,62 +5,63 @@
 
 
 
-     LN860MVL3Route Boundary (NW7021)
-                                 15 11  25 20 Y  Y  Y   N  N  N  N  N   Y
-              (Stalybridge Tunnel Jn) –
-              Springwood Jn
-     LN860MVL3Springwood Jn – Change of ELR
-                                 25 20  29 00 Y  Y  Y   N  N  N  N  N   Y
-              (Heaton Lodge Jn)
-     LN860MVL4Change of ELR (Heaton Lodge Jn)
-                                 29 00  29 45 Y  Y  Y   N  N  N  N  N   N
-              – Heaton Lodge Jn (Up line)
-     LN860MVL4Change of ELR (Heaton Lodge Jn)
-                                 29 00  29 74 Y  Y  Y   N  N  N  N  N   Y
-              – Heaton Lodge East Jn (Down
-              line)
-     LN860MVN2Heaton Lodge Jn – Heaton Lodge
-                                 37 18  37 47 Y  Y  Y   N  N  N  N  N   Y
-              East Jn
-     LN860MVN2Heaton Lodge East Jn – Thornhill
-                                 37 47  39 72 Y  Y  Y   N  N  N  N  N   Y
-              LNW Jn
-     LN860MDL1Thornhill LNW Jn – Copley Hill
-                                 32 16  42 03 Y  Y  Y   N  N  N  N  N   Y
-              East Jn
-     LN861BBW Bradley Jn – Bradley Wood Jn
-                                  0 00  1  17 Y  Y  Y   N  N  N  N  N   Y
-     LN862PED2Barnsley Station Jn – Site of
-                                  6 43  0  00 Y  Y  Y   N  N  N  N  N   N
-              former Barnsley Jn
-     LN862PED1Site of former Barnsley Jn – Site of
-                                 29 13  28 37 Y  Y  Y   N  N  N  N  N   N
-              former Huddersfield Jn
-     LN862PEH Site of former Huddersfield Jn –
-                                 13 42  1  18 Y  Y  Y   N  N  N  N  N   N
-              Lockwood
-     LN862PEH Lockwood – Springwood Jn
-                                  1 18  0  40 Y  Y  N   N  N  N  N  N   N
-     LN862MVL3Springwood Jn – Huddersfield
-                                  0 40  0  00 Y  Y  N   N  N  N  N  N   N
-     LN864DRS1Dewsbury Railway Street –
-                                  0 10  0  00 N  N  N   N  N  N  N  N   N
-              Change of Mileage
-     LN864DRS1Change of Mileage – Dewsbury
-                                  0 27  0  00 N  N  N   N  N  N  N  N   N
-              East Jn
-     LN868SHB Wincobank Jn – Site of former
-                                 16152 173 48 Y  Y  Y   N  N  N  N  N   N
-              Quarry Jn
-     LN868PED2Site of former Quarry Jn –
-                                  7 50  6  43 Y  Y  Y   N  N  N  N  N   N
-              Barnsley Station Jn
-     LN868BAH2Barnsley Station Jn – Site of
-                                 52 58  45 56 Y  Y  Y   N  N  N  N  N   N
-              former Crigglestone Jn
-     LN868CHS Site of former Crigglestone Jn –
-                                  1 53  0  00 Y  Y  Y   N  N  N  N  N   N
-              Horbury Jn
+     LN634MBW3 Grosmont Jn – Whitby
+                                 24 44  30 61 Y  Y  Y   N  N  N  N  N   N
+     LN636No ELR Beam Mill Jn – Network Rail
+                                 18 03  18 67 Y  Y  Y   N  N  N  N  N   N
+              Boundary
+     LN638WCI Shell Jn – Network Rail Boundary
+                                  0 00  1  03 Y  Y  Y   N  N  N  N  N   N
+     LN642SSK1Saltburn West Jn – Network Rail
+                                 27 05  34 29 Y  Y  Y   N  N  N  N  N   N
+              Boundary (Cleveland Potash)
+     LN644BOH Hartburn Jn – Bowesfield SB
+                                  0 00  0  44 Y  Y  Y   N  N  N  N  N   Y
+              (Hartburn Curve)
+     LN646STF Norton-on-Tees South – Ferryhill
+                                  0 00  10 72 Y  Y  Y   N  N  N  Y  Y   Y
+              South Jn
+     LN648NWE Norton-on-Tees West – Norton-on-
+                                  0 29  0  00 Y  Y  Y   N  N  N  N  N   N
+              Tees East
+     LN652POC1Billingham Jn – Phillips Siding Jn
+                                  0 00  3  25 N  N  N   N  N  N  N  N   N
+     LN652POC2Phillips Siding Jn – Seal Sands
+                                  3 25  5  01 N  N  N   N  N  N  N  N   N
+              Branch Jn
+     LN652SES Seal Sands Branch Jn – End of
+                                  0 00  2  44 N  N  N   N  N  N  N  N   N
+              NR maintenance
+     LN656SOT Seaton Snook Jn – Seaton-on-
+                                  0 00  1  51 Y  Y  N   N  N  N  N  N   N
+              Tees
+     LN662HNB Ryhope Grange – Hendon
+                                  0 00  1  53 N  N  N   N  N  N  N  N   N
+     LN664BNW Boldon East Jn – Boldon North Jn
+                                  0 00  0  20 N  N  N   N  N  N  N  N   N
+     LN666BGE Boldon West Jn – Boldon North Jn
+                                  0 00  0  32 Y  Y  N   N  N  N  N  N   N
+     LN666GLT Boldon North Jn – Tyne Dock
+                                  0 32  1  26 Y  Y  N   N  N  N  N  N   N
+     LN670JAW1Pelaw Jn – Network Rail Boundary
+                                  0 09  3  36 Y  Y  N   N  N  N  N  N   N
+              (Shell Mex Depot Jarrow)
+     LN672FEP Wardley – Pelaw Jn 19 70  20 75 N  N  N   N  N  N  N  N   N
+     LN674HLK High Level Bridge Jn – Greensfield
+                                  0 00  0  21 Y  Y  Y   N  N  N  Y  Y   Y
+              Jn (West Curve)
+     LN676PLG1Park Lane Jn – Site of former High
+                                 10065 101 15 Y  Y  Y   N  N  N  Y  Y   N
+              Street Jn
+     LN676PLG2Site of former High Street Jn –
+                                  0 00  0  21 Y  Y  Y   N  N  N  Y  Y   N
+              Greensfield Jn
+     LN676HLK Greensfield Jn – King Edward
+                                  0 16  0  48 Y  Y  Y   N  N  N  Y  Y   Y
+              Bridge South Jn
+     LN678DAE1Darlington North Jn – Site of
+                                 44 36  44 64 Y  Y  Y   N  N  N  N  N   N
+              former Parkgate Jn
 
 
-     October 2009                                   48F
+     October 2009                                    47

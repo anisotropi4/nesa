@@ -5,71 +5,61 @@
 
 
 
+
      Line of
           ELR Line of Route / Sector Description
-                                   oooo oooo oooo oooo
-                                                 RA  86  87   88  90  91  92  Notes
-     route                          M  Ch M  Ch     0000 0000    0000 00000000
-
-     LN135EMP Route Boundary (EA1560) (Ely West Jn) –
-                                    98 40 10066  9   N   N    Y   H   H    N
-              Crescent Jn
-     LN145WDU Marholm Jn – Glinton Jn
-                                    0  00  1 64  10  Y    Y   N   Y   Y    Y
-     LN147PMJ Helpston Jn – Route Boundary (LN3615)
-                                    16 71 13 60  9   N   N    Y   N   N    N
-     LN150SPD5Flyover East – Decoy North Jn
-                                   116 20 11746  8   Y    Y   Y   Y   Y    N
-     LN155LCJ Flyover East Jn – Loversall Jn (Up Loversall
-                                   152 79 15236  8   Y    Y   Y   Y   Y    Y
-              Curve)
-     LN160LCR Loversall Carr Jn – Rossington Colliery Jn
-                                   152 00 15212  8   Y    Y   Y   Y   Y    Y
-     LN160FWR1Rossington Colliery Jn – Flyover West Jn
-                                   152 12 15319  8   Y    Y   Y   Y   Y    Y
-     LN165HPW Route Boundary (EA1370) (Harringay Park
-                                    0  14  0 03  9   H   H    Y   H   H    N
-              Jn) – Harringay Jn
-     LN170WEB Werrington Jn – Site of Former Spalding
-                                    79 34 92 58  8   H   H    Y   H   H    N
-              South Jn
-     LN170SPD1Site of Former Spalding South Jn – Sleaford
-                                    44 07 62 14  8   H   H    Y   H   H    N
-              South Jn
-     LN170SPD2Sleaford South Jn – Sleaford North Jn
-                                    62 14 63 48  8   H   H    Y   H   H    N
-     LN170SPD2Sleaford North Jn – Site of Former Greetwell
-                                    63 48 81 25  8   H   H    Y   H   H    N
+                                      oooo oooo oooo oooo
+                                                    RA  60 66  67  68  70 73  97/3Notes
+     route                             M  Ch M  Ch     000000000000   000000000000
+     LN826PED5South Yorkshire Jn – Mexborough Jn
+                                       22 57 15 64  8   Y  Y   Y   Y   Y  Y   Y
+     LN826SJM2Mexborough Jn – Site of Former Mexborough
+                                       15 64 14 78  8   Y  Y   Y   Y   Y  Y   Y
+              North Jn
+     LN826SJM1Site of Former Mexborough North Jn – Swinton 167
+                                          15 16656  8   Y  Y   Y   Y   Y  Y   Y
+              Jn South
+     LN828WME Mexborough Jn – Aldwarke Jn
+                                       10 17  7 26  8   Y  Y   Y   Y   Y  Y   Y
+     LN830WME Aldwarke Jn – Woodburn Jn7  25  0 00  8   Y  Y   Y   Y   Y  Y   Y
+     LN832SJB Doncaster, Bridge Jn – St. James Jn
+                                       22 54 22 38  8   Y  Y   Y   Y   Y  Y   Y
+     LN836DOL1Doncaster Marshgate Jn – Hare Park Jn
+                                      156 28 17170  9   Y  Y   Y   Y   Y  Y   Y
+     LN836DOL1Hare Park Jn – Site of Former West Riding Jn
+                                      171 70 17532  9   Y  Y   Y   Y   Y  Y   Y
+     LN836DOL2Site of Former West Riding Jn – Copley Hill
+                                      175 32 18465  9   Y  Y   Y   Y   Y  Y   Y
               West Jn
-     LN170SPD3Site of Former Greetwell West Jn – Trent East
-                                    81 25 98 56  8   H   H    Y   H   H    N
-              Jn
-     LN170MAC3Trent East Jn – Trent West Jn
-                                    73 25 73 11  8   H   H    Y   H   H    N
-     LN170SPD4Trent West Jn – Bessacarr Jn
-                                    98 68 11572  8   H   H    Y   H   H    N
-     LN170SPD5Bessacarr Jn – Doncaster, Flyover East Jn
-                                   115 72 11620  8   H   H    Y   H   H    N
-     LN175SSE Sleaford South Jn – Sleaford East Jn
-                                    0  00  0 43  8   H   H    Y   H   H    N
-     LN180SNW Sleaford West Jn – Sleaford North Jn
-                                    1  34  3 42  8   H   H    Y   H   H    N
-     LN185ABE1Allington West Jn – Site of Former Barkston
-                                    0  00  4 08  8   N   N    Y   N   N    N
-              East Jn
-     LN185GRS1Barkston East Jn – Site of Former Honington
-                                   110 12 11200  8   N   N    Y   N   N    N
-              Jn
-     LN185GRS2Site of Former Honington Jn – Sleaford West
-                                   112 00 12029  8   N   N    Y   N   N    N
-              Jn
-     LN185GRS2Sleaford West Jn – Sleaford East Jn
-                                   120 29 12121  8   H   H    Y   H   H    N
-     LN185GRS2Sleaford East Jn – Site of Former Boston 121
-                                       21137 06  8   N   N    Y   N   N    N
-              Sleaford Line Jn
+     LN836DOL2Copley Hill West Jn – Whitehall West Jn
+                                      184 65 18525  9   Y  Y   Y   Y   Y  Y   Y
+     LN836DOL2Whitehall West Jn – Whitehall East Jn
+                                      185 25 18528  9   Y  Y   Y   Y   Y  Y   Y
+     LN836DOL2Whitehall East Jn – Leeds
+                                      185 28 18570  8   Y  Y   Y   Y   Y  Y   Y
+     LN836HUL4Leeds – Neville Hill East Jn
+                                       20 50 18 25  8   Y  Y   Y   Y   Y  Y   Y
+     LN838LEH1Armley Jn – Site of Former Pannal Jn
+                                       0  12 14 60  8  R1  R1  Y   R1  Y  Y   R1R1 10mph speed restriction through
+                                                                                   Wescoe Hill Tunnel on the Down
+     LN838LEH2Site of Former Pannal Jn – Site of Former
+                                       14 60 15 20  8   Y  Y   Y   Y   Y  Y   Y
+              Crimple Jn
+     LN838LEH3Site of Former Crimple Jn – Harrogate
+                                       15 20 17 24  8  R1  R1  Y   Y   Y  Y   R1R1 10mph through Bridge 39 on the
+                                                                                   Down
+     LN838HAY2Harrogate – Site of Former Starbeck North Jn
+                                       20 38 18 60  8  R1  R1  R1  R1  Y  R1  R1R1 Prohibited Harrogate Bay platform 2
+     LN838HAY1Site of Former Starbeck North Jn – Skelton Jn
+                                       18 60  1 50  8   Y  Y   Y   Y   Y  Y   Y
+     LN840TJC3Leeds Engine Shed Jn – Whitehall East Jn
+                                      195 20 19552  8   Y  Y   Y   Y   Y  Y   Y
+     LN842CJS Thorpe Marsh Jn – Applehurst Jn
+                                      163 76 16327  8   Y  Y   Y   Y   Y  Y   Y
+     LN842CJS Applehurst Jn – Skellow Jn
+                                      163 27 16059  8   Y  Y   Y   Y   Y  Y   Y
 
 
 
 
-     October 2009                                    69
+     October 2009                                   67E

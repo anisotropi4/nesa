@@ -5,72 +5,56 @@
 
 
 
+
      Line of
-          ELR Line of Route / Sector
-                                  oooo oooo oooo oooo
-                                                RA  86   87  88  90  91   92 Notes
-     route    Description          M  Ch M  Ch     0000 0000    00000000 0000
-     LN185GRS3Site of Former Boston Sleaford Line Jn 106
-                                      70 10724  8   N    N   Y   N   N    N
-              – Boston
-     LN185GRS3Boston – Site of Former Firsby East Jn 107
-                                      24 12222  7   N    N   Y   N   N    N
-     LN185GRS4Site of Former Firsby East Jn -
-                                    0 28  9 17  7   N    N   Y   N   N    N
-              Skegness
-     LN190ACD Allington East Jn – Allington North Jn
-                                    0 00  0 25  8   N    N   Y   N   N    N
-              (Allington Chord)
-     LN195NOG1Nottingham Branch Jn – Route
-                                  106 08 11160  8   N    N   Y   N   H    N R1 75mph maximum speed
-              Boundary (LN3635) (Rectory Jn SB)                      R1
-     LN200NOB3Wrawby Jn – Pelham Street Jn
-                                   12 55 41 26  8   N    N   Y   N   N    N
-     LN206NOB1Route Boundary (LN3625) (Nottingham
-                                   16 02 32 00  8   H    H   Y   H   H    N
-              East Jn) – Coulson Change of ELR
-     LN206NOB2Coulson Change of ELR – Boultham
-                                   32 00 32 40  8   H    H   Y   H   H    N
+          ELR Line of Route / Sector Description
+                                      oooo oooo oooo oooo
+                                                    RA  60 66  67  68  70 73  97/3Notes
+     route                             M  Ch M  Ch     000000000000   000000000000
+     LN842SKA Skellow Jn – Adwick Jn   0  61  0 00  8   Y  Y   Y   Y   Y  Y   Y
+     LN844JCA Applehurst Jn – Joan Croft Jn
+                                       0  49  0 00  9   Y  Y   Y   Y   Y  Y   Y
+     LN846CJS Carcroft Jn – Skellow Jn160 08 16059  9   Y  Y   Y   Y   Y  Y   Y
+     LN848HPC Hare Park Jn – Crofton West Jn
+                                      171 70 17322  8   Y  Y   Y   Y   Y  Y   Y
+     LN850WWK Wakefield Westgate South Jn – Wakefield
+                                       0  00  0 26  9   Y  Y   Y   Y   Y  Y   Y
+              Kirkgate West Jn
+     LN852LBE1Holbeck Jn – Site of Former Laisterdyke East
+                                       0  02  6 49  8   Y  Y   Y   Y   Y  Y   Y
               Jn
-     LN206NOB2Boultham Jn – West Holmes Jn
-                                   32 40 32 70  8   H    H   Y   H   H    N
-     LN210NSE Newark Crossing South Jn – Newark
-                                   0  00  0 21  8   H    H   Y   H   H    N
-              Crossing East Jn
-     LN215BHP Boultham Jn – Pyewipe Jn
-                                   0  00  0 65  8   H    H   Y   H   H    N
-     LN220BCB Bessacarr Jn – Black Carr Jn
-                                  115 72 11644  8   H    H   Y   H   H    N
-     LN235FWR1Rossington Colliery Jn – End of Line
-                                  152 12 15169  9   N    N   Y   N   N    N
-     LN235FWR2Rossington Colliery – End of Line
-                                  153 31 15169  9   N    N   Y   N   N    N
-     LN600ECM2Shaftholme Jn – Temple Hirst Jn
-                                  160 16 16916  9   Y    Y   Y   Y   Y    Y
-     LN600ECM3Temple Hirst Jn – Colton Jn
-                                  169 16 18279  10  Y    Y   Y   Y   Y    Y
-     LN600ECM4Colton Jn – Colton North Jn
-                                  182 79 18365  9   Y    Y   Y   Y   Y    Y
-     LN600ECM4Colton North Jn – York Station
-                                  183 65 18840  9   Y    Y   Y   Y   Y    Y
-     LN600ECM5York Station – Birtley Jn
-                                   0  00  7526  9*  Y    Y   Y   Y   Y    Y
-              *    York platform 2 RA3, platform
-              4 RA8 and platform 5 RA8
-     LN600ECM5Birtley Jn – Low Fell Jn (including via
-                                   75 26 77 37  9   Y    Y   Y   Y   Y    Y
-              Tyne Yard)
-     LN600ECM5Low Fell Jn – King Edward Bridge
-                                   77 37 79 42  9   Y    Y   Y   Y   Y    Y
-              South Jn
-     LN600ECM5King Edward Bridge South Jn –
-                                   79 42 80 05  9   Y    Y   Y   Y   Y    Y
-              Newcastle West Jn
-     LN600ECM6Newcastle West Jn – Newcastle
-                                   80 05 80 16  9   R1  R1  R2   R1  R1  R1 R1 Prohibited Newcastle platforms 9, 10 11 and
-                                                                               12
-                                                                            R2 Prohibited Newcastle platforms 9, 10 and 12
+     LN852LBE2Site of Former Laisterdyke East Jn – Site of
+                                      190 24 19060  8   Y  Y   Y   Y   Y  Y   Y
+              Former Laisterdyke West Jn
+     LN852LBE3Site of Former Laisterdyke West Jn – Site of
+                                      190 60 19130  8   Y  Y   Y   Y   Y  Y   Y
+              Former Hammerton Street Jn
+     LN852LBE4Site of Former Hammerton Street Jn – Mill
+                                      191 30 19175  8   Y  Y   Y   Y   Y  Y   Y
+              Lane Jn
+     LN852MRB Mill Lane Jn – Bradford Interchange
+                                       40 01 40 27  8   Y  Y   Y   Y   Y  Y   Y
+     LN854MVN2Route Boundary (NW7001) (Hall Royd Jn) –
+                                       22 62 48 33  9   Y  Y   Y   Y   Y  Y   Y
+              Turners Lane Jn
+     LN854MVN2Turners Lane Jn – Site of Former Goose Hill Jn
+                                       48 33 50 31  9   Y  Y   Y   Y   Y  Y   Y
+     LN854TJC3Site of Former Goose Hill Jn – Altofts Jn
+                                      184 56 18600  8   Y  Y   Y   Y   Y  Y   Y
+     LN854NOC Altofts Jn – Sherburn Jn 23 57 13 20  9   Y  Y   Y   Y   Y  Y   Y
+     LN854NOC Sherburn Jn – Colton Jn  13 20  5 41  9   Y  Y   Y   Y   Y  Y   Y
+     LN854ECM4Colton Jn – Holgate Jn  182 79 18807  9   Y  Y   Y   Y   Y  Y   Y
+     LN854ECM4Holgate Jn – York       188 07 18840  9   Y  Y   Y   Y   Y  Y   Y
+     LN854ECM5York – Skelton Jn        0  00  1 50  9*  Y  Y   Y   Y   Y  Y   Y
+              *    York platform 2 RA3, platform 4 RA8
+              and platform 5 RA8
+     LN858MRB Milner Royd Jn – Mill Lane Jn
+                                       29 20 40 01  8  R1  R1  R1  R1 R1  R1  R1R1 10mph over bridge MRB/58 between
+                                                                                   39m 50ch and 39m 56ch.
+     LN859GRD Greetland Jn – Dryclough Jn
+                                       1  11  0 00  8   Y  Y   Y   Y   Y  Y   Y
 
 
 
-     October 2009                                    70
+
+     October 2009                                   67F

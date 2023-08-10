@@ -5,84 +5,82 @@
 
 
 
-     Line of
-          ELR Line of Route / Sector Description
-                                    oo oo oo oo  RA   86   87  88   90  91   92  Notes
-     route                          oo oo oo oo  00000000 0000     00000000 0000ooooooooooooooooooooooooooo
-                                    M  Ch M  Ch
-     LN3252
-          MJT1Mansfield Jn – Radford Jn
-                                    124 22 12555  8   N    N   Y    N   N    N
-     LN3252
-          MJT2Radford Jn – Trowell South Jn
-                                    125 55 13051  8   N    N   Y    N   N    N
+     Line of ELR Line of Route / Sector Description
+                                      oo  oo ooo oo RA 37/7
+                                                          43 47/2 47/4 47/7
+                                                                      56 57  Notes
+     route                            oo  oo  o  oo 0000 37/9 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+                                      M   Ch  M  Ch    0000
+     LN3210
+          JRT1 Change of ELR (Between Tottenham North
+                                        0  18  0  038  Y  Y  Y  Y  Y  Y  Y
+             Curve No 2 and No 1 Tunnels) – Carlton Road Jn
+             (Tottenham Lines)
+     LN3213
+          MCLRoute Boundary (SO280) (former Farringdon Jn)
+                                        0  66  3  585  N  N  N  N  N  N  N
+             – Kentish Town Jn
+     LN3214
+          CBICanal Tunnel Jn – Belle Isle Jn
+                                        0 00   0 53 3  N  N  N  N  N  N  N
+          CAW Cricklewood Curve Jn – Route Boundary (LOR
+     LN3219                             5 19   5 72 8  Y  Y  Y  Y  Y  Y  Y
+             EA1360) (Dudding Hill)
+     LN3222
+          BDHBrent Curve Jn – Route Boundary (EA1360)
+                                        0  00  0  548  Y  Y  Y  Y  Y  Y  Y
+             (Dudding Hill)
+     LN3228
+          TCCTrent East Jn – Trent East ELR Change
+                                       119 70 119 568  Y  Y  Y  Y  Y  Y  Y
+     LN3228
+          TESTrent East ELR Change – Sheet Stores Jn.
+                                        0  00  0  308  Y  Y  Y  Y  Y  Y  Y
+          WGP Wigston South Jn – Glen Parva Jn
+     LN3231                             95 37  96 078  Y  Y  Y  Y  Y  Y  Y
+          WNS Wigston North Jn – Route Boundary (MD232)
+     LN3232                             15 31  2  628  Y  Y  Y  Y  Y  Y  Y
+             (Nuneaton South Jn)
+     LN3234
+          SENSyston East Jn – Syston North Jn
+                                        0  17  0  008  Y  Y  Y  Y  Y  Y  Y
+          RUD Loughborough South Jn – Network Rail/GCR (N)
+     LN3237                             92 45 92  498  Y  Y  Y  Y  Y  Y  Y
+             Boundary
+     LN3240LED Little Eaton Jn – Denby 131 06 135 468  N  N  N  N  N  N  N Line out of use
+                                                                           NC/G1/2010/LNE/021
+         AJM1 Ambergate Jn – Matlock
+     LN3246                           137  61 145 008  Y  Y  Y  Y  Y  Y  Y
+     LN3249
+         LSNLenton South Jn – Lenton North Jn
+                                       0   00  0  278  Y  Y  Y  Y  Y  Y  Y
+         MJT1 Mansfield Jn – Radford Jn
+     LN3252                           124  22 125 558  Y  Y  Y  Y  Y  Y  Y
+         MJT2 Radford Jn – Trowell South Jn
+     LN3252                           125  55 130 518  Y  Y  Y  Y  Y  Y  Y
      LN3255
-          RAC Radford Jn – Newstead 125 55 13420  8   N    N   Y    N   N   EH
+         RACRadford Jn – Newstead     125  55 134 208  Y  Y  Y  Y  Y  Y  Y
      LN3255
-          RAC Newstead – Kirkby Lane End Jn
-                                    134 20 13666  7   N    N   Y    N   N   EH
+         RACNewstead – Kirkby Lane End Jn
+                                      134  20 136 667  Y  Y  Y  Y  Y  Y  Y
      LN3261
-          THL Trent South Jn – Toton South Jn (High
-                                    119 17121 36  8   N    N   Y    N   H    N R1 Prohibited between Trent South Jn to
-              Level Lines)                                              R1        Meadow Lane Jn
-                                                                        R2     R2 75mph maximum speed
+         THLTrent South Jn – Toton South Jn (High Level
+                                      119  17 121 368  Y  Y  Y  Y  Y  Y  Y
+            Lines)
      LN3264
-          AML Attenborough Jn – Meadow Lane Jn
-                                     0  62 0  00  8   N    N   Y    N   H    N R1 75mph maximum speed
-              (Attenborough Curve)                                      R1
+         AMLAttenborough Jn – Meadow Lane Jn
+                                        0  62  0  008  Y  Y  Y  Y  Y  Y  Y
+            (Attenborough Curve)
      LN3273
-          TCC Codnor Park Jn – Ironville Jn
-                                    132 76 13318  8   N    N   Y    N   N   EH
-     LN3273
-          PBS1Ironville Jn – Kirkby Summit Crossover
-                                    133 18 13879  8   N    N   Y    N   N   EH
-     LN3273
-          PBS2Kirkby Summit Crossover – Mansfield
-                                    137 11 14040  8   N    N   Y    N   N   EH
-              ELR Change
-     LN3273
-          PBS3Mansfield Change of ELR – Route
-                                    140 40 14300  8   N    N   Y    N   N    N
-              Boundary (LN768) (Shireoaks East Jn)
-     LN3340
-          BJW3Route Boundary (MD340) (Lichfield
-                                    19  00 23 33  8   H    H   Y    H   N    N
-              Trent Valley) – Wichnor Jn
-     LN3501
-          DBP1London Road Jn – Route Boundary
-                                     0  00 23 30  8   H    H   Y    H   N    N
-              (MD501) (Kingsbury Jn)
-     LN3505
-          NSS North Stafford Jn – Route Boundary
-                                    30  10 1  40  8   H    H   Y    H   N    N
-              (NW5012) (Stoke Jn)
-     LN3515
-          MJS1Melbourne Jn – Sinfin 131 15130 37  8   N    N   Y    N   N    N
-     LN3520
-          SSJ1Sheet Stores Jn – Change of ELR (Site
-                                    119 62127 20  8   H    H   Y    H   N    N
-              of Former Chellaston East Jn)
-     LN3520
-          MJS1Change of ELR (Site of Former
-                                    127 20128 00  8   H    H   Y    H   N    N
-              Chellaston East Jn) – Change of ELR
-              (Site of Former Chellaston West Jn)
-     LN3520
-          SSJ2Change of ELR (Site of Former
-                                    128 00132 12  8   H    H   Y    H   N    N
-              Chellaston West Jn) – Stenson Jn
-     LN3525
-          KSL Knighton Jn – Leicester Jn
-                                     97 45127 00  8   N    N   Y    N   N   EH
-     LN3535
-          BCJ Birmingham Curve Jn – Branson Jn
-                                    126 40127 19  8   N    N   Y    N   N   EH
-          GSM1 Kettering North Jn – Manton Jn
-     LN3601                          74 00 90 25  8   N    N   Y    N   N    N
-     LN3605
-          BSC Corby BSC Works – Corby North
-                                     2  05  0 00  8   N    N   Y    N   N    N
-     LN3610
-          BSC Corby Automotive Terminal – Corby North
-                                     1  10  0 00  8   N    N   Y    N   N    N
-     October 2009                                    86
+         TCCCodnor Park Jn – Ironville Jn
+                                      132  76 133 188  Y  Y  Y  Y  Y  Y  Y
+         PBS1 Ironville Jn – Kirkby Summit Crossover
+     LN3273                           133  18 138 798  Y  Y  Y  Y  Y  Y  Y
+         PBS2 Kirkby Summit Crossover – Mansfield ELR
+     LN3273                           137  11 140 408  Y  Y  Y  Y  Y  Y  Y
+            Change
+
+
+
+
+     October 2009                                    79
