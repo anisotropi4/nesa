@@ -7,54 +7,58 @@
           ELR Line of Route / Sector Description
                                     M  Ch  M Ch  334  350 380  385  390  397Notes
     route
-    SC059 LYE Cook St – High St Line (Smithy Lye
-                                    0  00  0  44 N    E    Y   R1    E   N  R1 Up to 12 cars
-              through line)
-    SC059 AYR1Cook St – Shields Jn  0  19  1  00 Y    E    Y   R1    Y   E  R1 Up to 12 cars
-    SC059 AYR1Shields Jn – Change of ELR (Paisley
-                                    1  00  6  53 Y    N    Y   R2    N   E  R1 Prohibited between Helen
-              Gilmour Street)                                            R1 Street Jn and Change of ELR
-                                                                            (Paisley Gilmour Street)
-                                                                            R2 Up to 12 cars
-    SC059 AYR2Change of ELR (Paisley Gilmour
-                                    6  73  7  00 Y    N    Y   R1    N   N  R1 Up to 12 cars
-              Street) – Change of ELR (Brown Street
-              crossover)
-    SC059 AYR3Change of ELR (Brown Street
-                                    7  00 23  00 Y    N    Y   R1    N   N  R1 Up to 8 cars
-              crossover) – Change of ELR (Dalry)
-    SC059 AYR4Change of ELR (Dalry) – Change of
-                                    23 00 33  08 Y    N    Y   R1    N   N  R1 Up to 12 cars
-              ELR (Barassie Jn)
-    SC059 AYR5Change of ELR (Barassie Jn) –
-                                    0  00  2  15 Y    N    Y   R1    N   N  R1 Up to 8 cars
-              Change of ELR (Between Troon and
-              Prestwick International Airport)
-    SC059 AYR6Change of ELR (Between Troon and
-                                    35 05 38  73 Y    N    Y   R1    N   N  R1 Up to 12 cars
-              Prestwick International Airport) –
-              Falkland Jn
-    SC059 AYR6Falkland Jn – Ayr     38 73 40  49 Y    N    Y   R1    N   N  R1 Up to 12 cars
-    SC059 STR1Ayr – Dalrymple Jn    40 49 43  53 N    N    E   E     N   N  R1 Prohibited between
-                                                           R1  R1           Townhead Depot and Dalrymple Jn
-    SC059 STR1Dalrymple Jn – Change of ELR
-                                    43 53 61  60 N    N    N    N    N   N
-              (Girvan)
-    SC059 STR2Change of ELR (Girvan) – Change of
-                                    0  00 30  67 N    N    N    N    N   N
-              ELR (Betweeen Challoch LC and
-              Dunragit SB & LC)
-    SC059 STR3Change of ELR (Betweeen Challoch
-                                    46 54 53  05 N    N    N    N    N   N
-              LC and Dunragit SB & LC) – Change of
-              ELR (Stranraer Yard GF)
-    SC059 STR4Change of ELR (Stranraer Yard GF) –
-                                    53 05 54  05 N    N    N    N    N   N
-              End of Line
-    SC061 CNL Shields Jn – Corkerhill
-                                    1  05  3  11 Y    E    Y    N   R2   E  R2 Only for access to / from
-                                                      R1                    Corkerhill Depot
-                                                                            R3 Prohibited between
-                                                                            Dumbreck and Corkerhill
+    SC023 HMN2Change of ELR – Newton, Hamilton Jn
+                                    6  61  0  00 Y    N    Y   R1    Y   Y  R1 Up to 8 cars
+    SC024 LRK Larkhall – Haughhead Jn
+                                    3  00  0  00 Y    N    N   R1    N   N  R1 Up to 12 cars
+    SC025 ARG1Rutherglen Central Jn – Bridgeton Yard
+                                    0  00  0  43 Y    N    N    N    N   N
+              North End
+    SC025 ARG2Bridgeton Yard North End – Exhibition
+                                    0  86  4  03 Y    N    N    N    N   N
+              Centre
+    SC025 ARG2Exhibition Centre – Finnieston East Jn
+                                    4  03  4  41 Y    N    N    N    N   N
+              (Down line)
+    SC025 ARG2Exhibition Centre – Finnieston West Jn
+                                    4  03  4  74 Y    N    N    N    N   N
+              (Up line)
+    SC027 RNC Rutherglen West Jn – Rutherglen North
+                                    0  00  0  29 Y    N    N    N    N   N
+              Jn (West Curve)
+    SC029 CLY Larkfield Jn – Terminus Jn
+                                   101 01 101 62 Y    E    Y   R1    Y   E  R1 Up to 12 cars
+    SC029 BRD Terminus Jn – Shields Jn via Through
+                                   101 62 102 16 Y    N    Y   EH    Y   E
+              Terminus lines
+    SC029 CLY Terminus Jn – Shields Jn
+                                   101 62 102 16 Y    E    Y   R1    Y   E  R1 Up to 12 cars
+    SC031 GSW Route Boundary (NW4031) (Gretna Jn)
+                                   115 40 109 00 N    N    N    N    H   N
+              – Old Route boundary (109m 00ch
+              between Eastriggs and Annan)
+    SC031 GSW Old Route boundary (109m 00ch
+                                   109  0 33  44 N    N    EH   N    H   E  R2 Prohibited between Old Route
+              between Eastriggs and Annan) –               R1            R1 Boundary (109m 00ch between
+              Change of ELR                                                 Eastriggs and Annan) and
+                                                                            Klmarnock
+    SC031 GBK Change of ELR – Muirhouse South Jn
+                                    23 44  1  18 N    N    N    N    H   E  R1 Prohibited Barrhead platform
+                                                                         R1 3
 
-    October 2009                                48D
+    SC031 MEN2Muirhouse South Jn – Muirhouse
+                                    0  00  0  15 N    Y    Y    N    H   Y
+              Central Jn
+    SC031 MEN1Muirhouse Central Jn – Eglinton St Jn
+                                    0  19  0  70 Y    Y    Y   R3   R1   Y  R1 Prohibited between
+                                                                    R2      Muirhouse Central Jn and
+                                                                            Muirhouse North Jn unless loco
+                                                                            hauled
+                                                                            R2 Permitted between Muirhouse
+                                                                            North Jn and Eglinton St Jn under
+                                                                            own power
+                                                                            R3 Up to 12 cars
+
+
+
+    October 2009                                48B

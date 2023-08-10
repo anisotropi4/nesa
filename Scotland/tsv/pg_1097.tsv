@@ -1,20 +1,12 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1097	SC003	ECA3	Slateford Jn – Haymarket East Jn	99	01	100	41	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC005	CSP	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
-Scotland	1097	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	5	N	R1 R2	N	N	N	N	Y	R1 Infrastructure maintenanance purposes only R2 Prohibited from hauling haul vehicles that exceed RA5
-Scotland	1097	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC021	COS2	Coltness – Change of ELR	0	09	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	7	N	Y	R1 R2	Y	Y	Y	Y	R1 20mph over bridge 045/046 (1m 42ch) R2 20mph over bridge 045/047 (1m 12ch)
-Scotland	1097	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	N	Y	R1 R2 R3 R4	Y	Y	Y	Y	R1 20mph over bridge 045/045B (6m 37ch) R2 40mph over bridge 045/060 (3m 73ch) R3 40mph over bridge 045/062 (3m 31ch) R4 40mph over bridge 045/065 (2m 45ch)
-Scotland	1097	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC025	ARG1	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC025	ARG2	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1097	SC025	ARG2	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1097	SC195	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1097	SC195	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1097	SC197	WRO	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	8	N	Y	Y	Y	Y	Y	Y	
+Scotland	1097	SC199	DFN	Keith Jn – End of Line	53	06	53	36	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1097	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1097	SC203	WCK	Inverness platforms 5–7 – Rose Street Jn	0	02	0	18	5 R1	Y	Y	Y	Y	N	Y	N	R1 RA Change STNC NC/G1/2010/ICP-RA/SC011 applies until 30/09/2014
+Scotland	1097	SC203	WCK	Rose Street Jn – Invergordon	0	18	31	37	5 R1	Y	Y	Y	Y	N	Y	N	
+Scotland	1097	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	5	R1 R2 R3	R1 R2 R3	R4 R5	R1 R2 R3	N	R1 R2 R3	N	R1 20mph over bridge 292 (115m 09ch) R2 20mph over bridge 296 (116m 18ch) R3 Double Heading prohibited. If a locomotive fails north of Invergordon, the authority of the Infrastructure Manager's Structures Engineer must be obtained before an assisting locomotive is permitted to proceed towards the failed train R4 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R5 Route prohibited to Class 47/4 locomotives that conform to RA7
+Scotland	1097	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	3	R1	N	N	N	N	N	N	R1 10mph over bridge 302/364 (159m 12ch)
+Scotland	1097	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	5	Y	N	N	N	N	N	N	
+Scotland	1097	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	5	Y	R1 R2	R3 R4	R1 R2	N	R1 R2	N	R1 20mph over bridge 4 (Thurso Viaduct) (03m 56ch) R2 Double Heading is prohibited If a locomotive fails, the authority of the Infrastructure Manager's Structures Engineer must be obtained before an assisting locomotive is permitted to proceed towards the failed train R3 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R4 Route prohibited to Class 47/4 locomotives that conform to RA7

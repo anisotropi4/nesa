@@ -1,26 +1,17 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1057	SC173	TNW	Thornton West Jn – Thornton North Jn	0	70	0	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC175	RHD2	Rosyth Dockyard – Change of ELR	1	21	1	00	N	N	N	N	N	N	N	N	N	
-Scotland	1057	SC175	RHD1	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N	N	N	N	N	
-Scotland	1057	SC176	IGE	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1057	SC177	MTL1	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	N	N	N	N	
-Scotland	1057	SC177	MTL2	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N	N	N	N	N	
-Scotland	1057	SC178	CWH3	Thornton South Jn – Thornton West Jn	35	38	34	62	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC181	CDC1	Ladybank Jn – Change of ELR	0	03	14	10	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC181	CDC2	Change of ELR – Hilton Jn	44	18	45	66	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC183	SAA	Stirling Middle Jn – Change of ELR	0	00	8	14	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1057	SC183	KNE1	Change of ELR – Longannet	0	00	5	62	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1057	SC183	KNE1	Longannet – Change of ELR	5	62	14	14	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1057	SC183	KNE2	Change of ELR – Charlestown Jn	14	14	15	39	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1057	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	N	N	N	
-Scotland	1057	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	N	N	N	
-Scotland	1057	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC191	ECN3	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC191	ECN4	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1057	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1057	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1057	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	N	N	N	N	N	N	N	N	N	
+Scotland	1057	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N	N	N	N	N	
+Scotland	1057	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1057	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1057	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1057	SC157	MLE	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	Y	Y	Y	N	N	N	Y	N	N	
+Scotland	1057	SC159	NDE2	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	N	N	N	N	N	N	N	N	N	
+Scotland	1057	SC161	NDE1	Millerhill Yard – Junction with Niddrie West Line	5	52	3	36	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1057	SC161	SUB1	Junction with Niddrie West Line – Portobello	3	36	3	30	Y	Y	Y	N	N	N	Y	N	N	
+Scotland	1057	SC161	MHL4	Newcraighall East Jn – Network Rail / Abellio Scotrail Boundary	00	00	00	08	N	N	N	N	N	N	N	N	N	
+Scotland	1057	SC163	SUB1	Portobello – Change of ELR	3	30	4	00	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1057	SC163	SUB2	Change of ELR – Niddrie West	6	69	6	30	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1057	SC164	NNS	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	R1 R2	R1 R2	N	N	N	N	N	N	N	R1 55mph maximum speed R2 All passenger trains, except when operated by Class 158 or 170 DMUs, require a Special Operating Instruction
+Scotland	1057	SC164	SBO	Newcraighall South Jn – Tweedbank	5	02	35	34	R1 R2	R1 R2	N	N	N	N	N	N	N	R1 55mph maximum speed R2 All passenger trains, except when operated by Class 158 or 170 DMUs, require a Special Operating Instruction
+Scotland	1057	SC165	MHY	Niddrie South Jn – Niddrie West Jn	7	06	6	30	Y	Y	Y	N	N	N	Y	N	N	

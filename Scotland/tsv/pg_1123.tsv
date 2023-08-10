@@ -1,27 +1,23 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Scotland	1123	SC107	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	
-Scotland	1123	SC107	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	
-Scotland	1123	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	
-Scotland	1123	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	R1	Y	Y	Y	R1 Prohibited Haymarket East Jn - Haymarket Central Jn on the Up North
-Scotland	1123	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	
-Scotland	1123	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	N	N	Y	N	N	N	
-Scotland	1123	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	N	N	Y	N	N	N	
-Scotland	1123	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	N	N	Y	N	N	N	
-Scotland	1123	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	10	N	N	Y	N	N	Y	
-Scotland	1123	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1123	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	N	N	Y	N	N	N	
-Scotland	1123	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	N	N	Y	N	N	N	
-Scotland	1123	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	5	N	N	N	N	N	N	
-Scotland	1123	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	N	N	Y	N	N	N	
-Scotland	1123	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	10	N	N	Y	Y	N	N	
-Scotland	1123	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	N	N	Y	N	N	N	
-Scotland	1123	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	N	Y	
-Scotland	1123	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	10	N	N	Y	N	N	N	
-Scotland	1123	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	10	N	N	Y	N	N	N	
-Scotland	1123	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	10	N	N	Y	N	N	N	
+Scotland	1123	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	10	Y	Y	Y	Y	Y	Y	
+Scotland	1123	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	10	Y	Y	Y	Y	Y	Y	
+Scotland	1123	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	8	Y	Y	Y	R1	R1	R1	R1 Prohibited between Newton Jn and Ayr
+Scotland	1123	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	8	R1	R1	N	N	N	N	R1 Prohibited between between Townhead Sidings reversing points and Dalrymple Jn
+Scotland	1123	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	5	N	N	N	N	N	N	
+Scotland	1123	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	5	N	N	N	N	N	N	
+Scotland	1123	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	5	N	N	N	N	N	N	
+Scotland	1123	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	5	N	N	N	N	N	N	
+Scotland	1123	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	10	N	N	Y	N	N	N	
+Scotland	1123	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	10	N	N	Y	N	N	N	
+Scotland	1123	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	N	N	Y	N	N	N	
+Scotland	1123	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	N	N	Y	N	N	N	
+Scotland	1123	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	N	N	Y	N	N	N	
+Scotland	1123	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	7 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014
+Scotland	1123	SC065	GOU2	Bishopton – Gourock	112	60	126	58	5 R1	N	N	N	N	N	N	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014
+Scotland	1123	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	N	N	N	N	N	N	
+Scotland	1123	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	N	N	Y	N	N	N	
+Scotland	1123	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	N	N	Y	N	N	N	
+Scotland	1123	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	N	N	N	N	N	N	
+Scotland	1123	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	N	N	Y	N	N	N	
+Scotland	1123	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	N	N	Y	N	N	N	
+Scotland	1123	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	N	N	Y	N	N	N	

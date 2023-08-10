@@ -11,58 +11,55 @@
                                                 314   318 320/3320/4 322  325 Notes
      route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
                                                                               ooo
-     SC103CBD1Garnqueen North Jn – Gartcosh Jn
-                                    1  33  0  00  Y    Y    Y    Y    N    H
-     SC103CBD2Gartcosh Jn – Change of ELR
-                                    97 09 103 41  Y    Y    Y    Y    N    H
-     SC103SGN Change of ELR – Cowlairs West Jn
-                                    0  61  -0 20  Y    Y    Y    N    N    H
-     SC105GHE Gartsherrie South Jn – Gartcosh Jn
-                                    95 64 97  06  Y    Y    Y    Y    N    H
-     SC106PNS Sighthill West Jn – Cowlairs South Jn
-                                    0  30  0  00  Y    Y    Y    N    N    H
-              (Chord Line)
-     SC107ECM9Waverley East End – Edinburgh
-                                    0  21  0  00  Y    Y    Y    Y    Y    Y
-              Waverley
-     SC107EGM4Edinburgh Waverley – Waverley West
-                                    0  00  0  15  Y    Y    Y    Y    Y    Y
-              End (South Lines)
-     SC107ECN1Edinburgh Waverley – Waverley West
-                                    0  00  0  15  Y    Y    Y    Y    Y    Y
-              End (North Lines)
-     SC107EGM3Waverley West End – Haymarket
-                                    0  15  1  19  Y    Y    Y    Y    Y    Y
-              (South Lines)
-     SC107ECN2Waverley West End – Haymarket
-                                    0  15  1  19  Y    Y    Y    Y    Y    Y
-              (North Lines)
-     SC107EGM2Haymarket – Haymarket East Jn
-                                    46 02 45  72  Y    Y    Y    Y    Y    Y
-              (South Lines)
-     SC107ECN2Haymarket – Haymarket East Jn (North
-                                    1  19  1  29  Y    Y    Y    Y    Y    Y
-              Lines)
-     SC107EGM2Haymarket East Jn – Haymarket
-                                    45 72 45  35  Y    Y    Y    Y    Y    H
-              Central Jn (South Lines)
-     SC107ECN2Haymarket East Jn – Haymarket
-                                    1  29  1  66  Y    Y    Y    Y    Y    H
-              Central Jn (North Lines)
-     SC107EGM2Haymarket Central Jn – Haymarket
-                                    45 35 44  73  Y    Y    Y    Y    Y    H
-              West Jn (South Lines)
-     SC107ECN2Haymarket Central Jn – Haymarket
-                                    1  66  2  41  Y    Y    Y    N    Y    H
-              West Jn (North Lines)
-     SC107EGM1Haymarket West Jn – Cowlairs West
-                                    44 73  1  67 R1   R1   R1    R1   R1   H  R1 Prohibited between
-              Jn                                                                 Newbridge Jn and Cowlairs
-                                                                                 West Jn
-     SC107EGM1Cowlairs West Jn – Glasgow Queen
-                                    1  67  0  00 N     N    N    N    N    H
-              Street
-     SC109PMT Polmont Jn – Grangemouth Jn
-                                    21 20 23  75 N     N    N    N    N    H
+     SC059AYR1Shields Jn – Change of ELR (Paisley
+                                    1  00  6  53  Y    Y    Y    Y    Y    H
+              Gilmour Street)
+     SC059AYR2Change of ELR (Paisley Gilmour
+                                    6  73  7  00  Y    Y    Y    Y    Y    H
+              Street) – Change of ELR (Brown Street
+              crossover)
+     SC059AYR3Change of ELR (Brown Street
+                                    7  00 23  00  Y    Y    Y    Y    Y    H
+              crossover) – Change of ELR (Dalry)
+     SC059AYR4Change of ELR (Dalry) – Change of
+                                    23 00 33  08  Y    Y    Y    Y    Y    H
+              ELR (Barassie Jn)
+     SC059AYR5Change of ELR (Barassie Jn) –
+                                    0  00  2  15  Y    Y    Y    Y    Y    H
+              Change of ELR (Between Troon and
+              Prestwick International Airport)
+     SC059AYR6Change of ELR (Between Troon and
+                                    35 05 38  73  Y    Y    Y    Y    Y    H
+              Prestwick International Airport) –
+              Falkland Jn
+     SC059AYR6Falkland Jn – Ayr     38 73 40  49  Y    Y    Y    Y    Y    H
+     SC059STR1Ayr – Dalrymple Jn    40 49 43  53  N    N    N    N    N    H
+     SC059STR1Dalrymple Jn – Change of ELR
+                                    43 53 61  60  N    N    N    N    N    H
+              (Girvan)
+     SC059STR2Change of ELR (Girvan) – Change of
+                                    0  00 30  67  N    N    N    N    N    H
+              ELR (Betweeen Challoch LC and
+              Dunragit SB & LC)
+     SC059STR3Change of ELR (Betweeen Challoch
+                                    46 54 53  05  N    N    N    N    N    H
+              LC and Dunragit SB & LC) – Change of
+              ELR (Stranraer Yard GF)
+     SC059STR4Change of ELR (Stranraer Yard GF) –
+                                    53 05 54  05  N    N    N    N    N    H
+              End of Line
+     SC061CNL Shields Jn – Corkerhill
+                                    1  05  3  11  Y    Y    Y    Y    R1   H  R1 Only for access to / from
+                                                                                 Shields Depot
+     SC061CNL Corkerhill – Paisley Canal
+                                    3  11  7  00  Y    Y    Y    Y    N    N
+     SC063CND1Cardonald Jn – Cardonald North Jn
+                                    0  00  0  36  N    N    N    N    N    N
+     SC063CND2Cardonald North Jn – Deanside
+                                    0  36  1  54  N    N    N    N    N    N
+              (Goods Line)
+     SC065GOU1Paisley (Wallneuk Jn) – Change of
+                                    6  34  6  53  Y    Y    Y    Y    Y    H
+              ELR
 
-     October 2009                               40
+     October 2009                               38

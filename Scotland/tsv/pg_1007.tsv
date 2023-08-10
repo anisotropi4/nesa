@@ -1,21 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	1007	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	Y	Y	Y	Y	Y	
-Scotland	1007	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	Y	N	N	N	N	
-Scotland	1007	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	Y	N	N	Y	Y	
-Scotland	1007	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	Y	N	N	Y	Y	
-Scotland	1007	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	Y	N	N	Y	Y	
-Scotland	1007	SC106	PNS	Sighthill West Jn – Cowlairs South Jn (Chord Line)	0	30	0	00	Y	N	N	Y	Y	
-Scotland	1007	SC107	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	N	Y	Y	Y	
-Scotland	1007	SC107	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	N	Y	Y	Y	
-Scotland	1007	SC107	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	N	Y	Y	Y	
-Scotland	1007	SC107	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	N	Y	Y	Y	
-Scotland	1007	SC107	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	N	Y	Y	Y	
-Scotland	1007	SC107	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	N	Y	Y	Y	
-Scotland	1007	SC107	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	N	Y	Y	Y	
-Scotland	1007	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	N	Y	Y	Y	
-Scotland	1007	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	N	Y	Y	Y	
-Scotland	1007	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	N	Y	Y	Y	
-Scotland	1007	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	N	Y	Y	Y	
-Scotland	1007	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	Y	N	R1	Y	Y	R1 Prohibited between Polmont Jn and Cowlairs West Jn
-Scotland	1007	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	Y	N	N	Y	Y	
-Scotland	1007	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	Y	N	Y	Y	Y	
+Scotland	1007	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	E	N	E	Y	Y	
+Scotland	1007	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	N	N	N	Y	Y	
+Scotland	1007	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	N	N	N	Y	Y	
+Scotland	1007	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	N	N	N	Y	Y	
+Scotland	1007	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	N	N	N	Y	Y	
+Scotland	1007	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	N	N	N	Y	Y	
+Scotland	1007	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	N	N	N	Y	Y	
+Scotland	1007	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	N	N	N	R1	R1	R1 Prohibited between Newton Jn and Ayr
+Scotland	1007	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	N	N	
+Scotland	1007	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	N	N	
+Scotland	1007	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	N	N	
+Scotland	1007	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	N	N	
+Scotland	1007	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	N	N	
+Scotland	1007	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	N	N	E	R1	R1	R1 Only for access to / from Shields Depot
+Scotland	1007	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	N	N	N	N	N	
+Scotland	1007	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	
+Scotland	1007	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	
+Scotland	1007	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	N	N	N	N	N	

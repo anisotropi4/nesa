@@ -9,40 +9,58 @@
                                                      4347/2 47/4 47/7
                                                                  56 57 58 Notes
      route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
-     SC059LYE  Cook St – High St Line (Smithy Lye
-                                      0  00  0  448  N  Y  Y  Y  Y  Y  Y
-               through line)
-     SC059AYR1 Cook St – Shields Jn   0  19  1  008  Y  Y  Y  Y  Y  Y  Y
-     SC059AYR1 Shields Jn – Change of ELR (Paisley
-                                      1  00  6  5310 Y  Y  Y  Y  Y  Y  Y
-               Gilmour Street)
-     SC059AYR2 Change of ELR (Paisley Gilmour Street) –
-                                      6  73  7  0010 Y  Y  Y  Y  Y  Y  Y
-               Change of ELR (Brown Street crossover)
-     SC059AYR3 Change of ELR (Brown Street crossover) –
-                                      7  00 23  0010 Y  Y  Y  Y  Y  Y  Y
-               Change of ELR (Dalry)
-     SC059AYR4 Change of ELR (Dalry) – Change of ELR
-                                      23 00 33  0810 Y  Y  Y  Y  Y  Y  Y
-               (Barassie Jn)
-     SC059AYR5 Change of ELR (Barassie Jn) – Change of
-                                      0  00  2  1510 Y  Y  Y  Y  Y  Y  Y
-               ELR (Between Troon and Prestwick
-               International Airport)
-     SC059AYR6 Change of ELR (Between Troon and
-                                      35 05 38  7310 Y  Y  Y  Y  Y  Y  Y
-               Prestwick International Airport) – Falkland
-               Jn
-     SC059AYR6 Falkland Jn – Ayr      38 73 40  498  Y  Y  Y  Y  Y  Y  Y
-     SC059STR1 Ayr – Dalrymple Jn     40 49 43  538  Y  Y  Y  Y  Y  Y  Y
-     SC059STR1 Dalrymple Jn – Change of ELR (Girvan)
-                                      43 53 61  605  Y  N  N  N  N  N  N
-     SC059STR2 Change of ELR (Girvan) – Change of ELR
-                                      0  00 30  675  Y  N  N  N  N  N  N
-               (Betweeen Challoch LC and Dunragit SB &
-               LC)
+     SC007EGS2 Midcalder Jn – Holytown Jn
+                                      23 11  1  278  Y  Y  Y  Y  Y  Y  Y R1 RA Change
+                                                                            STNC NC/G1/2010/ICP-RA/SC012 applies until
+                                                  R1                        30/09/2014
+     SC009LNK  Lanark – Lanark Jn     2  45  0  035  Y  N  N  N  N  N  N
+     SC011WWD  Law Jn – Holytown Jn   84 08 89  6610 Y  Y  Y  Y  Y  Y  Y
+     SC011EGS2 Holytown Jn – Mossend East Jn
+                                      1  27  0  4010 Y  Y  Y  Y  Y  Y  Y
+     SC011EGS1 Mossend East Jn – Uddingston Jn
+                                      3  63  0  0310 Y  Y  Y  Y  Y  Y  Y
+     SC013SHR  Wishaw Central Jn – Shieldmuir Jn
+                                      86 63 87  4310 Y  Y  Y  Y  Y  Y  Y
+     SC015MDN  Mossend East Jn – Mossend North Jn
+                                      0  40  0  0610 Y  Y  Y  Y  Y  Y  Y
+               (North Curve)
+     SC017MDE  Mossend East Jn – Mossend South Jn
+                                      0  31  0  0010 Y  Y  Y  Y  Y  Y  Y
+               (East Curve)
+     SC019MDW  Mossend South Jn – Mossend West Jn
+                                      91 08 91  5010 Y  Y  Y  Y  Y  Y  Y
+               (West Curve)
+     SC021COS2 Coltness – Change of ELR
+                                      0  09  0  0010 N  Y  Y  Y  Y  Y  Y
+     SC021COS1 Change of ELR – Garriongill Jn
+                                      14 15 15  2910 N  Y  Y  Y  Y  Y  Y
+     SC023HMN1 Motherwell – Change of ELR
+                                      0  08  1  447  Y  Y  Y  Y  Y  Y  Y
+     SC023HMN2 Change of ELR – Newton, Hamilton Jn
+                                      6  61  0  007  Y  Y  Y  Y  Y  Y  Y
+     SC024LRK  Larkhall – Haughhead Jn3  00  0  0010 Y  Y  Y  Y  Y  Y  Y
+     SC025ARG1 Rutherglen Central Jn – Bridgeton Yard
+                                      0  00  0  4310 Y  Y  Y  Y  Y  Y  Y
+               North End
+     SC025ARG2 Bridgeton Yard North End – Exhibition
+                                      0  86  4  0310 Y  Y  Y  Y  Y  Y  Y
+               Centre
+     SC025ARG2 Exhibition Centre – Finnieston East Jn
+                                      4  03  4  4110 Y  Y  Y  Y  Y  Y  Y
+               (Down line)
+     SC025ARG2 Exhibition Centre – Finnieston West Jn
+                                      4  03  4  7410 Y  Y  Y  Y  Y  Y  Y
+               (Up line)
+     SC027RNC  Rutherglen West Jn – Rutherglen North Jn
+                                      0  00  0  2910 Y  Y  Y  Y  Y  Y  Y
+               (West Curve)
+     SC029CLY  Larkfield Jn – Terminus Jn
+                                     101 01 101 6210 Y  Y  Y  Y  Y  Y  Y
+     SC029BRD  Terminus Jn – Shields Jn via Through
+                                     101 62 102 1610 Y  Y  Y  Y  Y  Y  Y
+               Terminus lines
+     SC029CLY  Terminus Jn – Shields Jn
+                                     101 62 102 1610 Y  Y  Y  Y  Y  Y  Y
 
 
-
-
-     October 2009                               82
+     October 2009                               80

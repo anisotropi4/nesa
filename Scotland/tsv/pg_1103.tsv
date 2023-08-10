@@ -1,22 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1103	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	R1 R2 R3	Y	Y	Y	Y	R1 60mph over bridge 8 (Balgreen Road near Haymarket West) (44m 59ch) R2 60mph over 2A (South Gyle Road) (43m 00ch) R3 60mph over 13A (M8 Bridge at Newbridge) (38m 24ch)
-Scotland	1103	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-Scotland	1103	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	5	N	N	N	N	N	N	Y	
-Scotland	1103	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1103	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	10	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited when overhead line equipment is energised
+Scotland	1103	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	N	Y	N	Y	Y	Y	Y	
+Scotland	1103	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	7 R1	N	R2 R3	N	R2 R3	R2	R2	R2	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 30mph over bridge 179/065 (Black Cart Water) (109m 71ch) R3 30mph over bridge 179/061 (River Gryfe) (110m 42ch)
+Scotland	1103	SC065	GOU2	Bishopton – Gourock	112	60	126	58	5 R1	N	Y	N	Y	Y	R2	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 Prohibited Greenock Bay platform
+Scotland	1103	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	N	N	N	N	N	N	Y	
+Scotland	1103	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	N	R1 R2 R3 R4	N	N	N	N	Y	R1 Infrastructure maintenance purposes only R2 10mph over bridge 193/027 (37m 5ch) R3 10mph over bridge 193/033 (38m 74ch) R4 10mph over bridge 193/036 (39m 11ch)
+Scotland	1103	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1103	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	10	Y	Y	Y	Y	Y	Y	Y	

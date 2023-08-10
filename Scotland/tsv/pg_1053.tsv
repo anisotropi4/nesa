@@ -1,21 +1,21 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1053	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	N	N	N	N	Y	E R1	R1 Prohibited between Change of ELR and Belgrove Jn
-Scotland	1053	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1053	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1053	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	N	N	N	N	Y	E	
-Scotland	1053	SC131	HST	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	Y	Y	Y	N	N	N	EH	Y	E	
-Scotland	1053	SC131	HST	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	Y	Y	Y	N	N	N	EH	Y	E	
-Scotland	1053	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1053	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1053	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC099	RSL2	Whifflet North Jn – Change of ELR	0	00	0	34	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC099	RSL1	Change of ELR – Langloan Jn	6	59	6	34	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC099	RCB	Langloan Jn – Rutherglen East Jn	6	34	0	04	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	Y	Y	EH	N	N	N	N	Y	N	
+Scotland	1053	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1053	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1053	SC106	PNS	Sighthill West Jn – Cowlairs South Jn (Chord Line)	0	30	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1053	SC107	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1053	SC107	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1053	SC107	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1053	SC107	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1053	SC107	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited between 00m 32 ch to Haymarket (North lines)
+Scotland	1053	SC107	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	N	N	N	Y	Y	Y	
+Scotland	1053	SC107	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1053	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1053	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1053	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1053	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	Y	Y	N	N	N	N	Y	N	

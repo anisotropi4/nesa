@@ -9,58 +9,60 @@
           ELR  Line of Route / Sector Description oooo oooo oooo oooo 142
                                                      143144150153156158 Notes
      route                           M  Ch M   Ch0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-     SC145MLG1 Fort William – Change of ELR
-                                      0  05  1 27 N  N  N  Y   Y  Y  N
-     SC145MLG2 Change of ELR – Mallaig0  00 39 39 N  N  N  Y   Y  Y  N
-     SC147ECM8 Route Boundary (LN600) (Heaton South
-                                     69  67  9 67 Y  Y  Y  Y   Y  Y  Y
-               Jn) – Prestonpans Jn
-     SC147ECM8 Prestonpans Jn – Calton South Tunnel
-                                      9  67  0 29 Y  Y  Y  Y   Y  Y  Y
-     SC147ECM9 Calton South Tunnel – Waverley East
-                                      0  29  0 21 Y  Y  Y  Y   Y  Y  Y
-               End
-     SC147ECM9 Waverley East End – Edinburgh
-                                      0  21  0 00 N  N  N  Y   Y  Y  Y
-               Waverley
-     SC147EGM4 Edinburgh Waverley – Waverley West
-                                      0  00  0 15 N  N  N  Y   Y  Y  Y
-               End (South Lines)
-     SC147ECN1 Edinburgh Waverley – Waverley West
-                                      0  00  0 15 N  N  N  Y   Y  Y  Y
-               End (North Lines)
-     SC147EGM3 Waverley West End – Haymarket (South
-                                      0  15  1 19 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC147ECN2 Waverley West End – Haymarket (North
-                                      0  15  1 19 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC147EGM2 Haymarket – Haymarket East Jn (South
-                                     46  02 45 72 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC147ECN2 Haymarket – Haymarket East Jn (North
-                                      1  19  1 29 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC147EGM2 Haymarket East Jn – Haymarket Central
-                                     45  72 45 35 N  N  N  Y   Y  Y  Y
-               Jn (South Lines)
-     SC147ECN2 Haymarket East Jn – Haymarket Central
-                                      1  29  1 66 N  N  N  Y   Y  Y  Y
-               Jn (North Lines)
-     SC147EGM2 Haymarket Central Jn – Haymarket West
-                                     45  35 44 73 N  N  N  Y   Y  Y  Y
-               Jn (South Lines)
-     SC147ECN2 Haymarket Central Jn – Haymarket West
-                                      1  66  2 41 N  N  N  Y   Y  Y  Y
-               Jn (North Lines)
-     SC149NBK  North Berwick – Drem Jn
-                                     22  22 18 15 N  N  N  Y   Y  Y  Y
-     SC151LHS1 Portobello – Leith South Yard (Goods
-                                      0  00  2 20 N  N  N  N   N  N  N
-               Line)
-     SC153CPH  Craigentinny – Powderhall (Goods Line)
-                                      0  00  1 78 N  N  N  N   N  N  N
-     SC155MHL1 Monktonhall Jn – Change of ELR
-                                      0  11  5 60 N  N  N  N   N  N  N
+     SC113DMY  Winchburgh Jn – Dalmeny Jn
+                                     34  54 39 03 N  N  N  Y   Y  Y  Y
+     SC115MRL1 Cowlairs West Jn – Maryhill Park Jn
+                                      8  26  5 51 N  N  N  Y   Y  Y  Y
+     SC115MRL2 Maryhill Park Jn – Knightswood North Jn
+                                      4  40  5 67 N  N  N  Y   Y  Y  Y
+     SC1150
+          MLA  Maryhill Park Jn – Anniesland
+                                      0  00  0 70 N  N  N  Y   N  Y  Y
+     SC116CSN  Cowlairs East Jn – Cowlairs North Jn
+                                      0  00  0 21 N  N  N  Y   Y  Y  Y
+     SC117GMH  Grangemouth Jn – Grangemouth
+                                      0  00  3 67 N  N  N  Y   N R1 R1 R1Prohibited except for the purpose of
+                                                                         setting back behind Signals ECL290 or
+                                                                         ECL292
+     SC119GHL  Greenhill Upper Jn – Greenhill Lower Jn
+                                      0  00  0 52 N  N  N  Y   Y  Y  Y
+     SC119SCM3 Greenhill Lower Jn – Carmuirs West Jn
+                                     106 62108 74 N  N  N  Y   Y  Y  Y
+     SC119SCM3 Carmuirs West Jn – Stirling Middle Jn
+                                     108 76118 08 N  N  N  Y   Y  Y  Y
+     SC119SCM3 Stirling Middle Jn – Change of ELR
+                                     118 08123 40 N  N  N  Y   Y  Y  Y
+               (Dunblane)
+     SC119SCM4 Change of ELR (Dunblane) – Perth
+                                     123 40150 61 N  N  N  Y   Y  Y  Y
+               South Jn
+     SC119SCM5 Perth South Jn – Change of Mileage
+                                     150 61151 03 N  N  N  Y   Y  Y  Y
+     SC119SCM5 Change of Mileage – Dundee Central Jn
+                                     21  01  0 36 N  N  N  Y   Y  Y  Y
+     SC119ECN2 Dundee Central Jn – Dundee
+                                     58  69 59 14 N  N  N  Y   Y  Y  Y
+     SC123NBE  Bathgate – Change of ELR
+                                     25  18 25 00 N  N  N  Y   N  Y  Y
+     SC123NEM1 Change of ELR – Drumgelloch
+                                     25  00 11 70 N  N  N  Y   N  Y  Y
+     SC123NEM1 Drumgelloch – Change of ELR
+                                     11  70 11 60 N  N  N  Y   N  Y  Y
+     SC123NEM2 Change of ELR – High Street Jn
+                                     11  60  0 28 E  E  E  Y  R2  Y R4 R1Prohibited between Change of ELR (11m
+                                                  R1 R1 R1    R3    R5   60ch) and Bellgrove Jn
+                                                                      R2 Prohibited between Change of ELR (11m
+                                                                         60ch) and Airdrie
+                                                                       R3Prohibited Airdrie through platforms
+                                                                       R4Prohibited between Aidrie and High Street
+                                                                         Jn when laden
+                                                                       R5Prohibited Bellgrove down platform with
+                                                                         deflated suspension
+     SC123NEM2 High Street Jn – Change of ELR
+                                      0  28  0 00 N  N  N  Y   Y  Y E
+     SC123NEM3 Change of ELR – Finnieston East Jn
+                                      0  00  2 19 N  N  N  Y   Y  Y R1 20mph Glasgow Queen Street platform 8
 
-     October 2009                               15
+
+
+     October 2009                               13

@@ -8,58 +8,26 @@
      route                                      000 000 000 000 31/6 000 000 37/3 000 37/9 ooooooooooooooooooooooooo
                                    oooo oooo oooo oooo            37/4 00
                                     M  Ch M  Ch                   37/6
-     SC093SCM1Motherwell – Mossend South
-                                    89 51 91 08 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC093SCM2Mossend South – Whifflet North Jn
-                                    91 08 94 05 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC093SCM3Whifflet North Jn – Gartsherrie South Jn
-                                    94 05 95 64 10 Y Y  Y Y  Y  Y Y  Y Y
-              (Limit of OLE)
-     SC093SCM3Gartsherrie South Jn (Limit of OLE) –
-                                    95 64106 63 10 Y Y  Y Y  Y  Y Y  Y Y
-              Greenhill Lower Jn
-     SC097SYE Whifflet South Jn – Sunnyside Jn
-                                    9  63  8 43 10 Y Y  Y Y  Y  Y Y  Y Y
-              (Goods Line)
-     SC099RSL2Whifflet North Jn – Change of ELR
-                                    0  00  0 34 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC099RSL1Change of ELR – Langloan Jn
-                                    6  59  6 34 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC099RCB Langloan Jn – Rutherglen East Jn
-                                    6  34  0 04 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC101RCB Coatbridge Jn – Langloan Jn
-                                    7  03  6 34 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC103CBD1Garnqueen North Jn – Gartcosh Jn
-                                    1  33  0 00 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC103CBD2Gartcosh Jn – Change of ELR
-                                    97 09103 41 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC103SGN Change of ELR – Cowlairs West Jn
-                                    0  61 -0 20 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC105GHE Gartsherrie South Jn – Gartcosh Jn
-                                    95 64 97 06 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC106PNS Sighthill West Jn – Cowlairs South Jn
-                                    0  30  0 00 8  Y Y  Y Y  Y  Y Y  Y Y
-              (Chord Line)
-     SC107ECM9Waverley East End – Edinburgh
-                                    0  21  0 00 10 Y Y  Y Y  Y  Y Y  Y Y
-              Waverley
-     SC107EGM4Edinburgh Waverley – Waverley West
-                                    0  00  0 15 10 Y Y  Y Y  Y  Y Y  Y Y
-              End (South Lines)
-     SC107ECN1Edinburgh Waverley – Waverley West
-                                    0  00  0 15 10 Y Y  Y Y  Y  Y Y  Y Y
-              End (North Lines)
-     SC107EGM3Waverley West End – Haymarket (South
-                                    0  15  1 19 10 Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
-     SC107ECN2Waverley West End – Haymarket (North
-                                    0  15  1 19 10 Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
-     SC107EGM2Haymarket – Haymarket East Jn (South
-                                    46 02 45 72 10 Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
-     SC107ECN2Haymarket – Haymarket East Jn (North
-                                    1  19  1 29 10 Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
+     SC059STR1Dalrymple Jn – Change of ELR (Girvan)
+                                    43 53 61 60 5  Y Y  Y Y  N  N R1R1 N R1 Prohibited if fitted with roof horns
+     SC059STR2Change of ELR (Girvan) – Change of
+                                    0  00 30 67 5  Y Y  Y Y  N  N R1R1 N R1 Prohibited if fitted with roof horns
+              ELR (Betweeen Challoch LC and
+              Dunragit SB & LC)
+     SC059STR3Change of ELR (Betweeen Challoch LC
+                                    46 54 53 05 5  Y Y  Y Y  N  N R1R1 N R1 Prohibited if fitted with roof horns
+              and Dunragit SB & LC) – Change of
+              ELR (Stranraer Yard GF)
+     SC059STR4Change of ELR (Stranraer Yard GF) –
+                                    53 05 54 05 5  Y Y  Y Y  N  N R1R1 N R1 Prohibited if fitted with roof horns
+              End of Line
+     SC061CNL Shields Jn – Corkerhill
+                                    1  05  3 11 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC061CNL Corkerhill – Paisley Canal
+                                    3  11  7 00 10R1 R1R1 R1 R1R1 R1R1 R1 R1Prohibited when overhead line
+                                                                            equipment is energised
 
-     October 2009                               67
+
+
+
+     October 2009                               65

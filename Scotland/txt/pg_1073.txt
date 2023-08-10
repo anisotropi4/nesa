@@ -2,72 +2,53 @@
 
 
 
+
      Line of
           ELR Line of Route / Sector DescriptionRA 0809 20 31/1 31/4 33 37/0 37/5 37/7 Notes
      route                                      000 000 000 000 31/6 000 000 37/3 000 37/9 ooooooooooooooooooooooooo
                                    oooo oooo oooo oooo            37/4 00
                                     M  Ch M  Ch                   37/6
-     SC157MLE Millerhill South Jn – Millerhill East Jn
-                                    0  09  0 28 10 Y Y  Y Y  Y  Y Y  Y Y
-              (Goods Line)
-     SC159NDE2Millerhill West Jn – Millerhill South Jn /
-                                    6  52  5 72 10 Y Y  Y Y  Y  Y Y  Y Y
-              Millerhill Yard
-     SC161NDE1Millerhill Yard – Junction with Niddrie
-                                    5  52  3 36 10 Y Y  Y Y  Y  Y Y  Y Y
-              West Line
-     SC161SUB1Junction with Niddrie West Line –
-                                    3  36  3 30 10 Y Y  Y Y  Y  Y Y  Y Y
-              Portobello
-     SC161MHL4Newcraighall East Jn – Network Rail /
-                                    00 00 00  08N  N N  N N  N N  N  N N
-              Abellio Scotrail Boundary
-     SC163SUB1Portobello – Change of ELR
-                                    3  30  4 00 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC163SUB2Change of ELR – Niddrie West
-                                    6  69  6 30 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC164NNS Newcraighall North Jn – Newcraighall
-                                    4  63  5 02 3  N N  N N  N N  R1R1 R1 R155mph maximum speed
-              South Jn                                                 R2 R2UB011/072 (28m 31ch) 20mph
-                                                                       R3 R3UB011/070 (27m 46ch) 30mph
-                                                                       R4 R4UB011/067 (25m 44ch) 20mph
-                                                                       R5 R5UB011/061 (24m 03ch) 30mph
-                                                                       R6 R6UB011/060 (23m 59ch) 30mph
-                                                                       R7 R7UB011/056 (22m 04ch) 30mph
-                                                                       R8 R8UB011/054 (21m 58ch) 30mph
-                                                                       R9 R9UB011/053 (21m 40ch) 30mph
-     SC164SBO Newcraighall South Jn – Tweedbank
-                                     5 02 35 34 3  N N  N N  N N  R1R1 R1 R155mph maximum speed
-     SC165MHY Niddrie South Jn – Niddrie West Jn
-                                     7 06  6 30 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC165SUB2Niddrie West Jn – Gorgie Jn
-                                     6 30  0 45 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC165GGE Gorgie Jn – Haymarket West Jn
-                                     0 00  0 41 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC167CKT Craiglockhart Jn – Slateford Jn
-                                     0 00  0 48 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC169SUB2Gorgie Jn – Haymarket Central Jn
-                                     0 45  0 11 10 Y Y  Y Y  Y Y  Y Y  Y
-     SC171ECM9Waverley East End – Edinburgh
-                                     0 21  0 00 10 Y Y  Y Y  Y Y  Y Y  Y
-              Waverley
-     SC171EGM4Edinburgh Waverley – Waverley West
-                                     0 00  0 1510  Y Y  Y Y  Y  Y Y  Y Y
-              End (South Lines)
-     SC171ECN1Edinburgh Waverley – Waverley West
-                                     0 00  0 1510  Y Y  Y Y  Y  Y Y  Y Y
-              End (North Lines)
-     SC171EGM3Waverley West End – Haymarket (South
-                                     0 15  1 1910  Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
-     SC171ECN2Waverley West End – Haymarket (North
-                                     0 15  1 1910  Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
-     SC171EGM2Haymarket – Haymarket East Jn (South
-                                    46 02 45 7210  Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
-     SC171ECN2Haymarket – Haymarket East Jn (North
-                                     1 19  1 2910  Y Y  Y Y  Y  Y Y  Y Y
-              Lines)
+     SC143OBN1Crianlarich Jn – Lower Crianlarich GF
+                                    0  00  0 44 5  Y Y R1 Y  R2 N Y R1 N R1 Class 20 and Class 37/5 locomotives
+                                                             R3             that conform to RA6 shall apply those
+                                                             R4             restrictions applicable to the Class
+                                                                            31/4
+                                                                         R2 Prohibited from hauling passenger
+                                                                            services
+                                                                         R3 30mph over bridge 3 (0m 16ch)
+                                                                            (10mph when providing assistance)
+                                                                         R4 Double Heading prohibited except for
+                                                                            providing assistance
+     SC143OBN2Lower Crianlarich GF – Inverhaggernie
+                                    30 23 31 00 5 R1 R1R1 R1 R3 N R1R1 N R1 30mph over bridge 158 (30m 80ch)
+              No.1 LC                                  R2    R4     R2   R2 Prohibited from hauling passenger
+                                                             R5             services
+                                                                         R3 10mph over bridge 158 (30m 80ch)
+                                                                         R4 Double Heading prohibited except for
+                                                                            providing assistance
+     SC143OBN2Inverhaggernie No.1 LC – Oban
+                                    31 00 71 44 5 R1 R1R1 R1 N  N R1R1 N R1 30mph over bridge 176 (35m 17ch)
+                                                  R2 R2R2 R2      R2R2   R2 20mph over bridge 268 (66m 16ch)
+     SC145MLG1Fort William – Change of ELR
+                                    0  05  1 27 5  Y Y R1 Y  N R2 Y R1 N R1 Route prohibited to Class 20 and
+                                                                            Class 37/5 locomotives that conform
+                                                                            to RA6
+                                                                         R2 20mph over Lochy Viaduct (0m 55ch
+                                                                            – 0m 60ch)
+     SC145MLG2Change of ELR – Mallaig
+                                    0  00 39 39 5  Y Y R1 Y  N R2 Y R1 N R1 Route prohibited to Class 20 and
+                                                               R3           Class 37/5 locomotives that conform
+                                                               R4           to RA6
+                                                                         R2 30mph over bridge 29 (6m 18ch)
+                                                                         R3 20mph over bridge 051 (Drumsalie)
+                                                                            (10m 19ch)
+                                                                         R4 10mph over bridge 134 (31m 04ch)
+     SC147ECM8Route Boundary (LN600) (Heaton South
+                                    69 67  9 67 10 Y Y  Y Y  Y  Y Y  Y Y
+              Jn) – Prestonpans Jn
+     SC147ECM8Prestonpans Jn – Calton South Tunnel
+                                    9  67  0 29 10 Y Y  Y Y  Y  Y Y  Y Y
 
-     October 2009                               74
+
+
+     October 2009                               72

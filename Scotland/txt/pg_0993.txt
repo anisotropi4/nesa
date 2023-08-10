@@ -9,60 +9,54 @@
           ELR  Line of Route / Sector Description oooo oooo oooo oooo 142
                                                      143144150153156158 Notes
      route                           M  Ch M   Ch0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-     SC106PNS  Sighthill West Jn – Cowlairs South Jn
-                                      0  30  0 00 N  N  N  Y   Y  Y  Y
-               (Chord Line)
-     SC107ECM9 Waverley East End – Edinburgh
-                                      0  21  0 00 N  N  N  Y   Y  Y  Y
-               Waverley
-     SC107EGM4 Edinburgh Waverley – Waverley West
-                                      0  00  0 15 N  N  N  Y   Y  Y  Y
-               End (South Lines)
-     SC107ECN1 Edinburgh Waverley – Waverley West
-                                      0  00  0 15 N  N  N  Y   Y  Y  Y
-               End (North Lines)
-     SC107EGM3 Waverley West End – Haymarket (South
-                                      0  15  1 19 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC107ECN2 Waverley West End – Haymarket (North
-                                      0  15  1 19 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC107EGM2 Haymarket – Haymarket East Jn (South
-                                     46  02 45 72 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC107ECN2 Haymarket – Haymarket East Jn (North
-                                      1  19  1 29 N  N  N  Y   Y  Y  Y
-               Lines)
-     SC107EGM2 Haymarket East Jn – Haymarket Central
-                                     45  72 45 35 N  N  N  Y   Y  Y  Y
-               Jn (South Lines)
-     SC107ECN2 Haymarket East Jn – Haymarket Central
-                                      1  29  1 66 N  N  N  Y   Y  Y  Y
-               Jn (North Lines)
-     SC107EGM2 Haymarket Central Jn – Haymarket West
-                                     45  35 44 73 N  N  N  Y   Y  Y  Y
-               Jn (South Lines)
-     SC107ECN2 Haymarket Central Jn – Haymarket West
-                                      1  66  2 41 N  N  N  Y   Y  Y  Y
-               Jn (North Lines)
-     SC107EGM1 Haymarket West Jn – Cowlairs West Jn
-                                     44  73  1 67 N  N  N  Y   Y  Y  Y
-     SC107EGM1 Cowlairs West Jn – Glasgow Queen
-                                      1  67  0 00 N  N  N  Y   Y  Y  Y
-               Street
-     SC109PMT  Polmont Jn – Grangemouth Jn
-                                     21  20 23 75 N  N  N  Y   Y  Y  Y
-     SC109PMT  Grangemouth Jn – Carmuirs East Jn
-                                     23  75 25 79 N  N  N  Y   Y  Y  Y
-     SC109CMS  Carmuirs East Jn – Carmuirs West Jn
-                                      0  40 -0  2 N  N  N  Y   Y  Y  Y
-     SC109SCM3 Carmuirs West Jn – Greenhill Lower Jn
-                                     108 74106 62 N  N  N  Y   Y  Y  Y
-     SC109GHL  Greenhill Lower Jn – Greenhill Upper Jn
-                                      0  52  0 00 N  N  N  Y   Y  Y  Y
-     SC110PMT  Carmuirs East Jn – Larbert Jn
-                                     25  79 26 35 N  N  N  Y   Y  Y  Y
-     SC111NBE  Newbridge Jn – Bathgate
-                                     35  21 25 18 N  N  N  Y   Y  Y  Y
+     SC059AYR2 Change of ELR (Paisley Gilmour Street)
+                                      6  73  7 00 Y  Y  Y  Y   Y  Y  E
+               – Change of ELR (Brown Street
+               crossover)
+     SC059AYR3 Change of ELR (Brown Street crossover)
+                                      7  00 23 00 Y  Y  Y  Y   Y  Y E R1 60mph Lochwinnoch down platform
+               – Change of ELR (Dalry)                              R1
+     SC059AYR4 Change of ELR (Dalry) – Change of ELR
+                                     23  00 33 08 Y  Y  Y  Y   Y  Y E R1 40mph Kilwinning up platform
+               (Barassie Jn)                                        R1 R2Prohibited between Barassie and Change
+                                                                    R2   of ELR (Barassie Jn)
+     SC059AYR5 Change of ELR (Barassie Jn) – Change
+                                      0  00  2 15 Y  Y  Y  Y   Y  Y  N
+               of ELR (Between Troon and Prestwick
+               International Airport)
+     SC059AYR6 Change of ELR (Between Troon and
+                                     35  05 38 73 Y  Y  Y  Y   Y  Y  N
+               Prestwick International Airport) –
+               Falkland Jn
+     SC059AYR6 Falkland Jn – Ayr     38  73 40 49 Y  Y  Y  Y   Y  Y  N
+     SC059STR1 Ayr – Dalrymple Jn    40  49 43 53 N  N  N  Y   Y  Y  N
+     SC059STR1 Dalrymple Jn – Change of ELR (Girvan)
+                                     43  53 61 60 N  N  N  Y   Y  Y  N
+     SC059STR2 Change of ELR (Girvan) – Change of
+                                      0  00 30 67 N  N  N  Y   Y  Y  N
+               ELR (Betweeen Challoch LC and
+               Dunragit SB & LC)
+     SC059STR3 Change of ELR (Betweeen Challoch LC
+                                     46  54 53 05 N  N  N  Y   Y  Y  N
+               and Dunragit SB & LC) – Change of ELR
+               (Stranraer Yard GF)
+     SC059STR4 Change of ELR (Stranraer Yard GF) –
+                                     53  05 54 05 N  N  N  Y   Y  Y  N
+               End of Line
+     SC061CNL  Shields Jn – Corkerhill1  05  3 11 N  N  N  Y   Y  Y  E
+     SC061CNL  Corkerhill – Paisley Canal
+                                      3  11  7 00 N  N  N  R1 R1 R1  N R1Prohibited when overhead line equipment
+                                                                         is energised
+     SC063CND1 Cardonald Jn – Cardonald North Jn
+                                      0  00  0 36 N  N  N  N   N  N  N
+     SC063CND2 Cardonald North Jn – Deanside (Goods
+                                      0  36  1 54 N  N  N  N   N  N  N
+               Line)
+     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
+                                      6  34  6 53 N  N  N  Y   Y  Y  N
+     SC065GOU2 Change of ELR – Bishopton
+                                     107 70112 60 N  N  N  Y   Y  Y  N
+     SC065GOU2 Bishopton – Gourock   112 60126  E N  N  N  Y   Y  Y  N
 
-     October 2009                               12
+
+     October 2009                               10

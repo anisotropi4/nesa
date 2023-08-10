@@ -1,20 +1,4 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
-Scotland	1002	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM1	Lockerbie – Law Jn	25	66	84	08	R1	N	Y	Y	Y	R1 Prohibited Carstairs Up platform with deflated suspension
-Scotland	1002	SC001	WCM2	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Newton East Jn – Newton West Jn	95	14	96	34	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Newton West Jn – Rutherglen East Jn	96	34	98	32	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Rutherglen East Jn – Larkfield Jn	98	32	100	65	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Larkfield Jn – Eglinton St Jn	100	65	101	39	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	N	Y	Y	Y	
-Scotland	1002	SC001	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	Y	N	Y	Y	Y	
-Scotland	1002	SC003	ECA1	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	N	Y	Y	Y	
-Scotland	1002	SC003	ECA2	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	N	Y	Y	Y	
-Scotland	1002	SC003	ECA3	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	N	Y	Y	Y	
-Scotland	1002	SC005	CSP	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	N	Y	Y	Y	
-Scotland	1002	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	R1	N	Y	Y	Y	R1 Prohibited Hartwood Down platform
-Scotland	1002	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	N	N	N	N	N	
-Scotland	1002	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	Y	N	R1	Y	Y	R1 60mph maximum speed
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	1002	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	N	N	N	Y	Y	Y	Y	
+Scotland	1002	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	N	N	N	Y	Y	Y	R1 R2 R3	R1 25mph Lochluichart platform R2 15mph Stromeferry platform R3 25mph Duncraig platform
+Scotland	1002	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	N	N	N	Y	Y	Y	Y	

@@ -9,39 +9,62 @@
                                                      4347/2 47/4 47/7
                                                                  56 57 58 Notes
      route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
-     SC141WHL  Craigendoran Jn – Crianlarich Jn
-                                      0  01 36  305  Y  R1 R6 R1 R1 R1 N R1 10mph over bridge 26 (9m 52ch)
-                                                        R2 R7 R2 R2 R2   R2 20mph over bridge 30 (11m 38ch)
-                                                        R3    R3 R3 R3   R3 20mph over bridge 97 (30m 50ch)
-                                                        R4    R4 R4 R4   R4 20mph over bridge 108 (33m 14ch)
-                                                        R5    R5 R5 R5   R5 Double Heading prohibited except for
-                                                                            providing assistance and then at only 10mph
-                                                                            over the above structures
-                                                                         R6 Class 47/4 locomotives that conform to RA6
-                                                                            shall apply those restrictions applicable to
-                                                                            the Class 47/2
-                                                                         R7 Route prohibited to Class 47/4 locomotives
+     SC117GMH  Grangemouth Jn – Grangemouth
+                                      0  00  3  6710 Y  Y  Y  Y  Y  Y  Y
+     SC119GHL  Greenhill Upper Jn – Greenhill Lower Jn
+                                      0  00  0  5210 Y  Y  Y  Y  Y  Y  Y
+     SC119SCM3 Greenhill Lower Jn – Carmuirs West Jn
+                                     106 62 108 7410 Y  Y  Y  Y  Y  Y  Y
+     SC119SCM3 Carmuirs West Jn – Stirling Middle Jn
+                                     108 76 118 0810 Y  Y  Y  Y  Y  Y  Y
+     SC119SCM3 Stirling Middle Jn – Change of ELR
+                                     118 08 123 4010 Y  Y  Y  Y  Y  Y  Y
+               (Dunblane)
+     SC119SCM4 Change of ELR (Dunblane) – Perth South
+                                     123 40 150 6110 Y  Y  Y  Y  Y  Y  Y
+               Jn
+     SC119SCM5 Perth South Jn – Change of Mileage
+                                     150 61 151 0310 Y  Y  Y  Y  Y  Y  Y
+     SC119SCM5 Change of Mileage – Dundee Central Jn
+                                      21 01  0  3610 Y  Y  Y  Y  Y  Y  Y
+     SC119ECN2 Dundee Central Jn – Dundee
+                                      58 69 59  148  Y  Y  Y  Y  Y  Y  Y R1 RA Change
+                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                  R1
+     SC123NBE  Bathgate – Change of ELR
+                                      25 18 25  0010 Y  Y  Y  Y  Y  Y  Y
+     SC123NEM1 Change of ELR – Drumgelloch
+                                      25 00 11  7010 Y  Y  Y  Y  Y  Y  Y
+     SC123NEM1 Drumgelloch – Change of ELR
+                                      11 70 11  6010 Y  Y  Y  Y  Y  Y  Y
+     SC123NEM2 Change of ELR – High Street Jn
+                                      11 60  0  2810 Y  Y  Y  Y  Y  Y  Y
+     SC123NEM2 High Street Jn – Change of ELR
+                                      0  28  0  005  R1 R1 R1 R1 R1 R1 N R1 10mph over bridge 240/116 (0m 18ch)
+     SC123NEM3 Change of ELR – Finnieston East Jn
+                                      0  00  2  195  Y  Y  Y  Y  Y  Y  N
+     SC123NEM3 Finnieston East Jn – Finnieston West Jn
+                                      2  19  2  537  R2 R2 R2 R2 R2 R2 R2 R1RA Change
+               (Down Line)                                                  STNC NC/GI/2010/ICP-RA/SC008 applies until
+                                                  R1                        30/09/2014
+                                                                         R2 10mph over bridge 240/128 (2m 24ch)
+     SC123NEM3 Finnieston East Jn – Finnieston West Jn
+                                      2  19  2  535  R2 R2 R2 R2 N  N  N R1 RA Change
+               (Up Line)                                                    STNC NC/GI/2010/ICP-RA/SC008 applies until
+                                                  R1       R3               30/09/2014
+                                                                         R2 10mph over bridge 240/128 (2m 24ch)
+                                                                         R3 Route prohibited to Class 47/4 locomotives
                                                                             that conform to RA7
-     SC141WHL  Crianlarich Jn – Fort William
-                                      36 30 99  375  Y  R1 R11R1 R1 R1 N R1 40mph over bridge 116 (36m 39ch)
-                                                        R2 R12R2 R2 R2   R2 20mph over bridge 117 (36m 44ch)
-                                                        R3    R3 R3 R3   R3 30mph over bridge 131 (39m 65ch)
-                                                        R4    R4 R4 R4   R4 20mph over bridge 149 (45m 03ch)
-                                                        R5    R5 R5 R5   R5 20mph over bridge 151 (45m 43ch)
-                                                        R6    R6 R6 R6   R6 20mph over bridge 197 (61m 39ch)
-                                                        R7    R7 R7 R7   R7 20mph over bridge 201 (63m 50ch)
-                                                        R8    R8 R8 R8   R8 30mph over bridge 203 (64m 64ch)
-                                                        R9    R9 R9 R9   R9 20mph over bridge 259 (76m 29ch)
-                                                        R10   R10 R10 R10R10 Double Heading prohibited except for
-                                                                            providing assistance and then at only 10mph
-                                                                            over the above structures
-                                                                         R11 Class 47/4 locomotives that conform to RA6
-                                                                            shall apply those restrictions applicable to
-                                                                            the Class 47/2
-                                                                         R12 Route prohibited to Class 47/4 locomotives
-                                                                            that conform to RA7
 
 
+     SC123NEM3 Finnieston West Jn – Hyndland North Jn
+                                      2  53  4  287  Y  Y  Y  Y  Y  Y  Y
+     SC123NEM3 Hyndland North Jn – Change of ELR
+                                      4  28  4  6310 Y  Y  Y  Y  Y  Y  Y
+     SC123NEM4 Change of ELR – Knightswood North Jn
+                                      0  00  0  7410 Y  Y  Y  Y  Y  Y  Y
+     SC123NEM5 Knightswood North Jn – Change of ELR
+                                      5  67 13  4010 Y  Y  Y  Y  Y  Y  Y
+               (Between Bowling and Dumbarton East)
 
-
-     October 2009                               88
+     October 2009                               86

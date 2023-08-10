@@ -8,46 +8,55 @@
                                     oooo oooo oooo oooo RA
                                                      4347/2 47/4 47/7
                                                                  56 57 58 Notes
-     route                           M  Ch  M  Ch 00000 00000 00 000 000 000 ooooooooooooooooooooooooo
-     SC165MHY  Niddrie South Jn – Niddrie West Jn
-                                      7  06  6  3010 Y  Y  Y  Y  Y  Y  Y
-
-     SC165SUB2 Niddrie West Jn – Gorgie Jn
-                                      6  30  0  4510 Y  Y  Y  Y  Y  Y  Y
-
-     SC165GGE  Gorgie Jn – Haymarket West Jn
-                                      0  00  0  4110 Y  Y  Y  Y  Y  Y  Y
-
-     SC167CKT  Craiglockhart Jn – Slateford Jn
-                                      0  00  0  4810 Y  Y  Y  Y  Y  Y  Y
-
-     SC169SUB2 Gorgie Jn – Haymarket Central Jn
-                                      0  45  0  1110 Y  Y  Y  Y  Y  Y  Y
-
-     SC171ECM9 Waverley East End – Edinburgh Waverley
+     route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
+     SC145MLG2 Change of ELR – Mallaig0  00 39  395  Y  R1 R4 R1 N  R1 N R1 30mph over bridge 29 (6m 18ch)
+                                                        R2 R5 R2    R2   R2 20mph over bridge 051 (Drumsalie) (10m
+                                                        R3    R3    R3      19ch)
+                                                                         R3 10mph over bridge 134 (31m 04ch)
+                                                                         R4 Class 47/4 locomotives that conform to RA6
+                                                                            shall apply those restrictions applicable to
+                                                                            the Class 47/2
+                                                                         R5 Route prohibited to Class 47/4 locomotives
+                                                                            that conform to RA7
+     SC147ECM8 Route Boundary (LN600) (Heaton South
+                                      69 67  9  6710 Y  Y  Y  Y  Y  Y  Y
+               Jn) – Prestonpans Jn
+     SC147ECM8 Prestonpans Jn – Calton South Tunnel
+                                      9  67  0  2910 Y  Y  Y  Y  Y  Y  Y
+     SC147ECM9 Calton South Tunnel – Waverley East End
+                                      0  29  0  2110 Y  Y  Y  Y  Y  Y  Y
+     SC147ECM9 Waverley East End – Edinburgh Waverley
                                       0  21  0  0010 Y  Y  Y  Y  Y  Y  Y
-
-     SC171EGM4 Edinburgh Waverley – Waverley West End
+     SC147EGM4 Edinburgh Waverley – Waverley West End
                                       0  00  0  1510 Y  Y  Y  Y  Y  Y  Y
                (South Lines)
-
-     SC171ECN1 Edinburgh Waverley – Waverley West End
+     SC147ECN1 Edinburgh Waverley – Waverley West End
                                       0  00  0  1510 Y  Y  Y  Y  Y  Y  Y
                (North Lines)
-
-     SC171EGM3 Waverley West End – Haymarket (South
+     SC147EGM3 Waverley West End – Haymarket (South
                                       0  15  1  1910 Y  Y  Y  Y  Y  Y  Y
                Lines)
-
-     SC171ECN2 Waverley West End – Haymarket (North
+     SC147ECN2 Waverley West End – Haymarket (North
                                       0  15  1  1910 Y  Y  Y  Y  Y  Y  Y
                Lines)
-
-     SC171EGM2 Haymarket – Haymarket East Jn (South
+     SC147EGM2 Haymarket – Haymarket East Jn (South
                                       46 02 45  7210 Y  Y  Y  Y  Y  Y  Y
                Lines)
+     SC147ECN2 Haymarket – Haymarket East Jn (North
+                                      1  19  1  2910 Y  Y  Y  Y  Y  Y  Y
+               Lines)
+     SC147EGM2 Haymarket East Jn – Haymarket Central
+                                      45 72 45  3510 Y  Y  Y  Y  Y  Y  Y
+               Jn (South Lines)
+     SC147ECN2 Haymarket East Jn – Haymarket Central
+                                      1  29  1  6610 Y  Y  Y  Y  Y  Y  Y
+               Jn (North Lines)
+     SC147EGM2 Haymarket Central Jn – Haymarket West
+                                      45 35 44  7310 Y  Y  Y  Y  Y  Y  Y
+               Jn (South Lines)
+     SC147ECN2 Haymarket Central Jn – Haymarket West
+                                      1  66  2  4110 Y  Y  Y  Y  Y  Y  Y
+               Jn (North Lines)
+     SC149NBK  North Berwick – Drem Jn22 22 18  155  Y  N  N  N  N  N  N
 
-
-
-
-     October 2009                               91A
+     October 2009                               90

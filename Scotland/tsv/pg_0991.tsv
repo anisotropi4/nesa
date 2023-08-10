@@ -1,19 +1,21 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
-Scotland	0991	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	Y	Y	Y	Y	Y	E	
-Scotland	0991	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	Y	Y	Y	Y	Y	E R1	R1 60mph Lochwinnoch down platform
-Scotland	0991	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	Y	Y	Y	Y	Y	E R1 R2	R1 40mph Kilwinning up platform R2 Prohibited between Barassie and Change of ELR (Barassie Jn)
-Scotland	0991	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	Y	Y	Y	Y	Y	N	
-Scotland	0991	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	Y	Y	Y	Y	Y	N	
-Scotland	0991	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	Y	Y	Y	Y	Y	Y	N	
-Scotland	0991	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	N	N	N	Y	Y	Y	E	
-Scotland	0991	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	N	N	N	R1	R1	R1	N	R1 Prohibited when overhead line equipment is energised
-Scotland	0991	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	
-Scotland	0991	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	N	
-Scotland	0991	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	N	N	N	Y	Y	Y	N	
-Scotland	0991	SC065	GOU2	Bishopton – Gourock	112	60	126	E	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	N	N	N	Y	Y	Y	Y	
+Scotland	0991	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	N	N	N	Y	Y	Y	Y	
+Scotland	0991	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0991	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	N	N	N	Y	Y	Y	Y	
+Scotland	0991	SC021	COS2	Coltness – Change of ELR	0	09	0	00	N	N	N	N	N	N	N	
+Scotland	0991	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	N	N	N	N	N	N	N	
+Scotland	0991	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	N	N	N	Y	Y	Y	Y	
+Scotland	0991	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	N	N	N	Y	Y	Y	R1	R1 15mph Blantyre up platform
+Scotland	0991	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	N	N	N	N	N	N	N	
+Scotland	0991	SC025	ARG1	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	N	N	N	Y	Y	Y	E R1	R1 Prohibited between Rutherglen North Jn and Bridgeton Yard North End Jn
+Scotland	0991	SC025	ARG2	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC025	ARG2	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC025	ARG2	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	N	N	N	Y	Y	Y	N	
+Scotland	0991	SC027	RNC	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	N	N	N	Y	Y	Y	E	
+Scotland	0991	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	N	N	N	Y	Y	Y	E	
+Scotland	0991	SC029	BRD	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	N	N	N	Y	Y	Y	E	
+Scotland	0991	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	N	N	N	Y	Y	Y	E	
+Scotland	0991	SC031	GSW	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109m 00ch between Eastriggs and Annan)	115	40	109	00	R1	R1	R1	Y	Y	Y	E	R1 Prohibited between Kilmarnock and Old Route boundary (109m 00ch between Eastriggs and Annan)
+Scotland	0991	SC031	GSW	Old Route boundary (109m 00ch between Eastriggs and Annan) – Change of ELR	109	0	33	44	N	N	N	Y	Y	Y	E	
+Scotland	0991	SC031	GBK	Change of ELR – Muirhouse South Jn	23	44	1	18	N	N	N	Y	Y	Y	E	

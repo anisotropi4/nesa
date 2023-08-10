@@ -7,59 +7,35 @@
           ELR Line of Route / Sector Description
                                     M  Ch  M Ch  334  350 380  385  390  397Notes
     route
-    SC123 NBE Bathgate – Change of ELR
-                                    25 18 25  00 Y    N    Y    N    N   N
-    SC123 NEM1Change of ELR – Drumgelloch
-                                    25 00 11  70 Y    N    Y    N    N   N
-    SC123 NEM1Drumgelloch – Change of ELR
-                                    11 70 11  60 Y    N    Y    N    N   N
-    SC123 NEM2Change of ELR – High Street Jn
-                                    11 60  0  28 Y    N    R1   N    N   N  R2 Prohibited between Airdrie
-                                                           R2               and Shettleston (including loops)
-                                                                            when laden
-                                                                            R3 5mph Blairhill Up platform
-    SC123 NEM2High Street Jn – Change of ELR
-                                    0  28  0  00 Y    N    EH   N    N   N  R1 Prohibited between Bellgrove
-                                                           R1               Jn and Change of ELR
-    SC123 NEM3Change of ELR – Finnieston East Jn
-                                    0  00  2  19 Y    N    N    N    N   N
-    SC123 NEM3Finnieston East Jn – Finnieston West
-                                    2  19  2  53 Y    N    N    N    N   N
-              Jn (Down Line)
-    SC123 NEM3Finnieston East Jn – Finnieston West
-                                    2  19  2  53 Y    N    N    N    N   N
-              Jn (Up Line)
-    SC123 NEM3Finnieston West Jn – Hyndland North
-                                    2  53  4  28 Y    N    N    N    N   N
-              Jn
-    SC123 NEM3Hyndland North Jn – Change of ELR
-                                    4  28  4  63 Y    N    N    N    N   N
-    SC123 NEM4Change of ELR – Knightswood North
-                                    0  00  0  74 Y    N    N    N    N   N
-              Jn
-    SC123 NEM5Knightswood North Jn – Change of
-                                    5  67 13  40 Y    N    N    N    N   N
-              ELR (Between Bowling and Dumbarton
-              East)
-    SC123 NEM6Change of ELR (Between Bowling and
-                                   113 46 116 00 Y    N    N    N    N   N
-              Dumbarton East) – Change of ELR
-              (Dumbarton East)
-    SC123 NEM7Change of ELR (Dumbarton East) –
-                                    15 51 22  76 Y    N    N    N    N   N
-              Craigendoran Jn
-    SC123 NEM7Craigendoran Jn – Helensburgh
-                                    22 76 24  31 Y    N    N    N    N   N
-              Central
-    SC125 YKR Hyndland East Jn – Hyndland West Jn
-                                    0  00  0  22 Y    N    N    N    N   N
-    SC125 YKR Hyndland West Jn – Dalmuir Park Jn
-                                    0  22  4  73 Y    N    N    N    N   N
-    SC129 SGN Springburn – Bellgrove Jn
-                                    0  42  2  58 Y    N    EH   N    N   R1 R1 Prohibited between Sighthill
-                                                                         R2 East Jn and Bellgrove
-                                                                            R2 Prohibited Springburn
-                                                                            platform 3
+    SC107 EGM2Haymarket – Haymarket East Jn
+                                    46 02 45  72 Y    Y    Y    N    Y   Y
+              (South Lines)
+    SC107 ECN2Haymarket – Haymarket East Jn (North
+                                    1  19  1  29 Y    N    Y   R2    N   R1 R1 Prohibited Haymarket
+              Lines)                                                        platform 2
+                                                                            R2 Up to 12 cars
+    SC107 EGM2Haymarket East Jn – Haymarket
+                                    45 72 45  35 Y    N    Y   R1    N   Y  R1 Up to 12 cars
+              Central Jn (South Lines)
+    SC107 ECN2Haymarket East Jn – Haymarket
+                                    1  29  1  66 Y    N    Y   R1    N   Y  R1 Up to 12 cars
+              Central Jn (North Lines)
+    SC107 EGM2Haymarket Central Jn – Haymarket
+                                    45 35 44  73 Y    N    Y   R1    N   Y  R1 Up to 12 cars
+              West Jn (South Lines)
+    SC107 ECN2Haymarket Central Jn – Haymarket
+                                    1  66  2  41 Y    N    Y    N    N   N
+              West Jn (North Lines)
+    SC107 EGM1Haymarket West Jn – Cowlairs West
+                                    44 73  1  67 R1   N    Y   R4    N   R2 R2 Prohibited between
+              Jn                                                         R3 Newbridge Jn and Cowlairs West
+                                                                            Jn
+                                                                            R3 Prohibited between Polmont
+                                                                            Jn and Cowlairs West Jn
+                                                                            R4 Limited to 80mph
+                                                                            R5 Up to 12 cars
 
 
-    October 2009                                48I
+
+
+    October 2009                                48G

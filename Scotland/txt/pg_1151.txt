@@ -9,63 +9,66 @@
                                                            Notes
      route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
                                   M   Ch M  Ch
-     SC059LYE Cook St – High St Line (Smithy Lye
-                                    0 00  0 44  8    Y
-              through line)
-     SC059AYR1Cook St – Shields Jn  0 19  1 00 8     Y
-     SC059AYR1Shields Jn – Change of ELR (Paisley
-                                    1 00  6 53 10    Y
-              Gilmour Street)
-     SC059AYR2Change of ELR (Paisley Gilmour
-                                    6 73  7 00 10    Y
-              Street) – Change of ELR (Brown
-              Street crossover)
-     SC059AYR3Change of ELR (Brown Street
-                                    7 00 23 00 10    Y
-              crossover) – Change of ELR (Dalry)
-     SC059AYR4Change of ELR (Dalry) – Change of
-                                   23 00 33 08 10    Y
-              ELR (Barassie Jn)
-     SC059AYR5Change of ELR (Barassie Jn) –
-                                    0 00  2 15 10    Y
-              Change of ELR (Between Troon and
-              Prestwick International Airport)
-     SC059AYR6Change of ELR (Between Troon and
-                                   35 05 38 73 10    Y
-              Prestwick International Airport) –
-              Falkland Jn
-     SC059AYR6Falkland Jn – Ayr    38 73 40 49  8    Y
-     SC059STR1Ayr – Dalrymple Jn   40 49 43 53  8    Y
-     SC059STR1Dalrymple Jn – Change of ELR
-                                   43 53 61 60  5    N
-              (Girvan)
-     SC059STR2Change of ELR (Girvan) – Change of
-                                    0 00 30 67  5    Y
-              ELR (Betweeen Challoch LC and
-              Dunragit SB & LC)
-     SC059STR3Change of ELR (Betweeen Challoch
-                                   46 54 53 05  5    Y
-              LC and Dunragit SB & LC) – Change
-              of ELR (Stranraer Yard GF)
-     SC059STR4Change of ELR (Stranraer Yard GF) –
-                                   53 05 54 05  5    Y
-              End of Line
-     SC061CNL Shields Jn – Corkerhill
-                                    1 05  3 11 10    Y
-     SC061CNL Corkerhill – Paisley Canal
-                                    3 11  7 00 10    Y
-     SC063CND1Cardonald Jn – Cardonald North Jn
-                                    0 00  0 36 9     Y
-     SC063CND2Cardonald North Jn – Deanside
-                                    0 36  1 54 9     Y
-              (Goods Line)
-     SC065GOU1Paisley (Wallneuk Jn) – Change of
-                                    6 34  6 53  7    R1   R1Prohibited between Paisley Gilmour St and Change of ELR on the
-              ELR                                           Up Gourock line
-     SC065GOU2Change of ELR – Bishopton
-                                  107 70 11260  7    R1   R1Prohibited between Change of ELR and Paisley St James on the Up
-                                                            Gourock line
+     SC003ECA2Carstairs East Jn – Slateford Jn
+                                   74 10  9901 8     Y
+     SC003ECA3Slateford Jn – Haymarket East Jn
+                                   99 01 10041 10    Y
+     SC005CSP Carstairs Station Jn – Carstairs East
+                                   73 37  7410 10    Y
+              Jn
+     SC007EGS2Midcalder Jn – Holytown Jn
+                                   23 11  1 27 8     Y
+     SC009LNK Lanark – Lanark Jn    2 45  0 03 5     Y
+     SC011WWD Law Jn – Holytown Jn 84 08 89 66 10    Y
+     SC011EGS2Holytown Jn – Mossend East Jn
+                                    1 27  0 40 10    Y
+     SC011EGS1Mossend East Jn – Uddingston Jn
+                                    3 63  0 03 10    Y
+     SC013SHR Wishaw Central Jn – Shieldmuir Jn
+                                   86 63 87 43 10    Y
+     SC015MDN Mossend East Jn – Mossend North Jn
+                                    0 40  0 06 10    Y
+              (North Curve)
+     SC017MDE Mossend East Jn – Mossend South Jn
+                                    0 31  0 00 10    Y
+              (East Curve)
+     SC019MDW Mossend South Jn – Mossend West
+                                   91 08 91 50 10    Y
+              Jn (West Curve)
+     SC021COS2Coltness – Change of ELR
+                                    0 09  0 00 10    Y
+     SC021COS1Change of ELR – Garriongill Jn
+                                   14 15 15 29 10    Y
+     SC023HMN1Motherwell – Change of ELR
+                                    0 08  1 44 7     R1   R1Prohibited Motherwell platform 3 (Down Hamilton Circle line)
+     SC023HMN2Change of ELR – Newton, Hamilton Jn
+                                    6 61  0 00 7     Y
+     SC024LRK Larkhall – Haughhead Jn
+                                    3 00  0 00 10    Y
+     SC025ARG1Rutherglen Central Jn – Bridgeton
+                                    0 00  0 43 10    Y
+              Yard North End
+     SC025ARG2Bridgeton Yard North End – Exhibition
+                                    0 86  4 03 10    Y
+              Centre
+     SC025ARG2Exhibition Centre – Finnieston East Jn
+                                    4 03  4 41 10    Y
+              (Down line)
+     SC025ARG2Exhibition Centre – Finnieston West
+                                    4 03  4 74 10    Y
+              Jn (Up line)
+     SC027RNC Rutherglen West Jn – Rutherglen
+                                    0 00  0 29 10    Y
+              North Jn (West Curve)
+     SC029CLY Larkfield Jn – Terminus Jn
+                                  101 01 10162 10    Y
+     SC029BRD Terminus Jn – Shields Jn via Through
+                                  101 62 10216 10    Y
+              Terminus lines
+     SC029CLY Terminus Jn – Shields Jn
+                                  101 62 10216 10    Y
 
 
 
-     October 2009                               142
+
+     October 2009                               140

@@ -4,50 +4,73 @@
 
 
      Line of
-          ELR Line of Route / Sector
-                                  oo  oo oo oo RA Loco Gauge
-                                                           Notes
-     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                  M   Ch M  Ch
-     SC193RSW Welsh's Bridge Jn – Rose Street Jn
-                                  117 56 11803 10    Y
-     SC193HGL2Welsh's Bridge Jn – Inverness
-                                  117 56 11803  8    Y
-              Platforms 1-4
-     SC195ECN5Aberdeen – Change of ELR
-                                  241 06 24108 10    Y
-     SC195ANI1Change of ELR – Keith Jn SB
-                                    0 00 53 05 10    Y
-     SC195ANI2Keith Jn SB – Forres 30 40  0 00 10    Y
-     SC195ANI3Forres – Milburn Jn 119 26 14339  8    Y
-     SC195HGL2Milburn Jn – Welsh's Bridge Jn
-                                  117 37 11756  8    Y
-     SC195RSW Welsh's Bridge Jn – Rose Street Jn
-                                  117 56 11803 10    Y
-     SC195HGL2Welsh's Bridge Jn – Inverness
-                                  117 56 11803  8    Y
-              platforms 1-4
-     SC197WRO Kittybrewster – Waterloo Goods
-                                    1 62  0 03 10    Y
-              (Goods line)
-     SC199DFN Keith Jn – End of Line
-                                   53 06 53 36 10    Y
-     SC203RSW Welsh's Bridge Jn – Rose Street Jn
-                                  117 56 11803 10    Y
-     SC203WCK Inverness platforms 5-7 – Rose Street
-                                    0 02  0 18  5    R1   R1Prohibited Inverness platforms 6a and 6b
-              Jn
-     SC203WCK Rose Street Jn – Invergordon
-                                    0 18 31 37  5    R1   R1Prohibited Dingwall Down Siding Loading Dock
-     SC203WCK Invergordon – Georgemas Jn
-                                   31 37 14720  5    Y
-     SC203WCK Georgemas Jn – Wick 147 20 16135  3    Y
-     SC205KYL Dingwall – Kyle of Lochalsh
-                                    0 19 63 64  5    R1   R1Prohibited Achnasheen Engineers Siding Loading Dock
-                                                     R2   R2Prohibited Kyle Of Lochalsh West Sidings run-round loop
-     SC207TSO Georgemas Jn – Thurso 0 00  6 50  5    Y
+          ELR  Line of Route / Sector Description
+                                     ooo oo  oo oo RA  Loco GaugeNotes
+     route                            o  oo  oo oo 000 00000000000
+                                                                ooooooooooooooooooooooooooooooooooooooooooooooo
+                                      M  Ch  M  Ch
+     SC163SUB1 Portobello – Change of ELR
+                                       3  30  4  00 10    Y
+     SC163SUB2 Change of ELR – Niddrie West
+                                       6  69  6  30 10    Y
+     SC164NNS  Newcraighall North Jn – Newcraighall
+                                       4  63  5  02 3     Y
+               South Jn
+     SC164SBO  Newcraighall South Jn – Tweedbank
+                                       5  02 35  34 3     Y
+     SC165MHY  Niddrie South Jn – Niddrie West Jn
+                                       7  06  6  30 10    Y
+     SC165SUB2 Niddrie West Jn – Gorgie Jn
+                                       6  30  0  45 10    Y
+     SC165GGE  Gorgie Jn – Haymarket West Jn
+                                       0  00  0  41 10    Y
+     SC167CKT  Craiglockhart Jn – Slateford Jn
+                                       0  00  0  48 10    Y
+     SC169SUB2 Gorgie Jn – Haymarket Central Jn
+                                       0  45  0  11 10    Y
+     SC171ECM9 Waverley East End – Edinburgh Waverley
+                                       0  21  0  00 10    Y
+     SC171EGM4 Edinburgh Waverley – Waverley West End
+                                       0  00  0  15 10    Y
+               (South lines)
+     SC171ECN1 Edinburgh Waverley – Waverley West End
+                                       0  00  0  15 10    Y
+               (North lines)
+     SC171EGM3 Waverley West End – Haymarket (South
+                                       0  15  1  19 10    Y
+               Lines)
+     SC171ECN2 Waverley West End – Haymarket (North
+                                       0  15  1  19 10    Y
+               lines)
+     SC171EGM2 Haymarket – Haymarket East Jn (South
+                                      46  02 45  72 10    Y
+               lines)
+     SC171ECN2 Haymarket – Haymarket East Jn (North
+                                       1  19  1  29 10    Y
+               lines)
+     SC171EGM2 Haymarket East Jn – Haymarket Central
+                                      45  72 45  35 10    Y
+               Jn (South lines)
+     SC171ECN2 Haymarket East Jn – Haymarket Central
+                                       1  29  1  66 10    Y
+               Jn (North lines)
+     SC171EGM2 Haymarket Central Jn – Haymarket West
+                                      45  35 44  73 10    Y
+               Jn (South lines)
+     SC171ECN2 Haymarket Central Jn – Haymarket West
+                                       1  66  2  41 10    Y
+               Jn (North lines)
+     SC171ECN2 Haymarket West Jn – Dundee Central Jn
+                                       2  41 58  69 8     R1   R1 Prohibited through Kinghorn Tunnel on the Up line
+                                                          R2   R2 Prohibited between Cupar and Leuchars on the Down line
+                                                          R3   R3 Prohibited between Cupar and Leuchars on the Up line
+                                                          R4   R4 Prohibited between Tay Bridge South and Dundee Central Jn on the Up line
+     SC171ECN2 Dundee Central Jn – Dundee
+                                      58  69 59  14 8     Y
+     SC173CWH1 Inverkeithing Central Jn – Change of ELR
+                                      13  21 22  76 8     Y
+               (Cowdenbeath)
 
 
 
-
-     October 2009                               150
+     October 2009                               148

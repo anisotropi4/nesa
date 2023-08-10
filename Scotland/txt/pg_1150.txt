@@ -3,72 +3,55 @@
 
 
 
+     Table D5B – Locomotive Gauge Clearance Table
+                                                                                       Last Updated: 26/02/22
+    To be read in conjunction with General Notes.
+    •  All locomotives conform to locomotive gauge, apart from Class 37s (when fitted with roof horns).
+     • Locomotive gauge restrictions apply to all locomotives unless clearance is provided in the Route Clearance D4 Tables.
+     • Locomotives that are not listed in the Route Clearance D4 Tables are permitted to operate over routes that conform to locomotive gauge, subject to the restrictions detailed in the table
+       below and the conditions stated in the locomotive's Summary of Compatibility document. Locomotives that are not listed in the Route Clearance D4 Tables require a valid Summary of
+       Compatibility prior to operation over Network Rail infrastructure.
+     • Locomotives are PROHIBITED from using crossovers within platforms (code word LACER) unless their overall length (over buffers) is 18.288m or less.
+     • Gauge clearance for steam locomotives is considered under a separate process.
+     The notations (used in these tables) are explained as follows for locomotive gauge conformant vehicles:
+     Y   Route conforms to locomotive gauge without restriction.
+     R   Route conforms (or partly conforms) to locomotive gauge but restrictions apply. See “Notes” column for details.
+     N   Route does not conform to locomotive gauge
      Line of
           ELR Line of Route / Sector
-                                  oo  oo oo oo RA Loco Gauge
+                                  oooo oooo oooo oooo RA
+                                                  Loco Gauge
                                                            Notes
-     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                  M   Ch M  Ch
-     SC031GSW Route Boundary (NW4031) (Gretna
-                                  115 40 10900  8    Y
-              Jn) – Old Route boundary (109m 00ch
-              between Eastriggs and Annan)
-     SC031GSW Old Route boundary (109m 00ch
-                                  109 00 33 44 10    R1   R1Prohibited between Kirkconell and New Cumock on the Up line
-              between Eastriggs and Annan) –
-              Change of ELR
-     SC031GBK Change of ELR – Muirhouse South Jn
-                                   23 44  1 18 10    Y
-     SC031MEN2Muirhouse South Jn – Muirhouse
-                                    0 00  0 15 10    Y
-              Central Jn
-     SC031MEN1Muirhouse Central Jn – Eglinton St Jn
-                                    0 19  0 70 10    R1   R1Prohibited between Muirhouse North Jn and Eglington St Jn on the
-                                                            Up line
-     SC031WCM2 Eglinton St Jn – Bridge St Jn
+     route    Description          M  Ch M  Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+
+     SC001WCM1 Route Boundary (NW4001) (Gretna
+                                   12 30 25 66 10    Y
+              Jn) – Lockerbie
+     SC001WCM1 Lockerbie – Law Jn  25 66 84 08 10    Y
+     SC001WCM2 Law Jn – Junction with Coatbridge
+                                   84 08 89 51 10    Y
+              lines (Lesmahagow Jn)
+     SC001WCM2 Junction with Coatbridge lines
+                                   89 51 95 14  8    Y
+              (Lesmahagow Jn) – Newton East Jn
+     SC001WCM2 Newton East Jn – Newton Hamilton Jn
+                                   95 14 95 47 10    Y
+              (SC0023) via South Connecting line
+     SC001WCM2 Newton Kirkhill Jn (SC0023) – Newton
+                                   95 77 96 34 10    Y
+              West Jn via North Connecting line
+     SC001WCM2 Newton East Jn – Newton West Jn
+                                   95 14  9634 8     Y
+     SC001WCM2 Newton West Jn – Rutherglen East Jn
+                                   96 34  9832 8     Y
+     SC001WCM2 Rutherglen East Jn – Larkfield Jn
+                                   98 32 10065 10    Y
+     SC001WCM2 Larkfield Jn – Eglinton St Jn
+                                  100 65 10139 8     Y
+     SC001WCM2 Eglinton St Jn – Bridge St Jn
                                   101 39 10153 8     Y
-     SC031WCM2 Bridge St Jn – Glasgow Central
+     SC001WCM2 Bridge St Jn – Glasgow Central
                                   101 53 10227 8     Y
-     SC035KSH Bank Jn – Network Rail Boundary
-                                   54 05  5528 10    Y
-              (Connel Park LC) / Knockshinnoch
-     SC036GNN Greenburn Jn – Greenburn Open Cast
-                                    0 00  0 55 10    Y
-              (Goods Line)
-     SC037RIC1Kay Park Jn – Bellfield
-                                    0 00  1 06 10    Y
-     SC037RIC2Bellfield – Riccarton (Goods Line)
-                                    2 20  1 75 10    Y
-     SC039BAK Kilmarnock – Barassie 0 05  7 56 10    R1   R1Prohibited between Gatehead and Shewalton Moor on the Single line
-     SC045EKE East Kilbride – Busby Jn
-                                    7 60  0 40 5     R1   R1Prohibited between Bushby Jn and East Kilbride on the Down line
-                                                     R2   R2Prohibited between Bushby Jn and East Kilbride on the Up line
-     SC047LFS2Muirhouse South Jn – Change of ELR
-                                    1 19  0 61 10    Y
-     SC047LFS1Change of ELR – Larkfield Jn
-                                  101 17 10101 10    Y
-     SC049TSS Muirhouse Central Jn – Terminus Jn
-                                    0 04  0 40 10    Y
-     SC051CTC Muirhouse Central Jn – Cathcart North
-                                    5 19  1 63 3     R1   R1Prohibited between Muirhouse Central Jn and Pollokshields West on
-              Jn (via Cathcart)                             the Down line (Inner) Cathcart Circle
-     SC051CTC Cathcart North Jn – Muirhouse North
-                                    1 63  0 00  7    Y
-              Jn (via Crosshill)
-     SC053NNH Neilston – Cathcart West Jn
-                                  108 45 10077 5     Y
-     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill
-                                   95 53  9577 10    Y
-              Jn
-     SC055KHL Newton Kirkhill Jn – Cathcart West Jn
-                                   95 77 10077  7    Y
-     SC057CNC Cathcart East Jn – Cathcart North Jn
-                                    0 45  0 00  7    Y
-     SC059WCM2 Glasgow Central – Bridge St Jn
-                                  102 27 10153  8    Y
-     SC059AYR1Bridge St Jn – Cook St0 00  0 19  8    Y
-
-
-
-
-     October 2009                               141
+     SC003ECA1Carstairs South Jn – Carstairs East Jn
+                                   73 17  7348 10    Y
+     October 2009                               139

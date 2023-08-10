@@ -1,22 +1,18 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1030	SC001	WCM2	Newton West Jn – Rutherglen East Jn	96	34	98	32	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
-Scotland	1030	SC001	WCM2	Rutherglen East Jn – Larkfield Jn	98	32	100	65	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
-Scotland	1030	SC001	WCM2	Larkfield Jn – Eglinton St Jn	100	65	101	39	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
-Scotland	1030	SC001	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	Y	Y	R1	Y	Y	R1 Up to 10 cars
-Scotland	1030	SC001	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	Y	Y	Y	R2	R1	Y	R1 Prohibited Glasgow Central platforms 3, 4, 5, 6, 7, 8, 12, 13 & 14 R2 Up to 10 cars
-Scotland	1030	SC003	ECA1	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	Y	N	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC003	ECA2	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC003	ECA3	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC005	CSP	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	Y	N	Y	N	N	N	
-Scotland	1030	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	Y	Y	N	R1	N	N	R1 Up to 12 cars
-Scotland	1030	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1030	SC021	COS2	Coltness – Change of ELR	0	09	0	00	N	N	N	N	N	N	
-Scotland	1030	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	N	N	N	N	N	N	
-Scotland	1030	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	Y	N	Y	R1	Y	Y	R1 Up to 12 cars
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
+Scotland	1030	SC193	HGL2	Welsh's Bridge Jn – Inverness platforms 1 - 4	117	56	118	03	N	N	N	N	N	H	
+Scotland	1030	SC195	ECN5	Aberdeen – Change of ELR	241	06	241	08	N	N	N	N	N	H	
+Scotland	1030	SC195	ANI1	Change of ELR – Keith Jn SB	0	00	53	05	N	N	N	N	N	H	
+Scotland	1030	SC195	ANI2	Keith Jn SB – Forres	30	40	0	00	N	N	N	N	N	H	
+Scotland	1030	SC195	ANI3	Forres – Milburn Jn	119	26	143	39	N	N	N	N	N	H	
+Scotland	1030	SC195	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	N	N	H	
+Scotland	1030	SC195	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	H	
+Scotland	1030	SC195	HGL2	Welsh's Bridge Jn – Inverness Platforms 1 - 4	117	56	118	03	N	N	N	N	N	H	
+Scotland	1030	SC197	WRO	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	N	N	N	N	N	N	
+Scotland	1030	SC199	DFN	Keith Jn – End of Line	53	06	53	36	N	N	N	N	N	H	
+Scotland	1030	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	H	
+Scotland	1030	SC203	WCK	Inverness Platforms 5 - 7 – Rose Street Jn	0	02	0	18	N	N	N	N	N	N	
+Scotland	1030	SC203	WCK	Rose Street Jn – Invergordon	0	18	31	37	N	N	N	N	N	H	
+Scotland	1030	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	N	N	N	N	N	H	
+Scotland	1030	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	N	N	N	N	N	H	
+Scotland	1030	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	N	N	N	N	N	H	
+Scotland	1030	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	N	N	N	N	N	H	

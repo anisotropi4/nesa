@@ -1,26 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
-Scotland	0992	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	N	N	N	Y	Y	Y	N	
-Scotland	0992	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	N	N	N	Y	Y	Y	N	
-Scotland	0992	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	N	N	N	Y	Y	Y	N	
-Scotland	0992	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	N	N	N	Y	Y	Y	N	
-Scotland	0992	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	N	N	N	Y	Y	Y	N	
-Scotland	0992	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	N	N	
-Scotland	0992	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	N	N	N	Y	Y	Y	N	
-Scotland	0992	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	N	
-Scotland	0992	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	N	N	N	N	N	N	
-Scotland	0992	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	N	
-Scotland	0992	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	N	
-Scotland	0992	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	N	
-Scotland	0992	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC093	SCM2	Mossend South – Whifflet North Jn	91	08	94	05	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC093	SCM3	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC093	SCM3	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC097	SYE	Whifflet South Jn – Sunnyside Jn (Goods Line)	9	63	8	43	N	N	N	R1	R1	R1	E	R1 15mph maximum speed
-Scotland	0992	SC099	RSL2	Whifflet North Jn – Change of ELR	0	00	0	34	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC099	RSL1	Change of ELR – Langloan Jn	6	59	6	34	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC099	RCB	Langloan Jn – Rutherglen East Jn	6	34	0	04	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	N	N	N	Y	Y	Y	Y	
-Scotland	0992	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC031	MEN2	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC031	MEN1	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC031	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC031	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	N	N	N	Y	Y	Y	Y	
+Scotland	0992	SC035	KSH	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	N	N	N	N	N	N	N	
+Scotland	0992	SC036	GNN	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	N	N	N	N	N	N	N	
+Scotland	0992	SC037	RIC1	Kay Park Jn – Bellfield	0	00	1	06	N	N	N	N	N	N	N	
+Scotland	0992	SC037	RIC2	Bellfield – Riccarton (Goods Line)	2	20	1	75	N	N	N	N	N	N	N	
+Scotland	0992	SC039	BAK	Kilmarnock – Barassie	0	05	7	56	Y	Y	Y	Y	Y	Y	E	
+Scotland	0992	SC045	EKE	East Kilbride – Busby Jn	7	60	0	40	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC047	LFS2	Muirhouse South Jn – Change of ELR	1	19	0	61	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC047	LFS1	Change of ELR – Larkfield Jn	101	17	101	01	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC049	TSS	Muirhouse Central Jn – Terminus Jn	0	04	0	40	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC051	CTC	Muirhouse Central Jn – Cathcart North Jn (via Cathcart)	5	19	1	63	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC051	CTC	Cathcart North Jn – Muirhouse North Jn (via Crosshill)	1	63	0	00	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC053	NNH	Neilston – Cathcart West Jn	108	45	100	77	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC055	WCM2	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC055	KHL	Newton Kirkhill Jn – Cathcart West Jn	95	77	100	77	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC057	CNC	Cathcart East Jn – Cathcart North Jn	0	45	0	00	N	N	N	Y	Y	Y	N	
+Scotland	0992	SC059	WCM2	Glasgow Central – Bridge St Jn	102	27	101	53	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC059	AYR1	Bridge St Jn – Cook St	0	00	0	19	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC059	LYE	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	N	N	N	Y	N	Y	E	
+Scotland	0992	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	N	N	N	Y	Y	Y	E	
+Scotland	0992	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	Y	Y	Y	Y	Y	Y	E	

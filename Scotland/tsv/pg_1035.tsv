@@ -1,16 +1,16 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1035	SC093	SCM3	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	R1	N	R1	R2	N	N	R3 Prohibited between Limit of Electrification (Cumbernauld) and Greenhill Lower Jn R4 Up to 12 cars
-Scotland	1035	SC097	SYE	Whifflet South Jn – Sunnyside Jn (Goods Line)	9	63	8	43	R1	N	N	N	N	N	R2 15mph maximum speed
-Scotland	1035	SC099	RSL2	Whifflet North Jn – Change of ELR	0	00	0	34	Y	Y	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1035	SC099	RSL1	Change of ELR – Langloan Jn	6	59	6	34	Y	Y	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1035	SC099	RCB	Langloan Jn – Rutherglen East Jn	6	34	0	04	Y	Y	Y	R1	N	Y	R1 Up to 10 cars
-Scotland	1035	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	Y	R1	Y	R2	N	Y	R1 Class 350/4 only R2 Up to 10 cars
-Scotland	1035	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1035	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1035	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	Y	N	Y	R1 R4	N	R1 R2 R3	R1 Prohibited between Change of ELR and Sighthill East Jn R2 Prohibibted between Sighthill West Jn and Cowlairs West Jn R3 Prohibted Springburn platform 3 R4 Up to 12 cars
-Scotland	1035	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1035	SC106	PNS	Sighthill West Jn – Cowlairs South Jn (Chord Line)	0	30	0	00	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1035	SC107	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	E	Y	R2	R1	Y	R1 Prohibited Edinburgh Waverley platforms 1, 3, 4 & 20 R2 Up to 12 cars
-Scotland	1035	SC107	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	Y	Y	R2	R1	Y	R1 Prohibited Edinburgh Waverley platforms 12, 13 & 14 R2 Up to 12 cars
-Scotland	1035	SC107	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	N	Y	R2	R1	Y	R1 Prohibited Edinburgh Waverley platforms 1, 15, 16, 17, 18 & 20 R2 Up to 12 cars
-Scotland	1035	SC107	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	R1	Y	Y	R1 Up to 10 cars
+Scotland	1035	SC059	LYE	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	N	E	Y	R1	E	N	R1 Up to 12 cars
+Scotland	1035	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	Y	E	Y	R1	Y	E	R1 Up to 12 cars
+Scotland	1035	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	Y	N	Y	R2	N	E R1	R1 Prohibited between Helen Street Jn and Change of ELR (Paisley Gilmour Street) R2 Up to 12 cars
+Scotland	1035	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1035	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	N	Y	R1	N	N	R1 Up to 8 cars
+Scotland	1035	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1035	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	N	Y	R1	N	N	R1 Up to 8 cars
+Scotland	1035	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1035	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1035	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	E R1	E R1	N	N	R1 Prohibited between Townhead Depot and Dalrymple Jn
+Scotland	1035	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	N	N	N	
+Scotland	1035	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	N	N	N	
+Scotland	1035	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	N	N	N	
+Scotland	1035	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	N	N	N	
+Scotland	1035	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	Y	E R1	Y	N	R2	E	R2 Only for access to / from Corkerhill Depot R3 Prohibited between Dumbreck and Corkerhill

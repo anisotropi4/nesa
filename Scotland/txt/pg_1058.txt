@@ -3,45 +3,63 @@
 
 
 
-     SC193RSW  Welsh's Bridge Jn – Rose Street Jn
-                                    117 56118 03 Y  Y  Y  N  N   N  N  Y  N
-     SC193HGL2 Welsh's Bridge Jn – Inverness
-                                    117 56118 03 Y  Y  Y  N  N   N  N  R1 N R1 Prohibited Inverness platform 4
-               platforms 1-4
-     SC195ECN5 Aberdeen – Change of ELR
-                                    241 06241 08 Y  Y  Y  N  N   N  N  Y  N
-     SC195ANI1 Change of ELR – Keith Jn SB
-                                     0  00 53 05 Y  Y  Y  N  N   N  N  Y  N
-     SC195ANI2 Keith Jn SB – Forres 30  40 0  00 Y  Y  Y  N  N   N  N  Y  N
-     SC195ANI3 Forres – Milburn Jn  119 26143 39 Y  Y  Y  N  N   N  N  Y  N
-     SC195HGL2 Milburn Jn – Welsh's Bridge Jn
-                                    117 37117 56 Y  Y  Y  N  N   N  N  N  N
-     SC195RSW  Welsh's Bridge Jn – Rose Street Jn
-                                    117 56118 03 Y  Y  Y  N  N   N  N  Y  N
-     SC195HGL2 Welsh's Bridge Jn – Inverness
-                                    117 56118 03 Y  Y  Y  N  N   N  N  N  N
-               platforms 1-4
-     SC197WRO  Kittybrewster – Waterloo Goods
-                                     1  62 0  03 N  N  N  N  N   N  N  N  N
-               (Goods Line)
-     SC199DFN  Keith Jn – End of Line
-                                    53  06 53 36 Y  Y  Y  N  N   N  N  N  N
-     SC203RSW  Welsh's Bridge Jn – Rose Street Jn
-                                    117 56118 03 Y  Y  Y  N  N   N  N  Y  N
-     SC203WCK  Inverness platforms 5-7 – Rose Street
-                                     0  02 0  18 Y  Y  Y  N  N   N  N  N  N
+     Line of
+          ELR  Line of Route / Sector Description
+                                   ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
+     route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
+                                     M Ch  M  Ch                (MOD)
+     SC165GGE  Gorgie Jn – Haymarket West Jn
+                                     0  00 0  41 Y  Y  Y  N  N   N  N  Y  N
+     SC167CKT  Craiglockhart Jn – Slateford Jn
+                                     0  00 0  48 Y  Y  Y  N  N   N  N  Y  N
+     SC169SUB2 Gorgie Jn – Haymarket Central Jn
+                                     0  45 0  11 Y  Y  Y  N  N   N  N  Y  N
+     SC171ECM9 Waverley East End – Edinburgh
+                                     0  21 0  00 Y  Y  Y  N  N   N  Y  Y  Y
+               Waverley
+     SC171EGM4 Edinburgh Waverley – Waverley West
+                                     0  00 0  15 Y  Y  Y  N  N   N  Y  Y  Y
+               End (South Lines)
+     SC171ECN1 Edinburgh Waverley – Waverley West
+                                     0  00 0  15 Y  Y  Y  N  N   N  Y  Y  Y
+               End (North Lines)
+     SC171EGM3 Waverley West End – Haymarket
+                                     0  15 1  19 Y  Y  Y  N  N   N  Y  Y  Y
+               (South Lines)
+     SC171ECN2 Waverley West End – Haymarket
+                                     0  15 1  19 Y  Y  Y  N  N   N  Y  Y  R1 R1Prohibited between 00m 32 ch to
+               (North Lines)                                                   Haymarket (North lines)
+     SC171EGM2 Haymarket – Haymarket East Jn (South
+                                    46  02 45 72 Y  Y  Y  N  N   N  Y  Y  Y
+               Lines)
+     SC171ECN2 Haymarket – Haymarket East Jn (North
+                                     1  19 1  29 Y  Y  Y  N  N   N  Y  Y  N
+               Lines)
+     SC171EGM2 Haymarket East Jn – Haymarket
+                                    45  72 45 35 Y  Y  Y  N  N   N  Y  Y  N
+               Central Jn (South Lines)
+     SC171ECN2 Haymarket East Jn – Haymarket
+                                     1  29 1  66 Y  Y  Y  N  N   N  Y  Y  N
+               Central Jn (North Lines)
+     SC171EGM2 Haymarket Central Jn – Haymarket
+                                    45  35 44 73 Y  Y  Y  N  N   N  Y  Y  N
+               West Jn (South Lines)
+     SC171ECN2 Haymarket Central Jn – Haymarket
+                                     1  66 2  41 Y  Y  Y  N  N   N  N  Y  N
+               West Jn (North Lines)
+     SC171ECN2 Haymarket West Jn – Dundee Central
+                                     2  41 58 69 Y  Y  Y  N  N   N  N  Y  N
                Jn
-     SC203WCK  Rose Street Jn – Invergordon
-                                     0  18 31 37 Y  Y  Y  N  N   N  N  R1 N R1 Prohibited Ness Viaduct –
-                                                                               Invergordon
-     SC203WCK  Invergordon – Georgemas Jn
-                                    31  37147 20 Y  Y  Y  N  N   N  N  N  N
-     SC203WCK  Georgemas Jn – Wick  147 20161 35 Y  Y  Y  N  N   N  N  N  N
-     SC205KYL  Dingwall – Kyle of Lochalsh
-                                     0  19 63 64 Y  Y  Y  N  N   N  N  N  N
-     SC207TSO  Georgemas Jn – Thurso 0  00 6  50 Y  Y  Y  N  N   N  N  N  N
+     SC171ECN2 Dundee Central Jn – Dundee
+                                    58  69 59 14 Y  Y  Y  N  N   N  N  Y  N
+     SC173CWH1 Inverkeithing Central Jn – Change of
+                                    13  21 22 76 Y  Y  Y  N  N   N  N  Y  N
+               ELR (Cowdenbeath)
+     SC173CWH2 Change of ELR (Cowdenbeath) –
+                                     0  00 0  70 Y  Y  Y  N  N   N  N  Y  N
+               Change of ELR (Lochgelly)
 
 
 
 
-     October 2009                               60A
+     October 2009                               59

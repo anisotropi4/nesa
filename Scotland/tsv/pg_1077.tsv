@@ -1,5 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-Scotland	1077	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	5	R1 R2 R3 R5	R1 R2 R3 R5	R1 R2 R3 R5 R6	R1 R2 R4 R5	N	N	R1 R2 R4 R5	R1 R2 R4 R5 R6	N	R1 20mph over bridge 292 (115m 09ch) R2 20mph over bridge 296 (116m 18ch) R3 Double Heading prohibited R4 Double Heading permitted when hauling wagons which are loaded to a maximum of RA5 R5 If a locomotive fails north of Invergordon, the authority of the Infrastructure Manager's Structures Engineer must be obtained before an assisting locomotive is permitted to proceed towards the failed train R6 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
-Scotland	1077	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	3	R1	R1	R1 R2	R1	N	N	R1	R1 R2	N	R1 10mph over bridge 302/364 (159m 12ch) R2 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
-Scotland	1077	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
-Scotland	1077	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1077	SC178	CWH3	Thornton South Jn – Thornton West Jn	35	38	34	62	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC181	CDC1	Ladybank Jn – Change of ELR	0	03	14	10	8 R1	Y	Y	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1077	SC181	CDC2	Change of ELR – Hilton Jn	44	18	45	66	8 R1	Y	Y	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1077	SC183	SAA	Stirling Middle Jn – Change of ELR	0	00	8	14	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC183	KNE1	Change of ELR – Longannet	0	00	5	62	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC183	KNE1	Longannet – Change of ELR	5	62	14	14	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC183	KNE2	Change of ELR – Charlestown Jn	14	14	15	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	8 R1	Y	Y	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1077	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC191	ECN3	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC191	ECN4	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	10	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1077	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

@@ -8,65 +8,72 @@
                                      oooo oooo oooo oooo RA
                                                        86 87 88 90  91 92 Notes
      route                            M  Ch  M  Ch 000000 000   000000 000 ooooooooooooooooooooooooo
-     SC181CDC1 Ladybank Jn – Change of ELR
-                                       0  03 14  108   N  N  Y   N  N  N R1 RA Change
-                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                   R1
-     SC181CDC2 Change of ELR – Hilton Jn
-                                      44  18 45  668   N  N  Y   N  N  N R1 RA Change
-                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                   R1
-     SC183SAA  Stirling Middle Jn – Change of ELR
-                                       0  00  8  1410  N  N  Y   N  N  N
-     SC183KNE1 Change of ELR – Longannet
-                                       0  00  5  6210  N  N  Y   N  N  N
-     SC183KNE1 Longannet – Change of ELR
-                                       5  62 14  148   N  N  Y   N  N  N
-     SC183KNE2 Change of ELR – Charlestown Jn
-                                      14  14 15  398   N  N  Y   N  N  N
-     SC189CRE  Westfield – Change of Mileage
-                                      28  77 33  048   N  N  Y   N  N  N
-     SC189CRE  Change of Mileage – Redford Jn (Goods
-                                      33  28 33  458   N  N  Y   N  N  N
-               Line)
-     SC191ECN2 Dundee Central Jn – Dundee
-                                      58  69 59  148   N  N  Y   N  N  N R1 RA Change
-                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                   R1
-     SC191ECN2 Dundee – Camperdown Jn 59  14 59  7710  N  N  Y   N  N  N
-     SC191ECN3 Camperdown Jn – Change of ELR
-                                       0  21 17  1710  N  N  Y   N  N  N
-               (Arbroath SB)
-     SC191ECN4 Change of ELR (Arbroath SB) – Change
-                                      17  55 33  2810  N  N  Y   N  N  N
-               of ELR (Montrose)
-     SC191ECN5 Change of ELR (Montrose) – Craiginches
-                                      203 11 239 5510  N  N  Y   N  N  N
-     SC191ECN5 Craiginches – Aberdeen 239 55 241 0610  N  N  Y   N  N  N
-     SC193HGL1 Perth South Jn – Change of ELR
-                                      150 61 158 3810  N  N  Y   N  N  N
-     SC193HGL2 Change of ELR – Stanley Jn
-                                       7  02  7  0710  N  N  Y   N  N  N
-     SC193HGL2 Stanley Jn – Milburn Jn 7  07 143 398   N  N  Y   N  N  N
-     SC193HGL2 Milburn Jn – Welsh's Bridge Jn
-                                      117 37 117 568   N  N  Y   N  N  N
-     SC193RSW  Welsh's Bridge Jn – Rose Street Jn
-                                      117 56 118 0310  N  N  Y   N  N  N
-     SC193HGL2 Welsh's Bridge Jn – Inverness platforms
-                                      117 56 118 038   N  N  Y   N  N  N
-               1-4
-     SC195ECN5 Aberdeen – Change of ELR
-                                      241 06 241 0810  N  N  Y   N  N  N
-     SC195ANI1 Change of ELR – Keith Jn SB
-                                       0  00  53 0510  N  N  Y   N  N  N
-     SC195ANI2 Keith Jn SB – Forres    30 40  0  0010  N  N  Y   N  N  N
-     SC195ANI3 Forres – Milburn Jn    119 26 143 398   N  N  Y   N  N  N
-     SC195HGL2 Milburn Jn – Welsh's Bridge Jn
-                                      117 37 117 568   N  N  Y   N  N  N
-     SC195RSW  Welsh's Bridge Jn – Rose Street Jn
-                                      117 56 118 0310  N  N  Y   N  N  N
-     SC195HGL2 Welsh's Bridge Jn – Inverness platforms
-                                      117 56 118 038   N  N  Y   N  N  N
-               1-4
 
-     October 2009                               123
+     SC147ECN2 Haymarket Central Jn – Haymarket West
+                                       1  66  2  4110  N  N  Y   N  N  Y
+               Jn (North Lines)
+     SC149NBK  North Berwick – Drem Jn22  22 18  155   N  N  N   Y  N  N
+     SC151LHS1 Portobello – Leith South Yard (Goods
+                                       0  00  2  2010  N  N  Y   N  N  N
+               Line)
+     SC153CPH  Craigentinny – Powderhall (Goods Line)
+                                       0  00  1  7810  N  N  Y   N  N  N
+     SC155MHL1 Monktonhall Jn – Change of ELR
+                                       0  11  5  6010  Y  Y  Y   Y  Y  Y
+     SC155MHL2 Change of ELR – Millerhill East Jn
+                                       1  40  0  2810  Y  Y  Y   Y  Y  Y
+     SC155MHL3 Millerhill East Jn – Millerhill Yard (Goods
+                                       0  00  0  1910  Y  Y  Y   Y  Y  Y
+               Line)
+     SC157MLE  Millerhill South Jn – Millerhill East Jn
+                                       0  09  0  2810  N  N  Y   N  N  N
+               (Goods Line)
+     SC159NDE2 Millerhill West Jn – Millerhill South Jn /
+                                       6  52  5  7210  N  N  Y   N  N  N
+               Millerhill Yard
+     SC161NDE1 Millerhill Yard – Junction with Niddrie
+                                       5  52  3  3610  Y  Y  Y   Y  Y  Y
+               West Line
+     SC161SUB1 Junction with Niddrie West Line –
+                                       3  36  3  3010  Y  Y  Y   Y  Y  Y
+               Portobello
+     SC161MHL4 Newcraighall East Jn – Network Rail /
+                                      00  00 00  08N   N  N  N   N  N  N
+               Abellio Scotrail Boundary
+     SC163SUB1 Portobello – Change of ELR
+                                       3 30  4  00 10  N  N  Y   N  N  N
+     SC163SUB2 Change of ELR – Niddrie West
+                                       6 69  6  30 10  N  N  Y   N  N  N
+     SC164NNS  Newcraighall North Jn – Newcraighall
+                                       4 63  5  02 3   N  N  N   N  N  N
+               South Jn
+     SC164SBO  Newcraighall South Jn – Tweedbank
+                                       5 02  35 34 3   N  N  N   N  N  N
+     SC165MHY  Niddrie South Jn – Niddrie West Jn
+                                       7 06   6 30 10  N  N  Y   N  N  N
+     SC165SUB2 Niddrie West Jn – Gorgie Jn
+                                       6 30   0 45 10  N  N  Y   N  N  N
+     SC165GGE  Gorgie Jn – Haymarket West Jn
+                                       0 00   0 41 10  N  N  Y   N  N  N
+     SC167CKT  Craiglockhart Jn – Slateford Jn
+                                       0 00   0 48 10  N  N  Y   N  N  N
+     SC169SUB2 Gorgie Jn – Haymarket Central Jn
+                                       0 45   0 11 10  N  N  Y   N  N  N
+     SC171ECM9 Waverley East End – Edinburgh Waverley
+                                       0 21   0 00 10  Y  Y  Y   Y  Y  Y
+     SC171EGM4 Edinburgh Waverley – Waverley West
+                                       0 00   0 15 10  Y  Y  Y   Y  Y  Y
+               End (South Lines)
+     SC171ECN1 Edinburgh Waverley – Waverley West
+                                       0 00  0  15 10  Y  Y  Y   Y  Y  Y
+               End (North Lines)
+     SC171EGM3 Waverley West End – Haymarket (South
+                                       0 15  1  19 10  Y  Y  Y   Y  Y  Y
+               Lines)
+     SC171ECN2 Waverley West End – Haymarket (North
+                                       0 15  1  19 10  Y  Y  Y   Y  Y  Y
+               Lines)
+
+
+
+     October 2009                               121

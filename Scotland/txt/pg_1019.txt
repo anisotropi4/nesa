@@ -11,55 +11,59 @@
                                                 314   318 320/3320/4 322  325 Notes
      route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
                                                                               ooo
-     SC059AYR1Shields Jn – Change of ELR (Paisley
-                                    1  00  6  53  Y    Y    Y    Y    Y    H
-              Gilmour Street)
-     SC059AYR2Change of ELR (Paisley Gilmour
-                                    6  73  7  00  Y    Y    Y    Y    Y    H
-              Street) – Change of ELR (Brown Street
-              crossover)
-     SC059AYR3Change of ELR (Brown Street
-                                    7  00 23  00  Y    Y    Y    Y    Y    H
-              crossover) – Change of ELR (Dalry)
-     SC059AYR4Change of ELR (Dalry) – Change of
-                                    23 00 33  08  Y    Y    Y    Y    Y    H
-              ELR (Barassie Jn)
-     SC059AYR5Change of ELR (Barassie Jn) –
-                                    0  00  2  15  Y    Y    Y    Y    Y    H
-              Change of ELR (Between Troon and
-              Prestwick International Airport)
-     SC059AYR6Change of ELR (Between Troon and
-                                    35 05 38  73  Y    Y    Y    Y    Y    H
-              Prestwick International Airport) –
-              Falkland Jn
-     SC059AYR6Falkland Jn – Ayr     38 73 40  49  Y    Y    Y    Y    Y    H
-     SC059STR1Ayr – Dalrymple Jn    40 49 43  53 N     N    N    N    N    H
-     SC059STR1Dalrymple Jn – Change of ELR
-                                    43 53 61  60 N     N    N    N    N    H
-              (Girvan)
-     SC059STR2Change of ELR (Girvan) – Change of
-                                    0  00 30  67 N     N    N    N    N    H
-              ELR (Betweeen Challoch LC and
-              Dunragit SB & LC)
-     SC059STR3Change of ELR (Betweeen Challoch
-                                    46 54 53  05 N     N    N    N    N    H
-              LC and Dunragit SB & LC) – Change of
-              ELR (Stranraer Yard GF)
-     SC059STR4Change of ELR (Stranraer Yard GF) –
-                                    53 05 54  05 N     N    N    N    N    H
-              End of Line
-     SC061CNL Shields Jn – Corkerhill
-                                    1  05  3  11  Y    Y    Y    Y    R1   H  R1 Only for access to / from
-                                                                                 Shields Depot
-     SC061CNL Corkerhill – Paisley Canal
-                                    3  11  7  00  Y    Y    Y    Y    N    N
-     SC063CND1Cardonald Jn – Cardonald North Jn
-                                    0  00  0  36 N     N    N    N    N    N
-     SC063CND2Cardonald North Jn – Deanside
-                                    0  36  1  54 N     N    N    N    N    N
-              (Goods Line)
-     SC065GOU1Paisley (Wallneuk Jn) – Change of
-                                    6  34  6  53  Y    Y    Y    Y    Y    H
-              ELR
+     SC011EGS1Mossend East Jn – Uddingston Jn
+                                    3  63  0  03  Y    Y    Y    Y    Y    Y
+     SC013SHR Wishaw Central Jn – Shieldmuir Jn
+                                    86 63 87  43  Y    Y    Y    N    Y    Y
+     SC015MDN Mossend East Jn – Mossend North Jn
+                                    0  40  0  06  Y    Y    Y    Y    Y    Y
+              (North Curve)
+     SC017MDE Mossend East Jn – Mossend South Jn
+                                    0  31  0  00  Y    Y    Y    Y    Y    Y
+              (East Curve)
+     SC019MDW Mossend South Jn – Mossend West Jn
+                                    91 08 91  50  Y    Y    Y    Y    Y    Y
+              (West Curve)
+     SC021COS2Coltness – Change of ELR
+                                    0  09  0  00  N    N    N    N    N    N
+     SC021COS1Change of ELR – Garriongill Jn
+                                    14 15 15  29  N    N    N    N    N    N
+     SC023HMN1Motherwell – Change of ELR
+                                    0  08  1  44  Y    Y    Y    Y    Y    H
+     SC023HMN2Change of ELR – Newton, Hamilton Jn
+                                    6  61  0  00  Y    Y    Y    Y    Y    H
+     SC024LRK Larkhall – Haughhead Jn
+                                    3  00  0  00  Y    Y    N    Y    N    H
+     SC025ARG1Rutherglen Central Jn – Bridgeton Yard
+                                    0  00  0  43  Y    Y    Y    Y    Y    H
+              North End
+     SC025ARG2Bridgeton Yard North End – Exhibition
+                                    0  86  4  03  Y    Y    Y    Y    Y    H
+              Centre
+     SC025ARG2Exhibition Centre – Finnieston East Jn
+                                    4  03  4  41  Y    Y    Y    Y    Y    H
+              (Down line)
+     SC025ARG2Exhibition Centre – Finnieston West Jn
+                                    4  03  4  74  Y    Y    Y    Y    Y    H
+              (Up line)
+     SC027RNC Rutherglen West Jn – Rutherglen North
+                                    0  00  0  29  Y    Y    Y    Y    E    H
+              Jn (West Curve)
+     SC029CLY Larkfield Jn – Terminus Jn
+                                   101 01 101 62  Y    Y    Y    Y    Y    Y
+     SC029BRD Terminus Jn – Shields Jn via Through
+                                   101 62 102 16  Y    Y    Y    Y    Y    Y
+              Terminus lines
+     SC029CLY Terminus Jn – Shields Jn
+                                   101 62 102 16  Y    Y    Y    Y    Y    Y
+     SC031GSW Route Boundary (NW4031) (Gretna Jn)
+                                   115 40 109 00  N    N    N    N    N    H
+              – Old Route boundary (109m 00ch
+              between Eastriggs and Annan)
+     SC031GSW Old Route boundary (109m 00ch
+                                   109  0 33  44  N    N    N    N    N    H  R1 Prohibited Kilmarnock
+              between Eastriggs and Annan) –                               R1    platforms 1, 2 (Bay platforms)
+              Change of ELR                                                      &4
 
-     October 2009                               38
+
+     October 2009                               36

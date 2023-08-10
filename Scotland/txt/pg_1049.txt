@@ -8,54 +8,59 @@
                                    ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
      route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
                                      M Ch  M  Ch                (MOD)
-     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill
-                                    95  53 95 77 Y  Y  Y  N  N   N  Y  N  Y
-               Jn
-     SC055KHL  Newton Kirkhill Jn – Cathcart West Jn
-                                    95  77100 77 Y  Y  Y  N  N   N  Y  Y  N
-     SC057CNC  Cathcart East Jn – Cathcart North Jn
-                                     0  45 0  00 Y  Y  Y  N  N   N  N  Y  N
-     SC059WCM2 Glasgow Central – Bridge St Jn
-                                    102 27101 53 Y  Y  Y  N  N   N  Y  N  Y
-     SC059AYR1 Bridge St Jn – Cook St0  00 0  19 Y  Y  Y  N  N   N  N  Y  E
-     SC059LYE  Cook St – High St Line (Smithy Lye
-                                     0  00 0  44 Y  Y  Y  N  N   N  N  N  N
-               through line)
-     SC059AYR1 Cook St – Shields Jn  0  19 1  00 Y  Y  Y  N  N   N  N  Y  E
-     SC059AYR1 Shields Jn – Change of ELR (Paisley
-                                     1  00 6  53 Y  Y  Y  N  N   N  N  R1 N R1 Prohibited 02m 40 ch – Change of
-               Gilmour Street)                                                 ELR (Paisley Gilmour Street)
-     SC059AYR2 Change of ELR (Paisley Gilmour
-                                     6  73 7  00 Y  Y  Y  N  N   N  N  N  N
-               Street) – Change of ELR (Brown Street
-               crossover)
-     SC059AYR3 Change of ELR (Brown Street
-                                     7  00 23 00 Y  Y  Y  N  N   N  N  N  N
-               crossover) – Change of ELR (Dalry)
-     SC059AYR4 Change of ELR (Dalry) – Change of
-                                    23  00 33 08 Y  Y  Y  N  N   N  N  N  N
-               ELR (Barassie Jn)
-     SC059AYR5 Change of ELR (Barassie Jn) – Change
-                                     0  00 2  15 Y  Y  Y  N  N   N  N  N  N
-               of ELR (Between Troon and Prestwick
-               International Airport)
-     SC059AYR6 Change of ELR (Between Troon and
-                                    35  05 38 73 Y  Y  Y  N  N   N  N  N  N
-               Prestwick International Airport) –
-               Falkland Jn
-     SC059AYR6 Falkland Jn – Ayr    38  73 40 49 Y  Y  Y  N  N   N  N  N  N
-     SC059STR1 Ayr – Dalrymple Jn   40  49 43 53 Y  Y  Y  N  N   N  N  N  N
-     SC059STR1 Dalrymple Jn – Change of ELR
-                                    43  53 61 60 Y  Y  Y  N  N   N  N  N  N
-               (Girvan)
-     SC059STR2 Change of ELR (Girvan) – Change of
-                                     0  00 30 67 Y  Y  Y  N  N   N  N  N  N
-               ELR (Betweeen Challoch LC and
-               Dunragit SB & LC)
-     SC059STR3 Change of ELR (Betweeen Challoch LC
-                                    46  54 53 05 Y  Y  Y  N  N   N  N  N  N
-               and Dunragit SB & LC) – Change of
-               ELR (Stranraer Yard GF)
+     SC003ECA2 Carstairs East Jn – Slateford Jn
+                                    74  10 99 01 Y  Y  Y  N  N   N  Y  Y  Y
+     SC003ECA3 Slateford Jn – Haymarket East Jn
+                                    99  01100 41 Y  Y  Y  N  N   N  Y  Y  Y
+     SC005CSP  Carstairs Station Jn – Carstairs East Jn
+                                    73  37 74 10 Y  Y  Y  N  N   N  Y  Y  Y
+     SC007EGS2 Midcalder Jn – Holytown Jn
+                                    23  11 1  27 Y  Y  Y  N  N   N  Y  Y  N
+     SC009LNK  Lanark – Lanark Jn    2  45 0  03 Y  Y  N  N  N   N  N  N  N
+     SC011WWD  Law Jn – Holytown Jn 84  08 89 66 Y  Y  Y  N  N   N  Y  Y  N
+     SC011EGS2 Holytown Jn – Mossend East Jn
+                                     1  27 0  40 Y  Y  Y  N  N   N  Y  Y  N
+     SC011EGS1 Mossend East Jn – Uddingston Jn
+                                     3  63 0  03 Y  Y  Y  N  N   N  Y  Y  N
+     SC013SHR  Wishaw Central Jn – Shieldmuir Jn
+                                    86  63 87 43 Y  Y  Y  N  N   N  Y  Y  N
+     SC015MDN  Mossend East Jn – Mossend North Jn
+                                     0  40 0  06 Y  Y  Y  N  N   N  Y  Y  N
+               (North Curve)
+     SC017MDE  Mossend East Jn – Mossend South Jn
+                                     0  31 0  00 Y  Y  Y  N  N   N  Y  Y  N
+               (East Curve)
+     SC019MDW  Mossend South Jn – Mossend West Jn
+                                    91  08 91 50 Y  Y  Y  N  N   N  Y  Y  N
+               (West Curve)
+     SC021COS2 Coltness – Change of ELR
+                                     0  09 0  00 N  N  N  N  N   N  N  N  N
+     SC021COS1 Change of ELR – Garriongill Jn
+                                    14  15 15 29 N  N  N  N  N   N  N  N  N
+     SC023HMN1 Motherwell – Change of ELR
+                                     0  08 1  44 Y  Y  Y  N  N   N  Y  Y  N
+     SC023HMN2 Change of ELR – Newton, Hamilton Jn
+                                     6  61 0  00 Y  Y  Y  N  N   N  Y  Y  N
+     SC024LRK  Larkhall – Haughhead Jn
+                                     3  00 0  00 Y  Y  Y  N  N   N  N  N  N
+     SC025ARG1 Rutherglen Central Jn – Bridgeton Yard
+                                     0  00 0  43 Y  Y  Y  N  N   N  N  Y  N
+               North End
+     SC025ARG2 Bridgeton Yard North End – Exhibition
+                                     0  86 4  03 Y  Y  Y  N  N   N  N  Y  N
+               Centre
+     SC025ARG2 Exhibition Centre – Finnieston East Jn
+                                     4  03 4  41 Y  Y  Y  N  N   N  N  Y  N
+               (Down line)
+     SC025ARG2 Exhibition Centre – Finnieston West Jn
+                                     4  03 4  74 Y  Y  Y  N  N   N  N  Y  N
+               (Up line)
+     SC027RNC  Rutherglen West Jn – Rutherglen North
+                                     0  00 0  29 Y  Y  Y  N  N   N  N  Y  N
+               Jn (West Curve)
+     SC029CLY  Larkfield Jn – Terminus Jn
+                                    101 01101 62 Y  Y  Y  N  N   N  N  Y  N
 
 
-     October 2009                               52
+
+     October 2009                               50

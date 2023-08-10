@@ -7,53 +7,61 @@
           ELR Line of Route / Sector Description
                                     M  Ch  M Ch  334  350 380  385  390  397Notes
     route
-    SC131 HST Connection to Smithy Lye through line
-                                    2  00  2  35 N    E    Y    N    N   N
-              – Shields Jn
-    SC133 MGE Westerton Jn – Milngavie
-                                    6  19  9  35 Y    N    N    N    N   N
-    SC135 BCH Dalreoch Jn – Balloch 16 39 20  38 Y    N    N    N    N   N
-    SC136 HYD Hyndland North Jn – Hyndland West Jn
-                                    0  00  0  16 Y    N    N    N    N   N
-    SC141 WHL Craigendoran Jn – Crianlarich Jn
-                                    0  01 36  30 N    N    N    N    N   N
-    SC141 WHL Crianlarich Jn – Fort William
-                                    36 30 99  37 N    N    N    N    N   N
-    SC143 OBN1Crianlarich Jn – Lower Crianlarich GF
-                                    0  00  0  44 N    N    N    N    N   N
-    SC143 OBN2Lower Crianlarich GF – Inverhaggernie
-                                    30 23 31  00 N    N    N    N    N   N
-              No.1 LC
-    SC143 OBN2Inverhaggernie No.1 LC – Oban
-                                    31 00 71  44 N    N    N    N    N   N
-    SC145 MLG1Fort William – Change of ELR
-                                    0  05  1  27 N    N    N    N    N   N
-    SC145 MLG2Change of ELR – Mallaig
-                                    0  00 39  39 N    N    N    N    N   N
-    SC147 ECM8Route Boundary (LN600) (Heaton
-                                    54 50  9  67 R1   N    EH  R4    N   E  R2 Prohibited between Route
-              South Jn) – Prestonpans Jn                   R2  R5           Boundary (LN600) and Drem
-                                                           R3               R3 Dead hauled only between
-                                                                            Route Boundary (LN600) and
-                                                                            Dunbar
-                                                                            R4 Laden services between
-                                                                            Dunbar and Prestonpans Jn
-                                                                            R5 Prohibited between Route
-                                                                            Boundary (LN600) and Dunbar
-                                                                            R6 Up to 8 cars
-    SC147 ECM8Prestonpans Jn – Calton South Tunnel
-                                    9  67  0  29 Y    E    Y   R2   R1   E  R1 Prohibited between
-                                                                            Prestonpans Jn and Craigentinny
-                                                                            R2 Up to 8 cars
-    SC147 ECM9Calton South Tunnel – Waverley East
-                                    0  29  0  21 Y    E    Y    N    Y   Y
-              End
-    SC147 ECM9Waverley East End – Edinburgh
-                                    0  21  0  00 Y    E    Y   R2   R1   Y  R1 Prohibited Edinburgh
-              Waverley                                                      Waverley platforms 1, 3, 4 & 20
-                                                                            R2 Up to 12 cars
+    SC109 PMT Polmont Jn – Grangemouth Jn
+                                    21 20 23  75 N    N    N   R1    N   Y  R1 Up to 12 cars
+    SC109 PMT Grangemouth Jn – Carmuirs East Jn
+                                    23 75 25  79 N    N    N   R1    N   Y  R1 Up to 12 cars
+    SC109 CMS Carmuirs East Jn – Carmuirs West Jn
+                                    0  40  -0 2  N    N    N   R1    N   Y  R1 Up to 12 cars
+    SC109 SCM3Carmuirs West Jn – Greenhill Lower Jn
+                                   108 74 106 62 N    N    N   R1    N   N  R1 Up to 12 cars
+    SC109 GHL Greenhill Lower Jn – Greenhill Upper
+                                    0  52  0  00 N    N    N   R1    N   N  R1 Up to 12 cars
+              Jn
+    SC110 PMT Carmuirs East Jn – Larbert Jn
+                                    25 79 26  35 N    N    N   R1    N   N  R1 Up to 12 cars
+    SC111 NBE Newbridge Jn – Bathgate
+                                    35 21 25  18 Y    N    Y    N    N   N
+    SC113 DMY Winchburgh Jn – Dalmeny Jn
+                                    34 54 39  03 N    N    N    N    N   N
+    SC115 MRL1Cowlairs West Jn – Maryhill Park Jn
+                                    8  26  5  51 N    N    N    N    N   N
+    SC115 MRL2Maryhill Park Jn – Knightswood North
+                                    4  40  5  67 N    N    N    N    N   N
+              Jn
+    SC1150MLA Maryhill Park Jn – Anniesland
+                                    0  00  0  70 N    N    N    N    N   N
+    SC116 CSN Cowlairs East Jn – Cowlairs North Jn
+                                    0  00  0  21 N    N    N    N    N   N
+    SC117 GMH Grangemouth Jn – Grangemouth
+                                    0  00  3  67 N    N    N   E     N   N  R1 Prohibited between GH12
+                                                               R1           signal and Grangemouth on Down
+                                                               R2           Branch line
+                                                                            R2 Prohibited between GH10
+                                                                            signal an Granemouth on Up
+                                                                            Branch line
+    SC119 GHL Greenhill Upper Jn – Greenhill Lower
+                                    0  00  0  52 N    N    N   R1    N   N  R1 Up to 12 cars
+              Jn
+    SC119 SCM3Greenhill Lower Jn – Carmuirs West Jn
+                                   106 62 108 74 N    N    N   R1    N   N  R1 Up to 12 cars
+
+
+    SC119 SCM3Carmuirs West Jn – Stirling Middle Jn
+                                   108 76 118 08 N    N    N   R1    N   N  R1 Up to 12 cars
+    SC119 SCM3Stirling Middle Jn – Change of ELR
+                                   118 08 123 40 N    N    N   R1    N   N  R1 Up to 12 cars
+              (Dunblane)
+    SC119 SCM4Change of ELR (Dunblane) – Perth
+                                   123 40 150 61 N    N    N    N    N   N
+              South Jn
+    SC119 SCM5Perth South Jn – Change of Mileage
+                                   150 61 151 03 N    N    N    N    N   N
+    SC119 SCM5Change of Mileage – Dundee Central
+                                    21 01  0  36 N    N    N    N    N   N
+              Jn
 
 
 
 
-    October 2009                                48J
+    October 2009                                48H

@@ -1,21 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
-Scotland	1023	SC123	NEM1	Drumgelloch – Change of ELR	11	70	11	60	Y	Y	Y	R1	Y	H	R1 Prohibited with deflated suspension
-Scotland	1023	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	R1	Y	H	R1 Prohibited with deflated suspension
-Scotland	1023	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC131	HST	High Street Jn – Connection to Smithy Lye through line	0	04	2	00	N	N	N	N	N	H	
-Scotland	1023	SC131	HST	Connection to Smithy Lye through line – Shields Jn	2	00	2	35	N	N	N	N	N	H	
-Scotland	1023	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	Y	Y	H	
-Scotland	1023	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	Y	Y	H	
+Scotland	1023	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	Y	Y	Y	Y	N	H	
+Scotland	1023	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	Y	Y	Y	Y	N	H	
+Scotland	1023	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	Y	Y	Y	N	N	H	
+Scotland	1023	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	Y	Y	Y	Y	N	H	
+Scotland	1023	SC106	PNS	Sighthill West Jn – Cowlairs South Jn (Chord Line)	0	30	0	00	Y	Y	Y	N	N	H	
+Scotland	1023	SC107	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	Y	Y	Y	Y	Y	
+Scotland	1023	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	Y	Y	Y	Y	H	
+Scotland	1023	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	Y	Y	Y	Y	H	
+Scotland	1023	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	Y	Y	Y	Y	H	
+Scotland	1023	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	Y	Y	N	Y	H	
+Scotland	1023	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	R1	R1	R1	R1	R1	H	R1 Prohibited between Newbridge Jn and Cowlairs West Jn
+Scotland	1023	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	N	N	N	N	N	H	
+Scotland	1023	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	N	N	N	N	N	H	

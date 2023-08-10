@@ -8,58 +8,59 @@
                                    ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
      route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
                                      M Ch  M  Ch                (MOD)
-     SC123NEM2 Change of ELR – High Street Jn
-                                    11  60 0  28 Y  Y  Y  N  N   N  N  Y  E R1 Prohibited between Change of ELR
-                                                                          R1   and Belgrove Jn
-     SC123NEM2 High Street Jn – Change of ELR
-                                     0  28 0  00 Y  Y  Y  N  N   N  N  Y  N
-     SC123NEM3 Change of ELR – Finnieston East Jn
-                                     0  00 2  19 Y  Y  Y  N  N   N  N  Y  N
-     SC123NEM3 Finnieston East Jn – Finnieston West
-                                     2  19 2  53 Y  Y  Y  N  N   N  N  Y  N
-               Jn (Down Line)
-     SC123NEM3 Finnieston East Jn – Finnieston West
-                                     2  19 2  53 Y  Y  Y  N  N   N  N  Y  N
-               Jn (Up Line)
-     SC123NEM3 Finnieston West Jn – Hyndland North
-                                     2  53 4  28 Y  Y  Y  N  N   N  N  Y  N
-               Jn
-     SC123NEM3 Hyndland North Jn – Change of ELR
-                                     4  28 4  63 Y  Y  Y  N  N   N  N  Y  N
-     SC123NEM4 Change of ELR – Knightswood North
-                                     0  00 0  74 Y  Y  Y  N  N   N  N  Y  N
-               Jn
-     SC123NEM5 Knightswood North Jn – Change of
-                                     5  67 13 40 Y  Y  Y  N  N   N  N  Y  N
-               ELR (Between Bowling and Dumbarton
-               East)
-     SC123NEM6 Change of ELR (Between Bowling and
-                                    113 46116 00 Y  Y  Y  N  N   N  N  Y  N
-               Dumbarton East) – Change of ELR
-               (Dumbarton East)
-     SC123NEM7 Change of ELR (Dumbarton East) –
-                                    15  51 22 76 Y  Y  Y  N  N   N  N  Y  N
-               Craigendoran Jn
-     SC123NEM7 Craigendoran Jn – Helensburgh
-                                    22  76 24 31 Y  Y  Y  N  N   N  N  N  N
-               Central
-     SC125YKR  Hyndland East Jn – Hyndland West Jn
-                                     0  00 0  22 Y  Y  Y  N  N   N  N  Y  N
-     SC125YKR  Hyndland West Jn – Dalmuir Park Jn
-                                     0  22 4  73 Y  Y  Y  N  N   N  N  Y  N
-     SC129SGN  Springburn – Bellgrove Jn
-                                     0  42 2  58 Y  Y  Y  N  N   N  N  Y  E
-     SC131HST  High Street Jn – Connection to Smithy
-                                     0  04 2  00 Y  Y  Y  N  N   N EH  Y  E
-               Lye Through Line
-     SC131HST  Connection to Smithy Lye Through Line
-                                     2  00 2  35 Y  Y  Y  N  N   N EH  Y  E
-               – Shields Jn
-     SC133MGE  Westerton Jn – Milngavie
-                                     6  19 9  35 Y  Y  Y  N  N   N  N  N  N
-     SC135BCH  Dalreoch Jn – Balloch16  39 20 38 Y  Y  Y  N  N   N  N  N  N
-     SC136HYD  Hyndland North Jn – Hyndland West Jn
-                                     0  00 0  16 Y  Y  Y  N  N   N  N  Y  N
+     SC099RSL2 Whifflet North Jn – Change of ELR
+                                     0  00 0  34 Y  Y  Y  N  N   N  N  Y  N
+     SC099RSL1 Change of ELR – Langloan Jn
+                                     6  59 6  34 Y  Y  Y  N  N   N  N  Y  N
+     SC099RCB  Langloan Jn – Rutherglen East Jn
+                                     6  34 0  04 Y  Y  Y  N  N   N  N  Y  N
+     SC101RCB  Coatbridge Jn – Langloan Jn
+                                     7  03 6  34 Y  Y  EH N  N   N  N  Y  N
+     SC103CBD1 Garnqueen North Jn – Gartcosh Jn
+                                     1  33 0  00 Y  Y  Y  N  N   N  N  Y  N
+     SC103CBD2 Gartcosh Jn – Change of ELR
+                                    97  09103 41 Y  Y  Y  N  N   N  N  Y  E
+     SC103SGN  Change of ELR – Cowlairs West Jn
+                                     0  61 -0 20 Y  Y  Y  N  N   N  N  Y  N
+     SC105GHE  Gartsherrie South Jn – Gartcosh Jn
+                                    95  64 97 06 Y  Y  Y  N  N   N  N  Y  E
+     SC106PNS  Sighthill West Jn – Cowlairs South Jn
+                                     0  30 0  00 Y  Y  Y  N  N   N  N  Y  N
+               (Chord Line)
+     SC107ECM9 Waverley East End – Edinburgh
+                                     0  21 0  00 Y  Y  Y  N  N   N  Y  Y  Y
+               Waverley
+     SC107EGM4 Edinburgh Waverley – Waverley West
+                                     0  00 0  15 Y  Y  Y  N  N   N  Y  Y  Y
+               End (South Lines)
+     SC107ECN1 Edinburgh Waverley – Waverley West
+                                     0  00 0  15 Y  Y  Y  N  N   N  Y  Y  Y
+               End (North Lines)
+     SC107EGM3 Waverley West End – Haymarket
+                                     0  15 1  19 Y  Y  Y  N  N   N  Y  Y  Y
+               (South Lines)
+     SC107ECN2 Waverley West End – Haymarket
+                                     0  15 1  19 Y  Y  Y  N  N   N  Y  Y  R1 R1Prohibited between 00m 32 ch to
+               (North Lines)                                                   Haymarket (North lines)
+     SC107EGM2 Haymarket – Haymarket East Jn (South
+                                    46  02 45 72 Y  Y  Y  N  N   N  Y  Y  Y
+               Lines)
+     SC107ECN2 Haymarket – Haymarket East Jn (North
+                                     1  19 1  29 Y  Y  Y  N  N   N  Y  Y  N
+               Lines)
+     SC107EGM2 Haymarket East Jn – Haymarket
+                                    45  72 45 35 Y  Y  Y  N  N   N  Y  Y  N
+               Central Jn (South Lines)
+     SC107ECN2 Haymarket East Jn – Haymarket
+                                     1  29 1  66 Y  Y  Y  N  N   N  Y  Y  N
+               Central Jn (North Lines)
+     SC107EGM2 Haymarket Central Jn – Haymarket
+                                    45  35 44 73 Y  Y  Y  N  N   N  Y  Y  N
+               West Jn (South Lines)
+     SC107ECN2 Haymarket Central Jn – Haymarket
+                                     1  66 2  41 Y  Y  Y  N  N   N  N  Y  N
+               West Jn (North Lines)
 
 
-     October 2009                               56
+
+     October 2009                               55

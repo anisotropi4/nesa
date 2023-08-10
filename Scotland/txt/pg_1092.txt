@@ -5,40 +5,65 @@
 
      Line of
           ELR  Line of Route / Sector Description
-                                     ooo ooo ooo ooo
-                                                  RA 43 47/2 47/4 47/7
+                                    oooo oooo oooo oooo RA
+                                                     4347/2 47/4 47/7
                                                                  56 57 58 Notes
-     route                            o  o  o   o 00000 00000 00 000 000 000 ooooooooooooooooooooooooo
-                                      M  Ch M  Ch
-     SC171ECN2 Haymarket – Haymarket East Jn (North
-                                      1  19  1  2910 Y  Y  Y  Y  Y  Y  Y
-               Lines)
-     SC171EGM2 Haymarket East Jn – Haymarket Central
-                                      45 72 45  3510 Y  Y  Y  Y  Y  Y  Y
-               Jn (South Lines)
-     SC171ECN2 Haymarket East Jn – Haymarket Central
-                                      1  29  1  6610 Y  Y  Y  Y  Y  Y  Y
-               Jn (North Lines)
-     SC171EGM2 Haymarket Central Jn – Haymarket West
-                                      45 35 44  7310 Y  Y  Y  Y  Y  Y  Y
-               Jn (South Lines)
-     SC171ECN2 Haymarket Central Jn – Haymarket West
-                                      1  66  2  4110 Y  Y  Y  Y  Y  Y  Y
-               Jn (North Lines)
-     SC171ECN2 Haymarket West Jn – Dundee Central Jn
-                                      2  41 58  698  Y  Y  Y  Y  Y  Y  Y R1 RA Change
-                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                  R1
-     SC171ECN2 Dundee Central Jn – Dundee
-                                      58 69 59  148  Y  Y  Y  Y  Y  Y  Y R1 RA Change
-                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                  R1
-     SC173CWH1 Inverkeithing Central Jn – Change of ELR
-                                      13 21 22  768  Y  Y  Y  Y  Y  Y  Y R1 RA Change
-               (Cowdenbeath)                                                STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                  R1
+     route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
+
+     SC151LHS1 Portobello – Leith South Yard (Goods
+                                      0  00  2  2010 N  Y  Y  Y  Y  Y  Y
+               Line)
+     SC153CPH  Craigentinny – Powderhall (Goods Line)
+                                      0  00  1  7810 N  Y  Y  Y  Y  Y  Y
+     SC155MHL1 Monktonhall Jn – Change of ELR
+                                      0  11  5  6010 Y  Y  Y  Y  Y  Y  Y
+     SC155MHL2 Change of ELR – Millerhill East Jn
+                                      1  40  0  2810 Y  Y  Y  Y  Y  Y  Y
+     SC155MHL3 Millerhill East Jn – Millerhill Yard (Goods
+                                      0  00  0  1910 Y  Y  Y  Y  Y  Y  Y
+               Line)
+     SC157MLE  Millerhill South Jn – Millerhill East Jn
+                                      0  09  0  2810 Y  Y  Y  Y  Y  Y  Y
+               (Goods Line)
+     SC159NDE2 Millerhill West Jn – Millerhill South Jn /
+                                      6  52  5  7210 Y  Y  Y  Y  Y  Y  Y
+               Millerhill Yard
+     SC161NDE1 Millerhill Yard – Junction with Niddrie West
+                                      5  52  3  3610 Y  Y  Y  Y  Y  Y  Y
+               Line
+     SC161SUB1 Junction with Niddrie West Line –
+                                      3  36  3  3010 Y  Y  Y  Y  Y  Y  Y
+               Portobello
+     SC161MHL4 Newcraighall East Jn – Network Rail /
+                                      00 00 00  08N  N  N  N  N  N  N  N
+               Abellio Scotrail Boundary
+     SC163SUB1 Portobello – Change of ELR
+                                      3  30  4  0010 Y  Y  Y  Y  Y  Y  Y
+     SC163SUB2 Change of ELR – Niddrie West
+                                      6  69  6  3010 Y  Y  Y  Y  Y  Y  Y
+     SC164NNS  Newcraighall North Jn – Newcraighall
+                                      4  63  5  023  N  R1 R1 R1 N  N  N R1 55mph maximum speed
+               South Jn
+     SC164SBO  Newcraighall South Jn – Tweedbank
+                                      5  02 35  343  N  R1 R1 R1 N  N  N R1 55mph maximum speed
+                                                        R2 R2 R2         R2 30mph maximum speed over the following:
+                                                        R3 R3 R3             UB011/070 (27m 46ch)
+                                                           R4                UB011/056 (22m 04ch)
+                                                           R5                UB011/054 (21m 58ch)
+                                                                         R3 RA6 vehicles 30mph maximum speed over the
+                                                                            following:
+                                                                             UB011/072 (28m 31ch)
+                                                                             UB011/067 (25m 44ch)
+                                                                         R4 RA7 vehicles 20mph maximum speed over the
+                                                                            following:
+                                                                             UB011/072 (28m 31ch)
+                                                                             UB011/067 (25m 44ch)
+                                                                         R5 30mph maximum speed over the following:
+                                                                             UB011/061 (24m 03ch)
+                                                                             UB011/060 (23m 59ch)
+                                                                             UB011/053 (21m 40ch)
 
 
 
 
-     October 2009                               91B
+     October 2009                               91

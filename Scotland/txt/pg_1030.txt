@@ -3,63 +3,49 @@
 
 
 
-    Line of
-         ELR  Line of Route / Sector Description
-                                   M  Ch  M  Ch 334  350  380 385  390  397Notes
-    route
-    SC001WCM2 Newton West Jn – Rutherglen East Jn
-                                   96 34  98 32  Y   Y    Y    R2   T    Y R1 Tilt permitted Up and Down
-                                                                    R1        Fast lines only
-                                                                           R2 Up to 10 cars
-    SC001WCM2 Rutherglen East Jn – Larkfield Jn
-                                   98 32 100 65  Y   Y    Y    R2   T    Y R1 Tilt permitted Up and Down
-                                                                    R1        Fast lines only
-                                                                           R2 Up to 10 cars
-    SC001WCM2 Larkfield Jn – Eglinton St Jn
-                                  100 65 101 39  Y   Y    Y    R2   T    Y R1 Tilt permitted Up and Down
-                                                                    R1        Fast lines only
-                                                                           R2 Up to 10 cars
-    SC001WCM2 Eglinton St Jn – Bridge St Jn
-                                  101 39 101 53  Y   Y    Y    R1   Y    Y R1 Up to 10 cars
-    SC001WCM2 Bridge St Jn – Glasgow Central
-                                  101 53 102 27  Y   Y    Y    R2   R1   Y R1 Prohibited Glasgow Central
-                                                                              platforms 3, 4, 5, 6, 7, 8, 12,
-                                                                              13 & 14
-                                                                           R2 Up to 10 cars
-    SC003ECA1 Carstairs South Jn – Carstairs East Jn
-                                   73 17  73 48  Y   Y    N    R1   Y    Y R1 Up to 12 cars
-    SC003ECA2 Carstairs East Jn – Slateford Jn
-                                   74 10  99 01  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC003ECA3 Slateford Jn – Haymarket East Jn
-                                   99 01 100 41  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC005CSP  Carstairs Station Jn – Carstairs East Jn
-                                   73 37  74 10  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC007EGS2 Midcalder Jn – Holytown Jn
-                                   23 11  1  27  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC009LNK  Lanark – Lanark Jn    2 45  0  03  Y   N    Y    N    N    N
-    SC011WWD  Law Jn – Holytown Jn 84 08  89 66  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC011EGS2 Holytown Jn – Mossend East Jn
-                                    1 27  0  40  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC011EGS1 Mossend East Jn – Uddingston Jn
-                                    3 63  0  03  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC013SHR  Wishaw Central Jn – Shieldmuir Jn
-                                   86 63  87 43  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-    SC015MDN  Mossend East Jn – Mossend North Jn
-                                    0 40  0  06  Y   Y    N    R1   N    N R1 Up to 12 cars
-              (North Curve)
-    SC017MDE  Mossend East Jn – Mossend South Jn
-                                    0 31  0  00  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-              (East Curve)
-    SC019MDW  Mossend South Jn – Mossend West Jn
-                                   91 08  91 50  Y   Y    Y    R1   Y    Y R1 Up to 12 cars
-              (West Curve)
-    SC021COS2 Coltness – Change of ELR
-                                    0 09  0  00  N   N    N    N    N    N
-    SC021COS1 Change of ELR – Garriongill Jn
-                                   14 15  15 29  N   N    N    N    N    N
-    SC023HMN1 Motherwell – Change of ELR
-                                    0 08  1  44  Y   N    Y    R1   Y    Y R1 Up to 12 cars
+                                        Scotland Route Sectional Appendix Module SCRC
+
+     Line of
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo
+                                                314   318 320/3320/4 322  325 Notes
+     route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
+                                                                              ooo
+     SC193HGL2Welsh's Bridge Jn – Inverness
+                                   117 56 118 03  N    N    N    N    N    H
+              platforms 1 - 4
+     SC195ECN5Aberdeen – Change of ELR
+                                   241 06 241 08  N    N    N    N    N    H
+     SC195ANI1Change of ELR – Keith Jn SB
+                                    0  00 53  05  N    N    N    N    N    H
+     SC195ANI2Keith Jn SB – Forres  30 40  0  00  N    N    N    N    N    H
+     SC195ANI3Forres – Milburn Jn  119 26 143 39  N    N    N    N    N    H
+     SC195HGL2Milburn Jn – Welsh's Bridge Jn
+                                   117 37 117 56  N    N    N    N    N    H
+     SC195RSW Welsh's Bridge Jn – Rose Street Jn
+                                   117 56 118 03  N    N    N    N    N    H
+     SC195HGL2Welsh's Bridge Jn – Inverness
+                                   117 56 118 03  N    N    N    N    N    H
+              Platforms 1 - 4
+     SC197WRO Kittybrewster – Waterloo Goods
+                                    1  62  0  03  N    N    N    N    N    N
+              (Goods Line)
+     SC199DFN Keith Jn – End of Line53 06 53  36  N    N    N    N    N    H
+     SC203RSW Welsh's Bridge Jn – Rose Street Jn
+                                   117 56 118 03  N    N    N    N    N    H
+     SC203WCK Inverness Platforms 5 - 7 – Rose Street
+                                    0  02  0  18  N    N    N    N    N    N
+              Jn
+     SC203WCK Rose Street Jn – Invergordon
+                                    0  18 31  37  N    N    N    N    N    H
+     SC203WCK Invergordon – Georgemas Jn
+                                    31 37 147 20  N    N    N    N    N    H
+     SC203WCK Georgemas Jn – Wick  147 20 161 35  N    N    N    N    N    H
+     SC205KYL Dingwall – Kyle of Lochalsh
+                                    0  19 63  64  N    N    N    N    N    H
+     SC207TSO Georgemas Jn – Thurso 0  00  6  50  N    N    N    N    N    H
 
 
 
-October 2009                               48A
+
+     October 2009                               47

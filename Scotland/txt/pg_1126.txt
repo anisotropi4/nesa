@@ -3,60 +3,72 @@
 
 
 
-     Line of
-          ELR  Line of Route / Sector Description
-                                     oooo oooo oooo oooo RA
-                                                       86 87 88 90  91 92 Notes
-     route                            M  Ch  M  Ch 000000 000   000000 000 ooooooooooooooooooooooooo
-     SC143OBN1 Crianlarich Jn – Lower Crianlarich GF
-                                       0  00  0  44 5  N  N  N   N  N  N
-     SC143OBN2 Lower Crianlarich GF – Inverhaggernie
-                                      30  23 31  00 5  N  N  N   N  N  N
-               No.1 LC
-     SC143OBN2 Inverhaggernie No.1 LC – Oban
-                                      31  00 71  44 5  N  N  N   N  N  N
-     SC145MLG1 Fort William – Change of ELR
-                                       0  05  1  27 5  N  N  N   N  N  N
-     SC145MLG2 Change of ELR – Mallaig 0  00 39  39 5  N  N  N   N  N  N
-     SC147ECM8 Route Boundary (LN600) (Heaton South)
-                                      69  67  9  6710  Y  Y  Y   Y  Y  Y
-               – Prestonpans Jn
-     SC147ECM8 Prestonpans Jn – Calton South Tunnel
-                                       9  67  0  2910  Y  Y  Y   Y  Y  Y
-     SC147ECM9 Calton South Tunnel – Waverley East End
-                                       0  29  0  2110  Y  Y  Y   Y  Y  Y
-     SC147ECM9 Waverley East End – Edinburgh
-                                       0  21  0  0010  Y  Y  Y   Y  Y  Y
-               Waverley
-     SC147EGM4 Edinburgh Waverley – Waverley West
-                                       0  00  0  1510  Y  Y  Y   Y  Y  Y
-               End (South Lines)
-     SC147ECN1 Edinburgh Waverley – Waverley West
-                                       0  00  0  1510  Y  Y  Y   Y  Y  Y
-               End (North Lines)
-     SC147EGM3 Waverley West End – Haymarket (South
-                                       0  15  1  1910  Y  Y  Y   Y  Y  Y
-               Lines)
-     SC147ECN2 Waverley West End – Haymarket (North
-                                       0  15  1  1910  Y  Y  Y   Y  Y  Y
-               Lines)
-     SC147EGM2 Haymarket – Haymarket East Jn (South
-                                      46  02 45  7210  Y  Y  Y   Y  Y  Y
-               Lines)
-     SC147ECN2 Haymarket – Haymarket East Jn (North
-                                       1  19  1  2910  Y  Y  Y   Y  Y  Y
-               Lines)
-     SC147EGM2 Haymarket East Jn – Haymarket Central
-                                      45  72 45  3510  Y  Y  Y   Y  Y  Y
-               Jn (South Lines)
-     SC147ECN2 Haymarket East Jn – Haymarket Central
-                                       1  29  1  6610  Y  Y  R1  Y  Y  Y Prohibited Haymarket East Jn - Haymarket
-               Jn (North Lines)                                          Central Jn on the Up North
-     SC147EGM2 Haymarket Central Jn – Haymarket West
-                                      45  35 44  7310  Y  Y  Y   Y  Y  Y
-               Jn (South Lines)
+    Line of ELR
+            Line of Route / Sector Description
+                                      oooo oooo oooo ooo RA
+                                                      86  87 88 90  91 92 Notes
+    route                              M  Ch M  Ch 000 000
+                                                         000    000000 000 ooooooooooooooooooooooooo
 
-
-
-
-     October 2009                              120A
+    SC119SCM5 Perth South Jn – Change of Mileage
+                                       150 61151 03 10 N  N  Y   N  N  N
+    SC119SCM5 Change of Mileage – Dundee Central Jn
+                                        21 01  0 36 10 N  N  Y   N  N  N
+    SC119ECN2 Dundee Central Jn – Dundee58 69 59 14 8  N  N  Y   N  N  N R1 RA Change
+                                                   R1                       STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+    SC123NBE Bathgate – Change of ELR   25 18 25 0010  N  N  Y   N  N  Y
+    SC123NEM1 Change of ELR – Drumgelloch
+                                        25 00 11 7010  N  N  Y   N  N  R1 R1Prohibited Underbridge No.37 at 19m72c on
+                                                                            the Down Main
+    SC123NEM1 Drumgelloch – Change of ELR
+                                        11 70 11 6010 N   N  Y  N   N  Y
+    SC123NEM2 Change of ELR – High Street Jn
+                                        11 60  0 2810 R1  R1 Y  R1  N  R2 R1Prohibited between Change of ELR and
+                                                                       R3   Bellgrove Jn
+                                                                       R4 R2Easterhouse Down platform
+                                                                       R5 R3Overbridge No.72a at 08m 20ch on the Down
+                                                                            Main
+                                                                         R4 Coatdyke Up platform
+                                                                         R5 Prohibited Airdrie Down platform 1
+    SC123NEM2 High Street Jn – Change of ELR
+                                        0  28  0 005   N  N  N   N  N  N
+    SC123NEM3 Change of ELR – Finnieston East Jn
+                                        0  00  2 195   N  N  N   N  N  N
+    SC123NEM3 Finnieston East Jn – Finnieston West Jn (Down
+                                        2  19  2 537   N  N  Y   N  N  N R1 RA Change
+             Line)                                 R1                       STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014
+    SC123NEM3 Finnieston East Jn – Finnieston West Jn (Up Line)
+                                        2  19  2 535   N  N  N   N  N  N R1 RA Change
+                                                   R1                       STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014
+    SC123NEM3 Finnieston West Jn – Hyndland North Jn
+                                        2  53  4 287   N  N  Y   N  N  N
+    SC123NEM3 Hyndland North Jn – Change of ELR
+                                        4  28  4 6310  N  N  Y   N  N  N
+    SC123NEM4 Change of ELR – Knightswood North Jn
+                                        0  00  0 7410  N  N  Y   N  N  N
+    SC123NEM5 Knightswood North Jn – Change of ELR (Between
+                                        5  67 13 4010  N  N  Y   N  N  N
+             Bowling and Dumbarton East)
+    SC123NEM6 Change of ELR (Between Bowling and Dumbarton
+                                       113 46116 005   N  N  Y   N  N  N R1 RA Change
+             East) – Change of ELR (Dumbarton East)R1                       STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+    SC123NEM7 Change of ELR (Dumbarton East) – Craigendoran
+                                        15 51 22 765   N  N  Y   N  N  N R1 RA Change
+             Jn                                    R1                       STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+    SC123NEM7 Craigendoran Jn – Helensburgh Central
+                                        22 76 24 315   N  N  N   N  N  N R1 RA Change
+                                                   R1                       STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+    SC125YKRHyndland East Jn – Hyndland West Jn
+                                        0  00  0 227   N  N  Y   N  N  N R1 RA Change
+                                                   R1                       STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014.
+    SC125YKRHyndland West Jn – Dalmuir Park Jn
+                                        0  22  4 738   N  N  Y   N  N  N R1 RA Change
+                                                   R1                       STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+    SC129SGNSpringburn – Bellgrove Jn   0  42  2 5810  Y  Y  Y   Y  N  Y
+    SC131HSTHigh Street Jn – Connection to Smithy Lye
+                                        0  04  2 008   H  H  Y   H  N  R1 R1Prohibited Underbridge No.37 at 19m72c on
+            Through Line                                                    the Down Main
+    SC131HSTConnection to Smithy Lye Through Line – Shields
+                                        2  00  2 35 8  N  N  Y   N  N  Y
+            Jn
+     October 2009                               119

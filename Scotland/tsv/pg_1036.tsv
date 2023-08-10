@@ -1,8 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1036	SC107	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	N	Y	Y	
-Scotland	1036	SC107	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	N	Y	R2	N	R1	R1 Prohibited Haymarket platform 2 R2 Up to 12 cars
-Scotland	1036	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1036	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1036	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1036	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	N	Y	N	N	N	
-Scotland	1036	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	R1	N	Y	R4	N	R2 R3	R2 Prohibited between Newbridge Jn and Cowlairs West Jn R3 Prohibited between Polmont Jn and Cowlairs West Jn R4 Limited to 80mph R5 Up to 12 cars
+Scotland	1036	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	
+Scotland	1036	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	
+Scotland	1036	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1036	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	Y	N	Y	R1	N	N	R1 Up to 8 cars
+Scotland	1036	SC065	GOU2	Bishopton – Gourock	112	60	126	58	Y	N	R1	R1 R2	N	N	R1 Prohibited Greenock Central Up Bay platform R2 Up to 8 cars
+Scotland	1036	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1036	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1036	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1036	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1036	SC077	ARH	Ardrossan South Beach – Ardrossan Harbour	30	44	31	35	Y	N	Y	R1	N	N	R1 Up to 12 cars
+Scotland	1036	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	N	
+Scotland	1036	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	Y	N	E	E H	N	N	
+Scotland	1036	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	
+Scotland	1036	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	N	N	N	N	N	
+Scotland	1036	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	
+Scotland	1036	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	
+Scotland	1036	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	
+Scotland	1036	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	Y	Y	Y	R1 R2	Y	Y	R1 Prohibted Motherwell to Lesmahagow Jn R2 Up to 12 cars
+Scotland	1036	SC093	SCM2	Mossend South – Whifflet North Jn	91	08	94	05	Y	Y	N	R1	N	Y	R1 Up to 8 cars

@@ -3,46 +3,68 @@
 
 
 
-     Table D2B – Route clearance of electric multiple units
-                                                                               Last Updated: 17/09/2022
-     To be read in conjunction with General Notes.
+                                        Scotland Route Sectional Appendix Module SCRC
 
      Line of
-           ELR Line of Route / Sector
-                                   M   Ch M   Ch  334  350  380 385  390  397Notes
-     route     Description                       000000 000000 000000
-                                                                    000000   ooooooooooooooooooooooo
-     SC001 WCM1Route Boundary (NW4001) (Gretna Jn)
-                                     12 30 25  66 N    Y    EH  R2   T    Y  R1 Tilt permitted Up and Down
-               – Lockerbie                                           R1         Fast lines only
-                                                                             R2 Up to 8 cars
-     SC001 WCM1Lockerbie – Law Jn    25 66 84  08 R1   Y    R2  R4   T    Y  R2 Prohibited between Lockerbie
-                                                                     R3         and Carstairs South Jn
-                                                                             R3 ECS only between Lockerbie
-                                                                                and Carstairs South Jn
-                                                                             R4 Tilt permitted Up and Down
-                                                                                Fast lines only
-                                                                             R5 Up to 8 cars
-     SC001 WCM2Law Jn – Junction with Coatbridge
-                                     84 08 89  51 Y    Y    Y   R2   T    Y  R1 Tilt permitted Up and Down
-               lines (Lesmahagow Jn)                                 R1         Fast lines only
-                                                                             R2 Up to 10 cars
-     SC001 WCM2Junction with Coatbridge lines
-                                     89 51 95  14 Y    Y    Y   R2   T    Y  R1 Tilt permitted Up and Down
-               (Lesmahagow Jn) – Newton East Jn                      R1         Fast lines only
-                                                                             R2 Up to 10 cars
-     SC001 WCM2Newton East Jn – Newton Hamilton Jn
-                                     95 14 95  47 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
-               (SC0023) via South Connecting Line
-     SC001 WCM2Newton Kirkhill Jn (SC0023) – Newton
-                                     95 77 96  34 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
-               West Jn via North Connecting Line
-     SC001 WCM2Newton East Jn – Newton West Jn
-                                     95 14 96  34 Y    Y    Y   R2   T    Y  R1 Tilt permitted Up and Down
-                                                                     R1         Fast lines only
-                                                                             R2 Up to 10 cars
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo
+                                                314   318 320/3320/4 322  325 Notes
+     route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
+                                                                              ooo
+     SC175RHD1Change of ELR – Inverkeithing South
+                                    1  00  0  02  N    N    N    N    N    N
+              Jn (Goods Line)
+     SC176IGE Inverkeithing North Jn – Inverkeithing
+                                    0  33  0  00  N    N    N    N    N    N
+              East Jn (Inverkeithing Curve)
+     SC177MTL1Thornton North Jn – Change of ELR
+                                    0  11  4  65  N    N    N    N    N    N
+     SC177MTL2Change of ELR – Methill Power Station
+                                    7  34  6  48  N    N    N    N    N    N
+              (Goods Line)
+     SC178CWH3Thornton South Jn – Thornton West Jn
+                                    35 38 34  62  N    N    N    N    N    H
+     SC181CDC1Ladybank Jn – Change of ELR
+                                    0  03 14  10  N    N    N    N    N    H
+     SC181CDC2Change of ELR – Hilton Jn
+                                    44 18 45  66  N    N    N    N    N    H
+     SC183SAA Stirling Middle Jn – Change of ELR
+                                    0  00  8  14  N    N    N    N    N    N
+     SC183KNE1Change of ELR – Longannet
+                                    0  00  5  62  N    N    N    N    N    N
+     SC183KNE1Longannet – Change of ELR
+                                    5  62 14  14  N    N    N    N    N    N
+     SC183KNE2Change of ELR – Charlestown Jn
+                                    14 14 15  39  N    N    N    N    N    N
+     SC189CRE Westfield – Change of Mileage
+                                    28 77 33  04  N    N    N    N    N    N
+     SC189CRE Change of Mileage – Redford Jn
+                                    33 28 33  45  N    N    N    N    N    N
+              (Goods Line)
+     SC191ECN2Dundee Central Jn – Dundee
+                                    58 69 59  14  N    N    N    N    N    H
+     SC191ECN2Dundee – Camperdown Jn59 14 59  77  N    N    N    N    N    H
+     SC191ECN3Camperdown Jn – Change of ELR
+                                    0  21 17  17  N    N    N    N    N    H
+              (Arbroath SB)
+     SC191ECN4Change of ELR (Arbroath SB) –
+                                    17 55 33  28  N    N    N    N    N    H
+              Change of ELR (Montrose)
+     SC191ECN5Change of ELR (Montrose) –
+                                   203 11 239 55  N    N    N    N    N    H
+              Craiginches
+     SC191ECN5Craiginches – Aberdeen
+                                   239 55 241 06  N    N    N    N    N    H  R1 Prohibited Aberdeen
+                                                                           R1    platforms 5 & 7
+     SC193HGL1Perth South Jn – Change of ELR
+                                   150 61 158 38  N    N    N    N    N    H
+     SC193HGL2Change of ELR – Stanley Jn
+                                    7  02  7  07  N    N    N    N    N    H
+     SC193HGL2Stanley Jn – Milburn Jn
+                                    7  07 143 39  N    N    N    N    N    N
+     SC193HGL2Milburn Jn – Welsh's Bridge Jn
+                                   117 37 117 56  N    N    N    N    N    H
+     SC193RSW Welsh's Bridge Jn – Rose Street Jn
+                                   117 56 118 03  N    N    N    N    N    H
 
-
-
-
-October 2009                                48
+     October 2009                               46

@@ -11,60 +11,60 @@
                                                 314   318 320/3320/4 322  325 Notes
      route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
                                                                               ooo
-     SC175RHD1Change of ELR – Inverkeithing South
-                                    1  00  0  02 N     N    N    N    N    N
-              Jn (Goods Line)
-     SC176IGE Inverkeithing North Jn – Inverkeithing
-                                    0  33  0  00 N     N    N    N    N    N
-              East Jn (Inverkeithing Curve)
-     SC177MTL1Thornton North Jn – Change of ELR
-                                    0  11  4  65 N     N    N    N    N    N
-     SC177MTL2Change of ELR – Methill Power Station
-                                    7  34  6  48 N     N    N    N    N    N
+     SC147EGM2Haymarket Central Jn – Haymarket
+                                    45 35 44  73  Y    Y    Y    N    Y    H
+              West Jn (South Lines)
+     SC147ECN2Haymarket Central Jn – Haymarket
+                                    1  66  2  41  Y    Y    Y    N    Y    H
+              West Jn (North Lines)
+     SC149NBK North Berwick – Drem Jn
+                                    22 22 18  15  Y    Y    Y    Y    Y    H
+     SC151LHS1Portobello – Leith South Yard (Goods
+                                    0  00  2  20  N    N    N    N    N    N
+              Line)
+     SC153CPH Craigentinny – Powderhall (Goods
+                                    0  00  1  78  N    N    N    N    N    N
+              Line)
+     SC155MHL1Monktonhall Jn – Change of ELR
+                                    0  11  5  60  N    N    N    N    N    N
+     SC155MHL2Change of ELR – Millerhill East Jn
+                                    1  40  0  28  N    N    N    N    N    N
+     SC155MHL3Millerhill East Jn – Millerhill Yard
+                                    0  00  0  19  N    N    N    N    N    N
               (Goods Line)
-     SC178CWH3Thornton South Jn – Thornton West Jn
-                                    35 38 34  62 N     N    N    N    N    H
-     SC181CDC1Ladybank Jn – Change of ELR
-                                    0  03 14  10 N     N    N    N    N    H
-     SC181CDC2Change of ELR – Hilton Jn
-                                    44 18 45  66 N     N    N    N    N    H
-     SC183SAA Stirling Middle Jn – Change of ELR
-                                    0  00  8  14 N     N    N    N    N    N
-     SC183KNE1Change of ELR – Longannet
-                                    0  00  5  62 N     N    N    N    N    N
-     SC183KNE1Longannet – Change of ELR
-                                    5  62 14  14 N     N    N    N    N    N
-     SC183KNE2Change of ELR – Charlestown Jn
-                                    14 14 15  39 N     N    N    N    N    N
-     SC189CRE Westfield – Change of Mileage
-                                    28 77 33  04 N     N    N    N    N    N
-     SC189CRE Change of Mileage – Redford Jn
-                                    33 28 33  45 N     N    N    N    N    N
+     SC157MLE Millerhill South Jn – Millerhill East Jn
+                                    0  09  0  28  N    N    N    N    N    N
               (Goods Line)
-     SC191ECN2Dundee Central Jn – Dundee
-                                    58 69 59  14 N     N    N    N    N    H
-     SC191ECN2Dundee – Camperdown Jn59 14 59  77 N     N    N    N    N    H
-     SC191ECN3Camperdown Jn – Change of ELR
-                                    0  21 17  17 N     N    N    N    N    H
-              (Arbroath SB)
-     SC191ECN4Change of ELR (Arbroath SB) –
-                                    17 55 33  28 N     N    N    N    N    H
-              Change of ELR (Montrose)
-     SC191ECN5Change of ELR (Montrose) –
-                                   203 11 239 55 N     N    N    N    N    H
-              Craiginches
-     SC191ECN5Craiginches – Aberdeen
-                                   239 55 241 06 N     N    N    N    N    H  R1 Prohibited Aberdeen
-                                                                           R1    platforms 5 & 7
-     SC193HGL1Perth South Jn – Change of ELR
-                                   150 61 158 38 N     N    N    N    N    H
-     SC193HGL2Change of ELR – Stanley Jn
-                                    7  02  7  07 N     N    N    N    N    H
-     SC193HGL2Stanley Jn – Milburn Jn
-                                    7  07 143 39 N     N    N    N    N    N
-     SC193HGL2Milburn Jn – Welsh's Bridge Jn
-                                   117 37 117 56 N     N    N    N    N    H
-     SC193RSW Welsh's Bridge Jn – Rose Street Jn
-                                   117 56 118 03 N     N    N    N    N    H
+     SC159NDE2Millerhill West Jn – Millerhill South Jn /
+                                    6  52  5  72  N    N    N    N    N    N
+              Millerhill Yard
+     SC161NDE1Millerhill Yard – Junction with Niddrie
+                                    5  52  3  36  N    N    N    N    R1   H  R1 Prohibited Newcraighall
+              West Line                                                          turnback siding
+     SC161SUB1Junction with Niddrie West Line –
+                                    3  36  3  30  N    N    N    N    Y    H
+              Portobello
+     SC161MHL4Newcraighall East Jn – Network Rail /
+                                    00 00  00 08  N    N    N    N    N    N
+              Abellio Scotrail Boundary
+     SC163SUB1Portobello – Change of ELR
+                                    3  30  4  00  N    N    N    N    N    H
+     SC163SUB2Change of ELR – Niddrie West
+                                    6  69  6  30  N    N    N    N    N    H
+     SC164NNS Newcraighall North Jn – Newcraighall
+                                    4  63  5 02   N    N    N    N    N    N
+              South Jn
+     SC164SBO Newcraighall South Jn – Tweedbank
+                                    5  02 35 34   N    N    N    N    N    N
+     SC165MHY Niddrie South Jn – Niddrie West Jn
+                                    7  06  6  30  N    N    N    N    N    H
+     SC165SUB2Niddrie West Jn – Gorgie Jn
+                                    6  30  0  45  N    N    N    N    N    H
+     SC165GGE Gorgie Jn – Haymarket West Jn
+                                    0  00  0  41  N    N    N    N    N    H
+     SC167CKT Craiglockhart Jn – Slateford Jn
+                                    0  00  0  48  N    N    N    N    N    H
+     SC169SUB2Gorgie Jn – Haymarket Central Jn
+                                    0  45  0  11  N    N    N    N    N    H
 
-     October 2009                               46
+     October 2009                               44

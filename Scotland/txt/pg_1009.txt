@@ -6,63 +6,62 @@
                                         Scotland Route Sectional Appendix Module SCRC
 
      Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo
-                                                 170  180 185  220  221 Notes
-     route                          M  Ch M  Ch  0000 00000000 0000 0000 ooooooooooooooooooooooooooo
-     SC123NEM3Finnieston East Jn – Finnieston West Jn
-                                     2  19  2  53 N    N   N    N    N
-              (Up Line)
-     SC123NEM3Finnieston West Jn – Hyndland North Jn
-                                     2  53  4  28 N    N   N    N    N
-     SC123NEM3Hyndland North Jn – Change of ELR
-                                     4  28  4  63 N    N   N    N    N
-     SC123NEM4Change of ELR – Knightswood North Jn
-                                     0  00  0  74 N    N   N    N    N
-     SC123NEM5Knightswood North Jn – Change of ELR
-                                     5  67 13  40 N    N   N    N    N
-              (Between Bowling and Dumbarton East)
-     SC123NEM6Change of ELR (Between Bowling and
-                                    113 46 116 00 N    N   N    N    N
-              Dumbarton East) – Change of ELR
-              (Dumbarton East)
-     SC123NEM7Change of ELR (Dumbarton East) –
-                                     15 51 22  76 N    N   N    N    N
-              Craigendoran Jn
-     SC123NEM7Craigendoran Jn – Helensburgh Central
-                                     22 76 24  31 N    N   N    N    N
-     SC125YKR Hyndland East Jn – Hyndland West Jn
-                                     0  00  0  22 N    N   N    N    N
-     SC125YKR Hyndland West Jn – Dalmuir Park Jn
-                                     0  22  4  73 N    N   N    N    N
-     SC129SGN Springburn – Bellgrove Jn
-                                     0  42  2  58 N    N   N    R1  R1 R1 Prohibited between Sighthill East Jn and
-                                                                          Bellgrove Jn
-     SC131HST High Street Jn – Connection to Smithy
-                                     0  04  2  00 Y    N   N    N    N
-              Lye Through Line
-     SC131HST Connection to Smithy Lye Through Line
-                                     2  00  2  35 Y    N   E    N    N
-              – Shields Jn
-     SC133MGE Westerton Jn – Milngavie
-                                     6  19  9  35 E    N   N    N    N R1 Prohibited between Bearsden and
-                                                  R1                      Milngavie
-     SC135BCH Dalreoch Jn – Balloch  16 39 20  38 N    N   N    N    N
-     SC136HYD Hyndland North Jn – Hyndland West Jn
-                                     0  00  0  16 N    N   N    N    N
-     SC141WHL Craigendoran Jn – Crianlarich Jn
-                                     0  01 36  30 N    N   N    N    N
-     SC141WHL Crianlarich Jn – Fort William
-                                     36 30 99  37 N    N   N    N    N
-     SC143OBN1Crianlarich Jn – Lower Crianlarich GF
-                                     0  00  0  44 N    N   N    N    N
-     SC143OBN2Lower Crianlarich GF – Inverhaggernie
-                                     30 23 31  00 N    N   N    N    N
-              No.1 LC
-     SC143OBN2Inverhaggernie No.1 LC – Oban
-                                     31 00 71  44 N    N   N    N    N
-     SC145MLG1Fort William – Change of ELR
-                                     0  05  1  27 N    N   N    N    N
+          ELR  Line of Route / Sector Description oooo oooo oooo oooo
+                                                  170 180 185  220  221 Notes
+     route                           M  Ch M  Ch  000000000000 0000 0000 ooooooooooooooooooooooooooo
+     SC101RCB  Coatbridge Jn – Langloan Jn
+                                     7  03  6  34 Y    Y   Y    Y    Y
+     SC103CBD1 Garnqueen North Jn – Gartcosh Jn
+                                     1  33  0  00 Y    N   N    N    N
+     SC103CBD2 Gartcosh Jn – Change of ELR
+                                     97 09 103 41 Y    N   N    Y    Y
+     SC103SGN  Change of ELR – Cowlairs West Jn
+                                     0  61  -0 20 Y    N   N    Y    Y
+     SC105GHE  Gartsherrie South Jn – Gartcosh Jn
+                                     95 64 97  06 Y    N   N    Y    Y
+     SC106PNS  Sighthill West Jn – Cowlairs South Jn
+                                     0  30  0  00 Y    N   N    Y    Y
+               (Chord Line)
+     SC107ECM9 Waverley East End – Edinburgh
+                                     0  21  0  00 Y    N   Y    Y    Y
+               Waverley
+     SC107EGM4 Edinburgh Waverley – Waverley West
+                                     0  00  0  15 Y    N   Y    Y    Y
+               End (South Lines)
+     SC107ECN1 Edinburgh Waverley – Waverley West
+                                     0  00  0  15 Y    N   Y    Y    Y
+               End (North Lines)
+     SC107EGM3 Waverley West End – Haymarket (South
+                                     0  15  1  19 Y    N   Y    Y    Y
+               Lines)
+     SC107ECN2 Waverley West End – Haymarket (North
+                                     0  15  1  19 Y    N   Y    Y    Y
+               Lines)
+     SC107EGM2 Haymarket – Haymarket East Jn (South
+                                     46 02 45  72 Y    N   Y    Y    Y
+               Lines)
+     SC107ECN2 Haymarket – Haymarket East Jn (North
+                                     1  19  1  29 Y    N   Y    Y    Y
+               Lines)
+     SC107EGM2 Haymarket East Jn – Haymarket Central
+                                     45 72 45  35 Y    N   Y    Y    Y
+               Jn (South Lines)
+     SC107ECN2 Haymarket East Jn – Haymarket Central
+                                     1  29  1  66 Y    N   Y    Y    Y
+               Jn (North Lines)
+     SC107EGM2 Haymarket Central Jn – Haymarket West
+                                     45 35 44  73 Y    N   Y    Y    Y
+               Jn (South Lines)
+     SC107ECN2 Haymarket Central Jn – Haymarket West
+                                     1  66  2  41 Y    N   Y    Y    Y
+               Jn (North Lines)
+     SC107EGM1 Haymarket West Jn – Cowlairs West Jn
+                                     44 73  1  67 Y    N   R1   Y    Y R1 Prohibited between Polmont Jn and
+                                                                          Cowlairs West Jn
+     SC107EGM1 Cowlairs West Jn – Glasgow Queen
+                                     1  67  0  00 Y    N   N    Y    Y
+               Street
+     SC109PMT  Polmont Jn – Grangemouth Jn
+                                     21 20 23  75 Y    N   Y    Y    Y
 
-
-
-     October 2009                               28
+     October 2009                               26

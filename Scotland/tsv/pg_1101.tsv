@@ -1,19 +1,17 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1101	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	10	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited when overhead line equipment is energised
-Scotland	1101	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	N	Y	N	Y	Y	Y	Y	
-Scotland	1101	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	7 R1	N	R2 R3	N	R2 R3	R2	R2	R2	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 30mph over bridge 179/065 (Black Cart Water) (109m 71ch) R3 30mph over bridge 179/061 (River Gryfe) (110m 42ch)
-Scotland	1101	SC065	GOU2	Bishopton – Gourock	112	60	126	58	5 R1	N	Y	N	Y	Y	R2	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014 R2 Prohibited Greenock Bay platform
-Scotland	1101	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	N	N	N	N	N	N	Y	
-Scotland	1101	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	N	R1 R2 R3 R4	N	N	N	N	Y	R1 Infrastructure maintenance purposes only R2 10mph over bridge 193/027 (37m 5ch) R3 10mph over bridge 193/033 (38m 74ch) R4 10mph over bridge 193/036 (39m 11ch)
-Scotland	1101	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1101	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC047	LFS1	Change of ELR – Larkfield Jn	101	17	101	01	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC049	TSS	Muirhouse Central Jn – Terminus Jn	0	04	0	40	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC051	CTC	Muirhouse Central Jn – Cathcart North Jn (via Cathcart)	5	19	1	63	3	N	R1	N	N	R1	R1	R1	R1 Route prohibited unless authorised by the Infrastructure Manager's structures engineer
+Scotland	1101	SC051	CTC	Cathcart North Jn – Muirhouse North Jn (via Crosshill)	1	63	0	00	7	N	Y	N	Y	Y	Y	Y	
+Scotland	1101	SC053	NNH	Neilston – Cathcart West Jn	108	45	100	77	5	N	R1 R2 R3 R4 R5 R6 R7	N	N	N	N	Y	R1 Infrastructure maintenance purposes only R2 Prohibited from hauling vehicles that exceed RA5 R3 20mph maximum speed R4 Double Heading is prohibited R5 10mph over bridge 120 (104m 49ch) R6 10mph over bridge 128 (103m 26ch) R7 10mph over bridge 137 (101m 23ch)
+Scotland	1101	SC055	WCM2	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	10	N	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC055	KHL	Newton Kirkhill Jn – Cathcart West Jn	95	77	100	77	7	N	Y	N	Y	Y	Y	Y	
+Scotland	1101	SC057	CNC	Cathcart East Jn – Cathcart North Jn	0	45	0	00	7	N	Y	N	Y	Y	Y	Y	
+Scotland	1101	SC059	WCM2	Glasgow Central – Bridge St Jn	102	27	101	53	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	AYR1	Bridge St Jn – Cook St	0	00	0	19	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	LYE	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1101	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	10	Y	Y	Y	Y	Y	Y	Y	

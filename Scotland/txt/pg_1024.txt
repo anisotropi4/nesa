@@ -11,59 +11,61 @@
                                                 314   318 320/3320/4 322  325 Notes
      route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
                                                                               ooo
-     SC136HYD Hyndland North Jn – Hyndland West Jn
-                                    0  00  0  16 N     N    N    Y    Y    H
-     SC141WHL Craigendoran Jn – Crianlarich Jn
-                                    0  01 36  30 N     N    N    N    N    N
-     SC141WHL Crianlarich Jn – Fort William
-                                    36 30 99  37 N     N    N    N    N    N
-     SC143OBN1Crianlarich Jn – Lower Crianlarich GF
-                                    0  00  0  44 N     N    N    N    N    N
-     SC143OBN2Lower Crianlarich GF – Inverhaggernie
-                                    30 23 31  00 N     N    N    N    N    N
-              No.1 LC
-     SC143OBN2Inverhaggernie No.1 LC – Oban
-                                    31 00 71  44 N     N    N    N    N    N
-     SC145MLG1Fort William – Change of ELR
-                                    0  05  1  27 N     N    N    N    N    N
-     SC145MLG2Change of ELR – Mallaig
-                                    0  00 39  39 N     N    N    N    N    N
-     SC147ECM8Route Boundary (LN600) (Heaton
-                                    54 50  9  67  Y    Y    Y    R1   Y    Y  R1 Prohibited between Route
-              South Jn) – Prestonpans Jn                                         Boundary (LN600) and
-                                                                                 Dunbar
-     SC147ECM8Prestonpans Jn – Calton South Tunnel
-                                    9  67  0  29  Y    Y    Y    Y    Y    Y
-     SC147ECM9Calton South Tunnel – Waverley East
-                                    0  29  0  21  Y    Y    Y    Y    Y    Y
-              End
-     SC147ECM9Waverley East End – Edinburgh
-                                    0  21  0  00  Y    Y    Y    Y    Y    Y
-              Waverley
-     SC147EGM4Edinburgh Waverley – Waverley West
-                                    0  00  0  15  Y    Y    Y    Y    Y    Y
-              End (South Lines)
-     SC147ECN1Edinburgh Waverley – Waverley West
-                                    0  00  0  15  Y    Y    Y    Y    Y    Y
-              End (North Lines)
-     SC147EGM3Waverley West End – Haymarket
-                                    0  15  1  19  Y    Y    Y    Y    Y    Y
-              (South Lines)
-     SC147ECN2Waverley West End – Haymarket
-                                    0  15  1  19  Y    Y    Y    Y    Y    Y
-              (North Lines)
-     SC147EGM2Haymarket – Haymarket East Jn
-                                    46 02 45  72  Y    Y    Y    Y    Y    Y
-              (South Lines)
-     SC147ECN2Haymarket – Haymarket East Jn (North
-                                    1  19  1  29  Y    Y    Y    Y    Y    Y
-              Lines)
-     SC147EGM2Haymarket East Jn – Haymarket
-                                    45 72 45  35  Y    Y    Y    Y    Y    H
-              Central Jn (South Lines)
-     SC147ECN2Haymarket East Jn – Haymarket
-                                    1  29  1  66  Y    Y    Y    Y    Y    H
-              Central Jn (North Lines)
+     SC109PMT Grangemouth Jn – Carmuirs East Jn
+                                    23 75 25  79  N    N    N    N    N    H
+     SC109CMS Carmuirs East Jn – Carmuirs West Jn
+                                    0  40  -0 2   N    N    N    N    N    H
+     SC109SCM3Carmuirs West Jn – Greenhill Lower Jn
+                                   108 74 106 62  N    N    N    N    N    H
+     SC109GHL Greenhill Lower Jn – Greenhill Upper
+                                    0  52  0  00  N    N    N    N    N    H
+              Jn
+     SC110PMT Carmuirs East Jn – Larbert Jn
+                                    25 79 26  35  N    N    N    N    N    H
+     SC111NBE Newbridge Jn – Bathgate
+                                    35 21 25  18  Y    Y    Y    Y    Y    H
+     SC113DMY Winchburgh Jn – Dalmeny Jn
+                                    34 54 39  03  N    N    N    N    N    H
+     SC115MRL1Cowlairs West Jn – Maryhill Park Jn
+                                    8  26  5  51  N    N    N    N    N    H
+     SC115MRL2Maryhill Park Jn – Knightswood North
+                                    4  40  5  67  N    N    N    N    N    H
+              Jn
+     SC1150
+          MLA Maryhill Park Jn – Anniesland
+                                    0  00  0  70  N    N    N    N    N    H
+     SC116CSN Cowlairs East Jn – Cowlairs North Jn
+                                    0  00  0  21  N    N    N    N    N    H
+     SC117GMH Grangemouth Jn – Grangemouth
+                                    0  00  3  67  N    N    N    N    N    N
+     SC119GHL Greenhill Upper Jn – Greenhill Lower
+                                    0  00  0  52  N    N    N    N    N    H
+              Jn
+     SC119SCM3Greenhill Lower Jn – Carmuirs West Jn
+                                   106 62 108 74  N    N    N    N    N    H
 
 
-     October 2009                               43
+     SC119SCM3Carmuirs West Jn – Stirling Middle Jn
+                                   108 76 118 08  N    N    N    N    N    H
+     SC119SCM3Stirling Middle Jn – Change of ELR
+                                   118 08 123 40  N    N    N    N    N    H
+              (Dunblane)
+     SC119SCM4Change of ELR (Dunblane) – Perth
+                                   123 40 150 61  N    N    N    N    N    H
+              South Jn
+     SC119SCM5Perth South Jn – Change of Mileage
+                                   150 61 151 03  N    N    N    N    N    H  R1 5mph Perth platform 2
+                                                                           R1
+     SC119SCM5Change of Mileage – Dundee Central
+                                    21 01  0  36  N    N    N    N    N    H  R1 5mph Perth platform 2
+              Jn                                                           R1
+     SC119ECN2Dundee Central Jn – Dundee
+                                    58 69 59  14  N    N    N    N    N    H
+     SC123NBE Bathgate – Change of ELR
+                                    25 18 25  00  Y    Y    Y    N    Y    H
+     SC123NEM1Change of ELR – Drumgelloch
+                                    25 00 11  70  Y    Y    Y    R1   Y    H  R1 Prohibited between Change
+                                                                                 of ELR to Bathgate
+
+
+     October 2009                               41

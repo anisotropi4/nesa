@@ -1,22 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1156	SC147	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	
-Scotland	1156	SC147	EGM4	Edinburgh Waverley – Waverley West End (South lines)	0	00	0	15	10	Y	
-Scotland	1156	SC147	ECN1	Edinburgh Waverley – Waverley West End (North lines)	0	00	0	15	10	Y	
-Scotland	1156	SC147	EGM3	Waverley West End – Haymarket (South lines)	0	15	1	19	10	Y	
-Scotland	1156	SC147	ECN2	Waverley West End – Haymarket (North lines)	0	15	1	19	10	Y	
-Scotland	1156	SC147	EGM2	Haymarket – Haymarket East Jn (South lines)	46	02	45	72	10	Y	
-Scotland	1156	SC147	ECN2	Haymarket – Haymarket East Jn (North lines)	1	19	1	29	10	Y	
-Scotland	1156	SC147	EGM2	Haymarket East Jn – Haymarket Central Jn (South lines)	45	72	45	35	10	Y	
-Scotland	1156	SC147	ECN2	Haymarket East Jn – Haymarket Central Jn (North lines)	1	29	1	66	10	Y	
-Scotland	1156	SC147	EGM2	Haymarket Central Jn – Haymarket West Jn (South lines)	45	35	44	73	10	Y	
-Scotland	1156	SC147	ECN2	Haymarket Central Jn – Haymarket West Jn (North lines)	1	66	2	41	10	Y	
-Scotland	1156	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	5	Y	
-Scotland	1156	SC151	LHS1	Portobello – Leith South Yard (Goods line)	0	00	2	20	10	Y	
-Scotland	1156	SC153	CPH	Craigentinny – Powderhall (Goods line)	0	00	1	78	10	Y	
-Scotland	1156	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	10	Y	
-Scotland	1156	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	10	Y	
-Scotland	1156	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods line)	0	00	0	19	10	Y	
-Scotland	1156	SC157	MLE	Millerhill South Jn – Millerhill East Jn (Goods line)	0	09	0	28	10	Y	
-Scotland	1156	SC159	NDE2	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	10	Y	
-Scotland	1156	SC161	NDE1	Millerhill Yard – Junction with Niddrie West line	5	52	3	36	10	Y	
-Scotland	1156	SC161	SUB1	Junction with Niddrie West line – Portobello	3	36	3	30	10	Y	
+Scotland	1156	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	Y	
+Scotland	1156	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	Y	
+Scotland	1156	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	5	Y	
+Scotland	1156	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	Y	
+Scotland	1156	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	10	Y	
+Scotland	1156	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	Y	
+Scotland	1156	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	
+Scotland	1156	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	10	Y	
+Scotland	1156	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	10	Y	
+Scotland	1156	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	10	Y	
+Scotland	1156	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	10	Y	
+Scotland	1156	SC119	SCM5	Change of Mileage – Dundee Central Jn	21	01	0	36	10	Y	
+Scotland	1156	SC119	ECN2	Dundee Central Jn – Dundee	58	69	59	14	8	Y	
+Scotland	1156	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	10	Y	
+Scotland	1156	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	10	Y	
+Scotland	1156	SC123	NEM1	Drumgelloch – Change of ELR	11	70	11	60	10	Y	
+Scotland	1156	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	10	R1 R2 R3 R4	R1 Prohibited between Blairhill and Sunnyside Jn on the Down line R2 Prohibited between Bellgrove and High Street Jn on the Down line R3 Prohibited between Bellgrove and High Street Jn on the Up line R4 Prohibited High Street platform 2 (Up line)
+Scotland	1156	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	5	R1	R1 Prohibited on the Down line
+Scotland	1156	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	5	R1 R2	R1 Prohibited on the Down line R2 Prohibited between Queen Street and Charing Cross on the Up line
+Scotland	1156	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	7	Y	
+Scotland	1156	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	5	Y	
+Scotland	1156	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	7	Y	
+Scotland	1156	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	10	Y	
+Scotland	1156	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	10	Y	

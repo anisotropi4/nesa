@@ -1,15 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1096	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM1	Lockerbie – Law Jn	25	66	84	08	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC010 applies until 30/09/2014
-Scotland	1096	SC001	WCM2	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Newton East Jn – Newton West Jn	95	14	96	34	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC010 applies until 30/09/2014
-Scotland	1096	SC001	WCM2	Newton West Jn – Rutherglen East Jn	96	34	98	32	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC010 applies until 30/09/2014
-Scotland	1096	SC001	WCM2	Rutherglen East Jn – Larkfield Jn	98	32	100	65	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Larkfield Jn – Eglinton St Jn	100	65	101	39	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC001	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC003	ECA1	Carstairs South Jn – Carstairs East Jn	73	17	73	48	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1096	SC003	ECA2	Carstairs East Jn – Slateford Jn	74	10	99	01	8 R1	Y	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC007 applies until 30/09/2014 R2 60 mph between Haymarket East Jn and bridge 138 (Slateford Road) (98m 72ch)
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1096	SC181	CDC2	Change of ELR – Hilton Jn	44	18	45	66	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC183	SAA	Stirling Middle Jn – Change of ELR	0	00	8	14	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC183	KNE1	Change of ELR – Longannet	0	00	5	62	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC183	KNE1	Longannet – Change of ELR	5	62	14	14	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC183	KNE2	Change of ELR – Charlestown Jn	14	14	15	39	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	8	N	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1096	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC191	ECN3	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC191	ECN4	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	8	Y	Y	Y	Y	Y	Y	Y	)
+Scotland	1096	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC193	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC193	HGL2	Welsh's Bridge Jn – Inverness platforms 1- 4	117	56	118	03	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC195	ECN5	Aberdeen – Change of ELR	241	06	241	08	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC195	ANI1	Change of ELR – Keith Jn SB	0	00	53	05	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC195	ANI2	Keith Jn SB – Forres	30	40	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC195	ANI3	Forres – Milburn Jn	119	26	143	39	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1096	SC195	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	8	Y	Y	Y	Y	Y	Y	Y	

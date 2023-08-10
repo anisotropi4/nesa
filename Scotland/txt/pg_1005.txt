@@ -6,57 +6,63 @@
                                         Scotland Route Sectional Appendix Module SCRC
 
      Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo
-                                                 170  180 185  220  221 Notes
-     route                          M  Ch M  Ch  0000 00000000 0000 0000 ooooooooooooooooooooooooooo
-     SC059AYR1Cook St – Shields Jn   0  19  1  00 E    N   E    Y    Y
-     SC059AYR1Shields Jn – Change of ELR (Paisley
-                                     1  00  6  53 N    N   N    Y    Y
-              Gilmour Street)
-     SC059AYR2Change of ELR (Paisley Gilmour Street)
-                                     6  73  7  00 N    N   N    Y    Y
-              – Change of ELR (Brown Street
-              crossover)
-     SC059AYR3Change of ELR (Brown Street
-                                     7  00 23  00 N    N   N    Y    Y
-              crossover) – Change of ELR (Dalry)
-     SC059AYR4Change of ELR (Dalry) – Change of ELR
-                                     23 00 33  08 N    N   N    Y    Y
-              (Barassie Jn)
-     SC059AYR5Change of ELR (Barassie Jn) – Change
-                                     0  00  2  15 N    N   N    Y    Y
-              of ELR (Between Troon and Prestwick
-              International Airport)
-     SC059AYR6Change of ELR (Between Troon and
-                                     35 05 38  73 N    N   N    Y    Y
-              Prestwick International Airport) –
-              Falkland Jn
-     SC059AYR6Falkland Jn – Ayr      38 73 40  49 N    N   N    R1  R1 R1 Prohibited between Newton Jn and Ayr
-     SC059STR1Ayr – Dalrymple Jn     40 49 43  53 N    N   N    N    N
-     SC059STR1Dalrymple Jn – Change of ELR (Girvan)
-                                     43 53 61  60 N    N   N    N    N
-     SC059STR2Change of ELR (Girvan) – Change of
-                                     0  00 30  67 N    N   N    N    N
-              ELR (Betweeen Challoch LC and
-              Dunragit SB & LC)
-     SC059STR3Change of ELR (Betweeen Challoch LC
-                                     46 54 53  05 N    N   N    N    N
-              and Dunragit SB & LC) – Change of ELR
-              (Stranraer Yard GF)
-     SC059STR4Change of ELR (Stranraer Yard GF) –
-                                     53 05 54  05 N    N   N    N    N
-              End of Line
-     SC061CNL Shields Jn – Corkerhill1  05  3  11 N    N   E    R1  R1 R1 Only for access to / from Shields Depot
-     SC061CNL Corkerhill – Paisley Canal
-                                     3  11  7  00 N    N   N    N    N
-     SC063CND1Cardonald Jn – Cardonald North Jn
-                                     0  00  0  36 N    N   N    N    N
-     SC063CND2Cardonald North Jn – Deanside (Goods
-                                     0  36  1  54 N    N   N    N    N
-              Line)
-     SC065GOU1Paisley (Wallneuk Jn) – Change of ELR
-                                     6  34  6  53 N    N   N    N    N
+          ELR  Line of Route / Sector Description oooo oooo oooo oooo
+                                                  170 180 185  220  221 Notes
+     route                           M  Ch M  Ch  000000000000 0000 0000 ooooooooooooooooooooooooooo
+     SC011EGS2 Holytown Jn – Mossend East Jn
+                                     1  27  0  40 Y    N   Y    Y    Y
+     SC011EGS1 Mossend East Jn – Uddingston Jn
+                                     3  63  0  03 Y    N   Y    Y    Y
+     SC013SHR  Wishaw Central Jn – Shieldmuir Jn
+                                     86 63 87  43 N    N   Y    Y    Y
+     SC015MDN  Mossend East Jn – Mossend North Jn
+                                     0  40  0  06 N    N   Y    N    N
+               (North Curve)
+     SC017MDE  Mossend East Jn – Mossend South Jn
+                                     0  31  0  00 N    N   N    Y    Y
+               (East Curve)
+     SC019MDW  Mossend South Jn – Mossend West Jn
+                                     91 08 91  50 N    N   Y    Y    Y
+               (West Curve)
+     SC021COS2 Coltness – Change of ELR
+                                     0  09  0  00 N    N   N    N    N
+     SC021COS1 Change of ELR – Garriongill Jn
+                                     14 15 15  29 N    N   N    N    N
+     SC023HMN1 Motherwell – Change of ELR
+                                     0  08  1  44 N    N   Y    Y    Y
+     SC023HMN2 Change of ELR – Newton, Hamilton Jn
+                                     6  61  0  00 N    N   Y    Y    Y
+     SC024LRK  Larkhall – Haughhead Jn
+                                     3  00  0  00 N    N   N    N    N
+     SC025ARG1 Rutherglen Central Jn – Bridgeton Yard
+                                     0  00  0  43 N    N   N    N    N
+               North End
+     SC025ARG2 Bridgeton Yard North End – Exhibition
+                                     0  86  4  03 N    N   N    N    N
+               Centre
+     SC025ARG2 Exhibition Centre – Finnieston East Jn
+                                     4  03  4  41 N    N   N    N    N
+               (Down line)
+     SC025ARG2 Exhibition Centre – Finnieston West Jn
+                                     4  03  4  74 N    N   N    N    N
+               (Up line)
+     SC027RNC  Rutherglen West Jn – Rutherglen North
+                                     0  00  0  29 N    N   N    N    N
+               Jn (West Curve)
+     SC029CLY  Larkfield Jn – Terminus Jn
+                                    101 01 101 62 Y    N   E    Y    Y
+     SC029BRD  Terminus Jn – Shields Jn via Through
+                                    101 62 102 16 Y    N   E    Y    Y
+               Terminus lines
+     SC029CLY  Terminus Jn – Shields Jn
+                                    101 62 102 16 Y    N   E    Y    Y
+     SC031GSW  Route Boundary (NW4031) (Gretna Jn)
+                                    115 40 109 00 N    N   Y    Y    Y
+               – Old Route boundary (109m 00ch
+               between Eastriggs and Annan)
+     SC031GSW  Old Route boundary (109m 00ch
+                                    109  0 33  44 N    N   Y    Y    Y
+               between Eastriggs and Annan) –
+               Change of ELR
 
-
-
-     October 2009                               24
+     October 2009                               22

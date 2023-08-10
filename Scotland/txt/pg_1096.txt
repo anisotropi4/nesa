@@ -3,55 +3,65 @@
 
 
 
-     Table D4C – Route clearance of locomotive
-                                                                                       Last Updated: 30/05/2020
-     To be read in conjunction with General Notes.
-    Class 67 – Additional speed restrictions are detailed on the current Vehicle/Infrastructure Summary of Compatibility documentation
-
      Line of
-          ELR  Line of Route / Sector Description ooo ooo ooo ooo
-                                                 RA  60 66 67 68 70  7397/3 Notes
-     route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC001WCM1 Route Boundary (NW4001) (Gretna Jn)
-                                     12 30 25  6610  Y  Y  Y   Y  Y  Y  Y
-               – Lockerbie
-     SC001WCM1 Lockerbie – Law Jn    25 66 84  0810  Y  Y  Y   Y  Y  Y  Y
-     SC001WCM2 Law Jn – Junction with Coatbridge lines
-                                     84 08 89  5110  Y  Y  Y   Y  Y  Y  Y
-               (Lesmahagow Jn)
-     SC001WCM2 Junction with Coatbridge lines
-                                     89 51 95  148   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-               (Lesmahagow Jn) – Newton East Jn  R1                          STNC NC/G1/2010/ICP-RA/SC010 applies until
-                                                                             30/09/2014
-     SC001WCM2 Newton East Jn – Newton Hamilton Jn
-                                     95 14 95  4710  Y  Y  Y   Y  Y  Y  Y
-               (SC0023) via South Connecting Line
-     SC001WCM2 Newton Kirkhill Jn (SC0023) – Newton
-                                     95 77 96  3410  Y  Y  Y   Y  Y  Y  Y
-               West Jn via North Connecting Line
-     SC001WCM2 Newton East Jn – Newton West Jn
-                                     95 14 96  348   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2010/ICP-RA/SC010 applies until
-                                                 R1                          30/09/2014
-     SC001WCM2 Newton West Jn – Rutherglen East Jn
-                                     96 34 98  328   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2010/ICP-RA/SC010 applies until
-                                                 R1                          30/09/2014
-     SC001WCM2 Rutherglen East Jn – Larkfield Jn
-                                     98 32 100 6510  Y  Y  Y   Y  Y  Y  Y
-     SC001WCM2 Larkfield Jn – Eglinton St Jn
-                                    100 65 101 398   Y  Y  Y   Y  Y  Y  Y
-     SC001WCM2 Eglinton St Jn – Bridge St Jn
-                                    101 39 101 538   Y  Y  Y   Y  Y  Y  Y
-     SC001WCM2 Bridge St Jn – Glasgow Central
-                                    101 53 102 278   Y  Y  Y   Y  Y  Y  Y
-     SC003ECA1 Carstairs South Jn – Carstairs East Jn
-                                     73 17 73  4810  Y  Y  Y   Y  Y  Y  Y
-     SC003ECA2 Carstairs East Jn – Slateford Jn
-                                     74 10 99  018   Y  Y  R2  Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2010/ICP-RA/SC007 applies until
-                                                 R1                          30/09/2014
-                                                                          R2 60 mph between Haymarket East Jn and
-                                                                             bridge 138 (Slateford Road) (98m 72ch)
+          ELR  Line of Route / Sector Description
+                                    oooo oooo oooo oooo RA
+                                                     4347/2 47/4 47/7
+                                                                 56 57 58 Notes
+     route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
+     SC181CDC2 Change of ELR – Hilton Jn
+                                      44 18 45  668  Y  Y  Y  Y  Y  Y  Y R1 RA Change
+                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                  R1
+     SC183SAA  Stirling Middle Jn – Change of ELR
+                                      0  00  8  1410 Y  Y  Y  Y  Y  Y  Y
+     SC183KNE1 Change of ELR – Longannet
+                                      0  00  5  6210 Y  Y  Y  Y  Y  Y  Y
+     SC183KNE1 Longannet – Change of ELR
+                                      5  62 14  148  Y  Y  Y  Y  Y  Y  Y
+     SC183KNE2 Change of ELR – Charlestown Jn
+                                      14 14 15  398  Y  Y  Y  Y  Y  Y  Y
+     SC189CRE  Westfield – Change of Mileage
+                                      28 77 33  048  N  Y  Y  Y  Y  Y  Y
+     SC189CRE  Change of Mileage – Redford Jn (Goods
+                                      33 28 33  458  Y  Y  Y  Y  Y  Y  Y
+               Line)
+     SC191ECN2 Dundee Central Jn – Dundee
+                                      58 69 59  148  Y  Y  Y  Y  Y  Y  Y R1 RA Change
+                                                                            STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                  R1
+     SC191ECN2 Dundee – Camperdown Jn 59 14 59  7710 Y  Y  Y  Y  Y  Y  Y
+     SC191ECN3 Camperdown Jn – Change of ELR
+                                      0  21 17  1710 Y  Y  Y  Y  Y  Y  Y
+               (Arbroath SB)
+     SC191ECN4 Change of ELR (Arbroath SB) – Change of
+                                      17 55 33  2810 Y  Y  Y  Y  Y  Y  Y
+               ELR (Montrose)
+     SC191ECN5 Change of ELR (Montrose) – Craiginches
+                                     203 11 239 5510 Y  Y  Y  Y  Y  Y  Y
+     SC191ECN5 Craiginches – Aberdeen239 55 241 0610 Y  Y  Y  Y  Y  Y  Y
+     SC193HGL1 Perth South Jn – Change of ELR
+                                     150 61 158 3810 Y  Y  Y  Y  Y  Y  Y
+     SC193HGL2 Change of ELR – Stanley Jn
+                                      7  02  7  0710 Y  Y  Y  Y  Y  Y  Y
+     SC193HGL2 Stanley Jn – Milburn Jn7  07 143 398  Y  Y  Y  Y  Y  Y  Y )
+     SC193HGL2 Milburn Jn – Welsh's Bridge Jn
+                                     117 37 117 568  Y  Y  Y  Y  Y  Y  Y
+     SC193RSW  Welsh's Bridge Jn – Rose Street Jn
+                                     117 56 118 0310 Y  Y  Y  Y  Y  Y  Y
+     SC193HGL2 Welsh's Bridge Jn – Inverness platforms 1-
+                                     117 56 118 038  Y  Y  Y  Y  Y  Y  Y
+               4
+     SC195ECN5 Aberdeen – Change of ELR
+                                     241 06 241 0810 Y  Y  Y  Y  Y  Y  Y
+     SC195ANI1 Change of ELR – Keith Jn SB
+                                      0  00 53  0510 Y  Y  Y  Y  Y  Y  Y
+     SC195ANI2 Keith Jn SB – Forres   30 40  0  0010 Y  Y  Y  Y  Y  Y  Y
+     SC195ANI3 Forres – Milburn Jn   119 26 143 398  Y  Y  Y  Y  Y  Y  Y
+     SC195HGL2 Milburn Jn – Welsh's Bridge Jn
+                                     117 37 117 568  Y  Y  Y  Y  Y  Y  Y
 
-     October 2009                               95
+
+
+
+     October 2009                               93

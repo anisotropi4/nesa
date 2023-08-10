@@ -9,60 +9,40 @@
                                                      4347/2 47/4 47/7
                                                                  56 57 58 Notes
      route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
-     SC077ARH  Ardrossan South Beach – Adrossan
-                                      30 44 31  3510 Y  Y  Y  Y  Y  Y  Y
-               Harbour
-     SC079HUN  Hunterston – Hunterston Low Level Sdgs
-                                      0  00  0  3610 N  Y  Y  Y  Y  Y  Y
-               (Goods Line)
-     SC081BYL  Byrehill Jn – Dubbs Jn 0  60  0  0010 Y  Y  Y  Y  Y  Y  Y
-     SC085AYH1 Ayr Harbour – Newton Jn (Goods Line)
-                                      0  17  0  0010 N  Y  Y  Y  Y  Y  Y
-     SC087ANN  Newton Jn – Mauchline (Goods Line)
-                                      39 42 50  1610 Y  Y  Y  Y  Y  Y  Y
-     SC089KCH1 Annbank – Change of ELR43 52 48  7310 N  Y  Y  Y  Y  Y  Y
-     SC089KCH2 Change of ELR – Killoch Colliery (Goods
-                                      0  00  3  4310 N  Y  Y  Y  Y  Y  Y
-               Line)
-     SC091WAT  Dalrymple Jn – Chalmerston (Goods Line)
-                                      43 53 52  708  N  Y  Y  Y  Y  Y  Y
-     SC093SCM1 Motherwell – Mossend South
-                                      89 51 91  0810 Y  Y  Y  Y  Y  Y  Y
-     SC093SCM2 Mossend South – Whifflet North Jn
-                                      91 08 94  0510 Y  Y  Y  Y  Y  Y  Y
-     SC093SCM3 Whifflet North Jn – Gartsherrie South Jn
-                                      94 05 95  6410 Y  Y  Y  Y  Y  Y  Y
-               (Limit of OLE)
-     SC093SCM3 Gartsherrie South Jn (Limit of OLE) –
-                                      95 64 106 6310 Y  Y  Y  Y  Y  Y  Y
-               Greenhill Lower Jn
-     SC097SYE  Whifflet South Jn – Sunnyside Jn (Goods
-                                      9  63  8  4310 Y  Y  Y  Y  Y  Y  Y
-               Line)
-     SC099RSL2 Whifflet North Jn – Change of ELR
-                                      0  00  0  3410 Y  Y  Y  Y  Y  Y  Y
-     SC099RSL1 Change of ELR – Langloan Jn
-                                      6  59  6  3410 Y  Y  Y  Y  Y  Y  Y
-     SC099RCB  Langloan Jn – Rutherglen East Jn
-                                      6  34  0  0410 Y  Y  Y  Y  Y  Y  Y
-     SC101RCB  Coatbridge Jn – Langloan Jn
-                                      7  03  6  3410 Y  Y  Y  Y  Y  Y  Y
-     SC103CBD1 Garnqueen North Jn – Gartcosh Jn
-                                      1  33  0  0010 Y  Y  Y  Y  Y  Y  Y
-     SC103CBD2 Gartcosh Jn – Change of ELR
-                                      97 09 103 4110 Y  Y  Y  Y  Y  Y  Y
-     SC103SGN  Change of ELR – Cowlairs West Jn
-                                      0  61  -0 2010 Y  Y  Y  Y  Y  Y  Y
-     SC105GHE  Gartsherrie South Jn – Gartcosh Jn
-                                      95 64 97  0610 Y  Y  Y  Y  Y  Y  Y
-     SC106PNS  Sighthill West Jn – Cowlairs South Jn
-                                      0  30  0  008  Y  Y  Y  Y  Y  Y  Y
-               (Chord Line)
-     SC107ECM9 Waverley East End – Edinburgh Waverley
-                                      0  21  0  0010 Y  Y  Y  Y  Y  Y  Y
-     SC107EGM4 Edinburgh Waverley – Waverley West End
-                                      0  00  0  1510 Y  Y  Y  Y  Y  Y  Y
-               (South Lines)
+     SC059LYE  Cook St – High St Line (Smithy Lye
+                                      0  00  0  448  N  Y  Y  Y  Y  Y  Y
+               through line)
+     SC059AYR1 Cook St – Shields Jn   0  19  1  008  Y  Y  Y  Y  Y  Y  Y
+     SC059AYR1 Shields Jn – Change of ELR (Paisley
+                                      1  00  6  5310 Y  Y  Y  Y  Y  Y  Y
+               Gilmour Street)
+     SC059AYR2 Change of ELR (Paisley Gilmour Street) –
+                                      6  73  7  0010 Y  Y  Y  Y  Y  Y  Y
+               Change of ELR (Brown Street crossover)
+     SC059AYR3 Change of ELR (Brown Street crossover) –
+                                      7  00 23  0010 Y  Y  Y  Y  Y  Y  Y
+               Change of ELR (Dalry)
+     SC059AYR4 Change of ELR (Dalry) – Change of ELR
+                                      23 00 33  0810 Y  Y  Y  Y  Y  Y  Y
+               (Barassie Jn)
+     SC059AYR5 Change of ELR (Barassie Jn) – Change of
+                                      0  00  2  1510 Y  Y  Y  Y  Y  Y  Y
+               ELR (Between Troon and Prestwick
+               International Airport)
+     SC059AYR6 Change of ELR (Between Troon and
+                                      35 05 38  7310 Y  Y  Y  Y  Y  Y  Y
+               Prestwick International Airport) – Falkland
+               Jn
+     SC059AYR6 Falkland Jn – Ayr      38 73 40  498  Y  Y  Y  Y  Y  Y  Y
+     SC059STR1 Ayr – Dalrymple Jn     40 49 43  538  Y  Y  Y  Y  Y  Y  Y
+     SC059STR1 Dalrymple Jn – Change of ELR (Girvan)
+                                      43 53 61  605  Y  N  N  N  N  N  N
+     SC059STR2 Change of ELR (Girvan) – Change of ELR
+                                      0  00 30  675  Y  N  N  N  N  N  N
+               (Betweeen Challoch LC and Dunragit SB &
+               LC)
 
 
-     October 2009                               84
+
+
+     October 2009                               82

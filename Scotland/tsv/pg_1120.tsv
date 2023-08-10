@@ -1,26 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Scotland	1120	SC031	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC031	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC035	KSH	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	10	N	N	Y	N	N	N	
-Scotland	1120	SC036	GNN	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	10	N	N	Y	N	N	N	
-Scotland	1120	SC037	RIC1	Kay Park Jn – Bellfield	0	00	1	06	10	N	N	Y	N	N	N	
-Scotland	1120	SC037	RIC2	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	N	N	Y	N	N	N	
-Scotland	1120	SC039	BAK	Kilmarnock – Barassie	0	05	7	56	10	N	N	Y	N	N	N	
-Scotland	1120	SC045	EKE	East Kilbride – Busby Jn	7	60	0	40	5	N	N	N	N	N	N	
-Scotland	1120	SC047	LFS2	Muirhouse South Jn – Change of ELR	1	19	0	61	10	N	N	Y	N	N	N	
-Scotland	1120	SC047	LFS1	Change of ELR – Larkfield Jn	101	17	101	01	10	N	N	Y	N	N	N	
-Scotland	1120	SC049	TSS	Muirhouse Central Jn – Terminus Jn	0	04	0	40	10	Y	Y	Y	Y	N	Y	
-Scotland	1120	SC051	CTC	Muirhouse Central Jn – Cathcart North Jn (via Cathcart)	5	19	1	63	3	R1	R1	N	R1	R1	R1	R1 Route prohibited unless authorised by the Infrastructure Manager's structures engineer
-Scotland	1120	SC051	CTC	Cathcart North Jn – Muirhouse North Jn (via Crosshill)	1	63	0	00	7	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC053	NNH	Neilston – Cathcart West Jn	108	45	100	77	5	Y	N	N	N	N	N	
-Scotland	1120	SC055	WCM2	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	10	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC055	KHL	Newton Kirkhill Jn – Cathcart West Jn	96	77	100	77	7	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC057	CNC	Cathcart East Jn – Cathcart North Jn	0	45	0	00	7	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC059	WCM2	Glasgow Central – Bridge St Jn	102	27	101	53	8	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC059	AYR1	Bridge St Jn – Cook St	0	00	0	19	8	Y	Y	Y	Y	N	Y	
-Scotland	1120	SC059	LYE	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	8	Y	Y	Y	Y	N	Y	
-Scotland	1120	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	8	Y	Y	Y	Y	N	Y	
-Scotland	1120	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	10	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	10	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	10	Y	Y	Y	Y	Y	Y	
-Scotland	1120	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM1	Lockerbie – Law Jn	25	66	84	08	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	8 R1	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC010 applies until 30/09/2014
+Scotland	1120	SC001	WCM2	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Newton East Jn – Newton West Jn	95	14	96	34	8 R1	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC010 applies until 30/09/2014
+Scotland	1120	SC001	WCM2	Newton West Jn Jn – Rutherglen East Jn	96	34	98	32	8 R1	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC010 applies until 30/09/2014
+Scotland	1120	SC001	WCM2	Rutherglen East Jn – Larkfield Jn	98	32	100	65	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Larkfield Jn – Eglinton St Jn	100	65	101	39	8	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC001	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC003	ECA1	Carstairs South Jn – Carstairs East Jn	73	17	73	48	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC003	ECA2	Carstairs East Jn – Slateford Jn	74	10	99	01	8 R1	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC007 applies until 30/09/2014
+Scotland	1120	SC003	ECA3	Slateford Jn – Haymarket East Jn	99	01	100	41	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC005	CSP	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y	Y	Y	Y	Y	Y	
+Scotland	1120	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
+Scotland	1120	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	5	N	N	N	N	N	N	

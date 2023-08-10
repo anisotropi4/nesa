@@ -1,6 +1,27 @@
-Route	page	Line of route	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92
-Scotland	1125	SC133	6	19	9	35	N	N	N	N	N	N		
-Scotland	1125	SC135	16	39	20	38	N	N	N	N	N	N		
-Scotland	1125	SC136	0	00	0	16	N	N	Y	N	N	N		
-Scotland	1125	SC141	0	0				N	N	R1 R2 R3 R4 R5	N	N	N	R1 Operation limited to infrequent specialised freight services & Charter train operation. Freight services will need to be agreed by the Structures RAM on a case by case basis R2 Bridge 26 (9m 52ch) 10mph R3 Bridge 30 (11m 38ch) 20mph R4 Bridge 97 (30m 50ch) 20mph Bridge 108 (33m 14ch) 20mph
-Scotland	1125	SC141	36					N	N	R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	N	N	N	R1 Operation limited to infrequent specialised freight services & Charter train operation. Freight services will need to be agreed by the Structures RAM on a case by case basis R2 Bridge 116 (36m 39ch) 40mph R3 Bridge 117 (36m 44ch) 20mph R4 Bridge 131 (39m 65ch) 30mph R5 Bridge 149 (45m 03ch) 20mph R6 Bridge 151 (45m 43ch) 20mph R7 Bridge 197 (61m 39ch) 20mph R8 Bridge 201 (63m 50ch) 20mph R9 Bridge 203 (64m 64ch) 30mph R10 Bridge 259 (76m 29ch) 20mph R11 Double Heading prohibited except for providing assistance and then at only 10mph over the above structures R12 Between Horseshoe viaduct (46m 00ch) and Rannoch (64m 54ch 40mph R13 Between Rannoch (65m 56ch) and Fersit Tunnel (74m 39ch) 40mph Between Tulloch (82m 39ch) and Fort William (99m 00ch) 40mph
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Scotland	1125	SC107	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	10	Y	Y	Y	Y	Y	Y	
+Scotland	1125	SC107	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	10	Y	Y	Y	Y	Y	Y	
+Scotland	1125	SC107	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	10	Y	Y	Y	Y	Y	Y	
+Scotland	1125	SC107	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	10	Y	Y	R1	Y	Y	Y	R1 Prohibited Haymarket East Jn - Haymarket Central Jn on the Up North
+Scotland	1125	SC107	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	10	Y	Y	Y	Y	Y	Y	
+Scotland	1125	SC107	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	10	N	N	Y	N	N	N	
+Scotland	1125	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	10	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	8	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	10	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	10	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	10	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	10	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	10	N	N	Y	N	N	N	
+Scotland	1125	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	10	N	N	Y	N	N	N	
+Scotland	1125	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	10	N	N	Y	N	N	Y	
+Scotland	1125	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	8 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+Scotland	1125	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	10	N	N	Y	N	N	N	
+Scotland	1125	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	8	N	N	Y	N	N	N	
+Scotland	1125	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	5	N	N	N	N	N	N	
+Scotland	1125	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	10	N	N	Y	N	N	N	
+Scotland	1125	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	10	N	N	Y	Y	N	N	
+Scotland	1125	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	10	N	N	Y	N	N	N	
+Scotland	1125	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	10	Y	Y	Y	Y	N	Y	
+Scotland	1125	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	10	N	N	Y	N	N	N	
+Scotland	1125	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	10	N	N	Y	N	N	N	
+Scotland	1125	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	10	N	N	Y	N	N	N	

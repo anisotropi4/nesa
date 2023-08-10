@@ -1,6 +1,16 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Scotland	1144	SC189	Westfield – Redford Jn (Goods Line)	Y	N	N	N	N	N	N	N	
-Scotland	1144	SC191	Dundee to Aberdeen	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: 2590 high x 2500 wide box, on KFA wagon 2770 high x 2500 wide box, on IKA wagon 2896 wide x 2500 wide box, on FLA wagon 2590 wide x 2600 wide box, on IFA wagon Safeway refrigerated box on IKA wagon All Lines
-Scotland	1144	SC193	Perth South Jn – Stanley Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2550 wide box on FKA IKA wagons Safeway refrigerated box on IKA FKA IFA FIA wagon All Lines
-Scotland	1144	SC193	Stanley Jn – Pitlochry	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2550 wide box on FKA IKA wagons Safeway refrigerated box on IKA FKA IFA FIA wagon All Lines
-Scotland	1144	SC193	Pitlochry – Inverness	Y *	Y	Y	N	N	N	N	N	
+Scotland	1144	SC151	Portobello – Leith South Yard (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1144	SC153	Craigentinny – Powderhall (Goods Line)	Y	Y	N	N	N	N	N	N	
+Scotland	1144	SC155	Monktonhall Jn – Millerhill Yard (Goods Line)	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Millerhill Yard sidings
+Scotland	1144	SC157	Millerhill South Jn – Millerhill East Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1144	SC159	End of Line (former Bilston Br) – Millerhill South Jn (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1144	SC159	Millerhill South Jn – Millerhill Yard Goods Line)	Y	Y	Y	Y	N	N	N	N	
+Scotland	1144	SC161	Millerhill Yard – Portobello	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Nidrie South Jn to Portobello
+Scotland	1144	SC163	Portobello – Niddrie West	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1144	SC165	Niddrie South Jn – Niddrie West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1144	SC165	Niddrie West Jn – Craiglockhart Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1144	SC165	Craiglockhart Jn – Gorgie Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1144	SC165	Gorgie Jn – Haymarket West Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1144	SC167	Craiglockhart Jn – Slateford Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford east sidings
+Scotland	1144	SC169	Gorgie Jn – Haymarket Central Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1144	SC171	Edinburgh Waverley – Princes Street Gardens	Y *	R1	R1	R1	N	N	N	N	R1 W9 prohibited EXCEPT all through routes Edinburgh Waverley Station and Lines W & Z between Edinburh Waverley and Princes Street Gardens W9 W8 W7 prohibited Lines X & Y between Edinburh Waverley and Princes Street Gardens

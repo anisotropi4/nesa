@@ -3,62 +3,46 @@
 
 
 
-    Line of
-          ELR Line of Route / Sector Description
-                                    M  Ch  M Ch  334  350 380  385  390  397Notes
-    route
-    SC023 HMN2Change of ELR – Newton, Hamilton Jn
-                                    6  61  0  00 Y    N    Y   R1    Y   Y  R1 Up to 8 cars
-    SC024 LRK Larkhall – Haughhead Jn
-                                    3  00  0  00 Y    N    N   R1    N   N  R1 Up to 12 cars
-    SC025 ARG1Rutherglen Central Jn – Bridgeton Yard
-                                    0  00  0  43 Y    N    N    N    N   N
-              North End
-    SC025 ARG2Bridgeton Yard North End – Exhibition
-                                    0  86  4  03 Y    N    N    N    N   N
-              Centre
-    SC025 ARG2Exhibition Centre – Finnieston East Jn
-                                    4  03  4  41 Y    N    N    N    N   N
-              (Down line)
-    SC025 ARG2Exhibition Centre – Finnieston West Jn
-                                    4  03  4  74 Y    N    N    N    N   N
-              (Up line)
-    SC027 RNC Rutherglen West Jn – Rutherglen North
-                                    0  00  0  29 Y    N    N    N    N   N
-              Jn (West Curve)
-    SC029 CLY Larkfield Jn – Terminus Jn
-                                   101 01 101 62 Y    E    Y   R1    Y   E  R1 Up to 12 cars
-    SC029 BRD Terminus Jn – Shields Jn via Through
-                                   101 62 102 16 Y    N    Y   EH    Y   E
-              Terminus lines
-    SC029 CLY Terminus Jn – Shields Jn
-                                   101 62 102 16 Y    E    Y   R1    Y   E  R1 Up to 12 cars
-    SC031 GSW Route Boundary (NW4031) (Gretna Jn)
-                                   115 40 109 00 N    N    N    N    H   N
-              – Old Route boundary (109m 00ch
-              between Eastriggs and Annan)
-    SC031 GSW Old Route boundary (109m 00ch
-                                   109  0 33  44 N    N    EH   N    H   E  R2 Prohibited between Old Route
-              between Eastriggs and Annan) –               R1            R1 Boundary (109m 00ch between
-              Change of ELR                                                 Eastriggs and Annan) and
-                                                                            Klmarnock
-    SC031 GBK Change of ELR – Muirhouse South Jn
-                                    23 44  1  18 N    N    N    N    H   E  R1 Prohibited Barrhead platform
-                                                                         R1 3
+     Table D2B – Route clearance of electric multiple units
+                                                                               Last Updated: 17/09/2022
+    To be read in conjunction with General Notes.
 
-    SC031 MEN2Muirhouse South Jn – Muirhouse
-                                    0  00  0  15 N    Y    Y    N    H   Y
-              Central Jn
-    SC031 MEN1Muirhouse Central Jn – Eglinton St Jn
-                                    0  19  0  70 Y    Y    Y   R3   R1   Y  R1 Prohibited between
-                                                                    R2      Muirhouse Central Jn and
-                                                                            Muirhouse North Jn unless loco
-                                                                            hauled
-                                                                            R2 Permitted between Muirhouse
-                                                                            North Jn and Eglinton St Jn under
-                                                                            own power
-                                                                            R3 Up to 12 cars
+     Line of
+           ELR Line of Route / Sector
+                                   M   Ch M   Ch  334  350  380 385  390  397Notes
+     route     Description                       000000 000000 000000
+                                                                    000000   ooooooooooooooooooooooo
+     SC001 WCM1Route Boundary (NW4001) (Gretna Jn)
+                                     12 30 25  66 N    Y    EH  R2   T    Y  R1 Tilt permitted Up and Down
+               – Lockerbie                                           R1         Fast lines only
+                                                                             R2 Up to 8 cars
+     SC001 WCM1Lockerbie – Law Jn    25 66 84  08 R1   Y    R2  R4   T    Y  R2 Prohibited between Lockerbie
+                                                                     R3         and Carstairs South Jn
+                                                                             R3 ECS only between Lockerbie
+                                                                                and Carstairs South Jn
+                                                                             R4 Tilt permitted Up and Down
+                                                                                Fast lines only
+                                                                             R5 Up to 8 cars
+     SC001 WCM2Law Jn – Junction with Coatbridge
+                                     84 08 89  51 Y    Y    Y   R2   T    Y  R1 Tilt permitted Up and Down
+               lines (Lesmahagow Jn)                                 R1         Fast lines only
+                                                                             R2 Up to 10 cars
+     SC001 WCM2Junction with Coatbridge lines
+                                     89 51 95  14 Y    Y    Y   R2   T    Y  R1 Tilt permitted Up and Down
+               (Lesmahagow Jn) – Newton East Jn                      R1         Fast lines only
+                                                                             R2 Up to 10 cars
+     SC001 WCM2Newton East Jn – Newton Hamilton Jn
+                                     95 14 95  47 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
+               (SC0023) via South Connecting Line
+     SC001 WCM2Newton Kirkhill Jn (SC0023) – Newton
+                                     95 77 96  34 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
+               West Jn via North Connecting Line
+     SC001 WCM2Newton East Jn – Newton West Jn
+                                     95 14 96  34 Y    Y    Y   R2   T    Y  R1 Tilt permitted Up and Down
+                                                                     R1         Fast lines only
+                                                                             R2 Up to 10 cars
 
 
 
-    October 2009                                48B
+
+October 2009                                48

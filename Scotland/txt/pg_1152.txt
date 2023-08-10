@@ -9,67 +9,66 @@
                                                            Notes
      route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
                                   M   Ch M  Ch
-     SC065GOU2Bishopton – Gourock 112 60 12658  5    R1   R1Prohibited between Greenock West and Fort Matilda on the Down
-                                                     R2     line
-                                                     R3   R2Prohibited between Fort Matilda and Gourock on the Up line
-                                                          R3Prohibited Gourock platform 3 (Down line)
-     SC067WYS Wemyss Bay Jn – Wemyss Bay
-                                    0 00 10 03 5     Y
-     SC073LGS1Kilwinning Jn – Change of ELR
-                                   25 65 30 44 10    Y
-     SC073LGS2Change of ELR – Fairlie High Siding
-                                   30 44 38 69 10    Y
-     SC073LGS2Fairlie High Siding – Largs
-                                   38 69 42 07 5     Y
-     SC077ARH Ardrossan South Beach – Adrossan
-                                   30 44 31 35 10    Y
-              Harbour
-     SC079HUN Hunterston – Hunterston Low Level
-                                    0 00  0 36 10    Y
-              Sdgs (Goods Line)
-     SC081BYL Byrehill Jn – Dubbs Jn0 60  0 00 10    Y
-     SC085AYH1Ayr Harbour – Newton Jn (Goods
-                                    0 17  0 00 10    Y
-              Line)
-     SC087ANN Newton Jn – Mauchline (Goods Line)
-                                   39 42 50 16 10    Y
-     SC089KCH1Annbank – Change of ELR
-                                   43 52 48 73 10    Y
-     SC089KCH2Change of ELR – Killoch Colliery
-                                    0 00  3 43 10    Y
-              (Goods line)
-     SC091WAT Dalrymple Jn – Chalmerston (Goods
-                                   43 53 52 70  8    Y
-              line)
-     SC093SCM1Motherwell – Mossend South
-                                   89 51 91 08 10    Y
-     SC093SCM2Mossend South – Whifflet North Jn
-                                   91 08 94 05 10    Y
-     SC093SCM3Whifflet North Jn – Gartsherrie South
-                                   94 05 95 64 10    Y
-              Jn (Limit of OLE)
-     SC093SCM3Gartsherrie South Jn (Limit of OLE) –
-                                   95 64 10663 10    Y
-              Greenhill Lower Jn
-     SC097SYE Whifflet South Jn – Sunnyside Jn
-                                    9 63  8 43 10    Y
+     SC031GSW Route Boundary (NW4031) (Gretna
+                                  115 40 10900  8    Y
+              Jn) – Old Route boundary (109m 00ch
+              between Eastriggs and Annan)
+     SC031GSW Old Route boundary (109m 00ch
+                                  109 00 33 44 10    R1   R1Prohibited between Kirkconell and New Cumock on the Up line
+              between Eastriggs and Annan) –
+              Change of ELR
+     SC031GBK Change of ELR – Muirhouse South Jn
+                                   23 44  1 18 10    Y
+     SC031MEN2Muirhouse South Jn – Muirhouse
+                                    0 00  0 15 10    Y
+              Central Jn
+     SC031MEN1Muirhouse Central Jn – Eglinton St Jn
+                                    0 19  0 70 10    R1   R1Prohibited between Muirhouse North Jn and Eglington St Jn on the
+                                                            Up line
+     SC031WCM2 Eglinton St Jn – Bridge St Jn
+                                  101 39 10153 8     Y
+     SC031WCM2 Bridge St Jn – Glasgow Central
+                                  101 53 10227 8     Y
+     SC035KSH Bank Jn – Network Rail Boundary
+                                   54 05  5528 10    Y
+              (Connel Park LC) / Knockshinnoch
+     SC036GNN Greenburn Jn – Greenburn Open Cast
+                                    0 00  0 55 10    Y
               (Goods Line)
-     SC099RSL2Whifflet North Jn – Change of ELR
-                                    0 00  0 34 10    Y
-     SC099RSL1Change of ELR – Langloan Jn
-                                    6 59  6 34 10    Y
-     SC099RCB Langloan Jn – Rutherglen East Jn
-                                    6 34  0 04 10    Y
-     SC101RCB Coatbridge Jn – Langloan Jn
-                                    7 03  6 34 10    Y
-     SC103CBD1Garnqueen North Jn – Gartcosh Jn
-                                    1 33  0 00 10    Y
-     SC103CBD2Gartcosh Jn – Change of ELR
-                                   97 09 10341 10    Y
-     SC103SGN Change of ELR – Cowlairs West Jn
-                                    0 61  -020 10    R1   R1Prohibited from Springburn Down Bay platform 3
+     SC037RIC1Kay Park Jn – Bellfield
+                                    0 00  1 06 10    Y
+     SC037RIC2Bellfield – Riccarton (Goods Line)
+                                    2 20  1 75 10    Y
+     SC039BAK Kilmarnock – Barassie 0 05  7 56 10    R1   R1Prohibited between Gatehead and Shewalton Moor on the Single line
+     SC045EKE East Kilbride – Busby Jn
+                                    7 60  0 40 5     R1   R1Prohibited between Bushby Jn and East Kilbride on the Down line
+                                                     R2   R2Prohibited between Bushby Jn and East Kilbride on the Up line
+     SC047LFS2Muirhouse South Jn – Change of ELR
+                                    1 19  0 61 10    Y
+     SC047LFS1Change of ELR – Larkfield Jn
+                                  101 17 10101 10    Y
+     SC049TSS Muirhouse Central Jn – Terminus Jn
+                                    0 04  0 40 10    Y
+     SC051CTC Muirhouse Central Jn – Cathcart North
+                                    5 19  1 63 3     R1   R1Prohibited between Muirhouse Central Jn and Pollokshields West on
+              Jn (via Cathcart)                             the Down line (Inner) Cathcart Circle
+     SC051CTC Cathcart North Jn – Muirhouse North
+                                    1 63  0 00  7    Y
+              Jn (via Crosshill)
+     SC053NNH Neilston – Cathcart West Jn
+                                  108 45 10077 5     Y
+     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill
+                                   95 53  9577 10    Y
+              Jn
+     SC055KHL Newton Kirkhill Jn – Cathcart West Jn
+                                   95 77 10077  7    Y
+     SC057CNC Cathcart East Jn – Cathcart North Jn
+                                    0 45  0 00  7    Y
+     SC059WCM2 Glasgow Central – Bridge St Jn
+                                  102 27 10153  8    Y
+     SC059AYR1Bridge St Jn – Cook St0 00  0 19  8    Y
 
 
 
 
-     October 2009                               143
+     October 2009                               141

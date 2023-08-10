@@ -3,60 +3,69 @@
 
 
 
-     Line of
-          ELR  Line of Route / Sector Description ooo ooo ooo ooo
-                                                 RA  60 66 67 68 70  7397/3 Notes
-     route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC003ECA3 Slateford Jn – Haymarket East Jn
-                                     99 01 100 4110  Y  Y  Y   Y  Y  Y  Y
-     SC005CSP  Carstairs Station Jn – Carstairs East Jn
-                                     73 37 74  1010  Y  Y  Y   Y  Y  Y  Y
-     SC007EGS2 Midcalder Jn – Holytown Jn
-                                     23 11  1  278   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2010/ICP-RA/SC012 applies until
-                                                 R1                          30/09/2014
-     SC009LNK  Lanark – Lanark Jn    2  45  0  035   N  R1 N  N   N  N  Y R1 Infrastructure maintenanance purposes
-                                                        R2                   only
-                                                                          R2 Prohibited from hauling haul vehicles that
-                                                                             exceed RA5
-     SC011WWD  Law Jn – Holytown Jn  84 08 89  6610  Y  Y  Y   Y  Y  Y  Y
-     SC011EGS2 Holytown Jn – Mossend East Jn
-                                     1  27  0  4010  Y  Y  Y   Y  Y  Y  Y
-     SC011EGS1 Mossend East Jn – Uddingston Jn
-                                     3  63  0  0310  Y  Y  Y   Y  Y  Y  Y
-     SC013SHR  Wishaw Central Jn – Shieldmuir Jn
-                                     86 63 87  4310  Y  Y  Y   Y  Y  Y  Y
-     SC015MDN  Mossend East Jn – Mossend North Jn
-                                     0  40  0  0610  Y  Y  Y   Y  Y  Y  Y
-               (North Curve)
-     SC017MDE  Mossend East Jn – Mossend South Jn
-                                     0  31  0  0010  Y  Y  Y   Y  Y  Y  Y
-               (East Curve)
-     SC019MDW  Mossend South Jn – Mossend West Jn
-                                     91 08 91  5010  Y  Y  Y   Y  Y  Y  Y
-               (West Curve)
-     SC021COS2 Coltness – Change of ELR
-                                     0  09  0  0010  Y  Y  Y   Y  Y  Y  Y
-     SC021COS1 Change of ELR – Garriongill Jn
-                                     14 15 15  2910  Y  Y  Y   Y  Y  Y  Y
-     SC023HMN1 Motherwell – Change of ELR
-                                     0  08  1  447   N  Y  R1  Y  Y  Y  Y R1 20mph over bridge 045/046 (1m 42ch)
-                                                           R2             R2 20mph over bridge 045/047 (1m 12ch)
-     SC023HMN2 Change of ELR – Newton, Hamilton Jn
-                                     6  61  0  007   N  Y  R1  Y  Y  Y  Y R1 20mph over bridge 045/045B (6m 37ch)
-                                                           R2             R2 40mph over bridge 045/060 (3m 73ch)
-                                                           R3             R3 40mph over bridge 045/062 (3m 31ch)
-                                                           R4             R4 40mph over bridge 045/065 (2m 45ch)
-     SC024LRK  Larkhall – Haughhead Jn
-                                     3  00  0  0010  Y  Y  Y   Y  Y  Y  Y
-     SC025ARG1 Rutherglen Central Jn – Bridgeton Yard
-                                     0  00  0  4310  Y  Y  Y   Y  Y  Y  Y
-               North End
-     SC025ARG2 Bridgeton Yard North End – Exhibition
-                                     0  86  4  0310  Y  Y  Y   Y  Y  Y  Y
-               Centre
-     SC025ARG2 Exhibition Centre – Finnieston East Jn
-                                     4  03  4  4110  Y  Y  Y   Y  Y  Y  Y
-               (Down line)
+     Line of ELR
+              Line of Route / Sector Description
+                                     oooo oooo oooo oooo RA
+                                                      4347/2 47/4 47/7
+                                                                  56 57 58 Notes
+     route                            M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
+     SC195
+         RSW  Welsh's Bridge Jn – Rose Street Jn
+                                      117 56 11803 10 Y  Y  Y  Y  Y  Y  Y
+     SC195
+         HGL2 Welsh's Bridge Jn – Inverness platforms 1-4
+                                      117 56 11803 8  Y  Y  Y  Y  Y  Y  Y
+     SC197
+         WRO  Kittybrewster – Waterloo Goods (Goods Line)
+                                       1  62  0 03 8  N  Y  Y  Y  Y  Y  Y
+     SC199
+         DFN  Keith Jn – End of Line   53 06  5336 10 Y  Y  Y  Y  Y  Y  Y
+     SC203
+         RSW  Welsh's Bridge Jn – Rose Street Jn
+                                      117 56 11803 10 Y  Y  Y  Y  Y  Y  Y
+     SC203
+         WCK  Inverness platforms 5–7 – Rose Street Jn
+                                       0  02  0 18 5  Y  Y  Y  Y  N  Y  N R1 RA Change
+                                                                             STNC NC/G1/2010/ICP-RA/SC011 applies until 30/09/2014
+                                                   R1
+     SC203
+         WCK  Rose Street Jn – Invergordon
+                                       0  18 31 37 5  Y  Y  Y  Y  N  Y  N
+                                                   R1
 
-     October 2009                               96
+     SC203
+         WCK  Invergordon – Georgemas Jn
+                                       31 37 14720 5  R1 R1 R4 R1 N  R1 N R1 20mph over bridge 292 (115m 09ch)
+                                                      R2 R2 R5 R2    R2   R2 20mph over bridge 296 (116m 18ch)
+                                                      R3 R3    R3    R3   R3 Double Heading prohibited.
+                                                                             If a locomotive fails north of Invergordon, the
+                                                                             authority of the Infrastructure Manager's
+                                                                             Structures Engineer must be obtained before an
+                                                                             assisting locomotive is permitted to proceed
+                                                                             towards the failed train
+                                                                          R4 Class 47/4 locomotives that conform to RA6 shall
+                                                                             apply those restrictions applicable to the Class
+                                                                             47/2
+                                                                          R5 Route prohibited to Class 47/4 locomotives that
+                                                                             conform to RA7
+     SC203
+         WCK  Georgemas Jn – Wick     147 20 16135 3  R1 N  N  N  N  N  N R1 10mph over bridge 302/364 (159m 12ch)
+     SC205
+         KYL  Dingwall – Kyle of Lochalsh
+                                       0  19  6364 5  Y  N  N  N  N  N  N
+     SC207
+         TSO  Georgemas Jn – Thurso    0  00  6 50 5  Y  R1 R3 R1 N  R1 N R1 20mph over bridge 4 (Thurso Viaduct) (03m
+                                                         R2 R4 R2    R2      56ch)
+                                                                          R2 Double Heading is prohibited
+                                                                             If a locomotive fails, the authority of the
+                                                                             Infrastructure Manager's Structures Engineer
+                                                                             must be obtained before an assisting locomotive
+                                                                             is permitted to proceed towards the failed train
+                                                                          R3 Class 47/4 locomotives that conform to RA6
+                                                                             shall apply those restrictions applicable to the
+                                                                             Class 47/2
+                                                                          R4 Route prohibited to Class 47/4 locomotives that
+                                                                             conform to RA7
+
+
+     October 2009                               94

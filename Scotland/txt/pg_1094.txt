@@ -5,63 +5,40 @@
 
      Line of
           ELR  Line of Route / Sector Description
-                                    oooo oooo oooo oooo RA
-                                                     4347/2 47/4 47/7
+                                     ooo ooo ooo ooo
+                                                  RA 43 47/2 47/4 47/7
                                                                  56 57 58 Notes
-     route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
-     SC181CDC2 Change of ELR – Hilton Jn
-                                      44 18 45  668  Y  Y  Y  Y  Y  Y  Y R1 RA Change
+     route                            o  o  o   o 00000 00000 00 000 000 000 ooooooooooooooooooooooooo
+                                      M  Ch M  Ch
+     SC171ECN2 Haymarket – Haymarket East Jn (North
+                                      1  19  1  2910 Y  Y  Y  Y  Y  Y  Y
+               Lines)
+     SC171EGM2 Haymarket East Jn – Haymarket Central
+                                      45 72 45  3510 Y  Y  Y  Y  Y  Y  Y
+               Jn (South Lines)
+     SC171ECN2 Haymarket East Jn – Haymarket Central
+                                      1  29  1  6610 Y  Y  Y  Y  Y  Y  Y
+               Jn (North Lines)
+     SC171EGM2 Haymarket Central Jn – Haymarket West
+                                      45 35 44  7310 Y  Y  Y  Y  Y  Y  Y
+               Jn (South Lines)
+     SC171ECN2 Haymarket Central Jn – Haymarket West
+                                      1  66  2  4110 Y  Y  Y  Y  Y  Y  Y
+               Jn (North Lines)
+     SC171ECN2 Haymarket West Jn – Dundee Central Jn
+                                      2  41 58  698  Y  Y  Y  Y  Y  Y  Y R1 RA Change
                                                                             STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
                                                   R1
-     SC183SAA  Stirling Middle Jn – Change of ELR
-                                      0  00  8  1410 Y  Y  Y  Y  Y  Y  Y
-     SC183KNE1 Change of ELR – Longannet
-                                      0  00  5  6210 Y  Y  Y  Y  Y  Y  Y
-     SC183KNE1 Longannet – Change of ELR
-                                      5  62 14  148  Y  Y  Y  Y  Y  Y  Y
-     SC183KNE2 Change of ELR – Charlestown Jn
-                                      14 14 15  398  Y  Y  Y  Y  Y  Y  Y
-     SC189CRE  Westfield – Change of Mileage
-                                      28 77 33  048  N  Y  Y  Y  Y  Y  Y
-     SC189CRE  Change of Mileage – Redford Jn (Goods
-                                      33 28 33  458  Y  Y  Y  Y  Y  Y  Y
-               Line)
-     SC191ECN2 Dundee Central Jn – Dundee
+     SC171ECN2 Dundee Central Jn – Dundee
                                       58 69 59  148  Y  Y  Y  Y  Y  Y  Y R1 RA Change
                                                                             STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
                                                   R1
-     SC191ECN2 Dundee – Camperdown Jn 59 14 59  7710 Y  Y  Y  Y  Y  Y  Y
-     SC191ECN3 Camperdown Jn – Change of ELR
-                                      0  21 17  1710 Y  Y  Y  Y  Y  Y  Y
-               (Arbroath SB)
-     SC191ECN4 Change of ELR (Arbroath SB) – Change of
-                                      17 55 33  2810 Y  Y  Y  Y  Y  Y  Y
-               ELR (Montrose)
-     SC191ECN5 Change of ELR (Montrose) – Craiginches
-                                     203 11 239 5510 Y  Y  Y  Y  Y  Y  Y
-     SC191ECN5 Craiginches – Aberdeen239 55 241 0610 Y  Y  Y  Y  Y  Y  Y
-     SC193HGL1 Perth South Jn – Change of ELR
-                                     150 61 158 3810 Y  Y  Y  Y  Y  Y  Y
-     SC193HGL2 Change of ELR – Stanley Jn
-                                      7  02  7  0710 Y  Y  Y  Y  Y  Y  Y
-     SC193HGL2 Stanley Jn – Milburn Jn7  07 143 398  Y  Y  Y  Y  Y  Y  Y )
-     SC193HGL2 Milburn Jn – Welsh's Bridge Jn
-                                     117 37 117 568  Y  Y  Y  Y  Y  Y  Y
-     SC193RSW  Welsh's Bridge Jn – Rose Street Jn
-                                     117 56 118 0310 Y  Y  Y  Y  Y  Y  Y
-     SC193HGL2 Welsh's Bridge Jn – Inverness platforms 1-
-                                     117 56 118 038  Y  Y  Y  Y  Y  Y  Y
-               4
-     SC195ECN5 Aberdeen – Change of ELR
-                                     241 06 241 0810 Y  Y  Y  Y  Y  Y  Y
-     SC195ANI1 Change of ELR – Keith Jn SB
-                                      0  00 53  0510 Y  Y  Y  Y  Y  Y  Y
-     SC195ANI2 Keith Jn SB – Forres   30 40  0  0010 Y  Y  Y  Y  Y  Y  Y
-     SC195ANI3 Forres – Milburn Jn   119 26 143 398  Y  Y  Y  Y  Y  Y  Y
-     SC195HGL2 Milburn Jn – Welsh's Bridge Jn
-                                     117 37 117 568  Y  Y  Y  Y  Y  Y  Y
+     SC173CWH1 Inverkeithing Central Jn – Change of ELR
+                                      13 21 22  768  Y  Y  Y  Y  Y  Y  Y R1 RA Change
+               (Cowdenbeath)                                                STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
+                                                  R1
 
 
 
 
-     October 2009                               93
+     October 2009                               91B

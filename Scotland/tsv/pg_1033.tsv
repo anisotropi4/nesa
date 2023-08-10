@@ -1,16 +1,16 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1033	SC059	LYE	Cook St – High St Line (Smithy Lye through line)	0	00	0	44	N	E	Y	R1	E	N	R1 Up to 12 cars
-Scotland	1033	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	Y	E	Y	R1	Y	E	R1 Up to 12 cars
-Scotland	1033	SC059	AYR1	Shields Jn – Change of ELR (Paisley Gilmour Street)	1	00	6	53	Y	N	Y	R2	N	E R1	R1 Prohibited between Helen Street Jn and Change of ELR (Paisley Gilmour Street) R2 Up to 12 cars
-Scotland	1033	SC059	AYR2	Change of ELR (Paisley Gilmour Street) – Change of ELR (Brown Street crossover)	6	73	7	00	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1033	SC059	AYR3	Change of ELR (Brown Street crossover) – Change of ELR (Dalry)	7	00	23	00	Y	N	Y	R1	N	N	R1 Up to 8 cars
-Scotland	1033	SC059	AYR4	Change of ELR (Dalry) – Change of ELR (Barassie Jn)	23	00	33	08	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1033	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	Y	N	Y	R1	N	N	R1 Up to 8 cars
-Scotland	1033	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1033	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1033	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	E R1	E R1	N	N	R1 Prohibited between Townhead Depot and Dalrymple Jn
-Scotland	1033	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	N	N	N	
-Scotland	1033	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	N	N	N	N	N	N	
-Scotland	1033	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	N	N	N	N	N	N	
-Scotland	1033	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	N	N	N	N	N	N	
-Scotland	1033	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	Y	E R1	Y	N	R2	E	R2 Only for access to / from Corkerhill Depot R3 Prohibited between Dumbreck and Corkerhill
+Scotland	1033	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	Y	N	Y	R1	Y	Y	R1 Up to 8 cars
+Scotland	1033	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	Y	N	N	R1	N	N	R1 Up to 12 cars
+Scotland	1033	SC025	ARG1	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	Y	N	N	N	N	N	
+Scotland	1033	SC025	ARG2	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	Y	N	N	N	N	N	
+Scotland	1033	SC025	ARG2	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	Y	N	N	N	N	N	
+Scotland	1033	SC025	ARG2	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	Y	N	N	N	N	N	
+Scotland	1033	SC027	RNC	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	Y	N	N	N	N	N	
+Scotland	1033	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	Y	E	Y	R1	Y	E	R1 Up to 12 cars
+Scotland	1033	SC029	BRD	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	Y	N	Y	EH	Y	E	
+Scotland	1033	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	Y	E	Y	R1	Y	E	R1 Up to 12 cars
+Scotland	1033	SC031	GSW	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109m 00ch between Eastriggs and Annan)	115	40	109	00	N	N	N	N	H	N	
+Scotland	1033	SC031	GSW	Old Route boundary (109m 00ch between Eastriggs and Annan) – Change of ELR	109	0	33	44	N	N	EH R1	N	H	E R1	R2 Prohibited between Old Route Boundary (109m 00ch between Eastriggs and Annan) and Klmarnock
+Scotland	1033	SC031	GBK	Change of ELR – Muirhouse South Jn	23	44	1	18	N	N	N	N	H	E R1	R1 Prohibited Barrhead platform 3
+Scotland	1033	SC031	MEN2	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	N	Y	Y	N	H	Y	
+Scotland	1033	SC031	MEN1	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	Y	Y	Y	R3	R1 R2	Y	R1 Prohibited between Muirhouse Central Jn and Muirhouse North Jn unless loco hauled R2 Permitted between Muirhouse North Jn and Eglinton St Jn under own power R3 Up to 12 cars

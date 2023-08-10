@@ -1,24 +1,21 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
-Scotland	0998	SC171	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC171	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC171	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC171	ECN2	Haymarket West Jn – Dundee Central Jn	2	41	58	69	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC171	ECN2	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC173	CWH1	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC173	CWH2	Change of ELR (Cowdenbeath) – Change of ELR (Lochgelly)	0	00	0	70	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC173	CWH3	Change of ELR (Lochgelly) – Thornton West Jn	27	00	34	62	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC173	TNW	Thornton West Jn – Thornton North Jn	0	70	0	00	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC175	RHD2	Rosyth Dockyard – Change of ELR	1	21	1	00	N	N	N	N	N	N	N	
-Scotland	0998	SC175	RHD1	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N	N	N	
-Scotland	0998	SC176	IGE	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	N	N	N	Y	N	Y	Y	
-Scotland	0998	SC177	MTL1	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	N	N	
-Scotland	0998	SC177	MTL2	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N	N	N	
-Scotland	0998	SC178	CWH3	Thornton South Jn – Thornton West Jn	35	38	34	62	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC181	CDC1	Ladybank Jn – Change of ELR	0	03	14	10	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC181	CDC2	Change of ELR – Hilton Jn	44	18	45	66	N	N	N	Y	Y	Y	Y	
-Scotland	0998	SC183	SAA	Stirling Middle Jn – Change of ELR	0	00	8	14	N	N	N	Y	N	R1	R1	R1 Prohibited between Alloa Town and Change of ELR (8m 14ch)
-Scotland	0998	SC183	KNE1	Change of ELR – Longannet	0	00	5	62	N	N	N	Y	N	N	N	
-Scotland	0998	SC183	KNE1	Longannet – Change of ELR	5	62	14	14	N	N	N	Y	N	N	N	
-Scotland	0998	SC183	KNE2	Change of ELR – Charlestown Jn	14	14	15	39	N	N	N	Y	N	N	N	
-Scotland	0998	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	N	
-Scotland	0998	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	N	
+Scotland	0998	SC145	MLG1	Fort William – Change of ELR	0	05	1	27	N	N	N	Y	Y	Y	N	
+Scotland	0998	SC145	MLG2	Change of ELR – Mallaig	0	00	39	39	N	N	N	Y	Y	Y	N	
+Scotland	0998	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	69	67	9	67	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0998	SC147	ECM8	Prestonpans Jn – Calton South Tunnel	9	67	0	29	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0998	SC147	ECM9	Calton South Tunnel – Waverley East End	0	29	0	21	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0998	SC147	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC147	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	N	N	N	Y	Y	Y	Y	
+Scotland	0998	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	N	N	N	N	N	N	N	
+Scotland	0998	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N	N	N	
+Scotland	0998	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	N	N	N	N	N	N	N	

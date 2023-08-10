@@ -7,54 +7,61 @@
           ELR  Line of Route / Sector Description ooo ooo ooo ooo
                                                  RA  60 66 67 68 70  7397/3 Notes
      route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC119SCM3 Carmuirs West Jn – Stirling Middle Jn
-                                    108 76 118 0810  Y  Y  Y   Y  Y  Y  Y
-     SC119SCM3 Stirling Middle Jn – Change of ELR
-                                    118 08 123 4010  Y  Y  R1  Y  Y  Y  Y R1 40mph over bridge 17 (Forth Viaduct at
-               (Dunblane)                                  R2                Stirling) (118m 65ch)
-                                                           R3             R2 50mph over bridge 16 (Causewayhead
-                                                                             Road at Stirling) (119m 00ch)
-                                                                          R3 60mph over bridge 132/04 (Kippenross
-                                                                             Viaduct at Dunblane South) (122m 73ch)
-     SC119SCM4 Change of ELR (Dunblane) – Perth
-                                    123 40 150 6110  Y  Y  R1  Y  Y  Y  Y R1 60mph over bridge 133/04 (Barbush
-               South Jn                                    R2                Viaduct at Dunblane North) (124m 15ch)
-                                                           R3             R2 60mph over bridge 39 (Allan Water near
-                                                           R4                Blackford) (132m 56ch)
-                                                                          R3 60mph over bridge 78 (Broomhill Burn
-                                                                             near Auchterarder) (144m 17ch)
-                                                                          R4 40mph over bridge 88 (Earn Viaduct near
-                                                                             Hilton) (147m 61ch)
-     SC119SCM5 Perth South Jn – Change of Mileage
-                                    150 61 151 0310  Y  Y  Y   Y  Y  Y  Y
-     SC119SCM5 Change of Mileage – Dundee Central Jn
-                                     21 01  0  3610  Y  Y  Y   Y  Y  Y  Y
-     SC119ECN2 Dundee Central Jn – Dundee
-                                     58 69 59  148   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2008/SCOT0337 applies until
-                                                 R1                          29/08/2013
-     SC123NBE  Bathgate – Change of ELR
-                                     25 18 25  0010  N  Y  Y   Y  Y  Y  Y
-     SC123NEM1 Change of ELR – Drumgelloch
-                                     25 00 11  7010  N  Y  Y   Y  Y  Y  Y
-     SC123NEM1 Drumgelloch – Change of ELR
-                                     11 70 11  6010  Y  Y  Y   Y  Y  Y  Y
-     SC123NEM2 Change of ELR – High Street Jn
-                                     11 60  0  2810  Y  Y  Y   Y  Y  Y  Y
-     SC123NEM2 High Street Jn – Change of ELR
-                                     0  28  0  005   N  R1 R2 N   N  Y  R1 R110mph over bridge 240/116 (0m 18ch)
-                                                                          R2 Sleeper Services only subject to:
-                                                                             - 20mph maximum speed
-                                                                             - Double Heading prohibited
-     SC123NEM3 Change of ELR – Finnieston East Jn
-                                     0  00  2  195   N  Y  R1 N   N  Y  Y R1 Sleeper Services only subject to:
-                                                                             - 20mph maximum speed
-                                                                             - Double Heading prohibited
-     SC123NEM3 Finnieston East Jn – Finnieston West Jn
-                                     2  19  2  537   N  R2 R2 R2 R2  Y  R2 R1RA Change
-               (Down Line)                                                   STNC NC/GI/2010/ICP-RA/SC008 applies until
-                                                 R1        R3                30/09/2014
-                                                                          R2 10mph over bridge 240/128 (2m 24ch)
-                                                                          R3 Sleeper Services only subject to 20mph
-                                                                             maximum speed
-     October 2009                               103
+     SC091WAT  Dalrymple Jn – Chalmerston (Goods
+                                     43 53 52  708   Y  Y  Y   Y  Y  Y  Y
+               Line)
+     SC093SCM1 Motherwell – Mossend South
+                                     89 51 91  0810  Y  Y  Y   Y  Y  Y  Y
+     SC093SCM2 Mossend South – Whifflet North Jn
+                                     91 08 94  0510  Y  Y  Y   Y  Y  Y  Y
+     SC093SCM3 Whifflet North Jn – Gartsherrie South Jn
+                                     94 05 95  6410  Y  Y  Y   Y  Y  Y  Y
+               (Limit of OLE)
+     SC093SCM3 Gartsherrie South Jn (Limit of OLE) –
+                                     95 64 106 6310  Y  Y  Y   Y  Y  Y  Y
+               Greenhill Lower Jn
+     SC097SYE  Whifflet South Jn – Sunnyside Jn
+                                     9  63  8  4310  Y  Y  Y   Y  Y  Y  Y
+               (Goods Line)
+     SC099RSL2 Whifflet North Jn – Change of ELR
+                                     0  00  0  3410  Y  Y  Y   Y  Y  Y  Y
+     SC099RSL1 Change of ELR – Langloan Jn
+                                     6  59  6  3410  Y  Y  Y   Y  Y  Y  Y
+     SC099RCB  Langloan Jn – Rutherglen East Jn
+                                     6  34  0  0410  Y  Y  Y   Y  Y  Y  Y
+     SC101RCB  Coatbridge Jn – Langloan Jn
+                                     7  03  6  3410  Y  Y  Y   Y  Y  Y  Y
+     SC103CBD1 Garnqueen North Jn – Gartcosh Jn
+                                     1  33  0  0010  Y  Y  Y   Y  Y  Y  Y
+     SC103CBD2 Gartcosh Jn – Change of ELR
+                                     97 09 103 4110  Y  Y  Y   Y  Y  Y  Y
+     SC103SGN  Change of ELR – Cowlairs West Jn
+                                     0  61  -0 2010  Y  Y  Y   Y  Y  Y  Y
+     SC105GHE  Gartsherrie South Jn – Gartcosh Jn
+                                     95 64 97  0610  Y  Y  Y   Y  Y  Y  Y
+     SC106PNS  Sighthill West Jn – Cowlairs South Jn
+                                     0  30  0  008   Y  Y  Y   Y  Y  Y  Y
+               (Chord Line)
+     SC107ECM9 Waverley East End – Edinburgh
+                                     0  21  0  0010  Y  Y  Y   Y  Y  Y  Y
+               Waverley
+     SC107EGM4 Edinburgh Waverley – Waverley West
+                                     0  00  0  1510  Y  Y  Y   Y  Y  Y  Y
+               End (South Lines)
+     SC107ECN1 Edinburgh Waverley – Waverley West
+                                     0  00  0  1510  Y  Y  Y   Y  Y  Y  Y
+               End (North Lines)
+     SC107EGM3 Waverley West End – Haymarket (South
+                                     0  15  1  1910  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+     SC107ECN2 Waverley West End – Haymarket (North
+                                     0  15  1  1910  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+     SC107EGM2 Haymarket – Haymarket East Jn (South
+                                     46 02 45  7210  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+     SC107ECN2 Haymarket – Haymarket East Jn (North
+                                     1  19  1  2910  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+
+     October 2009                               101

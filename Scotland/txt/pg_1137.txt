@@ -3,51 +3,50 @@
 
 
 
-   Line ofLine of Route / Sector Description         Gauge                  Notes
+   Line ofLine of Route / Sector Description         Gauge                 Notes
    Route
 
-                                   W6   W7    W8   W9  W9PlusW10  W10A W12
-   SC039  Kilmarnock – Barassie     Y    Y    Y    Y     N    N    N    N
-   SC041  Shewalton Moss – Hillhouse (Goods Line)
-                                    –    –    –    –     –    –    –    –  Line Out of Use
-          (OOU)
-   SC043  Giffen – Lugton (Goods Line) (OOU)
-                                    –    –    –    –     –    –    –    –  Line Out of Use (11-Jan-2009)
-   SC045  East Kilbride – Busby Jn  Y*   N    N    N     N    N    N    N
-   SC047  Muirhouse South Jn – Larkfield Jn
-                                    Y    Y    N    N     N    N    N    N
-   SC049  Muirhouse Central Jn – Terminus Jn
-                                    Y    Y    N    N     N    N    N    N
-   SC051  Muirhouse Central Jn – Muirhouse North Jn
-                                    Y*   Y    N    N     N    N    N    N
-          (via Cathcart) (Cathcart Circle)
-   SC053  Neilston – Cathcart West Jn
-                                    Y*   Y    N    N     N    N    N    N
-   SC055  Newton Hamilton Jn – Cathcart West Jn
-                                    Y*   Y    R1   R1    N    R1   N    N  R1 W10 W9 W8 prohibited
-                                                                              EXCEPT between Newton,
-                                                                              Hamilton Jn and Newton
-                                                                              Kirkhill Jn to/from North
-                                                                              Connecting Line
-   SC057  Cathcart East Jn – Cathcart North Jn
-                                    Y    Y    N    N     N    N    N    N
-   SC059  Bridge Street Jn – Shields Jn
-                                    Y*   Y    Y    N     N    N    N    N
-   SC059  Shields Jn – Falkland Jn  Y*   Y    Y    R1    N    N    N    N  R1 W9 prohibited through
-                                                                              Barassie Up Platform
-   SC059  Falkland Jn – Stranraer Harbour
-                                    Y*   Y    Y    N     N    N    N    N
-   SC059  Cook Street – Shields Road (through siding)
-                                    Y    Y    N    N     N    N    N    N
-   SC061  Shields Jn – Corkerhill   Y*   Y    N    N     N    N    N    N
-   SC061  Corkerhill – Paisley CanalR1   R1   N    N     N    N    N    N  R1 Prohibited when overhead line
-                                                                              equipment is energised
-   SC063  Cardonald Jn – Deanside (Goods Line)
-                                    Y    Y    Y    Y     N    N    N    N
-   SC065  Paisley – Wemyss Bay Jn   Y*   Y    Y    N     N    N    N    N
-   SC065  Wemyss Bay Jn – Gourock   Y*   Y    N    N     N    N    N    N
+                                   W6   W7    W8   W9  W9PlusW10  W10A  W12
+   SC001  Newton East Jn – Newton West Jn via South
+                                    Y    Y    Y    Y     N    Y    N    N
+          Connecting Line,Newton Station and North
+          Connecting Line
+   SC003  Carstairs South Jn – Haymarket East Jn
+                                    Y    Y    Y    Y     R1   R1   R1   R1 R1 PROHIBITED Slateford Jn to
+                                                                              Haymarket East Jn
+   SC005  Carstairs Station Jn – Carstairs East Jn
+                                    Y    Y    Y    Y     R1   R1   R1   R1 R1 PROHIBITED Carstairs platform 1
+                                                         R2   R2   R2   R2 R2 PROHIBITED Carstairs platform 2
+                                                         R3   R3   R3   R3 R3 PROHIBITED Carstairs Through
+                                                                              Siding
+   SC007  Midcalder Jn – Holytown JnY*   R1   S1   N     N    N    N    N  R1 W7 15mph on Up Line Br.59
+                                                                              Shotts Station [8m 38ch]
+                                                                           S1 The following combinations are
+                                                                              permitted:
+                                                                              2590 high x 2500 wide box on
+                                                                              FSA/FTA KFA wagons. All lines
+                                                                              2590 high x 2550 wide box on
+                                                                              FEA FSA/FTA KFA wagons
+                                                                              All lines
+                                                                              2896 high x 2500 wide box on
+                                                                              FLA wagons
+                                                                              Down line ONLY
+                                                                              2896 high x 2500 wide box on
+                                                                              FLA wagons
+                                                                              Up line 15 mph at Br 59 Shotts
+                                                                              Station [08m 38ch]
+
+
+   SC009  Lanark – Lanark Jn        Y*   N    N    N     N    N    N    N
+   SC011  Law Jn – Uddingston Jn (via Holytown)
+                                    Y*   Y    Y    Y     N    Y    N    N
+   SC013  Wishaw Central Jn – Shieldmuir Jn
+                                    Y    Y    Y    Y     N    Y    N    N
+   SC015  Mossend East Jn – Mossend North Jn (North
+                                    Y    Y    Y    Y     N    Y    N    N
+          Curve)
 
 
 
 
-     October 2009                              128B
+     October 2009                               128

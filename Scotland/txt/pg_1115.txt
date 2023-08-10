@@ -7,48 +7,61 @@
           ELR  Line of Route / Sector Description ooo ooo ooo ooo
                                                  RA  60 66 67 68 70  7397/3 Notes
      route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC203WCK  Invergordon – Georgemas Jn
-                                     31 37 147 205   N  R1 R6 R1  N  Y  R1R1 20mph over bridge 292 (115m 09ch)
-                                                        R2 R7 R2        R2R2 20mph over bridge 296 (116m 18ch)
-                                                        R3 R8 R3        R4R3 Double Heading prohibited
-                                                        R5 R9 R5        R5R4 Double Heading permitted when hauling
-                                                           R10R12            wagons which are loaded to a maximum
-                                                           R11               of RA5.
-                                                                          R5 If a locomotive fails north of Invergordon,
-                                                                             the authority of the Infrastructure
-                                                                             Manager's Structures Engineer must be
-                                                                             obtained before an assisting locomotive
-                                                                             is permitted to proceed towards the failed
-                                                                             train
-                                                                          R6 Prohibited between Lairg and Georgemas
-                                                                             Jn
-                                                                          R7 30mph between Invergordon and bridge
-                                                                             108 (Edderton Burn) (48m 40ch)
-                                                                          R8 20mph between bridge 108 (Edderton
-                                                                             Burn) (48m 40ch) and bridge 143 (Carron
-                                                                             Viaduct) (58m 58ch)
-                                                                          R9 30mph between bridge 143 (Carron
-                                                                             Viaduct) (58m 58ch) and bridge 151
-                                                                             (Oykel Viaduct) (61m 27ch)
-                                                                          R10 20mph over bridge 151 (Oykel Viaduct)
-                                                                             (61m 27ch)
-                                                                          R11 30mph between bridge 151 (Oykel
-                                                                             Viaduct) (61m 27ch) and Lairg
-                                                                          R12 30mph at the following locations:
-                                                                             31m 900yds to 31m 1200yds
-                                                                             41m 00yds to 41m 100yds
-                                                                             42m 500yds to 42m 700yds
-                                                                             50m 500yds to 50m 700yds
-                                                                             51m 700yds to 51m 880yds
-                                                                             52m 1320yds to 52m 1600yds
-                                                                             59m 200yds to 59m 320yds
-                                                                             74m 1300yds to 74m 1500yds
-                                                                             75m 880yds to 75m 1000yds
-                                                                             79m 400yds to 79m 500yds
-                                                                             80m 500yds to 80m 700yds
-                                                                             81m 1650yds to 82m 50yds
+     SC176IGE  Inverkeithing North Jn – Inverkeithing
+                                     0  33  0  008   Y  Y  Y   Y  Y  Y  Y R1 RA Change
+               East Jn (Inverkeithing Curve)                                 STNC NC/G1/2008/SCOT0337 applies until
+                                                 R1                          29/08/2013
+     SC177MTL1 Thornton North Jn – Change of ELR
+                                     0  11  4  658   Y  Y  Y   Y  Y  Y  Y
+     SC177MTL2 Change of ELR – Methill Power Station
+                                     7  34  6  488   Y  Y  Y   Y  Y  Y  Y
+               (Goods Line)
+     SC178CWH3 Thornton South Jn – Thornton West Jn
+                                     35 38 34  628   Y  Y  Y   Y  Y  Y  Y
+     SC181CDC1 Ladybank Jn – Change of ELR
+                                     0  03 14  108   Y  Y  Y   Y  Y  Y  Y R1 RA Change
+                                                                             STNC NC/G1/2008/SCOT0337 applies until
+                                                 R1                          29/08/2013
+     SC181CDC2 Change of ELR – Hilton Jn
+                                     44 18 45  668   Y  Y  Y   Y  Y  Y  Y R1 RA Change
+                                                                             STNC NC/G1/2008/SCOT0337 applies until
+                                                 R1                          29/08/2013
+     SC183SAA  Stirling Middle Jn – Change of ELR
+                                     0  00  8  1410  Y  Y  Y   Y  Y  Y  Y
+     SC183KNE1 Change of ELR – Longannet
+                                     0  00  5  6210  Y  Y  Y   Y  Y  Y  Y
+     SC183KNE1 Longannet – Change of ELR
+                                     5  62 14  148   Y  Y  Y   Y  Y  Y  Y
+     SC183KNE2 Change of ELR – Charlestown Jn
+                                     14 14 15  398   Y  Y  Y   Y  Y  Y  Y
+     SC189CRE  Westfield – Change of Mileage
+                                     28 77 33  048   Y  Y  Y   Y  Y  Y  Y
+     SC189CRE  Change of Mileage – Redford Jn (Goods
+                                     33 28 33  458   Y  Y  Y   Y  Y  Y  Y
+               Line)
+     SC191ECN2 Dundee Central Jn – Dundee
+                                     58 69 59  148   Y  Y  Y   Y  Y  Y  Y R1 RA Change
+                                                                             STNC NC/G1/2008/SCOT0337 applies until
+                                                 R1                          29/08/2013
+     SC191ECN2 Dundee – Camperdown Jn59 14 59  7710  Y  Y  Y   Y  Y  Y  Y
+     SC191ECN3 Camperdown Jn – Change of ELR
+                                     0  21 17  1710  Y  Y  Y   Y  Y  Y  Y
+               (Arbroath SB)
+     SC191ECN4 Change of ELR (Arbroath SB) – Change
+                                     17 55 33  2810  Y  Y  Y   Y  Y  Y  Y
+               of ELR (Montrose)
+     SC191ECN5 Change of ELR (Montrose) –
+                                    203 11 239 5510  Y  Y  R1  Y  Y  Y  Y R1 60mph over bridge 274 (Marykirk
+               Craiginches                                                   Viaduct, (also known as North Esk
+                                                                             Viaduct) near Laurencekirk) (206m 00ch)
+     SC191ECN5 Craiginches – Aberdeen
+                                    239 55 241 0610  Y  Y  Y   Y  Y  Y  Y
+     SC193HGL1 Perth South Jn – Change of ELR
+                                    150 61 158 3810  Y  Y  Y   Y  Y  Y  Y
+     SC193HGL2 Change of ELR – Stanley Jn
+                                     7  02  7  0710  Y  Y  Y   Y  Y  Y  Y
 
 
 
 
-     October 2009                               112
+     October 2009                               110

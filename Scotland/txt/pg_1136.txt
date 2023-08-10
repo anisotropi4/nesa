@@ -3,54 +3,41 @@
 
 
 
-   Line ofLine of Route / Sector Description        Gauge                  Notes
+     Table D5A – Route Clearance of Freight Containers / Swap Bodies
+                                                                                       Last Updated: 30/12/2017
+     To be read in conjunction with General Notes.
+
+     The notations (used in these tables) are explained as follows for freight vehicles or loads conforming to the Group Standards:
+
+     Y Permitted to operate over the route without restriction.
+     R Permitted to operate over part or all of the route but restrictions apply. See “Notes” column for details.
+     S Permitted for, or prohibited to, specific traffic. See “Notes” column for details.
+     * Route does not conform to Group Standard W6A Lower Gauge as defined in GE/RT8073. Certain W6A vehicles are prohibited from all or part of the route; these restrictions are detailed on
+       the Summary of Compatibility for the vehicles concerned.
+     N Prohibited from operating over the route
+
+     Conditions of Operation
+       • When operating within a possession the notations detailed within the table may not apply subject to a risk assessment and the application of appropriate control measures (in
+         accordance with company and Group Standards).
+       • Freight traffic, other than containers/swap bodies, which exceed W6A gauge shall only operate in accordance with GORT3056-K
+       • Vehicles conveying containers/swap bodies are also subject to the procedure detailed in GO/RM3056, Section J Intermodal Traffic.
+       • Temporary authority for a specific wagon and container/swapbody combination may be granted by the Infrastructure Manager’s Gauging Engineer. This authority shall be detailed and
+         issued on an RT3973/CON form.
+     Note
+    GO/RM3056 Section J Intermodal Traffic contains details of the wagon type (by TOPS code) and container/swapbody (by height, width and/or size code) combinations that conform to the
+    gauges shown as column headings in this table.
+
+   Line of
+         Line of Route / Sector Description          Gauge                 Notes
    Route
-
-                                   W6   W7    W8   W9  W9PlusW10 W10A  W12
-   SC017  Mossend East Jn – Mossend South Jn (East
-                                    Y    Y    Y    Y     N    Y    N    N
-          Curve)
-   SC019  Mossend South Jn – Mossend West Jn (West
-                                    Y    Y    Y    Y     N    Y    N    N
-          Curve)
-   SC021  Coltness – Garriongill Jn Y    N    N    N     N    N    N    N
-   SC023  Motherwell – Newton, Hamilton Jn (via
-                                    Y*   Y    Y    N     N    N    N    N
-          Hamilton)
-   SC024  Larkhall – Haughhead Jn   Y    N    N    N     N    N    N    N
-   SC025  Rutherglen Central Jn – Finnieston incl.
-                                    Y*   R1   N    N     N    N    N    N  R1W7 traffic prohibited from using
-          Bridgeton Yard (via Arrival Line) (Goods Line)                     Bridgeton Yard Arrival Line
-   SC027  Rutherglen West Jn – Rutherglen North Jn
-                                    Y    N    N    N     N    N    N    N
-          (West Curve)
-   SC029  Larkfield Jn – Shields Jn Incl. Shields Jn –
-                                    Y    Y    Y    Y     N    N    N    N
-          Terminus Jn (Up Through Terminus)
-   SC031  Gretna Jn – Dumfries      Y*   Y    Y    N     N    N    N    N
-   SC031  Dumfries to Kilmarnock GB&K Jn
-                                    Y*   Y    Y    R1    N    N    N    N  R1W9 prohibited EXCEPT to traffic
-                                                                             working from / to SC039
-                                                                             Kilmarnock to Barrasie Line
-                                                                             using Kilmarnock Platform 3
-                                                                             Line between 33m 47ch and
-                                                                             33m 78ch ONLY.
-   SC031  Kilmarnock GB&K Jn to Eglinton Street Jn
-                                    Y*   Y    N    N     N    N    N    N
-   SC033                            –    –    –    –
-          Dumfries to Maxwelltown (Goods Line) (OOU)     –    –    –    –  Line Out of Use
-   SC035  Bank Jn – Greenburn Jn (Goods Line)
-                                    Y    N    N    N     N    N    N    N
-   SC035  Greenburn Jn – Knockshinnoch (Goods Line)
-                                    –    –    –    –     –    –    –    –  Line Out of Use
-          (OOU)
-   SC036  Greenburn Jn – Greenburn Open Cast (Goods
-                                    Y    N    N    N     N    N    N    N
-          Line)
-   SC037  Kay Park Jn – Riccarton (Goods Line)
-                                    Y    N    N    N     N    N    N    N
+                                    W6  W7    W8   W9  W9Plus W10 W10A  W12
+   SC001 Gretna Jn – Law Jn (via Beattock)
+                                    Y*   Y    Y    Y     N     Y    N    N
+   SC001 Law Jn – Larkfield Jn      Y*   Y    Y    Y     N     Y    N    N
+   SC001 Larkfield Jn – Eglinton Street
+                                    Y    Y    Y    N     N     N    N    N
+   SC001 Eglinton Street – Glasgow Central
+                                    Y*   Y    N    N     N     N    N    N
 
 
-
-
-     October 2009                              128A
+     October 2009                               127

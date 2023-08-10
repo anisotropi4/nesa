@@ -1,5 +1,12 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1088	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	5	Y	R1 R2 R3	R4 R5	R1 R2 R3	N	R1 R2 R3	N	R1 Prohibited from hauling passenger services R2 30mph over bridge 3 (0m 16ch) (10mph when providing assistance) R3 Double Heading prohibited except for providing assistance R4 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R5 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1088	SC143	OBN2	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	5	R1	R2 R3 R4	R5 R6	R2 R3 R4	N	R2 R3 R4	N	R1 30mph over bridge 158 (30m 80ch) R2 10mph over bridge 158 (30m 80ch) R3 Prohibited from hauling passenger services R4 Double Heading prohibited except for providing assistance R5 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R6 Route prohibited to Class 47/4 locomotives that conform to RA7
-Scotland	1088	SC143	OBN2	Inverhaggernie No.1 LC – Oban	31	00	71	44	5	R1 R2	N	N	N	N	N	N	R1 30mph over bridge 176 (35m 17ch) R2 20mph over bridge 268 (66m 16ch)
-Scotland	1088	SC145	MLG1	Fort William – Change of ELR	0	05	1	27	5	Y	R1	R2 R3	R1	N	R1	N	R1 20mph over (Lochy Viaduct) (0m 55ch – 0m 60ch) R2 Class 47/4 locomotives that conform to RA6 shall apply those restrictions applicable to the Class 47/2 R3 Route prohibited to Class 47/4 locomotives that conform to RA7
+Scotland	1088	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+Scotland	1088	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+Scotland	1088	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	5 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC009 applies until 30/09/2014
+Scotland	1088	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7 R1	R2	R2	R2	R2	R2	R2	R2	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 10mph over bridge 268/001 (0m 15ch)
+Scotland	1088	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7 R1	N	Y	R2	Y	Y	Y	Y	R1 RA Change STNC NC/GI/2010/ICP-RA/SC008 applies until 30/09/2014. R2 Sleeper Services only
+Scotland	1088	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1088	SC131	HST	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1088	SC131	HST	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1088	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	5	Y	N	N	N	N	N	N	
+Scotland	1088	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	6	Y	Y	R1	Y	N	Y	N	R1 Route prohibited to Class 47/4 locomotives that conform to RA7
+Scotland	1088	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	8	Y	Y	Y	Y	Y	Y	Y	

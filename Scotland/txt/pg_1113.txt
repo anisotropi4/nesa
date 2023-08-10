@@ -4,64 +4,65 @@
 
 
      Line of
-          ELR  Line of Route / Sector Description ooo ooo ooo ooo
-                                                 RA  60 66 67 68 70  7397/3 Notes
-     route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC176IGE  Inverkeithing North Jn – Inverkeithing
-                                     0  33  0  008   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-               East Jn (Inverkeithing Curve)                                 STNC NC/G1/2008/SCOT0337 applies until
-                                                 R1                          29/08/2013
-     SC177MTL1 Thornton North Jn – Change of ELR
-                                     0  11  4  658   Y  Y  Y   Y  Y  Y  Y
-     SC177MTL2 Change of ELR – Methill Power Station
-                                     7  34  6  488   Y  Y  Y   Y  Y  Y  Y
-               (Goods Line)
-     SC178CWH3 Thornton South Jn – Thornton West Jn
-                                     35 38 34  628   Y  Y  Y   Y  Y  Y  Y
-     SC181CDC1 Ladybank Jn – Change of ELR
-                                     0  03 14  108   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2008/SCOT0337 applies until
-                                                 R1                          29/08/2013
-     SC181CDC2 Change of ELR – Hilton Jn
-                                     44 18 45  668   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2008/SCOT0337 applies until
-                                                 R1                          29/08/2013
-     SC183SAA  Stirling Middle Jn – Change of ELR
-                                     0  00  8  1410  Y  Y  Y   Y  Y  Y  Y
-     SC183KNE1 Change of ELR – Longannet
-                                     0  00  5  6210  Y  Y  Y   Y  Y  Y  Y
-     SC183KNE1 Longannet – Change of ELR
-                                     5  62 14  148   Y  Y  Y   Y  Y  Y  Y
-     SC183KNE2 Change of ELR – Charlestown Jn
-                                     14 14 15  398   Y  Y  Y   Y  Y  Y  Y
-     SC189CRE  Westfield – Change of Mileage
-                                     28 77 33  048   Y  Y  Y   Y  Y  Y  Y
-     SC189CRE  Change of Mileage – Redford Jn (Goods
-                                     33 28 33  458   Y  Y  Y   Y  Y  Y  Y
-               Line)
-     SC191ECN2 Dundee Central Jn – Dundee
-                                     58 69 59  148   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2008/SCOT0337 applies until
-                                                 R1                          29/08/2013
-     SC191ECN2 Dundee – Camperdown Jn59 14 59  7710  Y  Y  Y   Y  Y  Y  Y
-     SC191ECN3 Camperdown Jn – Change of ELR
-                                     0  21 17  1710  Y  Y  Y   Y  Y  Y  Y
-               (Arbroath SB)
-     SC191ECN4 Change of ELR (Arbroath SB) – Change
-                                     17 55 33  2810  Y  Y  Y   Y  Y  Y  Y
-               of ELR (Montrose)
-     SC191ECN5 Change of ELR (Montrose) –
-                                    203 11 239 5510  Y  Y  R1  Y  Y  Y  Y R1 60mph over bridge 274 (Marykirk
-               Craiginches                                                   Viaduct, (also known as North Esk
-                                                                             Viaduct) near Laurencekirk) (206m 00ch)
-     SC191ECN5 Craiginches – Aberdeen
-                                    239 55 241 0610  Y  Y  Y   Y  Y  Y  Y
-     SC193HGL1 Perth South Jn – Change of ELR
-                                    150 61 158 3810  Y  Y  Y   Y  Y  Y  Y
-     SC193HGL2 Change of ELR – Stanley Jn
-                                     7  02  7  0710  Y  Y  Y   Y  Y  Y  Y
+          ELR  Line of Route / Sector Description
+                                            oooooooooooo RA 60 66  67 68 70 73 97/3 Notes
+     route                                   M Ch  M Ch  000000000 000   000000000 ooooooooooooooooooooooooo
+     SC164SBO  Newcraighall South Jn – Tweedbank
+                                             5  02 35 34 3   N R1  R1 N   N  N  N R1 55mph maximum speed
+                                                               R2  R3             R2 Underbridges
+                                                               R3  R4                20mph UB011/072 (28m 31ch)
+                                                                                     30mph UB011/070 (27m 46ch)
+                                                                                     20mph UB011/067 (25m 44ch)
+                                                                                     30mph UB011/061 (24m 03ch)
+                                                                                     30mph UB011/060 (23m 59ch)
+                                                                                     30mph UB011/056 (22m 04ch)
+                                                                                     30mph UB011/054 (21m 58ch)
+                                                                                     30mph UB011/053 (21m 40ch)
+                                                                                  R3 All passenger trains, except
+                                                                                     when operated by Class 158 or
+                                                                                     170 DMUs, require a Special
+                                                                                     Operating Instruction
+                                                                                  R4 Underbridges
+                                                                                     30mph UB011/074 (28m 68ch)
+                                                                                     20mph UB011/070 (27m 46 ch)
+                                                                                     20mph UB011/067 (25m 44ch)
+                                                                                     30mph UB011/065 (25m 19ch)
+                                                                                     30mph UB011/061 (24m 03ch)
+                                                                                     30mph UB011/060 (23m 59ch)
+                                                                                     20mph UB011/056 (22m 04ch)
+                                                                                     20mph UB011/054 (21m 58ch)
+                                                                                     20mph UB011/053 (21m 40ch)
+                                                                                     30mph UB011/052 (20m 35ch)
+     SC165MHY  Niddrie South Jn – Niddrie West Jn
+                                              7 06  6 30 10  Y  Y  Y  Y   Y  Y  Y
+     SC165SUB2 Niddrie West Jn – Gorgie Jn    6 30  0 45 10  Y  Y  Y  Y   Y  Y  Y
+     SC165GGE  Gorgie Jn – Haymarket West Jn  0 00  0 41 10  Y  Y  Y  Y   Y  Y  Y
+     SC167CKT  Craiglockhart Jn – Slateford Jn0 00  0 48 10  Y  Y  Y  Y   Y  Y  Y
+     SC169SUB2 Gorgie Jn – Haymarket Central Jn
+                                              0 45  0 11 10  Y  Y  Y  Y   Y  Y  Y
+     SC171ECM9 Waverley East End – Edinburgh Waverley
+                                              0 21  0 00 10  Y  Y  Y  Y   Y  Y  Y
+     SC171EGM4 Edinburgh Waverley – Waverley West End (South Lines)
+                                              0 00  0 15 10  Y  Y  Y  Y   Y  Y  Y
+     SC171ECN1 Edinburgh Waverley – Waverley West End (North Lines)
+                                              0 00  0 15 10  Y  Y  Y  Y   Y  Y  Y
+     SC171EGM3 Waverley West End – Haymarket (South Lines)
+                                              0 15  1 19 10  Y  Y  Y  Y   Y  Y  Y
+     SC171ECN2 Waverley West End – Haymarket (North Lines)
+                                              0 15  1 19 10  Y  Y  Y  Y   Y  Y  Y
+     SC171EGM2 Haymarket – Haymarket East Jn (South Lines)
+                                             46 02 45 72 10  Y  Y  Y  Y   Y  Y  Y
+     SC171ECN2 Haymarket – Haymarket East Jn (North Lines)
+                                              1 19  1 29 10  Y  Y  Y  Y   Y  Y  Y
+     SC171EGM2 Haymarket East Jn – Haymarket Central Jn (South Lines)
+                                             45 72 45 35 10  Y  Y  Y  Y   Y  Y  Y
+     SC171ECN2 Haymarket East Jn – Haymarket Central Jn (North Lines)
+                                              1 29  1 66 10  Y  Y  Y  Y   Y  Y  Y
+     SC171EGM2 Haymarket Central Jn – Haymarket West Jn (South Lines)
+                                             45 35 44 73 10  Y  Y  Y  Y   Y  Y  Y
+     SC171ECN2 Haymarket Central Jn – Haymarket West Jn (North Lines)
+                                              1 66  2 41 10  Y  Y  Y  Y   Y  Y  Y
 
 
 
-
-     October 2009                               110
+     October 2009                               108

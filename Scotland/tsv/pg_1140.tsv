@@ -1,17 +1,22 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Scotland	1140	SC119	Greenhill Lower Jn – Carmuirs West Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1140	SC119	Carmuirs West Jn – Stirling Middle Jn	Y	Y	Y	N	N	N	N	N	
-Scotland	1140	SC119	Stirling Middle Jn – Perth South Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2500 wide box on FCA All Lines 2590 high x 2550 wide box on FKA IKA wagons All Lines Safeway refrigerated box on IKA FKA IFA FIA wagon 2896 high x 2500 wide box on FKA wagons Up Line 2675 high x 2550 wide box on FCA wagons Up Line 2896 high x 2600 wide box on IKA wagons Up line 30 mph at Br.66 [140m 09ch]
-Scotland	1140	SC119	Perth South Jn – Dundee Central Jn	Y *	Y	Y	N	N	N	N	N	
-Scotland	1140	SC123	Bathgate – Airdrie	Y	Y	Y	Y	N	Y	N	N	
-Scotland	1140	SC123	Airdrie – Sunnyside Jn	Y	Y	N	N	N	N	N	N	
-Scotland	1140	SC123	Sunnyside Jn – High Street Jn	Y *	Y	Y	N	N	N	N	N	
-Scotland	1140	SC123	High Street Jn – Knightswood North Jn	Y *	Y	N	N	N	N	N	N	
-Scotland	1140	SC123	Knightswood North Jn – Craigendoran Jn	Y *	Y	Y	N	N	N	N	N	
-Scotland	1140	SC123	Craigendoran Jn – Helensburgh Central	Y *	N	N	N	N	N	N	N	
-Scotland	1140	SC125	Hyndland East Jn – Dalmuir (via Yoker)	Y *	Y	N	N	N	N	N	N	
-Scotland	1140	SC127	Sunnyside Jn – Gunnie Yard Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
-Scotland	1140	SC129	Springburn – Bellgrove Jn	Y	Y	Y	N	N	N	N	N	
-Scotland	1140	SC129	Sighthill East Jn – Glasgow Works (Springburn) (Railcare Ltd)	Y *	N	N	N	N	N	N	N	
-Scotland	1140	SC131	High Street Jn – Shields Jn	Y *	Y	Y	N	N	N	N	N	
-Scotland	1140	SC133	Westerton Jn – Milngavie	Y *	Y	N	N	N	N	N	N	
+Scotland	1140	SC067	Wemyss Bay Jn – Wemyss Bay	Y *	Y	N	N	N	N	N	N	
+Scotland	1140	SC069	Containerbase Jn – Greenock CPA Terminal (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Not Network Rail infrastructure. Line 'Out of Use'
+Scotland	1140	SC073	Kilwinning Jn – Largs	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1140	SC075	Misk to Stevenston (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1140	SC077	Ardrossan South Beach to Adrossan Harbour	Y *	N	N	N	N	N	N	N	
+Scotland	1140	SC079	Hunterston – Hunterston Low Level Sdgs (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1140	SC081	Byrehill Jn – Dubbs Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1140	SC083	Snodgrass - Bogside (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1140	SC085	Ayr Harbour – Newton Jn (Goods Line)	Y	Y	N	N	N	N	N	N	
+Scotland	1140	SC087	Newton Jn – Mauchline (Goods Line)	Y	Y	N	N	N	N	N	N	
+Scotland	1140	SC089	Annbank – Killoch Colliery (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1140	SC091	Dalrymple Jn – Chalmerston (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1140	SC093	Motherwell – Coatbridge FLT	Y *	Y	Y	Y	N	Y	N	N	
+Scotland	1140	SC093	Coatbridge FLT – Garnqueen North Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1140	SC093	Garnqueen North Jn – Greenhill Lower Jn	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1140	SC097	Whifflet South Jn – Sunnyside Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1140	SC099	Whifflet North Jn – Rutherglen East Jn	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1140	SC101	Coatbridge Jn – Langloan Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1140	SC103	Garnqueen North Jn – Cowlairs West Jn	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1140	SC105	Gartsherrie South Jn – Gartcosh Jn	Y	Y	Y	Y	N	R1	N	N	R1 W10 prohibited EXCEPT for use of Coatbridge FLT Headshunt Line
+Scotland	1140	SC106	Sighthill West Jn – Cowlairs South Jn (Chord Line)	Y	N	N	N	N	N	N	N	

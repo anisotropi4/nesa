@@ -8,63 +8,60 @@
                                    ooo ooo ooo ooo MK1 MK2 MK3 MK3 MK3 MK3 MK4 MK5 MK5A Notes
      route                          o  o  o  o  0000 0000 0000 (MOD) DVT DVT 0000 0000 0000 ooooooooooooooooooooooooooo
                                      M Ch  M  Ch                (MOD)
-     SC107EGM1 Cowlairs West Jn – Glasgow Queen
-                                     1  67 0  00 Y  Y  Y  N  N   N  N  Y  N
-               Street
-     SC109PMT  Polmont Jn – Grangemouth Jn
-                                    21  20 23 75 Y  Y  Y  N  N   N  N  Y  N
-     SC109PMT  Grangemouth Jn – Carmuirs East Jn
-                                    23  75 25 79 Y  Y  Y  N  N   N  N  Y  N
-     SC109CMS  Carmuirs East Jn – Carmuirs West Jn
-                                     0  40 -0  2 Y  Y  Y  N  N   N  N  Y  N
-     SC109SCM3 Carmuirs West Jn – Greenhill Lower Jn
-                                    108 74106 62 Y  Y  Y  N  N   N  N  Y  N
-     SC109GHL  Greenhill Lower Jn – Greenhill Upper
-                                     0  52 0  00 Y  Y  Y  N  N   N  N  Y  N
-               Jn
-     SC110PMT  Carmuirs East Jn – Larbert Jn
-                                    25  79 26 35 Y  Y  Y  N  N   N  N  Y  N
-     SC111NBE  Newbridge Jn – Bathgate
-                                    35  21 25 18 Y  Y  Y  N  N   N  N  Y  N
-     SC113DMY  Winchburgh Jn – Dalmeny Jn
-                                    34  54 39 03 Y  Y  Y  N  N   N  N  Y  N
-     SC115MRL1 Cowlairs West Jn – Maryhill Park Jn
-                                     8  26 5  51 Y  Y  Y  N  N   N  N  Y  N
-     SC115MRL2 Maryhill Park Jn – Knightswood North
-                                     4  40 5  67 Y  Y  Y  N  N   N  N  Y  N
-               Jn
-     SC1150
-          MLA  Maryhill Park Jn – Anniesland
-                                     0  00 0  70 Y  Y  Y  N  N   N  N  Y  N
-     SC116CSN  Cowlairs East Jn – Cowlairs North Jn
-                                     0  00 0  21 Y  Y  Y  N  N   N  N  Y  N
-     SC117GMH  Grangemouth Jn – Grangemouth
-                                     0  00 3  67 N  N  N  N  N   N  N  N  N
-     SC119GHL  Greenhill Upper Jn – Greenhill Lower
-                                     0  00 0  52 Y  Y  Y  N  N   N  N  Y  N
-               Jn
-     SC119SCM3 Greenhill Lower Jn – Carmuirs West Jn
-                                    106 62108 74 Y  Y  Y  N  N   N  N  Y  N
-     SC119SCM3 Carmuirs West Jn – Stirling Middle Jn
-                                    108 76118 08 Y  Y  Y  N  N   N  N  Y  N
-     SC119SCM3 Stirling Middle Jn – Change of ELR
-                                    118 08123 40 Y  Y  Y  N  N   N  N  Y  N
-               (Dunblane)
-     SC119SCM4 Change of ELR (Dunblane) – Perth
-                                    123 40150 61 Y  Y  Y  N  N   N  N  Y  N
-               South Jn
-     SC119SCM5 Perth South Jn – Change of Mileage
-                                    150 61151 03 Y  Y  Y  N  N   N  N  Y  N
-     SC119SCM5 Change of Mileage – Dundee Central
-                                    21  01 0  36 Y  Y  Y  N  N   N  N  Y  N
-               Jn
-     SC119ECN2 Dundee Central Jn – Dundee
-                                    58  69 59 14 Y  Y  Y  N  N   N  N  Y  N
-     SC123NBE  Bathgate – Change of ELR
-                                    25  18 25 00 Y  Y  Y  N  N   N  N  Y  N
-     SC123NEM1 Change of ELR – Drumgelloch
-                                    25  00 11 70 Y  Y  Y  N  N   N  N  Y  N
+     SC061CNL  Shields Jn – Corkerhill
+                                     1  05 3  11 Y  Y  Y  N  N   N  N  Y  E
+     SC061CNL  Corkerhill – Paisley Canal
+                                     3  11 7  00R1  R1 R1 N  N   N  N  N  N R1 Prohibited when overhead line
+                                                                               equipment is energised
+     SC063CND1 Cardonald Jn – Cardonald North Jn
+                                     0  00 0  36 N  N  N  N  N   N  N  N  N
+     SC063CND2 Cardonald North Jn – Deanside (Goods
+                                     0  36 1  54 N  N  N  N  N   N  N  N  N
+               Line)
+     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
+                                     6  34  6 53 Y  Y  Y  N  N   N  N  N  N
+     SC065GOU2 Change of ELR – Bishopton
+                                   107 70 11260 Y  Y  Y  N  N   N  N  N  N
+
+     SC065GOU2 Bishopton – Gourock  112 60126 58 Y  Y  Y  N  N   N  N  N  N
+     SC067WYS  Wemyss Bay Jn – Wemyss Bay
+                                     0  00 10 03 Y  Y  Y  N  N   N  N  N  N
+     SC073LGS1 Kilwinning Jn – Change of ELR
+                                    25  65 30 44 Y  Y  Y  N  N   N  N  N  N
+     SC073LGS2 Change of ELR – Fairlie High Siding
+                                    30  44 38 69 Y  Y  Y  N  N   N  N  N  N
+     SC073LGS2 Fairlie High Siding – Largs
+                                    38  69 42 07 Y  Y  Y  N  N   N  N  N  N
+     SC077ARH  Ardrossan South Beach – Adrossan
+                                    30  44 31 35 Y  Y  Y  N  N   N  N  N  N
+               Harbour
+     SC079HUN  Hunterston – Hunterston Low Level
+                                     0  00 0  36 N  N  N  N  N   N  N  N  N
+               Sdgs (Goods Line)
+     SC081BYL  Byrehill Jn – Dubbs Jn0  60 0  00 Y  Y  Y  N  N   N  N  N  N
+     SC085AYH1 Ayr Harbour – Newton Jn (Goods Line)
+                                     0  17 0  00 N  N  N  N  N   N  N  N  N
+     SC087ANN  Newton Jn – Mauchline (Goods Line)
+                                    39  42 50 16 Y  Y  Y  N  N   N  N  N  N
+     SC089KCH1 Annbank – Change of ELR
+                                    43  52 48 73 N  N  N  N  N   N  N  N  N
+     SC089KCH2 Change of ELR – Killoch Colliery
+                                     0  00 3  43 N  N  N  N  N   N  N  N  N
+               (Goods Line)
+     SC091WAT  Dalrymple Jn – Chalmerston (Goods
+                                    43  53 52 70 N  N  N  N  N   N  N  N  N
+               Line)
+     SC093SCM1 Motherwell – Mossend South
+                                    89  51 91 08 Y  Y  Y  N  N   N  Y  Y  E
+     SC093SCM2 Mossend South – Whifflet North Jn
+                                    91  08 94 05 Y  Y  Y  N  N   N  N  Y  E
+     SC093SCM3 Whifflet North Jn – Gartsherrie South
+                                    94  05 95 64 Y  Y  Y  N  N   N  N  Y  E
+               Jn (Limit of OLE)
+     SC093SCM3 Gartsherrie South Jn (Limit of OLE) –
+                                    95  64106 63 Y  Y  Y  N  N   N  N  Y  N
+               Greenhill Lower Jn
 
 
 
-     October 2009                               55
+     October 2009                               53

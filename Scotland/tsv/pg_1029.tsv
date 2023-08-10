@@ -1,8 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1029	SC001	WCM1	Route Boundary (NW4001) (Gretna Jn) – Lockerbie	12	30	25	66	N	Y	EH	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 8 cars
-Scotland	1029	SC001	WCM1	Lockerbie – Law Jn	25	66	84	08	R1	Y	R2	R4	T R3	Y	R2 Prohibited between Lockerbie and Carstairs South Jn R3 ECS only between Lockerbie and Carstairs South Jn R4 Tilt permitted Up and Down Fast lines only R5 Up to 8 cars
-Scotland	1029	SC001	WCM2	Law Jn – Junction with Coatbridge lines (Lesmahagow Jn)	84	08	89	51	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
-Scotland	1029	SC001	WCM2	Junction with Coatbridge lines (Lesmahagow Jn) – Newton East Jn	89	51	95	14	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
-Scotland	1029	SC001	WCM2	Newton East Jn – Newton Hamilton Jn (SC0023) via South Connecting Line	95	14	95	47	Y	Y	Y	R1	Y	Y	R1 Up to 10 cars
-Scotland	1029	SC001	WCM2	Newton Kirkhill Jn (SC0023) – Newton West Jn via North Connecting Line	95	77	96	34	Y	Y	Y	R1	Y	Y	R1 Up to 10 cars
-Scotland	1029	SC001	WCM2	Newton East Jn – Newton West Jn	95	14	96	34	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	314	318	320/3	320/4	322	325	Notes
+Scotland	1029	SC175	RHD1	Change of ELR – Inverkeithing South Jn (Goods Line)	1	00	0	02	N	N	N	N	N	N	
+Scotland	1029	SC176	IGE	Inverkeithing North Jn – Inverkeithing East Jn (Inverkeithing Curve)	0	33	0	00	N	N	N	N	N	N	
+Scotland	1029	SC177	MTL1	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	N	
+Scotland	1029	SC177	MTL2	Change of ELR – Methill Power Station (Goods Line)	7	34	6	48	N	N	N	N	N	N	
+Scotland	1029	SC178	CWH3	Thornton South Jn – Thornton West Jn	35	38	34	62	N	N	N	N	N	H	
+Scotland	1029	SC181	CDC1	Ladybank Jn – Change of ELR	0	03	14	10	N	N	N	N	N	H	
+Scotland	1029	SC181	CDC2	Change of ELR – Hilton Jn	44	18	45	66	N	N	N	N	N	H	
+Scotland	1029	SC183	SAA	Stirling Middle Jn – Change of ELR	0	00	8	14	N	N	N	N	N	N	
+Scotland	1029	SC183	KNE1	Change of ELR – Longannet	0	00	5	62	N	N	N	N	N	N	
+Scotland	1029	SC183	KNE1	Longannet – Change of ELR	5	62	14	14	N	N	N	N	N	N	
+Scotland	1029	SC183	KNE2	Change of ELR – Charlestown Jn	14	14	15	39	N	N	N	N	N	N	
+Scotland	1029	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	
+Scotland	1029	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	
+Scotland	1029	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	N	N	H	
+Scotland	1029	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	N	N	N	N	N	H	
+Scotland	1029	SC191	ECN3	Camperdown Jn – Change of ELR (Arbroath SB)	0	21	17	17	N	N	N	N	N	H	
+Scotland	1029	SC191	ECN4	Change of ELR (Arbroath SB) – Change of ELR (Montrose)	17	55	33	28	N	N	N	N	N	H	
+Scotland	1029	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	N	N	N	N	N	H	
+Scotland	1029	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	N	N	N	N	N	H R1	R1 Prohibited Aberdeen platforms 5 & 7
+Scotland	1029	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	N	N	N	N	N	H	
+Scotland	1029	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	N	N	N	N	N	H	
+Scotland	1029	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	N	N	N	N	N	N	
+Scotland	1029	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	N	N	N	N	N	H	
+Scotland	1029	SC193	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	N	N	N	N	N	H	

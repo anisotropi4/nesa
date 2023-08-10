@@ -8,56 +8,58 @@
      route                                      000 000 000 000 31/6 000 000 37/3 000 37/9 ooooooooooooooooooooooooo
                                    oooo oooo oooo oooo            37/4 00
                                     M  Ch M  Ch                   37/6
-     SC119SCM3Carmuirs West Jn – Stirling Middle Jn
-                                   108 76118 08 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC119SCM3Stirling Middle Jn – Change of ELR
-                                   118 08123 40 10 Y Y  Y Y  Y  Y Y  Y Y
-              (Dunblane)
-     SC119SCM4Change of ELR (Dunblane) – Perth
-                                   123 40150 61 10 Y Y  Y Y  Y  Y Y  Y Y
-              South Jn
-     SC119SCM5Perth South Jn – Change of Mileage
-                                   150 61151 03 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC119SCM5Change of Mileage – Dundee Central Jn
-                                    21 01  0 36 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC119ECN2Dundee Central Jn – Dundee
-                                    58 69 59 14 8  Y Y  Y Y  Y  Y Y  Y Y R1 RA Change
-                                                                            STNC NC/G1/2008/SCOT0337 applies until
-                                                R1                          29/08/2013
-     SC123NBE Bathgate – Change of ELR
-                                    25 18 25 00 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM1Change of ELR – Drumgelloch
-                                    25 00 11 70 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM1Drumgelloch – Change of ELR
-                                    11 70 11 60 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM2Change of ELR – High Street Jn
-                                    11 60  0 28 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM2High Street Jn – Change of ELR
-                                    0  28  0 00 5 R1 R1R1 R1 N N  R1R1 N R1 10mph over bridge 240/116 (0m 18ch)
-                                                       R2           R2   R2 Route prohibited to Class 20 and
-                                                                            Class 37/5 locomotives that conform
-                                                                            to RA6
-     SC123NEM3Change of ELR – Finnieston East Jn
-                                    0  00  2 19 5  Y Y R1 Y  N N  Y R1 N R1 Route prohibited to Class 20 and
-                                                                            Class 37/5 locomotives that conform
-                                                                            to RA6
-     SC123NEM3Finnieston East Jn – Finnieston West Jn
-                                    2  19  2 53 7 R2 R2R2 R2 R2R2 R2R2 R2 R1RA Change
-              (Down Line)                                                   STNC NC/GI/2010/ICP-RA/SC008 applies until
-                                                R1                          30/09/2014
-                                                                         R2 10mph over bridge 240/128 (2m 24ch)
-     SC123NEM3Finnieston East Jn – Finnieston West Jn
-                                    2  19  2 53 5 R2 R2R2 R2 N N  R2R2 N R1 RA Change
-              (Up Line)                                                     STNC NC/GI/2010/ICP-RA/SC008 applies until
-                                                R1                          30/09/2014
-                                                                         R2 10mph over bridge 240/128 (2m 24ch)
-     SC123NEM3Finnieston West Jn – Hyndland North Jn
-                                    2  53  4 28 7  Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM3Hyndland North Jn – Change of ELR
-                                    4  28  4 63 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM4Change of ELR – Knightswood North Jn
-                                    0  00  0 74 10 Y Y  Y Y  Y  Y Y  Y Y
-     SC123NEM5Knightswood North Jn – Change of ELR
-                                    5  67 13 40 10 Y Y  Y Y  Y  Y Y  Y Y
-              (Between Bowling and Dumbarton East)
-     October 2009                               69
+     SC093SCM1Motherwell – Mossend South
+                                    89 51 91 08 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC093SCM2Mossend South – Whifflet North Jn
+                                    91 08 94 05 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC093SCM3Whifflet North Jn – Gartsherrie South Jn
+                                    94 05 95 64 10 Y Y  Y Y  Y  Y Y  Y Y
+              (Limit of OLE)
+     SC093SCM3Gartsherrie South Jn (Limit of OLE) –
+                                    95 64106 63 10 Y Y  Y Y  Y  Y Y  Y Y
+              Greenhill Lower Jn
+     SC097SYE Whifflet South Jn – Sunnyside Jn
+                                    9  63  8 43 10 Y Y  Y Y  Y  Y Y  Y Y
+              (Goods Line)
+     SC099RSL2Whifflet North Jn – Change of ELR
+                                    0  00  0 34 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC099RSL1Change of ELR – Langloan Jn
+                                    6  59  6 34 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC099RCB Langloan Jn – Rutherglen East Jn
+                                    6  34  0 04 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC101RCB Coatbridge Jn – Langloan Jn
+                                    7  03  6 34 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC103CBD1Garnqueen North Jn – Gartcosh Jn
+                                    1  33  0 00 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC103CBD2Gartcosh Jn – Change of ELR
+                                    97 09103 41 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC103SGN Change of ELR – Cowlairs West Jn
+                                    0  61 -0 20 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC105GHE Gartsherrie South Jn – Gartcosh Jn
+                                    95 64 97 06 10 Y Y  Y Y  Y  Y Y  Y Y
+     SC106PNS Sighthill West Jn – Cowlairs South Jn
+                                    0  30  0 00 8  Y Y  Y Y  Y  Y Y  Y Y
+              (Chord Line)
+     SC107ECM9Waverley East End – Edinburgh
+                                    0  21  0 00 10 Y Y  Y Y  Y  Y Y  Y Y
+              Waverley
+     SC107EGM4Edinburgh Waverley – Waverley West
+                                    0  00  0 15 10 Y Y  Y Y  Y  Y Y  Y Y
+              End (South Lines)
+     SC107ECN1Edinburgh Waverley – Waverley West
+                                    0  00  0 15 10 Y Y  Y Y  Y  Y Y  Y Y
+              End (North Lines)
+     SC107EGM3Waverley West End – Haymarket (South
+                                    0  15  1 19 10 Y Y  Y Y  Y  Y Y  Y Y
+              Lines)
+     SC107ECN2Waverley West End – Haymarket (North
+                                    0  15  1 19 10 Y Y  Y Y  Y  Y Y  Y Y
+              Lines)
+     SC107EGM2Haymarket – Haymarket East Jn (South
+                                    46 02 45 72 10 Y Y  Y Y  Y  Y Y  Y Y
+              Lines)
+     SC107ECN2Haymarket – Haymarket East Jn (North
+                                    1  19  1 29 10 Y Y  Y Y  Y  Y Y  Y Y
+              Lines)
+
+     October 2009                               67

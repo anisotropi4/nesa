@@ -9,52 +9,59 @@
                                                      4347/2 47/4 47/7
                                                                  56 57 58 Notes
      route                           M  Ch  M Ch 000 00 00000 00 000 000 000 ooooooooooooooooooooooooo
-     SC059STR3 Change of ELR (Betweeen Challoch LC
-                                      46 54 53  055  Y  N  N  N  N  N  N
-               and Dunragit SB & LC) – Change of ELR
-               (Stranraer Yard GF)
-     SC059STR4 Change of ELR (Stranraer Yard GF) – End
-                                      53 05 54  055  Y  N  N  N  N  N  N .
-               of Line
-     SC061CNL  Shields Jn – Corkerhill1  05  3  1110 Y  Y  Y  Y  Y  Y  Y
-     SC061CNL  Corkerhill – Paisley Canal
-                                      3  11  7  0010 R1 R1 R1 R1 R1 R1 R1 R1Prohibited when overhead line equipment is
-                                                                            energised
-     SC063CND1 Cardonald Jn – Cardonald North Jn
-                                      0  00  0  369  Y  Y  Y  Y  Y  Y  Y
-     SC063CND2 Cardonald North Jn – Deanside (Goods
-                                      0  36  1  549  Y  Y  Y  Y  Y  Y  Y
-               Line)
-     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
-                                      6  34  6  537  Y  Y  Y  Y  Y  Y  Y
-     SC065GOU2 Change of ELR – Bishopton
-                                     107 70 112 607  R2 R2 R2 R2 R2 R2 R2 R1RA Change
-                                                                            STNC NC/G1/2010/ICP-RA/SC006 applies until
-                                                  R1 R3 R3 R3 R3 R3 R3 R3   30/09/2014
-                                                                         R2 30mph over bridge 179/065 (Black Cart
-                                                                            Water) (109m 71ch)
-                                                                         R3 30mph over bridge 179/061 (River Gryfe)
-                                                                            (110m 42ch)
-     SC065GOU2 Bishopton – Gourock   112 60 126 585  Y  Y  Y  Y  Y  Y  Y R1 RA Change
-                                                                            STNC NC/G1/2010/ICP-RA/SC006 applies until
-                                                  R1                        30/09/2014
-     SC067WYS  Wemyss Bay Jn – Wemyss Bay
-                                      0  00 10  035  Y  R1 R4 R1 N  R1 N R1 40mph over bridge 181/009 (7m 36ch)
-                                                        R2 R5 R2    R2   R2 40mph over bridge 181/032 (2m 48ch)
-                                                        R3    R3    R3   R3 15mph over bridge 181/034 (2m 24ch)
-                                                                         R4 Class 47/4 locomotives that conform to RA6
-                                                                            shall apply those restrictions applicable to
-                                                                            the Class 47/2
-                                                                         R5 Route prohibited to Class 47/4 locomotives
-                                                                            that conform to RA7
-     SC073LGS1 Kilwinning Jn – Change of ELR
-                                      25 65 30  4410 Y  Y  Y  Y  Y  Y  Y
-     SC073LGS2 Change of ELR – Fairlie High Siding
-                                      30 44 38  6910 Y  Y  Y  Y  Y  Y  Y
-     SC073LGS2 Fairlie High Siding – Largs
-                                      38 69 42  075  Y  N  N  N  N  N  N
+     SC031GSW  Route Boundary (NW4031) (Gretna Jn) –
+                                     115 40 109 008  Y  Y  Y  Y  Y  Y  Y
+               Old Route boundary (109m 00ch between
+               Eastriggs and Annan)
+     SC031GSW  Old Route boundary (109m 00ch between
+                                     109  0 33  4410 Y  Y  Y  Y  Y  Y  Y
+               Eastriggs and Annan) – Change of ELR
+     SC031GBK  Change of ELR – Muirhouse South Jn
+                                      23 44  1  1810 Y  Y  Y  Y  Y  Y  Y
+     SC031MEN2 Muirhouse South Jn – Muirhouse Central
+                                      0  00  0  1510 Y  Y  Y  Y  Y  Y  Y
+               Jn
+     SC031MEN1 Muirhouse Central Jn – Eglinton St Jn
+                                      0  19  0  7010 Y  Y  Y  Y  Y  Y  Y
+     SC031WCM2 Eglinton St Jn – Bridge St Jn
+                                     101 39 101 538  Y  Y  Y  Y  Y  Y  Y
+     SC031WCM2 Bridge St Jn – Glasgow Central
+                                     101 53 102 278  Y  Y  Y  Y  Y  Y  Y
+     SC035KSH  Bank Jn – Network Rail Boundary (Connel
+                                      54 05 55  2810 Y  Y  Y  Y  Y  Y  Y
+               Park LC) / Knockshinnoch
+     SC036GNN  Greenburn Jn – Greenburn Open Cast
+                                      0  00  0  5510 Y  Y  Y  Y  Y  Y  Y
+               (Goods Line)
+     SC037RIC1 Kay Park Jn – Bellfield0  00  1  0610 Y  Y  Y  Y  Y  Y  Y
+     SC037RIC2 Bellfield – Riccarton (Goods Line)
+                                      2  20  1  7510 Y  Y  Y  Y  Y  Y  Y
+     SC039BAK  Kilmarnock – Barassie  0  05  7  5610 Y  Y  Y  Y  Y  Y  Y
+     SC045EKE  East Kilbride – Busby Jn
+                                      7  60  0  405  N  N  N  N  N  N  N
+     SC047LFS2 Muirhouse South Jn – Change of ELR
+                                      1  19  0  6110 Y  Y  Y  Y  Y  Y  Y
+     SC047LFS1 Change of ELR – Larkfield Jn
+                                     101 17 101 0110 Y  Y  Y  Y  Y  Y  Y
+     SC049TSS  Muirhouse Central Jn – Terminus Jn
+                                      0  04  0  4010 Y  Y  Y  Y  Y  Y  Y
+     SC051CTC  Muirhouse Central Jn – Cathcart North Jn
+                                      5  19  1  633  R1 R1 R1 R1 R1 R1 R1 R1Route prohibited unless authorised by the
+               (via Cathcart)                                               Infrastructure Manager's structures engineer
+     SC051CTC  Cathcart North Jn – Muirhouse North Jn
+                                      1  63  0  007  Y  Y  Y  Y  Y  Y  Y
+               (via Crosshill)
+     SC053NNH  Neilston – Cathcart West Jn
+                                     108 45 100 775  Y  N  N  N  N  N  N
+     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill Jn
+                                      95 53 95  7710 Y  Y  Y  Y  Y  Y  Y
+     SC055KHL  Newton Kirkhill Jn – Cathcart West Jn
+                                      96 77 100 777  Y  Y  Y  Y  Y  Y  Y
+     SC057CNC  Cathcart East Jn – Cathcart North Jn
+                                      0  45  0  007  Y  Y  Y  Y  Y  Y  Y
+     SC059WCM2 Glasgow Central – Bridge St Jn
+                                     102 27 101 538  Y  Y  Y  Y  Y  Y  Y
+     SC059AYR1 Bridge St Jn – Cook St 0  00  0  198  Y  Y  Y  Y  Y  Y  Y
 
 
-
-
-     October 2009                               83
+     October 2009                               81

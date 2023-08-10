@@ -9,69 +9,63 @@
                                                            Notes
      route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
                                   M   Ch M  Ch
-     SC105GHE Gartsherrie South Jn – Gartcosh Jn
-                                   95 64 97 06 10    Y
-     SC106PNS Sighthill West Jn – Cowlairs South Jn
-                                    0 30  0 00 8     Y
-              (Chord line)
-     SC107ECM9Waverley East End – Edinburgh
-                                    0 21  0 00 10    Y
-              Waverley
-     SC107EGM4Edinburgh Waverley – Waverley West
-                                    0 00  0 15 10    Y
-              End (South lines)
-     SC107ECN1Edinburgh Waverley – Waverley West
-                                    0 00  0 15 10    Y
-              End (North lines)
-     SC107EGM3Waverley West End – Haymarket
-                                    0 15  1 19 10    Y
-              (South lines)
-     SC107ECN2Waverley West End – Haymarket
-                                    0 15  1 19 10    Y
-              (North lines)
-     SC107EGM2Haymarket – Haymarket East Jn
-                                   46 02 45 72 10    Y
-              (South lines)
-     SC107ECN2Haymarket – Haymarket East Jn
-                                    1 19  1 29 10    Y
-              (North lines)
-     SC107EGM2Haymarket East Jn – Haymarket
-                                   45 72 45 35 10    Y
-              Central Jn (South lnes)
-     SC107ECN2Haymarket East Jn – Haymarket
-                                    1 29  1 66 10    Y
-              Central Jn (North lnes)
-     SC107EGM2Haymarket Central Jn – Haymarket
-                                   45 35 44 73 10    Y
-              West Jn (South lnes)
-     SC107ECN2Haymarket Central Jn – Haymarket
-                                    1 66  2 41 10    Y
-              West Jn (North lines)
-     SC107EGM1Haymarket West Jn – Cowlairs West
-                                   44 73  1 67 10    Y
-              Jn
-     SC107EGM1Cowlairs West Jn – Glasgow Queen
-                                    1 67  0 00  8    Y
-              Street
-     SC109PMT Polmont Jn – Grangemouth Jn
-                                   21 20  2375 10    Y
-     SC109PMT Grangemouth Jn – Carmuirs East Jn
-                                   23 75  2579 10    Y
-     SC109CMS Carmuirs East Jn – Carmuirs West Jn
-                                   0  40  0 -0210    Y
-     SC109SCM3Carmuirs West Jn – Greenhill Lower
-                                  108 74 10662 10    Y
-              Jn
-     SC109GHL Greenhill Lower Jn – Greenhill Upper
-                                    0 52  0 00 10    Y
-              Jn
-     SC110PMT Carmuirs East Jn – Larbert Jn
-                                   25 79 26 35 10    Y
-     SC111NBE Newbridge Jn – Bathgate
-                                   35 21 25 18 10    Y
-     SC113DMY Winchburgh Jn – Dalmeny Jn
-                                   34 54 39 03 8     Y
+     SC059LYE Cook St – High St Line (Smithy Lye
+                                    0 00  0 44  8    Y
+              through line)
+     SC059AYR1Cook St – Shields Jn  0 19  1 00 8     Y
+     SC059AYR1Shields Jn – Change of ELR (Paisley
+                                    1 00  6 53 10    Y
+              Gilmour Street)
+     SC059AYR2Change of ELR (Paisley Gilmour
+                                    6 73  7 00 10    Y
+              Street) – Change of ELR (Brown
+              Street crossover)
+     SC059AYR3Change of ELR (Brown Street
+                                    7 00 23 00 10    Y
+              crossover) – Change of ELR (Dalry)
+     SC059AYR4Change of ELR (Dalry) – Change of
+                                   23 00 33 08 10    Y
+              ELR (Barassie Jn)
+     SC059AYR5Change of ELR (Barassie Jn) –
+                                    0 00  2 15 10    Y
+              Change of ELR (Between Troon and
+              Prestwick International Airport)
+     SC059AYR6Change of ELR (Between Troon and
+                                   35 05 38 73 10    Y
+              Prestwick International Airport) –
+              Falkland Jn
+     SC059AYR6Falkland Jn – Ayr    38 73 40 49  8    Y
+     SC059STR1Ayr – Dalrymple Jn   40 49 43 53  8    Y
+     SC059STR1Dalrymple Jn – Change of ELR
+                                   43 53 61 60  5    N
+              (Girvan)
+     SC059STR2Change of ELR (Girvan) – Change of
+                                    0 00 30 67  5    Y
+              ELR (Betweeen Challoch LC and
+              Dunragit SB & LC)
+     SC059STR3Change of ELR (Betweeen Challoch
+                                   46 54 53 05  5    Y
+              LC and Dunragit SB & LC) – Change
+              of ELR (Stranraer Yard GF)
+     SC059STR4Change of ELR (Stranraer Yard GF) –
+                                   53 05 54 05  5    Y
+              End of Line
+     SC061CNL Shields Jn – Corkerhill
+                                    1 05  3 11 10    Y
+     SC061CNL Corkerhill – Paisley Canal
+                                    3 11  7 00 10    Y
+     SC063CND1Cardonald Jn – Cardonald North Jn
+                                    0 00  0 36 9     Y
+     SC063CND2Cardonald North Jn – Deanside
+                                    0 36  1 54 9     Y
+              (Goods Line)
+     SC065GOU1Paisley (Wallneuk Jn) – Change of
+                                    6 34  6 53  7    R1   R1Prohibited between Paisley Gilmour St and Change of ELR on the
+              ELR                                           Up Gourock line
+     SC065GOU2Change of ELR – Bishopton
+                                  107 70 11260  7    R1   R1Prohibited between Change of ELR and Paisley St James on the Up
+                                                            Gourock line
 
 
 
-     October 2009                               144
+     October 2009                               142

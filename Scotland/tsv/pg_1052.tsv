@@ -1,25 +1,24 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1052	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	N	N	N	N	N	N	
-Scotland	1052	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	SCM5	Change of Mileage – Dundee Central Jn	21	01	0	36	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC119	ECN2	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1052	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1052	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1052	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	R1	R1	R1	N	N	N	N	N	N	R1 Prohibited when overhead line equipment is energised
+Scotland	1052	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC065	GOU2	Bishopton – Gourock	112	60	126	58	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1052	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	N	N	N	
+Scotland	1052	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	Y	Y	Y	N	N	N	Y	Y	E	
+Scotland	1052	SC093	SCM2	Mossend South – Whifflet North Jn	91	08	94	05	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1052	SC093	SCM3	Whifflet North Jn – Gartsherrie South Jn (Limit of OLE)	94	05	95	64	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1052	SC093	SCM3	Gartsherrie South Jn (Limit of OLE) – Greenhill Lower Jn	95	64	106	63	Y	Y	Y	N	N	N	N	Y	N	

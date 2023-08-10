@@ -3,62 +3,51 @@
 
 
 
-   Line ofLine of Route / Sector Description         Gauge                   Notes
+   Line ofLine of Route / Sector Description         Gauge                  Notes
    Route
-                                   W6   W7    W8   W9  W9Plus W10 W10A  W12
-   SC107  Edinburgh Waverley – Princes Street Gardens
-                                    Y*   R1   R1   R1    N     N   N     N  R1 W9 prohibited EXCEPT all
-                                                                               through routes Edinburgh
-                                                                               Waverley Station and Lines
-                                                                               W & Z between Edinburgh
-                                                                               Waverley and Princes Street
-                                                                               Gardens
-                                                                               W9 W8 W7 prohibited Lines
-                                                                               X & Y between Edinburgh
-                                                                               Waverley and Princes Street
-                                                                               Gardens
-   SC107  Princes Street Gardens – Haymarket Central
-                                    Y*   Y    R1   R1    N     N   N     N  R1 W8 W9 ~prohibited both
-          Jn                                                                   Lines Haymarket North
-                                                                               Tunnel
-   SC107  Haymarket Central Jn – Haymarket West Jn
-                                    Y    Y    Y    N     N     Y   N     N
-   SC107  Haymarket West Jn – Newbridge Jn
-                                    Y*   Y    Y    Y     N     Y   N     N
-   SC107  Newbridge Jn – Winchburgh Jn
-                                    Y*   Y    N    N     N     N   N     N
-   SC107  Winchburgh Jn – Polmont JnY*   Y    Y    N     N     N   N     N
-   SC107  Polmont Jn – Greenhill Upper Jn via Falkirk
-                                    Y*   Y    N    N     N     N   N     N
-          High
-   SC107  Greenhill Upper Jn – Cowlairs West Jn
-                                    Y*   Y    Y    N     N     N   N     N
-   SC107  Cowlairs West Jn – Glasgow Queen Street
-                                    Y    N    N    N     N     N   N     N
-   SC109  Polmont Jn – Grangemouth Jn
-                                    Y    Y    Y    N     N     N   N     N
-   SC109  Grangemouth Jn – Carmuirs East Jn
-                                    Y*   Y    Y    Y     N     N   N     N
-   SC109  Carmuirs East Jn – Carmuirs West Jn
-                                    Y    Y    Y    Y     N     N   N     N
-   SC109  Carmuirs West Jn – Greenhill Lower Jn
-                                    Y    Y    Y    Y     N     N   N     N
-   SC109  Greenhill Lower Jn – Greenhill Upper Jn
-                                    Y    Y    Y    Y     N     N   N     N
-   SC110  Carmuirs East Jn – Larbert Jn
-                                    Y    Y    Y    N     N     N   N     N
-   SC111  Newbridge Jn – Bathgate inc. Carmondean Jn
-                                    Y*   Y    Y    Y     N     Y   N     N
-   SC113  Winchburgh Jn – Dalmeny JnY*   Y    Y    N     N     N   N     N
-   SC115  Cowlairs West Jn – Knightswood North Jn
-                                    Y    Y    Y    N     N     N   N     N
-   SC1150 Maryhill Park Jn – Anniesland
-                                    Y    N    N    N     N     N   N     N
-   SC117  Grangemouth Jn – Grangemouth
-                                    Y*   Y    Y    Y     N     N   N     N
-   SC119  Greenhill Upper Jn – Greenhill Lower Jn
-                                    Y    Y    Y    Y     N     N   N     N
+
+                                   W6   W7    W8   W9  W9PlusW10  W10A  W12
+   SC039  Kilmarnock – Barassie     Y    Y    Y    Y     N    N    N    N
+   SC041  Shewalton Moss – Hillhouse (Goods Line)
+                                    –    –    –    –     –    –    –    –  Line Out of Use
+          (OOU)
+   SC043  Giffen – Lugton (Goods Line) (OOU)
+                                    –    –    –    –     –    –    –    –  Line Out of Use (11-Jan-2009)
+   SC045  East Kilbride – Busby Jn  Y*   N    N    N     N    N    N    N
+   SC047  Muirhouse South Jn – Larkfield Jn
+                                    Y    Y    N    N     N    N    N    N
+   SC049  Muirhouse Central Jn – Terminus Jn
+                                    Y    Y    N    N     N    N    N    N
+   SC051  Muirhouse Central Jn – Muirhouse North Jn
+                                    Y*   Y    N    N     N    N    N    N
+          (via Cathcart) (Cathcart Circle)
+   SC053  Neilston – Cathcart West Jn
+                                    Y*   Y    N    N     N    N    N    N
+   SC055  Newton Hamilton Jn – Cathcart West Jn
+                                    Y*   Y    R1   R1    N    R1   N    N  R1 W10 W9 W8 prohibited
+                                                                              EXCEPT between Newton,
+                                                                              Hamilton Jn and Newton
+                                                                              Kirkhill Jn to/from North
+                                                                              Connecting Line
+   SC057  Cathcart East Jn – Cathcart North Jn
+                                    Y    Y    N    N     N    N    N    N
+   SC059  Bridge Street Jn – Shields Jn
+                                    Y*   Y    Y    N     N    N    N    N
+   SC059  Shields Jn – Falkland Jn  Y*   Y    Y    R1    N    N    N    N  R1 W9 prohibited through
+                                                                              Barassie Up Platform
+   SC059  Falkland Jn – Stranraer Harbour
+                                    Y*   Y    Y    N     N    N    N    N
+   SC059  Cook Street – Shields Road (through siding)
+                                    Y    Y    N    N     N    N    N    N
+   SC061  Shields Jn – Corkerhill   Y*   Y    N    N     N    N    N    N
+   SC061  Corkerhill – Paisley CanalR1   R1   N    N     N    N    N    N  R1 Prohibited when overhead line
+                                                                              equipment is energised
+   SC063  Cardonald Jn – Deanside (Goods Line)
+                                    Y    Y    Y    Y     N    N    N    N
+   SC065  Paisley – Wemyss Bay Jn   Y*   Y    Y    N     N    N    N    N
+   SC065  Wemyss Bay Jn – Gourock   Y*   Y    N    N     N    N    N    N
 
 
 
-     October 2009                               130
+
+     October 2009                              128B

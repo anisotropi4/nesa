@@ -1,23 +1,26 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Scotland	1121	SC059	AYR5	Change of ELR (Barassie Jn) – Change of ELR (Between Troon and Prestwick International Airport)	0	00	2	15	10	Y	Y	Y	Y	Y	Y	
-Scotland	1121	SC059	AYR6	Change of ELR (Between Troon and Prestwick International Airport) – Falkland Jn	35	05	38	73	10	Y	Y	Y	Y	Y	Y	
-Scotland	1121	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	8	Y	Y	Y	R1	R1	R1	R1 Prohibited between Newton Jn and Ayr
-Scotland	1121	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	8	R1	R1	N	N	N	N	R1 Prohibited between between Townhead Sidings reversing points and Dalrymple Jn
-Scotland	1121	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	5	N	N	N	N	N	N	
-Scotland	1121	SC059	STR2	Change of ELR (Girvan) – Change of ELR (Betweeen Challoch LC and Dunragit SB & LC)	0	00	30	67	5	N	N	N	N	N	N	
-Scotland	1121	SC059	STR3	Change of ELR (Betweeen Challoch LC and Dunragit SB & LC) – Change of ELR (Stranraer Yard GF)	46	54	53	05	5	N	N	N	N	N	N	
-Scotland	1121	SC059	STR4	Change of ELR (Stranraer Yard GF) – End of Line	53	05	54	05	5	N	N	N	N	N	N	
-Scotland	1121	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	10	N	N	Y	N	N	N	
-Scotland	1121	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	10	N	N	Y	N	N	N	
-Scotland	1121	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	N	N	Y	N	N	N	
-Scotland	1121	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	9	N	N	Y	N	N	N	
-Scotland	1121	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	N	N	Y	N	N	N	
-Scotland	1121	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	7 R1	N	N	Y	N	N	N	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014
-Scotland	1121	SC065	GOU2	Bishopton – Gourock	112	60	126	58	5 R1	N	N	N	N	N	N	R1 RA Change STNC NC/G1/2010/ICP-RA/SC006 applies until 30/09/2014
-Scotland	1121	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	N	N	N	N	N	N	
-Scotland	1121	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	N	N	Y	N	N	N	
-Scotland	1121	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	N	N	Y	N	N	N	
-Scotland	1121	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	N	N	N	N	N	N	
-Scotland	1121	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	10	N	N	Y	N	N	N	
-Scotland	1121	SC079	HUN	Hunterston – Hunterston Low Level Sdgs (Goods Line)	0	00	0	36	10	N	N	Y	N	N	N	
-Scotland	1121	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	N	N	Y	N	N	N	
+Scotland	1121	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	N	
+Scotland	1121	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	N	
+Scotland	1121	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC021	COS2	Coltness – Change of ELR	0	09	0	00	10	N	N	Y	N	N	N	
+Scotland	1121	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	10	N	N	Y	N	N	N	
+Scotland	1121	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	7	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	10	N	N	Y	N	N	N	
+Scotland	1121	SC025	ARG1	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	N	N	Y	N	N	N	
+Scotland	1121	SC025	ARG2	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	N	N	Y	N	N	N	
+Scotland	1121	SC025	ARG2	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	N	N	Y	N	N	N	
+Scotland	1121	SC025	ARG2	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	N	N	Y	N	N	N	
+Scotland	1121	SC027	RNC	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	N	N	Y	N	N	N	
+Scotland	1121	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC029	BRD	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	
+Scotland	1121	SC031	GSW	Route Boundary (NW4031) (Gretna Jn) – Old Route boundary (109m 00ch between Eastriggs and Annan)	115	40	109	00	8	N	N	Y	N	N	N	
+Scotland	1121	SC031	GSW	Old Route boundary (109m 00ch between Eastriggs and Annan) – Change of ELR	109	0	33	44	10	N	N	Y	N	N	N	
+Scotland	1121	SC031	GBK	Change of ELR – Muirhouse South Jn	23	44	1	18	10	N	N	Y	N	N	N	
+Scotland	1121	SC031	MEN2	Muirhouse South Jn – Muirhouse Central Jn	0	00	0	15	10	N	N	Y	N	N	N	
+Scotland	1121	SC031	MEN1	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	10	N	N	Y	N	N	N	

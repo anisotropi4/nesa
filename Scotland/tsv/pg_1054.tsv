@@ -1,20 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1054	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1054	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1054	SC143	OBN2	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1054	SC143	OBN2	Inverhaggernie No.1 LC – Oban	31	00	71	44	Y	Y	Y	N	N	N	N	Y	N	
-Scotland	1054	SC145	MLG1	Fort William – Change of ELR	0	05	1	27	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1054	SC145	MLG2	Change of ELR – Mallaig	0	00	39	39	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1054	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	54	50	9	67	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	ECM8	Prestonpans Jn – Calton South Tunnel	9	67	0	29	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	ECM9	Calton South Tunnel – Waverley East End	0	29	0	21	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1054	SC147	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	EGM4	Edinburgh Waverley – Waverley West End (South Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited between 00m 32 ch to Haymarket (North lines)
-Scotland	1054	SC147	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	N	N	N	Y	Y	Y	
-Scotland	1054	SC147	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1054	SC147	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1054	SC147	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1054	SC147	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	Y	Y	N	N	N	Y	Y	N	
+Scotland	1054	SC107	EGM1	Cowlairs West Jn – Glasgow Queen Street	1	67	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	N	N	N	N	N	N	
+Scotland	1054	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	SCM3	Stirling Middle Jn – Change of ELR (Dunblane)	118	08	123	40	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	SCM5	Change of Mileage – Dundee Central Jn	21	01	0	36	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC119	ECN2	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1054	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	Y	Y	Y	N	N	N	N	Y	N	

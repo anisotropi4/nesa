@@ -7,61 +7,56 @@
           ELR Line of Route / Sector Description
                                     M  Ch  M Ch  334  350 380  385  390  397Notes
     route
-    SC109 PMT Polmont Jn – Grangemouth Jn
-                                    21 20 23  75 N    N    N   R1    N   Y  R1 Up to 12 cars
-    SC109 PMT Grangemouth Jn – Carmuirs East Jn
-                                    23 75 25  79 N    N    N   R1    N   Y  R1 Up to 12 cars
-    SC109 CMS Carmuirs East Jn – Carmuirs West Jn
-                                    0  40  -0 2  N    N    N   R1    N   Y  R1 Up to 12 cars
-    SC109 SCM3Carmuirs West Jn – Greenhill Lower Jn
-                                   108 74 106 62 N    N    N   R1    N   N  R1 Up to 12 cars
-    SC109 GHL Greenhill Lower Jn – Greenhill Upper
-                                    0  52  0  00 N    N    N   R1    N   N  R1 Up to 12 cars
-              Jn
-    SC110 PMT Carmuirs East Jn – Larbert Jn
-                                    25 79 26  35 N    N    N   R1    N   N  R1 Up to 12 cars
-    SC111 NBE Newbridge Jn – Bathgate
-                                    35 21 25  18 Y    N    Y    N    N   N
-    SC113 DMY Winchburgh Jn – Dalmeny Jn
-                                    34 54 39  03 N    N    N    N    N   N
-    SC115 MRL1Cowlairs West Jn – Maryhill Park Jn
-                                    8  26  5  51 N    N    N    N    N   N
-    SC115 MRL2Maryhill Park Jn – Knightswood North
-                                    4  40  5  67 N    N    N    N    N   N
-              Jn
-    SC1150MLA Maryhill Park Jn – Anniesland
-                                    0  00  0  70 N    N    N    N    N   N
-    SC116 CSN Cowlairs East Jn – Cowlairs North Jn
-                                    0  00  0  21 N    N    N    N    N   N
-    SC117 GMH Grangemouth Jn – Grangemouth
-                                    0  00  3  67 N    N    N   E     N   N  R1 Prohibited between GH12
-                                                               R1           signal and Grangemouth on Down
-                                                               R2           Branch line
-                                                                            R2 Prohibited between GH10
-                                                                            signal an Granemouth on Up
-                                                                            Branch line
-    SC119 GHL Greenhill Upper Jn – Greenhill Lower
-                                    0  00  0  52 N    N    N   R1    N   N  R1 Up to 12 cars
-              Jn
-    SC119 SCM3Greenhill Lower Jn – Carmuirs West Jn
-                                   106 62 108 74 N    N    N   R1    N   N  R1 Up to 12 cars
+    SC093 SCM3Gartsherrie South Jn (Limit of OLE) –
+                                    95 64 106 63 R1   N    R1  R2    N   N  R3 Prohibited between Limit of
+              Greenhill Lower Jn                                            Electrification (Cumbernauld) and
+                                                                            Greenhill Lower Jn
+                                                                            R4 Up to 12 cars
+    SC097 SYE Whifflet South Jn – Sunnyside Jn
+                                    9  63  8  43 R1   N    N    N    N   N  R2 15mph maximum speed
+              (Goods Line)
+    SC099 RSL2Whifflet North Jn – Change of ELR
+                                    0  00  0  34 Y    Y    Y   R1    N   Y  R1 Up to 12 cars
+    SC099 RSL1Change of ELR – Langloan Jn
+                                    6  59  6  34 Y    Y    Y   R1    N   Y  R1 Up to 12 cars
+    SC099 RCB Langloan Jn – Rutherglen East Jn
+                                    6  34  0  04 Y    Y    Y   R1    N   Y  R1 Up to 10 cars
+    SC101 RCB Coatbridge Jn – Langloan Jn
+                                    7  03  6  34 Y    R1   Y   R2    N   Y  R1 Class 350/4 only
+                                                                            R2 Up to 10 cars
+    SC103 CBD1Garnqueen North Jn – Gartcosh Jn
+                                    1  33  0  00 Y    N    Y   R1    N   N  R1 Up to 12 cars
+    SC103 CBD2Gartcosh Jn – Change of ELR
+                                    97 09 103 41 Y    N    Y   R1    N   Y  R1 Up to 12 cars
+    SC103 SGN Change of ELR – Cowlairs West Jn
+                                    0  61  -0 20 Y    N    Y   R1    N   R1 R1 Prohibited between Change
+                                                               R4        R2 of ELR and Sighthill East Jn
+                                                                         R3 R2 Prohibibted between Sighthill
+                                                                            West Jn and Cowlairs West Jn
+                                                                            R3 Prohibted Springburn platform
+                                                                            3
+                                                                            R4 Up to 12 cars
+    SC105 GHE Gartsherrie South Jn – Gartcosh Jn
+                                    95 64 97  06 Y    N    Y   R1    N   Y  R1 Up to 12 cars
+    SC106 PNS Sighthill West Jn – Cowlairs South Jn
+                                    0  30  0  00 Y    N    Y   R1    N   Y  R1 Up to 12 cars
+              (Chord Line)
+    SC107 ECM9Waverley East End – Edinburgh
+                                    0  21  0  00 Y    E    Y   R2   R1   Y  R1 Prohibited Edinburgh
+              Waverley                                                      Waverley platforms 1, 3, 4 & 20
+                                                                            R2 Up to 12 cars
+    SC107 EGM4Edinburgh Waverley – Waverley West
+                                    0  00  0  15 Y    Y    Y   R2   R1   Y  R1 Prohibited Edinburgh
+              End (South Lines)                                             Waverley platforms 12, 13 & 14
+                                                                            R2 Up to 12 cars
+    SC107 ECN1Edinburgh Waverley – Waverley West
+                                    0  00  0  15 Y    N    Y   R2   R1   Y  R1 Prohibited Edinburgh
+              End (North Lines)                                             Waverley platforms 1, 15, 16, 17,
+                                                                            18 & 20
+                                                                            R2 Up to 12 cars
+    SC107 EGM3Waverley West End – Haymarket
+                                    0  15  1  19 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
+              (South Lines)
 
 
-    SC119 SCM3Carmuirs West Jn – Stirling Middle Jn
-                                   108 76 118 08 N    N    N   R1    N   N  R1 Up to 12 cars
-    SC119 SCM3Stirling Middle Jn – Change of ELR
-                                   118 08 123 40 N    N    N   R1    N   N  R1 Up to 12 cars
-              (Dunblane)
-    SC119 SCM4Change of ELR (Dunblane) – Perth
-                                   123 40 150 61 N    N    N    N    N   N
-              South Jn
-    SC119 SCM5Perth South Jn – Change of Mileage
-                                   150 61 151 03 N    N    N    N    N   N
-    SC119 SCM5Change of Mileage – Dundee Central
-                                    21 01  0  36 N    N    N    N    N   N
-              Jn
-
-
-
-
-    October 2009                                48H
+    October 2009                                48F

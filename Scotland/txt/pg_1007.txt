@@ -6,62 +6,58 @@
                                         Scotland Route Sectional Appendix Module SCRC
 
      Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo
-                                                 170  180 185  220  221 Notes
-     route                          M  Ch M  Ch  0000 00000000 0000 0000 ooooooooooooooooooooooooooo
-     SC101RCB Coatbridge Jn – Langloan Jn
-                                     7  03  6  34 Y    Y   Y    Y    Y
-     SC103CBD1Garnqueen North Jn – Gartcosh Jn
-                                     1  33  0  00 Y    N   N    N    N
-     SC103CBD2Gartcosh Jn – Change of ELR
-                                     97 09 103 41 Y    N   N    Y    Y
-     SC103SGN Change of ELR – Cowlairs West Jn
-                                     0  61  -0 20 Y    N   N    Y    Y
-     SC105GHE Gartsherrie South Jn – Gartcosh Jn
-                                     95 64 97  06 Y    N   N    Y    Y
-     SC106PNS Sighthill West Jn – Cowlairs South Jn
-                                     0  30  0  00 Y    N   N    Y    Y
-              (Chord Line)
-     SC107ECM9Waverley East End – Edinburgh
-                                     0  21  0  00 Y    N   Y    Y    Y
-              Waverley
-     SC107EGM4Edinburgh Waverley – Waverley West
-                                     0  00  0  15 Y    N   Y    Y    Y
-              End (South Lines)
-     SC107ECN1Edinburgh Waverley – Waverley West
-                                     0  00  0  15 Y    N   Y    Y    Y
-              End (North Lines)
-     SC107EGM3Waverley West End – Haymarket (South
-                                     0  15  1  19 Y    N   Y    Y    Y
-              Lines)
-     SC107ECN2Waverley West End – Haymarket (North
-                                     0  15  1  19 Y    N   Y    Y    Y
-              Lines)
-     SC107EGM2Haymarket – Haymarket East Jn (South
-                                     46 02 45  72 Y    N   Y    Y    Y
-              Lines)
-     SC107ECN2Haymarket – Haymarket East Jn (North
-                                     1  19  1  29 Y    N   Y    Y    Y
-              Lines)
-     SC107EGM2Haymarket East Jn – Haymarket Central
-                                     45 72 45  35 Y    N   Y    Y    Y
-              Jn (South Lines)
-     SC107ECN2Haymarket East Jn – Haymarket Central
-                                     1  29  1  66 Y    N   Y    Y    Y
-              Jn (North Lines)
-     SC107EGM2Haymarket Central Jn – Haymarket West
-                                     45 35 44  73 Y    N   Y    Y    Y
-              Jn (South Lines)
-     SC107ECN2Haymarket Central Jn – Haymarket West
-                                     1  66  2  41 Y    N   Y    Y    Y
-              Jn (North Lines)
-     SC107EGM1Haymarket West Jn – Cowlairs West Jn
-                                     44 73  1  67 Y    N   R1   Y    Y R1 Prohibited between Polmont Jn and
-                                                                          Cowlairs West Jn
-     SC107EGM1Cowlairs West Jn – Glasgow Queen
-                                     1  67  0  00 Y    N   N    Y    Y
-              Street
-     SC109PMT Polmont Jn – Grangemouth Jn
-                                     21 20 23  75 Y    N   Y    Y    Y
+          ELR  Line of Route / Sector Description oooo oooo oooo oooo
+                                                  170 180 185  220  221 Notes
+     route                           M  Ch M  Ch  000000000000 0000 0000 ooooooooooooooooooooooooooo
+     SC059AYR1 Cook St – Shields Jn  0  19  1  00 E    N   E    Y    Y
+     SC059AYR1 Shields Jn – Change of ELR (Paisley
+                                     1  00  6  53 N    N   N    Y    Y
+               Gilmour Street)
+     SC059AYR2 Change of ELR (Paisley Gilmour Street)
+                                     6  73  7  00 N    N   N    Y    Y
+               – Change of ELR (Brown Street
+               crossover)
+     SC059AYR3 Change of ELR (Brown Street
+                                     7  00 23  00 N    N   N    Y    Y
+               crossover) – Change of ELR (Dalry)
+     SC059AYR4 Change of ELR (Dalry) – Change of ELR
+                                     23 00 33  08 N    N   N    Y    Y
+               (Barassie Jn)
+     SC059AYR5 Change of ELR (Barassie Jn) – Change
+                                     0  00  2  15 N    N   N    Y    Y
+               of ELR (Between Troon and Prestwick
+               International Airport)
+     SC059AYR6 Change of ELR (Between Troon and
+                                     35 05 38  73 N    N   N    Y    Y
+               Prestwick International Airport) –
+               Falkland Jn
+     SC059AYR6 Falkland Jn – Ayr     38 73 40  49 N    N   N    R1  R1 R1 Prohibited between Newton Jn and Ayr
+     SC059STR1 Ayr – Dalrymple Jn    40 49 43  53 N    N   N    N    N
+     SC059STR1 Dalrymple Jn – Change of ELR (Girvan)
+                                     43 53 61  60 N    N   N    N    N
+     SC059STR2 Change of ELR (Girvan) – Change of
+                                     0  00 30  67 N    N   N    N    N
+               ELR (Betweeen Challoch LC and
+               Dunragit SB & LC)
+     SC059STR3 Change of ELR (Betweeen Challoch LC
+                                     46 54 53  05 N    N   N    N    N
+               and Dunragit SB & LC) – Change of ELR
+               (Stranraer Yard GF)
+     SC059STR4 Change of ELR (Stranraer Yard GF) –
+                                     53 05 54  05 N    N   N    N    N
+               End of Line
+     SC061CNL  Shields Jn – Corkerhill
+                                     1  05  3  11 N    N   E    R1  R1 R1 Only for access to / from Shields Depot
+     SC061CNL  Corkerhill – Paisley Canal
+                                     3  11  7  00 N    N   N    N    N
+     SC063CND1 Cardonald Jn – Cardonald North Jn
+                                     0  00  0  36 N    N   N    N    N
+     SC063CND2 Cardonald North Jn – Deanside (Goods
+                                     0  36  1  54 N    N   N    N    N
+               Line)
+     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
+                                     6  34  6  53 N    N   N    N    N
 
-     October 2009                               26
+
+
+     October 2009                               24

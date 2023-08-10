@@ -5,51 +5,60 @@
 
    Line ofLine of Route / Sector Description         Gauge                   Notes
    Route
-                                   W6   W7    W8   W9  W9Plus  W10 W10A  W12
-   SC135  Dalreoch Jn – Balloch     Y*   N    N    N     N     N    N    N
-   SC136  Hyndland North Jn – Hyndland West Jn
-                                    Y    Y    N    N     N     N    N    N
-   SC137  Clydebank Dock Jn – Rothesay Dock (Goods
-                                    –    –    –    –     –      –    –   –   Line Out of Use
-          Line) (OOU)
-   SC139  Clydebank Jn – Dalmuir Riverside (Goods
-                                    –    –    –    –     –      –    –   –   Line Out of Use
-          Line) (OOU)
-   SC141  Craigendoran Jn – Fort William
-                                    Y*   Y    Y    N     N     N    N    N
-   SC143  Crianlarich – Oban        Y*   Y    N    N     N     N    N    N
-   SC143  Lower Crianlarich Siding  N    N    N    N     N     N    N    N   Part NOT Network Rail infrastructure
-   SC145  Fort William – Annat Paper Mill GF
-                                    Y*   Y    Y    N     N     N    N    N
-   SC145  Annat Paper Mill GF – Mallaig
-                                    Y*   Y    N    N     N     N    N    N
-   SC147  Berwick – Edinburgh, Waverley East End
-                                    Y*   Y    Y    Y     R1    R1   R1   R1  R1   PROHIBITED Berwick to
-                                                         R2    R2   R2   R2  Territory Bounday
-                                                         R3    R3   R3   R3  R2   PROHIBITED Monktonhall Jn
-                                                                             to Edinburgh, Waverley East End
-                                                         R4    R4   R4   R4
-                                                                             R3   PROHIBITED Granthouse Up
-                                                         R5    R5   R5   R5  and Down Passenger Loops
-                                                         R6    R6   R6   R6  R4   PROHIBITED Torness Up
-                                                         R7    R7   R7   R7  sidings
-                                                         R8    R8   R8   R8  R5   PROHIBITED Oxwellmains
-                                                                             Up and Down sidings
-                                                                             R6   PROHIBITED Dunbar Down
-                                                                             and Up Passenger Loop
-                                                                             R7   PROHIBITED Drem Up and
-                                                                             Down Passenger Loops
-                                                                             R8   PROHIBITED Prestonpans
-                                                                             Up Passenger Loop
-   SC147  Edinburgh, Waverley East End – Princes
-                                    Y*   Y    R1   R1    N     N    N    N   R1   W8 W9 Prohibited EXCEPT
-          Street Gardens                                                     all through routes Edinburgh Waverley
-                                                                             Station and Lines W & Z between
-                                                                             Edinburgh Waverley and Princes
-                                                                             Street Gardens
-   SC147  Princes Street Gardens to Haymarket Central
-                                    Y*   Y    R1   R1    N     N    N    N   R1   W8 W9 Prohibited both Lines
-          Jn                                                                 Haymarket North Tunnel
-   SC149  North Berwick – Drem Jn   Y    Y    N    N     N     N    N    N
+                                   W6   W7    W8   W9  W9Plus W10 W10A  W12
+   SC107  Edinburgh Waverley – Princes Street Gardens
+                                    Y*   R1   R1   R1    N     N   N     N  R1 W9 prohibited EXCEPT all
+                                                                               through routes Edinburgh
+                                                                               Waverley Station and Lines
+                                                                               W & Z between Edinburgh
+                                                                               Waverley and Princes Street
+                                                                               Gardens
+                                                                               W9 W8 W7 prohibited Lines
+                                                                               X & Y between Edinburgh
+                                                                               Waverley and Princes Street
+                                                                               Gardens
+   SC107  Princes Street Gardens – Haymarket Central
+                                    Y*   Y    R1   R1    N     N   N     N  R1 W8 W9 ~prohibited both
+          Jn                                                                   Lines Haymarket North
+                                                                               Tunnel
+   SC107  Haymarket Central Jn – Haymarket West Jn
+                                    Y    Y    Y    N     N     Y   N     N
+   SC107  Haymarket West Jn – Newbridge Jn
+                                    Y*   Y    Y    Y     N     Y   N     N
+   SC107  Newbridge Jn – Winchburgh Jn
+                                    Y*   Y    N    N     N     N   N     N
+   SC107  Winchburgh Jn – Polmont JnY*   Y    Y    N     N     N   N     N
+   SC107  Polmont Jn – Greenhill Upper Jn via Falkirk
+                                    Y*   Y    N    N     N     N   N     N
+          High
+   SC107  Greenhill Upper Jn – Cowlairs West Jn
+                                    Y*   Y    Y    N     N     N   N     N
+   SC107  Cowlairs West Jn – Glasgow Queen Street
+                                    Y    N    N    N     N     N   N     N
+   SC109  Polmont Jn – Grangemouth Jn
+                                    Y    Y    Y    N     N     N   N     N
+   SC109  Grangemouth Jn – Carmuirs East Jn
+                                    Y*   Y    Y    Y     N     N   N     N
+   SC109  Carmuirs East Jn – Carmuirs West Jn
+                                    Y    Y    Y    Y     N     N   N     N
+   SC109  Carmuirs West Jn – Greenhill Lower Jn
+                                    Y    Y    Y    Y     N     N   N     N
+   SC109  Greenhill Lower Jn – Greenhill Upper Jn
+                                    Y    Y    Y    Y     N     N   N     N
+   SC110  Carmuirs East Jn – Larbert Jn
+                                    Y    Y    Y    N     N     N   N     N
+   SC111  Newbridge Jn – Bathgate inc. Carmondean Jn
+                                    Y*   Y    Y    Y     N     Y   N     N
+   SC113  Winchburgh Jn – Dalmeny JnY*   Y    Y    N     N     N   N     N
+   SC115  Cowlairs West Jn – Knightswood North Jn
+                                    Y    Y    Y    N     N     N   N     N
+   SC1150 Maryhill Park Jn – Anniesland
+                                    Y    N    N    N     N     N   N     N
+   SC117  Grangemouth Jn – Grangemouth
+                                    Y*   Y    Y    Y     N     N   N     N
+   SC119  Greenhill Upper Jn – Greenhill Lower Jn
+                                    Y    Y    Y    Y     N     N   N     N
 
-     October 2009                               132
+
+
+     October 2009                               130

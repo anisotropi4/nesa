@@ -1,18 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1040	SC147	ECN1	Edinburgh Waverley – Waverley West End (North Lines)	0	00	0	15	Y	N	Y	R2	R1	Y	R1 Prohibited Edinburgh Waverley platforms 1, 15, 16, 17, 18 & 20 R2 Up to 12 cars
-Scotland	1040	SC147	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	Y	Y	Y	R1	Y	Y	R1 Up to 10 cars
-Scotland	1040	SC147	ECN2	Waverley West End – Haymarket (North Lines)	0	15	1	19	Y	N	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1040	SC147	EGM2	Haymarket – Haymarket East Jn (South Lines)	46	02	45	72	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1040	SC147	ECN2	Haymarket – Haymarket East Jn (North Lines)	1	19	1	29	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1040	SC147	EGM2	Haymarket East Jn – Haymarket Central Jn (South Lines)	45	72	45	35	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1040	SC147	ECN2	Haymarket East Jn – Haymarket Central Jn (North Lines)	1	29	1	66	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1040	SC147	EGM2	Haymarket Central Jn – Haymarket West Jn (South Lines)	45	35	44	73	Y	N	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1040	SC147	ECN2	Haymarket Central Jn – Haymarket West Jn (North Lines)	1	66	2	41	Y	N	Y	N	N	N	
-Scotland	1040	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1040	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	N	N	N	N	N	N	
-Scotland	1040	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N	N	
-Scotland	1040	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	N	N	E	E	N	N	
-Scotland	1040	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	N	N	E	E	N	N	
-Scotland	1040	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	N	N	E R1	E	N	N	R1 Prohibited between Millerhill West Jn and Millerhill Yard
-Scotland	1040	SC157	MLE	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	N	N	N	N	N	N	
-Scotland	1040	SC159	NDE2	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	N	N	N	N	N	N	
+Scotland	1040	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	Y	N	Y	N	N	N	
+Scotland	1040	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	Y	N	Y	N	N	N	
+Scotland	1040	SC123	NEM1	Drumgelloch – Change of ELR	11	70	11	60	Y	N	Y	N	N	N	
+Scotland	1040	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	N	R1 R2	N	N	N	R2 Prohibited between Airdrie and Shettleston (including loops) when laden R3 5mph Blairhill Up platform
+Scotland	1040	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	N	EH R1	N	N	N	R1 Prohibited between Bellgrove Jn and Change of ELR
+Scotland	1040	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	N	N	N	N	N	
+Scotland	1040	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	N	N	N	N	N	
+Scotland	1040	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	N	N	N	N	N	
+Scotland	1040	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	N	N	N	N	N	
+Scotland	1040	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	Y	N	EH	N	N	R1 R2	R1 Prohibited between Sighthill East Jn and Bellgrove R2 Prohibited Springburn platform 3

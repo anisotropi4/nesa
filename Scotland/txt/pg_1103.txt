@@ -7,60 +7,56 @@
           ELR  Line of Route / Sector Description ooo ooo ooo ooo
                                                  RA  60 66 67 68 70  7397/3 Notes
      route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC107EGM2 Haymarket East Jn – Haymarket Central
-                                     45 72 45  3510  Y  Y  Y   Y  Y  Y  Y
-               Jn (South Lines)
-     SC107ECN2 Haymarket East Jn – Haymarket Central
-                                     1  29  1  6610  Y  Y  Y   Y  Y  Y  Y
-               Jn (North Lines)
-     SC107EGM2 Haymarket Central Jn – Haymarket
-                                     45 35 44  7310  Y  Y  Y   Y  Y  Y  Y
-               West Jn (South Lines)
-     SC107ECN2 Haymarket Central Jn – Haymarket
-                                     1  66  2  4110  Y  Y  Y   Y  Y  Y  Y
-               West Jn (North Lines)
-     SC107EGM1 Haymarket West Jn – Cowlairs West Jn
-                                     44 73  1  6710  Y  Y  R1  Y  Y  Y  Y R1 60mph over bridge 8 (Balgreen Road
-                                                           R2                near Haymarket West) (44m 59ch)
-                                                           R3             R2 60mph over 2A (South Gyle Road) (43m
-                                                                             00ch)
-                                                                          R3 60mph over 13A (M8 Bridge at
-                                                                             Newbridge) (38m 24ch)
-     SC107EGM1 Cowlairs West Jn – Glasgow Queen
-                                     1  67  0  008   Y  Y  Y   Y  Y  Y  Y
-               Street
-     SC109PMT  Polmont Jn – Grangemouth Jn
-                                     21 20 23  7510  Y  Y  Y   Y  Y  Y  Y
-     SC109PMT  Grangemouth Jn – Carmuirs East Jn
-                                     23 75 25  7910  Y  Y  Y   Y  Y  Y  Y
-     SC109CMS  Carmuirs East Jn – Carmuirs West Jn
-                                     0  40  -0 2 10  Y  Y  Y   Y  Y  Y  Y
-     SC109SCM3 Carmuirs West Jn – Greenhill Lower Jn
-                                    108 74 106 6210  Y  Y  Y   Y  Y  Y  Y
-     SC109GHL  Greenhill Lower Jn – Greenhill Upper Jn
-                                     0  52  0  0010  Y  Y  Y   Y  Y  Y  Y
-     SC110PMT  Carmuirs East Jn – Larbert Jn
-                                     25 79 26  3510  Y  Y  Y   Y  Y  Y  Y
-     SC111NBE  Newbridge Jn – Bathgate
-                                     35 21 25  1810  Y  Y  Y   Y  Y  Y  Y
-     SC113DMY  Winchburgh Jn – Dalmeny Jn
-                                     34 54 39  038   Y  Y  Y   Y  Y  Y  Y R1 RA Change
-                                                                             STNC NC/G1/2008/SCOT0337 applies until
-                                                 R1                          29/08/2013
-     SC115MRL1 Cowlairs West Jn – Maryhill Park Jn
-                                     8  26  5  5110  Y  Y  Y   Y  Y  Y  Y
-     SC115MRL2 Maryhill Park Jn – Knightswood North Jn
-                                     4  40  5  678   Y  Y  Y   Y  Y  Y  Y
-     SC1150
-          MLA  Maryhill Park Jn – Anniesland
-                                     0  00  0  705   N  N  N  N   N  N  Y
-     SC116CSN  Cowlairs East Jn – Cowlairs North Jn
-                                     0  00  0  2110  Y  Y  Y   Y  Y  Y  Y
-     SC117GMH  Grangemouth Jn – Grangemouth
-                                     0  00  3  6710  Y  Y  Y   Y  Y  Y  Y
-     SC119GHL  Greenhill Upper Jn – Greenhill Lower Jn
-                                     0  00  0  5210  Y  Y  Y   Y  Y  Y  Y
-     SC119SCM3 Greenhill Lower Jn – Carmuirs West Jn
-                                    106 62 108 7410  Y  Y  Y   Y  Y  Y  Y
+     SC061CNL  Shields Jn – Corkerhill
+                                     1  05  3  1110  Y  Y  Y   Y  Y  Y  Y
+     SC061CNL  Corkerhill – Paisley Canal
+                                     3  11  7  0010 R1  R1 R1 R1 R1  R1 R1 R1Prohibited when overhead line equipment
+                                                                             is energised
+     SC063CND1 Cardonald Jn – Cardonald North Jn
+                                     0  00  0  369   Y  Y  Y   Y  Y  Y  Y
+     SC063CND2 Cardonald North Jn – Deanside (Goods
+                                     0  36  1  549   Y  Y  Y   Y  Y  Y  Y
+               Line)
+     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
+                                     6  34  6  537   N  Y  N   Y  Y  Y  Y
+     SC065GOU2 Change of ELR – Bishopton
+                                    107 70 112 607   N  R2 N  R2 R2  R2 R2 R1RA Change
+                                                                             STNC NC/G1/2010/ICP-RA/SC006 applies until
+                                                 R1     R3    R3             30/09/2014
+                                                                          R2 30mph over bridge 179/065 (Black Cart
+                                                                             Water) (109m 71ch)
+                                                                          R3 30mph over bridge 179/061 (River Gryfe)
+                                                                             (110m 42ch)
+     SC065GOU2 Bishopton – Gourock  112 60 126 585   N  Y  N   Y  Y  R2 Y R1 RA Change
+                                                                             STNC NC/G1/2010/ICP-RA/SC006 applies until
+                                                 R1                          30/09/2014
+                                                                          R2 Prohibited Greenock Bay platform
+     SC067WYS  Wemyss Bay Jn – Wemyss Bay
+                                     0  00 10  035   N  N  N  N   N  N  Y
+     SC073LGS1 Kilwinning Jn – Change of ELR
+                                     25 65 30  4410  Y  Y  Y   Y  Y  Y  Y
+     SC073LGS2 Change of ELR – Fairlie High Siding
+                                     30 44 38  6910  Y  Y  Y   Y  Y  Y  Y
+     SC073LGS2 Fairlie High Siding – Largs
+                                     38 69 42  075   N  R1 N  N   N  N  Y R1 Infrastructure maintenance purposes only
+                                                        R2                R2 10mph over bridge 193/027 (37m 5ch)
+                                                        R3                R3 10mph over bridge 193/033 (38m 74ch)
+                                                        R4                R4 10mph over bridge 193/036 (39m 11ch)
+     SC077ARH  Ardrossan South Beach – Adrossan
+                                     30 44 31  3510  Y  Y  Y   Y  Y  Y  Y
+               Harbour
+     SC079HUN  Hunterston – Hunterston Low Level
+                                     0  00  0  3610  Y  Y  Y   Y  Y  Y  Y
+               Sdgs (Goods Line)
+     SC081BYL  Byrehill Jn – Dubbs Jn0  60  0  0010  Y  Y  Y   Y  Y  Y  Y
+     SC085AYH1 Ayr Harbour – Newton Jn (Goods Line)
+                                     0  17  0  0010  Y  Y  Y   Y  Y  Y  Y
+     SC087ANN  Newton Jn – Mauchline (Goods Line)
+                                     39 42 50  1610  Y  Y  Y   Y  Y  Y  Y
+     SC089KCH1 Annbank – Change of ELR
+                                     43 52 48  7310  Y  Y  Y   Y  Y  Y  Y
+     SC089KCH2 Change of ELR – Killoch Colliery (Goods
+                                     0  00  3  4310  Y  Y  Y   Y  Y  Y  Y
+               Line)
 
-     October 2009                               102
+     October 2009                               100

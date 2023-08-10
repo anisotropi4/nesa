@@ -4,65 +4,62 @@
 
 
      Line of
-          ELR  Line of Route / Sector Description
-                                            oooooooooooo RA 60 66  67 68 70 73 97/3 Notes
-     route                                   M Ch  M Ch  000000000 000   000000000 ooooooooooooooooooooooooo
-     SC164SBO  Newcraighall South Jn – Tweedbank
-                                             5  02 35 34 3   N R1  R1 N   N  N  N R1 55mph maximum speed
-                                                               R2  R3             R2 Underbridges
-                                                               R3  R4                20mph UB011/072 (28m 31ch)
-                                                                                     30mph UB011/070 (27m 46ch)
-                                                                                     20mph UB011/067 (25m 44ch)
-                                                                                     30mph UB011/061 (24m 03ch)
-                                                                                     30mph UB011/060 (23m 59ch)
-                                                                                     30mph UB011/056 (22m 04ch)
-                                                                                     30mph UB011/054 (21m 58ch)
-                                                                                     30mph UB011/053 (21m 40ch)
-                                                                                  R3 All passenger trains, except
-                                                                                     when operated by Class 158 or
-                                                                                     170 DMUs, require a Special
-                                                                                     Operating Instruction
-                                                                                  R4 Underbridges
-                                                                                     30mph UB011/074 (28m 68ch)
-                                                                                     20mph UB011/070 (27m 46 ch)
-                                                                                     20mph UB011/067 (25m 44ch)
-                                                                                     30mph UB011/065 (25m 19ch)
-                                                                                     30mph UB011/061 (24m 03ch)
-                                                                                     30mph UB011/060 (23m 59ch)
-                                                                                     20mph UB011/056 (22m 04ch)
-                                                                                     20mph UB011/054 (21m 58ch)
-                                                                                     20mph UB011/053 (21m 40ch)
-                                                                                     30mph UB011/052 (20m 35ch)
-     SC165MHY  Niddrie South Jn – Niddrie West Jn
-                                              7 06  6 30 10  Y  Y  Y  Y   Y  Y  Y
-     SC165SUB2 Niddrie West Jn – Gorgie Jn    6 30  0 45 10  Y  Y  Y  Y   Y  Y  Y
-     SC165GGE  Gorgie Jn – Haymarket West Jn  0 00  0 41 10  Y  Y  Y  Y   Y  Y  Y
-     SC167CKT  Craiglockhart Jn – Slateford Jn0 00  0 48 10  Y  Y  Y  Y   Y  Y  Y
-     SC169SUB2 Gorgie Jn – Haymarket Central Jn
-                                              0 45  0 11 10  Y  Y  Y  Y   Y  Y  Y
-     SC171ECM9 Waverley East End – Edinburgh Waverley
-                                              0 21  0 00 10  Y  Y  Y  Y   Y  Y  Y
-     SC171EGM4 Edinburgh Waverley – Waverley West End (South Lines)
-                                              0 00  0 15 10  Y  Y  Y  Y   Y  Y  Y
-     SC171ECN1 Edinburgh Waverley – Waverley West End (North Lines)
-                                              0 00  0 15 10  Y  Y  Y  Y   Y  Y  Y
-     SC171EGM3 Waverley West End – Haymarket (South Lines)
-                                              0 15  1 19 10  Y  Y  Y  Y   Y  Y  Y
-     SC171ECN2 Waverley West End – Haymarket (North Lines)
-                                              0 15  1 19 10  Y  Y  Y  Y   Y  Y  Y
-     SC171EGM2 Haymarket – Haymarket East Jn (South Lines)
-                                             46 02 45 72 10  Y  Y  Y  Y   Y  Y  Y
-     SC171ECN2 Haymarket – Haymarket East Jn (North Lines)
-                                              1 19  1 29 10  Y  Y  Y  Y   Y  Y  Y
-     SC171EGM2 Haymarket East Jn – Haymarket Central Jn (South Lines)
-                                             45 72 45 35 10  Y  Y  Y  Y   Y  Y  Y
-     SC171ECN2 Haymarket East Jn – Haymarket Central Jn (North Lines)
-                                              1 29  1 66 10  Y  Y  Y  Y   Y  Y  Y
-     SC171EGM2 Haymarket Central Jn – Haymarket West Jn (South Lines)
-                                             45 35 44 73 10  Y  Y  Y  Y   Y  Y  Y
-     SC171ECN2 Haymarket Central Jn – Haymarket West Jn (North Lines)
-                                              1 66  2 41 10  Y  Y  Y  Y   Y  Y  Y
+          ELR  Line of Route / Sector Description ooo ooo ooo ooo
+                                                 RA  60 66 67 68 70  7397/3 Notes
+     route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
+
+     SC143OBN2 Lower Crianlarich GF – Inverhaggernie
+                                     30 23 31  005   N  N  N  N   N  Y  R1 R110mph over bridge 158 (30m 80ch)
+               No.1 LC
+     SC143OBN2 Inverhaggernie No.1 LC – Oban
+                                     31 00 71  445   N  N  N  N   N  R3 R1 R130mph over bridge 176 (35m 17ch)
+                                                                        R2 R220mph over bridge 268 (66m 16ch)
+                                                                          R3 15mph Tyndrum Lower platform
+     SC145MLG1 Fort William – Change of ELR
+                                     0  05  1  275   N  R1 R1 N   N  Y  Y R1 20mph over Lochy Viaduct (0m 55ch –
+                                                        R2 R2                0m 60ch)
+                                                                          R2 Double Heading prohibited except for
+                                                                             providing assistance
+     SC145MLG2 Change of ELR – Mallaig
+                                     0  00 39  395   N  R1 R1 N   N  R3 Y R1 Prohibited between Annat Pulp Mill GF
+                                                        R2 R2                and Mallaig
+                                                                          R2 Double Heading prohibited except for
+                                                                             providing assistance
+                                                                          R3 Prohibited Arisaig Loading Bank
+     SC147ECM8 Route Boundary (LN600) (Heaton South
+                                     69 67  9  6710  Y  Y  R1  Y  Y  Y  Y R1 60mph over bridge 154A (A1 Bridge)
+               Jn) – Prestonpans Jn                        R2                (51m 12ch)
+                                                           R3             R2 60mph between bridge 86 (Spott Road)
+                                                                             (30m 01ch) and bridge 88 (Broxburn)
+                                                                             (29m 23ch)
+                                                                          R3 60mph over bridge 67 (Tyne Bridge)
+                                                                             (23m 37ch)
+     SC147ECM8 Prestonpans Jn – Calton South Tunnel
+                                     9  67  0  2910  Y  Y  Y   Y  Y  Y  Y
+     SC147ECM9 Calton South Tunnel – Waverley East
+                                     0  29  0  2110  Y  Y  Y   Y  Y  Y  Y
+               End
+     SC147ECM9 Waverley East End – Edinburgh
+                                     0  21  0  0010  Y  Y  Y   Y  Y  Y  Y
+               Waverley
+     SC147EGM4 Edinburgh Waverley – Waverley West
+                                     0  00  0  1510  Y  Y  Y   Y  Y  Y  Y
+               End (South Lines)
+     SC147ECN1 Edinburgh Waverley – Waverley West
+                                     0  00  0  1510  Y  Y  Y   Y  Y  Y  Y
+               End (North Lines)
+     SC147EGM3 Waverley West End – Haymarket (South
+                                     0  15  1  1910  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+     SC147ECN2 Waverley West End – Haymarket (North
+                                     0  15  1  1910  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+     SC147EGM2 Haymarket – Haymarket East Jn (South
+                                     46 02 45  7210  Y  Y  Y   Y  Y  Y  Y
+               Lines)
+     SC147ECN2 Haymarket – Haymarket East Jn (North
+                                     1  19  1  2910  Y  Y  Y   Y  Y  Y  Y
+               Lines)
 
 
-
-     October 2009                               108
+     October 2009                               106

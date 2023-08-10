@@ -1,24 +1,23 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-Scotland	1157	SC163	SUB1	Portobello – Change of ELR	3	30	4	00	10	Y	
-Scotland	1157	SC163	SUB2	Change of ELR – Niddrie West	6	69	6	30	10	Y	
-Scotland	1157	SC164	NNS	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	3	Y	
-Scotland	1157	SC164	SBO	Newcraighall South Jn – Tweedbank	5	02	35	34	3	Y	
-Scotland	1157	SC165	MHY	Niddrie South Jn – Niddrie West Jn	7	06	6	30	10	Y	
-Scotland	1157	SC165	SUB2	Niddrie West Jn – Gorgie Jn	6	30	0	45	10	Y	
-Scotland	1157	SC165	GGE	Gorgie Jn – Haymarket West Jn	0	00	0	41	10	Y	
-Scotland	1157	SC167	CKT	Craiglockhart Jn – Slateford Jn	0	00	0	48	10	Y	
-Scotland	1157	SC169	SUB2	Gorgie Jn – Haymarket Central Jn	0	45	0	11	10	Y	
-Scotland	1157	SC171	ECM9	Waverley East End – Edinburgh Waverley	0	21	0	00	10	Y	
-Scotland	1157	SC171	EGM4	Edinburgh Waverley – Waverley West End (South lines)	0	00	0	15	10	Y	
-Scotland	1157	SC171	ECN1	Edinburgh Waverley – Waverley West End (North lines)	0	00	0	15	10	Y	
-Scotland	1157	SC171	EGM3	Waverley West End – Haymarket (South Lines)	0	15	1	19	10	Y	
-Scotland	1157	SC171	ECN2	Waverley West End – Haymarket (North lines)	0	15	1	19	10	Y	
-Scotland	1157	SC171	EGM2	Haymarket – Haymarket East Jn (South lines)	46	02	45	72	10	Y	
-Scotland	1157	SC171	ECN2	Haymarket – Haymarket East Jn (North lines)	1	19	1	29	10	Y	
-Scotland	1157	SC171	EGM2	Haymarket East Jn – Haymarket Central Jn (South lines)	45	72	45	35	10	Y	
-Scotland	1157	SC171	ECN2	Haymarket East Jn – Haymarket Central Jn (North lines)	1	29	1	66	10	Y	
-Scotland	1157	SC171	EGM2	Haymarket Central Jn – Haymarket West Jn (South lines)	45	35	44	73	10	Y	
-Scotland	1157	SC171	ECN2	Haymarket Central Jn – Haymarket West Jn (North lines)	1	66	2	41	10	Y	
-Scotland	1157	SC171	ECN2	Haymarket West Jn – Dundee Central Jn	2	41	58	69	8	R1 R2 R3 R4	R1 Prohibited through Kinghorn Tunnel on the Up line R2 Prohibited between Cupar and Leuchars on the Down line R3 Prohibited between Cupar and Leuchars on the Up line R4 Prohibited between Tay Bridge South and Dundee Central Jn on the Up line
-Scotland	1157	SC171	ECN2	Dundee Central Jn – Dundee	58	69	59	14	8	Y	
-Scotland	1157	SC173	CWH1	Inverkeithing Central Jn – Change of ELR (Cowdenbeath)	13	21	22	76	8	Y	
+Scotland	1157	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	10	R1	R1 Prohibited Singer platform 2 (Down line)
+Scotland	1157	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	5	Y	
+Scotland	1157	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	5	Y	
+Scotland	1157	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	5	R1	R1 Prohibited Craigendoran platform (Single line)
+Scotland	1157	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	7	Y	
+Scotland	1157	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	8	Y	
+Scotland	1157	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	10	R1	R1 Prohibited Springburn Down bay platform 3
+Scotland	1157	SC131	HST	High Street Jn – Connection to Smithy Lye through line	0	04	2	00	8	Y	
+Scotland	1157	SC131	HST	Connection to Smithy Lye through line – Shields Jn	2	00	2	35	8	Y	
+Scotland	1157	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	5	Y	
+Scotland	1157	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	6	R1	R1 Prohibited Balloch platform (Single line)
+Scotland	1157	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	8	Y	
+Scotland	1157	SC141	WHL	Craigendoran Jn – Crianlarich Jn	0	01	36	30	5	Y	
+Scotland	1157	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	5	R1	R1 Prohibited Fort William Station Siding 2
+Scotland	1157	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	5	Y	
+Scotland	1157	SC143	OBN2	Lower Crianlarich GF – Inverhaggernie No.1 LC	30	23	31	00	5	Y	
+Scotland	1157	SC143	OBN2	Inverhaggernie No.1 LC – Oban	31	00	71	44	5	Y	
+Scotland	1157	SC145	MLG1	Fort William – Change of ELR	0	05	1	27	5	Y	
+Scotland	1157	SC145	MLG2	Change of ELR – Mallaig	0	00	39	39	5	R1 R2 R3 R4	R1 Prohibited between Lochailort and Arisaig on the Single line R2 Prohibited Down Refuge Siding at Arisaig R3 Prohibited Morar platform (Single line) R4 Prohibited Mallaig station platform 2
+Scotland	1157	SC147	ECM8	Route Boundary (LN600) (Heaton South Jn) – Prestonpans Jn	54	50	9	67	10	Y	
+Scotland	1157	SC147	ECM8	Prestonpans Jn – Calton South Tunnel	9	67	0	29	10	Y	
+Scotland	1157	SC147	ECM9	Calton South Tunnel – Waverley East End	0	29	0	21	10	Y	

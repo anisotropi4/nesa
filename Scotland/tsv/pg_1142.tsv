@@ -1,16 +1,17 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Scotland	1142	SC151	Portobello – Leith South Yard (Goods Line)	Y	Y	Y	N	N	N	N	N	
-Scotland	1142	SC153	Craigentinny – Powderhall (Goods Line)	Y	Y	N	N	N	N	N	N	
-Scotland	1142	SC155	Monktonhall Jn – Millerhill Yard (Goods Line)	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Millerhill Yard sidings
-Scotland	1142	SC157	Millerhill South Jn – Millerhill East Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
-Scotland	1142	SC159	End of Line (former Bilston Br) – Millerhill South Jn (Goods Line)	Y	N	N	N	N	N	N	N	
-Scotland	1142	SC159	Millerhill South Jn – Millerhill Yard Goods Line)	Y	Y	Y	Y	N	N	N	N	
-Scotland	1142	SC161	Millerhill Yard – Portobello	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Nidrie South Jn to Portobello
-Scotland	1142	SC163	Portobello – Niddrie West	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1142	SC165	Niddrie South Jn – Niddrie West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1142	SC165	Niddrie West Jn – Craiglockhart Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1142	SC165	Craiglockhart Jn – Gorgie Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1142	SC165	Gorgie Jn – Haymarket West Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1142	SC167	Craiglockhart Jn – Slateford Jn	Y	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Slateford east sidings
-Scotland	1142	SC169	Gorgie Jn – Haymarket Central Jn	Y	Y	Y	Y	N	N	N	N	
-Scotland	1142	SC171	Edinburgh Waverley – Princes Street Gardens	Y *	R1	R1	R1	N	N	N	N	R1 W9 prohibited EXCEPT all through routes Edinburgh Waverley Station and Lines W & Z between Edinburh Waverley and Princes Street Gardens W9 W8 W7 prohibited Lines X & Y between Edinburh Waverley and Princes Street Gardens
+Scotland	1142	SC119	Greenhill Lower Jn – Carmuirs West Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1142	SC119	Carmuirs West Jn – Stirling Middle Jn	Y	Y	Y	N	N	N	N	N	
+Scotland	1142	SC119	Stirling Middle Jn – Perth South Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted: Up to: 2590 high x 2500 wide box on FCA All Lines 2590 high x 2550 wide box on FKA IKA wagons All Lines Safeway refrigerated box on IKA FKA IFA FIA wagon 2896 high x 2500 wide box on FKA wagons Up Line 2675 high x 2550 wide box on FCA wagons Up Line 2896 high x 2600 wide box on IKA wagons Up line 30 mph at Br.66 [140m 09ch]
+Scotland	1142	SC119	Perth South Jn – Dundee Central Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1142	SC123	Bathgate – Airdrie	Y	Y	Y	Y	N	Y	N	N	
+Scotland	1142	SC123	Airdrie – Sunnyside Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1142	SC123	Sunnyside Jn – High Street Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1142	SC123	High Street Jn – Knightswood North Jn	Y *	Y	N	N	N	N	N	N	
+Scotland	1142	SC123	Knightswood North Jn – Craigendoran Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1142	SC123	Craigendoran Jn – Helensburgh Central	Y *	N	N	N	N	N	N	N	
+Scotland	1142	SC125	Hyndland East Jn – Dalmuir (via Yoker)	Y *	Y	N	N	N	N	N	N	
+Scotland	1142	SC127	Sunnyside Jn – Gunnie Yard Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1142	SC129	Springburn – Bellgrove Jn	Y	Y	Y	N	N	N	N	N	
+Scotland	1142	SC129	Sighthill East Jn – Glasgow Works (Springburn) (Railcare Ltd)	Y *	N	N	N	N	N	N	N	
+Scotland	1142	SC131	High Street Jn – Shields Jn	Y *	Y	Y	N	N	N	N	N	
+Scotland	1142	SC133	Westerton Jn – Milngavie	Y *	Y	N	N	N	N	N	N	

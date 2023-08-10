@@ -1,18 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	334	350	380	385	390	397	Notes
-Scotland	1032	SC031	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	Y	Y	Y	R2	R1	Y	R1 Prohibited Glasgow Central platforms 3, 4, 5, 6, 7, 8, 12, 13 & 14 R2 Up to 10 cars
-Scotland	1032	SC035	KSH	Bank Jn – Network Rail Boundary (Connel Park LC) / Knockshinnoch	54	05	55	28	N	N	N	N	N	N	
-Scotland	1032	SC036	GNN	Greenburn Jn – Greenburn Open Cast (Goods Line)	0	00	0	55	N	N	N	N	N	N	
-Scotland	1032	SC037	RIC1	Kay Park Jn – Bellfield	0	00	1	06	N	N	N	N	N	N	
-Scotland	1032	SC037	RIC2	Bellfield – Riccarton (Goods Line)	2	20	1	75	N	N	N	N	N	N	
-Scotland	1032	SC039	BAK	Kilmarnock – Barassie	0	05	7	56	N	N	E R1	N	N	E R2	R1 Prohibited Kilmarnock platform 3 R2 Prohibited between Kilmarnock Plant Depot (0m 20ch) and Barassie
-Scotland	1032	SC045	EKE	East Kilbride – Busby Jn	7	60	0	40	N	N	N	N	N	N	
-Scotland	1032	SC047	LFS2	Muirhouse South Jn – Change of ELR	1	19	0	61	N	N	N	N	N	E	
-Scotland	1032	SC047	LFS1	Change of ELR – Larkfield Jn	101	17	101	01	N	N	N	N	N	E	
-Scotland	1032	SC049	TSS	Muirhouse Central Jn – Terminus Jn	0	04	0	40	Y	E	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1032	SC051	CTC	Muirhouse Central Jn – Cathcart North Jn (via Cathcart)	5	19	1	63	Y	Y	Y	R1	N	Y	R1 Up to 12 cars
-Scotland	1032	SC051	CTC	Cathcart North Jn – Muirhouse North Jn (via Crosshill)	1	63	0	00	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1032	SC053	NNH	Neilston – Cathcart West Jn	108	45	100	77	Y	N	Y	R1	N	N	R1 Up to 12 cars
-Scotland	1032	SC055	WCM2	Newton, Hamilton Jn – Newton Kirkhill Jn	95	53	95	77	Y	Y	Y	R1	Y	N	R1 Up to 10 cars
-Scotland	1032	SC055	KHL	Newton Kirkhill Jn – Cathcart West Jn	95	77	100	77	Y	Y	Y	R2	R1	Y	R1 Prohibited between Cathcart East and Cathcart West Jn R2 Up to 12 cars
-Scotland	1032	SC057	CNC	Cathcart East Jn – Cathcart North Jn	0	45	0	00	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
-Scotland	1032	SC059	WCM2	Glasgow Central – Bridge St Jn	102	27	101	53	Y	Y	Y	R2	R1	Y	R1 Prohibited Glasgow Central platforms 3, 4, 5, 6, 7, 8, 12, 13 & 14 R2 Up to 10 cars
+Scotland	1032	SC001	WCM2	Newton West Jn – Rutherglen East Jn	96	34	98	32	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
+Scotland	1032	SC001	WCM2	Rutherglen East Jn – Larkfield Jn	98	32	100	65	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
+Scotland	1032	SC001	WCM2	Larkfield Jn – Eglinton St Jn	100	65	101	39	Y	Y	Y	R2	T R1	Y	R1 Tilt permitted Up and Down Fast lines only R2 Up to 10 cars
+Scotland	1032	SC001	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	Y	Y	R1	Y	Y	R1 Up to 10 cars
+Scotland	1032	SC001	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	Y	Y	Y	R2	R1	Y	R1 Prohibited Glasgow Central platforms 3, 4, 5, 6, 7, 8, 12, 13 & 14 R2 Up to 10 cars
+Scotland	1032	SC003	ECA1	Carstairs South Jn – Carstairs East Jn	73	17	73	48	Y	Y	N	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC003	ECA2	Carstairs East Jn – Slateford Jn	74	10	99	01	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC003	ECA3	Slateford Jn – Haymarket East Jn	99	01	100	41	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC005	CSP	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	Y	N	Y	N	N	N	
+Scotland	1032	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	Y	Y	N	R1	N	N	R1 Up to 12 cars
+Scotland	1032	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	Y	Y	Y	R1	Y	Y	R1 Up to 12 cars
+Scotland	1032	SC021	COS2	Coltness – Change of ELR	0	09	0	00	N	N	N	N	N	N	
+Scotland	1032	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	N	N	N	N	N	N	
+Scotland	1032	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	Y	N	Y	R1	Y	Y	R1 Up to 12 cars

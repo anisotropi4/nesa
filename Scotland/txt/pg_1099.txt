@@ -7,54 +7,56 @@
           ELR  Line of Route / Sector Description ooo ooo ooo ooo
                                                  RA  60 66 67 68 70  7397/3 Notes
      route                           M  Ch M  Ch 000000 000000   000000 000 ooooooooooooooooooooooooo
-     SC047LFS1 Change of ELR – Larkfield Jn
-                                    101 17 101 0110  Y  Y  Y   Y  Y  Y  Y
-     SC049TSS  Muirhouse Central Jn – Terminus Jn
-                                     0  04  0  4010  Y  Y  Y   Y  Y  Y  Y
-     SC051CTC  Muirhouse Central Jn – Cathcart North
-                                     5  19  1  633   N  R1 N  N  R1  R1 R1 R1Route prohibited unless authorised by the
-               Jn (via Cathcart)                                             Infrastructure Manager's structures
-                                                                             engineer
-     SC051CTC  Cathcart North Jn – Muirhouse North Jn
-                                     1  63  0  007   N  Y  N   Y  Y  Y  Y
-               (via Crosshill)
-     SC053NNH  Neilston – Cathcart West Jn
-                                    108 45 100 775   N  R1 N  N   N  N  Y R1 Infrastructure maintenance purposes only
-                                                        R2                R2 Prohibited from hauling vehicles that
-                                                        R3                   exceed RA5
-                                                        R4                R3 20mph maximum speed
-                                                        R5                R4 Double Heading is prohibited
-                                                        R6                R5 10mph over bridge 120 (104m 49ch)
-                                                        R7                R6 10mph over bridge 128 (103m 26ch)
-                                                                          R7 10mph over bridge 137 (101m 23ch)
-     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill
-                                     95 53 95  7710  N  Y  Y   Y  Y  Y  Y
-               Jn
-     SC055KHL  Newton Kirkhill Jn – Cathcart West Jn
-                                     95 77 100 777   N  Y  N   Y  Y  Y  Y
-     SC057CNC  Cathcart East Jn – Cathcart North Jn
-                                     0  45  0  007   N  Y  N   Y  Y  Y  Y
-     SC059WCM2 Glasgow Central – Bridge St Jn
-                                    102 27 101 538   Y  Y  Y   Y  Y  Y  Y
-     SC059AYR1 Bridge St Jn – Cook St0  00  0  198   Y  Y  Y   Y  Y  Y  Y
-     SC059LYE  Cook St – High St Line (Smithy Lye
-                                     0  00  0  448   Y  Y  Y   Y  Y  Y  Y
-               through line)
-     SC059AYR1 Cook St – Shields Jn  0  19  1  008   Y  Y  Y   Y  Y  Y  Y
-     SC059AYR1 Shields Jn – Change of ELR (Paisley
-                                     1  00  6  5310  Y  Y  Y   Y  Y  Y  Y
-               Gilmour Street)
-     SC059AYR2 Change of ELR (Paisley Gilmour Street)
-                                     6  73  7  0010  Y  Y  Y   Y  Y  Y  Y
-               – Change of ELR (Brown Street
-               crossover)
-     SC059AYR3 Change of ELR (Brown Street
-                                     7  00 23  0010  Y  Y  Y   Y  Y  Y  Y
-               crossover) – Change of ELR (Dalry)
-     SC059AYR4 Change of ELR (Dalry) – Change of ELR
-                                     23 00 33  0810  Y  Y  Y   Y  Y  Y  Y
-               (Barassie Jn)
+     SC003ECA3 Slateford Jn – Haymarket East Jn
+                                     99 01 100 4110  Y  Y  Y   Y  Y  Y  Y
+     SC005CSP  Carstairs Station Jn – Carstairs East Jn
+                                     73 37 74  1010  Y  Y  Y   Y  Y  Y  Y
+     SC007EGS2 Midcalder Jn – Holytown Jn
+                                     23 11  1  278   Y  Y  Y   Y  Y  Y  Y R1 RA Change
+                                                                             STNC NC/G1/2010/ICP-RA/SC012 applies until
+                                                 R1                          30/09/2014
+     SC009LNK  Lanark – Lanark Jn    2  45  0  035   N  R1 N  N   N  N  Y R1 Infrastructure maintenanance purposes
+                                                        R2                   only
+                                                                          R2 Prohibited from hauling haul vehicles that
+                                                                             exceed RA5
+     SC011WWD  Law Jn – Holytown Jn  84 08 89  6610  Y  Y  Y   Y  Y  Y  Y
+     SC011EGS2 Holytown Jn – Mossend East Jn
+                                     1  27  0  4010  Y  Y  Y   Y  Y  Y  Y
+     SC011EGS1 Mossend East Jn – Uddingston Jn
+                                     3  63  0  0310  Y  Y  Y   Y  Y  Y  Y
+     SC013SHR  Wishaw Central Jn – Shieldmuir Jn
+                                     86 63 87  4310  Y  Y  Y   Y  Y  Y  Y
+     SC015MDN  Mossend East Jn – Mossend North Jn
+                                     0  40  0  0610  Y  Y  Y   Y  Y  Y  Y
+               (North Curve)
+     SC017MDE  Mossend East Jn – Mossend South Jn
+                                     0  31  0  0010  Y  Y  Y   Y  Y  Y  Y
+               (East Curve)
+     SC019MDW  Mossend South Jn – Mossend West Jn
+                                     91 08 91  5010  Y  Y  Y   Y  Y  Y  Y
+               (West Curve)
+     SC021COS2 Coltness – Change of ELR
+                                     0  09  0  0010  Y  Y  Y   Y  Y  Y  Y
+     SC021COS1 Change of ELR – Garriongill Jn
+                                     14 15 15  2910  Y  Y  Y   Y  Y  Y  Y
+     SC023HMN1 Motherwell – Change of ELR
+                                     0  08  1  447   N  Y  R1  Y  Y  Y  Y R1 20mph over bridge 045/046 (1m 42ch)
+                                                           R2             R2 20mph over bridge 045/047 (1m 12ch)
+     SC023HMN2 Change of ELR – Newton, Hamilton Jn
+                                     6  61  0  007   N  Y  R1  Y  Y  Y  Y R1 20mph over bridge 045/045B (6m 37ch)
+                                                           R2             R2 40mph over bridge 045/060 (3m 73ch)
+                                                           R3             R3 40mph over bridge 045/062 (3m 31ch)
+                                                           R4             R4 40mph over bridge 045/065 (2m 45ch)
+     SC024LRK  Larkhall – Haughhead Jn
+                                     3  00  0  0010  Y  Y  Y   Y  Y  Y  Y
+     SC025ARG1 Rutherglen Central Jn – Bridgeton Yard
+                                     0  00  0  4310  Y  Y  Y   Y  Y  Y  Y
+               North End
+     SC025ARG2 Bridgeton Yard North End – Exhibition
+                                     0  86  4  0310  Y  Y  Y   Y  Y  Y  Y
+               Centre
+     SC025ARG2 Exhibition Centre – Finnieston East Jn
+                                     4  03  4  4110  Y  Y  Y   Y  Y  Y  Y
+               (Down line)
 
-
-
-     October 2009                               98
+     October 2009                               96

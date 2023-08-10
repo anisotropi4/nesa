@@ -6,57 +6,61 @@
                                         Scotland Route Sectional Appendix Module SCRC
 
      Line of
-          ELR  Line of Route / Sector Description oooo oooo oooo oooo 142
-                                                     143144150153156158 Notes
-     route                           M  Ch M   Ch0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-     SC059AYR2 Change of ELR (Paisley Gilmour Street)
-                                      6  73  7 00 Y  Y  Y  Y   Y  Y  E
-               – Change of ELR (Brown Street
-               crossover)
-     SC059AYR3 Change of ELR (Brown Street crossover)
-                                      7  00 23 00 Y  Y  Y  Y   Y  Y E R1 60mph Lochwinnoch down platform
-               – Change of ELR (Dalry)                              R1
-     SC059AYR4 Change of ELR (Dalry) – Change of ELR
-                                     23  00 33 08 Y  Y  Y  Y   Y  Y E R1 40mph Kilwinning up platform
-               (Barassie Jn)                                        R1 R2Prohibited between Barassie and Change
-                                                                    R2   of ELR (Barassie Jn)
-     SC059AYR5 Change of ELR (Barassie Jn) – Change
-                                      0  00  2 15 Y  Y  Y  Y   Y  Y  N
-               of ELR (Between Troon and Prestwick
-               International Airport)
-     SC059AYR6 Change of ELR (Between Troon and
-                                     35  05 38 73 Y  Y  Y  Y   Y  Y  N
-               Prestwick International Airport) –
-               Falkland Jn
-     SC059AYR6 Falkland Jn – Ayr     38  73 40 49 Y  Y  Y  Y   Y  Y  N
-     SC059STR1 Ayr – Dalrymple Jn    40  49 43 53 N  N  N  Y   Y  Y  N
-     SC059STR1 Dalrymple Jn – Change of ELR (Girvan)
-                                     43  53 61 60 N  N  N  Y   Y  Y  N
-     SC059STR2 Change of ELR (Girvan) – Change of
-                                      0  00 30 67 N  N  N  Y   Y  Y  N
-               ELR (Betweeen Challoch LC and
-               Dunragit SB & LC)
-     SC059STR3 Change of ELR (Betweeen Challoch LC
-                                     46  54 53 05 N  N  N  Y   Y  Y  N
-               and Dunragit SB & LC) – Change of ELR
-               (Stranraer Yard GF)
-     SC059STR4 Change of ELR (Stranraer Yard GF) –
-                                     53  05 54 05 N  N  N  Y   Y  Y  N
-               End of Line
-     SC061CNL  Shields Jn – Corkerhill1  05  3 11 N  N  N  Y   Y  Y  E
-     SC061CNL  Corkerhill – Paisley Canal
-                                      3  11  7 00 N  N  N  R1 R1 R1  N R1Prohibited when overhead line equipment
-                                                                         is energised
-     SC063CND1 Cardonald Jn – Cardonald North Jn
-                                      0  00  0 36 N  N  N  N   N  N  N
-     SC063CND2 Cardonald North Jn – Deanside (Goods
-                                      0  36  1 54 N  N  N  N   N  N  N
-               Line)
-     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
-                                      6  34  6 53 N  N  N  Y   Y  Y  N
-     SC065GOU2 Change of ELR – Bishopton
-                                     107 70112 60 N  N  N  Y   Y  Y  N
-     SC065GOU2 Bishopton – Gourock   112 60126  E N  N  N  Y   Y  Y  N
+           ELR  Line of Route / Sector Description
+                                       oooo oooo oooo oooo
+                                                      142 143144 150153 156158 Notes
+     route                              M  Ch  M   Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+     SC013 SHR  Wishaw Central Jn – Shieldmuir Jn
+                                         86  63  87 43 N   N  N   Y  Y   Y  Y
+     SC015 MDN  Mossend East Jn – Mossend North Jn (North
+                                          0  40  0  06 N   N  N   Y  Y   Y  Y
+                Curve)
+     SC017 MDE  Mossend East Jn – Mossend South Jn (East
+                                          0  31  0  00 N   N  N   Y  Y   Y  Y
+                Curve)
+     SC019 MDW  Mossend South Jn – Mossend West Jn (West
+                                         91  08  91 50 N   N  N   Y  Y   Y  Y
+                Curve)
+     SC021 COS2 Coltness – Change of ELR  0  09  0  00 N   N  N   N  N   N  N
+     SC021 COS1 Change of ELR – Garriongill Jn
+                                         14  15  15 29 N   N  N   N  N   N  N
+     SC023 HMN1 Motherwell – Change of ELR0  08  1  44 N   N  N   Y  Y   Y  Y
+     SC023 HMN2 Change of ELR – Newton, Hamilton Jn
+                                          6  61  0  00 N   N  N   Y  Y   Y  R1R1 15mph Blantyre up platform
+     SC024 LRK  Larkhall – Haughhead Jn   3  00  0  00 N   N  N   N  N   N  N
+     SC025 ARG1 Rutherglen Central Jn – Bridgeton Yard North
+                                          0  00  0  43 N   N  N   Y  Y   Y  E R1 Prohibited between Rutherglen North Jn and
+                End                                                         R1   Bridgeton Yard North End Jn
+     SC025 ARG2 Bridgeton Yard North End – Exhibition Centre
+                                          0  86  4  03 N   N  N   Y  Y   Y  N
+
+     SC025 ARG2 Exhibition Centre – Finnieston East Jn (Down
+                                          4  03  4  41 N   N  N   Y  Y   Y  N
+                line)
+     SC025 ARG2 Exhibition Centre – Finnieston West Jn (Up
+                                          4  03  4  74 N   N  N   Y  Y   Y  N
+                line)
+     SC027 RNC  Rutherglen West Jn – Rutherglen North Jn
+                                          0  00  0  29 N   N  N   Y  Y   Y  E
+                (West Curve)
+     SC029 CLY  Larkfield Jn – Terminus Jn
+                                         101 01 101 62 N   N  N   Y  Y   Y  E
+     SC029 BRD  Terminus Jn – Shields Jn via Through
+                                         101 62 102 16 N   N  N   Y  Y   Y  E
+                Terminus lines
+     SC029 CLY  Terminus Jn – Shields Jn 101 62 102 16 N   N  N   Y  Y   Y  E
+     SC031 GSW  Route Boundary (NW4031) (Gretna Jn) –
+                                         115 40 109 00 R1 R1  R1  Y  Y   Y  E R1 Prohibited between Kilmarnock and Old Route
+                Old Route boundary (109m 00ch between                            boundary (109m 00ch between Eastriggs and
+                Eastriggs and Annan)                                             Annan)
+     SC031 GSW  Old Route boundary (109m 00ch between
+                                         109 0   33 44 N   N  N   Y  Y   Y  E
+                Eastriggs and Annan) – Change of ELR
+
+     SC031 GBK  Change of ELR – Muirhouse South Jn
+                                         23  44  1  18 N   N  N   Y  Y   Y  E
 
 
-     October 2009                               10
+
+
+     October 2009                               8

@@ -11,60 +11,58 @@
                                                 314   318 320/3320/4 322  325 Notes
      route    Description          M  Ch  M Ch 0000000 0000000 0000000 0000000 0000000 0000000 ooooooooooooooooooooooo
                                                                               ooo
-     SC147EGM2Haymarket Central Jn – Haymarket
-                                    45 35 44  73  Y    Y    Y    N    Y    H
-              West Jn (South Lines)
-     SC147ECN2Haymarket Central Jn – Haymarket
-                                    1  66  2  41  Y    Y    Y    N    Y    H
-              West Jn (North Lines)
-     SC149NBK North Berwick – Drem Jn
-                                    22 22 18  15  Y    Y    Y    Y    Y    H
-     SC151LHS1Portobello – Leith South Yard (Goods
-                                    0  00  2  20 N     N    N    N    N    N
-              Line)
-     SC153CPH Craigentinny – Powderhall (Goods
-                                    0  00  1  78 N     N    N    N    N    N
-              Line)
-     SC155MHL1Monktonhall Jn – Change of ELR
-                                    0  11  5  60 N     N    N    N    N    N
-     SC155MHL2Change of ELR – Millerhill East Jn
-                                    1  40  0  28 N     N    N    N    N    N
-     SC155MHL3Millerhill East Jn – Millerhill Yard
-                                    0  00  0  19 N     N    N    N    N    N
-              (Goods Line)
-     SC157MLE Millerhill South Jn – Millerhill East Jn
-                                    0  09  0  28 N     N    N    N    N    N
-              (Goods Line)
-     SC159NDE2Millerhill West Jn – Millerhill South Jn /
-                                    6  52  5  72 N     N    N    N    N    N
-              Millerhill Yard
-     SC161NDE1Millerhill Yard – Junction with Niddrie
-                                    5  52  3  36 N     N    N    N    R1   H  R1 Prohibited Newcraighall
-              West Line                                                          turnback siding
-     SC161SUB1Junction with Niddrie West Line –
-                                    3  36  3  30 N     N    N    N    Y    H
-              Portobello
-     SC161MHL4Newcraighall East Jn – Network Rail /
-                                    00 00  00 08 N     N    N    N    N    N
-              Abellio Scotrail Boundary
-     SC163SUB1Portobello – Change of ELR
-                                    3  30  4  00 N     N    N    N    N    H
-     SC163SUB2Change of ELR – Niddrie West
-                                    6  69  6  30 N     N    N    N    N    H
-     SC164NNS Newcraighall North Jn – Newcraighall
-                                    4  63  5 02  N     N    N    N    N    N
-              South Jn
-     SC164SBO Newcraighall South Jn – Tweedbank
-                                    5  02 35 34  N     N    N    N    N    N
-     SC165MHY Niddrie South Jn – Niddrie West Jn
-                                    7  06  6  30 N     N    N    N    N    H
-     SC165SUB2Niddrie West Jn – Gorgie Jn
-                                    6  30  0  45 N     N    N    N    N    H
-     SC165GGE Gorgie Jn – Haymarket West Jn
-                                    0  00  0  41 N     N    N    N    N    H
-     SC167CKT Craiglockhart Jn – Slateford Jn
-                                    0  00  0  48 N     N    N    N    N    H
-     SC169SUB2Gorgie Jn – Haymarket Central Jn
-                                    0  45  0  11 N     N    N    N    N    H
+     SC123NEM1Drumgelloch – Change of ELR
+                                    11 70 11  60  Y    Y    Y    R1   Y    H  R1 Prohibited with deflated
+                                                                                 suspension
+     SC123NEM2Change of ELR – High Street Jn
+                                    11 60  0  28  Y    Y    Y    R1   Y    H  R1 Prohibited with deflated
+                                                                                 suspension
+     SC123NEM2High Street Jn – Change of ELR
+                                    0  28  0  00  Y    Y    Y    Y    Y    H
+     SC123NEM3Change of ELR – Finnieston East Jn
+                                    0  00  2  19  Y    Y    Y    Y    Y    H
+     SC123NEM3Finnieston East Jn – Finnieston West
+                                    2  19  2  53  Y    Y    Y    Y    Y    H
+              Jn (Down Line)
+     SC123NEM3Finnieston East Jn – Finnieston West
+                                    2  19  2  53  Y    Y    Y    Y    Y    H
+              Jn (Up Line)
+     SC123NEM3Finnieston West Jn – Hyndland North
+                                    2  53  4  28  Y    Y    Y    Y    Y    H
+              Jn
+     SC123NEM3Hyndland North Jn – Change of ELR
+                                    4  28  4  63  Y    Y    Y    Y    Y    H
+     SC123NEM4Change of ELR – Knightswood North
+                                    0  00  0  74  Y    Y    Y    Y    Y    H
+              Jn
+     SC123NEM5Knightswood North Jn – Change of
+                                    5  67 13  40  Y    Y    Y    Y    Y    H
+              ELR (Between Bowling and Dumbarton
+              East)
+     SC123NEM6Change of ELR (Between Bowling and
+                                   113 46 116 00  Y    Y    Y    Y    Y    H
+              Dumbarton East) – Change of ELR
+              (Dumbarton East)
+     SC123NEM7Change of ELR (Dumbarton East) –
+                                    15 51 22  76  Y    Y    Y    Y    Y    H
+              Craigendoran Jn
+     SC123NEM7Craigendoran Jn – Helensburgh
+                                    22 76 24  31  Y    Y    Y    Y    Y    H
+              Central
+     SC125YKR Hyndland East Jn – Hyndland West Jn
+                                    0  00  0  22  Y    Y    Y    Y    Y    H
+     SC125YKR Hyndland West Jn – Dalmuir Park Jn
+                                    0  22  4  73  Y    Y    Y    Y    Y    H
+     SC129SGN Springburn – Bellgrove Jn
+                                    0  42  2  58  Y    Y    Y    Y    Y    H
+     SC131HST High Street Jn – Connection to Smithy
+                                    0  04  2  00  N    N    N    N    N    H
+              Lye through line
+     SC131HST Connection to Smithy Lye through line
+                                    2  00  2  35  N    N    N    N    N    H
+              – Shields Jn
+     SC133MGE Westerton Jn – Milngavie
+                                    6  19  9  35  Y    Y    Y    Y    Y    H
+     SC135BCH Dalreoch Jn – Balloch 16 39 20  38  Y    Y    Y    Y    Y    H
 
-     October 2009                               44
+     October 2009                               42

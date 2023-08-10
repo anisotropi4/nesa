@@ -7,56 +7,54 @@
           ELR Line of Route / Sector Description
                                     M  Ch  M Ch  334  350 380  385  390  397Notes
     route
-    SC093 SCM3Gartsherrie South Jn (Limit of OLE) –
-                                    95 64 106 63 R1   N    R1  R2    N   N  R3 Prohibited between Limit of
-              Greenhill Lower Jn                                            Electrification (Cumbernauld) and
-                                                                            Greenhill Lower Jn
-                                                                            R4 Up to 12 cars
-    SC097 SYE Whifflet South Jn – Sunnyside Jn
-                                    9  63  8  43 R1   N    N    N    N   N  R2 15mph maximum speed
-              (Goods Line)
-    SC099 RSL2Whifflet North Jn – Change of ELR
-                                    0  00  0  34 Y    Y    Y   R1    N   Y  R1 Up to 12 cars
-    SC099 RSL1Change of ELR – Langloan Jn
-                                    6  59  6  34 Y    Y    Y   R1    N   Y  R1 Up to 12 cars
-    SC099 RCB Langloan Jn – Rutherglen East Jn
-                                    6  34  0  04 Y    Y    Y   R1    N   Y  R1 Up to 10 cars
-    SC101 RCB Coatbridge Jn – Langloan Jn
-                                    7  03  6  34 Y    R1   Y   R2    N   Y  R1 Class 350/4 only
-                                                                            R2 Up to 10 cars
-    SC103 CBD1Garnqueen North Jn – Gartcosh Jn
-                                    1  33  0  00 Y    N    Y   R1    N   N  R1 Up to 12 cars
-    SC103 CBD2Gartcosh Jn – Change of ELR
-                                    97 09 103 41 Y    N    Y   R1    N   Y  R1 Up to 12 cars
-    SC103 SGN Change of ELR – Cowlairs West Jn
-                                    0  61  -0 20 Y    N    Y   R1    N   R1 R1 Prohibited between Change
-                                                               R4        R2 of ELR and Sighthill East Jn
-                                                                         R3 R2 Prohibibted between Sighthill
-                                                                            West Jn and Cowlairs West Jn
-                                                                            R3 Prohibted Springburn platform
-                                                                            3
-                                                                            R4 Up to 12 cars
-    SC105 GHE Gartsherrie South Jn – Gartcosh Jn
-                                    95 64 97  06 Y    N    Y   R1    N   Y  R1 Up to 12 cars
-    SC106 PNS Sighthill West Jn – Cowlairs South Jn
-                                    0  30  0  00 Y    N    Y   R1    N   Y  R1 Up to 12 cars
-              (Chord Line)
-    SC107 ECM9Waverley East End – Edinburgh
-                                    0  21  0  00 Y    E    Y   R2   R1   Y  R1 Prohibited Edinburgh
-              Waverley                                                      Waverley platforms 1, 3, 4 & 20
+    SC059 LYE Cook St – High St Line (Smithy Lye
+                                    0  00  0  44 N    E    Y   R1    E   N  R1 Up to 12 cars
+              through line)
+    SC059 AYR1Cook St – Shields Jn  0  19  1  00 Y    E    Y   R1    Y   E  R1 Up to 12 cars
+    SC059 AYR1Shields Jn – Change of ELR (Paisley
+                                    1  00  6  53 Y    N    Y   R2    N   E  R1 Prohibited between Helen
+              Gilmour Street)                                            R1 Street Jn and Change of ELR
+                                                                            (Paisley Gilmour Street)
                                                                             R2 Up to 12 cars
-    SC107 EGM4Edinburgh Waverley – Waverley West
-                                    0  00  0  15 Y    Y    Y   R2   R1   Y  R1 Prohibited Edinburgh
-              End (South Lines)                                             Waverley platforms 12, 13 & 14
-                                                                            R2 Up to 12 cars
-    SC107 ECN1Edinburgh Waverley – Waverley West
-                                    0  00  0  15 Y    N    Y   R2   R1   Y  R1 Prohibited Edinburgh
-              End (North Lines)                                             Waverley platforms 1, 15, 16, 17,
-                                                                            18 & 20
-                                                                            R2 Up to 12 cars
-    SC107 EGM3Waverley West End – Haymarket
-                                    0  15  1  19 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
-              (South Lines)
+    SC059 AYR2Change of ELR (Paisley Gilmour
+                                    6  73  7  00 Y    N    Y   R1    N   N  R1 Up to 12 cars
+              Street) – Change of ELR (Brown Street
+              crossover)
+    SC059 AYR3Change of ELR (Brown Street
+                                    7  00 23  00 Y    N    Y   R1    N   N  R1 Up to 8 cars
+              crossover) – Change of ELR (Dalry)
+    SC059 AYR4Change of ELR (Dalry) – Change of
+                                    23 00 33  08 Y    N    Y   R1    N   N  R1 Up to 12 cars
+              ELR (Barassie Jn)
+    SC059 AYR5Change of ELR (Barassie Jn) –
+                                    0  00  2  15 Y    N    Y   R1    N   N  R1 Up to 8 cars
+              Change of ELR (Between Troon and
+              Prestwick International Airport)
+    SC059 AYR6Change of ELR (Between Troon and
+                                    35 05 38  73 Y    N    Y   R1    N   N  R1 Up to 12 cars
+              Prestwick International Airport) –
+              Falkland Jn
+    SC059 AYR6Falkland Jn – Ayr     38 73 40  49 Y    N    Y   R1    N   N  R1 Up to 12 cars
+    SC059 STR1Ayr – Dalrymple Jn    40 49 43  53 N    N    E   E     N   N  R1 Prohibited between
+                                                           R1  R1           Townhead Depot and Dalrymple Jn
+    SC059 STR1Dalrymple Jn – Change of ELR
+                                    43 53 61  60 N    N    N    N    N   N
+              (Girvan)
+    SC059 STR2Change of ELR (Girvan) – Change of
+                                    0  00 30  67 N    N    N    N    N   N
+              ELR (Betweeen Challoch LC and
+              Dunragit SB & LC)
+    SC059 STR3Change of ELR (Betweeen Challoch
+                                    46 54 53  05 N    N    N    N    N   N
+              LC and Dunragit SB & LC) – Change of
+              ELR (Stranraer Yard GF)
+    SC059 STR4Change of ELR (Stranraer Yard GF) –
+                                    53 05 54  05 N    N    N    N    N   N
+              End of Line
+    SC061 CNL Shields Jn – Corkerhill
+                                    1  05  3  11 Y    E    Y    N   R2   E  R2 Only for access to / from
+                                                      R1                    Corkerhill Depot
+                                                                            R3 Prohibited between
+                                                                            Dumbreck and Corkerhill
 
-
-    October 2009                                48F
+    October 2009                                48D

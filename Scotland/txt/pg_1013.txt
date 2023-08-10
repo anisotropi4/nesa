@@ -6,59 +6,71 @@
                                         Scotland Route Sectional Appendix Module SCRC
 
      Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo
-                                                 170  180 185  220  221 Notes
-     route                          M  Ch M  Ch  0000 00000000 0000 0000 ooooooooooooooooooooooooooo
-     SC183KNE2Change of ELR – Charlestown Jn
-                                     14 14 15  39 N    N   N    N    N
-     SC189CRE Westfield – Change of Mileage
-                                     28 77 33  04 N    N   N    N    N
-     SC189CRE Change of Mileage – Redford Jn (Goods
-                                     33 28 33  45 N    N   N    N    N
+          ELR Line of Route / Sector Description
+                                    ooo ooo ooo ooo
+                                                 170 180  185 220 221 Notes
+     route                           o  o  o  o 0000 0000 000000000000 ooooooooooooooooooooooooooo
+                                     M Ch  M Ch
+     SC153CPH Craigentinny – Powderhall (Goods Line)
+                                      0 00  1 78  N   N    N   N   N
+     SC155MHL1Monktonhall Jn – Change of ELR
+                                      0 11  5 60  N   N    N   Y   Y
+     SC155MHL2Change of ELR – Millerhill East Jn
+                                      1 40  0 28  N   N    N   Y   Y
+     SC155MHL3Millerhill East Jn – Millerhill Yard (Goods
+                                      0 00  0 19  N   N    N   Y   Y
               Line)
-     SC191ECN2Dundee Central Jn – Dundee
-                                     58 69 59  14 Y    N   N    Y    Y
-     SC191ECN2Dundee – Camperdown Jn 59 14 59  77 Y    N   N    Y    Y
-     SC191ECN3Camperdown Jn – Change of ELR
-                                     0  21 17  17 Y    N   N    Y    Y
-              (Arbroath SB)
-     SC191ECN4Change of ELR (Arbroath SB) – Change
-                                     17 55 33  28 Y    N   N    Y    Y
-              of ELR (Montrose)
-     SC191ECN5Change of ELR (Montrose) –
-                                    203 11 239 55 Y    N   N    Y    Y
-              Craiginches
-     SC191ECN5Craiginches – Aberdeen239 55 241 06 Y    N   N    Y    Y
-     SC193HGL1Perth South Jn – Change of ELR
-                                    150 61 158 38 Y    N   N    N    N
-     SC193HGL2Change of ELR – Stanley Jn
-                                     7  02  7  07 Y    N   N    N    N
-     SC193HGL2Stanley Jn – Milburn Jn7  07 143 39 Y    N   N    N    N
-     SC193HGL2Milburn Jn – Welsh's Bridge Jn
-                                    117 37 117 56 Y    N   N    N    N
-     SC193RSW Welsh's Bridge Jn – Rose Street Jn
-                                    117 56 118 03 E    N   N    N    N
-     SC193HGL2Welsh's Bridge Jn – Inverness platforms
-                                    117 56 118 03 Y    N   N    N    N
-              1-4
-     SC195ECN5Aberdeen – Change of ELR
-                                    241 06 241 08 Y    N   N    N    N
-     SC195ANI1Change of ELR – Keith Jn SB
-                                     0  00 53  05 Y    N   N    N    N
-     SC195ANI2Keith Jn SB – Forres   30 40  0  00 Y    N   N    N    N
-     SC195ANI3Forres – Milburn Jn   119 26 143 39 Y    N   N    N    N
-     SC195HGL2Milburn Jn – Welsh's Bridge Jn
-                                    117 37 117 56 Y    N   N    N    N
-     SC195RSW Welsh's Bridge Jn – Rose Street Jn
-                                    117 56 118 03 E    N   N    N    N
-     SC195HGL2Welsh's Bridge Jn – Inverness platforms
-                                    117 56 118 03 Y    N   N    N    N
-              1-4
-     SC197WRO Kittybrewster – Waterloo Goods (Goods
-                                     1  62  0  03 N    N   N    N    N
-              Line)
-     SC199DFN Keith Jn – End of Line 53 06 53  36 Y    N   N    N    N
-
-
-
-     October 2009                               32
+     SC157MLE Millerhill South Jn – Millerhill East Jn
+                                      0 09  0 28  N   N    N   Y   Y
+              (Goods Line)
+     SC159NDE2 Millerhill West Jn – Millerhill South Jn /
+                                      6 52  5 72  N   N    N   N   N
+              Millerhill Yard
+     SC161NDE1 Millerhill Yard – Junction with Niddrie West
+                                      5 52  3 36  Y   N    N   Y   Y
+              Line
+     SC161SUB1Junction with Niddrie West Line – Portobello
+                                      3 36  3 30  Y   N    N   Y   Y
+     SC161MHL4 Newcraighall East Jn – Network Rail /
+                                     00 00 00 08  E   N    N   N   N
+              Abellio Scotrail Boundary
+     SC163SUB1Portobello – Change of ELR
+                                      3 30  4 00 Y    N    Y   Y   Y
+     SC163SUB2Change of ELR – Niddrie West
+                                      6 69  6 30 Y    N    Y   Y   Y
+     SC164NNS Newcraighall North Jn – Newcraighall South
+                                      4 63  5 02 R1   N    N   N   N  R1 Permitted up to 6-cars only
+              Jn
+     SC164SBO Newcraighall South Jn – Tweedbank
+                                      5 02 35 34 R1   N    N   N   N  R1 Permitted up to 6-cars only
+     SC165MHY Niddrie South Jn – Niddrie West Jn
+                                      7 06  6 30 Y    N    N   Y   Y
+     SC165SUB2Niddrie West Jn – Gorgie Jn
+                                      6 30  0 45 Y    N    Y   Y   Y
+     SC165GGE Gorgie Jn – Haymarket West Jn
+                                      0 00  0 41 Y    N    Y   Y   Y
+     SC167CKT Craiglockhart Jn – Slateford Jn
+                                      0 00  0 48 Y    N    Y   Y   Y
+     SC169SUB2Gorgie Jn – Haymarket Central Jn
+                                      0 45  0 11 Y    N    Y   Y   Y
+     SC171ECM9 Waverley East End – Edinburgh Waverley
+                                      0 21  0 00 Y    N    Y   Y   Y
+     SC171EGM4 Edinburgh Waverley – Waverley West End
+                                      0 00  0 15 Y    N    Y   Y   Y
+              (South Lines)
+     SC171ECN1 Edinburgh Waverley – Waverley West End
+                                      0 00  0 15  Y   N    Y   Y   Y
+              (North Lines)
+     SC171EGM3 Waverley West End – Haymarket (South
+                                      0 15  1 19  Y   N    Y   Y   Y
+              Lines)
+     SC171ECN2 Waverley West End – Haymarket (North
+                                      0 15  1 19  Y   N    Y   Y   Y
+              Lines)
+     SC171EGM2 Haymarket – Haymarket East Jn (South
+                                     46 02 45 72  Y   N    Y   Y   Y
+              Lines)
+     SC171ECN2 Haymarket – Haymarket East Jn (North
+                                      1 19  1 29  Y   N    Y   Y   Y
+              Lines)
+     October 2009                               30

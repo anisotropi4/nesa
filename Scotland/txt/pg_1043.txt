@@ -7,60 +7,56 @@
           ELR Line of Route / Sector Description
                                     M  Ch  M Ch  334  350 380  385  390  397Notes
     route
-    SC189 CRE Westfield – Change of Mileage
-                                    28 77 33  04 N    N    N    N    N   N
-    SC189 CRE Change of Mileage – Redford Jn
-                                    33 28 33  45 N    N    N    N    N   N
-              (Goods Line)
-    SC191 ECN2Dundee Central Jn – Dundee
-                                    58 69 59  14 N    N    N    N    N   N
-    SC191 ECN2Dundee – Camperdown Jn59 14 59  77 N    N    N    N    N   N
-    SC191 ECN3Camperdown Jn – Change of ELR
-                                    0  21 17  17 N    N    N    N    N   N
-              (Arbroath SB)
-    SC191 ECN4Change of ELR (Arbroath SB) –
-                                    17 55 33  28 N    N    N    N    N   N
-              Change of ELR (Montrose)
-    SC191 ECN5Change of ELR (Montrose) –
-                                   203 11 239 55 N    N    N    N    N   N
-              Craiginches
-    SC191 ECN5Craiginches – Aberdeen
-                                   239 55 241 06 N    N    N    N    N   N
-    SC193 HGL1Perth South Jn – Change of ELR
-                                   150 61 158 38 N    N    N    N    N   N
-    SC193 HGL2Change of ELR – Stanley Jn
-                                    7  02  7  07 N    N    N    N    N   N
-    SC193 HGL2Stanley Jn – Milburn Jn
-                                    7  07 143 39 N    N    N    N    N   N
-    SC193 HGL2Milburn Jn – Welsh's Bridge Jn
-                                   117 37 117 56 N    N    N    N    N   N
-    SC193 RSW Welsh's Bridge Jn – Rose Street Jn
-                                   117 56 118 03 N    N    N    N    N   N
-    SC193 HGL2Welsh's Bridge Jn – Inverness
-                                   117 56 118 03 N    N    N    N    N   N
-              platforms 1 - 4
-    SC195 ECN5Aberdeen – Change of ELR
-                                   241 06 241 08 N    N    N    N    N   N
-    SC195 ANI1Change of ELR – Keith Jn SB
-                                    0  00 53  05 N    N    N    N    N   N
-    SC195 ANI2Keith Jn SB – Forres  30 40  0  00 N    N    N    N    N   N
-    SC195 ANI3Forres – Milburn Jn  119 26 143 39 N    N    N    N    N   N
-    SC195 HGL2Milburn Jn – Welsh's Bridge Jn
-                                   117 37 117 56 N    N    N    N    N   N
-    SC195 RSW Welsh's Bridge Jn – Rose Street Jn
-                                   117 56 118 03 N    N    N    N    N   N
-    SC195 HGL2Welsh's Bridge Jn – Inverness
-                                   117 56 118 03 N    N    N    N    N   N
-              platforms 1 - 4
-    SC197 WRO Kittybrewster – Waterloo Goods
-                                    1  62  0  03 N    N    N    N    N   N
-              (Goods Line)
-    SC199 DFN Keith Jn – End of Line53 06 53  36 N    N    N    N    N   N
-    SC203 RSW Welsh's Bridge Jn – Rose Street Jn
-                                   117 56 118 03 N    N    N    N    N   N
-    SC203 WCK Inverness platforms 5 - 7 – Rose Street
-                                    0  02  0  18 N    N    N    N    N   N
-              Jn
+    SC161 SUB1Junction with Niddrie West Line –
+                                    3  36  3  30 N    N    E   EH    N   N
+              Portobello
+    SC161 MHL4Newcraighall East Jn – Network Rail /
+                                    00 00  00 08 E    N    E    N    N   N
+              Abellio Scotrail Boundary
+    SC163 SUB1Portobello – Change of ELR
+                                    3  30  4  00 N    N    N   EH    N   E
+    SC163 SUB2Change of ELR – Niddrie West
+                                    6  69  6  30 N    N    N    N    N   E
+    SC164 NNS Newcraighall North Jn – Newcraighall
+                                    4  63  5 02  N    N    N    N    N   N
+              South Jn
+    SC164 SBO Newcraighall South Jn – Tweedbank
+                                    5  02 35 34  N    N    N    N    N   N
+    SC165 MHY Niddrie South Jn – Niddrie West Jn
+                                    7  06  6  30 N    N    N    N    N   N
+    SC165 SUB2Niddrie West Jn – Gorgie Jn
+                                    6  30  0  45 N    N    N    N    N   E  R1 Prohibited between
+                                                                         R1 Craiglockheart Jn and Gorgie Jn
+    SC165 GGE Gorgie Jn – Haymarket West Jn
+                                    0  00  0  41 N    N    N    N    N   N
+    SC167 CKT Craiglockhart Jn – Slateford Jn
+                                    0  00  0  48 N    N    N    N    N   E
+    SC169 SUB2Gorgie Jn – Haymarket Central Jn
+                                    0  45  0  11 N    N    N    N    N   N
+    SC171 ECM9Waverley East End – Edinburgh
+                                    0  21  0  00 Y    E    Y   R2   R1   Y  R1 Prohibited Edinburgh
+              Waverley                                                      Waverley platforms 1, 3, 4 & 20
+                                                                            R2 Up to 12 cars
+    SC171 EGM4Edinburgh Waverley – Waverley West
+                                    0  00  0  15 Y    Y    Y   R2   R1   Y  R1 Prohibited Edinburgh
+              End (South Lines)                                             Waverley platforms 12, 13 & 14
+                                                                            R2 Up to 12 cars
+    SC171 ECN1Edinburgh Waverley – Waverley West
+                                    0  00  0  15 Y    N    Y   R2   R1   Y  R1 Prohibited Edinburgh
+              End (North Lines)                                             Waverley platforms 1, 15, 16, 17,
+                                                                            18 & 20
+                                                                            R2 Up to 12 cars
+    SC171 EGM3Waverley West End – Haymarket
+                                    0  15  1  19 Y    Y    Y   R1    Y   Y  R1 Up to 10 cars
+              (South Lines)
+    SC171 ECN2Waverley West End – Haymarket
+                                    0  15  1  19 Y    N    Y   R1    Y   Y  R1 Up to 12 cars
+              (North Lines)
+    SC171 EGM2Haymarket – Haymarket East Jn
+                                    46 02 45  72 Y    N    Y   R1    Y   Y  R1 Up to 12 cars
+              (South Lines)
 
 
-    October 2009                                48N
+
+
+    October 2009                                48L

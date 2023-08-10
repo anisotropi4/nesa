@@ -1,23 +1,5 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
-Scotland	1079	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	8 R1	Y	Y	Y	Y	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC012 applies until 30/09/2014
-Scotland	1079	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	5	Y	N	N	N	N	N	N	
-Scotland	1079	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC015	MDN	Mossend East Jn – Mossend North Jn (North Curve)	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC017	MDE	Mossend East Jn – Mossend South Jn (East Curve)	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC019	MDW	Mossend South Jn – Mossend West Jn (West Curve)	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC021	COS2	Coltness – Change of ELR	0	09	0	00	10	N	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	10	N	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	7	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC025	ARG1	Rutherglen Central Jn – Bridgeton Yard North End	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC025	ARG2	Bridgeton Yard North End – Exhibition Centre	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC025	ARG2	Exhibition Centre – Finnieston East Jn (Down line)	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC025	ARG2	Exhibition Centre – Finnieston West Jn (Up line)	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC027	RNC	Rutherglen West Jn – Rutherglen North Jn (West Curve)	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC029	BRD	Terminus Jn – Shields Jn via Through Terminus lines	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	
-Scotland	1079	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
+Scotland	1079	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	5	R1 R2 R3 R5	R1 R2 R3 R5	R1 R2 R3 R5 R6	R1 R2 R4 R5	N	N	R1 R2 R4 R5	R1 R2 R4 R5 R6	N	R1 20mph over bridge 292 (115m 09ch) R2 20mph over bridge 296 (116m 18ch) R3 Double Heading prohibited R4 Double Heading permitted when hauling wagons which are loaded to a maximum of RA5 R5 If a locomotive fails north of Invergordon, the authority of the Infrastructure Manager's Structures Engineer must be obtained before an assisting locomotive is permitted to proceed towards the failed train R6 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1079	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	3	R1	R1	R1 R2	R1	N	N	R1	R1 R2	N	R1 10mph over bridge 302/364 (159m 12ch) R2 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1079	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6
+Scotland	1079	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	5	Y	Y	R1	Y	N	N	Y	R1	N	R1 Route prohibited to Class 20 and Class 37/5 locomotives that conform to RA6

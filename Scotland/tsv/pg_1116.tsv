@@ -1,5 +1,17 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
-Scotland	1116	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	5	N	R1 R2 R3 R5	R6 R7 R8 R9 R10 R11	R1 R2 R3 R5 R12	N	Y	R1 R2 R4 R5	R12 82m 100yds to 82m 250yds 83m 1400yds to 83m 1600yds 84m 300yds to 84m 500yds 88m 1320yds to 88m 1600yds 90m 1450yds to 90m 1500yds 91m 500yds to 91m 700yds 92m 500yds to 92m 1100yds 94m 800yds to 95m 00yds 96m 600yds to 96m 900yds 96m 1700yds to 97m 300yds 98m 300yds to 98m 500yds 99m 200yds to 99m 500yds 100m 1200yds to 101m 400yds 102m 100yds to 102m 200yds 104m 1600yds to 105m 00yds 105m 800yds to 105m 1600yds 109m 1000yds to 109m 1320yds 111m 1100yds to 111m 1400yds 115m 100yds to 115m 300yds 115m 900yds to 115m 1100yds 117m 500yds to 117m 700yds 117m 1200yds to 117m 1500yds 118m 400yds to 118m 700yds 119m 100yds to 119m 200yds 119m 1000yds to 119m 1200yds 124m 1000yds to 124m 1200yds 125m 1600yds to 126m 200yds 126m 900yds to 126m 1700yds 127m 500yds to 127m 600yds 128m 400yds to 128m 600yds 140m 1200yds to 140m 1400yds 147m 1320yds to 147m 1700yds
-Scotland	1116	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	3	N	R1	N	N	N	N	R1	R1 Prohibited between 148m 20ch and Wick
-Scotland	1116	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	5	N	N	N	N	N	N	Y	
-Scotland	1116	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	5	N	R1 R2	N	N	N	Y	Y	R1 20mph over bridge 4, Thurso Viaduct (03m 56ch) R2 Double Heading is prohibited. If a locomotive fails, the authority of the Infrastructure Manager's Structures Engineer must be obtained before an assisting locomotive is permitted to proceed towards the failed train
+Scotland	1116	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	8	Y	Y	R1 R2	Y	Y	Y	Y	R1 60mph over bridge 86T (Banavie Burn near Blair Atholl) (35m 21ch) R2 60mph over 191 (Gynack Burn near Kingussie) (71m 53ch)
+Scotland	1116	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC193	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC193	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	ECN5	Aberdeen – Change of ELR	241	06	241	08	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	ANI1	Change of ELR – Keith Jn SB	0	00	53	05	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	ANI2	Keith Jn SB – Forres	30	40	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	ANI3	Forres – Milburn Jn	119	26	143	39	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC195	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC197	WRO	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC199	DFN	Keith Jn – End of Line	53	06	53	36	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1116	SC203	WCK	Inverness platforms 5-7 – Rose Street Jn	0	02	0	18	5 R1	N	Y	Y	R2	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC011 applies until 30/09/2014 R2 Prohibited Inverness platforms 6a and 6b
+Scotland	1116	SC203	WCK	Rose Street Jn – Invergordon	0	18	31	37	5 R1	N	Y	Y	R2	Y	Y	Y	R1 RA Change STNC NC/G1/2010/ICP-RA/SC011 applies until 30/09/2014 R2 Prohibited Dingwall Loading Dock

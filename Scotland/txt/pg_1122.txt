@@ -3,71 +3,66 @@
 
 
 
-          ELR
-     Line of   Line of Route / Sector Description
+     Line of
+          ELR  Line of Route / Sector Description
                                      oooo oooo oooo oooo RA
                                                        86 87 88 90  91 92 Notes
      route                            M  Ch  M  Ch 000000 000   000000 000 ooooooooooooooooooooooooo
-
-     SC085AYH1 Ayr Harbour – Newton Jn (Goods Line)
-                                       0  17  0  0010  N  N  Y   N  N  N
-     SC087ANN  Newton Jn – Mauchline (Goods Line)
-                                      39  42 50  1610  N  N  Y   N  N  N
-     SC089KCH1 Annbank – Change of ELR43  52 48  7310  N  N  Y   N  N  N
-     SC089KCH2 Change of ELR – Killoch Colliery (Goods
-                                       0  00  3  4310  N  N  Y   N  N  N
-               Line)
-     SC091WAT  Dalrymple Jn – Chalmerston (Goods Line)
-                                      43  53 52  708   N  N  Y   N  N  N
-     SC093SCM1 Motherwell – Mossend South
-                                      89  51 91  0810  Y  Y  Y   Y  Y  Y
-     SC093SCM2 Mossend South – Whifflet North Jn
-                                      91  08 94  0510  Y  Y  Y   Y  Y  Y
-     SC093SCM3 Whifflet North Jn – Gartsherrie South Jn
-                                      94  05 95  6410  Y  Y  Y   Y  Y  Y
-               (Limit of OLE)
-     SC093SCM3 Gartsherrie South Jn (Limit of OLE) –
-                                      95  64106  6310  Y  Y  Y   Y  N  Y
-               Greenhill Lower Jn
-     SC097SYE  Whifflet South Jn – Sunnyside Jn (Goods
-                                       9  63  8  4310  N  N  Y   N  N  Y
-               Line)
-     SC099RSL2 Whifflet North Jn – Change of ELR
-                                       0  00 0   3410 Y   Y  Y  Y   Y  Y
-     SC099RSL1 Change of ELR – Langloan Jn
-                                       6  59 6   3410 Y   Y  Y  Y   Y  Y
-     SC099RCB  Langloan Jn – Rutherglen East Jn
-                                       6  34 0   0410 Y   Y  Y  Y   Y  Y
-     SC101RCB  Coatbridge Jn – Langloan Jn
-                                       7  03 6   3410 Y   Y  Y  Y   Y  Y
-     SC103CBD1 Garnqueen North Jn – Gartcosh Jn
-                                       1  33 0   0010 N   N  Y  N   N  N
-     SC103CBD2 Gartcosh Jn – Change of ELR
-                                      97  09103  4110 N   N  Y  N   N  N
-     SC103SGN  Change of ELR – Cowlairs West Jn
-                                       0  61 -0  2010 Y   Y  Y  N   N  Y
-     SC105GHE  Gartsherrie South Jn – Gartcosh Jn
-                                      95  64 97  0610 R1  R1 Y  R1  N  N R1 Prohibited between limit of electrification
-                                                                            (96m 09ch) and Gartcosh Jn
-     SC106PNS  Sighthill West Jn – Cowlairs South Jn
-                                       0  30  0  00 8  Y  Y  Y   Y  N  Y
-               (Chord Line)
-     SC107ECM9 Waverley East End – Edinburgh Waverley
-                                       0  21  0  0010  Y  Y  Y   Y  Y  Y
-     SC107EGM4 Edinburgh Waverley – Waverley West
-                                       0  00  0  1510  Y  Y  Y   Y  Y  Y
-               End (South Lines)
-     SC107ECN1 Edinburgh Waverley – Waverley West
-                                       0  00  0  1510  Y  Y  Y   Y  Y  Y
-               End (North Lines)
-     SC107EGM3 Waverley West End – Haymarket (South
-                                       0  15  1  1910  Y  Y  Y   Y  Y  Y
-               Lines)
-     SC107ECN2 Waverley West End – Haymarket (North
-                                       0  15  1  1910  Y  Y  Y   Y  Y  Y
-               Lines)
+     SC031WCM2 Eglinton St Jn – Bridge St Jn
+                                      101 39101  538   Y  Y  Y   Y  Y  Y
+     SC031WCM2 Bridge St Jn – Glasgow Central
+                                      101 53102  278   Y  Y  Y   Y  Y  Y
+     SC035KSH  Bank Jn – Network Rail Boundary (Connel
+                                       54 05 55  2810  N  N  Y   N  N  N
+               Park LC) / Knockshinnoch
+     SC036GNN  Greenburn Jn – Greenburn Open Cast
+                                       0  00  0  5510  N  N  Y   N  N  N
+               (Goods Line)
+     SC037RIC1 Kay Park Jn – Bellfield 0  00 1   0610 N   N  Y  N   N  N
+     SC037RIC2 Bellfield – Riccarton (Goods Line)
+                                       2  20 1   7510 N   N  Y  N   N  N
+     SC039BAK  Kilmarnock – Barassie   0  05 7   5610 N   N  Y  N   N  N
+     SC045EKE  East Kilbride – Busby Jn7  60 0   405  N   N  N  N   N  N
+     SC047LFS2 Muirhouse South Jn – Change of ELR
+                                       1  19 0   6110 N   N  Y  N   N  N
+     SC047LFS1 Change of ELR – Larkfield Jn
+                                      101 17101  0110 N   N  Y  N   N  N
+     SC049TSS  Muirhouse Central Jn – Terminus Jn
+                                       0  04 0   4010 Y   Y  Y  Y   N  Y
+     SC051CTC  Muirhouse Central Jn – Cathcart North Jn
+                                       5  19 1   633  R1  R1 N  R1  R1 R1 R1Route prohibited unless authorised by the
+               (via Cathcart)                                               Infrastructure Manager's structures
+                                                                            engineer
+     SC051CTC  Cathcart North Jn – Muirhouse North Jn
+                                       1  63  0  00 7  Y  Y  Y   Y  Y  Y
+               (via Crosshill)
+     SC053NNH  Neilston – Cathcart West Jn
+                                      108 45100  775   Y  N  N   N  N  N
+     SC055WCM2 Newton, Hamilton Jn – Newton Kirkhill Jn
+                                       95 53 95  7710  Y  Y  Y   Y  Y  Y
+     SC055KHL  Newton Kirkhill Jn – Cathcart West Jn
+                                       96 77100  777   Y  Y  Y   Y  Y  Y
+     SC057CNC  Cathcart East Jn – Cathcart North Jn
+                                       0  45 0   007   Y  Y  Y   Y  Y  Y
+     SC059WCM2 Glasgow Central – Bridge St Jn
+                                      102 27101  538   Y  Y  Y   Y  Y  Y
+     SC059AYR1 Bridge St Jn – Cook St  0  00 0   198   Y  Y  Y   Y  N  Y
+     SC059LYE  Cook St – High St Line (Smithy Lye
+                                       0  00 0   448   Y  Y  Y   Y  N  Y
+               through line)
+     SC059AYR1 Cook St – Shields Jn    0  19  1  008   Y  Y  Y   Y  N  Y
+     SC059AYR1 Shields Jn – Change of ELR (Paisley
+                                       1  00  6  5310  Y  Y  Y   Y  Y  Y
+               Gilmour Street)
+     SC059AYR2 Change of ELR (Paisley Gilmour Street) –
+                                       6  73  7  0010  Y  Y  Y   Y  Y  Y
+               Change of ELR (Brown Street crossover)
+     SC059AYR3 Change of ELR (Brown Street crossover)
+                                       7  00 23  0010  Y  Y  Y   Y  Y  Y
+               – Change of ELR (Dalry)
+     SC059AYR4 Change of ELR (Dalry) – Change of ELR
+                                      23  00 33  0810  Y  Y  Y   Y  Y  Y
+               (Barassie Jn)
 
 
-
-
-     October 2009                               117
+     October 2009                               115

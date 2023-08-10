@@ -3,70 +3,68 @@
 
 
 
-   Line of
-        ELR  Line of Route / Sector Description
-                                       oooo oooo oooo oooo
-                                                      RA  86 87  88 90  91 92 Notes
-   route                                M  Ch  M   Ch 000 000000    000 000000 ooooooooooooooooooooooooo
-   SC107EGM2 Haymarket – Haymarket East Jn (South Lines)
-                                         46 02  45  7210  Y   Y  Y   Y  Y   Y
-   SC107ECN2 Haymarket – Haymarket East Jn (North Lines)
-                                         1  19   1  2910  Y   Y  Y   Y  Y   Y
+     Line of
+          ELR  Line of Route / Sector Description
+                                     oooo oooo oooo oooo RA
+                                                       86 87 88 90  91 92 Notes
+     route                            M  Ch  M  Ch 000000 000   000000 000 ooooooooooooooooooooooooo
 
-   SC107EGM2 Haymarket East Jn – Haymarket Central Jn (South
-                                         45 72  45  3510  Y   Y  Y   Y  Y   Y
-             Lines)
-   SC107ECN2 Haymarket East Jn – Haymarket Central Jn (North
-                                         1  29   1  6610  Y   Y  R1  Y  Y   Y R1 Prohibited Haymarket East Jn - Haymarket
-             Lines)                                                              Central Jn on the Up North
-   SC107EGM2 Haymarket Central Jn – Haymarket West Jn (South
-                                         45 35  44  7310  Y   Y  Y   Y  Y   Y
-             Lines)
-   SC107ECN2 Haymarket Central Jn – Haymarket West Jn (North
-                                         1  66   2  4110  N   N  Y   N  N   N
-             Lines)
-   SC107EGM1 Haymarket West Jn – Cowlairs West Jn
-                                         44 73   1  6710  Y   Y  Y   Y  N   Y
-   SC107EGM1 Cowlairs West Jn – Glasgow Queen Street
-                                          1 67   0  008   Y   Y  Y   Y  N   Y
-
-   SC109PMT  Polmont Jn – Grangemouth Jn 21 20  23  7510  Y   Y  Y   Y  N   Y
-   SC109PMT  Grangemouth Jn – Carmuirs East Jn
-                                         23 75  25  7910  Y   Y  Y   Y  N   Y
-   SC109CMS  Carmuirs East Jn – Carmuirs West Jn
-                                         0  40  -0   210  Y   Y  Y   Y  N   Y
-   SC109SCM3 Carmuirs West Jn – Greenhill Lower Jn
-                                        108 74 106  6210  Y   Y  Y   Y  N   Y
-   SC109GHL  Greenhill Lower Jn – Greenhill Upper Jn
-                                         0  52  0   0010  N   N  Y   N  N   N
-   SC110PMT  Carmuirs East Jn – Larbert Jn
-                                         25 79  26  3510  N   N  Y   N  N   N
-   SC111NBE  Newbridge Jn – Bathgate     35 21  25  1810  N   N  Y   N  N   Y
-   SC113DMY  Winchburgh Jn – Dalmeny Jn  34 54  39  038   N   N  Y   N  N   N R1 RA Change
-                                                                                 STNC NC/G1/2008/SCOT0337 applies until 29/08/2013
-                                                      R1
-   SC115MRL1 Cowlairs West Jn – Maryhill Park Jn
-                                         8  26  5   5110  N   N  Y   N  N   N
-   SC115MRL2 Maryhill Park Jn – Knightswood North Jn
-                                         4  40  5   678   N   N  Y   N  N   N
-   SC1150
-        MLA  Maryhill Park Jn – Anniesland
-                                         0  00  0   705   N   N  N   N  N   N
-   SC116CSN  Cowlairs East Jn – Cowlairs North Jn
-                                         0  00  0   2110  N   N  Y   N  N   N
-   SC117GMH  Grangemouth Jn – Grangemouth0  00  3   6710  N   N  Y   Y  N   N
-   SC119GHL  Greenhill Upper Jn – Greenhill Lower Jn
-                                         0  00  0   5210  N   N  Y   N  N   N
-   SC119SCM3 Greenhill Lower Jn – Carmuirs West Jn
-                                        106 62 108  7410  Y   Y  Y   Y  N   Y
-   SC119SCM3 Carmuirs West Jn – Stirling Middle Jn
-                                        108 76 118  0810  N   N  Y   N  N   N
-   SC119SCM3 Stirling Middle Jn – Change of ELR (Dunblane)
-                                        118 08 123  4010  N   N  Y   N  N   N
-   SC119SCM4 Change of ELR (Dunblane) – Perth South Jn
-                                        123 40 150  6110  N   N  Y   N  N   N
-
-
+     SC059AYR5 Change of ELR (Barassie Jn) – Change of
+                                      0  00  2  15 10  Y  Y  Y   Y  Y  Y
+               ELR (Between Troon and Prestwick
+               International Airport)
+     SC059AYR6 Change of ELR (Between Troon and
+                                      35 05  38 73 10  Y  Y  Y   Y  Y  Y
+               Prestwick International Airport) – Falkland
+               Jn
+     SC059AYR6 Falkland Jn – Ayr      38 73  40 49  8 Y   Y  Y  R1  R1 R1 R1Prohibited between Newton Jn and Ayr
+     SC059STR1 Ayr – Dalrymple Jn     40 49  43 53  8 R1  R1 N  N   N  N R1 Prohibited between between Townhead
+                                                                            Sidings reversing points and Dalrymple Jn
+     SC059STR1 Dalrymple Jn – Change of ELR (Girvan)
+                                      43 53 61  60  5  N  N  N   N  N  N
+     SC059STR2 Change of ELR (Girvan) – Change of ELR
+                                      0  00 30  67  5  N  N  N   N  N  N
+               (Betweeen Challoch LC and Dunragit SB
+               & LC)
+     SC059STR3 Change of ELR (Betweeen Challoch LC
+                                      46 54 53  05  5  N  N  N   N  N  N
+               and Dunragit SB & LC) – Change of ELR
+               (Stranraer Yard GF)
+     SC059STR4 Change of ELR (Stranraer Yard GF) –
+                                      53 05 54  05  5  N  N  N   N  N  N
+               End of Line
+     SC061CNL  Shields Jn – Corkerhill1  05  3  11 10  N  N  Y   N  N  N
+     SC061CNL  Corkerhill – Paisley Canal
+                                      3  11  7  00 10  N  N  Y   N  N  N
+     SC063CND1 Cardonald Jn – Cardonald North Jn
+                                      0  00  0  36 9   N  N  Y   N  N  N
+     SC063CND2 Cardonald North Jn – Deanside (Goods
+                                      0  36  1  54 9   N  N  Y   N  N  N
+               Line)
+     SC065GOU1 Paisley (Wallneuk Jn) – Change of ELR
+                                       6  34 6   537   N  N  Y   N  N  N
+     SC065GOU2 Change of ELR – Bishopton
+                                      107 70112  607   N  N  Y   N  N  N R1 RA Change
+                                                   R1                       STNC NC/G1/2010/ICP-RA/SC006 applies until
+                                                                            30/09/2014
+     SC065GOU2 Bishopton – Gourock    112 60126  585   N  N  N   N  N  N R1 RA Change
+                                                   R1                       STNC NC/G1/2010/ICP-RA/SC006 applies until
+                                                                            30/09/2014
+     SC067WYS  Wemyss Bay Jn – Wemyss Bay
+                                       0  00 10  035   N  N  N   N  N  N
+     SC073LGS1 Kilwinning Jn – Change of ELR
+                                      25  65 30  4410  N  N  Y   N  N  N
+     SC073LGS2 Change of ELR – Fairlie High Siding
+                                      30  44 38  6910  N  N  Y   N  N  N
+     SC073LGS2 Fairlie High Siding – Largs
+                                      38  69 42  075   N  N  N   N  N  N
+     SC077ARH  Ardrossan South Beach – Adrossan
+                                      30  44 31  3510  N  N  Y   N  N  N
+               Harbour
+     SC079HUN  Hunterston – Hunterston Low Level Sdgs
+                                       0  00  0  3610  N  N  Y   N  N  N
+               (Goods Line)
+     SC081BYL  Byrehill Jn – Dubbs Jn  0  60  0  0010  N  N  Y   N  N  N
 
 
-     October 2009                               118
+     October 2009                               116

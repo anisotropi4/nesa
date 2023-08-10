@@ -1,17 +1,21 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-Scotland	1055	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	Y	Y	Y	N	N	N	N	N	N	
-Scotland	1055	SC151	LHS1	Portobello – Leith South Yard (Goods Line)	0	00	2	20	N	N	N	N	N	N	N	N	N	
-Scotland	1055	SC153	CPH	Craigentinny – Powderhall (Goods Line)	0	00	1	78	N	N	N	N	N	N	N	N	N	
-Scotland	1055	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1055	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1055	SC155	MHL3	Millerhill East Jn – Millerhill Yard (Goods Line)	0	00	0	19	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1055	SC157	MLE	Millerhill South Jn – Millerhill East Jn (Goods Line)	0	09	0	28	Y	Y	Y	N	N	N	Y	N	N	
-Scotland	1055	SC159	NDE2	Millerhill West Jn – Millerhill South Jn / Millerhill Yard	6	52	5	72	N	N	N	N	N	N	N	N	N	
-Scotland	1055	SC161	NDE1	Millerhill Yard – Junction with Niddrie West Line	5	52	3	36	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1055	SC161	SUB1	Junction with Niddrie West Line – Portobello	3	36	3	30	Y	Y	Y	N	N	N	Y	N	N	
-Scotland	1055	SC161	MHL4	Newcraighall East Jn – Network Rail / Abellio Scotrail Boundary	00	00	00	08	N	N	N	N	N	N	N	N	N	
-Scotland	1055	SC163	SUB1	Portobello – Change of ELR	3	30	4	00	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1055	SC163	SUB2	Change of ELR – Niddrie West	6	69	6	30	Y	Y	Y	N	N	N	Y	Y	N	
-Scotland	1055	SC164	NNS	Newcraighall North Jn – Newcraighall South Jn	4	63	5	02	R1 R2	R1 R2	N	N	N	N	N	N	N	R1 55mph maximum speed R2 All passenger trains, except when operated by Class 158 or 170 DMUs, require a Special Operating Instruction
-Scotland	1055	SC164	SBO	Newcraighall South Jn – Tweedbank	5	02	35	34	R1 R2	R1 R2	N	N	N	N	N	N	N	R1 55mph maximum speed R2 All passenger trains, except when operated by Class 158 or 170 DMUs, require a Special Operating Instruction
-Scotland	1055	SC165	MHY	Niddrie South Jn – Niddrie West Jn	7	06	6	30	Y	Y	Y	N	N	N	Y	N	N	
+Scotland	1055	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	N	N	N	N	Y	E R1	R1 Prohibited between Change of ELR and Belgrove Jn
+Scotland	1055	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Down Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM3	Finnieston East Jn – Finnieston West Jn (Up Line)	2	19	2	53	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM5	Knightswood North Jn – Change of ELR (Between Bowling and Dumbarton East)	5	67	13	40	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM6	Change of ELR (Between Bowling and Dumbarton East) – Change of ELR (Dumbarton East)	113	46	116	00	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM7	Change of ELR (Dumbarton East) – Craigendoran Jn	15	51	22	76	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1055	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	N	N	N	N	Y	N	
+Scotland	1055	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	N	N	N	N	Y	E	
+Scotland	1055	SC131	HST	High Street Jn – Connection to Smithy Lye Through Line	0	04	2	00	Y	Y	Y	N	N	N	EH	Y	E	
+Scotland	1055	SC131	HST	Connection to Smithy Lye Through Line – Shields Jn	2	00	2	35	Y	Y	Y	N	N	N	EH	Y	E	
+Scotland	1055	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1055	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	N	N	N	N	N	N	
+Scotland	1055	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	Y	Y	Y	N	N	N	N	Y	N	
