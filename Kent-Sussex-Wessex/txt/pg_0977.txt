@@ -9,62 +9,90 @@
               Line of Route / Sector
                                   oo oo oo oo RA 37/5 37/7
                                                         43 47/2 47/4 47/7
-                                                                      56 Notes
+                                                                      56Notes
      route    Description         oo oo oo oo 0000 0000 37/9 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
                                   M  Ch M  Ch
-     SO520WPH2Farlington Jn – Portcreek Jn
-                                  40 33  41 03 8  Y   Y  Y  Y   Y  Y   Y
-              [Duplicated on SW110]
-     SO520WPH2Portcreek Jn – Blackfriars Jn
-                                  41 03  44 50 8  Y   Y  Y  Y   Y  Y   Y
-              [Duplicated on SW110]
-     SO520WPH2Blackfriars Jn – Portsmouth and
-                                  44 26  44 50 7  Y   Y  Y  Y   Y  Y   Y
-              Southsea High Level [Duplicated on
-              SW110]
-     SO520PAS Blackfriars Jn – Portsmouth and
-                                  44 26  44 50 8  Y   Y  Y  Y   Y  Y   Y
-              Southsea Low Level [Duplicated on
-              SW110]
-     SO520WPH2Portsmouth and Southsea High Level
-                                  44 50  45 36 7* Y   Y  Y  Y   Y  Y   Y
-              – Portsmouth Harbour
-              *platforms 4 and 5 RA7
-              *platforms 1 and 3 RA4
-              [Duplicated on SW110]
-     SO530SCU1South Croydon Jn (SO600) –
-                                  11 29  12 23 8  Y   Y  N  Y   Y  Y   Y
-              Sanderstead
-     SO530SCU1Sanderstead – Hurst Green Jn
-                                  12 23  21 35 6  Y  R1  N  Y  R2  Y  R1 R1Prohibited beyond 12m 40ch
-                                                                        R2 - Class 47/4 locomotives that conform to
-                                                                        RA7 prohibited beyond 12m 40ch
-     SO530HGG1Hurst Green Jn – End of Line beyond
-                                  21 35  30 12 6  Y   N  N  Y  R1  Y  N R1 Route prohibited to Class 47/4
-              East Grinstead                                               locomotives that conform to RA7
-     SO540SCU1Hurst Green Jn – Uckfield
-                                  21 35  46 08 4  R1  N  N  R1 R1  R1 N R1 30mph over Red Lane Bridge (SCU1
-                                                               R2          526) (21m 78ch)
-                                                                           STNC/G1/2010/ICP-RA/SO018a until 31
-                                                                           December 2017
-                                                                         R2Route prohibited to Class 47/4
-                                                                           locomotives that conform to RA7
-     SO550RTT Redhill (SO500) – Tonbridge
-                                  22 40  42 16 8  Y   Y  N  Y   Y  Y   Y
-     SO560RSJ Redhill – Reigate   22 40  24 27 8  Y   Y  N  Y   Y  Y   Y
-     SO560RSJ Reigate – Route Boundary (SW300)
-                                  24 27  33 10 8  Y   Y  N  Y   Y  Y   Y
-              (Shalford Jn)
-     SO590KJE1Keymer Jn – Lewes   40 69  49 74 8  Y   Y  N  Y   Y  Y   Y
-     SO590KJE1/2 Lewes – Southerham Jn [Duplicated
-                                  49 74  51 11 8  Y   Y  N  Y   Y  Y   Y
-              on SO620]
-     SO590KJE3Southerham Jn – Willingdon Jn
-                                   9 14  21 39 8  Y   Y  N  Y   Y  Y   Y
-     SO590KJE3Willingdon Jn – Eastbourne
-                                  21 39  23 75 8  Y   Y  N  Y   Y  Y   Y
+     SO500   Victoria platforms 9-19 – Battersea
+          VTB1                     0 00  0  71 8  Y   Y  N  Y   Y  Y   Y
+             Pier Jn
+     SO500
+         VTB1Battersea Pier Jn – Battersea Park Jn
+                                   0 71  1  13 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB1Battersea Park Jn – Pouparts Jn
+                                   1 13  2  03 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB1Pouparts Jn – Falcon Jn
+                                   2 03  2  66 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         WLL Falcon Jn – Latchmere No1 Jn via
+                                   0 00  0  63 8  Y   Y  N  Y   Y  Y   Y
+             Clapham Jn platforms 16 and 17
+     SO500
+         VTB1Falcon Jn – Balham Jn 2 66  4  69 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB1Balham Jn – Streatham North Jn
+                                   4 69  6  14 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         SNS Streatham North Jn – Streatham
+                                   6 16  6  35 8  Y   Y  N  Y   Y  Y   Y
+             South Jn via Reversible Fast Spur
+     SO500
+         SLJ Streatham North Jn – Streatham
+                                   6 14  6  38 8  Y   Y  N  Y   Y  Y   Y
+             South Jn via Slow Spurs
+     SO500
+         VTB1Streatham North Jn – Selhurst Jn
+                                   6 14   9 43 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         WCS Selhurst Jn – Gloucester Road Jn
+                                   9 44   9 62 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB1Selhurst Jn – Windmill Bridge Jn
+                                   9 43  10 12 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB2Windmill Bridge Jn – South Croydon
+                                   9 69  11 29 8  Y   Y  N  Y   Y  Y   Y
+             Jn
+     SO500
+         VTB2South Croydon Jn – Stoats Nest Jn
+                                  11 29  14 20 8  Y   Y  N  Y   Y  Y   Y SO500
+         RED1/2 Stoats Nest Jn – Redhill
+     SO500                        14 20  22 40 8  Y   Y  N  Y   Y  Y   Y
+         RED1/2 Redhill – Change of Mileage (Redhill /
+     SO500                        22 40  23 00 8  Y   Y  N  Y   Y  Y   Y
+             Slow lines) Via Redhill
+     SO500
+         VTB2Stoats Nest Jn – Change of Mileage
+                                  14 20  23 21 8  Y   Y  N  Y   Y  Y   Y
+             (Quarry / Fast lines)
+     SO500
+         VTB3Change of Mileage (Quarry / Fast
+                                  21 15  29 21 8  Y   Y  N  Y   Y  Y   Y
+             lines) – Three Bridges
+     SO500
+         VTB3Three Bridges – Copyhold Jn
+                                  29 21  36 73 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         CJA1Copyhold Jn – Change of Mileage
+                                  36 73  36 33 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         CJA2Change of Mileage – Ardingly Sidings
+                                   0 00   0 70 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB3Copyhold Jn – Keymer Jn
+                                  36 73  40 69 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB3Keymer Jn – Preston Park Jn
+                                  40 69  49 43 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         PPH Preston Park Jn – Hove Jn
+                                  49 21  50 44 8  Y   Y  N  Y   Y  Y   Y
+     SO500
+         VTB3Preston Park Jn – Brighton
+                                  49 43  50 49 8  Y   Y  N  Y   Y  Y   Y
 
 
 
 
-    December 2009                                   64
+     December 2009                                  62

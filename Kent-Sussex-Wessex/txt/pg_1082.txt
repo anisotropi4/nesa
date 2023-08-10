@@ -9,46 +9,61 @@
               Line of Route / Sector
                                  oooo oooo oooo oooo MK1
                                                   MK2 MK3 MK3 MK3MK3 MK4 Notes
-     route    Description         M  Ch M  Ch 000000000000 MODDVTDVT 0000 ooooooooooooooooooooooooooo
+     route    Description         M  Ch M  Ch 000000000000MOD DVTDVT 0000 ooooooooooooooooooooooooooo
                                                                  MOD
-              Old Kew Jn – Route Boundary
-     SW230 BOK5                    3 69  3  61 Y   Y   Y   N   N  N   N
-              (EA1330) (Kew East Jn)
-     SW230 HOUOld Kew Jn – Hounslow Jn
-                                  10 01  14 09 Y   Y   Y   N   N  N   N
-     SW230 HJWHounslow Jn – Whitton Jn
-                                  14 09  14 39 Y   Y   Y   N   N  N   N
-     SW230 HOUHounslow Jn – Feltham Jn
-                                  14 09  14 38 Y   Y   Y   N   N  N   N
-     SW245 TSJJn (Twickenham) – Strawberry Hill Jn
-                                  11 48  12 27 Y   Y   Y   N   N  N   N
-     SW245 SHFStrawberry Hill Jn – Fulwell Jn
-                                  12 27  12 56 Y   Y   Y   N   N  N   N
-     SW245 TSJStrawberry Hill Jn – Shacklegate Jn
-                                  12 27  12 58 Y   Y   Y   N   N  N   N
-     SW250 SWEStaines – Windsor and Eton Riverside
-                                  19 02  25 48 Y   Y   Y   N   N  N   N
-     SW255 VWWVirginia Water Jn – Addlestone Jn
-                                  24 73  19 74 Y   Y   Y   N   N  N   N
-     SW255 AJBAddlestone Jn – Byfleet Jn
-                                   0 00  0  67 Y   Y   Y   N   N  N   N
-     SW255 VWWAddlestone Jn – Weybridge
-                                  19 74  19 12 Y   Y   Y   N   N  N   N
-     SW260 AAVAscot – Ash Vale Jn 28 79  40 57 Y   Y   N   N   N  N   N
-              Guilford – Change of ELR
-     SW265 GTW1                   30 27  35 50 Y   Y   Y   N   N  N   N
-              Change of ELR – Aldershot South Jn
-     SW265 GTW2                   48 34  50 01 Y   Y   Y   N   N  N   N
-     SW265 NSAAldershot South Jn – Aldershot North
-                                  50 01  50 43 Y   Y   N   N   N  N   N
-              Jn
-              Aldershot South Jn – Wokingham Jn
-     SW265 GTW2                   50 01  61 74 Y   Y   Y   N   N  N   N
-     SW300 RSJRoute Boundary (Sussex SO560)
-                                  33 10  41 62 Y   Y   N   N   N  N   N
-              (Redhill) – Shalford Jn
+              Romsey Jn – Salisbury Tunnel Jn
+     SW150 RTJ2                   80 35  96 05 Y   Y   R1  N   N  N   N  R1OPPOS applies between Laverstock
+                                                                           South Jn and Salisbury Tunnel Jn
+     SW155 TTFTotton – Marchwood  82 43  86 10 Y   Y   N   N   N  N   N
+     SW155 TTFMarchwood – Fawley GF
+                                  86 10  91 42 Y   Y   N   N   N  N   N
+     SW160 BLPBrockenhurst – Lymington Pier
+                                  92 66  98 15 Y   Y   N   N   N  N   N
+     SW165 HAGHamworthy – Hamworthy Goods (Stop 115
+                                     77 118 05 Y   Y   N   N   N  N   N
+              board)
+     SW170 SALWilton Jn – Route Boundary Western
+                                  13233 115 40 Y   Y   Y   N   N  N   N
+              (GW5001) (Westbury South Jn)
+     SW175 WEYRoute Boundary (GW500) (Castle
+                                  13000 141 35 Y   Y   Y   N   N  N   N
+              Cary Jn) – Yeovil Pen Mill Jn
+     SW175 YJPYeovil Pen Mill Jn – Yeovil Jn
+                                   1 42  0  00 Y   Y   Y   N   N  N   N
+     SW175 WEYYeovil Pen Mill Jn – Dorchester Jn
+                                  14135 162 14 Y   Y   R1  N   N  N   N  R140mph maximum speed
+     SW180 RPERaynes Park – Epsom (Change of
+                                   8 51  14 18 Y   Y   Y   N   N  N   N
+              ELR)
+     SW180 BTH2
+              Route Boundary Sussex (Ewell
+                                  17 33  18 73 Y   Y   Y   N   N  N   N
+              East) – Epsom [Duplicated in SO680]
+              Epsom (Change of ELR) –
+     SW180 BTH3                   14 27  18 02 Y   Y   Y   N   N  N   N
+              Leatherhead [Duplicated in SO680]
+              Leatherhead – Route Boundary
+     SW180 BTH3                   18 02  21 09 Y   Y   Y   N   N  N   N
+              Sussex (Horsham) [Duplicated in
+              SW180]
+     SW180 BTH3
+              Route Boundary Sussex
+                                  21 09  35 34 Y   Y   Y   N   N  N   N
+              (Leatherhead) – Horsham jn (SO520)
+              [Duplicated in SO680]
+     SW185 MPCMotspur Park – Chessington South
+                                   9 57  13 73 Y   Y   Y   N   N  N   N
+              New Malden – Fulwell Jn
+     SW190 NMS1                    9 62  14 53 Y   Y   Y   N   N  N   N
+              Fulwell Jn – Shepperton
+     SW190 NMS2                   12 56  18 73 Y   Y   Y   N   N  N   N
+     SW195 HAMHampton Court Jn – Hampton Court
+                                  13 27  14 76 Y   Y   Y   N   N  N   N
+              Up line
+     SW195 HAMHampton Court Jn – Hampton Court
+                                  13 27  14 76 Y   Y   Y   N   N  N   N
+              Down line
+     SW200 NGLHampton Court Jn – Effingham Jn
+                                  13 27  21 04 Y   Y   Y   N   N  N   N
 
-
-
-
-    December 2009                                   129
+     December 2009                                  127

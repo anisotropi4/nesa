@@ -1,29 +1,23 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Kent-Sussex-Wessex	1001	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	4	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1001	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	8	N	N	R1	N	N	N	R1 Prohibited Victoria platform 19
-Kent-Sussex-Wessex	1001	SO500	VTB1	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Battersea Park Jn – Pouparts Jn	1	13	2	03	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Pouparts Jn – Falcon Jn	2	03	2	66	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	WLL	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Falcon Jn – Balham Jn	2	66	4	69	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Balham Jn – Streatham North Jn	4	69	6	14	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	SNS	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	SLJ	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Streatham North Jn – Selhurst Jn	6	14	9	43	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	WCS	Selhurst Jn – Gloucester Road Jn	9	44	9	62	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB1	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB2	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB2	South Croydon Jn – Stoats Nest Jn	11	29	14	20	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	RED1/2	Stoats Nest Jn – Redhill	14	20	22	40	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	RED1/2	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB2	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB3	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB3	Three Bridges – Copyhold Jn	29	21	36	73	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	CJA1	Copyhold Jn – Change of Mileage	36	73	36	33	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	CJA2	Change of Mileage – Ardingly Sidings	0	00	0	70	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1001	SO500	VTB3	Copyhold Jn – Keymer Jn	36	73	40	69	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	N	N	Y	N	N	R1	R3 15mph between limit of AC electrification (4m 69ch) and Northbound AC/DC changeover when operating in AC mode
+Kent-Sussex-Wessex	1001	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	N	N	Y	N	N	R1	R1 15mph when operating in AC mode
+Kent-Sussex-Wessex	1001	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	8	N	N	Y	N	N	R1	R1 15mph when operating in AC mode
+Kent-Sussex-Wessex	1001	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	8	N	N	R1	N	N	Y	R1 Prohibited Up Catford Loop
+Kent-Sussex-Wessex	1001	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	8	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	1001	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	4	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	FTL	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	4	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	HHH	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1001	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	8	N	N	Y	N	N	N	

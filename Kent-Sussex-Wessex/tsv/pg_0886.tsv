@@ -1,26 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
-Kent-Sussex-Wessex	0886	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO500	VTB1	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO500	VTB1	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO500	VTB1	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO500	VTB1	Pouparts Jn – Falcon Jn	2	03	2	66	N	N	N	N	N	
-Kent-Sussex-Wessex	0886	SO500	WLL	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	R1	N	N	N	N	R1 OPPOS applies between crossover VC289 points and Falcon Jn VC290/292 points
-Kent-Sussex-Wessex	0886	SO500	VTB1	Falcon Jn – Balham Jn	2	66	4	69	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	N	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0886	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	N	N	N	N	N	
+Kent-Sussex-Wessex	0886	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	N	N	N	N	

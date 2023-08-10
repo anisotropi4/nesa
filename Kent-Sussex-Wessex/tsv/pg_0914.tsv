@@ -1,19 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0914	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	E R1	H R1	N	Y	Y	R2	N	N	Y	R1 45mph maximum speed R2 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0914	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0914	SO500	VTB1	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	E	Y	H	N	Y	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO500	VTB1	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	E	Y	H	N	Y	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO500	VTB1	Battersea Park Jn – Pouparts Jn	1	13	2	03	E	Y	H	N	Y	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0914	SO500	VTB1	Pouparts Jn – Falcon Jn	2	03	2	66	E	Y	H	N	Y	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0914	SO500	WLL	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	R1	Y	H	N	N	N	R2 R3	Y	N	R4	R1 OPPOS applies between crossover VC289 points and Falcon Jn (VC290 / 292) points. R2 Classes 377/1 – 377/5 - 15mph Clapham Jn platforms 16 and 17 R3 Classes 377/6 and 377/7 – 15mph Clapham Jn Down West London Line platform16 R4 15mph maximum speed Clapham Junction platfroms 16 and 17
-Kent-Sussex-Wessex	0914	SO500	VTB1	Falcon Jn – Balham Jn	2	66	4	69	E	Y	H	N	Y	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0914	SO500	VTB1	Balham Jn – Streatham North Jn	4	69	6	14	E	Y	H	N	Y	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0914	SO500	SNS	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	Y	Y	Y	N	N	N	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0914	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	Y	Y	Y	N	N	N	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0914	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0914	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0914	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0914	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0914	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0914	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO280	FTL	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	Y	H	N	N	N	R1	N	N	Y	R1 Route prohibited to Classes 377/1, 377/3, 377/4, 377/6 and 377/7
+Kent-Sussex-Wessex	0914	SO280	HHH	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	Y	H	N	N	Y	R1	N	N	Y	R1 Route prohibited to Classes 377/1, 377/3, 377/4, 377/6 and 377/7
+Kent-Sussex-Wessex	0914	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0914	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0914	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0914	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0914	SO290	NKL	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0914	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	15	66	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0914	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0914	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only

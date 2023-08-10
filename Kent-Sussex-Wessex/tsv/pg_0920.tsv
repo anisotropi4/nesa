@@ -1,17 +1,28 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
-Kent-Sussex-Wessex	0920	SO110	VIR	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	R1	Y	R2	Y	Y	Y	N	Y	Y	Y	Y	R3	R1 Prohibited Victoria platforms 6, 7 and 8 R2 Prohibited Victoria platforms 3, 4, 5, 6, 7 and 8 R3 Prohibited Victoria Platform 5 with crush deflated suspension
-Kent-Sussex-Wessex	0920	SO110	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	Y	Y	Y	Y	Y	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0920	SO110	VIR	Battersea Pier Jn – Linford Street Jn	0	70	1	45	Y	Y	N	N	R1	R1	N	Y	Y	Y	Y	Y	R1 Chatham Reversible only
-Kent-Sussex-Wessex	0920	SO110	AHG	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	N	N	N	N	N	N	N	N	N	Y	N	E	
-Kent-Sussex-Wessex	0920	SO110	VIR	Linford Street Jn – Factory Jn	1	45	1	61	Y	Y	N	N	R1	R1	N	Y	Y	Y	Y	Y	R1 Chatham Reversible only
-Kent-Sussex-Wessex	0920	SO110	FLL1	Factory Jn – Longhedge Jn	0	40	0	03	N	E	Y	N	Y	Y	N	N	N	Y	Y	E	
-Kent-Sussex-Wessex	0920	SO110	VIR	Factory Jn – Shepherds Lane Jn	1	61	2	70	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0920	SO110	VIR	Shepherds Lane Jn – Brixton Jn	2	70	3	08	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0920	SO110	VIR	Brixton Jn – Herne Hill North Jn	3	08	3	70	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0920	SO110	VIR	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	Y	Y	N	N	Y	Y	E	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0920	SO110	HHT	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	N	Y	N	N	Y	Y	E	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0920	SO110	HHT	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	N	Y	N	N	Y	Y	E	N	N	Y	Y	N	
-Kent-Sussex-Wessex	0920	SO110	HHT	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	N	R1	N	N	Y	Y	E	N	N	Y	Y	N	R1 OPPOS applies Tulse Hill platforms 1 & 2 in both directions
-Kent-Sussex-Wessex	0920	SO110	VIR	Herne Hill South Jn – Beckenham Jn	4	06	8	43	Y	N	N	N	N	N	N	Y	Y	Y	Y	R1	R1 50mph Penge Tunnel Up Chatham Main Line
-Kent-Sussex-Wessex	0920	SO110	VIR	Beckenham Jn – Shortlands Jn	8	43	9	57	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0920	SO110	VIR	Shortlands Jn – Bickley Jn	9	57	12	38	Y	E	N	N	Y	Y	N	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0920	SO620	BTL	Montpelier Jn – Lewes	0	14	7	77	Y	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO620	KJE1/ 2	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO620	STS	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO620	NHB	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO620	STS	Newhaven Harbour Jn – Seaford	56	55	58	77	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO630	BLI1	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	Y	R1	H R1	N	N	N	Y	N	N	Y	R1 Prohibited Brighton platform 1
+Kent-Sussex-Wessex	0920	SO630	BLI1	Hove Jn – Hove platforms 2 and 3	1	28	1	35	Y	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO630	PPH	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	Y	Y	H	N	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0920	SO630	BLI1	Hove Up platform loop and platforms 2, and 3 – Arundel Jn	1	28	19	01	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO630	BLI1	Arundel Jn – Littlehampton Jn (Change of Mileage)	19	01	19	25	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO630	FJL	Littlehampton Jn – Ford Jn	60	57	60	26	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO630	BLI2	Littlehampton Jn (Change of Mileage) – Littlehampton	60	57	62	03	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO640	BBR	Barnham – Bognor Regis	22	29	25	75	Y	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0920	SO645	ATL	Battersea Park – Factory Jn	7	27	6	67	N	Y	H	N	Y	N	Y	Y	EH R1	Y	R1 Prohibited between Battersea Park and Voltaire Road Jn
+Kent-Sussex-Wessex	0920	SO645	ATL	Factory Jn – Wandsworth Road Jn	6	67	6	53	N	Y	H	N	Y	Y	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0920	SO645	ATL	Wandsworth Road Jn – Shepherds Lane Jn	6	53	5	68	N	Y	H	N	Y	Y	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0920	SO645	ATL	Shepherds Lane Jn – Crofton Road Jn	5	68	3	67	N	Y	H	N	Y	Y	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0920	SO645	ATL	Crofton Road Jn – Peckham Rye Jn	3	67	3	47	N	Y	H	N	Y	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BBJ	Balham Jn (SO500) – Leigham Jn	4	69	6	31	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BBJ	Leigham Jn – West Norwood Jn	6	31	6	58	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BBJ	West Norwood Jn – Crystal Palace platforms 1 and 2	6	58	8	56	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	SCP	Crystal Palace platforms 3 - 6 – Sydenham Up Jn	7	52	6	49	N	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BBJ	Crystal Palace platforms 1 and 2 – Bromley Up Jn	8	56	9	36	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BJN1	Bromley Up Jn – Norwood North Jn	9	36	9	75	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BBJ	Bromley Up Jn – Bromley Down Jn	9	36	9	48	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BJN2	Bromley Down Jn – Norwood North Jn	9	48	9	75	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0920	SO650	BBJ	Bromley Down Jn – Beckenham Jn	9	48	11	62	N	Y	H	N	N	N	Y	N	N	Y	

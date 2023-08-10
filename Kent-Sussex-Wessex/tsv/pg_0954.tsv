@@ -1,18 +1,18 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-Kent-Sussex-Wessex	0954	SO110	VIR	Victoria platforms 1-8 – Battersea Pier Jn	0	00	0	70	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Battersea Pier Jn – Linford Street Jn	0	70	1	45	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	AHG	Linford Street Jn – Route Boundary (SW100) (Nine Elms Jn)	2	50	2	00	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Linford Street Jn – Factory Jn	1	45	1	61	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	FLL1	Factory Jn – Longhedge Jn	0	40	0	03	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Factory Jn – Shepherds Lane Jn	1	61	2	70	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Shepherds Lane Jn – Brixton Jn	2	70	3	08	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Brixton Jn – Herne Hill North Jn	3	08	3	70	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Herne Hill North Jn – Herne Hill South Jn	3	70	4	06	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	HHT	Herne Hill South Jn – Route Boundary Sussex (Tulse Hill)	4	06	4	63	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	HHT	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill North Jn	4	63	4	76	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	HHT	Route Boundary Kent (Herne Hill South Jn) – Tulse Hill Substation via platforms 1 and 2	4	63	5	15	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Herne Hill South Jn – Beckenham Jn	4	06	8	43	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Beckenham Jn – Shortlands Jn	8	43	9	57	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	VIR	Shortlands Jn – Bickley Jn	9	57	12	38	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0954	SO110	TLP1	Bickley Jn – Petts Wood (Fast Tonbridge Loop)	12	38	13	29	8	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Kent-Sussex-Wessex	0954	SO680	BTH1	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	WTH	Tulse Hill – West Norwood Jn	6	14	6	41	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	LTH	Tulse Hill – Leigham Jn	6	20	6	40	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH1	Tulse Hill North Jn – Streatham Jn	6	07	7	57	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	SSC	Streatham Jn – Streatham Common Jn	7	57	8	10	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH1	Streatham Jn – Streatham South Jn (a)	7	57	8	09	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH1	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH1	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH1	Streatham South Jn (c) – Change of Mileage	8	15	13	45	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH2	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH2	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH3	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH3	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO680	BTH3	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO700	SMS1	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO700	SMS2	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0954	SO700	SMS2	Wimbledon West Jn – Sutton	7	51	12	50	Y	Y	Y	N	N	N	N	

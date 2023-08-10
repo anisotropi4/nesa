@@ -10,55 +10,62 @@
                                  oooo oooo oooo oooo 121
                                                   150 153156 158 159 165 Notes
      route    Description         M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-              Virginia Water – Wokingham Jn
-     SW210 RDG1                   23 15  36 35 Y   N   N  N   R1 R1  Y  R150mph between Virgina Water and
-                                                              R2 R2       Wokingham
-                                                              R3 R3     R220mph Ascot station Down line
-                                                              R4 R4     R3Prohibited through Ascot on the Up line
-                                                                        R420mph Bracknell station Down line
-              Wokingham Jn – Reading Spur Jn
-     SW210 RDG2                   61 72  67 76 Y   N   N  N   Y   Y  R1 R1Wokingham permitted on the Up line
-                                                                          (towards Bracknell) clear of position light
-                                                                          signal WM15 for movements back over
-                                                                          crossover
-     SW210 RNJReading Spur Jn – Route Boundary
-                                  68 00  67 76 Y   N   N  N   Y   Y  Y
-              (GW190) (Reading New Jn)
-              Reading Spur Jn – Reading Southern
-     SW210 RDG2                   67 76  68 25 Y   N   N  N   Y   Y  Y
-              Jn
-     SW210 RLLRoute Boundary Western (Reading
-                                  35 35  0  00 N   Y   N  N   Y   Y  Y
-              East Main Jn) – Reading Southern Jn
-              Reading Southern Jn – Reading
-     SW210 RDG2                   68 25  68 68 Y   N   N  N   Y   Y  Y
-              platforms 4, 5 and 6
-     SW220 CKLLatchmere Jn No.3 – Latchmere Jn
-                                   2 39  2  50 Y   Y   N  N   Y   Y  N
-              No.1 [Duplicated in SO250]
-     SW220 WLLLatchmere Jn No.1 – Latchmere Jn
-                                   0 63  0  68 Y   Y   N  N   Y   Y  N
-              No.2 [Duplicated in SO250]
-     SW220 WLLLatchmere Jn No.2 – Kensington
-                                   0 71  3  42 Y   Y   N  N   Y   Y  N
-              Olympia [Duplicated in SO250]
-     SW225 PPWPoint Pleasant Jn – Network Rail
-                                   5 09  5  67 Y   N   N  N   Y   Y  N
-              Boundary (TfL – District Line)
-     SW225 PPWNetwork Rail Boundary (TfL – District
-                                   5 67  8  26 Y   N   N  N   R1 R1  N  R110mph Wimbledon Park Down platform
-              Line) – Wimbledon North Jn (TfL
-              infrastructure)
-     SW230 HOUBarnes – New Kew Jn  7 07  9  34 Y   N   N  N   Y   Y  N
-              New Kew Jn – Route Boundary
-     SW230 NKE2                    9 34  9  64 Y   N   N  N   N   N  N
-              (EA1330) (Kew East Jn)
-     SW230 HOUNew Kew Jn – Old Kew Jn
-                                   9 34  10 01 Y   N   N  N   Y   Y  N
-              Old Kew Jn – Route Boundary
-     SW230 BOK5                    3 69  3  61 Y   N   N  N   N   N  N
-              (EA1330) (Kew East Jn)
-     SW230 HOUOld Kew Jn – Hounslow Jn
-                                  10 01  14 09 Y   N   N  N   R1 R1  N  R130mph Isleworth Up platform
+              Ash Vale Jn – Change of ELR
+     SW120 PAA1                   32 30  36 75 Y   N   N  N   N   N  N
+              Change of ELR – Connection to
+     SW120 PAA2                   39 22  42 70 Y   N   N  N   N   N  N
+              Farnham Depot
+              Connection to Farnham Depot – Alton
+     SW120 PAA2                   42 70  49 13 Y   N   N  N   N   N  N
+     SW125 BKERoute Boundary GW500 (Southcote
+                                  37 76  51 39 Y   Y   N  N   Y   Y  E
+              Jn) – Basingstoke
+     SW130 ECREastleigh East Jn – Romsey
+                                  73 35  80 47 Y   Y   Y  Y   Y   Y  N
+     SW135 ETFEastleigh West Jn – Fareham
+                                  73 42  84 21 Y   Y   N  Y   Y   Y  N
+              St Denys – Change of ELR
+     SW140 SDP1                    1 59  14 15 Y   Y   N  Y   Y   Y  N
+              Change of ELR – Fareham
+     SW140 SDP2                   84 10  84 21 Y   Y   N  Y   Y   Y  N
+              Fareham – Quay Viaduct
+     SW140 SDP2                   84 21  84 77 Y   Y   N  Y   Y   Y  N
+              Quay Viaduct – Cosham
+     SW140 SDP2                   84 77  90 06 Y   Y   N  Y   Y   Y  N
+              Cosham – Cosham Jn
+     SW140 SDP2                   90 06  90 43 Y   Y   N  Y   Y   Y  N
+              Cosham Jn – Portcreek Jn
+     SW140 SDP2                   90 43  91 01 Y   Y   N  Y   Y   Y  N
+     SW140 FJJCosham Jn – Farlington Jn
+                                  90 43  91 14 Y   Y   N  Y   Y   Y  N
+     SW145 SOYNortham Jn – Canute Road LC
+                                  78 15  79 02 Y   N   N  N   N   N  N
+              (AOCL) (Eastern Docks)
+              Redbridge Jn – Romsey Jn
+     SW150 RTJ1                   23 32  18 16 Y   Y   Y  Y   Y   Y  N
+              Romsey Jn – Salisbury Tunnel Jn
+     SW150 RTJ2                   80 35  96 05 Y   Y   Y  Y   Y   Y  N
+     SW155 TTFTotton – Marchwood  82 43  86 10 Y   N   N  N   N   N  N
+     SW155 TTFMarchwood – Fawley GF
+                                  86 10  91 42 Y   N   N  N   N   N  N
+     SW160 BLPBrockenhurst – Lymington Pier
+                                  92 66  98 15 Y   N   N  N   R1 R1  N  R1Must stop 30m (32 yards) short of Stop
+                                                                          light at Lymington Pier
+     SW165 HAGHamworthy – Hamworthy Goods (Stop 115
+                                     77 118 05 Y   N   N  N   N   N  N
+              board)
+     SW170 SALWilton Jn – Route Boundary Western
+                                  13233 115 40 Y   Y   Y  Y   Y   Y  N
+              (GW5001) (Westbury South Jn)
+     SW175 WEYRoute Boundary (GW500) (Castle
+                                  13000 141 35 Y   Y   Y  Y   Y   Y  N
+              Cary Jn) – Yeovil Pen Mill Jn
+     SW175 YJPYeovil Pen Mill Jn – Yeovil Jn
+                                   1 42  0  00 Y   Y   Y  Y   Y   Y  N
+     SW175 WEYYeovil Pen Mill Jn – Dorchester Jn
+                                  14135 162 14 Y   Y   Y  Y   Y   Y  N
+     SW180 RPERaynes Park – Epsom (Change of
+                                   8 51  14 18 Y   N   N  N   N   N  N
+              ELR)
 
-    December 2009                                   97
+     December 2009                                  95

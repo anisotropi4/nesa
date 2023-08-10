@@ -9,85 +9,74 @@
              Line of Route / Sector
                                  oooo oooo oooo oooo 313
                                                   319 325 377 378380 387 Notes
-     route   Description          M  Ch M  Ch 0000 0000 0000 0000
-                                                             0000 0000 ooooo
-                                                                    ooooo
-                                                                    ooooo
-                                                                    ooooo
-                                                                    ooooo
-                                                                    oo
-             Latchmere Jn No.3 – Latchmere Jn
-     SW220 CKL                     2 39  2 50  E   Y  Y   Y   Y   N   Y
-             No.1 [Duplicated in SO250]
-             Latchmere Jn No.1 – Latchmere Jn
-     SW220 WLL                     0 63  0 68  Y   Y  Y   Y   Y  EH   Y
-             No.2 [Duplicated in SO250]
-             Latchmere Jn No.2 – Kensington
-     SW220 WLL                     0 71  3 42  Y   Y  Y   Y   Y  EH   Y
-             Olympia [Duplicated in SO250]
-             Point Pleasant Jn – Network Rail
-     SW225 PPW                     5 09  5 67  N   Y  H   N   N   N   N
-             Boundary (TfL – District Line)
-             Network Rail Boundary (TfL – District
-     SW225 PPW                     5 67  8 26  N  R1  H   N   N   N   N  R110mph Wimbledon Park Down
-             Line) – Wimbledon North Jn (TfL          R1                   platform
-             infrastructure)
-             Barnes – New Kew Jn
-     SW230 HOU                     7 07  9 34  N   Y  H   N   N   N   N
-             New Kew Jn – Route Boundary
-     SW230 NKE2                    9 34  9 64  N   N  N   N   N   N   N
-             (EA1330) (Kew East Jn)
-             New Kew Jn – Old Kew Jn
-     SW230 HOU                     9 34 10 01  N   Y  H   N   N   N   N
-             Old Kew Jn – Route Boundary
-     SW230 BOK5                    3 69  3 61  N   N  N   N   N   N   N
-             (EA1330) (Kew East Jn)
-     SW230
-         HOU Old Kew Jn – Hounslow Jn
-                                  10 01 14 09  N   Y  H   N   N   N   N
-     SW230
-         HJW Hounslow Jn – Whitton Jn
-                                  14 09 14 39  N   Y  H   N   N   N   N
-     SW230
-         HOU Hounslow Jn – Feltham Jn
-                                  14 09 14 38  N   Y  H   N   N   N   N
-     SW245
-         TSJ Jn (Twickenham) – Strawberry Hill Jn
-                                  11 48 12 27  N   Y  H   N   N   N   N
-     SW245
-         SHF Strawberry Hill Jn – Fulwell Jn
-                                  12 27 12 56  N   Y  H   N   N   N   N
-     SW245
-         TSJ Strawberry Hill Jn – Shacklegate Jn
-                                  12 27 12 58  N   Y  H   N   N   N   N
-     SW250
-         SWE Staines – Windsor and Eton Riverside
-                                  19 02 25 48  N   Y  H   N   N   N   N
-     SW255
-         VWW Virginia Water Jn – Addlestone Jn
-                                  24 73 19 74  N   Y  H   N   N   N   N
-     SW255
-         AJB Addlestone Jn – Byfleet Jn
-                                   0 00  0 67  N   Y  H   N   N   N   N
-     SW255
-         VWW Addlestone Jn – Weybridge
-                                  19 74 19 12  N   Y  H   N   N   N   N
-     SW260
-         AAV Ascot – Ash Vale Jn  28 79 40 57  N   N  N   N   N   N   N
-     SW265
-         GTW1Guilford – Change of ELR
-                                  30 27 35 50  N   N  N   N   N   N   N
-     SW265
-         GTW2Change of ELR – Aldershot South Jn
-                                  48 34 50 01  N   N  N   N   N   N   N
-             Aldershot South Jn – Aldershot North
-     SW265 NSA                    50 01 50 43  N   N  N   N   N   N   N
-             Jn
-             Aldershot South Jn – Wokingham Jn
-     SW265 GTW2                   50 01 61 74  N   N  N   N   N   N   N
-     SW300 RSJ
-             Route Boundary (Sussex SO560)
-                                  33 10 41 62  N   N  N   N   N   N   N
-             (Redhill) – Shalford Jn
+     route   Description          M  Ch M  Ch 000000000000
+                                                         000000000000
 
-    December 2009                                   113
+             Change of ELR – Fareham
+     SW140 SDP2                   84 10 84 21  Y   Y  H   Y   N   N  R1R1 Operation only permitted subject to
+                                                                          prior agreement of the Wessex E&P
+                                                                          RAM
+             Fareham – Quay Viaduct
+     SW140 SDP2                   84 21 84 77  Y   Y  H   Y   N   N  R1R1 Operation only permitted subject to
+                                                                          prior agreement of the Wessex E&P
+                                                                          RAM
+             Quay Viaduct – Cosham
+     SW140 SDP2                   84 77 90 06  Y   Y  H   Y   N   N  R1R1 Operation only permitted subject to
+                                                                          prior agreement of the Wessex E&P
+                                                                          RAM
+             Cosham – Cosham Jn
+     SW140 SDP2                   90 06 90 43  N   Y  H   Y   N   N  R1R1 Operation only permitted subject to
+                                                                          prior agreement of the Wessex E&P
+                                                                          RAM
+             Cosham Jn – Portcreek Jn
+     SW140 SDP2                   90 43 91 01  N   N  N   Y   N   N  R1R1 Operation only permitted subject to
+                                                                          prior agreement of the Wessex E&P
+                                                                          RAM
+             Cosham Jn – Farlington Jn
+     SW140 FJJ                    90 43 91 14  N   N  N   Y   N   N  R1R1 Operation only permitted subject to
+                                                                          prior agreement of the Wessex E&P
+                                                                          RAM
+             Northam Jn – Canute Road LC
+     SW145 SOY                    78 15 79 02  N   N  N   N   N   N  N
+             (AOCL) (Eastern Docks)
+     SW150
+         RTJ1Redbridge Jn – Romsey Jn
+                                  23 32  1816  N   N  N   N   N   N  N
+     SW150
+         RTJ2Romsey Jn – Salisbury Tunnel Jn
+                                  80 35  9605  N   N  N   N   N   N  N
+     SW155
+         TTF Totton – Marchwood   82 43  8610  N   N  N   N   N   N  N
+     SW155
+         TTF Marchwood – Fawley GF86 10  9142  N   N  N   N   N   N  N
+     SW160
+         BLP Brockenhurst – Lymington Pier
+                                  92 66  9815  N   N  N   N   N   N  N
+     SW165
+         HAG Hamworthy – Hamworthy Goods
+                                 115 77 11805  N   N  N   N   N   N  N
+             (Stop board)
+             Wilton Jn – Route Boundary Western
+     SW170 SAL                   132 33 11540  N   N  N   N   N   N  N
+             (GW5001) (Westbury South Jn)
+     SW175 WEY
+             Route Boundary (GW500) (Castle
+                                 130 00 14135  N   N  N   N   N   N  N
+             Cary Jn) – Yeovil Pen Mill Jn
+             Yeovil Pen Mill Jn – Yeovil Jn
+     SW175 YJP                     1 42  0 00  N   N  N   N   N   N  N
+             Raynes Park – Epsom (Change of
+     SW180 RPE                     8 51 14 18  N   Y  H   N   N   N  N
+             ELR)
+     SW180 BTH2
+             Route Boundary Sussex (Ewell
+                                  17 33 18 73  N   Y  H   Y   N   N  Y
+             East) – Epsom [Duplicated in SO680]
+             Epsom (Change of ELR) –
+     SW180 BTH3                   14 27 18 02  N   Y  H   Y   N   N  Y
+             Leatherhead [Duplicated in SO680]
+
+
+
+
+     December 2009                                  111

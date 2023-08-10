@@ -1,18 +1,14 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	442	444	450	455	456	458	508	700	707	Notes
-Kent-Sussex-Wessex	1070	SW110	WPH1	Woking Jn – Guilford	24	62	30	27	Y	Y	Y	Y	R1	R1	Y	N	N	R1 15mph Guildford platform 4
-Kent-Sussex-Wessex	1070	SW110	WPH1	Guilford – Shalford Jn	30	27	31	42	Y	Y	Y	Y	R1	R1	Y	N	N	R1 15mph Guildford platform 4
-Kent-Sussex-Wessex	1070	SW110	WPH1	Shalford Jn – Haslemere	31	42	42	79	Y	Y	Y	Y	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	1070	SW110	WPH1	Haslemere – Havant Jn	42	79	66	17	R1	R1	Y	N	N	R2	N	N	N	R1 40mph through Buriton Tunnel (57m 46ch to 57m 68ch) R2 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	Y	Y	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1070	SW110	WPH2	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW110	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW110	WPH2	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW110	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW110	WPH2	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW110	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	Y	Y	Y	N	N	R1	N	N	N	R1 Class 458/5 only
-Kent-Sussex-Wessex	1070	SW115	BAE1	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	Y	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1070	SW115	LUD1	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	Y	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1070	SW115	LUD2	Red Post Jn – Ludgershall	0	00	5	64	Y	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1070	SW115	BAE1	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	Y	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1070	SW115	LAV	Laverstock North Jn – Laverstock South Jn	82	05	82	39	Y	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1070	SW115	BAE1	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	Y	N	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	442	444	450	456	458	508	700	707	Notes
+Kent-Sussex-Wessex	1070	SW100	JAT	Waterloo platforms 20-24 – International Jn	00	00	0	38	R1	Y	Y	Y	Y	N	N	E	R1 Prohibited Waterloo platforms 21 and 23
+Kent-Sussex-Wessex	1070	SW100	RDG1	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	N	Y	Y	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	RDG1	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	Y	Y	Y	Y	Y	Y	N	E	
+Kent-Sussex-Wessex	1070	SW100	RDG1	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	Y	Y	Y	Y	Y	Y	N	E	
+Kent-Sussex-Wessex	1070	SW100	BML1	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	R1 R2	R1 R2	Y	Y	Y	Y	N	N	R1 Prohibited Waterloo platforms 1-4 R2 Access to Waterloo platforms 5, 6 and 7 via Up Main Fast line only – unless under special instruction from the Signaller
+Kent-Sussex-Wessex	1070	SW100	BML1	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	Y	Y	Y	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	BML1	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	Y	Y	Y	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	AHG	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	N	N	N	N	N	N	N	E	
+Kent-Sussex-Wessex	1070	SW100	RDG1	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	Y	Y	Y	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	BML1	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	Y	Y	Y	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	BML1	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	Y	Y	Y	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	SCC	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	N	N	N	N	N	Y	N	N	
+Kent-Sussex-Wessex	1070	SW100	RDG1	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	Y	Y	Y	Y	Y	Y	N	N	

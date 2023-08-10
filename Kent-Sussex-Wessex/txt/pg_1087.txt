@@ -10,61 +10,63 @@
                                  oooo oooo oooo oooo RA
                                                  08 09 20 31/1 31/4
                                                                 33 37/0 37/5 Notes
-     route    Description         M  Ch M                          37/3 0000 ooooooooooooooooooooooooooo
-                                           Ch 0000 0000 0000 0000 31/6 0000
+     route    Description         M  Ch M  Ch 0000 0000 0000 0000 31/6 0000
+                                                                   37/3 0000 ooooooooooooooooooooooooooo
                                                           0000     37/4
                                                                    37/6
-              Laverstock North Jn – Salisbury
-     SW115 BAE1                   82 05  82 36 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Tunnel Jn
-              Salisbury Tunnel Jn – Fisherton Short
-     SW115 BAE1                   82 36  83 72 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Mile Change of Mileage
-     SW115 BAE2
-              Fisherton Short Mile Change of
-                                  84 00  85 37 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Mileage – Wilton Jn
-              Wilton Jn – Gillingham
-     SW115 BAE2                   85 37 105 23 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Gillingham – Yeovil Jn
-     SW115 BAE2                   10523 122 48 6  Y  Y  Y  Y  Y  Y  Y  Y
-              Yeovil Jn – Route Boundary (GW610)
-     SW115 BAE2                   12248 164 30 6  Y  Y  Y  Y  Y  Y  Y  Y
-              (Exeter St Davids Jn)
-              Pirbright Jn – Ash Vale Jn
-     SW120 PAA1                   29 39  32 30 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Ash Vale Jn – Change of ELR
-     SW120 PAA1                   32 30  36 75 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Change of ELR – Connection to
-     SW120 PAA2                   39 22  42 70 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Farnham Depot
-              Connection to Farnham Depot – Alton
-     SW120 PAA2                   42 70  49 13 7  Y  Y  Y  Y  Y  Y  Y  Y
-     SW125 BKERoute Boundary GW500 (Southcote
-                                  37 76  51 39 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Jn) – Basingstoke
-     SW130 ECREastleigh East Jn – Romsey
-                                  73 35  80 47 8  Y  Y  Y  Y  Y  Y  Y  Y
-     SW135 ETFEastleigh West Jn – Fareham
-                                  73 42  84 21 8  Y  Y  Y  Y  Y  Y  Y  Y
-              St Denys – Change of ELR
-     SW140 SDP1                    1 59  14 15 7 R1 R1 R1 R1 R1 R1 R1 R1 R115 mph over Hamble viaduct No.29
-                                                                           (8m 75ch) between Burlesdon and
-                                                                           Swanwick
-              Change of ELR – Fareham
-     SW140 SDP2                   84 10  84 21 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Fareham – Quay Viaduct
-     SW140 SDP2                   84 21  84 77 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Quay Viaduct – Cosham
-     SW140 SDP2                   84 77  90 06 8  Y  Y R1  Y R2 R2  Y R1 R1Class 20 and 37/5 locomotives that
-                                                                           conform to RA6 - 40 mph over
-                                                                           Wallington Viaduct (85m 33ch and
-                                                                           85m 44ch) between Fareham and
-                                                                           Portchester if there is more one
-                                                                           locomotive
-                                                                         R240 mph over Wallington Viaduct (85m
-                                                                           33ch and 85m 44ch) between
-                                                                           Fareham and Portchester if there is
-                                                                           more one locomotive
+     SW100 FLL2/3 Route Boundary (Sussex SO250)
+                                   1 77  3  57 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (Longhedge Jn) – Ludgate Jn
+     SW100 CJLLudgate Jn – Route Boundary
+                                   0 30  0  47 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (Sussex SO250) (Latchmere Jn No.2)
+              Ludgate Jn – Clapham Jn (Windsor
+     SW100 RDG1                    3 57  3  74 8  Y  Y  Y  Y  Y  Y  Y  Y
+              lines)
+              Ludgate Jn – Clapham Jn (Main lines)
+     SW100 BML1                    3 57  3  74 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Clapham Jn – Wimbledon platforms 5,
+     SW105 BML1                    3 74  7  19 8  Y  Y  Y  Y  Y  Y  Y  Y
+              6, 7 and 8
+     SW105 PPWWimbledon North Jn – Wimbledon
+                                   8 26  8  47 8  N  N  N  N  N  N  N  N
+              platforms 1, 2, 3 and 4 (District line)
+              Wimbledon platforms 5, 6, 7 and 8 –
+     SW105 BML1                    7 19  7  49 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Wimbledon West Jn
+              Wimbledon West Jn – Hampton Court
+     SW105 BML1                    7 49  13 27 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Hampton Court Jn – Woking
+     SW105 BML1                   13 27  24 27 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Woking – Basingstoke
+     SW105 BML1                   24 27  47 61 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Basingstoke – Eastleigh West Jn
+     SW105 BML1                   47 61  73 42 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Eastleigh West Jn – St Denys
+     SW105 BML1                   73 42  77 10 8  Y  Y  Y  Y  Y  Y  Y  Y
+              St Denys – Northam Jn
+     SW105 BML1                   77 10  78 15 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Northam Jn – Worgret Jn
+     SW105 BML2                   78 15 121 77 8  Y  Y  Y  Y  Y  Y  Y  Y
+     SW105 FURWorgret Jn – Network Rail Boundary
+                                  12630 129 55 8 R1 R1 R1 R1 R1 R1 R1 R1 R15mph over FUR E28/9 Grange Road
+              (Swanage Railway)                                            Bridge (128m 06ch)
+     SW105 BML2
+              Worgret Jn– Dorchester Jn
+                                  12177 136 15 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Dorchester Jn – Weymouth
+     SW105 BML3                   16214 168 63 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Woking Jn – Guilford
+     SW110 WPH1                   24 62  30 27 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Guilford – Shalford Jn
+     SW110 WPH1                   30 27  31 42 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Shalford Jn – Haslemere
+     SW110 WPH1                   31 42  42 79 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Haslemere – Havant Jn
+     SW110 WPH1                   42 79  66 17 8  Y  Y  Y  Y  Y  Y  Y  Y
 
-    December 2009                                   134
+
+
+
+     December 2009                                  132

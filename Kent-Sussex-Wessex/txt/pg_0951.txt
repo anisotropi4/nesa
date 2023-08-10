@@ -11,82 +11,60 @@
      route    Description         oo oo oo oo 00000000 00000 (MOD) DVT
                                                                  DVT 0000 ooooooooooooooooooooooooooo
                                   M  Ch M  Ch         00 00000000 (MOD)
-     SO630BLI1Hove Up platform loop and platforms
-                                   1 28  19 01 Y   Y   R1  N   N  N   N  R120mph Shoreham-by-Sea Up platform
-              2, and 3 – Arundel Jn                    R2                R220mph Worthing Down and Up
-                                                       R3                  platform lines
-                                                       R4
-                                                                         R320mph West Worthing Up platform
-                                                                         R420mph Goring-by-Sea Down platform
-     SO630BLI1Arundel Jn – Littlehampton Jn
-                                  19 01  19 25 Y   Y   N   N   N  N   N
-              (Change of Mileage)
-     SO630FJL Littlehampton Jn – Ford Jn
-                                  60 57  60 26 Y   Y   N   N   N  N   N
-     SO630BLI2Littlehampton Jn (Change of Mileage)
-                                  60 57  62 03 Y   Y   N   N   N  N   N
-              – Littlehampton
-     SO640
-         BBR  Barnham – Bognor Regis
-                                  22 29  25 75 Y   Y   N   N   N  N   N
-     SO645
-         ATL  Battersea Park – Factory Jn
-                                   7 27   6 67 Y   Y   N   N   N  N   N
-     SO645
-         ATL  Factory Jn – Wandsworth Road Jn
-                                   6 67   6 53 Y   Y   Y   N   N  N   N
-     SO645
-         ATL  Wandsworth Road Jn – Shepherds
-                                   6 53   5 68 Y   Y   Y   N   N  N   N
-              Lane Jn
-     SO645
-         ATL  Shepherds Lane Jn – Crofton Road Jn
-                                   5 68  3  67 Y   Y   Y   N   N  N   N
-     SO645
-         ATL  Crofton Road Jn – Peckham Rye Jn
-                                   3 67  3  47 Y   Y   Y   N   N  N   N
-     SO650
-         BBJ  Balham Jn (SO500) – Leigham Jn
-                                   4 69  6  31 Y   Y   Y   N   N  N   N
-     SO650
-         BBJ  Leigham Jn – West Norwood Jn
-                                   6 31  6  58 Y   Y   Y   N   N  N   N
-     SO650
-         BBJ  West Norwood Jn – Crystal Palace
-                                   6 58  8  56 Y   Y   Y   N   N  N   N
-              platforms 1 and 2
-     SO650SCP Crystal Palace platforms 3 - 6 –
-                                   7 52  6  49 Y   Y   Y   N   N  N   N
-              Sydenham Up Jn
-     SO650BBJ Crystal Palace platforms 1 and 2 –
-                                   8 56  9  36 Y   Y   Y   N   N  N   N
-              Bromley Up Jn
-     SO650
-         BJN1 Bromley Up Jn – Norwood North Jn
-                                   9 36   9 75 Y   Y   Y   N   N  N   N
-     SO650
-         BBJ  Bromley Up Jn – Bromley Down Jn
-                                   9 36   9 48 Y   Y   Y   N   N  N   N
-     SO650
-         BJN2 Bromley Down Jn – Norwood North Jn
-                                   9 48   9 75 Y   Y   Y   N   N  N   N
-     SO650
-         BBJ  Bromley Down Jn – Beckenham Jn
-                                   9 48  11 62 Y   Y   Y   N   N  N   N
-     SO660
-         PAT  Purley (S0500) – Caterham
-                                  15 13  19 70 Y   Y   Y   N   N  N   N
-     SO660
-         TAT  Purley (S0500) – Tattenham Corner
-                                  15 13  23 37 Y   Y   Y   N   N  N   N
-     SO680
-         BTH1 South Bermondsey Jn (SO510) – Old
-                                   1 49   2 32 Y   Y   Y   N   N  N   N
-              Kent Road Jn
-     SO680BTH1Old Kent Road Jn – Peckham Rye Jn
-                                   2 32  3  47 Y   Y   Y   N   N  N   N
+     SO520TBH1Crawley – Horsham Jn30 49  37 39 Y   Y   R1  N   N  N   N  R120mph Faygate Down platform Down
+                                                       R2                  Horsham line
+                                                                         R210mph Faygoate Up platform Up
+                                                                           Horsham line
+     SO520
+         TBH1 Horsham Jn – Horsham37 39  37 56 Y   Y   Y   N   N  N   N
+     SO520
+         TBH1 Horsham – Billingshurst
+                                  37 56  44 71 Y   Y   R1  N   N  N   N  R120mph Billingshurst platform 1
+     SO520
+         TBH1 Billingshurst – Arundel Jn
+                                  44 71  59 75 Y   Y   R1  N   N  N   N  R150mph Arundel Up platform
+     SO520
+         TBH2 Arundel Jn – Barnham19 01  22 29 Y   Y   Y   N   N  N   N
+     SO520
+         TBH2 Barnham – Route Boundary (SW110)
+                                  22 29  35 35 Y   Y   R1  N   N  N   N  R1Prohibited Barnham Up Sidings
+              (Havant Jn)
+     SO520TBH2Route Boundary Sussex (Barnham) –
+                                  35 35  37 24 Y   Y   Y   N   N  N   N
+              Havant Jn [Duplicated on SW110]
+     SO520WPH2Havant Jn – Farlington Jn [Duplicated
+                                  37 24  40 33 Y   Y   Y   N   N  N   N
+              on SW110]
+     SO520WPH2Farlington Jn – Portcreek Jn
+                                  40 33  41 03 Y   Y   Y   N   N  N   N
+              [Duplicated on SW110]
+     SO520WPH2Portcreek Jn – Blackfriars Jn
+                                  41 03  44 50 Y   Y   Y   N   N  N   N
+              [Duplicated on SW110]
+     SO520WPH2Blackfriars Jn – Portsmouth and
+                                  44 26  44 50 Y   Y   Y   N   N  N   N
+              Southsea High Level [Duplicated on
+              SW110]
+     SO520PAS Blackfriars Jn – Portsmouth and
+                                  44 26  44 50 Y   Y   Y   N   N  N   N
+              Southsea Low Level [Duplicated on
+              SW110]
+     SO520WPH2Portsmouth and Southsea High Level
+                                  44 50  45 36 Y   Y   Y   N   N  N   N
+              – Portsmouth Harbour
+              *platforms 4 and 5 RA7
+              *platforms 1 and 3 RA4
+              [Duplicated on SW110]
+     SO530SCU1South Croydon Jn (SO600) –
+                                  11 29  12 23 Y   Y   Y   N   N  N   N
+              Sanderstead
+     SO530SCU1Sanderstead – Hurst Green Jn
+                                  12 23  21 35 Y   Y   N   N   N  N   N
+     SO530HGG1Hurst Green Jn – End of Line beyond
+                                  21 35  30 12 Y   Y   N   N   N  N   N
+              East Grinstead
 
 
 
 
-    December 2009                                   44D
+     December 2009                                  44B

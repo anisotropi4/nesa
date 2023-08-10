@@ -5,58 +5,60 @@
 
 
 
-
-     Table D1B – Route clearance of diesel multiple units
-                                                                                       Last Updated: 01/02/2020
-    To be read in conjunction with General Notes.
-
      Line of ELR
               Line of Route / Sector
-                                 oooo oooo oooo oooo 166
-                                                  170 171 172180 220 221 Notes
+                                 oooo oooo oooo oooo 121
+                                                  150 153156 158 159 165 Notes
      route    Description         M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-     SW100 JATWaterloo platforms 20-24 –
-                                  00 00  0  38 N   N   N  N   N   N  N
-              International Jn
-              Waterloo platforms 12-19 –
-     SW100 RDG1                    0 00  0  38 N   Y   N  N   N   N  N
-              International Jn (Windsor lines)
-              International Jn – Carlisle Lane Jn
-     SW100 RDG1                    0 38  0  42 N   Y   N  N   N   N  N
-              (Windsor lines)
-              Carlisle Lane Jn – Nine Elms Jn
-     SW100 RDG1                    0 42  2  00 N   Y   N  N   N   N  N
-              (Windsor lines)
-              Waterloo platforms 1-11 –
-     SW100 BML1                    0 00  0  38 N   R1  N  N   N   N  N  R1Prohibited Waterloo platforms 1, 2, 3
-              International Jn (Main lines)                               and 4
-              International Jn – Carlisle Lane Jn
-     SW100 BML1                    0 38  0  42 N   Y   N  N   N   N  N
-              (Main lines)
-              Carlisle Lane Jn – Nine Elms Jn (Main
-     SW100 BML1                    0 42  2  00 N   Y   N  N   N   N  N
-              lines)
-     SW100 AHGNine Elms Jn – Route Boundary (Kent
-                                   2 00  2  44 N   N   N  N   N   N  N
-              SO110) (Lindford Street Jn)
-              Nine Elms Jn – West London Jn
-     SW100 RDG1                    2 00  3  17 N   Y   N  N   N   N  N
-              (Windsor lines)
-              Nine Elms Jn – Crossovers at
-     SW100 BML1                    2 00  2  65 N   Y   N  N   N   N  N
-              2m 65ch (Main lines)
-              Crossovers at 2m 65 – West London
-     SW100 BML1                    2 65  3  17 N   Y   N  N   N   N  N
-              Jn (Main lines)
-     SW100 SCCWest London Jn – Route Boundary
-                                   3 17  3  30 N   N   N  N   N   N  N
-              (Sussex SO250) (Lathmere Jn No.3)
-              West London Jn – Ludgate Jn
-     SW100 RDG1                    3 17  3  57 N   Y   N  N   N   N  N
-              (Windsor lines)
-              West London Jn – Ludgate Jn (Main
-     SW100 BML1                    3 17  3  57 N   Y   N  N   N   N  N
-              lines)
+              Virginia Water – Wokingham Jn
+     SW210 RDG1                   23 15  36 35 Y   N   N  N   R1 R1  Y  R150mph between Virgina Water and
+                                                              R2 R2       Wokingham
+                                                              R3 R3     R220mph Ascot station Down line
+                                                              R4 R4     R3Prohibited through Ascot on the Up line
+                                                                        R420mph Bracknell station Down line
+              Wokingham Jn – Reading Spur Jn
+     SW210 RDG2                   61 72  67 76 Y   N   N  N   Y   Y  R1 R1Wokingham permitted on the Up line
+                                                                          (towards Bracknell) clear of position light
+                                                                          signal WM15 for movements back over
+                                                                          crossover
+     SW210 RNJReading Spur Jn – Route Boundary
+                                  68 00  67 76 Y   N   N  N   Y   Y  Y
+              (GW190) (Reading New Jn)
+              Reading Spur Jn – Reading Southern
+     SW210 RDG2                   67 76  68 25 Y   N   N  N   Y   Y  Y
+              Jn
+     SW210 RLLRoute Boundary Western (Reading
+                                  35 35  0  00 N   Y   N  N   Y   Y  Y
+              East Main Jn) – Reading Southern Jn
+              Reading Southern Jn – Reading
+     SW210 RDG2                   68 25  68 68 Y   N   N  N   Y   Y  Y
+              platforms 4, 5 and 6
+     SW220 CKLLatchmere Jn No.3 – Latchmere Jn
+                                   2 39  2  50 Y   Y   N  N   Y   Y  N
+              No.1 [Duplicated in SO250]
+     SW220 WLLLatchmere Jn No.1 – Latchmere Jn
+                                   0 63  0  68 Y   Y   N  N   Y   Y  N
+              No.2 [Duplicated in SO250]
+     SW220 WLLLatchmere Jn No.2 – Kensington
+                                   0 71  3  42 Y   Y   N  N   Y   Y  N
+              Olympia [Duplicated in SO250]
+     SW225 PPWPoint Pleasant Jn – Network Rail
+                                   5 09  5  67 Y   N   N  N   Y   Y  N
+              Boundary (TfL – District Line)
+     SW225 PPWNetwork Rail Boundary (TfL – District
+                                   5 67  8  26 Y   N   N  N   R1 R1  N  R110mph Wimbledon Park Down platform
+              Line) – Wimbledon North Jn (TfL
+              infrastructure)
+     SW230 HOUBarnes – New Kew Jn  7 07  9  34 Y   N   N  N   Y   Y  N
+              New Kew Jn – Route Boundary
+     SW230 NKE2                    9 34  9  64 Y   N   N  N   N   N  N
+              (EA1330) (Kew East Jn)
+     SW230 HOUNew Kew Jn – Old Kew Jn
+                                   9 34  10 01 Y   N   N  N   Y   Y  N
+              Old Kew Jn – Route Boundary
+     SW230 BOK5                    3 69  3  61 Y   N   N  N   N   N  N
+              (EA1330) (Kew East Jn)
+     SW230 HOUOld Kew Jn – Hounslow Jn
+                                  10 01  14 09 Y   N   N  N   R1 R1  N  R130mph Isleworth Up platform
 
-
-    December 2009                                   99
+     December 2009                                  97

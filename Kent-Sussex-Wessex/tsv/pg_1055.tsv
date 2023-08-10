@@ -1,25 +1,16 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
-Kent-Sussex-Wessex	1055	SW115	BAE1	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW115	LAV	Laverstock North Jn – Laverstock South Jn	82	05	82	39	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW115	BAE1	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW115	BAE1	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW115	BAE2	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	N	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW115	BAE2	Wilton Jn – Gillingham	85	37	105	23	N	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW115	BAE2	Gillingham – Yeovil Jn	105	23	122	48	N	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW115	BAE2	Yeovil Jn – Route Boundary (GW610) (Exeter St Davids Jn)	122	48	164	30	N	Y	N	N	Y	Y	Y	
-Kent-Sussex-Wessex	1055	SW120	PAA1	Pirbright Jn – Ash Vale Jn	29	39	32	30	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW120	PAA1	Ash Vale Jn – Change of ELR	32	30	36	75	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW120	PAA2	Change of ELR – Connection to Farnham Depot	39	22	42	70	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW120	PAA2	Connection to Farnham Depot – Alton	42	70	49	13	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW125	BKE	Route Boundary GW500 (Southcote Jn) – Basingstoke	37	76	51	39	Y	Y	N	N	Y	Y	Y	
-Kent-Sussex-Wessex	1055	SW130	ECR	Eastleigh East Jn – Romsey	73	35	80	47	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW135	ETF	Eastleigh West Jn – Fareham	73	42	84	21	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	SDP1	St Denys – Change of ELR	1	59	14	15	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	SDP2	Change of ELR – Fareham	84	10	84	21	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	SDP2	Fareham – Quay Viaduct	84	21	84	77	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	SDP2	Quay Viaduct – Cosham	84	77	90	06	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	SDP2	Cosham – Cosham Jn	90	06	90	43	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	SDP2	Cosham Jn – Portcreek Jn	90	43	91	01	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW140	FJJ	Cosham Jn – Farlington Jn	90	43	91	14	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1055	SW145	SOY	Northam Jn – Canute Road LC (AOCL) (Eastern Docks)	78	15	79	02	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1055	SW150	RTJ1	Redbridge Jn – Romsey Jn	23	32	18	16	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1055	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	1055	SW100	CJL	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	N	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1055	SW100	RDG1	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	N	Y	N	R1	N	N	N	R1 Prohibited Clapham platforms 2, 3, 4, 5 and 6
+Kent-Sussex-Wessex	1055	SW100	BML1	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	N	R1	N	N	N	N	N	R1 40mph Clapham platform 10
+Kent-Sussex-Wessex	1055	SW105	BML1	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1055	SW105	PPW	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1055	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1055	SW105	BML1	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1055	SW105	BML1	Hampton Court Jn – Woking	13	27	24	27	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1055	SW105	BML1	Woking – Basingstoke	24	27	47	61	R1 R2 R3 R4 R5	Y	N	N	N	N	N	R1 20mph over bridge 85 (24m 40ch) (Up Fast) (between Woking and Brookwood) R2 40mph over bridge 107b (34m 10ch) (Up Slow) (between Fleet and Farnborough) R3 40mph Winchfield Up Slow platform R4 30mph Brookwood Up Slow platform R5 50mph Winchfield Down Slow platform
+Kent-Sussex-Wessex	1055	SW105	BML1	Basingstoke – Eastleigh West Jn	47	61	73	42	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1055	SW105	BML1	Eastleigh West Jn – St Denys	73	42	77	10	N	Y	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1055	SW105	BML1	St Denys – Northam Jn	77	10	78	15	N	Y	Y	N	N	Y	Y	
+Kent-Sussex-Wessex	1055	SW105	BML2	Northam Jn – Worgret Jn	78	15	121	77	N	R1 R2	R3	N	N	Y	Y	R1 Prohibited between Totton and Worgret Jn when laden R2 Prohibited with footsteps fitted and deflated suspension R3 Prohibited between Southampton Central and Worgret Jn
+Kent-Sussex-Wessex	1055	SW105	FUR	Worgret Jn – Network Rail Boundary (Swanage Railway)	126	30	129	55	N	N	N	N	N	N	N	

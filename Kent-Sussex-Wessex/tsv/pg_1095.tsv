@@ -1,23 +1,23 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7	37/9	43	47/2	47/4	47/7	56	57	Notes
-Kent-Sussex-Wessex	1095	SW120	PAA1	Ash Vale Jn – Change of ELR	32	30	36	75	7	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW120	PAA2	Change of ELR – Connection to Farnham Depot	39	22	42	70	7	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW120	PAA2	Connection to Farnham Depot – Alton	42	70	49	13	7	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW125	BKE	Route Boundary GW500 (Southcote Jn) – Basingstoke	37	76	51	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW130	ECR	Eastleigh East Jn – Romsey	73	35	80	47	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW135	ETF	Eastleigh West Jn – Fareham	73	42	84	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW140	SDP1	St Denys – Change of ELR	1	59	14	15	7	R1	R1	N	R1	R1	R1	R1	R1	R1 15 mph over Hamble viaduct No.29 (8m 75ch) between Burlesdon and Swanwick
-Kent-Sussex-Wessex	1095	SW140	SDP2	Change of ELR – Fareham	84	10	84	21	7	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW140	SDP2	Fareham – Quay Viaduct	84	21	84	77	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW140	SDP2	Quay Viaduct – Cosham	84	77	90	06	8	R1	R1	Y	R1	R1	R1	R1	R1	R1 40 mph over Wallington Viaduct (85m 33ch and 85m 44ch) between Fareham and Portchester if there is more one locomotive
-Kent-Sussex-Wessex	1095	SW140	SDP2	Cosham – Cosham Jn	90	06	90	43	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW140	SDP2	Cosham Jn – Portcreek Jn	90	43	91	01	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW140	FJJ	Cosham Jn – Farlington Jn	90	43	91	14	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW145	SOY	Northam Jn – Canute Road LC (AOCL) (Eastern Docks)	78	15	79	02	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW150	RTJ1	Redbridge Jn – Romsey Jn	23	32	18	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW150	RTJ2	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 OPPOS applies between Laverstock South Jn and Salisbury Tunnel Jn
-Kent-Sussex-Wessex	1095	SW155	TTF	Totton – Marchwood	82	43	86	10	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW155	TTF	Marchwood – Fawley GF	86	10	91	42	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW160	BLP	Brockenhurst – Lymington Pier	92	66	98	15	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW165	HAG	Hamworthy – Hamworthy Goods (Stop board)	115	77	118	05	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW170	SAL	Wilton Jn – Route Boundary Western (GW5001) (Westbury South Jn)	132	33	115	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1095	SW175	WEY	Route Boundary (GW500) (Castle Cary Jn) – Yeovil Pen Mill Jn	130	00	141	35	6	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW100	CJL	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW100	RDG1	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 Prohibited Up Windsor Slow line
+Kent-Sussex-Wessex	1095	SW100	BML1	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	PPW	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	8	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1095	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	Hampton Court Jn – Woking	13	27	24	27	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	Woking – Basingstoke	24	27	47	61	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	Basingstoke – Eastleigh West Jn	47	61	73	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	Eastleigh West Jn – St Denys	73	42	77	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML1	St Denys – Northam Jn	77	10	78	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML2	Northam Jn – Worgret Jn	78	15	121	77	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	FUR	Worgret Jn – Network Rail Boundary (Swanage Railway)	126	30	129	55	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 5mph over FUR E28/9 Grange Road Bridge (128m 06ch)
+Kent-Sussex-Wessex	1095	SW105	BML2	Worgret Jn – Dorchester Jn	121	77	136	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW105	BML3	Dorchester Jn – Weymouth	162	14	168	63	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW110	WPH1	Woking Jn – Guilford	24	62	30	27	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW110	WPH1	Guilford – Shalford Jn	30	27	31	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW110	WPH1	Shalford Jn – Haslemere	31	42	42	79	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW110	WPH1	Haslemere – Havant Jn	42	79	66	17	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 40mph through Buriton Tunnel (57m 46ch to 57m 68ch)
+Kent-Sussex-Wessex	1095	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1095	SW110	WPH2	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	8	Y	Y	Y	Y	Y	Y	Y	Y	

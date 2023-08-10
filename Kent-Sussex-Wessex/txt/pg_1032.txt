@@ -11,67 +11,69 @@
                                                            Notes
      route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
                                   M   Ch M  Ch
-     SO230FFH2Folkstone East Jn (SO130) –
-                                   71 08 72 13  8    Y
-              Folkstone Harbour
-     SO240BME2Buckland Jn – Sandwich
-                                   99 05 86 46  8    Y
-     SO240BME2Sandwich – Minster South
-                                   86 46 82 21  4    Y
-     SO240MSW Minster South Jn – Minster West Jn
-                                   82 12 81 64  8    Y
-     SO240BME1Minster South Jn – Minster East Jn
-                                    0 23  0 00  8    Y
-     SO250BSF Battersea Pier Jn – Connection to
-                                    0 71  1 18  8    Y
-              Battersea Reversible
-     SO250BSF Connection to Battersea Reversible –
-                                    1 18  1 36  8    Y
-              Stewarts Lane Jn
-     SO250BSF Stewarts Lane Jn – Factory Jn
-                                    1 36  1 61  8    Y
-     SO250BSP1Battersea Pier Jn – Connection to
-                                    0 71  1 33  8    Y
-              Stewarts Lane Up and Down lines (via
-              Battersea Reversible)
-     SO250BSP1Connection to Stewarts Lane Up and
-                                    1 33  1 66  8    Y
-              Down lines (via Battersea Reversible)
-              – Longhedge Jn (via Battersea
-              Reversible)
-     SO250BSP2Longhedge Jn – Pouparts Jn
-                                    1 66  2 19  8    Y
-     SO250FLL2Longhedge Jn – Route Boundary
-                                    1 66  1 77  8    Y
-              (SW100) (Ludgate Jn)
-     SO250CKL Longhedge Jn – Latchmere Jn No.3
-                                    1 66  2 39  8    Y
-     SO250SCC Latchmere Jn No.3 – Route Boundary
-                                    3 45  3 30  8    Y
-              (SW100) (West London Jn)
-     SO250CKL Latchmere Jn No.3 – Latchmere Jn
-                                    2 39  2 50  8    Y
-              No.1 [Duplicated in SW220]
-     SO250WLL Latchmere Jn No.1 – Latchmere Jn
-                                    0 63  0 68  8    Y
-              No.2 [Duplicated in SW220]
-     SO250CJL Latchmere Jn No.2 – Route Boundary
-                                    0 68  0 47  8    Y
-              (SW100) (Ludgate Jn)
-     SO250WLL Latchmere Jn No.2 – Kensington
-                                    0 71  3 42  8    Y
-              Olympia [Duplicated in SW220]
-     SO250WLL Kensington Olympia – Northbound
-                                    3 42  5 16  8    Y
-              AC/DC changeover
-     SO250WLL Northbound AC/DC changeover –
-                                    5 16  5 43  8    Y
-              Southbound AC/DC changeover
-     SO250WLL Southbound AC/DC changeover –
-                                    5 43  5 65  8    Y
-              Route Boundary (MD166) (Mitre
-              Bridge Jn)
+     SO130CBM Cannon Street – Cannon Street
+                                    0 00  0 20  8    Y
+              Substation
+     SO130CSW Cannon Street Sub Station –
+                                    1 53  1 33  8    Y
+              Metropolitan Jn (via Metropolitan
+              Reversible line)
+     SO130XTD Metropolitan Jn – Borough Market Jn
+                                    1 31  1 50  8    Y
+     SO130CBM Cannon Street Substation – Borough
+                                    0 20  0 38  8    Y
+              Market Jn
+     SO130XTD Borough Market Jn – London Bridge
+                                    1 50  1 69  8    Y
+              platforms 1-9
+     SO130XTD London Bridge platforms 1-9 – North
+                                    1 69  4 25  8    Y
+              Kent East Jn
+     SO130XTD North Kent East Jn – Tanners Hill Jn
+                                    4 25  5 29  8    Y
+     SO130XTD Tanners Hill Jn – Parks Bridge Jn
+                                    5 29  6 14  8    Y
+     SO130LLL Parks Bridge Jn – Ladywell Jn
+                                    6 14  6 29  8    Y
+     SO130XTD Parks Bridge Jn – Courthill Loop
+                                    6 14  6 21  8    Y
+              South Jn
+     SO130XTD Courthill Loop South Jn – Hither
+                                    6 21  7 04  8    Y
+              Green Jn
+     SO130XTD Hither Green Jn – Lee Spur Jn
+                                    7 04  7 44  8    Y
+     SO130XTD Lee Spur Jn – Chislehurst Jn
+                                    7 44 11 33  8    Y
+     SO130CSM1Chislehurst Jn – St. Mary Cray Down
+                                   11 33 11 71  8    Y
+              Jn via Reversible Chatham Loop
+     SO130CSM3Chislehurst Jn – Hawkwood Jn (Up
+                                   11 33 11 66  8    Y
+              Chatham Loop)
+     SO130XTD Chislehurst Jn – Petts Wood Jns
+                                   11 33 12 27  8    Y
+     SO130XTD Petts Wood Jns – Sevenoaks
+                                   12 27 21 74  8    Y
+              Substation
+     SO130XTD Sevenoaks Substation – Tonbridge
+                                   21 74 29 35  8    R1   R1Prohibited through Sevenoaks Tunnel on the Up Main line
+              West Jn
+     SO130XTD Tonbridge West Jn – Tonbridge East
+                                   29 35 29 55  8    Y
+              Jn
+     SO130XTD Tonbridge East Jn – Paddock Wood
+                                   29 55 34 67  8    Y
+     SO130XTD Paddock Wood – Ashford (Jn with
+                                   34 67 55 54  8    Y
+              Maidstone line)
+     SO130XTD Ashford (Jn with Maidstone line) –
+                                   55 54 56 09  8    Y
+              Ashford Station
+     SO130XTD Ashford Station – Ashford (Jn with
+                                   56 09 56 20  8    Y
+              Hastings line)
 
 
 
-    December 2009                                   88E
+     December 2009                                  88C

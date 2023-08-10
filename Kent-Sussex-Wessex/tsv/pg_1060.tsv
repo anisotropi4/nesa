@@ -1,17 +1,16 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	377	378	380	387	Notes
-Kent-Sussex-Wessex	1060	SW100	JAT	Waterloo platforms 20-24 – International Jn	00	00	0	38	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	RDG1	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	RDG1	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	RDG1	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	BML1	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	BML1	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	BML1	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	AHG	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	RDG1	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	BML1	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	BML1	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	SCC	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	RDG1	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	BML1	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	N	Y	H	N	N	N	N	
-Kent-Sussex-Wessex	1060	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	N	Y	H	Y	Y	N	Y	
-Kent-Sussex-Wessex	1060	SW100	CJL	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	Y	Y	H	Y	Y	N	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
+Kent-Sussex-Wessex	1060	SW230	HJW	Hounslow Jn – Whitton Jn	14	09	14	39	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW230	HOU	Hounslow Jn – Feltham Jn	14	09	14	38	N	N	N	N	Y	N	N	
+Kent-Sussex-Wessex	1060	SW245	TSJ	Jn (Twickenham) – Strawberry Hill Jn	11	48	12	27	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW245	SHF	Strawberry Hill Jn – Fulwell Jn	12	27	12	56	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW245	TSJ	Strawberry Hill Jn – Shacklegate Jn	12	27	12	58	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW250	SWE	Staines – Windsor and Eton Riverside	19	02	25	48	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW255	VWW	Virginia Water Jn – Addlestone Jn	24	73	19	74	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW255	AJB	Addlestone Jn – Byfleet Jn	0	00	0	67	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW255	VWW	Addlestone Jn – Weybridge	19	74	19	12	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW260	AAV	Ascot – Ash Vale Jn	28	79	40	57	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW265	GTW1	Guilford – Change of ELR	30	27	35	50	R1	N	N	N	N	Y	Y	R1 Prohibited Guildford platform 1
+Kent-Sussex-Wessex	1060	SW265	GTW2	Change of ELR – Aldershot South Jn	48	34	50	01	Y	N	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1060	SW265	NSA	Aldershot South Jn – Aldershot North Jn	50	01	50	43	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1060	SW265	GTW2	Aldershot South Jn – Wokingham Jn	50	01	61	74	Y	N	N	N	N	Y	Y	
+Kent-Sussex-Wessex	1060	SW300	RSJ	Route Boundary (Sussex SO560) (Redhill) – Shalford Jn	33	10	41	62	Y	N	N	N	N	Y	Y	

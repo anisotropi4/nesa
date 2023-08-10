@@ -3,71 +3,67 @@
 
                                     Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
+
+
      Line of ELR
              Line of Route / Sector
                                  oooo oooo oooo oooo 313
-                                                  319 325 377 378380 387Notes
-     route   Description          M  Ch M  Ch 0000 0000 0000 0000
-                                                             00000000
+                                                  319 325 377 378380 387 Notes
+     route   Description          M  Ch M  Ch 000000000000
+                                                         0000000000000000
 
-             Portsmouth and Southsea High Level
-     SW110 WPH2                  44  50 45 36  Y   N  N   Y   N   N  R1 R1 Operation only permitted subject to
-             – Portsmouth Harbour                                          prior agreement of the Wessex E&P
-             * platforms 4 and 5 RA7                                       RAM
-             * platforms 1 and 3 RA4
-             [Duplicated on SO520]
-             Worting Jn – Connection to
-     SW115 BAE1                  51  15 66 27  N   N  N   N   N   N  N
-             Ludgershall Branch line
-             Connection to main Up line (BAE1) –
-     SW115 LUD1                  66  27 67 61  N   N  N   N   N   N  N
-             Red Post Jn
-             Red Post Jn – Ludgershall
-     SW115 LUD2                   0  00  5 64  N   N  N   N   N   N  N
-             Connection to Ludgershall Branch line
-     SW115 BAE1                  66  27 82 05  N   N  N   N   N   N  N
-             – Laverstock North Jn
-             Laverstock North Jn – Laverstock
-     SW115 LAV                   82  05 82 39  N   N  N   N   N   N  N
-             South Jn
-             Laverstock North Jn – Salisbury
-     SW115 BAE1                  82  05 82 36  N   N  N   N   N   N  N
-             Tunnel Jn
-             Salisbury Tunnel Jn – Fisherton Short
-     SW115 BAE1                  82  36 83 72  N   N  N   N   N   N  N
-             Mile Change of Mileage
-             Fisherton Short Mile Change of
-     SW115 BAE2                  84  00 85 37  N   N  N   N   N   N  N
-             Mileage – Wilton Jn
-             Wilton Jn – Gillingham
-     SW115 BAE2                  85  37 10523  N   N  N   N   N   N  N
-             Gillingham – Yeovil Jn
-     SW115 BAE2                  105 23 12248  N   N  N   N   N   N  N
-             Yeovil Jn – Route Boundary (GW610)
-     SW115 BAE2                  122 48 16430  N   N  N   N   N   N  N
-             (Exeter St Davids Jn)
-             Pirbright Jn – Ash Vale Jn
-     SW120 PAA1                  29  39 32 30  N   N  N   N   N   N  N
-             Ash Vale Jn – Change of ELR
-     SW120 PAA1                  32  30 36 75  N   N  N   N   N   N  N
-             Change of ELR – Connection to
-     SW120 PAA2                  39  22 42 70  N   N  N   N   N   N  N
-             Farnham Depot
-             Connection to Farnham Depot – Alton
-     SW120 PAA2                  42  70 49 13  N   N  N   N   N   N  N
-             Route Boundary GW500 (Southcote
-     SW125 BKE                   37  76 51 39  N   N  N   N   N   N  N
-             Jn) – Basingstoke
-             Eastleigh East Jn – Romsey
-     SW130 ECR                   73  35 80 47  N   N  N   N   N   N  N
-             Eastleigh West Jn – Fareham
-     SW135 ETF                   73  42 84 21  Y   Y  H   Y   N   N  R1 R1 Operation only permitted subject to
-                                                                           prior agreement of the Wessex E&P
-                                                                           RAM
-             St Denys – Change of ELR
-     SW140 SDP1                    1 59 14 15  Y   Y  H   Y   N   N  R1 R1 Operation only permitted subject to
-                                                                           prior agreement of the Wessex E&P
-                                                                           RAM
+             Ludgate Jn – Clapham Jn (Windsor
+     SW100 RDG1                    3 57  3 74  R1  Y  H   R2  Y   N  R3  R1Prohibited Clapham platforms 2, 3,
+             lines)                                                        4, 5 and 6
+                                                                         R2Classes 377/1-377/5 prohibited
+                                                                           Clapham platforms 3, 4, 5 and 6
+                                                                         R3Prohibited:
+                                                                           • Clapham platform 3 (Up
+                                                                             Windsor Slow)
+                                                                           • Clapham platform 4 (Up
+                                                                             Windsor Fast)
+                                                                           • Clapham platform 5 (Down
+                                                                             Windsor Fast)
+                                                                           • Clapham platform 6 (Down
+                                                                             Windsor Slow)
+             Ludgate Jn – Clapham Jn (Main lines)
+     SW100 BML1                    3 57  3 74  N   Y  H   N   N   N   N
+             Clapham Jn – Wimbledon platforms 5,
+     SW105 BML1                    3 74  7 19  N   Y  H   N   N   N   N
+             6, 7 and 8
+             Wimbledon North Jn – Wimbledon
+     SW105 PPW                     8 26  8 47  N  R1  N   N   N   N   N  R1Prohibited Wimbledon platforms 1,
+             platforms 1, 2, 3 and 4 (District line)                       2 and 3
+             Wimbledon platforms 5, 6, 7 and 8 –
+     SW105 BML1                    7 19  7 49  N   Y  H   N   N   N   N
+             Wimbledon West Jn
+             Wimbledon West Jn – Hampton Court
+     SW105 BML1                    7 49 13 27  N   Y  H   N   N   N   N
+             Jn
+             Hampton Court Jn – Woking
+     SW105 BML1                   13 27 24 27  N  Y   H   N   N   N   N
+             Woking – Basingstoke
+     SW105 BML1                   24 27 47 61  N  R1  H   N   N   N   N  R1Prohibited Basingstoke platform 5
+                                                      R1
+             Basingstoke – Eastleigh West Jn
+     SW105 BML1                   47 61 73 42  R1  Y  H   R1  N   N  R1  R1Prohibited between Basingstoke
+                                                                           and Eastleigh East Jn
+             Eastleigh West Jn – St Denys
+     SW105 BML1                   73 42  7710  R1  N  N   Y   N   N  Y   R13-car operation
+             St Denys – Northam Jn
+     SW105 BML1                   77 10  7815  R1  N  N   Y   N   N  Y   R13-car operation
+             Northam Jn – Worgret Jn
+     SW105 BML2                   78 15 12177  R1  N  N   R1  N   N  R1  R1Prohibited between Southampton
+                                                                           Central and Worgret Jn
+             Worgret Jn – Network Rail Boundary
+     SW105 FUR                   126 30 12955  N   N  N   N   N   N   N
+             (Swanage Railway)
+             Worgret Jn – Dorchester Jn
+     SW105 BML2                  121 77 13615  N   N  N   N   N   N   N
+             Dorchester Jn – Weymouth
+     SW105 BML3                  162 14 16863  N   N  N   N   N   N   N
 
 
-    December 2009                                   110
+
+
+     December 2009                                  108

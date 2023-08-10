@@ -1,10 +1,12 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0426	EA1320	BOK1	Canonbury West Jn – Dalston Western Jn	3	12	2	21	N	N	N	N	Y	E	EH	E	N	E R1	R1 Prohibited Up East London and Down East London lines
-Anglia	0426	EA1320	DWW1	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	N	N	N	N	Y	E	EH	E	N	E	
-Anglia	0426	EA1320	DWW2	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	N	N	N	N	Y	E	EH	E	N	E	
-Anglia	0426	EA1320	DWW2	Lea Jn – Channelsea North Jn	3	19	3	32	N	N	N	N	Y	E	EH	E	N	N	
-Anglia	0426	EA1320	DWW2	Channelsea North Jn – Channelsea South Jn	3	32	3	33	N	N	N	N	Y	Y	EH	E	N	N	
-Anglia	0426	EA1320	DWW2	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0426	EA1325	BOK1	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	N	Y	N	N	N	N	N	
-Anglia	0426	EA1325	ELL1	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	EH R1 R2 R3 R4	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3 R4	EH R1 R2 R3 R4	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R4 Prohibited with deflated suspension R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled
-Anglia	0426	EA1325	ELL1	Canal Jn – TFL / Network Rail Boundary (SO510) (Via Up East London Line) (TFL Infrastructure)	5	21	5	52	EH R1 R2 R3	N	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3	EH R1 R2 R3	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Not to exceed 25mph R3 Prohibited with deflated suspension R4 Must be hauled if busline exceeds 80 metres. Shoegear isolated. R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	360	365	377	378	379	380	387	499	700	Notes
+Anglia	0426	EA1320	CRF1	Camden Road Central Jn – Route Boundary (LN115) (North London Incline)	0	51	0	20	N	N	E	E	N	N	N	N	N	
+Anglia	0426	EA1320	BOK1	Camden Road Central Jn – Canonbury West Jn	4	64	3	12	E R1	N	N	Y	E	EH	N	N	E R2	R1 Class 360/1 only R2 Prohibited Up East London and Down East London lines
+Anglia	0426	EA1320	CFP	Canonbury West Jn – Route Boundary (LN110) (Finsbury Park)	3	12	3	20	N	N	N	E	E	N	E	N	E	
+Anglia	0426	EA1320	BOK1	Canonbury West Jn – Dalston Western Jn	3	12	2	21	E R1	N	N	Y	E	EH	E	N	E R2	R1 Class 360/1 only R2 Prohibited Up East London and Down East London lines
+Anglia	0426	EA1320	DWW1	Dalston Western Jn - Navarino Road Jn (Change of Mileage)	2	21	1	52	E R1	N	N	Y	E	EH	E	N	E	Class 360/1 only
+Anglia	0426	EA1320	DWW2	Navarino Road Jn (Change of Mileage) – Lea Jn	1	11	3	19	E R1	N	N	Y	E	EH	E	N	E	Class 360/1 only
+Anglia	0426	EA1320	DWW2	Lea Jn – Channelsea North Jn	3	19	3	32	E R1	N	N	Y	E	EH	E	N	N	Class 360/1 only
+Anglia	0426	EA1320	DWW2	Channelsea North Jn – Channelsea South Jn	3	32	3	33	E R1	N	N	Y	Y	EH	E	N	N	Class 360/1 only
+Anglia	0426	EA1320	DWW2	Channelsea South Jn – Stratford	3	33	3	74	N	N	N	Y	N	N	N	N	N	
+Anglia	0426	EA1325	BOK1	Limit of reversible working DNL – Network Rail Boundary (TFL ELL)	3	38	2	17	N	N	N	Y	N	N	N	N	N	
+Anglia	0426	EA1325	ELL1	Network Rail Boundary (TFL ELL) – Canal Jn (TFL Infrastructure)	2	17	5	21	EH R1 R2 R3 R4	N	E R1 R2 R3 R4 R5 R6	Y	EH R1 R2 R3 R4	EH R1 R2 R3 R4	N	N	N	R1 Can only run when authorised by Rail for London and only run or operate under Special Traffic Notice subject to any operational restrictions published within the notice R2 Prohibited North of EL264 (5M9Ch) R3 Not to exceed 25mph, 10mph on sections EL266-EL264 (UP) and EL264-Canal Jn (DN) R4 Prohibited with deflated suspension R5 Regen Braking must be switched off Class 377/2, /3, /5 and /7 must be hauled

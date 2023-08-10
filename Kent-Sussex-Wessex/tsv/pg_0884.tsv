@@ -1,20 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
-Kent-Sussex-Wessex	0884	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	N	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0884	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	N	N	N	N	N	
-Kent-Sussex-Wessex	0884	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	CSM1	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	CSM2	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Ashford (Jn with Canterbury Line) – Saltwood Jn	56	35	66	38	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Saltwood Jn – Folkestone Central	66	38	69	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Folkestone Central – Folkestone East Staff Halt	69	73	70	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO130	XTD	Folkestone East Staff Halt – Dover Substation	70	73	76	45	N	N	N	N	N	
+Kent-Sussex-Wessex	0884	SO140	SBJ	Swanley Jn (SO110) – Otford Jn	17	46	24	53	N	N	N	N	N	

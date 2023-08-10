@@ -1,22 +1,27 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Kent-Sussex-Wessex	1113	SW225	PPW	Network Rail Boundary (TfL – District Line) – Wimbledon North Jn (TfL infrastructure)	5	67	8	26	6	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	HOU	Barnes – New Kew Jn	7	07	9	34	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	NKE2	New Kew Jn – Route Boundary (EA1330) (Kew East Jn)	9	34	9	64	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	HOU	New Kew Jn – Old Kew Jn	9	34	10	01	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	BOK5	Old Kew Jn – Route Boundary (EA1330) (Kew East Jn)	3	69	3	61	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	HOU	Old Kew Jn – Hounslow Jn	10	01	14	09	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	HJW	Hounslow Jn – Whitton Jn	14	09	14	39	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW230	HOU	Hounslow Jn – Feltham Jn	14	09	14	38	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW245	TSJ	Jn (Twickenham) – Strawberry Hill Jn	11	48	12	27	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW245	SHF	Strawberry Hill Jn – Fulwell Jn	12	27	12	56	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW245	TSJ	Strawberry Hill Jn – Shacklegate Jn	12	27	12	58	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW250	SWE	Staines – Windsor and Eton Riverside	19	02	25	48	4	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1113	SW255	VWW	Virginia Water Jn – Addlestone Jn	24	73	19	74	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW255	AJB	Addlestone Jn – Byfleet Jn	0	00	0	67	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW255	VWW	Addlestone Jn – Weybridge	19	74	19	12	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW260	AAV	Ascot – Ash Vale Jn	28	79	40	57	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW265	GTW1	Guilford – Change of ELR	30	27	35	50	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW265	GTW2	Change of ELR – Aldershot South Jn	48	34	50	01	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW265	NSA	Aldershot South Jn – Aldershot North Jn	50	01	50	43	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW265	GTW2	Aldershot South Jn – Wokingham Jn	50	01	61	74	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1113	SW300	RSJ	Route Boundary (Sussex SO560) (Redhill) – Shalford Jn	33	10	41	62	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW130	ECR	Eastleigh East Jn – Romsey	73	35	80	47	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW135	ETF	Eastleigh West Jn – Fareham	73	42	84	21	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	SDP1	St Denys – Change of ELR	1	59	14	15	7	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	SDP2	Change of ELR – Fareham	84	10	84	21	7	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	SDP2	Fareham – Quay Viaduct	84	21	84	77	7	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	SDP2	Quay Viaduct – Cosham	84	77	90	06	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	SDP2	Cosham – Cosham Jn	90	06	90	43	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	SDP2	Cosham Jn – Portcreek Jn	90	43	91	01	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW140	FJJ	Cosham Jn – Farlington Jn	90	43	91	14	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW145	SOY	Northam Jn – Canute Road LC (AOCL) (Eastern Docks)	78	15	79	02	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW150	RTJ1	Redbridge Jn – Romsey Jn	23	32	18	16	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW150	RTJ2	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW155	TTF	Totton – Marchwood	82	43	86	10	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW155	TTF	Marchwood – Fawley GF	86	10	91	42	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW160	BLP	Brockenhurst – Lymington Pier	92	66	98	15	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW165	HAG	Hamworthy – Hamworthy Goods (Stop board)	115	77	118	05	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW170	SAL	Wilton Jn – Route Boundary Western (GW5001) (Westbury South Jn)	132	33	115	40	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW175	WEY	Route Boundary (GW500) (Castle Cary Jn) – Yeovil Pen Mill Jn	130	00	141	35	6	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1113	SW175	YJP	Yeovil Pen Mill Jn – Yeovil Jn	1	42	0	00	6	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1113	SW175	WEY	Yeovil Pen Mill Jn – Dorchester Jn	141	35	162	14	6	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1113	SW180	RPE	Raynes Park – Epsom (Change of ELR)	8	51	14	18	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW180	BTH2	Route Boundary Sussex (Ewell East) – Epsom [Duplicated in SO680]	17	33	18	73	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW180	BTH3	Epsom (Change of ELR) – Leatherhead [Duplicated in SO680]	14	27	18	02	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW180	BTH3	Leatherhead – Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW180	BTH3	Route Boundary Sussex (Leatherhead) – Horsham jn (SO520) [Duplicated in SO680]	21	09	35	34	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1113	SW185	MPC	Motspur Park – Chessington South	9	57	13	73	8	N	N	Y	N	N	N	

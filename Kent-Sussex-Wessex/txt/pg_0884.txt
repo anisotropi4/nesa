@@ -11,59 +11,60 @@
                                                150 158  159 165 166 Notes
      route    Description         M  Ch M  Ch  00000000 00000000RHM ooooooooooooooooooooooooooo
 
-     SO250BSF Stewarts Lane Jn – Factory Jn
-                                   1 36  1  61  N   N    N   N   N
-     SO250BSP1Battersea Pier Jn – Connection to
-                                   0 71  1  33  N   N    N   N   N
-              Stewarts Lane Up and Down lines (via
-              Battersea Reversible)
-     SO250BSP1Connection to Stewarts Lane Up and
-                                   1 33  1  66  N   N    N   N   N
-              Down lines (via Battersea Reversible)
-              – Longhedge Jn (via Battersea
-              Reversible)
-     SO250BSP2Longhedge Jn – Pouparts Jn
-                                   1 66  2  19  N   N    N   N   N
-     SO250FLL2Longhedge Jn – Route Boundary
-                                   1 66  1  77  N   N    N   N   N
-              (SW100) (Ludgate Jn)
-     SO250CKL Longhedge Jn – Latchmere Jn No.3
-                                   1 66  2  39  N   N    N   N   N
-     SO250SCC Latchmere Jn No.3 – Route Boundary
-                                   3 45  3  30  N   Y    Y   N   N
-              (SW100) (West London Jn)
-     SO250CKL Latchmere Jn No.3 – Latchmere Jn
-                                   2 39  2  50  Y   Y    Y   N   N
-              No.1 [Duplicated in SW220]
-     SO250WLL Latchmere Jn No.1 – Latchmere Jn
-                                   0 63  0  68  Y   Y    Y   N   N
-              No.2 [Duplicated in SW220]
-     SO250CJL Latchmere Jn No.2 – Route Boundary
-                                   0 68  0  47  Y   Y    Y   N   N
-              (SW100) (Ludgate Jn)
-     SO250WLL Latchmere Jn No.2 – Kensington
-                                   0 71  3  42  Y   Y    Y   N   N
-              Olympia [Duplicated in SW220]
-     SO250WLL Kensington Olympia – Northbound
-                                   3 42  5  16  Y   Y    Y   N   N
-              AC/DC changeover
-     SO250WLL Northbound AC/DC changeover –
-                                   5 16  5  43  Y   Y    Y   N   N
-              Southbound AC/DC changeover
-     SO250WLL Southbound AC/DC changeover –
-                                   5 43  5  65  Y   Y    Y   N   N
-              Route Boundary (MD166) (Mitre
-              Bridge Jn)
-     SO260CAT Brixton Jn – Canterbury Road Jn
-                                   3 08  3  24  N   N    N   N   N
-     SO260CAT Canterbury Road Jn – Cambria Jn
-                                   3 24  3  68  N   N    N   N   N
-     SO260CAT Cambria Jn – Nunhead Jn
-                                   3 68  6  09  N   N    N   N   N
-     SO260CAT Nunhead Jn – Ravensbourne Jn
-                                   6 09  10 44  N   N    N   N   N
-     SO260RVC Ravensbourne Jn – Shortlands Jn via
-                                   0 00  0  48  N   N    N   N   N
-              Ravensbourne Chord
-
-    KADecember 2009                                 11
+     SO130LLL Parks Bridge Jn – Ladywell Jn
+                                   6 14  6  29  N   N    N   N   N
+     SO130XTD Parks Bridge Jn – Courthill Loop
+                                   6 14  6  21  N   N    N   N   N
+              South Jn
+     SO130XTD Courthill Loop South Jn – Hither
+                                   6 21  7  04  N   N    N   N   N
+              Green Jn
+     SO130XTD Hither Green Jn – Lee Spur Jn
+                                   7 04  7  44  N   N    N   N   N
+     SO130XTD Lee Spur Jn – Chislehurst Jn
+                                   7 44  11 33  N   N    N   N   N
+     SO130CSM1Chislehurst Jn – St Mary Cray Down
+                                  11 33  11 71  N   N    N   N   N
+              Jn via Reversible Chatham Loop
+     SO130CSM2Chislehurst Jn – Hawkwood Jn (Up
+                                  11 33  11 66  N   N    N   N   N
+              Chatham Loop)
+     SO130XTD Chislehurst Jn – Petts Wood Jns
+                                  11 33  12 27  N   N    N   N   N
+     SO130XTD Petts Wood Jns – Sevenoaks
+                                  12 27  21 74  N   N    N   N   N
+              Substation
+     SO130XTD Sevenoaks Substation – Tonbridge
+                                  21 74  29 35  N   N    N   N   N
+              West Jn
+     SO130XTD Tonbridge West Jn – Tonbridge East
+                                  29 35  29 55  N   N    N   N   N
+              Jn
+     SO130XTD Tonbridge East Jn – Paddock Wood
+                                  29 55  34 67  N   N    N   N   N
+     SO130XTD Paddock Wood – Ashford (Jn with
+                                  34 67  55 54  N   N    N   N   N
+              Maidstone line)
+     SO130XTD Ashford (Jn with Maidstone line) –
+                                  55 54  56 09  N   N    N   N   N
+              Ashford Station
+     SO130XTD Ashford Station – Ashford (Jn with
+                                  56 09  56 20  N   N    N   N   N
+              Hastings line)
+     SO130XTD Ashford (Jn with Hastings line) –
+                                  56 20  56 35  N   N    N   N   N
+              Ashford (Jn with Canterbury Line)
+     SO130XTD Ashford (Jn with Canterbury Line) –
+                                  56 35  66 38  N   N    N   N   N
+              Saltwood Jn
+     SO130XTD Saltwood Jn – Folkestone Central
+                                  66 38  69 73  N   N    N   N   N
+     SO130XTD Folkestone Central – Folkestone East
+                                  69 73  70 73  N   N    N   N   N
+              Staff Halt
+     SO130XTD Folkestone East Staff Halt – Dover
+                                  70 73  76 45  N   N    N   N   N
+              Substation
+     SO140SBJ Swanley Jn (SO110) – Otford Jn
+                                  17 46  24 53  N   N    N   N   N
+     IADecember 2009                                 9

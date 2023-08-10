@@ -13,77 +13,62 @@
                                   oo oo oo oo                        37/4
                                   oo oo oo oo                        37/6
                                   M  Ch M  Ch
-     SO310HDR Hoo Jn – Strood Jn  27 19  31 16 8  Y   Y  Y  Y   Y  Y   Y
-     SO310HDR Strood Jn – Rochester Bridge Jn
-                                  31 16  31 34 8  Y   Y  Y  Y   Y  Y   Y
-     SO310PWS2Strood Jn – Maidstone West Change
-                                  31 16  42 41 8  Y   Y  Y  Y   Y  Y   Y
-              of Mileage
-     SO320HTG Hoo Jn – Grain LC and Sidings
-                                  27 19  38 22 8  Y   Y  Y  Y   Y  Y   Y
-              beyond
-     SO330NTL Nunhead Jn (SO260) – Lewisham Jn
-                                   6 09  6  21 8  Y   Y  Y  Y   Y  Y   Y
-     SO330LVT Tanners Hill Jn (SO130) – Lewisham
-                                   5 29  5  55 8  Y   Y  Y  Y   Y  Y   Y
-              Jn
-     SO330BEX St Johns Jn (SO130) – Lewisham Jn
-                                   5 54  5  74 8  Y   Y  Y  Y   Y  Y   Y
-     SO330LCH Lewisham Jn – Courthill Loop North
-                                   5 74  6  21 8  Y   Y  Y  Y   Y  Y   Y
-              Jn
-     SO330NCS Courthill Loop North Jn – Courthill
-                                   6 21  6  43 8  Y   Y  Y  Y   Y  Y   Y
-              Loop South Jn
-     SO330
-         LCH  Courthill Loop North Jn – Ladywell Jn
-                                   6 21   6 41 8  Y  Y   Y  Y  Y   Y  Y
-     SO330
-         LCH  Ladywell Jn – New Beckenham Jn
-                                   6 41   9 51 8  Y  Y   Y  Y  Y   Y  Y
-     SO330
-         NBB  New Beckenham Jn – Beckenham Jn
-                                   9 51  10 04 8  Y  Y   Y  Y  Y   Y  Y
-     SO330
-         LCH  New Beckenham Jn – Hayes
-                                   9 51  14 32 4  R1 R1  R1 R1 R1  R1 R1 R140mph over Bridge 711 (12m 43ch)
-     SO350
-         BNG  Grove Park (SO130) – Bromley North
-                                   8 87  10 47 8  Y  Y   Y  Y  Y   Y  Y
-     SO500
-         VTB1 Victoria platforms 9-19 – Battersea
-                                   0 00   0 71 8  Y  Y   Y  Y  Y   Y  Y
-              Pier Jn
-     SO500
-         VTB1 Battersea Pier Jn – Battersea Park Jn
-                                   0 71  1  13 8  Y   Y  Y  Y   Y  Y   Y
-     SO500
-         VTB1 Battersea Park Jn – Pouparts Jn
-                                   1 13  2  03 8  Y   Y  Y  Y   Y  Y   Y
-     SO500
-         VTB1 Pouparts Jn – Falcon Jn
-                                   2 03  2  66 8  Y   Y  Y  Y   Y  Y   Y
-     SO500
-         WLL  Falcon Jn – Latchmere No1 Jn via
-                                   0 00  0  63 8  Y   Y  Y  Y   Y  Y   Y
-              Clapham Jn platforms 16 and 17
-     SO500VTB1Falcon Jn – Balham Jn2 66  4  69 8  Y   Y  Y  Y   Y  Y   Y
-     SO500VTB1Balham Jn – Streatham North Jn
-                                   4 69  6  14 8  Y   Y  Y  Y   Y  Y   Y
-     SO500SNS Streatham North Jn – Streatham
-                                   6 16  6  35 8  Y   Y  Y  Y   Y  Y   Y
-              South Jn via Reversible Fast Spur
-     SO500SLJ Streatham North Jn – Streatham
-                                   6 14  6  38 8  Y   Y  Y  Y   Y  Y   Y
-              South Jn via Slow Spurs
-     SO500VTB1Streatham North Jn – Selhurst Jn
-                                   6 14   9 43 8  Y   Y  Y  Y   Y  Y   Y
-     SO500WCS Selhurst Jn – Gloucester Road Jn
-                                   9 44   9 62 8  Y   Y  Y  Y   Y  Y   Y
-     SO500VTB1Selhurst Jn – Windmill Bridge Jn
-                                   9 43  10 12 8  Y   Y  Y  Y   Y  Y   Y
+     SO250WLL Latchmere Jn No.2 – Kensington
+                                   0 71  3  42 8  Y   Y  Y  Y   Y  Y   Y
+              Olympia [Duplicated in SW220]
+     SO250WLL Kensington Olympia – Northbound
+                                   3 42  5  16 8  Y   Y  Y  Y   Y  Y   Y
+              AC/DC changeover
+     SO250WLL Northbound AC/DC changeover –
+                                   5 16  5  43 8  Y   Y  Y  Y   Y  Y   Y
+              Southbound AC/DC changeover
+     SO250WLL Southbound AC/DC changeover –
+                                   5 43  5  65 8  Y   Y  Y  Y   Y  Y   Y
+              Route Boundary (MD166) (Mitre
+              Bridge Jn)
+     SO260
+         CAT  Brixton Jn – Canterbury Road Jn
+                                   3 08   3 24 8  Y   Y  Y  Y   Y  Y   Y
+     SO260
+         CAT  Canterbury Road Jn – Cambria Jn
+                                   3 24   3 68 8  Y   Y  Y  Y   Y  Y   Y
+     SO260
+         CAT  Cambria Jn – Nunhead Jn
+                                   3 68   6 09 8  Y   Y  Y  Y   Y  Y   Y
+     SO260
+         CAT  Nunhead Jn – Ravensbourne Jn
+                                   6 09  10 44 8  Y   Y  Y  Y   Y  Y   Y
+     SO260
+         RVC  Ravensbourne Jn – Shortlands Jn via
+                                   0 00   0 48 8  Y   Y  Y  Y   Y  Y   Y
+              Ravensbourne Chord
+     SO260CAT Ravensbourne Jn – Shortlands Jn
+                                  10 44  10 73 8  Y   Y  Y  Y  Y   Y  Y
+     SO280MCL Route Boundary (LN3213) (Kentish
+                                   0 66   0 00 4  N   N  N  R1 R1  R1 N  R115mph through Farringdon
+              Town Jn) – ELR change (Former                 R2 R2  R2    R2OHLE must be isolated
+              Farringdon Jn)                                R3 R3  R3    R3Locomotives must not stand under
+                                                                   R4      insulators positioned directly above the
+                                                                           track as the exhaust can damage the
+                                                                           Overhead Line Equipment
+                                                                         R4Route prohibited to Class 33/0 and
+                                                                           33/1
+     SO280FTL ELR change (Former Farringdon Jn) –
+                                   0 00  0  39 4  N   N  N  R1 R1  R1 N  R1OHLE must be isolated
+              Snow Hill Tunnel (Change of Mileage)          R2 R2  R2    R2Locomotives must not stand under
+                                                                           insulators positioned directly above the
+                                                                           track as the exhaust can damage the
+                                                                           Overhead Line Equipment
+     SO280HHH Snow Hill Tunnel (Change of Mileage)
+                                   0 21  0  35 8  Y   Y  Y  Y   Y  Y  R1 R1Route prohibited to Class 37
+              – Blackfriars                                                locomotives fitted with roof mounted
+                                                                           horns
+     SO280HHH Blackfriars – Blackfriars Jn
+                                   0 35  0  63 8  Y   Y  Y  Y   Y  Y  R1 R1Route prohibited to Class 37
+                                                                           locomotives fitted with roof mounted
+                                                                           horns
 
 
 
 
-    December 2009                                   52
+     December 2009                                  50

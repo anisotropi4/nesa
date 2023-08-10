@@ -11,57 +11,61 @@
      route    Description         oo oo oo oo 00000000 00000 (MOD) DVT
                                                                  DVT 0000 ooooooooooooooooooooooooooo
                                   M  Ch M  Ch         00 00000000 (MOD)
-     SO680BTH1Peckham Rye Jn – Tulse Hill North Jn
-                                   3 47  6  07 Y   Y   Y   N   N  N   N
-     SO680WTH Tulse Hill – West Norwood Jn
-                                   6 14  6  41 Y   Y   Y   N   N  N   N
-     SO680LTH Tulse Hill – Leigham Jn
-                                   6 20  6  40 Y   Y   Y   N   N  N   N
-     SO680BTH1Tulse Hill North Jn – Streatham Jn
-                                   6 07  7  57 Y   Y   Y   N   N  N   N
-     SO680SSC Streatham Jn – Streatham Common
-                                   7 57  8  10 Y   Y   Y   N   N  N   N
+     SO540
+         SCU1 Hurst Green Jn – Uckfield
+                                  21 35  46 08 Y   Y   N   N   N  N   N
+     SO550
+         RTT  Redhill (SO500) – Tonbridge
+                                  22 40  42 16 Y   Y   R1  N   N  N   N  R1 30mph Leigh Up platform
+     SO560
+         RSJ  Redhill – Reigate   22 40  24 27 Y   Y   R1  N   N  N   N  R1 – Prohibited Redhill – Redhill South Jn
+     SO560
+         RSJ  Reigate – Route Boundary (SW300)
+                                  24 27  33 10 Y   Y   Y   N   N  N   N
+              (Shalford Jn)
+     SO590KJE1Keymer Jn – Lewes   40 69  49 74 Y   Y   N   N   N  N   N
+     SO590KJE1/2 Lewes – Southerham Jn [Duplicated
+                                  49 74  51 11 Y   Y   N   N   N  N   N
+              on SO620]
+     SO590KJE3Southerham Jn – Willingdon Jn
+                                   9 14  21 39 Y   Y   N   N   N  N   N
+     SO590KJE3Willingdon Jn – Eastbourne
+                                  21 39  23 75 Y   Y   N   N   N  N   N
+     SO600WJB Willingdon Jn – Connection - St
+                                  20 36  32 21 Y   Y   N   N   N  N   N
+              Leonards LMD
+     SO600WJB Connection - St Leonards LMD – Bo
+                                  32 21  32 76 Y   Y   N   N   N  N   N
+              Peep Jn
+     SO600TTH Bo Peep Jn – Hastings
+                                  60 69  62 33 Y   Y   R1  N   N  N   N  R130mph Leigh Up platform
+     SO600ATH Hastings – Ore Start / End of
+                                  82 34  81 42 Y   Y   N   N   N  N   N
+              Electrification
+     SO600ATH Ore Start / End of Electrification – Jn
+                                  81 42  56 20 Y   Y   R1  N   N  N   N  R1Prohibited between Ore start / end of
+              with Hastings line                                           electrification and Appledore
+     SO620BTL Montpelier Jn – Lewes0 14   7 77 Y   Y   N   N   N  N   N
+     SO620KJE1/2 Lewes – Southerham Jn [Duplicated
+                                  49 74  51 11 Y   Y   N   N   N  N   N
+              on SO590]
+     SO620STS Southerham Jn – Newhaven Harbour
+                                  51 11  56 55 Y   Y   N   N   N  N   N
               Jn
-     SO680BTH1Streatham Jn – Streatham South Jn
-                                   7 57  8  09 Y   Y   Y   N   N  N   N
-              (a)
-     SO680BTH1Streatham South Jn (a) – Streatham
-                                   8 09  8  12 Y   Y   Y   N   N  N   N
-              South Jn (b)
-     SO680BTH1Streatham South Jn (b) – Streatham
-                                   8 12  8  15 Y   Y   Y   N   N  N   N
-              South Jn (c)
-     SO680BTH1Streatham South Jn (c) – Change of
-                                   8 15  13 45 Y   Y   Y   N   N  N   N
-              Mileage
-     SO680BTH2Change of Mileage – Route Boundary
-                                  14 66  17 33 Y   Y   Y   N   N  N   N
-              Wessex (Epsom)
-     SO680BTH2Route Boundary Sussex (Ewell East)
-                                  17 33  18 73 Y   Y   Y   N   N  N   N
-              – Epsom (Change of ELR) [Duplicated
-              in SW180]
-     SO680BTH3Epsom (Change of ELR) –
-                                  14 27  18 02 Y   Y   Y   N   N  N   N
-              Leatherhead [Duplicated in SW180]
-     SO680BTH3Leatherhead – Route Boundary
-                                  18 02  21 09 Y   Y   Y   N   N  N   N
-              Sussex (Horsham) [Duplicated in
-              SW180]
-     SO680BTH3Route Boundary Sussex
-                                  21 09  35 34 Y   Y   Y   N   N  N   N
-              (Leatherhead) – Horsham jn
-              [Duplicated in SW180]
-     SO700SMS1Streatham South Jn (c) – Wimbledon
-                                   0 00  3  07 Y   Y   Y   N   N  N   N
-              platforms 9 and 10
-     SO700SMS2Wimbledon platforms 9 and 10 –
-                                   7 21  7  51 Y   Y   Y   N   N  N   N
-              Wimbledon West Jn
-     SO700SMS2Wimbledon West Jn – Sutton
-                                   7 51  12 50 Y   Y   Y   N   N  N   N
+     SO620NHB Newhaven Harbour Jn – Wharf Road
+                                  56 55  57 78 Y   Y   N   N   N  N   N
+              (Newhaven Marine)
+     SO620STS Newhaven Harbour Jn – Seaford
+                                  56 55  58 77 Y   Y   N   N   N  N   N
+     SO630BLI1Brighton platforms 1 and 2 – Hove Jn
+                                   0 00   1 28 Y   Y   N   N   N  N   N
+     SO630BLI1Hove Jn – Hove platforms 2 and 3
+                                   1 28   1 35 Y   Y   Y   N   N  N   N
+     SO630PPH Hove Jn – Hove Up platform loop via
+                                  50 48  51 02 Y   Y   Y   N   N  N   N
+              platform 1
 
 
 
 
-    December 2009                                   44E
+     December 2009                                  44C

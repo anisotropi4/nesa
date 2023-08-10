@@ -5,59 +5,89 @@
 
 
 
-
-     Table D2B – Route clearance of electric multiple units
-                                                                                       Last Updated: 12/03/2022
-     To be read in conjunction with General Notes.
-
      Line of ELR
              Line of Route / Sector
-                                 oooo oooo oooo oooo 442
-                                                  444 450 455456 458 508 700 707
-                                                                               Notes
-     route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 0000
-                                                                               ooooooooooooooooooooooooooo
-             Waterloo platforms 20-24 –
-     SW100 JAT                    00 00  0 38  R1  Y  Y   Y   Y   Y  N   N E   R1 Prohibited Waterloo platforms 21 and 23
-             International Jn
-             Waterloo platforms 12-19 –
-     SW100 RDG1                    0 00  0 38  N   Y  Y   Y   Y   Y  Y   N N
-             International Jn (Windsor lines)
-             International Jn – Carlisle Lane Jn
-     SW100 RDG1                    0 38  0 42  Y   Y  Y   Y   Y   Y  Y   N E
-             (Windsor lines)
-             Carlisle Lane Jn – Nine Elms Jn
-     SW100 RDG1                    0 42  2 00  Y   Y  Y   Y   Y   Y  Y   N E
-             (Windsor lines)
-             Waterloo platforms 1-11 –
-     SW100 BML1                    0 00  0 38  R1 R1  Y   Y   Y   Y  Y   N N   R1 Prohibited Waterloo platforms 1-4
-             International Jn (Main lines)     R2 R2                           R2 Access to Waterloo platforms 5, 6 and 7 via
-                                                                                  Up Main Fast line only – unless under
-                                                                                  special instruction from the Signaller
-             International Jn – Carlisle Lane Jn
-     SW100 BML1                    0 38  0 42  Y   Y  Y   Y   Y   Y  Y   N N
-             (Main lines)
-             Carlisle Lane Jn – Nine Elms Jn (Main
-     SW100 BML1                    0 42  2 00  Y   Y  Y   Y   Y   Y  Y   N N
-             lines)
-             Nine Elms Jn – Route Boundary (Kent
-     SW100 AHG                     2 00  2 44  N   N  N   N   N   N  N   N E
-             SO110) (Lindford Street Jn)
-             Nine Elms Jn – West London Jn
-     SW100 RDG1                    2 00  3 17  Y   Y  Y   Y   Y   Y  Y   N N
-             (Windsor lines)
-             Nine Elms Jn – Crossovers at
-     SW100 BML1                    2 00  2 65  Y   Y  Y   Y   Y   Y  Y   N N
-             2m 65ch (Main lines)
-             Crossovers at 2m 65 – West London
-     SW100 BML1                    2 65  3 17  Y   Y  Y   Y   Y   Y  Y   N N
-             Jn (Main lines)
-             West London Jn – Route Boundary
-     SW100 SCC                     3 17  3 30  N   N  N   N   N   N  Y   N N
-             (Sussex SO250) (Lathmere Jn No.3)
-             West London Jn – Ludgate Jn
-     SW100 RDG1                    3 17  3 57  Y   Y  Y   Y   Y   Y  Y   N N
-             (Windsor lines)
+                                 oooo oooo oooo oooo 313
+                                                  319 325 377 378380 387 Notes
+     route   Description          M  Ch M  Ch 000000000000
+                                                         000000000000 ooooo
+                                                                    ooooo
+                                                                    ooooo
+                                                                    ooooo
+                                                                    ooooo
+                                                                    oo
+             Latchmere Jn No.3 – Latchmere Jn
+     SW220 CKL                     2 39  2 50  E   Y  Y   Y   Y   N   Y
+             No.1 [Duplicated in SO250]
+             Latchmere Jn No.1 – Latchmere Jn
+     SW220 WLL                     0 63  0 68  Y   Y  Y   Y   Y  EH   Y
+             No.2 [Duplicated in SO250]
+             Latchmere Jn No.2 – Kensington
+     SW220 WLL                     0 71  3 42  Y   Y  Y   Y   Y  EH   Y
+             Olympia [Duplicated in SO250]
+             Point Pleasant Jn – Network Rail
+     SW225 PPW                     5 09  5 67  N   Y  H   N   N   N   N
+             Boundary (TfL – District Line)
+             Network Rail Boundary (TfL – District
+     SW225 PPW                     5 67  8 26  N  R1  H   N   N   N   N  R110mph Wimbledon Park Down
+             Line) – Wimbledon North Jn (TfL          R1                   platform
+             infrastructure)
+             Barnes – New Kew Jn
+     SW230 HOU                     7 07  9 34  N   Y  H   N   N   N   N
+             New Kew Jn – Route Boundary
+     SW230 NKE2                    9 34  9 64  N   N  N   N   N   N   N
+             (EA1330) (Kew East Jn)
+             New Kew Jn – Old Kew Jn
+     SW230 HOU                     9 34 10 01  N   Y  H   N   N   N   N
+             Old Kew Jn – Route Boundary
+     SW230 BOK5                    3 69  3 61  N   N  N   N   N   N   N
+             (EA1330) (Kew East Jn)
+     SW230
+         HOU Old Kew Jn – Hounslow Jn
+                                  10 01 14 09  N   Y  H   N   N   N   N
+     SW230
+         HJW Hounslow Jn – Whitton Jn
+                                  14 09 14 39  N   Y  H   N   N   N   N
+     SW230
+         HOU Hounslow Jn – Feltham Jn
+                                  14 09 14 38  N   Y  H   N   N   N   N
+     SW245
+         TSJ Jn (Twickenham) – Strawberry Hill Jn
+                                  11 48 12 27  N   Y  H   N   N   N   N
+     SW245
+         SHF Strawberry Hill Jn – Fulwell Jn
+                                  12 27 12 56  N   Y  H   N   N   N   N
+     SW245
+         TSJ Strawberry Hill Jn – Shacklegate Jn
+                                  12 27 12 58  N   Y  H   N   N   N   N
+     SW250
+         SWE Staines – Windsor and Eton Riverside
+                                  19 02 25 48  N   Y  H   N   N   N   N
+     SW255
+         VWW Virginia Water Jn – Addlestone Jn
+                                  24 73 19 74  N   Y  H   N   N   N   N
+     SW255
+         AJB Addlestone Jn – Byfleet Jn
+                                   0 00  0 67  N   Y  H   N   N   N   N
+     SW255
+         VWW Addlestone Jn – Weybridge
+                                  19 74 19 12  N   Y  H   N   N   N   N
+     SW260
+         AAV Ascot – Ash Vale Jn  28 79 40 57  N   N  N   N   N   N   N
+     SW265
+         GTW1Guilford – Change of ELR
+                                  30 27 35 50  N   N  N   N   N   N   N
+     SW265
+         GTW2Change of ELR – Aldershot South Jn
+                                  48 34 50 01  N   N  N   N   N   N   N
+             Aldershot South Jn – Aldershot North
+     SW265 NSA                    50 01 50 43  N   N  N   N   N   N   N
+             Jn
+             Aldershot South Jn – Wokingham Jn
+     SW265 GTW2                   50 01 61 74  N   N  N   N   N   N   N
+     SW300 RSJ
+             Route Boundary (Sussex SO560)
+                                  33 10 41 62  N   N  N   N   N   N   N
+             (Redhill) – Shalford Jn
 
-
-    December 2009                                   115
+     December 2009                                  113

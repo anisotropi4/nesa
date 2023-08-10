@@ -1,18 +1,16 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7	37/9	43	47/2	47/4	47/7	56	57	Notes
-Kent-Sussex-Wessex	1094	SW110	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW110	WPH2	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW110	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW110	WPH2	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW110	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	7*	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE1	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	8	R1	R1	Y	R1	R1	R1	R1	R1	R1 40mph over Hurstbourne viaduct between Whitchurch and Andover if there is more than one locomotive
-Kent-Sussex-Wessex	1094	SW115	LUD1	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	LUD2	Red Post Jn – Ludgershall	0	00	5	64	8	Y	Y	N	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE1	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	LAV	Laverstock North Jn – Laverstock South Jn	82	05	82	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE1	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE1	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE2	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	8	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE2	Wilton Jn – Gillingham	85	37	105	23	7	Y	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE2	Gillingham – Yeovil Jn	105	23	122	48	6	Y	Y	Y	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	1094	SW115	BAE2	Yeovil Jn – Route Boundary (GW610) (Exeter St Davids Jn)	122	48	164	30	6	Y	Y	Y	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	1094	SW120	PAA1	Pirbright Jn – Ash Vale Jn	29	39	32	30	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	JAT	Waterloo platforms 20-24 – International Jn	00	00	0	38	8	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1094	SW100	RDG1	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 Prohibited Waterloo platforms 12-16
+Kent-Sussex-Wessex	1094	SW100	RDG1	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	RDG1	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	BML1	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	BML1	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	BML1	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	AHG	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	RDG1	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	BML1	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	BML1	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	SCC	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	RDG1	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	8	Y	Y	R1	Y	Y	Y	Y	Y	R1 Prohibited Up Windsor Slow line
+Kent-Sussex-Wessex	1094	SW100	BML1	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1094	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	8	Y	Y	N	Y	Y	Y	Y	Y	

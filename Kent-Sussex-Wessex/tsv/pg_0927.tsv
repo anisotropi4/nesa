@@ -1,4 +1,20 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
-Kent-Sussex-Wessex	0927	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	1	75	Y	N	N	N	N	N	N	Y	Y	N	Y	Y	
-Kent-Sussex-Wessex	0927	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	Y	N	N	N	E R1 R2 R3	E R1 R2 R3	N	Y	Y	Y	Y	R4	R1 45mph maximum speed R2 10mph Lewisham platform 4 (Down North Kent) R3 10mph Blackheath platform 2 R4 20mph Blackheath Station – Blackheath Jn, Up and Down North Kent, 07m 04ch to 07m 13ch
-Kent-Sussex-Wessex	0927	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	Y	N	N	N	N	N	N	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0927	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	N	Y	Y	Y	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0927	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	N	Y	Y	Y	Y	E	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0927	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	N	Y	N	N	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0927	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	N	E	Y	Y	Y	N	N	N	Y	N	E	
+Kent-Sussex-Wessex	0927	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	N	N	Y	N	Y	N	N	N	N	E	E	
+Kent-Sussex-Wessex	0927	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	N	N	N	N	N	N	N	N	Y	N	N	
+Kent-Sussex-Wessex	0927	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	N	N	Y	N	Y	N	N	N	N	E	E	
+Kent-Sussex-Wessex	0927	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	N	N	Y	Y	Y	EH	N	N	Y	E	N	
+Kent-Sussex-Wessex	0927	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	N	Y	Y	Y	Y	EH	N	N	Y	N	E	
+Kent-Sussex-Wessex	0927	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	N	N	Y	Y	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0927	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	N	N	N	N	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0927	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	N	N	N	N	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0927	SO250	WLL	Southbound AC/DC changeover – Route Boundary (MD166) (Mitre Bridge Jn)	5	43	5	65	N	N	N	N	Y	EH	N	N	N	E	N	
+Kent-Sussex-Wessex	0927	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	Y	E	N	N	Y	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0927	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	Y	E	N	N	Y	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0927	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	Y	E	N	N	Y	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0927	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	Y	E	N	N	Y	N	Y	Y	N	Y	R1	Prohibited Dalrymple Road Bridge No.461 Nunhead Jn – Crofton Park Station Up Fast line
+Kent-Sussex-Wessex	0927	SO260	RVC	Ravensbourne Jn – Shortlands Jn via Ravensbourne Chord	0	00	0	48	N	E	N	N	Y	N	Y	Y	N	Y	N	
+Kent-Sussex-Wessex	0927	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	Y	E	N	N	Y	N	Y	Y	N	Y	N	

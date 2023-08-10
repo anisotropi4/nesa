@@ -5,80 +5,84 @@
 
 
 
-
-     Table D4B – Route clearance of locomotives
-                                                                                       Last Updated: 14/08/2021
-    To be read in conjunction with General Notes.
      Line of ELR
               Line of Route / Sector
-                                 oooo oooo oooo oooo RA
-                                                 37/5 37/7
-                                                         43 47/2 47/4 47/7
-                                                                      56 Notes
-     route    Description         M  Ch M  Ch 0000 0000 37/9 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-
-     SO110VIR Victoria platforms 1-8 – Battersea Pier
-                                   0 00  0  70 8  Y   Y  N  Y   Y  Y   Y
+                                  oo oo oo oo RA  08 09 20 31/1 31/4
+                                                                   3337/0 Notes
+     route    Description         oo oo oo oo 0000 0000 0000 0000 31/6 0000 0000 37/3 ooooooooooooooooooooooooooo
+                                  oo oo oo oo                        37/4
+                                  oo oo oo oo                        37/6
+                                  M  Ch M  Ch
+     SO650
+         BBJ  Bromley Down Jn – Beckenham Jn
+                                   9 48  11 62 8  Y   Y  Y  Y   Y  Y   Y
+     SO660
+         PAT  Purley (S0500) – Caterham
+                                  15 13  19 70 8  Y   Y  Y  Y   Y  Y   Y
+     SO660
+         TAT  Purley (S0500) – Tattenham Corner
+                                  15 13  23 37 8  Y   Y  Y  Y   Y  Y   Y
+     SO680
+         BTH1 South Bermondsey Jn (SO510) – Old
+                                   1 49   2 32 8  Y   Y  Y  Y   Y  Y   Y
+              Kent Road Jn
+     SO680
+         BTH1 Old Kent Road Jn – Peckham Rye Jn
+                                   2 32  3  47 8  Y   Y  Y  Y   Y  Y   Y
+     SO680
+         BTH1 Peckham Rye Jn – Tulse Hill North Jn
+                                   3 47  6  07 8  Y   Y  Y  Y   Y  Y   Y
+     SO680
+         WTH  Tulse Hill – West Norwood Jn
+                                   6 14  6  41 8  Y   Y  Y  Y   Y  Y   Y
+     SO680
+         LTH  Tulse Hill – Leigham Jn
+                                   6 20  6  40 8  Y   Y  Y  Y   Y  Y   Y
+     SO680
+         BTH1 Tulse Hill North Jn – Streatham Jn
+                                   6 07  7  57 8  Y   Y  Y  Y   Y  Y   Y
+     SO680
+         SSC  Streatham Jn – Streatham Common
+                                   7 57  8  10 8  Y   Y  Y  Y   Y  Y   Y
               Jn
-     SO110BSP1Battersea Pier Jn – Connection to
-                                   0 71  1  33 8  Y   Y  N  Y   Y  Y   Y
-              Stewarts Lane Up and Down lines (via
-              Battersea Reversible)
-     SO110VIR Battersea Pier Jn – Linford Street Jn
-                                   0 70  1  45 8  Y   Y  N  Y   Y  Y   Y
-     SO110AHG Linford Street Jn – Route Boundary
-                                   2 50  2  00 8  Y   Y  N  Y   Y  Y   Y
-              (SW100) (Nine Elms Jn)
-     SO110
-         VIR  Linford Street Jn – Factory Jn
-                                   1 45  1  61 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         FLL1 Factory Jn – Longhedge Jn
-                                   0 40  0  03 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         VIR  Factory Jn – Shepherds Lane Jn
-                                   1 61  2  70 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         VIR  Shepherds Lane Jn – Brixton Jn
-                                   2 70  3  08 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         VIR  Brixton Jn – Herne Hill North Jn
-                                   3 08  3  70 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         VIR  Herne Hill North Jn – Herne Hill South
-                                   3 70  4  06 8  Y   Y  N  Y   Y  Y   Y
-              Jn
-     SO110HHT Herne Hill South Jn – Route Boundary
-                                   4 06  4  63 8  Y   Y  N  Y   Y  Y   Y
-              Sussex (Tulse Hill)
-     SO110HHT Route Boundary Kent (Herne Hill
-                                   4 63  4  76 8  Y   Y  N  Y   Y  Y   Y
-              South Jn) – Tulse Hill North Jn
-     SO110HHT Route Boundary Kent (Herne Hill
-                                   4 63  5  15 8  Y   Y  N  Y   Y  Y   Y
-              South Jn) – Tulse Hill Substation via
-              platforms 1 and 2
-     SO110
-         VIR  Herne Hill South Jn – Beckenham Jn
-                                   4 06   8 43 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         VIR  Beckenham Jn – Shortlands Jn
-                                   8 43   9 57 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         VIR  Shortlands Jn – Bickley Jn
-                                   9 57  12 38 8  Y   Y  N  Y   Y  Y   Y
-     SO110
-         TLP1 Bickley Jn – Petts Wood (Fast
-                                  12 38  13 29 8  Y   Y  N  Y   Y  Y   Y
-              Tonbridge Loop)
-     SO110TLP2Bickley Jn – Petts Wood (Slow
-                                  12 49  13 35 8  Y   Y  N  Y   Y  Y   Y
-              Tonbridge Loop)
-     SO110CSM3Hawkwood Jn (Up Chatham Loop) –
-                                  11 66  12 30 8  Y   Y  N  Y   Y  Y   Y
-              St Mary Cray Jn
+     SO680BTH1Streatham Jn – Streatham South Jn
+                                   7 57  8  09 8  Y   Y  Y  Y   Y  Y   Y
+              (a)
+     SO680BTH1Streatham South Jn (a) – Streatham
+                                   8 09  8  12 8  Y   Y  Y  Y   Y  Y   Y
+              South Jn (b)
+     SO680BTH1Streatham South Jn (b) – Streatham
+                                   8 12  8  15 8  Y   Y  Y  Y   Y  Y   Y
+              South Jn (c)
+     SO680BTH1Streatham South Jn (c) – Change of
+                                   8 15  13 45 8  Y   Y  Y  Y   Y  Y   Y
+              Mileage
+     SO680BTH2Change of Mileage – Route Boundary
+                                  14 66  17 33 8  Y   Y  Y  Y   Y  Y   Y
+              Wessex (Epsom)
+     SO680BTH2Route Boundary Sussex (Ewell East)
+                                  17 33  18 73 8  Y   Y  Y  Y   Y  Y   Y
+              – Epsom (Change of ELR) [Duplicated
+              in SW180]
+     SO680BTH3Epsom (Change of ELR) –
+                                  14 27  18 02 8  Y   Y  Y  Y   Y  Y   Y
+              Leatherhead [Duplicated in SW180]
+     SO680BTH3Leatherhead – Route Boundary
+                                  18 02  21 09 8  Y   Y  Y  Y   Y  Y   Y
+              Sussex (Horsham) [Duplicated in
+              SW180]
+     SO680BTH3Route Boundary Sussex
+                                  21 09  35 34 8  R1 R1  R1 R1 R1  R1 R1 R115 mph over Bridge 3/319 (22m 15ch)
+              (Leatherhead) – Horsham jn
+              [Duplicated in SW180]
+     SO700SMS1Streatham South Jn (c) – Wimbledon
+                                   0 00  3  07 8  Y   Y  Y  Y   Y  Y   Y
+              platforms 9 and 10
+     SO700SMS2Wimbledon platforms 9 and 10 –
+                                   7 21  7  51 8  Y   Y  Y  Y   Y  Y   Y
+              Wimbledon West Jn
+     SO700SMS2Wimbledon West Jn – Sutton
+                                   7 51  12 50 8  Y   Y  Y  Y   Y  Y   Y
 
 
-
-
-    December 2009                                   55
+     December 2009                                  54C

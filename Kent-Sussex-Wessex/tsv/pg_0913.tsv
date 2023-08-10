@@ -1,17 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0913	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	N	E R1 R2 R3	H R1 R2 R3	N	Y	Y	R4	N	N	N	R1 45mph maximum speed R2 10mph Lewisham platform 4 (Down North Kent) R3 10mph Blackheath platform 2 R4 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	N	N	N	N	Y	Y	R1 R2	N	N	N	R1 Class 377/1 and 377/5 only R2 Prohibited Blackheath Tunnel Up line
-Kent-Sussex-Wessex	0913	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	N	E R1 R2 R3 R4 R5 R6	H R1 R2 R3 R4 R5 R6	N	Y	Y	R7	N	N	N	R1 45mph maximum speed R2 10mph Kidbrooke platforms 1 and 2 R3 10mph through Eltham Park (Closed) R4 10mph Welling platform 1 R5 10mph Bexleyheath platform 2 R6 10mph Barnehurst platform 1 R7 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	E	H	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0913	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0913	SO230	FFH2	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0913	SO240	BME2	Buckland Jn – Sandwich	99	05	86	46	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0913	SO240	BME2	Sandwich – Minster South	86	46	82	21	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0913	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0913	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0913	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	E	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0913	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	E	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0913	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0913	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0913	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	E	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0913	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	N	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0913	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	N	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0913	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	E	Y	Y	N	N	N	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0913	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0913	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	E	Y	Y	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0913	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	Y	Y	Y	N	N	N	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0913	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	Y	Y	H	N	N	N	Y	Y	N	Y	
+Kent-Sussex-Wessex	0913	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	Y	Y	Y	N	N	N	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0913	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	Y	Y	Y	N	N	N	Y	Y	EH	Y	

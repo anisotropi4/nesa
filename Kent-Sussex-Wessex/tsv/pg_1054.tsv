@@ -1,17 +1,15 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
-Kent-Sussex-Wessex	1054	SW105	BML2	Worgret Jn – Dorchester Jn	121	77	136	15	N	E R1	N	N	N	Y	Y	R1 Prohibited with footsteps fitted and deflated suspension
-Kent-Sussex-Wessex	1054	SW105	BML3	Dorchester Jn – Weymouth	162	14	168	63	N	E R1	N	N	N	Y	Y	R1 Prohibited with footsteps fitted and deflated suspension
-Kent-Sussex-Wessex	1054	SW110	WPH1	Woking Jn – Guilford	24	62	30	27	R1 R2	N	N	N	N	Y	Y	R1 10mph through Worplesdon R2 Prohibited Guildford platform 1
-Kent-Sussex-Wessex	1054	SW110	WPH1	Guilford – Shalford Jn	30	27	31	42	Y	N	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	WPH1	Shalford Jn – Haslemere	31	42	42	79	N	N	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	WPH1	Haslemere – Havant Jn	42	79	66	17	N	N	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	TBH2	Route Boundary (Sussex SO250) (Barnham) – Havant Jn [Duplicated on SO520]	35	35	37	25	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	1054	SW110	WPH2	Havant Jn – Farlington Jn [Duplicated on SO520]	37	24	40	33	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	WPH2	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	N	Y	Y	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW110	WPH2	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	R1 R2	Y	Y	N	N	Y	Y	R1 Prohibited Portsmouth & Southsea platform 1 Up Main Fast line with air bags deflated / failed secondary suspension R2 Prohibited Portsmouth Harbour platforms 3 & 5
-Kent-Sussex-Wessex	1054	SW110	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	R1 R2	Y	Y	N	N	Y	Y	R1 Prohibited Portsmouth & Southsea platform 1 Up Main Fast line with air bags deflated / failed secondary suspension R2 Prohibited Portsmouth Harbour platforms 3 & 5
-Kent-Sussex-Wessex	1054	SW115	BAE1	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	N	Y	N	N	N	Y	Y	
-Kent-Sussex-Wessex	1054	SW115	LUD1	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1054	SW115	LUD2	Red Post Jn – Ludgershall	0	00	5	64	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	JAT	Waterloo platforms 20-24 – International Jn	00	00	0	38	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	RDG1	Waterloo platforms 12-19 – International Jn (Windsor lines)	0	00	0	38	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	RDG1	International Jn – Carlisle Lane Jn (Windsor lines)	0	38	0	42	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	RDG1	Carlisle Lane Jn – Nine Elms Jn (Windsor lines)	0	42	2	00	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	BML1	Waterloo platforms 1-11 – International Jn (Main lines)	0	00	0	38	N	R1	N	N	N	N	N	R1 Prohibited Waterloo platforms 1, 2, 3 and 4
+Kent-Sussex-Wessex	1054	SW100	BML1	International Jn – Carlisle Lane Jn (Main lines)	0	38	0	42	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	BML1	Carlisle Lane Jn – Nine Elms Jn (Main lines)	0	42	2	00	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	AHG	Nine Elms Jn – Route Boundary (Kent SO110) (Lindford Street Jn)	2	00	2	44	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	RDG1	Nine Elms Jn – West London Jn (Windsor lines)	2	00	3	17	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	BML1	Nine Elms Jn – Crossovers at 2m 65ch (Main lines)	2	00	2	65	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	BML1	Crossovers at 2m 65 – West London Jn (Main lines)	2	65	3	17	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	SCC	West London Jn – Route Boundary (Sussex SO250) (Lathmere Jn No.3)	3	17	3	30	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	RDG1	West London Jn – Ludgate Jn (Windsor lines)	3	17	3	57	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1054	SW100	BML1	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	N	Y	N	N	N	N	N	

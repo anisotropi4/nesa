@@ -6,69 +6,63 @@
      Line of ELR
              Line of Route / Sector
                                  oooo oooo oooo oooo 442
-                                                  444 450 455456 458 508700 707 Notes
-     route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000
-                                                                              ooooooooooooooooooooooooooo
+                                                  444 450 456458 508 700 707 Notes
+     route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000ooooooooooooooooooooooooooo
+             Woking Jn – Guilford
+     SW110 WPH1                   24 62 30 27  Y   Y  Y   R1 R1   Y  N  N R1 15mph Guildford platform 4
+             Guilford – Shalford Jn
+     SW110 WPH1                   30 27 31 42  Y   Y  Y   R1 R1   Y  N  N R1 15mph Guildford platform 4
+             Shalford Jn – Haslemere
+     SW110 WPH1                   31 42 42 79  Y   Y  Y   Y   Y   Y  N  N
+             Haslemere – Havant Jn
+     SW110 WPH1                   42 79 66 17  R1 R1  Y   N  R2   N  N  N R1 40mph through Buriton Tunnel (57m 46ch to
+                                                                             57m 68ch)
+                                                                          R2 Class 458/5 only
+     SW110 TBH2
+             Route Boundary (Sussex SO250)
+                                  35 35 37 25  Y   Y  Y   N   N   N  N  N
+             (Barnham) – Havant Jn [Duplicated
+             on SO520]
+             Havant Jn – Farlington Jn [Duplicated
+     SW110 WPH2                   37 24 40 33  Y   Y  Y   N  R1   N  N  N R1 Class 458/5 only
+             on SO520]
+             Farlington Jn – Portcreek Jn
+     SW110 WPH2                   40 33 41 03  Y   Y  Y   N  R1   N  N  N R1 Class 458/5 only
+             [Duplicated on SO520]
+             Portcreek Jn – Blackfriars Jn
+     SW110 WPH2                   41 03 44 50  Y   Y  Y   N  R1   N  N  N R1 Class 458/5 only
+             [Duplicated on SO520]
+             Blackfriars Jn – Portsmouth and
+     SW110 PAS                    44 26 44 50  Y   Y  Y   N  R1   N  N  N R1 Class 458/5 only
+             Southsea Low Level [Duplicated on
+             SO520]
+             Blackfriars Jn – Portsmouth and
+     SW110 WPH2                   44 26 44 50  Y   Y  Y   N  R1   N  N  N R1 Class 458/5 only
+             Southsea High Level [Duplicated on
+             SO520]
+     SW110 WPH2
+             Portsmouth and Southsea High Level
+                                  44 50 45 36  Y   Y  Y   N  R1   N  N  N R1 Class 458/5 only
+             – Portsmouth Harbour
+             * platforms 4 and 5 RA7
+             * platforms 1 and 3 RA4
+             [Duplicated on SO520]
+             Worting Jn – Connection to
+     SW115 BAE1                   51 15 66 27  Y   N  N   N   N   N  N  N
+             Ludgershall Branch line
+             Connection to main Up line (BAE1) –
+     SW115 LUD1                   66 27 67 61  Y   N  N   N   N   N  N  N
+             Red Post Jn
+             Red Post Jn – Ludgershall
+     SW115 LUD2                    0 00  5 64  Y   N  N   N   N   N  N  N
+             Connection to Ludgershall Branch line
+     SW115 BAE1                   66 27 82 05  Y   N  N   N   N   N  N  N
+             – Laverstock North Jn
+             Laverstock North Jn – Laverstock
+     SW115 LAV                    82 05 82 39  Y   N  N   N   N   N  N  N
+             South Jn
+             Laverstock North Jn – Salisbury
+     SW115 BAE1                   82 05 82 36  Y   N  N   N   N   N  N  N
+             Tunnel Jn
 
-             Brockenhurst – Lymington Pier
-     SW160 BLP                    92 66 98 15  N   N  R1  N   Y  R2  N   N N  R1 Prohibited between Lymington Town
-                                                                                 and Lymington Pier if the vehicle stop
-                                                                                 board is removed (located 146.5m
-                                                                                 from the top ramp at Lymington Pier)
-                                                                              R2 Class 458/5 only
-             Hamworthy – Hamworthy Goods
-     SW165 HAG                   115 77 11805  N   N  N   N   N   N  N   N N
-             (Stop board)
-             Wilton Jn – Route Boundary Western
-     SW170 SAL                   132 33 11540  R1  N  N   N   N   N  N   N N  R1 Prohibited with footsteps fitted
-             (GW5001) (Westbury South Jn)
-     SW175 WEY
-             Route Boundary (GW500) (Castle
-                                 130 00 14135  N   N  N   N   N   N  N   N N
-             Cary Jn) – Yeovil Pen Mill Jn
-             Yeovil Pen Mill Jn – Yeovil Jn
-     SW175 YJP                     1 42  0 00  N   N  N   N   N   N  N   N N
-             Yeovil Pen Mill Jn – Dorchester Jn
-     SW175 WEY                   141 35 16214  N   N  N   N   N   N  N   N N
-             Raynes Park – Epsom (Change of
-     SW180 RPE                     8 51 14 18  N   Y  Y   Y   Y  R1  Y   N N  R1 Class 458/5 only
-             ELR)
-     SW180 BTH2
-             Route Boundary Sussex (Ewell
-                                  17 33 18 73  N   Y  Y   Y   Y   N  Y   Y N
-             East) – Epsom [Duplicated in SO680]
-             Epsom (Change of ELR) –
-     SW180 BTH3                   14 27 18 02  N   Y  Y   Y   Y   Y  Y   Y N
-             Leatherhead [Duplicated in SO680]
-             Leatherhead – Route Boundary
-     SW180 BTH3                   18 02 21 09  N   N  Y   Y   Y   Y  Y   Y N
-             Sussex (Horsham) [Duplicated in
-             SW180]
-     SW180 BTH3
-             Route Boundary Sussex21 09 35 34  N   N  Y   Y   Y  R1  Y   Y N  R1 Class 458/5 permitted between Route
-             (Leatherhead) – Horsham jn (SO520)                  R2              Boundary Sussex (Leatherhead and
-             [Duplicated in SO680]                                               Dorking
-                                                                              R2 Prohibited Dorking Loop platform 3
-             Motspur Park – Chessington South
-     SW185 MPC                     9 57 13 73  N   N  Y   R1 R1  R2  R1  N N  R1 10mph Chessington South Up sidings
-                                                                                 (former platform line)
-                                                                              R2 Class 458/5 only
-             New Malden – Fulwell Jn
-     SW190 NMS1                    9 62 14 53  Y   N  Y   Y   Y  R1  Y   N N  R1 Prohibited Kingston Bay platform 1
-             Fulwell Jn – Shepperton
-     SW190 NMS2                   12 56 18 73  Y   N  Y   Y   Y   Y  Y   N N
-             Hampton Court Jn – Hampton Court
-     SW195 HAM                    13 27 14 76  N   N  Y   Y   Y  R1  Y   N N  R1 Class 458/5 only
-             Up line
-             Hampton Court Jn – Hampton Court
-     SW195 HAM                    13 27 14 76  N   N  Y   Y   Y  R1  Y   N N  R1 Class 458/5 only
-             Down line
-             Hampton Court Jn – Effingham Jn
-     SW200 NGL                    13 27 21 04  Y   Y  Y   Y   Y   Y  Y   N N
-             Effingham Jn – Guilford
-     SW200 NGL                    21 04 29 70  Y   Y  Y   Y   Y   Y  Y   Y N
-             Leatherhead – Effingham Jn
-     SW205 LEJ                    18 02 22 15  N   Y  Y   Y   Y  R1  Y   Y N  R1 Class 458/5 only
-
-
-    December 2009                                   119
+     December 2009                                  117

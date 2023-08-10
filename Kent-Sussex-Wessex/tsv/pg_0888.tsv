@@ -1,20 +1,26 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
-Kent-Sussex-Wessex	0888	SO510	LBW	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	ELL1	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	LBW	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	ELL1	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	LBW	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	LBW	Sydenham Down Jn – Norwood Jn	6	51	8	55	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	LBW	Norwood Jn – Norwood Fork Jn	8	55	9	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	LBW	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	NFE	Norwood Fork Jn – Sutton	9	33	14	75	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO510	NFE	Sutton – Epsom Downs	14	75	18	60	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO520	TBH1	Three Bridges – Crawley	29	21	30	49	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO520	TBH1	Crawley – Horsham Jn	30	49	37	39	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO520	TBH1	Horsham Jn – Horsham	37	39	37	56	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO520	TBH1	Horsham – Billingshurst	37	56	44	71	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO520	TBH1	Billingshurst – Arundel Jn	44	71	59	75	N	N	N	N	N	
-Kent-Sussex-Wessex	0888	SO520	TBH2	Arundel Jn – Barnham	19	01	22	29	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	0888	SO520	TBH2	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	Y	Y	Y	N	R1 R2 R3 R4 R5	R1 Prohibited Chichester platform 1 with crush deflated suspension R2 Prohibited Chichester West Sidings R3 Prohibited Bosham platform 2 with crush deflated suspension R4 Prohibited Inlands Road Crossing with crush deflated suspension R5 OPPOS between Up Main line and Chichester Up Reception line
-Kent-Sussex-Wessex	0888	SO520	TBH2	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	Y	Y	Y	N	Y	
-Kent-Sussex-Wessex	0888	SO520	WPH2	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	Y	Y	Y	N	Y	
+Kent-Sussex-Wessex	0888	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO500	VTB1	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO500	VTB1	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO500	VTB1	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO500	VTB1	Pouparts Jn – Falcon Jn	2	03	2	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0888	SO500	WLL	Falcon Jn – Latchmere No1 Jn via Clapham Jn platforms 16 and 17	0	00	0	63	R1	N	N	N	N	R1 OPPOS applies between crossover VC289 points and Falcon Jn VC290/292 points
+Kent-Sussex-Wessex	0888	SO500	VTB1	Falcon Jn – Balham Jn	2	66	4	69	N	N	N	N	N	

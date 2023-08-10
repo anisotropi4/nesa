@@ -1,17 +1,26 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
-Kent-Sussex-Wessex	1050	SW210	RDG1	Virginia Water – Wokingham Jn	23	15	36	35	Y	N	N	N	R1 R2 R3 R4	R1 R2 R3 R4	Y	R1 50mph between Virgina Water and Wokingham R2 20mph Ascot station Down line R3 Prohibited through Ascot on the Up line R4 20mph Bracknell station Down line
-Kent-Sussex-Wessex	1050	SW210	RDG2	Wokingham Jn – Reading Spur Jn	61	72	67	76	Y	N	N	N	Y	Y	R1	R1 Wokingham permitted on the Up line (towards Bracknell) clear of position light signal WM15 for movements back over crossover
-Kent-Sussex-Wessex	1050	SW210	RNJ	Reading Spur Jn – Route Boundary (GW190) (Reading New Jn)	68	00	67	76	Y	N	N	N	Y	Y	Y	
-Kent-Sussex-Wessex	1050	SW210	RDG2	Reading Spur Jn – Reading Southern Jn	67	76	68	25	Y	N	N	N	Y	Y	Y	
-Kent-Sussex-Wessex	1050	SW210	RLL	Route Boundary Western (Reading East Main Jn) – Reading Southern Jn	35	35	0	00	N	Y	N	N	Y	Y	Y	
-Kent-Sussex-Wessex	1050	SW210	RDG2	Reading Southern Jn – Reading platforms 4, 5 and 6	68	25	68	68	Y	N	N	N	Y	Y	Y	
-Kent-Sussex-Wessex	1050	SW220	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SO250]	2	39	2	50	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	1050	SW220	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SO250]	0	63	0	68	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	1050	SW220	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SO250]	0	71	3	42	Y	Y	N	N	Y	Y	N	
-Kent-Sussex-Wessex	1050	SW225	PPW	Point Pleasant Jn – Network Rail Boundary (TfL – District Line)	5	09	5	67	Y	N	N	N	Y	Y	N	
-Kent-Sussex-Wessex	1050	SW225	PPW	Network Rail Boundary (TfL – District Line) – Wimbledon North Jn (TfL infrastructure)	5	67	8	26	Y	N	N	N	R1	R1	N	R1 10mph Wimbledon Park Down platform
-Kent-Sussex-Wessex	1050	SW230	HOU	Barnes – New Kew Jn	7	07	9	34	Y	N	N	N	Y	Y	N	
-Kent-Sussex-Wessex	1050	SW230	NKE2	New Kew Jn – Route Boundary (EA1330) (Kew East Jn)	9	34	9	64	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1050	SW230	HOU	New Kew Jn – Old Kew Jn	9	34	10	01	Y	N	N	N	Y	Y	N	
-Kent-Sussex-Wessex	1050	SW230	BOK5	Old Kew Jn – Route Boundary (EA1330) (Kew East Jn)	3	69	3	61	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1050	SW230	HOU	Old Kew Jn – Hounslow Jn	10	01	14	09	Y	N	N	N	R1	R1	N	R1 30mph Isleworth Up platform
+Kent-Sussex-Wessex	1050	SW120	PAA1	Ash Vale Jn – Change of ELR	32	30	36	75	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW120	PAA2	Change of ELR – Connection to Farnham Depot	39	22	42	70	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW120	PAA2	Connection to Farnham Depot – Alton	42	70	49	13	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW125	BKE	Route Boundary GW500 (Southcote Jn) – Basingstoke	37	76	51	39	Y	Y	N	N	Y	Y	E	
+Kent-Sussex-Wessex	1050	SW130	ECR	Eastleigh East Jn – Romsey	73	35	80	47	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW135	ETF	Eastleigh West Jn – Fareham	73	42	84	21	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	SDP1	St Denys – Change of ELR	1	59	14	15	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	SDP2	Change of ELR – Fareham	84	10	84	21	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	SDP2	Fareham – Quay Viaduct	84	21	84	77	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	SDP2	Quay Viaduct – Cosham	84	77	90	06	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	SDP2	Cosham – Cosham Jn	90	06	90	43	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	SDP2	Cosham Jn – Portcreek Jn	90	43	91	01	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW140	FJJ	Cosham Jn – Farlington Jn	90	43	91	14	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW145	SOY	Northam Jn – Canute Road LC (AOCL) (Eastern Docks)	78	15	79	02	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW150	RTJ1	Redbridge Jn – Romsey Jn	23	32	18	16	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW150	RTJ2	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW155	TTF	Totton – Marchwood	82	43	86	10	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW155	TTF	Marchwood – Fawley GF	86	10	91	42	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW160	BLP	Brockenhurst – Lymington Pier	92	66	98	15	Y	N	N	N	R1	R1	N	R1 Must stop 30m (32 yards) short of Stop light at Lymington Pier
+Kent-Sussex-Wessex	1050	SW165	HAG	Hamworthy – Hamworthy Goods (Stop board)	115	77	118	05	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1050	SW170	SAL	Wilton Jn – Route Boundary Western (GW5001) (Westbury South Jn)	132	33	115	40	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW175	WEY	Route Boundary (GW500) (Castle Cary Jn) – Yeovil Pen Mill Jn	130	00	141	35	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW175	YJP	Yeovil Pen Mill Jn – Yeovil Jn	1	42	0	00	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW175	WEY	Yeovil Pen Mill Jn – Dorchester Jn	141	35	162	14	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	1050	SW180	RPE	Raynes Park – Epsom (Change of ELR)	8	51	14	18	Y	N	N	N	N	N	N	

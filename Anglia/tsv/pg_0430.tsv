@@ -1,15 +1,20 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	360	365	373	377	378	379	380	387	499	700	Notes
-Anglia	0430	EA1500	RBY	Breydon Access No24 LC (EA1510) – Yarmouth	19	13	20	45	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1510	RBY	Reedham Jn – Breydon Access No24 LC	12	34	19	13	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1520	SIZ	Saxmundham Jn – Sizewell	91	40	95	79	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1530	CCH	Coldham Lane Jn – Haughley Jn	0	23	40	49	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1540	SOB1	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1540	SOB2	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1550	EWC	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1560	EMP	Ely North Jn – Ely West Jn	71	63	72	39	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1560	EMP	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1570	WIG	March East Jn – Whitemoor Jn	85	78	86	18	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1570	MWL	March West Jn – Whitemoor Jn	0	00	0	13	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1570	WIG	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	N	N	N	Line out of use (temporarily)
-Anglia	0430	EA1580	ETN	Ely North Jn – Trowse Jn	71	72	123	00	N	N	N	N	N	N	N	N	N	N	
-Anglia	0430	EA1744	BFC	Europa Jn – Boss Hall Jn	0	00	0	63	N	N	N	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	360	365	377	378	379	380	387	499	700	Notes
+Anglia	0430	EA1480	WHC1	North Walsham (End of Station Loop) – Change of Mileage (Site of Former Roughton Road Jn)	16	30	24	00	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1480	WHC2	Change of Mileage (Site of Former Roughton Road Jn) – Change of Mileage (Site of Former Runton East Jn)	11	54	13	48	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1480	WHC3	Change of Mileage (Site of Former Runton East Jn) – Cromer	45	64	46	42	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1490	CRS	Cromer Jn – Network Rail Boundary (North Norfolk Railway)	46	27	42	69	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1500	NAY	Brundall Jn – Yarmouth Via Acle	5	72	18	29	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1500	RBY	Breydon Access No24 LC (EA1510) – Yarmouth	19	13	20	45	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1510	RBY	Reedham Jn – Breydon Access No24 LC	12	34	19	13	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1520	SIZ	Saxmundham Jn – Sizewell	91	40	95	79	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1530	CCH	Coldham Lane Jn – Haughley Jn	0	23	40	49	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1540	SOB1	Chippenham Jn – Site of Former Snailwell Jn	0	63	0	00	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1540	SOB2	Site of Former Snailwell Jn – Ely Dock Jn	1	54	12	33	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1550	EWC	Ely North Jn – Ely West Jn (Ely West Curve)	71	63	72	63	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1560	EMP	Ely North Jn – Ely West Jn	71	63	72	39	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1560	EMP	Ely West Jn – Route Boundary (LN135) (Peterborough)	72	39	98	40	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1570	WIG	March East Jn – Whitemoor Jn	85	78	86	18	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1570	MWL	March West Jn – Whitemoor Jn	0	00	0	13	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1570	WIG	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	N	N	Line out of use (temporarily)
+Anglia	0430	EA1580	ETN	Ely North Jn – Trowse Jn	71	72	123	00	N	N	N	N	N	N	N	N	N	
+Anglia	0430	EA1744	BFC	Europa Jn – Boss Hall Jn	0	00	0	63	N	N	N	N	N	N	N	N	N	

@@ -2,71 +2,29 @@
 
 
                                     Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
-  Line of ELR
-           Line of Route / Sector
-                                M CH  M  Ch 395 442 444 450 455 456 458 465 466
-                                                                       508700   Notes
-  route    Description                      000 000 000 000 000 000 000 000 000
-  SO500VTB3Three Bridges – Copyhold Jn
-                                29 21 36 73 N  Y  N  N  Y  Y  N  N  N   Y  Y N
-  SO500CJA1Copyhold Jn – Change of Mileage
-                                36 73 36 33 N  N  N  N  N  N  N  N  N   N  N N
-  SO500CJA2Change of Mileage – Ardingly Sidings
-                                 0 00  0 70 N  N  N  N  N  N  N  N  N   N  N N
-  SO500VTB3Copyhold Jn – Keymer Jn
-                                36 73 40 69 N  Y  N  N  Y  Y  N  N  N   Y  R1N  R1 Prohibited Haywards Heath Down Goods
-                                                                                   Loop
-  SO500VTB3Keymer Jn – Preston Park Jn
-                                40 69 49 43 N  Y  N  N  Y  Y  N  N  N  Y   Y N
-  SO500PPH Preston Park Jn – Hove Jn
-                                49 21 50 44 N  Y  N  N  Y  Y  N  N  N  Y   Y N
-  SO500VTB3Preston Park Jn – Brighton
-                                49 43 50 49 N  Y  N  N  Y  Y  N  N  N  R1  Y N  R1 Prohibited Brighton platform 8
-  SO510LBW London Bridge platforms 10-15 –
-                                 0 00  2 12 N  Y  N  N  Y  Y  N  N  N  Y   Y  E R1OPPOS London Bridge between 9 REV
-           Bricklayers Arms Jn                                                    lines and 10 REV lines 00m 16ch to 00m
-                                                                              R1
-                                                                                  30ch
-                                                                             R2
-                                                                                R2 OPPOS London Bridge between 10 REV
-                                                                                lines and 11 REV lines 00m 16ch to 01m 00ch
-  SO510LBW Bricklayers Arms Jn – New Cross
-                                2  12  2 60 N  Y  N  N  Y  Y  N  N  N   Y  Y E
-           Gate Up Jn
-  SO510ELL1New Cross Gate Up Jn – Network Rail
-                                5  51  5 49 N  N  N  N  N  N  N  N  N   N  N N
-           Boundary / Up ELL
-  SO510LBW New Cross Gate Up Jn – New Cross
-                                2  60  3 10 N  Y  N  N  Y  Y  N  N  N   Y  Y E
-           Gate Down Jn
-  SO510ELL1New Cross Gate Down Jn – Network
-                                6  02  5 79 N  N  N  N  N  N  N  N  N   N  N N
-           Rail Boundary / Down ELL
-  SO510LBW New Cross Gate Down Jn –
-                                3  10  6 51 N  Y  N  N  Y  Y  N  N  N   Y  Y  E R1 OPPOS between Up Fast line and Down
-           Sydenham Down Jn                                                        Fast line 04m 74ch to 05m 14ch
-                                                                              R1
-                                                                             R2 R2 OPPOS Forest Hill Station between Down
-                                                                                   Fast line and Down Slow line 05m 40ch to
-                                                                                   05m 60ch
-                                                                                R3 OPPOS between Up Fast line and Down
-                                                                                   Fast line 05m 74ch to 06m 24ch
-                                                                                OPPOS Sydenham Station – Sydenham Up Jn
-                                                                                between Up Fast line and Down Fast line 06m
-                                                                                35ch to 06m 50ch
-  SO510LBW Sydenham Down Jn – Norwood Jn
-                                6  51  8 55 N  Y  N  N  Y  Y  N  N  N   Y  Y E
-  SO510LBW Norwood Jn – Norwood Fork Jn
-                                8  55  9 33 N  Y  N  N  Y  Y  N  N  N   Y  Y E
-  SO510LBW Norwood Fork Jn – Cottage Jn /
-                                9  33  9 64 N  Y  N  N  Y  Y  N  N  N   Y  Y E
-           Windmill Bridge Jn
-  SO510NFE Norwood Fork Jn – Sutton
-                                 9 33 14 75 N  N  N  N  Y  Y  N  N  N   Y  Y N
-  SO510NFE Sutton – Epsom Downs 14 75 18 60 N  N  N  N  Y  Y  N  N  N   Y  N N
-  SO520TBH1Three Bridges – Crawley
-                                29 21 30 49 N  N  N  N  Y  Y  N  N  N   Y  Y N
+
+         VTB1 Selhurst Jn – Windmill Bridge Jn
+     SO500                         9 43  10 12 N  Y  N  N Y   N  N  N  Y  Y  E
+         VTB2 Windmill Bridge Jn – South Croydon Jn
+     SO500                         9 69  11 29 N  Y  N  N Y   N  N  N  Y  Y  E
+         VTB2 South Croydon Jn – Stoats Nest Jn
+     SO500                        11 29  14 20 N  Y  N  N R1  N  N  N  R1 Y  E R1 60mph Purley platform 3
+         RED1 Stoats Nest Jn – Redhill
+     SO500                        14 20  22 40 N  Y  N  N Y   N  N  N  Y  R1 E R1 Prohibited Redhill Down Post Office
+         /2                                                                  R2   sidings
+                                                                               R2 Prohibited Merstham Tunnel Up Line
+     SO500RED1 Redhill – Change of Mileage (Redhill /
+                                  22 40  23 00 N  Y  N  N  Y  N  N  N  Y  Y  E
+          /2 Slow lines) Via Redhill
+     SO500VTB2 Stoats Nest Jn – Change of Mileage
+                                  14 20  23 21 N  Y  N  N  Y  N  N  N  Y   Y E OPPOS Sand (Redhill) Tunnel Between
+             (Quarry / Fast lines)                                           R1Up Fast line and Down Fast line 20m 62ch
+                                                                               to 21m 12ch
+     SO500VTB3 Change of Mileage (Quarry / Fast lines)
+                                  21 15  29 21 N  Y  N  N  Y  N  N  N  Y  R1 E R1 Prohibited Salfords Up sidings
+             – Three Bridges                                              R2   R2 Prohibited Tinsley Green Up sidings
 
 
 
-    December 2009                                   34
+
+     December 2009                                  33A

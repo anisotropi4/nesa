@@ -5,71 +5,65 @@
 
 
 
+
+     Table D3A – Route clearance of coaching stock
+                                                                                       Last Updated: 18/03/2023
+     To be read in conjunction with General Notes.
+     Network Rail documentation may refer to either Mark 1-3 stock or C1-3 gauge as detailed below:
+     C1 = standard passenger coaching stock gauge for Mark 1 and Mark 2 coaches with 9’0” wide bodywork and 64’6” or (57’) long underframes.
+     C3 = standard passenger coaching stock gauge for Mark 3 coaches which are 23 metres (75’) long overall.
+     Mk3 (MOD) = Mk 3 coaches (Modified) and refers to Mk 3 coaches which have been fitted with powered bodyside plug doors.
+     Mk3 DVT (MOD) = Mk3 DVT (Modified) and refers to Mk3 DVTs that have had centre pivot lateral bump stops modified to ESG-S-MO15, reducing lateral body movement.
+    Mk4 DVTs can operate over all routes cleared for Mark 4 coaching stock. Any restrictions applied to Mk4 coaching stock also apply to Mk 4 DVTs.
+    Mk3 coaches used with Class 43 power cars and fitted with external power-operated sliding doors, manufactured by Vapor Stone Rail Systems, and CET are compatible with all routes shown as
+    cleared for Mk3 coaches.
+
      Line of ELR
               Line of Route / Sector
-                                  oo oo oo oo MK1 MK2 MK3 MK3MK3 MK3 MK4 Notes
-     route    Description         oo oo oo oo 00000000 00000 (MOD) DVT
+                                 oooo oooo oooo oooo MK1
+                                                  MK2 MK3 MK3 MK3MK3 MK4 Notes
+     route    Description         M  Ch M  Ch 00000000 00000 (MOD) DVT
                                                                  DVT 0000 ooooooooooooooooooooooooooo
-                                  M  Ch M  Ch         00 00000000 (MOD)
-     SO130XTD Metropolitan Jn – Borough Market Jn
-                                   1 31  1  50 Y   Y   Y   N   N  N   N
-     SO130CBM Cannon Street Substation – Borough
-                                   0 20  0  38 Y   Y   N   N   N  N   N
-              Market Jn
-     SO130XTD Borough Market Jn – London Bridge
-                                   1 50  1  69 Y   Y   Y   N   N  N   N
-              platforms 1-9
-     SO130XTD London Bridge platforms 1-9 – North
-                                   1 69  4  25 Y   Y   R1  N   N  N   N  R1Prohibited between Blue Anchor and
-              Kent East Jn                             R2                  North Kent East Jn
-                                                                         R2No.5 Down line, clear to crossovers to
-                                                                           and from Sussex side lines and Up
-                                                                           Passenger Loop between London
-                                                                           Bridge and Spa Road Jn
-     SO130
-         XTD  North Kent East Jn – Tanners Hill Jn
-                                   4 25  5  29 Y   Y   N   N   N  N   N
-     SO130
-         XTD  Tanners Hill Jn – Parks Bridge Jn
-                                   5 29  6  14 Y   Y   N   N   N  N   N
-     SO130
-         LLL  Parks Bridge Jn – Ladywell Jn
-                                   6 14  6  29 Y   Y   N   N   N  N   N
-     SO130
-         XTD  Parks Bridge Jn – Courthill Loop
-                                   6 14  6  21 Y   Y   N   N   N  N   N
-              South Jn
-     SO130XTD Courthill Loop South Jn – Hither
-                                   6 21  7  04 Y   Y   N   N   N  N   N
-              Green Jn
-     SO130XTD Hither Green Jn – Lee Spur Jn
-                                   7 04   7 44 Y   Y   N   N   N  N   N
-     SO130XTD Lee Spur Jn – Chislehurst Jn
-                                   7 44  11 33 Y   Y   N   N   N  N   N
-     SO130CSM1Chislehurst Jn – St Mary Cray Down
-                                  11 33  11 71 Y   Y   N   N   N  N   N
-              Jn via Reversible Chatham Loop
-     SO130CSM3Chislehurst Jn – Hawkwood Jn (Up
-                                  11 33  11 66 Y   Y   N   N   N  N   N
-              Chatham Loop)
-     SO130XTD Chislehurst Jn – Petts Wood Jns
-                                  11 33  12 27 Y   Y   N   N   N  N   N
-     SO130XTD Petts Wood Jns – Sevenoaks
-                                  12 27  21 74 Y   Y   Y   N   N  N   N
-              Substation
-     SO130XTD Sevenoaks Substation – Tonbridge
-                                  21 74  29 35 Y   Y   Y   N   N  N   N
-              West Jn
-     SO130XTD Tonbridge West Jn – Tonbridge East
-                                  29 35  29 55 Y   Y   Y   N   N  N   N
+                                                       00 00000000 (MOD)
+     SO110VIR Victoria platforms 1-8 – Battersea Pier
+                                   0 00  0  70 Y   Y   R1  N   N  N   N  R1Prohibited Victoria platforms 4 and 6
               Jn
-     SO130XTD Tonbridge East Jn – Paddock Wood
-                                  29 55  34 67 Y   Y   Y   N   N  N   N
-     SO130XTD Paddock Wood – Ashford (Jn with
-                                  34 67  55 54 Y   Y   Y   N   N  N   N
-              Maidstone line)
+     SO110BSP1Battersea Pier Jn – Connection to
+                                   0 71  1  33 Y   Y   Y   N   N  N   N
+              Stewarts Lane Up and Down lines (via
+              Battersea Reversible)
+     SO110VIR Battersea Pier Jn – Linford Street Jn
+                                   0 70  1  45 Y   Y   Y   N   N  N   N
+     SO110AHG Linford Street Jn – Route Boundary
+                                   2 50  2  00 Y   Y   Y   N   N  N   N
+              (SW100) (Nine Elms Jn)
+     SO110
+         VIR  Linford Street Jn – Factory Jn
+                                   1 45  1  61 Y   Y   Y   N   N  N   N
+     SO110
+         FLL1 Factory Jn – Longhedge Jn
+                                   0 40  0  03 Y   Y   Y   N   N  N   N
+     SO110
+         VIR  Factory Jn – Shepherds Lane Jn
+                                   1 61  2  70 Y   Y   Y   N   N  N   N
+     SO110
+         VIR  Shepherds Lane Jn – Brixton Jn
+                                   2 70  3  08 Y   Y   Y   N   N  N   N
+     SO110
+         VIR  Brixton Jn – Herne Hill North Jn
+                                   3 08  3  70 Y   Y   Y   N   N  N   N
+     SO110
+         VIR  Herne Hill North Jn – Herne Hill South
+                                   3 70  4  06 Y   Y   Y   N   N  N   N
+              Jn
+     SO110HHT Herne Hill South Jn – Route Boundary
+                                   4 06  4  63 Y   Y   Y   N   N  N   N
+              Sussex (Tulse Hill)
+     SO110HHT Route Boundary Kent (Herne Hill
+                                   4 63  4  76 Y   Y   Y   N   N  N   N
+              South Jn) – Tulse Hill North Jn
 
 
 
 
-    December 2009                                   39
+     December 2009                                  37

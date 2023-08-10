@@ -5,58 +5,65 @@
 
 
 
-
-     Table D2A – Route clearance of electric multiple units
-                                                                                       Last Updated: 24/05/2021
-     To be read in conjunction with General Notes.
-
      Line of ELR
               Line of Route / Sector
-                                 oooo oooo oooo oooo 313 319 325 373 375 376 377 378 380 387 Notes
-     route    Description         M  Ch M  Ch 000 000 000 000 000 000 000 000 000 000 ooooooooooooooooooooooooooo
-     SO110VIR Victoria platforms 1-8 – Battersea Pier
-                                   0 00  0  70 N Y  H  N Y  Y  Y N  N  Y
-              Jn
-     SO110BSP1Battersea Pier Jn – Connection to
-                                   0 71  1  33 E Y  H  N N  N  Y Y  N  Y
-              Stewarts Lane Up and Down lines (via
-              Battersea Reversible)
-     SO110VIR Battersea Pier Jn – Linford Street Jn
-                                   0 70  1  45 N R1 H  N Y  Y  Y N  N  Y R115 mph over bridge No.11 Ramsgate line
-                                                    R2                     over Stewarts Lane Depot (01m 34ch)
-                                                                         R2Chatham Reversible only
-     SO110AHG Linford Street Jn – Route Boundary
-                                   2 50  2  00 N N  N  N N  N  N N  N  N
-              (SW100) (Nine Elms Jn)
-     SO110VIR Linford Street Jn – Factory Jn
-                                   1 45  1  61 N Y  H  N Y  Y  Y N  N  Y R1Chatham Reversible only
-                                                    R1
-     SO110FLL1Factory Jn – Longhedge Jn
-                                   0 40  0  03 N Y  Y  N N  N  Y Y  EH Y
-     SO110VIR Factory Jn – Shepherds Lane Jn
-                                   1 61  2  70 N Y  Y  N Y  Y  Y E  EH Y
-     SO110VIR Shepherds Lane Jn – Brixton Jn
-                                   2 70  3  08 N Y  Y  N Y  Y  Y E  EH Y
-     SO110VIR Brixton Jn – Herne Hill North Jn
-                                   3 08  3  70 N Y  Y  N Y  Y  Y E  N  Y
-     SO110VIR Herne Hill North Jn – Herne Hill South
-                                   3 70  4  06 N Y  Y  N Y  Y  Y E  N  Y
-              Jn
-     SO110HHT Herne Hill South Jn – Route Boundary
-                                   4 06  4  63 N Y  H  N N  N  Y E  N  Y
-              Sussex (Tulse Hill)
-     SO110HHT Route Boundary Kent (Herne Hill
-                                   4 63  4  76 N Y  H  N N  N  Y E  N  Y
-              South Jn) – Tulse Hill North Jn
-     SO110HHT Route Boundary Kent (Herne Hill
-                                   4 63  5  15 N Y  H  N N  N  Y E  N  Y
-              South Jn) – Tulse Hill Substation via
+                                  oo oo oo oo  170 171  172 220 221 Notes
+     route    Description         oo oo oo oo  00000000 000000000000 ooooooooooooooooooooooooooo
+                                  M  Ch M  Ch
+     SO645ATL Crofton Road Jn – Peckham Rye Jn
+                                   3 67  3  47  N   Y    N   N   N
+     SO650BBJ Balham Jn (SO500) – Leigham Jn
+                                   4 69  6  31  N   R1   N   Y   Y  R1 Prohibited Streatham Hill Depot Down Sidings
+                                                                       1, 2 and 3
+     SO650BBJ Leigham Jn – West Norwood Jn
+                                   6 31  6  58  N   Y    N   Y   Y
+     SO650BBJ West Norwood Jn – Crystal Palace
+                                   6 58  8  56  N   Y    N   Y   Y
               platforms 1 and 2
-     SO110VIR Herne Hill South Jn – Beckenham Jn
-                                   4 06  8  43 N Y  Y  N Y  Y  Y N  N  Y
-     SO110VIR Beckenham Jn – Shortlands Jn
-                                   8 43  9  57 N Y  Y  N Y  Y  Y N  N  Y
+     SO650SCP Crystal Palace platforms 3 - 6 –
+                                   7 52  6  49  N   Y    N   N   N
+              Sydenham Up Jn
+     SO650BBJ Crystal Palace platforms 1 and 2 –
+                                   8 56  9  36  N   Y    N   Y   Y
+              Bromley Up Jn
+     SO650BJN1Bromley Up Jn – Norwood North Jn
+                                   9 36  9  75  N   Y    N   Y   Y
+     SO650BBJ Bromley Up Jn – Bromley Down Jn
+                                   9 36  9  48  N   Y    N   Y   Y
+     SO650BJN2Bromley Down Jn – Norwood North Jn
+                                   9 48  9  75  N   Y    N   Y   Y
+     SO650BBJ Bromley Down Jn – Beckenham Jn
+                                   9 48  11 62  N   N    N   N   N
+     SO660PAT Purley (S0500) – Caterham
+                                  15 13  19 70  N   N    N   N   N
+     SO660TAT Purley (S0500) – Tattenham Corner
+                                  15 13  23 37  N   N    N   N   N
+     SO680BTH1South Bermondsey Jn (SO510) – Old
+                                   1 49  2  32  N   Y    N   N   N
+              Kent Road Jn
+     SO680BTH1Old Kent Road Jn – Peckham Rye Jn
+                                   2 32  3  47  N   Y    N   N   N
+     SO680BTH1Peckham Rye Jn – Tulse Hill North Jn
+                                   3 47  6  07  N   Y    N   N   N
+     SO680WTH Tulse Hill – West Norwood Jn
+                                   6 14  6  41  N   Y    N   Y   Y
+     SO680LTH Tulse Hill – Leigham Jn
+                                   6 20  6  40  N   Y    N   N   N
+     SO680BTH1Tulse Hill North Jn – Streatham Jn
+                                   6 07  7  57  N   Y    N   Y   Y
+     SO680SSC Streatham Jn – Streatham Common
+                                   7 57  8  10  N   Y    N   Y   Y
+              Jn
+     SO680BTH1Streatham Jn – Streatham South Jn
+                                   7 57  8  09  N   Y    N   N   N
+              (a)
+     SO680BTH1Streatham South Jn (a) – Streatham
+                                   8 09  8  12  N   Y    N   N   N
+              South Jn (b)
+     SO680BTH1Streatham South Jn (b) – Streatham
+                                   8 12  8  15  N   Y    N   N   N
+              South Jn (c)
 
 
 
-    December 2009                                   17
+     December 2009                                  16O

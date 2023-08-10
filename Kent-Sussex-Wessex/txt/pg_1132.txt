@@ -10,62 +10,58 @@
                                   oooo oooo oooo oooo RA
                                                   Loco Gauge
                                                            Notes
-     route    Description          M  Ch M  Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-     SO500VTB1Balham Jn – Streatham North Jn
-                                    4 69  6 14  8    Y
-     SO500SNS Streatham North Jn – Streatham
-                                    6 16  6 35  8    Y
-              South Jn via Reversible Fast Spur
-     SO500SLJ Streatham North Jn – Streatham
-                                    6 14  6 38  8    Y
-              South Jn via Slow Spurs
-     SO500VTB1Streatham North Jn – Selhurst Jn
-                                    6 14  9 43  8    Y
-     SO500WCS Selhurst Jn – Gloucester Road Jn
-                                    9 44  9 62  8    Y
-     SO500VTB1Selhurst Jn – Windmill Bridge Jn
-                                    9 43 10 12  8    Y
-     SO500VTB2Windmill Bridge Jn – South Croydon
-                                    9 69 11 29  8    Y
+     route    Description          M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+     SO280HHH Blackfriars – Blackfriars Jn
+                                    0 35  0 63  8    Y
+     SO280BMJ Blackfriars Jn – Metropolitan Jn
+                                    0 63  1 14  8    Y
+     SO280HHH Blackfriars Jn – Loughborough Jn
+                                    0 63  3 36  8    Y
+     SO280LTC Loughborough Jn – Cambria Jn
+                                    3 34  3 62  8    Y
+     SO280LOC Loughborough Jn – Canterbury Road
+                                    3 39  3 79  8    Y
               Jn
-     SO500VTB2South Croydon Jn – Stoats Nest Jn
-                                   11 29 14 20  8    Y
-     SO500RED1/ Stoats Nest Jn – Redhill
-                                   14 20 22 40  8    R1   R2Prohibited Redhill Down Post Office Siding
-          2
-     SO500RED1/ Redhill – Change of Mileage
-                                   22 40 23 00  8    Y
-          2   (Redhill/slow lines) Via Redhill
-     SO500VTB2Stoats Nest Jn – Change of Mileage
-                                   14 20 23 21  8    Y
-              (Quarry / fast lines)
-     SO500VTB3Change of Mileage (Quarry / fast lines)
-                                   21 15 29 21  8    R1   R2Prohibited Earlswood disused platform 4 (Down Fast line)
-              – Three Bridges
-     SO500VTB3Three Bridges – Copyhold Jn
-                                   29 21 36 73  8    Y
-     SO500CJA1Copyhold Jn – Change of Mileage
-                                   36 73 36 33  8    Y
-     SO500CJA2Change of Mileage – Ardingly Sidings
-                                    0 00  0 70  8    Y
-     SO500VTB3Copyhold Jn – Keymer Jn
-                                   36 73 40 69  8    Y
-     SO500VTB3Keymer Jn – Preston Park Jn
-                                   40 69 49 43  8    R1   R2Prohibited between Hassocks and Preston Park on the Down Main
+     SO280HHH Loughborough Jn – Herne Hill North
+                                    3 36  4 30  8    R1   R2Prohibited on the Up Holborn line
+              Jn
+     SO290NKL North Kent East Jn (SO130) –
+                                    4 25  7 35  6    N
+              Charlton Jn
+     SO290NKL Charlton Jn – Charlton7 35  7 44  8    N
+     SO290NKL Charlton – Slade Green Jn
+                                    7 44 15 36  8    R1   R3Prohibited between Charlton and Plumstead on the Down North Kent
+                                                     R2     line
+                                                          R4Prohibited between Charlton and Plumstead on the Up North Kent
                                                             line
-     SO500PPH Preston Park Jn – Hove Jn
-                                   49 21 50 44  8    Y
-     SO500VTB3Preston Park Jn – Brighton
-                                   49 43 50 49  8    Y
-     SO510LBW London Bridge platforms 10-15 –
-                                    0 00  2 12  8    y
-              Bricklayers Arms Jn
-     SO510LBW Bricklayers Arms Jn – New Cross
-                                    2 12  2 60  8    Y
-              Gate Up Jn
-     SO510ELL1New Cross Gate Up Jn – Network Rail
-                                    5 51  5 49  8    Y
-              Boundary / Up ELL
+     SO290NKL Slade Green Jn – Crayford Creek Jn
+                                   15 36 15 66  8    Y
+     SO290NKL Crayford Creek Jn – Crayford Spur ‘A’
+                                   15 66 16 42  8    Y
+              Jn
+     SO290NKL Crayford Spur ‘A’ Jn – Dartford Jn
+                                   16 42 16 75  8    Y
+     SO300BEX Lewisham Jn – Blackheath Jn
+                                    5 74  7 14  8    Y
+     SO300BTC Blackheath Jn – Charlton Jn
+                                    7 14  8 67  8    R1   R3Prohibited between Blackheath Jn and Angerstein Jn on the Down
+                                                     R2     North Kent line
+                                                          R4Prohibited between Blackheath Jn and Angerstein Jn on the Up
+                                                            North Kent line
+     SO300BEX Blackheath Jn – Perry Street Fork Jn
+                                    7 14 15 07  8    R1   R3Prohibited between Falconwood and Welling on the Down
+                                                     R2     Bexleyheath line
+                                                          R4Prohibited between Bexleyheath and Barnhurst on the Up
+                                                            Bexleyheath line
+     SO300PSF Perry Street Fork Jn – Slade Green Jn
+                                   15 07 15 31  8    Y
+     SO300BEX Perry Street Fork Jn – Crayford Creek
+                                   15 07 15 66  8    Y
+              Jn
+     SO310HDR Hither Green Jn (SO290) – Lee Loop
+                                    7 16  7 29  8    Y
+              Jn
+     SO310LEE Lee Loop Jn – Lee Spur Jn
+                                    0 00  0 29  8    Y
 
-
-    December 2009                                   179
+     December 2009                                  177

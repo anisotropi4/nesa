@@ -2,62 +2,79 @@
 
 
                                     Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
-
-
-
      Line of ELR
               Line of Route / Sector
                                   oo oo oo oo 313 319 325 373 375 376 377 378 380 387 Notes
      route    Description         oo oo oo oo 000 000 000 000 000 000 000 000 000 000 ooooooooooooooooooooooooooo
                                   M  Ch M  Ch
-     SO130XTD Chislehurst Jn – Petts Wood Jns
-                                  11 33  12 27 N R1 H  N Y  Y  Y N  N  Y R1Prohibited from Slow lines
-     SO130XTD Petts Wood Jns – Sevenoaks
-                                  12 27  21 74 N R1 Y  N Y  Y  Y N  N  Y R1Prohibited on Slow lines between Petts
-              Substation                                                   Wood Jns and Orpington
-     SO130XTD Sevenoaks Substation – Tonbridge
-                                  21 74  29 35 N E  Y  N Y  Y  Y N  N  Y R175mph maximum speed
-              West Jn                            R1
-     SO130XTD Tonbridge West Jn – Tonbridge East
-                                  29 35  29 55 N E  Y  N Y  Y  Y E  N  Y R175mph maximum speed
-              Jn                                 R1                      R2Prohibited Tonbridge platform 4
-                                                 R2
-     SO130XTD Tonbridge East Jn – Paddock Wood
-                                  29 55  34 67 N E  Y  N Y  Y  Y E  N  Y R175mph maximum speed
-                                                 R1
-     SO130XTD Paddock Wood – Ashford (Jn with
-                                  34 67  55 54 N E  Y  N Y  Y  Y E  EH Y R175mph maximum speed
-              Maidstone line)                    R1                 R2   R2Prohibited between Paddock Wood and
-                                                                           Chart Leacon Depot
-     SO130XTD Ashford (Jn with Maidstone line) –
-                                  55 54  56 09 N E  Y R4 Y  Y  Y E  EH Y R175mph maximum speed
-              Ashford Station                    R1                      R2Prohibited Ashford platform 1 (Up platform
-                                                 R2                        loop)
-                                                 R3                      R325mph Ashford platform 2 (Up Slow)
-                                                                         R4Permitted Down / Up West Chord and
-                                                                           Down / Up East Chords to CTRL interface,
-                                                                           via Ashford platforms 3, 4, 5 & 6
-     SO130XTD Ashford Station – Ashford (Jn with
-                                  56 09  56 20 N E  Y R4 Y  Y R5 E  N    R175mph maximum speed
-              Hastings line)                     R1                      R2Prohibited Ashford platform 1 (Up platform
-                                                 R2                        loop)
-                                                 R3                      R325mph Ashford platform 2 (Up Slow)
-                                                                         R4Permitted Down / Up West Chord and
-                                                                           Down / Up East Chords to CTRL interface,
-                                                                           via Ashford platforms 3, 4, 5 & 6
-                                                                         R5Class 377/1 and 377/5 only
-     SO130XTD Ashford (Jn with Hastings line) –
-                                  56 20  56 35 N N  N R1 Y  Y R2 E  N  N R1Permitted Down / Up West Chord and
-              Ashford (Jn with Canterbury Line)                            Down / Up East Chords to CTRL interface,
-                                                                           via Ashford platforms 3, 4, 5 & 6
-                                                                         R2Class 377/1 and 377/5 only
-     SO130XTD Ashford (Jn with Canterbury Line) –
-                                  56 35  66 38 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
-              Saltwood Jn
-     SO130XTD Saltwood Jn – Folkestone Central
-                                  66 38  69 73 N N  N R1 Y  Y R2 N  N  N R1Permitted Down / Up West Chord and
-                                                                           Down / Up East Chords to CTRL interface
-                                                                         R2Class 377/1 and 377/5 only
+     SO110VIR Shortlands Jn – Bickley Jn
+                                   9 57  12 38 N Y  Y  N Y  Y  Y N  EH Y
+     SO110TLP1Bickley Jn – Petts Wood (Fast
+                                  12 38  13 29 N Y  Y  N Y  Y  Y N  N  Y
+              Tonbridge Loop)
+     SO110TLP2Bickley Jn – Petts Wood (Slow
+                                  12 49  13 35 N Y  Y  N Y  Y  Y N  N  Y
+              Tonbridge Loop)
+     SO110CSM3Hawkwood Jn (Up Chatham Loop) –
+                                  11 66  12 30 N Y  H  N Y  Y  Y N  N  Y
+              St Mary Cray Jn
+     SO110VIR Bickley Jn – St Mary Cray Down Jn
+                                  12 38  12 79 N Y  Y  N Y  Y  Y N  EH Y
+     SO110VIR St Mary Cray Down Jn – St Mary Cray
+                                  12 79  13 17 N Y  Y  N Y  Y  Y N  EH Y
+              Up Jn
+     SO110
+         VIR  St Mary Cray Up Jn – Swanley Jn
+                                  13 17  17 46 N Y  Y  N Y  Y Y  N  EH Y
+     SO110
+         VIR  Swanley Jn – Fawkham Jn
+                                  17 46  22 49 N N  N  N Y  Y Y  N  N  Y
+     SO110
+         VIR  Fawkham Jn – CTRL   22 49   0 00 N N  N  N N  N N  N  N  N
+     SO110
+         VIR  Fawkham Jn – Rochester Bridge Jn
+                                  22 49  33 01 N N  N  N Y  Y Y  N  N  Y
+     SO110
+         VIR  Rochester Bridge Jn – Gillingham
+                                  33 01  35 75 N N  N  N Y  Y Y  N  N  Y
+     SO110
+         VIR  Gillingham – Western Jn
+                                  35 75  43 70 N N  N  N Y  Y R1 N  N  R3 R1
+                                                                           Prohibited between Gillingham SB and
+                                                              R2           Western Jn
+                                                                         R2Class 377/1 and 377/5 only Gillingham
+                                                                           SB – Western Jn
+                                                                         R3Prohibited between Chatham Dockyard
+                                                                           Jn and Western Jn
+     SO110
+         VIR  Western Jn – Eastern Jn
+                                  43 70  44 18 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+     SO110
+         VIR  Eastern Jn – Faversham Jn
+                                  44 18  52 13 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+     SO110
+         VIR  Faversham Jn – Ramsgate Station
+                                  52 13  79 21 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+     SO110
+         ACR  Ramsgate Station – Ramsgate
+                                  85 67  85 22 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+              Substation
+     SO130XTD Charing Cross – Metropolitan Jn
+                                   0 00  1  31 N Y  H  N Y  Y Y  N  N  Y
+     SO130CBM Cannon Street – Cannon Street
+                                   0 00  0  20 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+              Substation
+     SO130CSW Cannon Street Sub Station –
+                                   1 53  1  33 N Y  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+              Metropolitan Jn (via Metropolitan               R2         R2Prohibited between Cannon Street Sub
+              Reversible line)                                             Station and 1m46ch
+     SO130XTD Metropolitan Jn – Borough Market Jn
+                                   1 31  1  50 N Y  H  N Y  Y Y  N  N  Y
+     SO130CBM Cannon Street Substation – Borough
+                                   0 20  0  38 N N  N  N Y  Y R1 N  N  N R1Class 377/1 and 377/5 only
+              Market Jn
 
 
-    December 2009                                   20
+
+
+     December 2009                                  18

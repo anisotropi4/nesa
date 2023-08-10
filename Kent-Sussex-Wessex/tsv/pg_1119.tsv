@@ -1,18 +1,11 @@
 Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Kent-Sussex-Wessex	1119	SW155	Marchwood – Fawley (Goods Line)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW160	Brockenhurst – Lymington Pier	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW165	Hamworthy – Hamworthy Goods (Goods Line)	Y	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW170	Westbury – Wilton Jn	Y	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW175	Castle Cary – Dorchester Jn	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW175	Yeovil, Pen Mill Jn – Yeovil Junction	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW180	Raynes Park – Horsham	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW185	Motspur Park – Chessington South	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW190	New Malden Jn – Shepperton	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW195	Hampton Court Jn – Hampton Court	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW200	Hampton Court Jn – Guildford (via Cobham)	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW205	Leatherhead – Effingham Junction	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW210	Clapham Junction – Barnes Jn	Y *	Y	S1	S2	N	N	N	N	S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA FLA wagons 2590 (h) x 2500 (w) box on FCA wagons 2667 (h) x 2500 (w) box on FIA FKA wagons 2625 (h) x 2550 (w) S17 FT on FEA FSA/FTA wagons 2615 (h) x 2550 (w) S16 FT on KFA wagons S2 The following combinations are permitted, up to: 2770 (h) x 2550 (w) box on FIA IFA wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2553 (h) x 2500 (w) box on IFB wagons
-Kent-Sussex-Wessex	1119	SW210	Barnes Jn – Feltham Jn (via North Sheen)	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW210	Feltham Jn – Virginia Water	Y *	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW210	Virginia Water – Wokingham Jn	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1119	SW210	Wokingham Jn – Reading	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW110	Havant Jn – Portsmouth Harbour	Y *	R1	S1	N	N	N	N	N	R1 W7 Prohibited between Blackfriars Jn and Portsmouth Harbour S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA wagons 2675 (h) x 2550 (w) box on FKA IKA wagons 2595 (h) x 2550 (w) box on IFA FIA wagons between Portcreek Jn and Fratton Yard ONLY
+Kent-Sussex-Wessex	1119	SW115	Basingstoke, Worting Jn – Salisbury Tunnel Jn	Y *	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED Laverstock North Jn to Salisbury Tunnel Jn R2 PROHIBITED Andover Up yard and Branch
+Kent-Sussex-Wessex	1119	SW115	Salisbury Tunnel Jn – Wilton Jn	Y *	Y	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2896 (h) x 2500 (w) box on FAA FLA wagons 2590 (h) x 2500 (w) box on FCA wagons 2667 (h) x 2500 (w) box on FKA IFA wagons 2625 (h) x 2550 (w) box on FEA FSA/FTA wagons 2615 (h) x 2550 (w) box on KFA wagons 25mph, Down Line at Fisherton Tunnel [ 82m 37ch to 82m 57ch ]
+Kent-Sussex-Wessex	1119	SW115	Wilton Jn – Dinton	Y	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW115	Dinton – Exeter St Davids	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW115	Andover Jn – Ludgershall	Y	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW115	Laverstock Loop (SW150)	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1119	SW120	Pirbright Jn – Alton	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1119	SW125	Southcote Jn – Basingstoke	Y *	Y	Y	N	N	Y	N	N	
+Kent-Sussex-Wessex	1119	SW130	Eastleigh – Romsey	Y	Y	Y	Y	Y	Y	Y	Y	

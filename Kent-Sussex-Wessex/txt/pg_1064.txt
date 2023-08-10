@@ -4,78 +4,65 @@
                                     Kent / Sussex / Wessex Routes Sectional Appendix Module KSWRC
 
 
-
      Line of ELR
              Line of Route / Sector
                                  oooo oooo oooo oooo 313
-                                                  319 325 377 378380 387 Notes
-     route   Description          M  Ch M  Ch 0000 0000 0000 0000
-                                                             0000 0000
+                                                  319 325 377 378380 387
+     route   Description          M  Ch M  Ch 000000000000
+                                                         0000000000000000
 
-             Change of ELR – Fareham
-     SW140 SDP2                   84 10 84 21  Y   Y  H   Y   N   N  R1R1 Operation only permitted subject to
-                                                                          prior agreement of the Wessex E&P
-                                                                          RAM
-             Fareham – Quay Viaduct
-     SW140 SDP2                   84 21 84 77  Y   Y  H   Y   N   N  R1R1 Operation only permitted subject to
-                                                                          prior agreement of the Wessex E&P
-                                                                          RAM
-             Quay Viaduct – Cosham
-     SW140 SDP2                   84 77 90 06  Y   Y  H   Y   N   N  R1R1 Operation only permitted subject to
-                                                                          prior agreement of the Wessex E&P
-                                                                          RAM
-             Cosham – Cosham Jn
-     SW140 SDP2                   90 06 90 43  N   Y  H   Y   N   N  R1R1 Operation only permitted subject to
-                                                                          prior agreement of the Wessex E&P
-                                                                          RAM
-             Cosham Jn – Portcreek Jn
-     SW140 SDP2                   90 43 91 01  N   N  N   Y   N   N  R1R1 Operation only permitted subject to
-                                                                          prior agreement of the Wessex E&P
-                                                                          RAM
-             Cosham Jn – Farlington Jn
-     SW140 FJJ                    90 43 91 14  N   N  N   Y   N   N  R1R1 Operation only permitted subject to
-                                                                          prior agreement of the Wessex E&P
-                                                                          RAM
-             Northam Jn – Canute Road LC
-     SW145 SOY                    78 15 79 02  N   N  N   N   N   N  N
-             (AOCL) (Eastern Docks)
-     SW150
-         RTJ1Redbridge Jn – Romsey Jn
-                                  23 32  1816  N   N  N   N   N   N  N
-     SW150
-         RTJ2Romsey Jn – Salisbury Tunnel Jn
-                                  80 35  9605  N   N  N   N   N   N  N
-     SW155
-         TTF Totton – Marchwood   82 43  8610  N   N  N   N   N   N  N
-     SW155
-         TTF Marchwood – Fawley GF86 10  9142  N   N  N   N   N   N  N
-     SW160
-         BLP Brockenhurst – Lymington Pier
-                                  92 66  9815  N   N  N   N   N   N  N
-     SW165
-         HAG Hamworthy – Hamworthy Goods
-                                 115 77 11805  N   N  N   N   N   N  N
-             (Stop board)
-             Wilton Jn – Route Boundary Western
-     SW170 SAL                   132 33 11540  N   N  N   N   N   N  N
-             (GW5001) (Westbury South Jn)
-     SW175 WEY
-             Route Boundary (GW500) (Castle
-                                 130 00 14135  N   N  N   N   N   N  N
-             Cary Jn) – Yeovil Pen Mill Jn
-             Yeovil Pen Mill Jn – Yeovil Jn
-     SW175 YJP                     1 42  0 00  N   N  N   N   N   N  N
-             Raynes Park – Epsom (Change of
-     SW180 RPE                     8 51 14 18  N   Y  H   N   N   N  N
-             ELR)
-             Route Boundary Sussex (Ewell
-     SW180 BTH2                   17 33 18 73  N   Y  H   Y   N   N  Y
-             East) – Epsom [Duplicated in SO680]
-             Epsom (Change of ELR) –
-     SW180 BTH3                   14 27 18 02  N   Y  H   Y   N   N  Y
-             Leatherhead [Duplicated in SO680]
+             Woking Jn – Guilford
+     SW110 WPH1                   24 62 30 27  N   Y  H   R1  N   N  R7  R1Prohibited between Woking Junction
+                                                          R2               and 29m 43ch (Guildford)
+                                                          R3             R2Class 377/1-377/5 permitted between
+                                                          R4               Guilford platforms 1, 2 and 3 and
+                                                          R5               SW200 (towards Effingham Jn)
+                                                          R6             R3Prohibited Guildford Down Main
+                                                                           platform 4
+                                                                         R4Prohibited Guildford Up Main platform 5
+                                                                         R5Prohibited Guildford Up Ash platforms
+                                                                           6 and 7
+                                                                         R6Prohibited Guildford Down Ash platform
+                                                                           8
+                                                                         R7Prohibited Guildford platforms 4-8
+             Guilford – Shalford Jn
+     SW110 WPH1                   30 27 31 42  N   Y  H   R1  N   N  R2  R1Route prohibited to Class 377/1 –
+                                                                           377/5
+                                                                         R2Prohibited Guildford platforms 4-8
+             Shalford Jn – Haslemere
+     SW110 WPH1                   31 42 42 79  N   Y  H   R1  N   N   Y  R1Route prohibited to Class 377/1 –
+                                                                           377/5
+             Haslemere – Havant Jn
+     SW110 WPH1                   42 79 66 17  N   N  N   R1  N   N   Y  R1Route prohibited to Class 377/1 –
+                                                                           377/5
+     SW110 TBH2
+             Route Boundary (Sussex SO250)
+                                  35 35 37 25  Y   N  N   Y   N   N   Y
+             (Barnham) – Havant Jn [Duplicated
+             on SO520]
+             Havant Jn – Farlington Jn [Duplicated
+     SW110 WPH2                   37 24 40 33  Y   N  N   Y   N   N  R1  R1Operation only permitted subject to
+             on SO520]                                                     prior agreement of the Wessex E&P
+                                                                           RAM
+             Farlington Jn – Portcreek Jn
+     SW110 WPH2                   40 33 41 03  Y   N  N   Y   N   N  R1  R1Operation only permitted subject to
+             [Duplicated on SO520]                                         prior agreement of the Wessex E&P
+                                                                           RAM
+             Portcreek Jn – Blackfriars Jn
+     SW110 WPH2                   41 03 44 50  Y   N  N   Y   N   N  R1  R1Operation only permitted subject to
+             [Duplicated on SO520]                                         prior agreement of the Wessex E&P
+                                                                           RAM
+             Blackfriars Jn – Portsmouth and
+     SW110 PAS                    44 26 44 50  Y   N  N   R1  N   N   N  R1Route prohibited to Class 377/6 –
+             Southsea Low Level [Duplicated on                             377/7
+             SO520]
+             Blackfriars Jn – Portsmouth and
+     SW110 WPH2                   44 26 44 50  Y   N  N   R1  N   N  R2  R1Classes 377/6 – 377/7 prohibited
+             Southsea High Level [Duplicated on                            Portsmouth and Southsea Low Level
+             SO520]                                                        platforms
+                                                                         R2Operation only permitted subject to
+                                                                           prior agreement of the Wessex E&P
+                                                                           RAM
 
 
-
-
-    December 2009                                   111
+     December 2009                                  109

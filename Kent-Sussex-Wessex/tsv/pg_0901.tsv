@@ -1,18 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	171	172	220	221	Notes
-Kent-Sussex-Wessex	0901	SO510	LBW	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	ELL1	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	LBW	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	ELL1	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	LBW	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	LBW	Sydenham Down Jn – Norwood Jn	6	51	8	55	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	LBW	Norwood Jn – Norwood Fork Jn	8	55	9	33	N	Y	N	Y	Y	
-Kent-Sussex-Wessex	0901	SO510	LBW	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	N	Y	N	Y	Y	
-Kent-Sussex-Wessex	0901	SO510	NFE	Norwood Fork Jn – Sutton	9	33	14	75	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO510	NFE	Sutton – Epsom Downs	14	75	18	60	N	N	N	N	N	
-Kent-Sussex-Wessex	0901	SO520	TBH1	Three Bridges – Crawley	29	21	30	49	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO520	TBH1	Crawley – Horsham Jn	30	49	37	39	N	Y	N	N	N	
-Kent-Sussex-Wessex	0901	SO520	TBH1	Horsham Jn – Horsham	37	39	37	56	N	R1 R2	N	N	N	R1 5mph Horsham Down Loop platform 4 R2 15mph Horsham Up Main platform 2
-Kent-Sussex-Wessex	0901	SO520	TBH1	Horsham – Billingshurst	37	56	44	71	N	R1 R2 R3	N	N	N	R1 5mph Horsham Down Loop platform 4 R2 15mph Horsham Up Main platform 2 R3 15mph Billingshurst Down platform
-Kent-Sussex-Wessex	0901	SO520	TBH1	Billingshurst – Arundel Jn	44	71	59	75	N	R1 R2	N	N	N	R1 15mph Billingshurst Down platform R2 20mph Pulborough Up platform
-Kent-Sussex-Wessex	0901	SO520	TBH2	Arundel Jn – Barnham	19	01	22	29	Y	R1	N	N	N	R1 5mph Ford Down platform
-Kent-Sussex-Wessex	0901	SO520	TBH2	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	Y	Y	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	NCS	Courthill Loop North Jn – Courthill Loop South Jn	6	21	6	43	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	LCH	Courthill Loop North Jn – Ladywell Jn	6	21	6	41	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	LCH	Ladywell Jn – New Beckenham Jn	6	41	9	51	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	NBB	New Beckenham Jn – Beckenham Jn	9	51	10	04	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO330	LCH	New Beckenham Jn – Hayes	9	51	14	32	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO350	BNG	Grove Park (SO130) – Bromley North	8	87	10	47	N	N	N	N	N	
+Kent-Sussex-Wessex	0901	SO500	VTB1	Victoria platforms 9-19 – Battersea Pier Jn	0	00	0	71	N	Y	N	N	N	
+Kent-Sussex-Wessex	0901	SO500	VTB1	Battersea Pier Jn – Battersea Park Jn	0	71	1	13	N	Y	N	N	N	
+Kent-Sussex-Wessex	0901	SO500	VTB1	Battersea Park Jn – Pouparts Jn	1	13	2	03	N	Y	N	N	N	

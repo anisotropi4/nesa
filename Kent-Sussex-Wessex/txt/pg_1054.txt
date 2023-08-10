@@ -5,64 +5,58 @@
 
 
 
+
+     Table D1B – Route clearance of diesel multiple units
+                                                                                       Last Updated: 01/02/2020
+     To be read in conjunction with General Notes.
+
      Line of ELR
               Line of Route / Sector
                                  oooo oooo oooo oooo 166
-                                                  170 171 172180 220 221 Notes
+                                                  170 171172 180 220 221 Notes
      route    Description         M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-              Worgret Jn – Dorchester Jn
-     SW105 BML2                   12177 136 15 N   E   N  N   N   Y  Y  R1Prohibited with footsteps fitted and deflated
-                                                   R1                     suspension
-              Dorchester Jn – Weymouth
-     SW105 BML3                   16214 168 63 N   E   N  N   N   Y  Y  R1Prohibited with footsteps fitted and deflated
-                                                   R1                     suspension
-              Woking Jn – Guilford
-     SW110 WPH1                   24 62  30 27 R1  N   N  N   N   Y  Y  R110mph through Worplesdon
-                                               R2                       R2Prohibited Guildford platform 1
-              Guilford – Shalford Jn
-     SW110 WPH1                   30 27  31 42 Y   N   N  N   N   Y  Y
-              Shalford Jn – Haslemere
-     SW110 WPH1                   31 42  42 79 N   N   N  N   N   Y  Y
-              Haslemere – Havant Jn
-     SW110 WPH1                   42 79  66 17 N   N   N  N   N   Y  Y
-     SW110 TBH2
-              Route Boundary (Sussex SO250)
-                                  35 35  37 25 Y   Y   Y  N   N   N  N
-              (Barnham) – Havant Jn [Duplicated on
-              SO520]
-              Havant Jn – Farlington Jn [Duplicated
-     SW110 WPH2                   37 24  40 33 Y   Y   Y  N   N   Y  Y
-              on SO520]
-              Farlington Jn – Portcreek Jn
-     SW110 WPH2                   40 33  41 03 Y   Y   Y  N   N   Y  Y
-              [Duplicated on SO520]
-              Portcreek Jn – Blackfriars Jn
-     SW110 WPH2                   41 03  44 50 Y   Y   Y  N   N   Y  Y
-              [Duplicated on SO520]
-     SW110 PASBlackfriars Jn – Portsmouth and
-                                  44 26  44 50 N   Y   Y  N   N   Y  Y
-              Southsea Low Level [Duplicated on
-              SO520]
-              Blackfriars Jn – Portsmouth and
-     SW110 WPH2                   44 26  44 50 R1  Y   Y  N   N   Y  Y  R1 Prohibited Portsmouth & Southsea platform 1
-              Southsea High Level [Duplicated on
-                                               R2                          Up Main Fast line with air bags deflated / failed
-              SO520]                                                       secondary suspension
-                                                                        R2 Prohibited Portsmouth Harbour platforms 3 & 5
-     SW110 WPH2
-              Portsmouth and Southsea High Level
-                                  44 50  45 36 R1  Y   Y  N   N   Y  Y  R1 Prohibited Portsmouth & Southsea platform 1
-              – Portsmouth Harbour             R2                          Up Main Fast line with air bags deflated / failed
-              * platforms 4 and 5 RA7                                      secondary suspension
-              * platforms 1 and 3 RA4                                   R2 Prohibited Portsmouth Harbour platforms 3 & 5
-              [Duplicated on SO520]
-              Worting Jn – Connection to
-     SW115 BAE1                   51 15  66 27 N   Y   N  N   N   Y  Y
-              Ludgershall Branch line
-              Connection to main Up line (BAE1) –
-     SW115 LUD1                   66 27  67 61 N   N   N  N   N   N  N
-              Red Post Jn
-              Red Post Jn – Ludgershall
-     SW115 LUD2                    0 00  5  64 N   N   N  N   N   N  N
+     SW100 JATWaterloo platforms 20-24 –
+                                  00 00  0  38 N   N   N  N   N   N  N
+              International Jn
+              Waterloo platforms 12-19 –
+     SW100 RDG1                    0 00  0  38 N   Y   N  N   N   N  N
+              International Jn (Windsor lines)
+              International Jn – Carlisle Lane Jn
+     SW100 RDG1                    0 38  0  42 N   Y   N  N   N   N  N
+              (Windsor lines)
+              Carlisle Lane Jn – Nine Elms Jn
+     SW100 RDG1                    0 42  2  00 N   Y   N  N   N   N  N
+              (Windsor lines)
+              Waterloo platforms 1-11 –
+     SW100 BML1                    0 00  0  38 N   R1  N  N   N   N  N  R1Prohibited Waterloo platforms 1, 2, 3
+              International Jn (Main lines)                               and 4
+              International Jn – Carlisle Lane Jn
+     SW100 BML1                    0 38  0  42 N   Y   N  N   N   N  N
+              (Main lines)
+              Carlisle Lane Jn – Nine Elms Jn (Main
+     SW100 BML1                    0 42  2  00 N   Y   N  N   N   N  N
+              lines)
+     SW100 AHGNine Elms Jn – Route Boundary (Kent
+                                   2 00  2  44 N   N   N  N   N   N  N
+              SO110) (Lindford Street Jn)
+              Nine Elms Jn – West London Jn
+     SW100 RDG1                    2 00  3  17 N   Y   N  N   N   N  N
+              (Windsor lines)
+              Nine Elms Jn – Crossovers at
+     SW100 BML1                    2 00  2  65 N   Y   N  N   N   N  N
+              2m 65ch (Main lines)
+              Crossovers at 2m 65 – West London
+     SW100 BML1                    2 65  3  17 N   Y   N  N   N   N  N
+              Jn (Main lines)
+     SW100 SCCWest London Jn – Route Boundary
+                                   3 17  3  30 N   N   N  N   N   N  N
+              (Sussex SO250) (Lathmere Jn No.3)
+              West London Jn – Ludgate Jn
+     SW100 RDG1                    3 17  3  57 N   Y   N  N   N   N  N
+              (Windsor lines)
+              West London Jn – Ludgate Jn (Main
+     SW100 BML1                    3 17  3  57 N   Y   N  N   N   N  N
+              lines)
 
-    December 2009                                   101
+
+     December 2009                                  99

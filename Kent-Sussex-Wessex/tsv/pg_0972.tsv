@@ -1,19 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
-Kent-Sussex-Wessex	0972	SO240	BME2	Sandwich – Minster South	86	46	82	21	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	8	Y	Y	N	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0972	SO250	WLL	Northbound AC/DC changeover – Southbound AC/DC changeover	5	16	5	43	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	London Bridge platforms 1-9– North Kent East Jn	1	69	4	25	8 R1	R2	R2	N	R2	R2	R2	R2	R1 RA4 Down and Reversible lines (04m 14ch to 04m 18ch) RA8 = All other lines NC/G1/2010/ICP-RA/SO001V1 until 01 March 2021 R2 15mph only Down and Reversible lines (04m 14ch to 04m 18ch) NC/G1/2010/ICP-RA/SO001V1 until 01 March 2021
+Kent-Sussex-Wessex	0972	SO130	XTD	North Kent East Jn – Tanners Hill Jn	4	25	5	29	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	CSM1	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	CSM3	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0972	SO130	XTD	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	8	Y	Y	N	Y	Y	Y	Y	

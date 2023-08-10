@@ -1,25 +1,28 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-Kent-Sussex-Wessex	1002	SO500	VTB3	Keymer Jn – Preston Park Jn	40	69	49	43	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO500	PPH	Preston Park Jn – Hove Jn	49	21	50	44	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO500	VTB3	Preston Park Jn – Brighton	49	43	50	49	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	ELL1	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	ELL1	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	Sydenham Down Jn – Norwood Jn	6	51	8	55	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	Norwood Jn – Norwood Fork Jn	8	55	9	33	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	LBW	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	NFE	Norwood Fork Jn – Sutton	9	33	14	75	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO510	NFE	Sutton – Epsom Downs	14	75	18	60	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH1	Three Bridges – Crawley	29	21	30	49	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH1	Crawley – Horsham Jn	30	49	37	39	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH1	Horsham Jn – Horsham	37	39	37	56	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH1	Horsham – Billingshurst	37	56	44	71	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH1	Billingshurst – Arundel Jn	44	71	59	75	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH2	Arundel Jn – Barnham	19	01	22	29	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH2	Barnham – Route Boundary (SW110) (Havant Jn)	22	29	35	35	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	TBH2	Route Boundary Sussex (Barnham) – Havant Jn [Duplicated on SW110]	35	35	37	24	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	WPH2	Havant Jn – Farlington Jn [Duplicated on SW110]	37	24	40	33	8	N	N	Y	N	N	N	
-Kent-Sussex-Wessex	1002	SO520	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SW110]	40	33	41	03	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	6	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1002	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO290	NKL	Charlton – Slade Green Jn	7	44	15	36	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	15	66	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Hoo Jn – Strood Jn	27	19	31	16	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	HDR	Strood Jn – Rochester Bridge Jn	31	16	31	34	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO310	PWS2	Strood Jn – Maidstone West Change of Mileage	31	16	42	41	8	N	N	R1 R2	N	N	N	R1 Prohibited Strood - Halling on the Up R2 Prohibited Halling - Snodland on the Down
+Kent-Sussex-Wessex	1002	SO320	HTG	Hoo Jn – Grain LC and Sidings beyond	27	19	38	22	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO330	NTL	Nunhead Jn (SO260) – Lewisham Jn	6	09	6	21	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO330	LVT	Tanners Hill Jn (SO130) – Lewisham Jn	5	29	5	55	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO330	BEX	St Johns Jn (SO130) – Lewisham Jn	5	54	5	74	8	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	1002	SO330	LCH	Lewisham Jn – Courthill Loop North Jn	5	74	6	21	8	N	N	Y	N	N	N	

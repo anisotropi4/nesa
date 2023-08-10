@@ -12,47 +12,54 @@
                                                                    56 57 Notes
      route    Description         M  Ch M  Ch 0000  0000 0000 0000 0000 0000
                                                                       0000 ooooooooooooooooooooooooooo
-              Old Kew Jn – Route Boundary
-     SW230 BOK5                    3 69  3  61 8  Y  Y  N  Y  Y  Y  Y  Y
-              (EA1330) (Kew East Jn)
-     SW230 HOUOld Kew Jn – Hounslow Jn
-                                  10 01  14 09 8  Y  Y R1  Y  Y  Y  Y  Y R15mph Isleworth Down platform
-     SW230 HJWHounslow Jn – Whitton Jn
-                                  14 09  14 39 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW230 HOUHounslow Jn – Feltham Jn
-                                  14 09  14 38 8  Y  Y  Y  Y  Y  Y  Y  Y
-     SW245 TSJJn (Twickenham) – Strawberry Hill Jn
-                                  11 48  12 27 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW245 SHFStrawberry Hill Jn – Fulwell Jn
-                                  12 27  12 56 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW245 TSJStrawberry Hill Jn – Shacklegate Jn
-                                  12 27  12 58 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW250 SWEStaines – Windsor and Eton Riverside
-                                  19 02  25 48 4 R1 R1  N R1 R1 R1 R1 R1 R120 mph over bridge 3/62 (25m 48ch)
-                                                                           High Street (Staines)
-                                                                           STNC/G1/2010/ICP-RA/SO021a until
-                                                                           31 March 2024
-     SW255 VWWVirginia Water Jn – Addlestone Jn
-                                  24 73  19 74 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW255 AJBAddlestone Jn – Byfleet Jn
-                                   0 00  0  67 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW255 VWWAddlestone Jn – Weybridge
-                                  19 74  19 12 8  Y  Y  N  Y  Y  Y  Y  Y
-     SW260 AAVAscot – Ash Vale Jn 28 79  40 57 8  Y  Y  N  Y  Y  Y  Y  Y
-              Guilford – Change of ELR
-     SW265 GTW1                   30 27  35 50 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Change of ELR – Aldershot South Jn
-     SW265 GTW2                   48 34  50 01 8  Y  Y  Y  Y  Y  Y  Y  Y
-     SW265 NSAAldershot South Jn – Aldershot North
-                                  50 01  50 43 8  Y  Y  N  Y  Y  Y  Y  Y
-              Jn
-              Aldershot South Jn – Wokingham Jn
-     SW265 GTW2                   50 01  61 74 8  Y  Y  Y  Y  Y  Y  Y  Y
-     SW300 RSJRoute Boundary (Sussex SO560)
-                                  33 10  41 62 8  Y  Y  N  Y  Y  Y  Y  Y
-              (Redhill) – Shalford Jn
+     SW175 YJPYeovil Pen Mill Jn – Yeovil Jn
+                                   1 42  0  00 6  N  N  Y  Y  Y  Y  Y  Y
+     SW175 WEYYeovil Pen Mill Jn – Dorchester Jn
+                                  14135 162 14 6 R1 R1 R1 R1 R1 R1 R1 R1 R140mph maximum speed
+     SW180 RPERaynes Park – Epsom (Change of
+                                   8 51  14 18 8  Y  Y  N  Y  Y  Y  Y  Y
+              ELR)
+     SW180 BTH2
+              Route Boundary Sussex (Ewell
+                                  17 33  18 73 8  Y  Y  N  Y  Y  Y  Y  Y
+              East) – Epsom [Duplicated in SO680]
+              Epsom (Change of ELR) –
+     SW180 BTH3                   14 27  18 02 8  Y  Y  N  Y  Y  Y  Y  Y
+              Leatherhead [Duplicated in SO680]
+              Leatherhead – Route Boundary
+     SW180 BTH3                   18 02  21 09 8  Y  Y  N  Y  Y  Y  Y  Y
+              Sussex (Horsham) [Duplicated in
+              SW180]
+     SW180 BTH3
+              Route Boundary Sussex
+                                  21 09  35 34 8 R1 R1  N R1 R1 R1 R1 R1 R115 mph over bridge 3/319 (22m 15ch)
+              (Leatherhead) – Horsham jn (SO520)
+              [Duplicated in SO680]
+     SW185 MPCMotspur Park – Chessington South
+                                   9 57  13 73 8  Y  Y  N  Y  Y  Y  Y  Y
+              New Malden – Fulwell Jn
+     SW190 NMS1                    9 62  14 53 8  Y  Y  N  Y  Y  Y  Y  Y
+              Fulwell Jn – Shepperton
+     SW190 NMS2                   12 56  18 73 8  Y  Y  N  Y  Y  Y  Y  Y
+     SW195 HAMHampton Court Jn – Hampton Court
+                                  13 27  14 76 4 R1 R1  N R1 R1 R1 R1 R1 R110 mph over bridge 14/2 (13m 45ch)
+              Up line
+     SW195 HAMHampton Court Jn – Hampton Court
+                                  13 27  14 76 8  Y  Y  N  Y  Y  Y  Y  Y
+              Down line
+     SW200 NGLHampton Court Jn – Effingham Jn
+                                  13 27  21 04 8 R1 R1  N R1 R1 R1 R1 R1 R115mph over bridge 10 (16m 51ch)
+                                                                           between Claygate and Oxshott.
+     SW200 NGLEffingham Jn – Guilford
+                                  21 04  29 70 8  Y  Y  N  Y  Y  Y  Y  Y
+     SW205 LEJLeatherhead – Effingham Jn
+                                  18 02  22 15 8  Y  Y  N  Y  Y  Y  Y  Y
+              Clapham Jn – Point Pleasant Jn
+     SW210 RDG1                    3 74  5  09 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Point Pleasant Jn – Richmond
+     SW210 RDG1                    5 09  9  57 8  Y  Y  Y  Y  Y  Y  Y  Y
 
 
 
 
-    December 2009                                   145
+     December 2009                                  143

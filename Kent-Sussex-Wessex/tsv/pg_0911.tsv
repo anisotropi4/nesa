@@ -1,20 +1,12 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0911	SO230	FFH2	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0911	SO240	BME2	Buckland Jn – Sandwich	99	05	86	46	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0911	SO240	BME2	Sandwich – Minster South	86	46	82	21	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0911	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0911	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
-Kent-Sussex-Wessex	0911	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	E	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0911	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	E	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0911	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	Y	H	N	Y	Y	Y	N	N	Y	
-Kent-Sussex-Wessex	0911	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	E	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0911	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	E	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0911	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	N	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0911	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	N	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0911	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	E	Y	Y	N	N	N	Y	Y	EH	Y	
-Kent-Sussex-Wessex	0911	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0911	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	E	Y	Y	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0911	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	Y	Y	Y	N	N	N	Y	Y	EH	Y	
-Kent-Sussex-Wessex	0911	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	Y	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0911	SO250	WLL	Latchmere Jn No.2 – Kensington Olympia [Duplicated in SW220]	0	71	3	42	Y	Y	Y	N	N	N	Y	Y	EH	Y	
-Kent-Sussex-Wessex	0911	SO250	WLL	Kensington Olympia – Northbound AC/DC changeover	3	42	5	16	Y	Y	Y	N	N	N	Y	Y	EH	Y	
+Kent-Sussex-Wessex	0911	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	N	R1	H	N	Y	Y	Y	N	N	Y	R1 Prohibited from Slow lines
+Kent-Sussex-Wessex	0911	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	N	R1	Y	N	Y	Y	Y	N	N	Y	R1 Prohibited on Slow lines between Petts Wood Jns and Orpington
+Kent-Sussex-Wessex	0911	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	N	E R1	Y	N	Y	Y	Y	N	N	Y	R1 75mph maximum speed
+Kent-Sussex-Wessex	0911	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	N	E R1 R2	Y	N	Y	Y	Y	E	N	Y	R1 75mph maximum speed R2 Prohibited Tonbridge platform 4
+Kent-Sussex-Wessex	0911	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	N	E R1	Y	N	Y	Y	Y	E	N	Y	R1 75mph maximum speed
+Kent-Sussex-Wessex	0911	SO130	XTD	Paddock Wood – Ashford (Jn with Maidstone line)	34	67	55	54	N	E R1	Y	N	Y	Y	Y	E	EH R2	Y	R1 75mph maximum speed R2 Prohibited between Paddock Wood and Chart Leacon Depot
+Kent-Sussex-Wessex	0911	SO130	XTD	Ashford (Jn with Maidstone line) – Ashford Station	55	54	56	09	N	E R1 R2 R3	Y	R4	Y	Y	Y	E	EH	Y	R1 75mph maximum speed R2 Prohibited Ashford platform 1 (Up platform loop) R3 25mph Ashford platform 2 (Up Slow) R4 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6
+Kent-Sussex-Wessex	0911	SO130	XTD	Ashford Station – Ashford (Jn with Hastings line)	56	09	56	20	N	E R1 R2 R3	Y	R4	Y	Y	R5	E	N		R1 75mph maximum speed R2 Prohibited Ashford platform 1 (Up platform loop) R3 25mph Ashford platform 2 (Up Slow) R4 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6 R5 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0911	SO130	XTD	Ashford (Jn with Hastings line) – Ashford (Jn with Canterbury Line)	56	20	56	35	N	N	N	R1	Y	Y	R2	E	N	N	R1 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface, via Ashford platforms 3, 4, 5 & 6 R2 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0911	SO130	XTD	Ashford (Jn with Canterbury Line) – Saltwood Jn	56	35	66	38	N	N	N	N	Y	Y	R1	N	N	N	R1 Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0911	SO130	XTD	Saltwood Jn – Folkestone Central	66	38	69	73	N	N	N	R1	Y	Y	R2	N	N	N	R1 Permitted Down / Up West Chord and Down / Up East Chords to CTRL interface R2 Class 377/1 and 377/5 only

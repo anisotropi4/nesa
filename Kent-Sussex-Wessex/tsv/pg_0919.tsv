@@ -1,22 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
-Kent-Sussex-Wessex	0919	SO660	PAT	Purley (S0500) – Caterham	15	13	19	70	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO660	TAT	Purley (S0500) – Tattenham Corner	15	13	23	37	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	South Bermondsey Jn (SO510) – Old Kent Road Jn	1	49	2	32	N	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Old Kent Road Jn – Peckham Rye Jn	2	32	3	47	N	Y	H	N	N	N	Y	Y	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Peckham Rye Jn – Tulse Hill North Jn	3	47	6	07	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	WTH	Tulse Hill – West Norwood Jn	6	14	6	41	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0919	SO680	LTH	Tulse Hill – Leigham Jn	6	20	6	40	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Tulse Hill North Jn – Streatham Jn	6	07	7	57	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0919	SO680	SSC	Streatham Jn – Streatham Common Jn	7	57	8	10	N	Y	H	N	N	N	Y	E	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Streatham Jn – Streatham South Jn (a)	7	57	8	09	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Streatham South Jn (a) – Streatham South Jn (b)	8	09	8	12	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Streatham South Jn (b) – Streatham South Jn (c)	8	12	8	15	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH1	Streatham South Jn (c) – Change of Mileage	8	15	13	45	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH2	Change of Mileage – Route Boundary Wessex (Epsom)	14	66	17	33	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH2	Route Boundary Sussex (Ewell East) – Epsom (Change of ELR) [Duplicated in SW180]	17	33	18	73	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH3	Epsom (Change of ELR) – Leatherhead [Duplicated in SW180]	14	27	18	02	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH3	Leatherhead–Route Boundary Sussex (Horsham) [Duplicated in SW180]	18	02	21	09	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO680	BTH3	Route Boundary Sussex (Leatherhead) – Horsham jn [Duplicated in SW180]	21	09	35	34	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO700	SMS1	Streatham South Jn (c) – Wimbledon platforms 9 and 10	0	00	3	07	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO700	SMS2	Wimbledon platforms 9 and 10 – Wimbledon West Jn	7	21	7	51	N	Y	H	N	N	N	Y	N	N	Y	
-Kent-Sussex-Wessex	0919	SO700	SMS2	Wimbledon West Jn – Sutton	7	51	12	50	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO520	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SW110]	44	26	44	50	Y	N	N	N	N	N	R1	N	N	N	R1 Route prohibited to Classes 377/6 and 377/7
+Kent-Sussex-Wessex	0919	SO520	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour *platforms 4 and 5 RA7 *platforms 1 and 3 RA4 [Duplicated on SW110]	44	50	45	36	Y	N	N	N	N	N	Y	N	N	N	
+Kent-Sussex-Wessex	0919	SO530	SCU1	South Croydon Jn (SO600) – Sanderstead	11	29	12	23	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO530	SCU1	Sanderstead – Hurst Green Jn	12	23	21	35	N	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO530	HGG1	Hurst Green Jn – End of Line beyond East Grinstead	21	35	30	12	N	N	N	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO540	SCU1	Hurst Green Jn – Uckfield	21	35	46	08	N	N	N	N	N	N	EH R1	N	N	N	R1 Route prohibited to Classes 377/6 and 377/7
+Kent-Sussex-Wessex	0919	SO550	RTT	Redhill (SO500) – Tonbridge	22	40	42	16	N	Y	H R1	N	Y	Y	Y	E	N	Y	R1 OPPOS applies between through Bletchingley tunnel and Penshurst tunnel
+Kent-Sussex-Wessex	0919	SO560	RSJ	Redhill – Reigate	22	40	24	27	N	Y	H	N	N	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO560	RSJ	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0919	SO590	KJE1	Keymer Jn – Lewes	40	69	49	74	Y	Y	H	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO590	KJE1/2	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO590	KJE3	Southerham Jn – Willingdon Jn	9	14	21	39	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO590	KJE3	Willingdon Jn – Eastbourne	21	39	23	75	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO600	WJB	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	Y	N	N	N	Y	N	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO600	WJB	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	Y	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO600	TTH	Bo Peep Jn – Hastings	60	69	62	33	Y	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0919	SO600	ATH	Hastings – Ore Start / End of Electrification	82	34	81	42	Y	N	N	N	Y	Y	Y	N	N	R1	Prohibited with deflated secondary suspension
+Kent-Sussex-Wessex	0919	SO600	ATH	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	N	N	N	N	EH	N	EH	N	N	N	

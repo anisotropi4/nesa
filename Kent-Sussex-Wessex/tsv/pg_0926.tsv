@@ -1,15 +1,21 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
-Kent-Sussex-Wessex	0926	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N	N	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0926	SO280	FTL	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N	N	N	N	N	N	Y	N	
-Kent-Sussex-Wessex	0926	SO280	HHH	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N	N	N	N	N	Y	N	N	
-Kent-Sussex-Wessex	0926	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	N	N	N	N	Y	N	N	Y	Y	Y	Y	E R1	R1 OPPOS Blackfriars – Loughborough Jn, between Up Fast line and Down Fast line 00m 23ch to 03m 33ch
-Kent-Sussex-Wessex	0926	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	N	N	N	Y	Y	N	Y	Y	N	Y	E	
-Kent-Sussex-Wessex	0926	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E R1 R2	R1 OPPOS Blackfriars – Loughborough Jn, between Up Fast line and Down Fast line 00m 23ch to 03m 33ch R2 OPPOS Elephant and Castle Station, between platform 3 Up line and platform 4 Down Line, 01m 40ch to 01m 55ch
-Kent-Sussex-Wessex	0926	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E	
-Kent-Sussex-Wessex	0926	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E	
-Kent-Sussex-Wessex	0926	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	N	N	N	Y	Y	N	Y	Y	Y	Y	E	
-Kent-Sussex-Wessex	0926	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	N	N	N	Y	Y	N	Y	Y	
-Kent-Sussex-Wessex	0926	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	Y	N	N	N	N	N	N	Y	Y	N	Y	Y	
-Kent-Sussex-Wessex	0926	SO290	NKL	Charlton – Slade Green Jn	7	44	1	36	N	N	N	N	N	N	N	Y	Y	N	Y	R1	Prohibited Slade Green platforms 1 & 2 with crush deflated suspension
-Kent-Sussex-Wessex	0926	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	1	66	Y	N	N	N	E	E	N	Y	Y	N	Y	Y	
-Kent-Sussex-Wessex	0926	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	1	42	Y	N	N	N	E	E	N	Y	Y	N	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0926	SO150	SEJ2	Middle Jn – Sheerness on Sea	44	13	51	19	N	N	N	N	N	N	R1	Y	Y	N	N	R1 Route prohibited to Classes 465/0 and 465/1
+Kent-Sussex-Wessex	0926	SO160	FDM	Faversham Jn (SO110) – Buckland Jn	52	13	76	32	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO160	FDM	Buckland Jn – Change of mileage	76	32	77	76	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO160	FDM	Change of mileage – Dover Substation	76	53	76	45	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO170	TTH	Tonbridge East Jn (SO130) – Tunbridge Wells	29	55	34	32	N	N	N	N	N	N	Y	Y	Y	R1	N	R1 OPPOS Up or Down Hastings through Grove hill Tunnel (between Tonbridge Wells - Grove Jn)
+Kent-Sussex-Wessex	0926	SO170	TTH	Tunbridge Wells – Bo Peep Jn	34	32	60	69	N	N	N	N	N	N	N	N	Y	N	N	
+Kent-Sussex-Wessex	0926	SO180	PWS1	Paddock Wood – Maidstone West Change of Mileage	34	67	44	56	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO210	APL	Appledore (SO600) – Dungeness Ground Frame	64	50	73	65	N	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0926	SO220	ACR	Ashford (Jn with Canterbury line (SO130)) – Hitachi Depot (Access)	56	35	57	05	Y	N	N	N	N	N	Y	Y	Y	E R1	E	R1 Prohibited Ashford (Jn with Canterbury line (SO130)) - Ashford Station
+Kent-Sussex-Wessex	0926	SO220	ACR	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	Y	N	N	N	N	N	Y	Y	Y	E R1	N	R1 Prohibited Ashford Down Yard East G Jn - Minster West Jn
+Kent-Sussex-Wessex	0926	SO220	ACR	Minster West Jn – Minster East Jn	81	69	82	17	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO220	ACR	Minster East Jn – Ramsgate Substation	82	17	85	22	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO230	FFH2	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0926	SO240	BME2	Buckland Jn – Sandwich	99	05	86	46	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO240	BME2	Sandwich – Minster South	86	46	82	21	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	Y	N	N	N	N	N	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0926	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	N	Y	Y	Y	Y	E	Y	Y	N	Y	E	
+Kent-Sussex-Wessex	0926	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	N	Y	N	N	Y	E	Y	Y	N	Y	E	
+Kent-Sussex-Wessex	0926	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	Y	N	N	Y	E	Y	Y	N	Y	E	

@@ -11,65 +11,59 @@
                                                  58 5960 66 6768 70 73 97/3 Notes
      route    Description         M  Ch M  Ch 000 000 000 000 000 000 000 000 000
                                                                         ooooooooooooooooooooooooooo
-
-     SW175 WEYRoute Boundary (GW500) (Castle
-                                  13000 141 35 6 N  Y  N Y  R1 N Y  Y  Y R170mph maximum speed
-              Cary Jn) – Yeovil Pen Mill Jn
-     SW175 YJPYeovil Pen Mill Jn – Yeovil Jn
-                                   1 42  0  00 6 N  Y  N Y  R1 N N  Y Y R1 70mph maximum speed
-     SW175 WEYYeovil Pen Mill Jn – Dorchester Jn
-                                  14135 162 14 6 N  R1 N R1 R1 N R1 R1R1 R140mph maximum speed
-                                                                 R2     R2 Freight trains and top and tail
-                                                                           locomotive hauled passenger trains
-                                                                           with less than 3 coaches between
-                                                                           leading and trailing locomotive:
-                                                                           • 20 mph at Bridge E30/197 (157m
-                                                                           77ch)
-                                                                           NC/G1/2010/ICP-RA/SO003V until 31 March 2016
-     SW180 RPERaynes Park – Epsom (Change of
-                                   8 51  14 18 8 Y  Y  Y Y  Y  Y Y  Y  Y
-              ELR)
-     SW180 BTH2
-              Route Boundary Sussex (Ewell
-                                  17 33  18 73 8 Y  Y  Y Y  Y  Y Y  Y  Y
-              East) – Epsom [Duplicated in SO680]
-              Epsom (Change of ELR) –
-     SW180 BTH3                   14 27  18 02 8 Y  Y  Y Y  Y  Y Y  Y  Y
-              Leatherhead [Duplicated in SO680]
-              Leatherhead – Route Boundary
-     SW180 BTH3                   18 02  21 09 8 Y  Y  Y Y  Y  Y Y  Y  Y
-              Sussex (Horsham) [Duplicated in
-              SW180]
-     SW180 BTH3
-              Route Boundary Sussex
-                                  21 09  35 34 8 R1 R1R1 R1 R1R1 R1 R1R1 R115 mph over bridge 3/319 (22m 15ch)
-              (Leatherhead) – Horsham jn (SO520)
-              [Duplicated in SO680]
-     SW185
-         MPC  Motspur Park – Chessington South
-                                   9 57  13 73 8 Y  Y Y  Y  Y  Y Y  Y Y
-     SW190
-         NMS1 New Malden – Fulwell Jn
-                                   9 62  14 53 8 Y  Y Y  Y  Y  Y Y  Y Y
-     SW190
-         NMS2 Fulwell Jn – Shepperton
-                                  12 56  18 73 8 Y  Y Y  Y  Y  Y Y  Y Y
-     SW195
-         HAM  Hampton Court Jn – Hampton Court
-                                  13 27  14 76 4 R1 R1R1 R1 R1 N N  R1R1 R110 mph over bridge 14/2 (13m 45ch)
-              Up line
-     SW195 HAMHampton Court Jn – Hampton Court
-                                  13 27  14 76 8 Y  Y  Y Y  Y  Y Y  Y  Y
-              Down line
-     SW200 NGLHampton Court Jn – Effingham Jn
-                                  13 27  21 04 8 R1 R1R1 R1 R1R1 R1 R1R1 R115mph over bridge 10 (16m 51ch)
-                                                                           between Claygate and Oxshott
-     SW200 NGLEffingham Jn – Guilford
-                                  21 04  29 70 8 Y  Y  Y Y  Y  Y Y  Y  Y
-     SW205 LEJLeatherhead – Effingham Jn
-                                  18 02  22 15 8 Y  Y  Y Y  Y  Y Y  Y  Y
+              Farlington Jn – Portcreek Jn
+     SW110 WPH2                   40 33  41 03 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              [Duplicated on SO520]
+              Portcreek Jn – Blackfriars Jn
+     SW110 WPH2                   41 03  44 50 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              [Duplicated on SO520]
+     SW110 PASBlackfriars Jn – Portsmouth and
+                                  44 26  44 50 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              Southsea Low Level [Duplicated on
+              SO520]
+              Blackfriars Jn – Portsmouth and
+     SW110 WPH2                   44 26  44 50 7 Y  Y  Y Y  Y Y  Y  Y  Y
+              Southsea High Level [Duplicated on
+              SO520]
+     SW110 WPH2
+              Portsmouth and Southsea High Level
+                                  44 50 45  36 7*Y  Y  Y Y  Y Y  Y  R1 Y R1Prohibited from platforms 1 & 3 at
+                  – Portsmouth Harbour                                     Portsmouth Harbour unless hauling
+                  * platforms 4 and 5 RA7                                  Infrastructure Monitoring Trains
+                  * platforms 1 and 3 RA4
+                  [Duplicated on SO520]
+              Worting Jn – Connection to
+     SW115 BAE1                   51 15  66 27 8 R1 R1R1 R1 R1 R1R1 R1 Y R140mph over Hurstbourne viaduct
+              Ludgershall Branch line                                      between Whitchurch and Andover if
+                                                                           there is more than one locomotive
+              Connection to main Up line (BAE1) –
+     SW115 LUD1                   66 27  67 61 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              Red Post Jn
+              Red Post Jn – Ludgershall
+     SW115 LUD2                    0 00  5  64 8 Y  Y  Y Y  Y Y  N  Y  Y
+     SW115 BAE1
+              Connection to Ludgershall Branch line
+                                  66 27  82 05 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              – Laverstock North Jn
+     SW115 LAVLaverstock North Jn – Laverstock
+                                  82 05  82 39 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              South Jn
+              Laverstock North Jn – Salisbury
+     SW115 BAE1                   82 05  82 36 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              Tunnel Jn
+              Salisbury Tunnel Jn – Fisherton Short
+     SW115 BAE1                   82 36  83 72 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              Mile Change of Mileage
+     SW115 BAE2
+              Fisherton Short Mile Change of
+                                  84 00  85 37 8 Y  Y  Y Y  Y Y  Y  Y  Y
+              Mileage – Wilton Jn
+              Wilton Jn – Gillingham
+     SW115 BAE2                   85 37 105 23 7 Y  Y  N Y  R1Y  Y  Y  Y R170mph
+              Gillingham – Yeovil Jn
+     SW115 BAE2                   10523 122 48 6 N  Y  N Y  R1N  N  Y  Y R170mph
 
 
 
 
-    December 2009                                   151
+     December 2009                                  149

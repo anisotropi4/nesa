@@ -1,13 +1,7 @@
 Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Kent-Sussex-Wessex	1012	SO180	Paddock Wood – Maidstone West	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO210	Appledore – Lydd Town (Goods Line)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO220	Ashford – Ramsgate (via Canterbury West)	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO220	Minster West Jn – Minster South Jn	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO230	Folkestone East – Folkestone Harbour	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO240	Buckland Jn – Minster East Jn	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO250	Battersea Pier Jn – Longhedge 'A' Jn [ 1m 58ch ] incl. Battersea Reversible Line	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO250	Longhedge 'B' Jn [ 1m 63ch ] – Pouparts Jn	Y *	Y	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO250	Factory Jn – West London Jn, Willesden via Longhedge 'A' Jn (SW220)	Y *	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO250	Longhedge 'C' Jn – Ludgate GW Jn via Lavender Hill Jn, former site of (SW100)	Y	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO250	Ludgate GW Jn – Latchmere No.2 Jn (SW100)	Y	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	1012	SO250	Latchmere Jn No 1 – Falcon Jn (via Clapham Jn plat 16 & 17)	Y	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	1012	SO130	Hither Green, Lee Spur Jn – Chislehurst Jn	Y	S1	S1	N	N	N	N	N	S1 The following combinations are permitted, up to: 2590 (h) x 2500 (w) box on FEA FSA/FTA wagons 2667 (h) x 2500 (w) box on FAA FLA wagons 5 mph Up Fast line Br. XTD-141 [9m 53ch] 15 mph Down Fast line Br.XTD-141 [9m 53ch] 25 mph Slow lines Br. XTD-141 [9m 53ch] 25 mph Up Slow Line 5 mph Down Slow Line Chislehurst Slow Tunnel [9m 61ch – 10m 10ch]
+Kent-Sussex-Wessex	1012	SO130	Chislehurst Jn – Tonbridge West Jn	S1 *	S1	N	N	N	N	N	N	S1 The following combinations are permitted, up to: 2438 (h) x 2438 (w) box on FEA KFA wagons
+Kent-Sussex-Wessex	1012	SO130	Tonbridge West Jn – Ashford ‘E’ Jn	Y *	Y	R1	S1	N	N	N	N	R1 Prohibited: Down Slow Line (Platform 3) and Up Slow Line (Platform 2) through Tonbridge Station S1 The following combinations are permitted, up to: 2770 (h) x 2550 (w) box on FIA IFA wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2553 (h) x 2500 (w) box on IFB wagons Prohibited: Down Slow Line (Platform 3) and Up Slow Line (Platform 2) through Tonbridge Station
+Kent-Sussex-Wessex	1012	SO130	Ashford 'E' Jn – Saltwood Jn	Y	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	1012	SO130	Saltwood Jn – Dover Priory	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1012	SO130	Tanners Hill Jn – Lewisham Vale Jn (exclusive)	Y	N	N	N	N	N	N	N	

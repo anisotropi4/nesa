@@ -10,62 +10,52 @@
                                  oooo oooo oooo oooo 121
                                                   150 153156 158 159 165 Notes
      route    Description         M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-              Ash Vale Jn – Change of ELR
-     SW120 PAA1                   32 30  36 75 Y   N   N  N   N   N  N
-              Change of ELR – Connection to
-     SW120 PAA2                   39 22  42 70 Y   N   N  N   N   N  N
-              Farnham Depot
-              Connection to Farnham Depot – Alton
-     SW120 PAA2                   42 70  49 13 Y   N   N  N   N   N  N
-     SW125 BKERoute Boundary GW500 (Southcote
-                                  37 76  51 39 Y   Y   N  N   Y   Y  E
-              Jn) – Basingstoke
-     SW130 ECREastleigh East Jn – Romsey
-                                  73 35  80 47 Y   Y   Y  Y   Y   Y  N
-     SW135 ETFEastleigh West Jn – Fareham
-                                  73 42  84 21 Y   Y   N  Y   Y   Y  N
-              St Denys – Change of ELR
-     SW140 SDP1                    1 59  14 15 Y   Y   N  Y   Y   Y  N
-              Change of ELR – Fareham
-     SW140 SDP2                   84 10  84 21 Y   Y   N  Y   Y   Y  N
-              Fareham – Quay Viaduct
-     SW140 SDP2                   84 21  84 77 Y   Y   N  Y   Y   Y  N
-              Quay Viaduct – Cosham
-     SW140 SDP2                   84 77  90 06 Y   Y   N  Y   Y   Y  N
-              Cosham – Cosham Jn
-     SW140 SDP2                   90 06  90 43 Y   Y   N  Y   Y   Y  N
-              Cosham Jn – Portcreek Jn
-     SW140 SDP2                   90 43  91 01 Y   Y   N  Y   Y   Y  N
-     SW140 FJJCosham Jn – Farlington Jn
-                                  90 43  91 14 Y   Y   N  Y   Y   Y  N
-     SW145 SOYNortham Jn – Canute Road LC
-                                  78 15  79 02 Y   N   N  N   N   N  N
-              (AOCL) (Eastern Docks)
-              Redbridge Jn – Romsey Jn
-     SW150 RTJ1                   23 32  18 16 Y   Y   Y  Y   Y   Y  N
-              Romsey Jn – Salisbury Tunnel Jn
-     SW150 RTJ2                   80 35  96 05 Y   Y   Y  Y   Y   Y  N
-     SW155 TTFTotton – Marchwood  82 43  86 10 Y   N   N  N   N   N  N
-     SW155 TTFMarchwood – Fawley GF
-                                  86 10  91 42 Y   N   N  N   N   N  N
-     SW160 BLPBrockenhurst – Lymington Pier
-                                  92 66  98 15 Y   N   N  N   R1 R1  N  R1Must stop 30m (32 yards) short of Stop
-                                                                          light at Lymington Pier
-     SW165 HAGHamworthy – Hamworthy Goods (Stop 115
-                                     77 118 05 Y   N   N  N   N   N  N
-              board)
-     SW170 SALWilton Jn – Route Boundary Western
-                                  13233 115 40 Y   Y   Y  Y   Y   Y  N
-              (GW5001) (Westbury South Jn)
-     SW175 WEYRoute Boundary (GW500) (Castle
-                                  13000 141 35 Y   Y   Y  Y   Y   Y  N
-              Cary Jn) – Yeovil Pen Mill Jn
-     SW175 YJPYeovil Pen Mill Jn – Yeovil Jn
-                                   1 42  0  00 Y   Y   Y  Y   Y   Y  N
-     SW175 WEYYeovil Pen Mill Jn – Dorchester Jn
-                                  14135 162 14 Y   Y   Y  Y   Y   Y  N
-     SW180 RPERaynes Park – Epsom (Change of
-                                   8 51  14 18 Y   N   N  N   N   N  N
-              ELR)
+              Northam Jn – Worgret Jn
+     SW105 BML2                   78 15 121 77 Y   R1 R5  Y   R8 R8  N  R1Prohibited between Redbridge and
+                                                   R2 R6      R9 R9       Worgret Jn on the Down line
+                                                   R3 R7                R2Prohibited between Redbridge and
+                                                   R4                     Worgret Jn on the Up line when laden,
+                                                                          additionally
+                                                                          10mph through station platforms
+                                                                        R3Prohibited with deflated suspension
+                                                                        R4Prohibited Southampton Central Down
+                                                                          Bay Siding and Bay Siding East
+                                                                        R5Prohibited between Redbridge and
+                                                                          Worgret Jn
+                                                                        R620mph Southampton Central platform 1
+                                                                        R730mph Southampton Central platform 3
+                                                                        R830mph Totton Up platform
+                                                                        R920mph Sway Down platform
+     SW105 FURWorgret Jn – Network Rail Boundary
+                                  12630 129 55 N   N   N  N   Y   Y  N
+              (Swanage Railway)
+              Worgret Jn – Dorchester Jn
+     SW105 BML2                   12177 136 15 Y   E   N  Y   Y   Y  N  R1Prohibited on the Down line
+                                                   R1                   R210mph through station platforms
+                                                   R2                   R3Prohibited with deflated suspension
+                                                   R3
+              Dorchester Jn – Weymouth
+     SW105 BML3                   16214 168 63 Y   Y   Y  Y   Y   Y  N
+              Woking Jn – Guilford
+     SW110 WPH1                   24 62  30 27 Y   N   N  N   R1 R1  R3 R115mph Worplesdon Up platform 1
+                                                              R2 R2  R4 R230mph Worplesdon Down platform 2
+                                                                        R310mph through Worplesdon
+                                                                        R4Prohibited Guildford platform 1
+              Guilford – Shalford Jn
+     SW110 WPH1                   30 27  31 42 Y   N   N  N   Y   Y  Y
+              Shalford Jn – Haslemere
+     SW110 WPH1                   31 42  42 79 Y   N   N  N   Y   Y  N
+              Haslemere – Havant Jn
+     SW110 WPH1                   42 79  66 17 Y   N   N  N   Y   Y  N
+     SW110 TBH2
+              Route Boundary (Sussex SO250)
+                                  35 35  37 25 Y   N   N  N   Y   Y  N
+              (Barnham) – Havant Jn [Duplicated on
+              SO520]
+              Havant Jn – Farlington Jn [Duplicated
+     SW110 WPH2                   37 24  40 33 Y   Y   N  Y   Y   Y  N
+              on SO520]
 
-    December 2009                                   95
+
+
+     December 2009                                  93

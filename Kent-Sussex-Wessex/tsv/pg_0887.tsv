@@ -1,21 +1,24 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
-Kent-Sussex-Wessex	0887	SO500	VTB1	Balham Jn – Streatham North Jn	4	69	6	14	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	SNS	Streatham North Jn – Streatham South Jn via Reversible Fast Spur	6	16	6	35	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	SLJ	Streatham North Jn – Streatham South Jn via Slow Spurs	6	14	6	38	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB1	Streatham North Jn – Selhurst Jn	6	14	9	43	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	WCS	Selhurst Jn – Gloucester Road Jn	9	44	9	62	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB1	Selhurst Jn – Windmill Bridge Jn	9	43	10	12	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB2	Windmill Bridge Jn – South Croydon Jn	9	69	11	29	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB2	South Croydon Jn – Stoats Nest Jn	11	29	14	20	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	RED1/2	Stoats Nest Jn – Redhill	14	20	22	40	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	RED1/2	Redhill – Change of Mileage (Redhill / Slow lines) Via Redhill	22	40	23	00	N	N	N	Y	Y	
-Kent-Sussex-Wessex	0887	SO500	VTB2	Stoats Nest Jn – Change of Mileage (Quarry / Fast lines)	14	20	23	21	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB3	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	N	N	N	R1 R2	R1 R2 R3	R1 20mph Three Bridges platforms 2, 4 and 5 R2 Prohibited Three Bridges platform 3 R3 Prohibited Haslett Avenue Bridge No.125 Up line
-Kent-Sussex-Wessex	0887	SO500	VTB3	Three Bridges – Copyhold Jn	29	21	36	73	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	CJA1	Copyhold Jn – Change of Mileage	36	73	36	33	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	CJA2	Change of Mileage – Ardingly Sidings	0	00	0	70	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB3	Copyhold Jn – Keymer Jn	36	73	40	69	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	VTB3	Keymer Jn – Preston Park Jn	40	69	49	43	N	N	N	N	N	
-Kent-Sussex-Wessex	0887	SO500	PPH	Preston Park Jn – Hove Jn	49	21	50	44	Y	R1 R2	R1 R2	N	R3	R1 70mph Preston Park platform 2 R2 Prohibited Preston Park platform 3 R3 OPPOS between Preston Park Jn and Hove Jn
-Kent-Sussex-Wessex	0887	SO500	VTB3	Preston Park Jn – Brighton	49	43	50	49	Y	R1	R1	N	R2 R3	R2 Prohibited Brighton platforms 3 and 5 with crush deflated suspension R3 OPPOS between Preston Park and Brighton
-Kent-Sussex-Wessex	0887	SO510	LBW	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	MCL	Route Boundary (LN3213) (Kentish Town Jn) – ELR change (Former Farringdon Jn)	0	66	0	00	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	FTL	ELR change (Former Farringdon Jn) – Snow Hill Tunnel (Change of Mileage)	0	00	0	39	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	HHH	Snow Hill Tunnel (Change of Mileage) – Blackfriars	0	21	0	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO290	NKL	Charlton – Slade Green Jn	7	44	15	36	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	15	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	N	N	N	N	N	
+Kent-Sussex-Wessex	0887	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	N	N	N	N	N	

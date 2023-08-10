@@ -5,66 +5,60 @@
 
 
 
+
+     Table D1A – Route clearance of diesel multiple units
+                                                                                       Last Updated: 23/10/2021
+     To be read in conjunction with General Notes.
+
      Line of ELR
               Line of Route / Sector
                                  oooo oooo oooo oooo
                                                150 158  159 165 166 Notes
      route    Description         M  Ch M  Ch  00000000 00000000RHM ooooooooooooooooooooooooooo
 
-     SO130LLL Parks Bridge Jn – Ladywell Jn
-                                   6 14  6  29  N   N    N   N   N
-     SO130XTD Parks Bridge Jn – Courthill Loop
-                                   6 14  6  21  N   N    N   N   N
-              South Jn
-     SO130XTD Courthill Loop South Jn – Hither
-                                   6 21  7  04  N   N    N   N   N
-              Green Jn
-     SO130XTD Hither Green Jn – Lee Spur Jn
-                                   7 04  7  44  N   N    N   N   N
-     SO130XTD Lee Spur Jn – Chislehurst Jn
-                                   7 44  11 33  N   N    N   N   N
-     SO130CSM1Chislehurst Jn – St Mary Cray Down
-                                  11 33  11 71  N   N    N   N   N
-              Jn via Reversible Chatham Loop
-     SO130CSM2Chislehurst Jn – Hawkwood Jn (Up
-                                  11 33  11 66  N   N    N   N   N
-              Chatham Loop)
-     SO130XTD Chislehurst Jn – Petts Wood Jns
-                                  11 33  12 27  N   N    N   N   N
-     SO130XTD Petts Wood Jns – Sevenoaks
-                                  12 27  21 74  N   N    N   N   N
-              Substation
-     SO130XTD Sevenoaks Substation – Tonbridge
-                                  21 74  29 35  N   N    N   N   N
-              West Jn
-     SO130XTD Tonbridge West Jn – Tonbridge East
-                                  29 35  29 55  N   N    N   N   N
+     SO110VIR Victoria platforms 1-8 – Battersea Pier
+                                   0 00  0  70  N   N    N   N   N
               Jn
-     SO130XTD Tonbridge East Jn – Paddock Wood
-                                  29 55  34 67  N   N    N   N   N
-     SO130XTD Paddock Wood – Ashford (Jn with
-                                  34 67  55 54  N   N    N   N   N
-              Maidstone line)
-     SO130XTD Ashford (Jn with Maidstone line) –
-                                  55 54  56 09  N   N    N   N   N
-              Ashford Station
-     SO130XTD Ashford Station – Ashford (Jn with
-                                  56 09  56 20  N   N    N   N   N
-              Hastings line)
-     SO130XTD Ashford (Jn with Hastings line) –
-                                  56 20  56 35  N   N    N   N   N
-              Ashford (Jn with Canterbury Line)
-     SO130XTD Ashford (Jn with Canterbury Line) –
-                                  56 35  66 38  N   N    N   N   N
-              Saltwood Jn
-     SO130XTD Saltwood Jn – Folkestone Central
-                                  66 38  69 73  N   N    N   N   N
-     SO130XTD Folkestone Central – Folkestone East
-                                  69 73  70 73  N   N    N   N   N
-              Staff Halt
-     SO130XTD Folkestone East Staff Halt – Dover
-                                  70 73  76 45  N   N    N   N   N
-              Substation
-    SO140SBJ Swanley Jn (SO110) – Otford Jn
-                                  17 46  24 53  N   N    N   N   N
-    IADecember 2009                                  9
+     SO110BSP1Battersea Pier Jn – Connection to
+                                   0 71  1  33  N   N    N   N   N
+              Stewarts Lane Up and Down lines (via
+              Battersea Reversible)
+     SO110VIR Battersea Pier Jn – Linford Street Jn
+                                   0 70  1  45  N   N    N   N   N
+     SO110AHG Linford Street Jn – Route Boundary
+                                   2 50  2  00  N   N    N   N   N
+              (SW100) (Nine Elms Jn)
+     SO110VIR Linford Street Jn – Factory Jn
+                                   1 45  1  61  N   N    N   N   N
+     SO110FLL1Factory Jn – Longhedge Jn
+                                   0 40  0  03  N   N    N   N   N
+     SO110VIR Factory Jn – Shepherds Lane Jn
+                                   1 61  2  70  N   N    N   N   N
+     SO110VIR Shepherds Lane Jn – Brixton Jn
+                                   2 70  3  08  N   N    N   N   N
+     SO110VIR Brixton Jn – Herne Hill North Jn
+                                   3 08  3  70  N   N    N   N   N
+     SO110VIR Herne Hill North Jn – Herne Hill South
+                                   3 70  4  06  N   N    N   N   N
+              Jn
+     SO110HHT Herne Hill South Jn – Route Boundary
+                                   4 06  4  63  N   N    N   N   N
+              Sussex (Tulse Hill)
+     SO110HHT Route Boundary Kent (Herne Hill
+                                   4 63  4  76  N   N    N   N   N
+              South Jn) – Tulse Hill North Jn
+     SO110HHT Route Boundary Kent (Herne Hill
+                                   4 63  5  15  N   N    N   N   N
+              South Jn) – Tulse Hill Substation via
+              platforms 1 and 2
+     SO110VIR Herne Hill South Jn – Beckenham Jn
+                                   4 06  8  43  N   N    N   N   N
+     SO110VIR Beckenham Jn – Shortlands Jn
+                                   8 43  9  57  N   N    N   N   N
+     SO110VIR Shortlands Jn – Bickley Jn
+                                   9 57  12 38  N   N    N   N   N
+     SO110TLP1Bickley Jn – Petts Wood (Fast
+                                  12 38  13 29  N   N    N   N   N
+              Tonbridge Loop)
+
+     GADecember 2009                                 7

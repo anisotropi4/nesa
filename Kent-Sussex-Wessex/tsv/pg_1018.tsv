@@ -1,13 +1,21 @@
 Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-Kent-Sussex-Wessex	1018	SO645	Factory Jn – Crofton Road Jn (Atlantic Lines) - Continued (SO110) (SO260)	Y	Y	S1	S1	N	N	N	N	S1 The following (W9) combinations are permitted, up to: 2553 (h) x 2500 (w) box on IFB wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2770 (h) x 2550 (w) box on FIA IFA wagons Down Atlantic Line, and Up Atlantic Line
-Kent-Sussex-Wessex	1018	SO645	Crofton Road Jn – Peckham Rye Jn	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO650	Balham Jn – Beckenham Junction	S *	N	N	N	N	N	N	N	S1 The following combinations are permitted, up to: 2438 (h) x 2438 (w) box on FEA wagons
-Kent-Sussex-Wessex	1018	SO650	Leigham Jn – Tulse Hill South Jn (Leigham Spurs)	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO650	Tulse Hill South Jn – West Norwood Jn (West Norwood Spurs)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO650	Bromley Jn – Norwood Junction (SO510)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO650	Sydenham Jn – Crystal Palace Tunnel Jn (SO510)	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO660	Purley – Caterham	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO660	Purley – Tattenham Corner	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO680	South Bermondsey Jn – Horsham via Sutton and Epsom	Y *	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO680	Herne Hill South Jn – Tulse Hill South Jn	Y	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1018	SO700	Streatham South Jn – Sutton Wimbledon Line Jn via Wimbledon	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Clapham Junction (Falcon Jn) – Stoats Nest Jn	Y *	Y	Y	S	N	N	N	N	S1 The following combinations are permitted, up to: 2553 (h) x 2500 (w) box on IFB wagons 2896 (h) x 2550 (w) box on IKA FKA wagons 2770 (h) x 2550 (w) box on FIA IFA wagons
+Kent-Sussex-Wessex	1018	SO500	Stoats Nest Jn – Earlswood Jn via Quarry Lines	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Stoats Nest Jn – Earlswood Jn via Coulsdon COM and Redhill	Y	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Earlswood – Brighton	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	New Copyhold Jn – Ardingly	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Selhurst Jn – Gloucester Road Jn (SO510)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Streatham North Jn – Streatham South Jn (Slow Spurs)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Streatham North Jn – Streatham South Jn (Reversible Fast Spur)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO500	Streatham Jn – Streatham Common (Streatham Spurs)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO510	London Bridge – Windmill Bridge Jn	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO510	New Cross Gate Up Jn - Network Rail Boundary (Up ELL EA1325)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO510	New Cross Gate Down Jn - Network Rail Boundary (Down ELL EA1325)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO510	Norwood Fork Jn – Epsom Downs	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO510	Selhurst Jn – Gloucester Road Jn (SO500)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO510	Sydenham Jn – Crystal Palace Tunnel Jn	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO520	Three Bridges – Arundel Jn (North)	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO520	Arundel Jn (South) – Havant Jn	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO520	Ford Jn – Littlehampton Jn	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO530	South Croydon – East Grinstead	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1018	SO540	Hurst Green Jn – Uckfield	Y *	N	N	N	N	N	N	N	

@@ -6,61 +6,69 @@
 
 
      Line of ELR
-              Line of Route / Sector oo oo oo 395 442 444 450 455 456 458 465 466 508 700 707 Notes
-     route    Description            oo oo oo 000 000 000 000 000 000 000 000 000
-                                  M  Ch M  Ch
-     SO150SEJ2Middle Jn – Sheerness on Sea
-                                  44 13  51 19 N  N  N  N  N  N  N R1  Y  Y N N  R1Route prohibited to Classes 465/0 and
-                                                                                   465/1
-     SO160FDM Faversham Jn (SO110) – Buckland Jn
-                                  52 13  76 32 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO160FDM Buckland Jn – Change of mileage
-                                  76 32  77 76 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO160FDM Change of mileage – Dover
-                                  76 53  76 45 Y  N  N  N  N  N  N  Y  Y  Y N N
-              Substation
-     SO170TTH Tonbridge East Jn (SO130) –
-                                  29 55  34 32 N  N  N  N  N  N  N  Y  Y  Y R1 N R1OPPOS Up or Down Hastings through
-              Tunbridge Wells                                                      Grove hill Tunnel (between Tonbridge
-                                                                                   Wells - Grove Jn)
-     SO170TTH Tunbridge Wells – Bo Peep Jn
-                                  34 32  60 69 N  N  N  N  N  N  N  N  N  Y N N
-     SO180PWS1Paddock Wood – Maidstone West
-                                  34 67  44 56 Y  N  N  N  N  N  N  Y  Y  Y N N
-              Change of Mileage
-     SO210APL Appledore (SO600) – Dungeness
-                                  64 50  73 65 N  N  N  N  N  N  N  N  N  N N N
-              Ground Frame
-     SO220ACR Ashford (Jn with Canterbury line
-                                  56 35  57 05 Y  N  N  N  N  N  N  Y  Y  Y E E  R1Prohibited Ashford (Jn with Canterbury
-              (SO130)) – Hitachi Depot (Access)                             R1     line (SO130)) - Ashford Station
+             Line of Route / Sectoroo  oo oo 395 442 444 450 456 458 465 466 508 700 707
+                                                                                       Notes
+     route   Description           Ch  o  Ch 000 000 000 000 000 000 000 000 000
+                                 M     M
+     SO130
+         XTD Tanners Hill Jn – Parks Bridge Jn
+                                 5 29  6  14  N  N  N  N  Y  N  Y  Y  Y Y Y
+     SO130
+         LLL Parks Bridge Jn – Ladywell Jn
+                                 6 14  6  29  N  N  N  N  N  N  Y  Y  N Y Y
+     SO130
+         XTD Parks Bridge Jn – Courthill Loop
+                                 6 14  6  21  N  N  N  N E   N  Y  Y  Y Y Y  R160mph maximum speed
+             South Jn                                    R1
+     SO130
+         XTD Courthill Loop South Jn – Hither
+                                 6 21  7  04  Y  N  N  N E   N  Y  Y  Y Y Y  R160mph maximum speed
+             Green Jn                                    R1
+     SO130
+         XTD Hither Green Jn – Lee Spur Jn
+                                 7 04  7  44  Y  N  N  N E   N  Y  Y  Y Y Y  R160mph maximum speed
+                                                         R1
+     SO130
+         XTD Lee Spur Jn – Chislehurst Jn
+                                 7 44  11 33  Y  N  N  N E   N  Y  Y  Y Y  R5 R160mph maximum speed
+                                                         R1               R6 R2 Between London end of Grove Park
+                                                         R2                     Station (08m 55ch (Slows to Fasts Double
+                                                         R3                     Jn) and Chislehurst Jn use fast lines
+                                                         R4                  R3 25mph through Grove Park (Fast lines).
+                                                                             R4 Access to Grove Park Up Sidings via
+                                                                                924/925 points
+                                                                             R5 Prohibited Grove Park platform 5 with
+                                                                                crush deflated suspension
+                                                                             R6 Prohibited Chiselhurst platform 4 with crush
+                                                                             deflated suspension
+         CSM1 Chislehurst Jn – St Mary Cray Down
+     SO130                      11 33  11 71  Y  N  N  N  N  N  Y  Y  Y Y Y
+             Jn via Reversible Chatham Loop
+         CSM3 Chislehurst Jn – Hawkwood Jn (Up
+     SO130                      11 33  11 66  Y  N  N  N  N  N  Y  Y  Y Y Y
+             Chatham Loop)
+     SO130
+         XTD Chislehurst Jn – Petts Wood Jns
+                                11 33  12 27  Y  N  N  N  Y  N  Y  Y  Y Y Y
+     SO130
+         XTD Petts Wood Jns – Sevenoaks
+                                12 27  21 74  Y  N  N  N R1  N  Y  Y  Y Y R4 R160mph Chelsfield Down platform
+             Substation                                  R2                  R215mph Knockholt Down and Up platforms
+                                                         R3                  R315mph Dunton Green Down and Up
+                                                                               platforms
+     SO130
+         XTD Sevenoaks Substation – Tonbridge
+                                21 74  29 35  Y  N  N  N E   N  Y  Y  Y Y E  R175mph maximum speed
+             West Jn                                     R1
+     SO130
+         XTD Tonbridge West Jn – Tonbridge East
+                                29 35  29 55 R1  E  N  N E   N  Y  Y  Y Y E  R1Prohibited Tonbridge platform 4
+             Jn                                          R1                  R275mph maximum speed
+                                                         R2
+     SO130
+         XTD Tonbridge East Jn – Paddock Wood
+                                 29 55 34 67 R1  E  N  N E   N  Y  Y  Y Y E  R1Prohibited Paddock Wood platform 3
+                                                         R2                  R275mph maximum speed
 
-     SO220ACR Hitachi Depot (Access) – Minster West
-                                  57 05  81 69 Y  N  N  N  N  N  N  Y  Y  Y E N  R1Prohibited Ashford Down Yard East G
-              Jn                                                            R1     Jn - Minster West Jn
-     SO220ACR Minster West Jn – Minster East Jn
-                                  81 69  82 17 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO220ACR Minster East Jn – Ramsgate
-                                  82 17  85 22 Y  N  N  N  N  N  N  Y  Y  Y N N
-              Substation
-     SO230FFH2Folkstone East Jn (SO130) –
-                                  71 08  72 13 N  N  N  N  N  N  N  N  N  N N N
-              Folkstone Harbour
-     SO240BME2Buckland Jn – Sandwich
-                                  99 05  86 46 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO240BME2Sandwich – Minster South
-                                  86 46  82 21 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO240MSW Minster South Jn – Minster West Jn
-                                  82 12  81 64 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO240BME1Minster South Jn – Minster East Jn
-                                   0 23  0  00 Y  N  N  N  N  N  N  Y  Y  Y N N
-     SO250BSF Battersea Pier Jn – Connection to
-                                   0 71  1  18 N  Y  Y  Y  Y  Y  E  Y  Y  N Y E
-              Battersea Reversible
-     SO250BSF Connection to Battersea Reversible –
-                                   1 18  1  36 N  Y  N  N  Y  Y  E  Y  Y  N Y E
-              Stewarts Lane Jn
-     SO250BSF Stewarts Lane Jn – Factory Jn
-                                   1 36  1  61 N  Y  N  N  Y  Y  E  Y  Y  N Y E
 
-    December 2009                                   29
+     December 2009                                  27

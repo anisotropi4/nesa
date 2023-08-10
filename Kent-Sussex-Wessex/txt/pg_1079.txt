@@ -9,63 +9,60 @@
               Line of Route / Sector
                                  oooo oooo oooo oooo MK1
                                                   MK2 MK3 MK3 MK3MK3 MK4 Notes
-     route    Description         M  Ch M  Ch 000000000000 MODDVTDVT 0000 ooooooooooooooooooooooooooo
+     route    Description         M  Ch M  Ch 000000000000MOD DVTDVT 0000 ooooooooooooooooooooooooooo
                                                                  MOD
-     SW115 LAVLaverstock North Jn – Laverstock
-                                  82 05  82 39 Y   Y   Y   N   N  N   N
-              South Jn
-              Laverstock North Jn – Salisbury
-     SW115 BAE1                   82 05  82 36 Y   Y   Y   N   N  N   N
-              Tunnel Jn
-              Salisbury Tunnel Jn – Fisherton Short
-     SW115 BAE1                   82 36  83 72 Y   Y   Y   N   N  N   N
-              Mile Change of Mileage
-     SW115 BAE2
-              Fisherton Short Mile Change of
-                                  84 00  85 37 Y   Y   Y   N   N  N   N
-              Mileage – Wilton Jn
-              Wilton Jn – Gillingham
-     SW115 BAE2                   85 37 105 23 Y   Y   Y   N   N  N   N
-              Gillingham – Yeovil Jn
-     SW115 BAE2                   10523 122 48 Y   Y   Y   N   N  N   N
-              Yeovil Jn – Route Boundary (GW610)
-     SW115 BAE2                   12248 164 30 Y   Y   Y   N   N  N   N
-              (Exeter St Davids Jn)
-              Pirbright Jn – Ash Vale Jn
-     SW120 PAA1                   29 39  32 30 Y   Y   N   N   N  N   N
-              Ash Vale Jn – Change of ELR
-     SW120 PAA1                   32 30  36 75 Y   Y   N   N   N  N   N
-              Change of ELR – Connection to
-     SW120 PAA2                   39 22  42 70 Y   Y   N   N   N  N   N
-              Farnham Depot
-              Connection to Farnham Depot – Alton
-     SW120 PAA2                   42 70  49 13 Y   Y   N   N   N  N   N
-     SW125 BKERoute Boundary GW500 (Southcote
-                                  37 76  51 39 Y   Y   Y   N   N  N   N
-              Jn) – Basingstoke
-     SW130 ECREastleigh East Jn – Romsey
-                                  73 35  80 47 Y   Y   Y   N   N  N   N
-     SW135 ETFEastleigh West Jn – Fareham
-                                  73 42  84 21 Y   Y   Y   N   N  N   N
-              St Denys – Change of ELR
-     SW140 SDP1                    1 59  14 15 Y   Y   Y   N   N  N   N
-              Change of ELR – Fareham
-     SW140 SDP2                   84 10  84 21 Y   Y   Y   N   N  N   N
-              Fareham – Quay Viaduct
-     SW140 SDP2                   84 21  84 77 Y   Y   Y   N   N  N   N
-              Quay Viaduct – Cosham
-     SW140 SDP2                   84 77  90 06 Y   Y   Y   N   N  N   N
-              Cosham – Cosham Jn
-     SW140 SDP2                   90 06  90 43 Y   Y   Y   N   N  N   N
-              Cosham Jn – Portcreek Jn
-     SW140 SDP2                   90 43  91 01 Y   Y   Y   N   N  N   N
-     SW140 FJJCosham Jn – Farlington Jn
-                                  90 43  91 14 Y   Y   Y   N   N  N   N
-     SW145 SOYNortham Jn – Canute Road LC
-                                  78 15  79 02 Y   Y   Y   N   N  N   N
-              (AOCL) (Eastern Docks)
-              Redbridge Jn – Romsey Jn
-     SW150 RTJ1                   23 32  18 16 Y   Y   Y   N   N  N   N
+              Nine Elms Jn – Crossovers at
+     SW100 BML1                    2 00  2  65 Y   Y   Y   N   N  N   N
+              2m 65ch (Main lines)
+              Crossovers at 2m 65 – West London
+     SW100 BML1                    2 65  3  17 Y   Y   Y   N   N  N   N
+              Jn (Main lines)
+     SW100 SCCWest London Jn – Route Boundary
+                                   3 17  3  30 Y   Y   Y   N   N  N   N
+              (Sussex SO250) (Lathmere Jn No.3)
+              West London Jn – Ludgate Jn
+     SW100 RDG1                    3 17  3  57 Y   Y   Y   N   N  N   N
+              (Windsor lines)
+              West London Jn – Ludgate Jn (Main
+     SW100 BML1                    3 17  3  57 Y   Y   Y   N   N  N   N
+              lines)
+     SW100 FLL2/3 Route Boundary (Sussex SO250)
+                                   1 77  3  57 Y   Y   Y   N   N  N   N
+              (Longhedge Jn) – Ludgate Jn
+     SW100 CJLLudgate Jn – Route Boundary
+                                   0 30  0  47 Y   Y   Y   N   N  N   N
+              (Sussex SO250) (Latchmere Jn No.2)
+              Ludgate Jn – Clapham Jn (Windsor
+     SW100 RDG1                    3 57  3  74 Y   Y   Y   N   N  N   N
+              lines)
+              Ludgate Jn – Clapham Jn (Main lines)
+     SW100 BML1                    3 57  3  74 Y   Y   Y   N   N  N   N
+              Clapham Jn – Wimbledon platforms 5,
+     SW105 BML1                    3 74  7  19 Y   Y   Y   N   N  N   N
+              6, 7 and 8
+     SW105 PPWWimbledon North Jn – Wimbledon
+                                   8 26  8  47 Y   Y   R1  N   N  N   N  R1Prohibited Wimbledon platforms 1, 2, 3
+              platforms 1, 2, 3 and 4 (District line)                      and 4
+              Wimbledon platforms 5, 6, 7 and 8 –
+     SW105 BML1                    7 19  7  49 Y   Y   Y   N   N  N   N
+              Wimbledon West Jn
+              Wimbledon West Jn – Hampton Court
+     SW105 BML1                    7 49  13 27 Y   Y   Y   N   N  N   N
+              Jn
+              Hampton Court Jn – Woking
+     SW105 BML1                   13 27  24 27 Y   Y   Y   N   N  N   N
+              Woking – Basingstoke
+     SW105 BML1                   24 27  47 61 Y   Y   Y   N   N  N   N
+              Basingstoke – Eastleigh West Jn
+     SW105 BML1                   47 61  73 42 Y   Y   Y   N   N  N   N
+              Eastleigh West Jn – St Denys
+     SW105 BML1                   73 42  77 10 Y   Y   R1  N   N  N   N  R120mph Swaythling Down Platform line
+              St Denys – Northam Jn
+     SW105 BML1                   77 10  78 15 Y   Y   Y   N   N  N   N
+              Northam Jn – Worgret Jn
+     SW105 BML2                   78 15 121 77 Y   Y   Y   N   N  N   N
+     SW105 FURWorgret Jn – Network Rail Boundary
+                                  12630 129 55 Y   Y   Y   N   N  N   N
+              (Swanage Railway)
 
-
-    December 2009                                   126
+     December 2009                                  124

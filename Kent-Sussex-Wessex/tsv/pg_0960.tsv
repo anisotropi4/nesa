@@ -1,24 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	Notes
-Kent-Sussex-Wessex	0960	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0960	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0960	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO280	LOC	Loughborough Jn – Canterbury Road Jn	3	39	3	79	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO280	HHH	Loughborough Jn – Herne Hill North Jn	3	36	4	30	8	Y	Y	Y	Y	Y	Y	R1	R1 Route prohibited to Class 37 locomotives fitted with roof mounted horns
-Kent-Sussex-Wessex	0960	SO290	NKL	North Kent East Jn (SO130) – Charlton Jn	4	25	7	35	6	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO290	NKL	Charlton – Slade Green Jn	7	44	15	36	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO290	NKL	Slade Green Jn – Crayford Creek Jn	15	36	15	66	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO290	NKL	Crayford Creek Jn – Crayford Spur ‘A’ Jn	15	66	16	42	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO290	NKL	Crayford Spur ‘A’ Jn – Dartford Jn	16	42	16	75	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO300	BEX	Lewisham Jn – Blackheath Jn	5	74	7	14	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO300	BTC	Blackheath Jn – Charlton Jn	7	14	8	67	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO300	BEX	Blackheath Jn – Perry Street Fork Jn	7	14	15	07	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO300	PSF	Perry Street Fork Jn – Slade Green Jn	15	07	15	31	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO300	BEX	Perry Street Fork Jn – Crayford Creek Jn	15	07	15	66	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	HDR	Hither Green Jn (SO290) – Lee Loop Jn	7	16	7	29	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	LEE	Lee Loop Jn – Lee Spur Jn	0	00	0	29	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	HDR	Lee Loop Jn – Lee	7	29	7	66	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	HDR	Lee – Crayford Spur ‘B’ Jcn	7	66	16	11	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	CRA	Crayford Spur ‘B’ Jn – Crayford Spur ‘A’ Jn	16	11	16	43	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	HDR	Crayford Spur ‘B’ Jcn – Dartford Jn	16	11	16	75	8	Y	Y	Y	Y	Y	Y	Y	
-Kent-Sussex-Wessex	0960	SO310	HDR	Dartford Jn – Hoo Jn	16	75	27	19	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO220	ACR	Minster East Jn – Ramsgate Substation	82	17	85	22	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO230	FFH2	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	8	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	0960	SO240	BME2	Buckland Jn – Sandwich	99	05	86	46	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO240	BME2	Sandwich – Minster South	86	46	82	21	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	BSP1	Battersea Pier Jn – Connection to Stewarts Lane Up and Down lines (via Battersea Reversible)	0	71	1	33	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	BSP1	Connection to Stewarts Lane Up and Down lines (via Battersea Reversible) – Longhedge Jn (via Battersea Reversible)	1	33	1	66	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	FLL2	Longhedge Jn – Route Boundary (SW100) (Ludgate Jn)	1	66	1	77	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	SCC	Latchmere Jn No.3 – Route Boundary (SW100) (West London Jn)	3	45	3	30	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	CKL	Latchmere Jn No.3 – Latchmere Jn No.1 [Duplicated in SW220]	2	39	2	50	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	WLL	Latchmere Jn No.1 – Latchmere Jn No.2 [Duplicated in SW220]	0	63	0	68	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0960	SO250	CJL	Latchmere Jn No.2 – Route Boundary (SW100) (Ludgate Jn)	0	68	0	47	8	Y	Y	Y	Y	Y	Y	Y	

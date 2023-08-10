@@ -5,6 +5,7 @@
 
 
 
+
      Line of ELR
               Line of Route / Sector
                                   oo oo oo oo RA  08 09 20 31/1 31/4
@@ -13,62 +14,75 @@
                                   oo oo oo oo                        37/4
                                   oo oo oo oo                        37/6
                                   M  Ch M  Ch
-     SO250WLL Latchmere Jn No.2 – Kensington
-                                   0 71  3  42 8  Y   Y  Y  Y   Y  Y   Y
-              Olympia [Duplicated in SW220]
-     SO250WLL Kensington Olympia – Northbound
-                                   3 42  5  16 8  Y   Y  Y  Y   Y  Y   Y
-              AC/DC changeover
-     SO250WLL Northbound AC/DC changeover –
-                                   5 16  5  43 8  Y   Y  Y  Y   Y  Y   Y
-              Southbound AC/DC changeover
-     SO250WLL Southbound AC/DC changeover –
-                                   5 43  5  65 8  Y   Y  Y  Y   Y  Y   Y
-              Route Boundary (MD166) (Mitre
-              Bridge Jn)
-     SO260
-         CAT  Brixton Jn – Canterbury Road Jn
-                                   3 08   3 24 8  Y   Y  Y  Y   Y  Y   Y
-     SO260
-         CAT  Canterbury Road Jn – Cambria Jn
-                                   3 24   3 68 8  Y   Y  Y  Y   Y  Y   Y
-     SO260
-         CAT  Cambria Jn – Nunhead Jn
-                                   3 68   6 09 8  Y   Y  Y  Y   Y  Y   Y
-     SO260
-         CAT  Nunhead Jn – Ravensbourne Jn
-                                   6 09  10 44 8  Y   Y  Y  Y   Y  Y   Y
-     SO260
-         RVC  Ravensbourne Jn – Shortlands Jn via
-                                   0 00   0 48 8  Y   Y  Y  Y   Y  Y   Y
-              Ravensbourne Chord
-     SO260CAT Ravensbourne Jn – Shortlands Jn
-                                  10 44  10 73 8  Y   Y  Y  Y  Y   Y  Y
-     SO280MCL Route Boundary (LN3213) (Kentish
-                                   0 66   0 00 4  N   N  N  R1 R1  R1 N  R115mph through Farringdon
-              Town Jn) – ELR change (Former                 R2 R2  R2    R2OHLE must be isolated
-              Farringdon Jn)                                R3 R3  R3    R3Locomotives must not stand under
-                                                                   R4      insulators positioned directly above the
-                                                                           track as the exhaust can damage the
-                                                                           Overhead Line Equipment
-                                                                         R4Route prohibited to Class 33/0 and
-                                                                           33/1
-     SO280FTL ELR change (Former Farringdon Jn) –
-                                   0 00  0  39 4  N   N  N  R1 R1  R1 N  R1OHLE must be isolated
-              Snow Hill Tunnel (Change of Mileage)          R2 R2  R2    R2Locomotives must not stand under
-                                                                           insulators positioned directly above the
-                                                                           track as the exhaust can damage the
-                                                                           Overhead Line Equipment
-     SO280HHH Snow Hill Tunnel (Change of Mileage)
-                                   0 21  0  35 8  Y   Y  Y  Y   Y  Y  R1 R1Route prohibited to Class 37
-              – Blackfriars                                                locomotives fitted with roof mounted
-                                                                           horns
-     SO280HHH Blackfriars – Blackfriars Jn
-                                   0 35  0  63 8  Y   Y  Y  Y   Y  Y  R1 R1Route prohibited to Class 37
-                                                                           locomotives fitted with roof mounted
-                                                                           horns
+     SO130XTD Ashford (Jn with Maidstone line) –
+                                  55 54  56 09 8  Y   Y  Y  Y   Y  Y   Y
+              Ashford Station
+     SO130XTD Ashford Station – Ashford (Jn with
+                                  56 09  56 20 8  Y   Y  Y  Y   Y  Y   Y
+              Hastings line)
+     SO130XTD Ashford (Jn with Hastings line) –
+                                  56 20  56 35 8  Y   Y  Y  Y   Y  Y   Y
+              Ashford (Jn with Canterbury Line)
+     SO130XTD Ashford (Jn with Canterbury Line) –
+                                  56 35  66 38 8  Y   Y  Y  Y   Y  Y   Y
+              Saltwood Jn
+     SO130XTD Saltwood Jn – Folkestone Central
+                                  66 38  69 73 8  Y   Y  Y  Y   Y  Y   Y
+     SO130XTD Folkestone Central – Folkestone East
+                                  69 73  70 73 8  Y   Y  Y  Y   Y  Y   Y
+              Staff Halt
+     SO130XTD Folkestone East Staff Halt – Dover
+                                  70 73  76 45 8  Y   Y  Y  Y   Y  Y   Y
+              Substation
+     SO140
+         SBJ  Swanley Jn (SO110) – Otford Jn
+                                  17 46  24 53 8  Y   Y  Y  Y   Y  Y   Y
+     SO140
+         OJS  Otford Jn – Sevenoaks Jn
+                                  24 53  26 58 8  Y   Y  Y  Y   Y  Y   Y
+     SO140
+         SBJ  Otford Jn – Jn with Maidstone line
+                                  24 53  58 61 8  Y   Y  Y  Y   Y  Y   Y
+     SO150
+         WMS  Western Jn (SO110) – Middle Jn
+                                  43 70  44 13 8  Y   Y  Y  Y   Y  Y   Y
+     SO150
+         SEJ1 Eastern Jn (SO110) – Middle Jn
+                                   0 00   0 23 8  Y   Y  Y  Y   Y  Y   Y
+     SO150
+         SEJ2 Middle Jn – Sheerness on Sea
+                                  44 13  51 19 8  Y   Y  Y  Y   Y  Y   Y
+     SO160
+         FDM  Faversham Jn (SO110) – Buckland Jn
+                                  52 13  76 32 8  Y   Y  Y  Y   Y  Y   Y
+     SO160
+         FDM  Buckland Jn – Change of mileage
+                                  76 32  77 76 8  Y   Y  Y  Y   Y  Y   Y
+     SO160
+         FDM  Change of mileage – Dover
+                                  76 53  76 45 8  Y   Y  Y  Y   Y  Y   Y
+              Substation
+     SO170TTH Tonbridge East Jn (SO130) –
+                                  29 55  34 32 8  Y   Y  Y  Y   Y  Y   Y
+              Tunbridge Wells
+     SO170TTH Tunbridge Wells – Bo Peep Jn
+                                  34 32  60 69 8  Y   Y  Y  Y   Y  Y   Y
+     SO180PWS1Paddock Wood – Maidstone West
+                                  34 67  44 56 8  Y   Y  Y  Y   Y  Y   Y
+              Change of Mileage
+     SO210APL Appledore (SO600) – Dungeness
+                                  64 50  73 65 6  Y   Y  Y  Y   Y  Y   Y
+              Ground Frame
+     SO220ACR Ashford (Jn with Canterbury line
+                                  56 35  57 05 8  Y   Y  Y  Y   Y  Y   Y
+              (SO130)) – Hitachi Depot (Access)
+     SO220ACR Hitachi Depot (Access) – Minster West
+                                  57 05  81 69 8  Y   Y  Y  Y   Y  Y   Y
+              Jn
+     SO220ACR Minster West Jn – Minster East Jn
+                                  81 69  82 17 8  Y   Y  Y  Y   Y  Y   Y
 
 
 
 
-    December 2009                                   50
+     December 2009                                  48

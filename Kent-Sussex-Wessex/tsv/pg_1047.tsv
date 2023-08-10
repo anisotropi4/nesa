@@ -1,18 +1,15 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
-Kent-Sussex-Wessex	1047	SW110	WPH2	Farlington Jn – Portcreek Jn [Duplicated on SO520]	40	33	41	03	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW110	WPH2	Portcreek Jn – Blackfriars Jn [Duplicated on SO520]	41	03	44	50	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW110	PAS	Blackfriars Jn – Portsmouth and Southsea Low Level [Duplicated on SO520]	44	26	44	50	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW110	WPH2	Blackfriars Jn – Portsmouth and Southsea High Level [Duplicated on SO520]	44	26	44	50	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW110	WPH2	Portsmouth and Southsea High Level – Portsmouth Harbour * platforms 4 and 5 RA7 * platforms 1 and 3 RA4 [Duplicated on SO520]	44	50	45	36	Y	Y	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	BAE1	Worting Jn – Connection to Ludgershall Branch line	51	15	66	27	Y	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	LUD1	Connection to main Up line (BAE1) – Red Post Jn	66	27	67	61	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1047	SW115	LUD2	Red Post Jn – Ludgershall	0	00	5	64	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	1047	SW115	BAE1	Connection to Ludgershall Branch line – Laverstock North Jn	66	27	82	05	Y	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	LAV	Laverstock North Jn – Laverstock South Jn	82	05	82	39	Y	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	BAE1	Laverstock North Jn – Salisbury Tunnel Jn	82	05	82	36	Y	N	N	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	BAE1	Salisbury Tunnel Jn – Fisherton Short Mile Change of Mileage	82	36	83	72	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	BAE2	Fisherton Short Mile Change of Mileage – Wilton Jn	84	00	85	37	Y	Y	R1 R2	Y	Y	Y	N	R1 15mph Salisbury platform 3 R2 20mph Salisbury platform 4
-Kent-Sussex-Wessex	1047	SW115	BAE2	Wilton Jn – Gillingham	85	37	105	23	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	BAE2	Gillingham – Yeovil Jn	105	23	122	48	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW115	BAE2	Yeovil Jn – Route Boundary (GW610) (Exeter St Davids Jn)	122	48	164	30	Y	Y	Y	Y	Y	Y	N	
-Kent-Sussex-Wessex	1047	SW120	PAA1	Pirbright Jn – Ash Vale Jn	29	39	32	30	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1047	SW100	BML1	West London Jn – Ludgate Jn (Main lines)	3	17	3	57	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW100	FLL2/3	Route Boundary (Sussex SO250) (Longhedge Jn) – Ludgate Jn	1	77	3	57	Y	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1047	SW100	CJL	Ludgate Jn – Route Boundary (Sussex SO250) (Latchmere Jn No.2)	0	30	0	47	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	1047	SW100	RDG1	Ludgate Jn – Clapham Jn (Windsor lines)	3	57	3	74	Y	R1	N	N	Y	Y	N	R1 Prohibited Clapham platforms 2, 3, 4, 5 and 6
+Kent-Sussex-Wessex	1047	SW100	BML1	Ludgate Jn – Clapham Jn (Main lines)	3	57	3	74	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	BML1	Clapham Jn – Wimbledon platforms 5, 6, 7 and 8	3	74	7	19	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	PPW	Wimbledon North Jn – Wimbledon platforms 1, 2, 3 and 4 (District line)	8	26	8	47	R1	R1	N	N	R1	R1	N	R1 Prohibited Wimbledon platforms 1, 2, and 3
+Kent-Sussex-Wessex	1047	SW105	BML1	Wimbledon platforms 5, 6, 7 and 8 – Wimbledon West Jn	7	19	7	49	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	BML1	Wimbledon West Jn – Hampton Court Jn	7	49	13	27	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	BML1	Hampton Court Jn – Woking	13	27	24	27	Y	Y	N	N	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	BML1	Woking – Basingstoke	24	27	47	61	Y	Y	N	N	Y	Y	R1 R2 R3 R4 R5	R1 20mph over bridge 85 (24m 40ch) (Up Fast) (between Woking and Brookwood) R2 40mph over bridge 107b (34m 10ch) (Up Slow) (between Fleet and Farnborough) R3 40mph Winchfield Up Slow platform R4 30mph Brookwood Up Slow platform R5 50mph Winchfield Down Slow platform
+Kent-Sussex-Wessex	1047	SW105	BML1	Basingstoke – Eastleigh West Jn	47	61	73	42	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	BML1	Eastleigh West Jn – St Denys	73	42	77	10	Y	Y	N	Y	Y	Y	N	
+Kent-Sussex-Wessex	1047	SW105	BML1	St Denys – Northam Jn	77	10	78	15	Y	Y	N	Y	Y	Y	N	

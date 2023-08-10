@@ -5,59 +5,60 @@
 
 
 
+     Line of ELR
+              Line of Route / Sector
+                                 oooo oooo oooo oooo
+                                               150 158  159 165 166 Notes
+     route    Description         M  Ch M  Ch  00000000 00000000RHM ooooooooooooooooooooooooooo
 
-     SO600TTH Bo Peep Jn – Hastings
-                                  60 69  62 33  N   N    N   N   N
-     SO600ATH Hastings – Ore Start / End of
-                                  82 34  81 42  N   N    N   N   N
-              Electrification
-     SO600ATH Ore Start / End of Electrification – Jn
-                                  81 42  56 20  N   N    N   N   N
-              with Hastings line
-     SO620BTL Montpelier Jn – Lewes0 14  7  77  N   N    N   N   N
-     SO620KJE1/2 Lewes – Southerham Jn [Duplicated
-                                  49 74  51 11  N   N    N   N   N
-              on SO590]
-     SO620STS Southerham Jn – Newhaven Harbour
-                                  51 11  56 55  N   N    N   N   N
-              Jn
-     SO620NHB Newhaven Harbour Jn – Wharf Road
-                                  56 55  57 78  N   N    N   N   N
-              (Newhaven Marine)
-     SO620STS Newhaven Harbour Jn – Seaford
-                                  56 55  58 77  N   N    N   N   N
-     SO630BLI1Brighton platforms 1 and 2 – Hove Jn
-                                   0 00  1  28  Y   Y    Y   N   R1 R1 Prohibited Brighton Up platform 2 with crush
-                                                                    deflated suspension
-     SO630BLI1Hove Jn – Hove platforms 2 and 3
-                                   1 28  1  35  Y   Y    Y   N   Y
-     SO630PPH Hove Jn – Hove Up platform loop via
-                                  50 48  51 02  Y   Y    Y   N   R1 R1 Prohibited Hove Carriage Sidings
-              platform 1                                         R2 R2 OPPOS between Hove Jn and Hove
-     SO630BLI1Hove Up platform loop and platforms
-                                   1 28  19 01  Y   Y    Y   N   R1 R1 Prohibited Portslade platforms 1 and 2 with
-              2, and 3 – Arundel Jn                              R2    crush deflated suspension
-                                                                 R3 R2 Prohibited Southwick platform 2 with deflated
-                                                                 R4    suspension
-                                                                 R5 R3 Prohibited Shoreham-by-Sea Down platform 2
-                                                                       with deflated suspension
-                                                                 R6
-                                                                    R4 Prohibited Worthing platform 3 with crush
+     SO510LBW Bricklayers Arms Jn – New Cross
+                                   2 12  2  60  N   N    N   N   N
+              Gate Up Jn
+     SO510ELL1New Cross Gate Up Jn – Network Rail
+                                   5 51  5  49  N   N    N   N   N
+              Boundary / Up ELL
+     SO510LBW New Cross Gate Up Jn – New Cross
+                                   2 60  3  10  N   N    N   N   N
+              Gate Down Jn
+     SO510ELL1New Cross Gate Down Jn – Network
+                                   6 02  5  79  N   N    N   N   N
+              Rail Boundary / Down ELL
+     SO510LBW New Cross Gate Down Jn –
+                                   3 10  6  51  N   N    N   N   N
+              Sydenham Down Jn
+     SO510LBW Sydenham Down Jn – Norwood Jn
+                                   6 51  8  55  N   N    N   N   N
+     SO510LBW Norwood Jn – Norwood Fork Jn
+                                   8 55  9  33  N   N    N   N   N
+     SO510LBW Norwood Fork Jn – Cottage Jn /
+                                   9 33  9  64  N   N    N   N   N
+              Windmill Bridge Jn
+     SO510NFE Norwood Fork Jn – Sutton
+                                   9 33  14 75  N   N    N   N   N
+     SO510NFE Sutton – Epsom Downs14 75  18 60  N   N    N   N   N
+     SO520TBH1Three Bridges – Crawley
+                                  29 21  30 49  N   N    N   N   N
+     SO520TBH1Crawley – Horsham Jn30 49  37 39  N   N    N   N   N
+     SO520TBH1Horsham Jn – Horsham37 39  37 56  N   N    N   N   N
+     SO520TBH1Horsham – Billingshurst
+                                  37 56  44 71  N   N    N   N   N
+     SO520TBH1Billingshurst – Arundel Jn
+                                  44 71  59 75  N   N    N   N   N
+     SO520TBH2Arundel Jn – Barnham19 01  22 29  Y   Y    Y   N   Y
+     SO520TBH2Barnham – Route Boundary (SW110)
+                                  22 29  35 35  Y   Y    Y   N   R1 R1 Prohibited Chichester platform 1 with crush
+              (Havant Jn)                                        R2    deflated suspension
+                                                                 R3 R2 Prohibited Chichester West Sidings
+                                                                 R4 R3 Prohibited Bosham platform 2 with crush
+                                                                 R5    deflated suspension
+                                                                    R4 Prohibited Inlands Road Crossing with crush
                                                                        deflated suspension
-                                                                    R5 Prohibited Goring-by-Sea platform 1 with crush
-                                                                       deflated suspension
-                                                                    R6 Prohibited Goring-by-Sea platform 2 with deflated
-                                                                    suspension
-     SO630BLI1Arundel Jn – Littlehampton Jn
-                                  19 01  19 25  N   N    N   N   N
-              (Change of Mileage)
-     SO630FJL Littlehampton Jn – Ford Jn
-                                  60 57  60 26  N   N    N   N   N
-     SO630BLI2Littlehampton Jn (Change of Mileage)
-                                  60 57  62 03  N   N    N   N   N
-              – Littlehampton
-
-
-
-
-    December 2009                                   16A
+                                                                    R5 OPPOS between Up Main line and Chichester
+                                                                    Up Reception line
+     SO520TBH2Route Boundary Sussex (Barnham) –
+                                  35 35  37 24  Y   Y    Y   N   Y
+              Havant Jn [Duplicated on SW110]
+     SO520WPH2Havant Jn – Farlington Jn [Duplicated
+                                  37 24  40 33  Y   Y    Y   N   Y
+              on SW110]
+     OADecember 2009                                15

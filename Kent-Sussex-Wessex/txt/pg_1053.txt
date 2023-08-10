@@ -7,58 +7,42 @@
 
      Line of ELR
               Line of Route / Sector
-                                 oooo oooo oooo oooo 166
-                                                  170 171 172180 220 221 Notes
+                                 oooo oooo oooo oooo 121
+                                                  150 153156 158 159 165 Notes
      route    Description         M  Ch M  Ch 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-     SW100 FLL2/3 Route Boundary (Sussex SO250)
-                                   1 77  3  57 N   N   Y  N   N   N  N
-              (Longhedge Jn) – Ludgate Jn
-     SW100 CJLLudgate Jn – Route Boundary
-                                   0 30  0  47 N   N   N  Y   N   N  N
-              (Sussex SO250) (Latchmere Jn No.2)
-              Ludgate Jn – Clapham Jn (Windsor
-     SW100 RDG1                    3 57  3  74 N   Y   N  R1  N   N  N  R1Prohibited Clapham platforms 2, 3, 4, 5
-              lines)                                                      and 6
-              Ludgate Jn – Clapham Jn (Main lines)
-     SW100 BML1                    3 57  3  74 N   R1  N  N   N   N  N  R140mph Clapham platform 10
-              Clapham Jn – Wimbledon platforms 5,
-     SW105 BML1                    3 74  7  19 N   Y   N  N   N   N  N
-              6, 7 and 8
-     SW105 PPWWimbledon North Jn – Wimbledon
-                                   8 26  8  47 N   N   N  N   N   N  N
-              platforms 1, 2, 3 and 4 (District line)
-              Wimbledon platforms 5, 6, 7 and 8 –
-     SW105 BML1                    7 19  7  49 N   Y   N  N   N   N  N
-              Wimbledon West Jn
-              Wimbledon West Jn – Hampton Court
-     SW105 BML1                    7 49  13 27 N   Y   N  N   N   N  N
+     SW230 HJWHounslow Jn – Whitton Jn
+                                  14 09  14 39 Y   N   N  N   N   N  N
+     SW230 HOUHounslow Jn – Feltham Jn
+                                  14 09  14 38 Y   N   N  N   Y   Y  N
+     SW245 TSJJn (Twickenham) – Strawberry Hill Jn
+                                  11 48  12 27 Y   N   N  N   N   N  N
+     SW245 SHFStrawberry Hill Jn – Fulwell Jn
+                                  12 27  12 56 Y   N   N  N   N   N  N
+     SW245 TSJStrawberry Hill Jn – Shacklegate Jn
+                                  12 27  12 58 Y   N   N  N   N   N  N
+     SW250 SWEStaines – Windsor and Eton Riverside
+                                  19 02  25 48 Y   N   N  N   N   N  N
+     SW255 VWWVirginia Water Jn – Addlestone Jn
+                                  24 73  19 74 Y   N   N  N   Y   Y  N
+     SW255 AJBAddlestone Jn – Byfleet Jn
+                                   0 00  0  67 Y   N   N  N   Y   Y  N
+     SW255 VWWAddlestone Jn – Weybridge
+                                  19 74  19 12 Y   N   N  N   Y   Y  N
+     SW260 AAVAscot – Ash Vale Jn 28 79  40 57 Y   N   N  N   N   N  N
+              Guilford – Change of ELR
+     SW265 GTW1                   30 27  35 50 Y   N   N  N   Y   Y  R1 R1Prohibited Guildford platform 1
+              Change of ELR – Aldershot South Jn
+     SW265 GTW2                   48 34  50 01 Y   N   N  N   Y   Y  Y
+     SW265 NSAAldershot South Jn – Aldershot North
+                                  50 01  50 43 Y   N   N  N   N   N  N
               Jn
-              Hampton Court Jn – Woking
-     SW105 BML1                   13 27  24 27 N   Y   N  N   N   N  N
-              Woking – Basingstoke
-     SW105 BML1                   24 27  47 61 R1  Y   N  N   N   N  N  R120mph over bridge 85 (24m 40ch) (Up
-                                               R2                         Fast) (between Woking and Brookwood)
-                                               R3                       R240mph over bridge 107b (34m 10ch) (Up
-                                               R4                         Slow) (between Fleet and Farnborough)
-                                               R5                       R340mph Winchfield Up Slow platform
-                                                                        R430mph Brookwood Up Slow platform
-                                                                        R550mph Winchfield Down Slow platform
-              Basingstoke – Eastleigh West Jn
-     SW105 BML1                   47 61  73 42 N   Y   N  N   N   Y  Y
-              Eastleigh West Jn – St Denys
-     SW105 BML1                   73 42  77 10 N   Y   N  N   N   Y  Y
-              St Denys – Northam Jn
-     SW105 BML1                   77 10  78 15 N   Y   Y  N   N   Y  Y
-              Northam Jn – Worgret Jn
-     SW105 BML2                   78 15 121 77 N   R1 R3  N   N   Y  Y  R1Prohibited between Totton and Worgret
-                                                   R2                     Jn when laden
-                                                                        R2Prohibited with footsteps fitted and
-                                                                          deflated suspension
-                                                                        R3Prohibited between Southampton
-                                                                          Central and Worgret Jn
-     SW105 FURWorgret Jn – Network Rail Boundary
-                                  12630 129 55 N   N   N  N   N   N  N
-              (Swanage Railway)
+              Aldershot South Jn – Wokingham Jn
+     SW265 GTW2                   50 01  61 74 Y   N   N  N   Y   Y  Y
+     SW300 RSJRoute Boundary (Sussex SO560)
+                                  33 10  41 62 Y   N   N  N   N   N  Y
+              (Redhill) – Shalford Jn
 
 
-    December 2009                                   100
+
+
+     December 2009                                  98

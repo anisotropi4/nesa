@@ -10,61 +10,55 @@
                                   oooo oooo oooo oooo RA
                                                   Loco Gauge
                                                            Notes
-     route    Description          M  Ch M  Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-     SO650BBJ Balham Jn (SO500) – Leigham Jn
-                                    4 69  6 31  8    R1   R3Prohibited between Streatham Hill station and Leigham Jn on the
-                                                     R2     Down Crystal Palace line
-                                                          R4Prohibited between Streatham Hill station and Leigham Jn on the Up
-                                                            Crystal Palace line
-     SO650BBJ Leigham Jn – West Norwood Jn
-                                    6 31  6 58  8    Y
-     SO650BBJ West Norwood Jn – Crystal Palace
-                                    6 58  8 56  8    R1   R3Prohibited West Norwood platform 1 (Up Crystal Palace line)
-              platforms 1 and 2                      R2   R4Prohibited between Gypsy Hill station and Crystal Palace Tunnel Jn
-                                                            on the Down line
-     SO650SCP Crystal Palace platforms 3 - 6 –
-                                    7 52  6 49  8    Y
-              Sydenham Up Jn
-     SO650BBJ Crystal Palace platforms 1 and 2 –
-                                    8 56  9 36  8    Y
-              Bromley Up Jn
-     SO650BJN1Bromley Up Jn – Norwood North Jn
-                                    9 36  9 75  8    Y
-     SO650BBJ Bromley Up Jn – Bromley Down Jn
-                                    9 36  9 48  8    Y
-     SO650BJN2Bromley Down Jn – Norwood North Jn
-                                    9 48  9 75  8    Y
-     SO650BBJ Bromley Down Jn – Beckenham Jn
-                                    9 48 11 62  8    Y
-     SO660PAT Purley (S0500) – Caterham
-                                   15 13 19 70  8    Y
-     SO660TAT Purley (S0500) – Tattenham Corner
-                                   15 13 23 37  8    Y
-     SO680BTH1South Bermondsey Jn (SO510) – Old
-                                    1 49  2 32  8    Y
-              Kent Road Jn
-     SO680BTH1Old Kent Road Jn – Peckham Rye Jn
-                                    2 32  3 47  8    Y
-     SO680BTH1Peckham Rye Jn – Tulse Hill North Jn
-                                    3 47  6 07  8    Y
-     SO680WTH Tulse Hill – West Norwood Jn
-                                    6 14  6 41  8    Y
-     SO680LTH Tulse Hill – Leigham Jn
-                                    6 20  6 40  8    Y
-     SO680BTH1Tulse Hill North Jn – Streatham Jn
-                                    6 07  7 57  8    R1   R2Prohibited between Streatham and Streatham Jn on the Up
-                                                            Portsmouth line
-     SO680SSC Streatham Jn – Streatham Common
-                                    7 57  8 10  8    Y
-              Jn
-     SO680BTH1Streatham Jn – Streatham South Jn
-                                    7 57  8 09  8    Y
-              (a)
-     SO680BTH1Streatham South Jn (a) – Streatham
-                                    8 09  8 12  8    Y
-              South Jn (b)
-     SO680BTH1Streatham South Jn (b) – Streatham
-                                    8 12  8 15  8    Y
-              South Jn (c)
+     route    Description          M  Ch  M Ch 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+     SO520PAS Blackfriars Jn – Portsmouth and
+                                   44 26 44 50  8    Y
+              Southsea Low Level [Duplicated on
+              SW110]
+     SO520WPH2 Portsmouth and Southsea High Level
+                                   44 50 45 36 7*    R1   R2Prohibited on the Down line
+              – Portsmouth Harbour
+              *Platforms 4 and 5 RA7
+              *Platforms 1 and 3 RA4
+              [Duplicated on SW110]
+     SO530SCU1South Croydon Jn (SO600) –
+                                   11 29 12 23  8    Y
+              Sanderstead
+     SO530SCU1Sanderstead – Hurst Green Jn
+                                   12 23 21 35  4    R1   R1Prohibited between Woldingham and Oxted on the Down East
+                                                            Grinstead line
+     SO530HGG1Hurst Green Jn – End of Line beyond
+                                   21 35 30 12  6    Y
+              East Grinstead
+     SO540SCU1Hurst Green Jn – Uckfield
+                                   21 35 46 08  4    R1   R2Prohibited Eridge platform 1 (Uckfield Single line)
+     SO550RTT Redhill (SO500) – Tonbridge
+                                   22 40 42 16  8    Y
+     SO560RSJ Redhill – Reigate    22 40 24 27  8    Y
+     SO560RSJ Reigate – Route Boundary (SW300)
+                                   24 27 33 10  8    Y
+              (Shalford Jn)
+     SO590KJE1Keymer Jn – Lewes    40 69 49 74  8    Y
+     SO590KJE1/2 Lewes – Southerham Jn (Duplicated
+                                   49 74 51 11  8    Y
+              on SO620)
+     SO590KJE3Southerham Jn – Willingdon Jn
+                                    9 14 21 39  8    Y
+     SO590KJE3Willingdon Jn – Eastbourne
+                                   21 39 23 75  8    R1   R2Prohibited Eastbourne platform 2 (Up Main line)
+     SO600WJB Willingdon Jn – Connection – St
+                                   20 36 32 21  8    R1   R2Prohibited between Bexhill and Connection – St Leonards LMD on
+              Leonards LMD                                  the Down Bexhill line
+     SO600WJB Connection – St Leonards LMD – Bo
+                                   32 21 32 76  8    R1   R2Prohibited on the Down Bexhill line
+              Peep Jn
+     SO600TTH Bo Peep Jn – Hastings60 69 62 33  8    R1   R2Prohibited between St Leonards Warrior Square and Hastings on the
+                                                            Up Hastings line
+     SO600ATH Hastings – Ore Start / End of
+                                   82 34 81 42  4    R1   R2Prohibited on the Down line
+              Electrification
 
-    December 2009                                   183
+
+
+
+     December 2009                                  181

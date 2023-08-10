@@ -1,22 +1,21 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-Kent-Sussex-Wessex	0950	SO540	SCU1	Hurst Green Jn – Uckfield	21	35	46	08	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO550	RTT	Redhill (SO500) – Tonbridge	22	40	42	16	Y	Y	R1	N	N	N	N	R1 30mph Leigh Up platform
-Kent-Sussex-Wessex	0950	SO560	RSJ	Redhill – Reigate	22	40	24	27	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO560	RSJ	Reigate – Route Boundary (SW300) (Shalford Jn)	24	27	33	10	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO590	KJE1	Keymer Jn – Lewes	40	69	49	74	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO590	KJE1/2	Lewes – Southerham Jn [Duplicated on SO620]	49	74	51	11	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO590	KJE3	Southerham Jn – Willingdon Jn	9	14	21	39	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO590	KJE3	Willingdon Jn – Eastbourne	21	39	23	75	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO600	WJB	Willingdon Jn – Connection - St Leonards LMD	20	36	32	21	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO600	WJB	Connection - St Leonards LMD – Bo Peep Jn	32	21	32	76	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO600	TTH	Bo Peep Jn – Hastings	60	69	62	33	Y	Y	R1	N	N	N	N	R1 30mph Leigh Up platform
-Kent-Sussex-Wessex	0950	SO600	ATH	Hastings – Ore Start / End of Electrification	82	34	81	42	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO600	ATH	Ore Start / End of Electrification – Jn with Hastings line	81	42	56	20	Y	Y	R1	N	N	N	N	R1 Prohibited between Ore start / end of electrification and Appledore
-Kent-Sussex-Wessex	0950	SO620	BTL	Montpelier Jn – Lewes	0	14	7	77	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO620	KJE1/2	Lewes – Southerham Jn [Duplicated on SO590]	49	74	51	11	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO620	STS	Southerham Jn – Newhaven Harbour Jn	51	11	56	55	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO620	NHB	Newhaven Harbour Jn – Wharf Road (Newhaven Marine)	56	55	57	78	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO620	STS	Newhaven Harbour Jn – Seaford	56	55	58	77	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO630	BLI1	Brighton platforms 1 and 2 – Hove Jn	0	00	1	28	Y	Y	N	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO630	BLI1	Hove Jn – Hove platforms 2 and 3	1	28	1	35	Y	Y	Y	N	N	N	N	
-Kent-Sussex-Wessex	0950	SO630	PPH	Hove Jn – Hove Up platform loop via platform 1	50	48	51	02	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	VTB3	Change of Mileage (Quarry / Fast lines) – Three Bridges	21	15	29	21	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	VTB3	Three Bridges – Copyhold Jn	29	21	36	73	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	CJA1	Copyhold Jn – Change of Mileage	36	73	36	33	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	CJA2	Change of Mileage – Ardingly Sidings	0	00	0	70	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	VTB3	Copyhold Jn – Keymer Jn	36	73	40	69	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	VTB3	Keymer Jn – Preston Park Jn	40	69	49	43	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	PPH	Preston Park Jn – Hove Jn	49	21	50	44	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO500	VTB3	Preston Park Jn – Brighton	49	43	50	49	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	London Bridge platforms 10-15 – Bricklayers Arms Jn	0	00	2	12	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	Bricklayers Arms Jn – New Cross Gate Up Jn	2	12	2	60	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	ELL1	New Cross Gate Up Jn – Network Rail Boundary / Up ELL	5	51	5	49	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	New Cross Gate Up Jn – New Cross Gate Down Jn	2	60	3	10	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	ELL1	New Cross Gate Down Jn – Network Rail Boundary / Down ELL	6	02	5	79	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	New Cross Gate Down Jn – Sydenham Down Jn	3	10	6	51	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	Sydenham Down Jn – Norwood Jn	6	51	8	55	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	Norwood Jn – Norwood Fork Jn	8	55	9	33	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	LBW	Norwood Fork Jn – Cottage Jn / Windmill Bridge Jn	9	33	9	64	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	NFE	Norwood Fork Jn – Sutton	9	33	14	75	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO510	NFE	Sutton – Epsom Downs	14	75	18	60	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0950	SO520	TBH1	Three Bridges – Crawley	29	21	30	49	Y	Y	Y	N	N	N	N	

@@ -5,10 +5,63 @@
 
 
 
+     Line of ELR
+             Line of Route / Sector
+                                 oooo oooo oooo oooo 442
+                                                  444 450 456458 508 700 707
+                                                                           Notes
+     route   Description          M  Ch M  Ch 0000 0000 0000 0000 0000 0000ooooooooooooooooooooooooooo
+             Clapham Jn – Point Pleasant Jn
+     SW210 RDG1                    3 74  5 09  Y   Y  Y   Y   Y   Y  N  N
+             Point Pleasant Jn – Richmond
+     SW210 RDG1                    5 09  9 57  Y   Y  Y   Y   Y   Y  N  N
+             Richmond – Virginia Water
+     SW210 RDG1                    9 57 23 15  R1  Y  Y   R1  Y  R1  N  N  R1 20mph Staines Down platform
+             Virginia Water – Wokingham Jn
+     SW210 RDG1                   23 15 36 35  N   N  Y   Y   Y   N  N  N  R1 10mph Ascot Down platform
+             Wokingham Jn – Reading Spur Jn
+     SW210 RDG2                   61 72 67 76  N   N  Y   Y   Y   N  N  N
+             Reading Spur Jn – Route Boundary
+     SW210 RNJ                    68 00 67 76  N   N  N   N   N   N  N  N
+             (GW190) (Reading New Jn)
+             Reading Spur Jn – Reading Southern
+     SW210 RDG2                   67 76 68 25  N   N  N   Y   Y   N  N  N
+             Jn
+     SW210 RLL
+             Route Boundary Western (Reading
+                                  35 35  0 00  N   N  N   N   N   N  N  N
+             East Main Jn) – Reading Southern Jn
+             Reading Southern Jn – Reading
+     SW210 RDG2                   68 25 68 68  N   N  Y   Y   Y   N  N  N
+             platforms 4, 5 and 6
+             Latchmere Jn No.3 – Latchmere Jn
+     SW220 CKL                     2 39  2 50  N   Y  N   Y   N   N  E  E
+             No.1 [Duplicated in SO250]
+             Latchmere Jn No.1 – Latchmere Jn
+     SW220 WLL                     0 63  0 68  N   Y  Y   Y  EH   Y  E  N
+             No.2 [Duplicated in SO250]
+             Latchmere Jn No.2 – Kensington
+     SW220 WLL                     0 71  3 42  N   Y  Y   Y  EH   Y  E  N
+             Olympia [Duplicated in SO250]
+             Point Pleasant Jn – Network Rail
+     SW225 PPW                     5 09  5 67  Y   Y  R1  Y   R2 R1  N  N  R1 30mph between East Putney and
+             Boundary (TfL – District Line)           R2      R3              Network Rail Boundary (TfL – District
+                                                                              Line)
+                                                                           R2 Prohibited with the power controller
+                                                                              beyond Notch 2
+                                                                           R3 30mph maximum
+             Network Rail Boundary (TfL – District
+     SW225 PPW                     5 67  8 26  R1  Y  R2  R1  R2 R1  N  N  R1 10mph Wimbledon Park Down
+             Line) – Wimbledon North Jn (TfL          R3      R3              platform line
+             infrastructure)                                               R2 Prohibited with the power controller
+                                                                              beyond Notch 2
+                                                                           R3 30mph maximum
+             Barnes – New Kew Jn
+     SW230 HOU                     7 07  9 34  Y   Y  Y   Y   Y   Y  N  N
+             New Kew Jn – Route Boundary
+     SW230 NKE2                    9 34  9 64  N   N  N   N   N   N  N  N
+             (EA1330) (Kew East Jn)
 
-                                             This page is intentionally blank
 
 
-
-
-    December 2009                                   122
+     December 2009                                  120

@@ -1,21 +1,14 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	455	456	458	465	466	508	700	707	Notes
-Kent-Sussex-Wessex	0924	SO150	SEJ2	Middle Jn – Sheerness on Sea	44	13	51	19	N	N	N	N	N	N	N	R1	Y	Y	N	N	R1 Route prohibited to Classes 465/0 and 465/1
-Kent-Sussex-Wessex	0924	SO160	FDM	Faversham Jn (SO110) – Buckland Jn	52	13	76	32	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO160	FDM	Buckland Jn – Change of mileage	76	32	77	76	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO160	FDM	Change of mileage – Dover Substation	76	53	76	45	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO170	TTH	Tonbridge East Jn (SO130) – Tunbridge Wells	29	55	34	32	N	N	N	N	N	N	N	Y	Y	Y	R1	N	R1 OPPOS Up or Down Hastings through Grove hill Tunnel (between Tonbridge Wells - Grove Jn)
-Kent-Sussex-Wessex	0924	SO170	TTH	Tunbridge Wells – Bo Peep Jn	34	32	60	69	N	N	N	N	N	N	N	N	N	Y	N	N	
-Kent-Sussex-Wessex	0924	SO180	PWS1	Paddock Wood – Maidstone West Change of Mileage	34	67	44	56	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO210	APL	Appledore (SO600) – Dungeness Ground Frame	64	50	73	65	N	N	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0924	SO220	ACR	Ashford (Jn with Canterbury line (SO130)) – Hitachi Depot (Access)	56	35	57	05	Y	N	N	N	N	N	N	Y	Y	Y	E R1	E	R1 Prohibited Ashford (Jn with Canterbury line (SO130)) - Ashford Station
-Kent-Sussex-Wessex	0924	SO220	ACR	Hitachi Depot (Access) – Minster West Jn	57	05	81	69	Y	N	N	N	N	N	N	Y	Y	Y	E R1	N	R1 Prohibited Ashford Down Yard East G Jn - Minster West Jn
-Kent-Sussex-Wessex	0924	SO220	ACR	Minster West Jn – Minster East Jn	81	69	82	17	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO220	ACR	Minster East Jn – Ramsgate Substation	82	17	85	22	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO230	FFH2	Folkstone East Jn (SO130) – Folkstone Harbour	71	08	72	13	N	N	N	N	N	N	N	N	N	N	N	N	
-Kent-Sussex-Wessex	0924	SO240	BME2	Buckland Jn – Sandwich	99	05	86	46	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO240	BME2	Sandwich – Minster South	86	46	82	21	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	Y	N	N	N	N	N	N	Y	Y	Y	N	N	
-Kent-Sussex-Wessex	0924	SO250	BSF	Battersea Pier Jn – Connection to Battersea Reversible	0	71	1	18	N	Y	Y	Y	Y	Y	E	Y	Y	N	Y	E	
-Kent-Sussex-Wessex	0924	SO250	BSF	Connection to Battersea Reversible – Stewarts Lane Jn	1	18	1	36	N	Y	N	N	Y	Y	E	Y	Y	N	Y	E	
-Kent-Sussex-Wessex	0924	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	N	Y	N	N	Y	Y	E	Y	Y	N	Y	E	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	395	442	444	450	456	458	465	466	508	700	707	Notes
+Kent-Sussex-Wessex	0924	SO130	XTD	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	N	N	N	N	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0924	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	N	N	Y	Y	N	Y	Y	
+Kent-Sussex-Wessex	0924	SO130	XTD	Parks Bridge Jn – Courthill Loop South Jn	6	14	6	21	N	N	N	N	E R1	N	Y	Y	Y	Y	Y	R1 60mph maximum speed
+Kent-Sussex-Wessex	0924	SO130	XTD	Courthill Loop South Jn – Hither Green Jn	6	21	7	04	Y	N	N	N	E R1	N	Y	Y	Y	Y	Y	R1 60mph maximum speed
+Kent-Sussex-Wessex	0924	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	Y	N	N	N	E R1	N	Y	Y	Y	Y	Y	R1 60mph maximum speed
+Kent-Sussex-Wessex	0924	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	Y	N	N	N	E R1 R2 R3 R4	N	Y	Y	Y	Y	R5 R6	R1 60mph maximum speed R2 Between London end of Grove Park Station (08m 55ch (Slows to Fasts Double Jn) and Chislehurst Jn use fast lines R3 25mph through Grove Park (Fast lines). R4 Access to Grove Park Up Sidings via 924/925 points R5 Prohibited Grove Park platform 5 with crush deflated suspension R6 Prohibited Chiselhurst platform 4 with crush deflated suspension
+Kent-Sussex-Wessex	0924	SO130	CSM1	Chislehurst Jn – St Mary Cray Down Jn via Reversible Chatham Loop	11	33	11	71	Y	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0924	SO130	CSM3	Chislehurst Jn – Hawkwood Jn (Up Chatham Loop)	11	33	11	66	Y	N	N	N	N	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0924	SO130	XTD	Chislehurst Jn – Petts Wood Jns	11	33	12	27	Y	N	N	N	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0924	SO130	XTD	Petts Wood Jns – Sevenoaks Substation	12	27	21	74	Y	N	N	N	R1 R2 R3	N	Y	Y	Y	Y	R4	R1 60mph Chelsfield Down platform R2 15mph Knockholt Down and Up platforms R3 15mph Dunton Green Down and Up platforms
+Kent-Sussex-Wessex	0924	SO130	XTD	Sevenoaks Substation – Tonbridge West Jn	21	74	29	35	Y	N	N	N	E R1	N	Y	Y	Y	Y	E	R1 75mph maximum speed
+Kent-Sussex-Wessex	0924	SO130	XTD	Tonbridge West Jn – Tonbridge East Jn	29	35	29	55	R1	E	N	N	E R1 R2	N	Y	Y	Y	Y	E	R1 Prohibited Tonbridge platform 4 R2 75mph maximum speed
+Kent-Sussex-Wessex	0924	SO130	XTD	Tonbridge East Jn – Paddock Wood	29	55	34	67	R1	E	N	N	E R2	N	Y	Y	Y	Y	E	R1 Prohibited Paddock Wood platform 3 R2 75mph maximum speed
