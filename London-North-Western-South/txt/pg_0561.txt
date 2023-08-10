@@ -5,80 +5,48 @@
 
 
 
-    Line of ELR
-             Line of Route / Sector
-                                M Ch M Ch 165 166 RHM 168 170 171 172 175 180 195 196 220 221 Notes
-    route    Description
-    MD301RBS1Coventry North Jn – Stechford
-                                94 19 109
-                                        12R1  N   Y Y N R2Y N N  Y Y T R1Route prohibited to Class 165/1
-             North Jn                                                 R2 Route prohibited to Class 172/2 and 172/3
-    MD301RBS1Stechford North Jn – Grand Jn
-                                10912 111
-                                        72R1  N   Y Y N R2Y N N  Y Y T R1Route prohibited to Class 165/1
-                                                                      R2 Route prohibited to Class 172/2 and 172/3
-    MD301RBS1Grand Jn – Proof House Jn
-                               111 72 112
-                                        19R1  N   Y Y N Y Y N N  Y Y T R1Route prohibited to Class 165/1
-    MD301RBS1Proof House Jn – Birmingham New 112
-                                   19 112
-                                        73R1  N   Y Y N R2Y N N  Y Y T R1Route prohibited to Class 165/1
-             Street (Change of Mileage)                               R2 Prohibited Birmingham New Street East Dock Bay
-                                                                         when laden
-    MD301RBS2Birmingham New Street (Change of
-                                 0 05 2 06E   N   Y Y N Y Y N N  Y Y T
-             Mileage) – Soho South Jn
-    MD301RBS2Soho South Jn – Soho North Jn
-                                 2 06 2 38E   N   Y Y N Y Y N N  Y Y T
-    MD301RBS2Soho North Jn – Galton Jn
-                                 2 38 3 64E   N   Y Y N Y Y N N  Y Y T
-    MD301RBS2Galton Jn – Wolverhampton Crane
-                                 3 6412 60E   N   Y Y N N Y N N  Y Y T
-             Street Jn
-    MD301RBS2Wolverhampton Crane Street Jn –
-                                12 6014 43E   N   Y Y N N Y N EH Y Y T
-             Bushbury Jn (Change of Mileage)
-    MD301RBS3Bushbury Jn (Change of Mileage) –
-                                15 3223 30E   N   Y Y N N Y N EH Y Y T
-             Route Boundary (NW1002)
-             (Stafford Trent Valley Jn No.1)
-    MD306BAG1Change of Mileage (Birmingham
-                                42 3547 20Y   N   N Y N Y N N N  Y Y Y
-             New Street) – Lifford West Jn
-    MD306BAG1Lifford West Jn – King's Norton
-                                47 2047 48Y   N   N Y N Y N N N  Y Y Y
-             Station Jn
-    MD306BAG1King's Norton Station Jn – King's
-                                47 4848 02Y   N   N Y N Y N N N  Y Y Y
-             Norton Jn (Change of Mileage)
-    MD306BAG2King's Norton Jn (Change of
-                                46 7751 58Y   N   N Y N Y N N N  Y Y Y
-             Mileage) – Barnt Green Jn
-    MD306BAG2Barnt Green Jn – Stoke Works Jn
-                                51 5857 43Y   R1  N Y N Y N N N  Y Y Y R1Prohibited Barnt Green Jn – Route Boundary (52m
-                                                                         40ch)
-    MD306BAG2Stoke Works Jn – Abbotswood Jn
-                                57 4368 60 N  Y   N Y N Y N N N  Y Y Y
-    MD306BAG2Abbotswood Jn – Route Boundary
-                                68 6077 40 E  Y   N Y N Y Y Y N  E Y Y R1Route prohibited to Class 165/0.
-             (GW401) (Ashchurch)          R1
-    MD310BEA Barnt Green Jn – Redditch
-                                51 5856 60 N  N   N N N N N N N  Y N N
-    MD315SAS Stechford South Jn – Stechford
-                                -0 20-0 04 N  N   Y Y N N N N N  N Y Y
-             North Jn (via Up Line)
-    MD315SAS Stechford North Jn – Aston South
-                                -0 04 2 61N   N   Y Y N N N N N  Y Y Y
-             Jn
-    MD320RBS1Proof House Jn – Curzon Street Jn 112
-                                   19 112
-                                        07Y   N   Y Y N N Y N N  Y Y Y
-             (Change of Mileage)
-    MD320PBJ Curzon Street Jn (Change of
-                                 0 00 1 60Y   N   Y Y N N Y N N  Y Y Y
-             Mileage) – Aston South Jn
-    MD320PBJ Aston South Jn – Aston North Jn
-                                 1 60 1 73 Y  N   Y Y N N Y N N  Y Y Y
-    MD320PBJ Aston North Jn – Bescot Jn
-                                 1 73 8 50R1  N   Y Y N N Y N N  Y Y Y R1Prohibited between Perry Barr South Jn and Bescot Jn
-     December 2009                                   14D
+     Line of
+           ELR   Line of Route / Sector Description    121139 142
+                                                                144150 153
+                                                                         155 156158 159 Notes
+     route                              M   Ch  M  Ch
+
+
+     MD900 ABW   Abbotswood Jn – Norton Jn
+                                         0  00   0  62 E  N  Y  N  Y   Y  Y  Y  Y  Y
+
+     MD900 OWW   Norton Jn – Shrub Hill Jn
+                                        117 26  120 46 E  N  Y  N  Y   Y  E  E  Y  Y
+
+     MD900 OWW   Shrub Hill Jn – Droitwich Spa Jn
+                                        120 46  126 21 E  N  Y  N  Y   Y  E  E  Y  Y
+
+
+     MD900 STO   Droitwich Spa Jn – Stoke Works Jn
+                                        126 21  130 25 E  N  Y  N  Y   Y  E  E  Y  Y
+
+
+     MD910 OWW   Pershore (excl) – Norton Jn
+                                        112 00  117 26 E  N  Y  N  Y   Y  E  E  Y  Y
+
+     MD940 WAH   Shrub Hill Jn – Henwick SB (Branch Single)
+                                        120 46  121 65 E  N  Y  N  Y   Y  E  E  Y  Y
+
+
+     MD940 WAH   Henwick SB – Shelwick Jn
+                                        121 65  148 11 E  N  Y  N  Y   Y  E  E  Y  Y
+
+     MD950 BLW   Worcester Tunnel Jn – Site of former
+                                         0  30   0  00 E  N  Y  N  Y   Y  E  E  Y  Y
+                 Rainbow Hill Jn Change of ELR
+
+
+
+     MD950 WAH   Site of former Rainbow Hill Jn Change of
+                                        120 64  121 65 E  N  Y  N  Y   Y  E  E  Y  Y
+                 ELR – Henwick SB (Droitwich Single)
+
+
+
+
+    December 2009                                    13B

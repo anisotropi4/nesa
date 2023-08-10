@@ -1,21 +1,24 @@
-Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Western-South	0643	MD315	Stechford South Junction – Aston South Junction	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0643	MD320	Proof House Junction – Bushbury Junction via Bescot and Wednesfield Heath Tunnel (Grand Junction Line)	Y *	Y	Y	R1	N	R1	N	N	R1 W9 and W10 prohibited between Proof House Junction and Aston South Junction
-London-North-Western-South	0643	MD325	Soho South Junction – Perry Barr North Junction	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0643	MD330	Soho East Junction – Soho North Junction	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0643	MD335	Perry Barr West Junction – Perry Barr South Junction	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0643	MD340	Aston North Junction – Alrewas (Exclusive)	Y *	Y	Y	R1	R1	R1	R1	R1	R1 Prohibited Aston North Junction to Lichfield Trent Valley Jn
-London-North-Western-South	0643	MD345	Bescot Junction – Ryecroft Junction	Y *	Y	Y	Y	N	Y	R1	N	R1 Prohibited Bescott Jn to Walsall Pleck Jn
-London-North-Western-South	0643	MD345	Ryecroft Junction – Cannock	Y *	Y	Y	Y	n	Y	Y	N	
-London-North-Western-South	0643	MD345	Cannock – Brereton Sidings [13m 25ch]	Y *	N	N	Y	n	Y	Y	N	
-London-North-Western-South	0643	MD345	Brereton Sidings [13m 25ch] – Rugeley North Junction (Exclusive)	Y *	Y	Y	Y	n	Y	Y	N	
-London-North-Western-South	0643	MD350	Anglesea Sidings – Lichfield City Junction	Y	Y	Y	N	N	N	N	N	
-London-North-Western-South	0643	MD355	Lichfield Trent Valley Junction – Lichfield Trent Valley (Chord Line)	Y	Y	Y	N	N	Y	Y	N	
-London-North-Western-South	0643	MD360	Walsall, Pleck Junction – Darlaston Junction	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-South	0643	MD365	Portobello Junction – Wolverhampton Crane Street Junction	Y	Y	Y	N	N	Y	N	N	
-London-North-Western-South	0643	MD401	Heyford – Bordesley Junction via Dorridge	Y *	Y	Y	N	N	R1	N	N	R1 Prohibited from the Down & Up Hatton platform line (platform 3) at Hatton
-London-North-Western-South	0643	MD405	Leamington Spa Junction – Coventry South Junction via Milverton Jn	Y	Y	Y	N	N	Y	N	N	
-London-North-Western-South	0643	MD410	Coventry North Junction – Nuneaton South Junction via Bedworth	Y *	Y	Y	N	N	Y	N	N	
-London-North-Western-South	0643	MD415	Hatton Station Junction – Stratford- upon-Avon via Bearley	Y *	Y	N	N	N	N	N	N	
-London-North-Western-South	0643	MD420	Hatton North Junction – Hatton West Junction	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0643	MD425	Tyseley South Junction – Bearley Junction via Shirley	Y *	Y	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-South	0643	MD435	HSJ	Site of Former Handsworth Jn – Smethwick Jn	132	47	133	32	8	N	N	Y	N	N	N	
+London-North-Western-South	0643	MD435	GSJ2	Smethwick Jn – Stourbridge North Jn	133	32	141	06	8	H R1	H R1	Y	H R1	N	N	R1 Prohibited between Rowley Regis and Stourbridge North Jn
+London-North-Western-South	0643	MD440	GSJ1	Galton Jn – Smethwick Jn	3	64	4	08	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD445	SJS	Stourbridge Jn – Stourbridge Town	142	16	142	78	8	N	N	Y	N	N	N	
+London-North-Western-South	0643	MD450	OWW	Stourbridge North Jn – Round Oak	142	15	146	13	8	N	N	Y	N	N	N	
+London-North-Western-South	0643	MD455	KWD	Kingswinford Jn – Network Rail Boundary	144	33	145	60	8	N	N	Y	N	N	N	Line out of use NME/2005/LNW284
+London-North-Western-South	0643	MD460	SJT1	Kineton MOD Branch – Burton Dassett (MOD Kineton)	22	60	25	60	8	N	N	Y	N	N	N	
+London-North-Western-South	0643	MD501	DBP1	Route Boundary (LN3501) (London Road Jn) – Kingsbury Jn	23	30	29	39	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD501	DBP2	Kingsbury Jn – Water Orton East Jn	29	39	33	22	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD501	DBP3	Water Orton East Jn (Change of Mileage) – Landor Street Jn	34	43	40	60	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD501	DBP3	Landor Street Jn – Proof House Jn	40	60	41	51	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD545	KJW	Kingsbury Jn – Whitacre Jn (Change of Mileage)	29	39	31	69	8	N	N	Y	N	N	N	
+London-North-Western-South	0643	MD555	NWO	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD555	NWO	Limit of Electrification – Whitacre West Junction	10	00	0	00	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD560	WOP	Water Orton West Jn – Park Lane Change of ELR	35	15	36	04	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD560	CBR2	Park Lane Change of ELR – Park Lane Jn	36	04	36	15	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	8	H	N	Y	N	N	N	
+London-North-Western-South	0643	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	8	H	H	Y	H	N	N	
+London-North-Western-South	0643	MD570	SKN	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	8	H	N	Y	N	N	N	
+London-North-Western-South	0643	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	8	H	H	Y	H	N	N	

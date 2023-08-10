@@ -4,64 +4,72 @@
                                       LNW South Route Sectional Appendix Module LNW(S) RC
 
 
+     Line of
+           ELR Line of Route / Sector Description
+                                    oooo oooo oooo oooo
+                                                  RA 86   87   88 90   91  92 Notes
+     route                           M Ch  M  Ch ooo ooo  ooo     ooo  ooo ooooooooooooooooooooooo
+                                                                              ooooooo
+     MD306BAG1King's Norton Station Jn – King's Norton
+                                    47  48 48 02  8   Y   Y    Y   Y    N   N
+              Jn (Change of Mileage)
+     MD306BAG2King's Norton Jn (Change of Mileage) –
+                                    46  77 51 58  8   Y   Y    Y   Y    N   N
+              Barnt Green Jn
+     MD306BAG2Barnt Green Jn – Stoke Works Jn
+                                    51  58 51 58  8   H   N    Y   N    N   N  R1 Prohibited 52m 40ch to
+                                                      R1                         Stoke Works Jn
+     MD306BAG2Stoke Works Jn – Abbotswood Jn
+                                    57  43 68 60  8   N   N    Y   N    N   N
+     MD306BAG2Abbotswood Jn – Route Boundary
+                                    68  60 77 40  8   N   N    Y   N    N   N
+              (GW401) (Ashchurch)
+     MD310BEA Barnt Green Jn – Redditch
+                                    51  58 56 60  8   Y   Y    Y   Y    N   N
+     MD315SAS Stechford South Jn – Stechford North Jn
+                                    -0  20 -0 04  8   Y   Y    Y   Y    N   N
+              (via Up Line)
+     MD315SAS Stechford North Jn – Aston South Jn
+                                    -0  04 2  61  8   Y   Y    Y   N    N   N
+     MD320RBS1 Proof House Jn – Curzon Street Jn
+                                   112  19112 07  8   Y   Y    Y   N    N   N
+              (Change of Mileage)
+     MD320PBJ Curzon Street Jn (Change of Mileage) –
+                                     0  00 1  60  8   Y   Y    Y   N    N   N
+              Aston South Jn
+     MD320PBJ Aston South Jn – Aston North Jn
+                                     1  60  1 73  8   Y   Y    Y   Y    N   N
+     MD320PBJ Aston North Jn – Bescot Jn
+                                     1  73  8 50  8   Y   Y    Y   Y    N   Y
+     MD320PBJ Bescot Jn – Bushbury Jn8  50 15 32  8   Y   Y    Y   Y    N   Y
+     MD325SSP Soho South Jn – Perry Barr West Jn
+                                     2  71  0 39  8   Y   Y    Y   Y    N   Y
+     MD325PBL Perry Barr West Jn – Perry Barr North Jn
+                                     0  29  0 00  8   Y   Y    Y   Y    N   Y
+     MD330SCL Soho East Jn – Soho North Jn
+                                     0  00  0 22  8   Y   Y    Y   Y    N   Y
+     MD335SSP Perry Barr West Jn – Perry Barr South Jn
+                                     0  39  0 00  8   Y   Y    Y   Y    N   Y
+     MD340ALC1 Aston North Jn – Sutton Coldfield Change
+                                     0  00  5 00  8   Y   Y    Y   Y    N   Y
+              of ELR
+     MD340ALC2 Sutton Coldfield Change of ELR –
+                                     5  00 13 33  8   Y   Y    Y   Y    N   Y
+              Lichfield City Jn
+     MD340BJW3 Lichfield City Jn – Lichfield Trent Valley
+                                    16  47 18 05  8   Y   Y    Y   Y    N   Y
+              (End of Electrification)
+     MD340BJW3 Lichfield Trent Valley – Route Boundary
+                                    18  05 19 00  8   H   H    Y   Y    N   Y
+              (LN3340) (Wichnor Jn)
+     MD345BJW1 Bescot Jn – Walsall Pleck Jn (Change of
+                                     0  00 0  65  8   Y   Y    Y   Y    N   Y
+              Mileage)
+     MD345BJW2 Walsall Pleck Jn (Change of Mileage) –
+                                     5  42 6  34  8   Y   Y    Y   Y    N   N
+              Limit of Electrification
+     MD345BJW2 Limit of Electrification – Ryecroft Jn
+                                     6  34 6  76  8   H   H    Y   H    N   N
 
-     Line of Line of Route / Sector                Gauge                       Notes
-     routeDescription         W6a   W7     W8    W9   W9Plus W10   W10A   W12
-     MD101London Euston – West London
-                              Y*    R1     R1    R1     N     R1    N      N  R1  Applies only to traffic operating over
-          Junction (Willesden)                                                    the Slow lines between Camden
-                                                                                  Junction (to / from the Primrose Hill
-                                                                                  lines [MD145]) and West London
-                                                                                  Junction (Willesden).
-     MD101West London Junction (Willesden)
-                              Y*    Y      Y      Y     N     Y     N      N
-          – Rugby Trent Valley Junction
-     MD101Rugby Trent Valley Junction –
-                              Y*    Y      Y      Y     N     Y     N      N
-          Armitage Junction (Exclusive)
-     MD101West London Junction (Willesden)
-                              Y     Y      Y      Y     N     Y     N      N
-          – Sudbury Junction (Willesden
-          Relief Lines)
-     MD101Harlesden Junction – Sudbury
-                              Y*    Y      Y      Y     N     Y     N      N
-          Junction (Brent Reception &
-          Departure Lines)
-     MD105Hanslope Junction – Rugby via
-                              Y*    Y      Y      Y     N     Y     N      N
-          Northampton
-     MD120Camden Junction – Willesden
-                              R1*   N      N      N     N     N     N      N  R1  Only L.U.L trains may operate
-          Suburban Junction (DC Lines)                                            between Queens Park Jn and the
-                                                                                  NR/LUL boundary on the connecting
-                                                                                  lines to/from Queens Park LUL lines
-     MD120Willesden Suburban Junction –
-                              Y*    N      N      N     N     N     N      N
-          Watford Junction (DC Lines)
-     MD130Watford Junction – St Albans
-                              Y*    N      N      N     N     N     N      N
-          Abbey
-     MD136Harlesden Jn – Railnet Jn
-                              Y     Y      Y      Y     N     Y     N      N
-     MD136Railnet Jn – Willesden Carriage
-                              Y     N      N      N     N     N     N      N
-          Shed South
-     MD136Willesden Carriage Shed South –
-                              Y     N      N      N     N     N     N      N
-          Connection with Yard line
-     MD136Willesden Carriage Shed South –
-                              Y     N      N      N     N     N     N      N
-          Connection with Yard line
-     MD136Connection with Yard line –
-                              Y     Y      Y      Y     N     Y     N      N
-          Wembley Central Jn
-     MD137Harlesden Jn – Railnet Jn
-                              Y     Y      Y      Y     N     Y     N      N
-     MD137Railnet Jn – Wembley Yard South
-                              Y     Y      Y      Y     N     Y     N      N
-          Jn
 
-
-
-
-     December 2009                                   44
+    December 2009                                    42G

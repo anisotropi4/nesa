@@ -1,20 +1,21 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	166 RHM	168	170	171	172	175	180	195	196	220	221	Notes
-London-North-Western-South	0559	MD105	HNR	Northampton South Jn – Northampton North Jn	65	55	66	12	E R1	N	E	Y	N	E R2	Y	N	N	Y	Y	Y	R1 Route prohibited to Class 165/1 R2 Route prohibited to Class 172/2 and 172/3
-London-North-Western-South	0559	MD105	HNR	Northampton North Jn – Rugby South Jn	66	12	83	54	E R1	N	E	Y	N	E R2	Y	N	N	Y	Y	Y	R1 Route prohibited to Class 165/1 R2 Route prohibited to Class 172/2 and 172/3
-London-North-Western-South	0559	MD120	CWJ	Camden Jn DC lines (Down DC line mileage) – Kilburn High Road (DC Lines)	1	36	3	01	N	N	N	N	N	E R1	N	N	N	N	N	N	R1 Prohibited to Class 172/2 and 172/3
-London-North-Western-South	0559	MD120	CWJ	Kilburn High Road – Willesden Suburban Jn (DC Lines)	3	01	5	28	N	N	N	N	N	E R1	N	N	N	N	N	N	R1 Prohibited to Class 172/2 and 172/3
-London-North-Western-South	0559	MD120	CWJ	Willesden Suburban Jn – Harrow and Wealdstone (Sand Drag) (DC Lines)	5	28	11	46	E R1 R2	N	E R2	N	N	R2 R3 R4	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Permitted Willesden Junction Low Level for access to Willesden TMD R3 Prohibited between Willesden Junction Low Level and Harrow and Wealdstone R4 Prohibited to Class 172/2 and 172/3 when laden
-London-North-Western-South	0559	MD120	CWJ	Harrow and Wealdstone (Sand Drag) – Watford Jn (DC Lines)	11	46	17	58	N	N	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0559	MD130	WSA	Watford Junction – St Albans Abbey	0	00	6	45	N	N	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0559	MD136	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD136	WCL	Railnet Jn – Willesden Carriage Shed South	1	11	2	00	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD136	WCL	Willesden Carriage Shed South – Connection with Yard line	2	00	2	60	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD136	WEF1	Connection with Yard line – Wembley Central Jn	2	60	2	76	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD137	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD137	UHL	Railnet Jn – Wembley Yard South Jn	1	11	1	62	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD137	WEF1	Wembley Yard South Jn – Wembley Central Jn	1	62	2	76	N	N	N	N	N	E	N	N	N	N	N	Y	
-London-North-Western-South	0559	MD140	LEC1	Bletchley South Jn – Bletchley North Jn (Change of Mileage)	46	41	46	59	N	N	N	N	N	E R1	N	N	N	N	N	N	R1 Prohibited with footsteps fitted
-London-North-Western-South	0559	MD140	BBM	Bletchley North Jn (Change of Mileage) – Limit of electrification (Bletchley TMD)	0	11	0	21	N	N	N	N	N	E R1	N	N	N	Y	N	N	R1 Prohibited with footsteps fitted
-London-North-Western-South	0559	MD140	BBM	Limit of electrification (Bletchley TMD) – Route Boundary (LN3140) (Bedford)	0	21	16	07	N	N	N	N	N	E R1	N	N	N	Y	N	N	R1 Prohibited with footsteps fitted
-London-North-Western-South	0559	MD145	CRC2	Route Boundary (EA1320) (Camden Road West Jn) – Camden Jn (North DC lines)	5	42	5	78	Y	N	N	Y	N	E	N	N	N	N	N	E	
-London-North-Western-South	0559	MD150	KGW	Route Boundary (EA1310) (Kensal Green Jn) – Willesden Suburban Jn	5	25	5	36	E R1	N	E	N	N	R2	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Prohibited to Class 172/2 and 172/3 when laden
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	139	142	144	150	153	155	156	158	159	Notes
+London-North-Western-South	0559	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0559	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	Y	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0559	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	Y	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0559	MD570	SKN	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	Y	N	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0559	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0559	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0559	MD701	MCJ1	London Marylebone – Neasden South Jn (Change of Mileage)	205	77	200	65	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD701	NAJ1	Neasden South Jn (Change of Mileage) – Northolt Jn	6	30	0	00	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited laden except for access to Chinnor Railway via Thame Jn
+London-North-Western-South	0559	MD701	NAJ2	Princes Risborough Jn – Site of Former Ashendon Jn (Change of Mileage)	24	50	33	69	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited laden except for access to Chinnor Railway via Thame Jn
+London-North-Western-South	0559	MD701	NAJ3	Site of Former Ashendon Jn (Change of Mileage) – Aynho Jn	0	00	18	35	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD705	ANL	Route Boundary (GW110) (Greenford West Jn) – Northolt Jn (South Ruislip)	8	60	10	15	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD710	MCJ1	Neasden South Jn – Network Rail Boundary (LUL) (Harrow-on-the-Hill South Jn)	200	66	197	05	E R1	N	N	N	R1	R1	R1	R1	N	N	R1 Prohibited unless fitted with tripcocks
+London-North-Western-South	0559	MD712	MCJ2	Network Rail Boundary (LUL) (Amersham, Mantles Wood) – Aylesbury Jn	25	21	38	08	E	N	N	N	R1	R1	R1	R1	N	N	R1 Prohibited over LUL section
+London-North-Western-South	0559	MD712	MCJ2	Aylesbury Jn - Aylesbury	38	08	38	13	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD715	NJN	Neasden South Jn – Route Boundary (EA1360) (Neasden Jn)	6	30	6	51	E	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD720	NAJ2	Princes Risborough – Change of Mileage (Princes Risborough Jn)	24	40	24	48	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited Princes Risborough platform 2 when laden
+London-North-Western-South	0559	MD720	PRA	Change of Mileage (Princes Risborough Jn) – Aylesbury Jn	42	31	49	35	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD725	MCJ2	Aylesbury – Aylesbury Vale Parkway	38	13	40	38	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-South	0559	MD725	MCJ2	Aylesbury Vale Parkway – Change of Mileage (Quainton Road)	40	38	44	28	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited in laden condition when any other trains are within this section of route except when providing assistance

@@ -2,70 +2,22 @@
        LNW South Route Sectional Appendix Module LNW(S)1
 
 
-       Operation of class 943 propelling advisory control
-       system (Table ‘J1’)
-       The provisions of Rule Book, Module TW1, Section 15 are exempt for the operation of trains containing Class 943
-       propelling control vehicles (PCV) in PACS mode (that is, using the ‘Propelling and Advisory Control System’), between the
-       locations shown in the table below :
-               Between             Lines       Other Restrictions
-
-       MD101 EUSTON TO ARMITAGE JUNCTION (EXCLUSIVE)
-       Euston and Wembley Central
-                             All lines
-       Watford Jn. and Watford South Jn.
-                             All lines       For use of train
-                                             accessing to/from DC
-                                             Electric lines.
-       MD120 CAMDEN JUNCTION TO WATFORD JUNCTION (DC LINES)
-       Camden Jn. to Willesden Junction
-                             All lines       For use of trains
-       Low Level                             accessing to/from North
-                                             London lines, Euston
-                                             D.S.S. via DC Electric
-                                             lines at Watford Junction.
-       MD136 HARLESDEN JN TO WEMBLEY CENTRAL (WILLESDEN CARRIAGE SHED LINES)
-                             All lines
-       MD137 HARLESDEN JN TO WEMBLEY CENTRAL (WEMBLEY YARD LINES)
-                             All lines
-       MD145 CAMDEN ROAD JUNCTION TO CAMDEN JUNCTION
-       Camden Road West Jn. to Camden
-                             All lines       For use of trains
-       Jn.                                   accessing to/from North
-                                             London lines.
-       MD150 KENSAL GREEN JUNCTION TO WILLESDEN SUBURBAN JUNCTION
-       Kensal Green Jn. to Willesden
-                             All lines       For use of trains
-       Suburban Jn.                          accessing to/from North
-                                             London lines.
-       MD155 KENSAL GREEN JUNCTION TO HARLESDEN JUNCTION (CITY LINES)
-       Kensal Green Jn to Harlesden Jn
-                             Down City line
-                             Up City line
-       MD166 NORTH POLE JUNCTION TO WEMBLEY
-       Mitre Bridge Jn. and West London Jn.
-                             All lines
-       West London Jn and Wembley Yard
-                             Down Willesden Relief
-       South Jn              line and Up Willesden
-                             Relief line
-                                             LNW South Route GI - Dated: 05/11/16
 
 
-       Passenger trains - emergency sanding equipment
-       Certain passenger trains other than locomotive hauled trains and Class 165/166 Diesel Multiple Units are fitted with
-       sanding equipment, which the Driver will operate when it is necessary to stop the train in conditions of very low adhesion.
-       Where each driving cab carries one application of sand, once the equipment has been operated from that cab, the facility
-       will not be available again until the containers have been replaced.
-       Drivers’ Actions. When the emergency sanding equipment has been used the train must be brought to a stand and the
-       Driver must inform the Signaller immediately and report the following:
-       e)that the emergency sanding equipment has been operated,
-       f)the location where the emergency sanding equipment was discharged and the current location of the train.
-       If the Signaller cannot be contacted immediately via the GSM-R or a signal post telephone, the Driver must place a track
-       circuit operating clip on the line immediately in front of the train. To avoid delay, if the Driver alights to use a signal post
-       telephone, a track circuit operating clip should be taken as well. The Signaller may instruct the Driver to place a track
-       circuit operating clip on the line immediately in front of the train.
+       Obstacle Detection (OD) Level Crossings on LNW Route
+       OD level crossings work automatically and are similar to CCTV crossings in that they have full barriers, road traffic signals
+       and have protecting signals with telephones linked to the signalbox. Instead of a CCTV camera they use a combination of
+       Radar and Lidar (laser radar) to check that there are no objects or persons within the level crossing before a train
+       approaches. The normal position of the barriers is raised.
+       The following modules contained within GE/RT8000 are amended when working with OD level crossings:
+       Duties of a level crossing attendant Handbook 18
+       Qualified attendants are not permitted to operate an OD crossing until they have been instructed on its use. A copy of the
+       attendant’s instructions showing the method of working can be found in the REB at the crossing.
+
+
+                                             LNW South Route GI - Dated: 07/06/14
 
 
 
 
-       December 2009                 37
+       December 2009                 35

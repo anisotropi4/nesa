@@ -1,21 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
-London-North-Western-South	0579	MD725	MCJ2	Aylesbury Vale Parkway – Change of Mileage (Quainton Road)	40	38	44	28	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD725	MCJ3	Change of Mileage (Quainton Road) – Calvert Jn (Change of Mileage)	161	50	156	72	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD725	MCJ4	Calvert Jn (Change of Mileage) – Claydon L&NE Jn	0	00	0	41	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD736	OXD	Route Boundary (GW277) –Gavray Junction	29	25	19	00	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0579	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	N	N	N	N	N	N	N	N	N	N	Line non operational
-London-North-Western-South	0579	MD736	OXD	Buffer Stops – Flyover Junction (Change of ELR)	1	27	0	62	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD736	BFO	Flyover Junction (Change of ELR) – Flyover Junction Summit	0	00	0	68	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD736	DHF	Flyover Junction Summit – Limit of Electrification	0	68	1	37	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD736	DHF	Limit of Electrification – Bletchley Flyover North Jn	1	37	1	61	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD736	DHF	Bletchley Flyover North Jn – Denbigh Hall South Jn	1	61	1	73	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD740	BFO	Flyover Jn (Summit) – Fenny Stratford Bletchley Flyover Jn	0	68	1	59	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD745	BSG	Bicester South Junction – Gavray Junction	0	00	0	52	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0579	MD801	WSJ1	Wolverhampton North Jn – Oxley, Stafford Road Jn (Change of Mileage)	143	52	142	79	N	N	Y	N	Y	Y	Y	H	E	N	
-London-North-Western-South	0579	MD801	WSJ2	Oxley, Stafford Road Jn (Change of Mileage) – Limit of Electrification	143	02	143	65	N	N	Y	N	Y	Y	Y	H	E	N	
-London-North-Western-South	0579	MD801	WSJ2	Limit of Electrification – Madeley Jn	143	65	156	19	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD801	WSJ2	Madeley Jn – Route Boundary (GW731) (Abbey Foregate )	156	19	170	46	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD805	OXC	Bushbury (Oxley) Jn – Stafford Road Jn	1	02	0	00	N	N	N	N	N	N	N	H	N	N	
-London-North-Western-South	0579	MD810	MJI1	Madeley Junction – Site of Former Lightmoor Jn	156	19	160	29	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0579	MD810	MJI2	Site of Former Lightmoor Jn – Ironbridge Power Station (NR Boundary)	156	19	160	29	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD166	WLL	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	5	65	5	67	Y	Y	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-South	0579	MD166	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-South	0579	MD166	LLG	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	0	12	2	59	Y	Y	Y	Y	Y	Y	N	Y	Y	N	
+London-North-Western-South	0579	MD167	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-South	0579	MD167	WAW	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	6	19	6	76	Y	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD170	ACW	Route Boundary (EA1360) (Acton Canal Wharf Jn) – Willesden Jn	0	11	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD175	BPH	Bridge Street LC – Site of Former Bridge Street Jn	4	56	4	29	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0579	MD175	BDN	Site of Former Bridge Street Jn – Site of Former Duston North Jn	0	00	0	18	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0579	MD175	NMH	Site of Former Duston North Jn – Northampton South Jn	0	29	0	65	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0579	MD180	RTS	Rugby Trent Valley Jn – New Bilton	0	00	0	79	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD232	WNS	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD232	WNS	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD232	WNS	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD232	PVS	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD232	PVS	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD232	NMA	Midland Yard Jn – Abbey Jn	10	09	9	60	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0579	MD233	MYC	Midland Yard Jn - Canal Farm Jn	0	00	0	69	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0579	MD301	RBS1	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	N	N	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-South	0579	MD301	RBS1	Coventry South Jn – Coventry North Jn	93	71	94	19	N	N	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-South	0579	MD301	RBS1	Coventry North Jn – Stechford North Jn	94	19	109	12	N	N	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-South	0579	MD301	RBS1	Stechford North Jn – Grand Jn	109	12	111	72	N	N	Y	N	Y	Y	Y	Y	Y	N	

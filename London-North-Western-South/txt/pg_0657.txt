@@ -2,55 +2,78 @@
 
 
                                       LNW South Route Sectional Appendix Module LNW(S) RC
-
-
-
-
-     Table D5C – Route Clearance of Freight Vehicles
-                                                                                      Last Updated: 29/10/2022
-
-     Line ELRLine of Route / Sector Description         Gauge
-     of
-                                              W7A W8A W9A LG2 PG1 PG2 LSVG Notes
-     route                         M  Ch M Ch
-             London Euston – Camden Jn DC Lines
-     MD101 LEC1                    0  00 1 36  N   N  N   N  N N   N
-             Camden Jn DC Lines – Camden Jn (NLL)
-     MD101 LEC1                    1  36 1 51  N   N  N   N  N N   N
-             Camden Jn – West London Jn
-     MD101 LEC1                    1  51 5 23  N   N  N   N  N N   N
-             (Willesden)
-             West London Jn (Willesden) – Sudbury
-     MD101 LLG                     0  12 2 03  N   N  N   N  N N   N
-             Jn (Willesden Relief Lines)
-             West London Jn (Willesden) – Harlesden
-     MD101 LEC1                    5  23 6 01  N   N  N   N  N N   N
-             Jn
-             Harlesden Jn – Watford South Jn
-     MD101 LEC1                    6  01 1706  N   N  N   N  N N   N
-             Watford South Jn – Bletchley South Jn
-     MD101 LEC1                    17 06 4641  N   N  N   N  N N   N
-             Bletchley South Jn – Bletchley (platforms
-     MD101 LEC1                    46 41 4752  N   N  N   N  N N   N
-             1-5) – Denbigh Hall South Jn
-             Denbigh Hall South Jn – Hanslope North
-     MD101 LEC1                    47 52 5666  N   N  N   N  N N   N
-             Jn
-             Hanslope North Jn – Hillmorton Jn
-     MD101 LEC1                    56 66 8128  N   N  N   N  N N   N
-             Hillmorton Jn – Rugby Trent Valley Jn
-     MD101 LEC1                    81 28 8318  N   N  N   N  N N   N
-             Rugby Trent Valley Jn – Armitage Jn
-     MD101 LEC2                    83 1811920  N   N  N   N  N N   N
-             (NW1001 Sectional Appendix Boundary)
-             Hanslope Jn (MD101) – Northampton
-     MD105 HNR                     56 66 6555  N   N  N   N  N N   N
-             South Jn
-             Northampton South Jn – Northampton
-     MD105 HNR                     65 55 6612  N   N  N   N  N N   N
-             North Jn
-
-
-
-
-     December 2009                                   58
+     Line of ELR Line of Route / Sector Description
+                                  oo  oo oo oo RA   Loco  Notes
+     route                        oo  oo oo oo 000  Gauge ooooooooooooooooooooooooooooooooooooooooooooooo
+                                  M   Ch M  Ch    0000000000
+                                                     0
+    MD166WLLRoute Boundary (SO250) (North Pole Jn)
+                                  5   65 5  67  8    Y
+            – Mitre Bridge Jn
+    MD166WLLMitre Bridge Jn – West London Jn
+                                  5   67 6  19  8    Y
+            (Willesden)
+    MD166LLGWest London Jn (Willesden) – Wembley
+                                  0   12 2  59  8    Y
+            Central Jn (Willesden Relief lines)
+    MD167WLLMitre Bridge Jn – West London Jn
+                                  5   67 6  19  8    Y
+            (Willesden)
+    MD167WAW West London Jn (Willesden) – Route
+                                  6   19 6  76  8    Y
+            Boundary (EA1360) (Acton Wells)
+    MD170ACW Route Boundary (EA1360) (Acton Canal
+                                   0  11  0 00  8    Y
+            Wharf Jn) – Willesden Jn
+    MD175BPHBridge Street LC – Site of Former Bridge
+                                   4  56  4 29  8    N   Line out of use
+            Street Jn                                    NC/G1/2014/LNW443v2
+    MD175BDNSite of Former Bridge Street Jn – Site of
+                                   0  00  0 18  8    N   Line out of use
+            Former Duston North Jn                       NC/G1/2014/LNW443v2
+    MD175NMH Site of Former Duston North Jn –
+                                   0  29  0 65  8    N   Line out of use
+            Northampton South Jn                         NC/G1/2014/LNW443v2
+    MD180RTSRugby Trent Valley Jn – New Bilton
+                                   0  00  0 79  7    Y
+    MD232WNS Route Boundary (LN3232) (Hinckley) –
+                                   2  62  0 05  8    Y
+            Nuneaton South Jn
+    MD232WNS Limit of Electrification (Down direction) –
+                                   0  39  0 05  8    Y
+            Nuneaton South Jn
+    MD232WNS Nuneaton South Jn – Nuneaton South
+                                   0  05  0 00  8    Y
+            Change of ELR
+    MD232PVSNuneaton South Change of ELR – Limit
+                                  10  61 10 39  8    Y
+            of Electrification (Up direction)
+    MD232PVSLimit of Electrification (Up direction) –
+                                  10  39 10 09  8    Y
+            Midland Yard Jn
+    MD232NMA Midland Yard Jn – Abbey Jn
+                                  10  09  9 60  8    Y
+    MD233MYC Midland Yard Jn – Canal Farm Jn
+                                   0  00  0 69  8    Y
+    MD301RBS1 Rugby Trent Valley Jn – Coventry South
+                                  83  18 93 71  8    Y
+            Jn
+    MD301RBS1 Coventry South Jn – Coventry North Jn
+                                  93  71  9419  8   Y
+    MD301RBS1 Coventry North Jn – Stechford North Jn
+                                  94  19 10912  8   Y
+    MD301RBS1 Stechford North Jn – Grand Jn
+                                  109 12 11172  8   Y
+    MD301RBS1 Grand Jn – Proof House Jn
+                                  111 72 11219  8   Y
+    MD301RBS1 Proof House Jn – Birmingham New
+                                  112 19 11273  8   R1   R1Prohibited between Proof House Jn and Birmingham New St on the Down Stour
+            Street (Change of Mileage)                     line
+    MD301RBS2 Birmingham New Street (Change of
+                                   0  05  2 06  8   R1   R1Prohibited between North Tunnel Jn and Monument Lane Jn on the Down Stour
+            Mileage) – Soho South Jn                       line
+    MD301RBS2 Soho South Jn – Soho North Jn
+                                   2  06  2 38  8    Y
+    MD301RBS2 Soho North Jn – Galton Jn
+                                   2  38  3 64  8    Y
+    December 2009                                    51

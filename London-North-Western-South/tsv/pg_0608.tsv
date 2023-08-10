@@ -1,20 +1,10 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-London-North-Western-South	0608	MD555	NWO	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD555	NWO	Limit of Electrification – Whitacre West Junction	10	00	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD560	WOP	Water Orton West Jn – Park Lane Change of ELR	35	15	36	04	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD560	CBR2	Park Lane Change of ELR – Park Lane Jn	36	04	36	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD570	SKN	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD701	MCJ1	London Marylebone – Neasden South Jn (Change of Mileage)	205	77	200	65	8	Y	Y	Y	Y	Y	Y	R1	R1	R1	R1 5mph Down Main line between 202m 21ch and 202m 00ch
-London-North-Western-South	0608	MD701	NAJ1	Neasden South Jn (Change of Mileage) – Northolt Jn	6	30	0	00	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD701	NAJ2	Princes Risborough Jn – Site of Former Ashendon Jn (Change of Mileage)	24	50	33	69	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD701	NAJ3	Site of Former Ashendon Jn (Change of Mileage) – Aynho Jn	0	00	18	35	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD705	ANL	Route Boundary (GW110) (Greenford West Jn) – Northolt Jn (South Ruislip)	8	60	10	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0608	MD710	MCJ1	Neasden South Jn – Network Rail Boundary (LUL) (Harrow-on-the-Hill South Jn)	200	66	197	05	8	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited unless fitted with tripcocks or agreed operational arrangements are in place to allow the vehicle to proceed onto LUL infrastructure
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
+London-North-Western-South	0608	MD900	ABW	Abbotswood Jn – Norton Jn	0	00	0	62	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	MD900	OWW	Norton Jn – Shrub Hill Jn	117	26	120	46	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	MD900	OWW	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	MD900	STO	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	MD910	OWW	Pershore (excl) – Norton Jn	112	00	117	26	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	MD940	WAH	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	MD940	WAH	Henwick SB – Shelwick Jn	121	65	148	11	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	GW350	BLW	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0608	GW350	WAH	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	Y	Y	Y	N	N	N	N	N	N	

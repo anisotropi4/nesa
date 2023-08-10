@@ -3,81 +3,62 @@
 
 
 
-       LEVEL 1               LEVEL 2          LEVEL 3
-       WRONG SIDE FAILURE    RIGHT SIDE FAILURE NON-
-                                              RIGHT SIDE FAILURE RECOVERABLE
-                             RECOVERABLE
-       Driver continues journey and completes
-                             Driver continues journey and
-                                              Driver continues journey and completes
-       written fault report at the end of the
-                             completes written fault report
-                                              written fault report form at the end of the
-       journey or when relieved.
-                             form at the end of the journey
-                                              journey or when relieved.
-       Driver arranges for the completed form to
-                             or when relieved.Driver arranges for the completed form to be
-       be sent to Network Rail Control.
-                             Driver deals with completed
-                                              sent to Network Rail Control.
-       Network Rail Control follows up fault as
-                             form as per TOC instructions.
-                                              Network Rail Control follow-up fault as
-       necessary with the NR Infrastructure
-                             TOC follows up fault as
-                                              necessary with the NR Infrastructure
-       Controller.           necessary.       Controller and, if fault persists, issues a
-                                              suitable notice to TOC’s.
 
-       9.  Speed restrictions
-       (a)Temporary Speed Restrictions
-       When a Temporary Speed Restriction (TSR) is imposed, the ATP track equipment will be adjusted so as to provide full
-       supervision of speed to accord with the restriction. This adjustment will be made at the same time as the other requirements
-       of Rule Book, Module SP, Section 3, are introduced.
-       (b)Emergency Speed Restrictions
-       Until such time as the Signaller concerned has been advised that this adjustment has taken place, the Signaller MUST, in
-       addition to carrying out the provisions of Rule Book, Module SP, Section 4, stop and advise Drivers of all ATP fitted
-       trains that ATP will not provide advice for the Emergency Speed Restriction.
-       This adjustment to the equipment will be as follows:
-       The Signal Technician will immediately arrange to adjust the ATP track equipment which involves inserting an ESR ‘plug’ so
-       that all ATP-fitted trains approaching the restriction will receive an immediately recoverable emergency brake application,
-       together with an indication of ‘Esr’ in the main cab display window. In these circumstances the target speed will be
-       extinguished until the train has passed beyond the affected area. Supervision will however be maintained in respect of signal
-       aspects, TSR’s, PSR’s etc.
-       Signal Technicians must advise the Signaller concerned immediately the above first-phase adjustment has been completed.
-       Until such time as the Signaller concerned has been advised that this adjustment has taken place, the Signaller MUST, in
-       addition to carrying out the provisions of the Rule Book, Module SP, Section 4, stop and advise the Drivers of all
-       ATP fitted trains that ATP will not provide advice for the Emergency Speed Restriction.
-       If the Emergency Speed Restriction is likely to continue for more than a few hours, the appropriate NR Infrastructure
-       Controller must arrange production of TSR type ‘speed plugs’ which will provide the necessary speed supervision in respect
-       of the ESR.
-       This second-phase adjustment to the ATP equipment must be carried out as quickly as possible. The Signaller need not be
-       advised when this is done.
-       10. Work affecting track equipment
-       ATP track equipment is susceptible to damage if treated roughly. All staff either working or walking on or near the line must
-       take care not to displace, damage or otherwise interfere with ATP equipment.
-       Instructions issued separately to Contractors must be adhered to in respect of planning and carrying out engineering
-       operations.
-       In the event of track equipment being taken out of use or being unavailable, Drivers will be advised either by means of the
-       Weekly Operating Notice or by other suitable written Notice.
-                                              LNW South Route GI - Dated: 30/03/19
+       Lines equipped with automatic train protection (ATP)
+       1.   Scope
+       The following routes are equipped with the SEL ATP system:
+            Marylebone to Aynho Junction (inclusive) (to signals NA4763 and NA9769 in the Down direction and from signals
+            OL3094 and OL9090 in the Up direction).
+            Neasden South Junction to Harrow-on-the-Hill
+            Amersham to Aylesbury Vale Parkway (including siding and depot exit signals).
+            Princes Risborough to Aylesbury.
+            Bicester South West Chord lines (signals ME210 and ME212 only).
+       ATP trainborne equipment is fitted to Class 165 / 168 / 172 trains operated by Chiltern Railways Ltd.
 
-       Lockouts - person responsible
-       General:
-       Lockout systems are provided for the protection of individuals or groups working or walking on the line.
-       The person taking a lockout is responsible for ensuring that all staff, including members of any other working group, is clear
-       of the running line before cancelling the lockout. The key (where applicable) must not be handed to another person.
-       Should it be necessary to transfer responsibility for the lockout to another person, all staff must be clear of the running lines,
-       the lockout must be cancelled and another lockout taken by the ‘new’ person.
-       Area specific:
-       Lockouts under the operational control of Rugby SCC and Wembley Mainline SCC may only be used in conjunction with Rule
-       Book Module TS1.
-       When detailing the General Arrangements of a line blockage and Lockouts are chosen for protection, the signaller and
-       PC/COSS/IWA are authorised to add this method of protection to the line blockage form NR3180.
-                                               LNW South Route GI - Dated: 30/03/19
+       2.   General
+       ATP is a supplementary safety feature which, providing it is available, must be used by Drivers trained in its use.
+       ATP-fitted trains must not enter service (loaded or empty) with ATP inoperative. Should ATP become inoperative on an
+       ATP-fitted train while conveying passengers, the train must be taken out of service in accordance with Chiltern Railways
+       Ltd procedure for withdrawing trains from service in compliance with Rail Industry Standard RIS-3447-TOM Defective On-
+       Train Equipment.
+       All Rules, Regulations and other Instructions continue to apply in the same way as for lines not fitted with ATP equipment
+       but additional Instructions (as shown herein) apply in respect of Temporary and Emergency Speed Restrictions.
+       Note : Partial ATP supervision is provided for any train on which the ATP equipment has been set up irrespective of
+       whether the line is ATP fitted.
+
+       3.   Description of the System
+       ATP consists of two elements:-
+       Track equipment - fitted to the lines described above - which updates the trainborne equipment with information
+       regarding the line conditions ahead. It consists of beacons and loops of varying lengths, positioned in the four-foot of the
+       line to which they apply, on the approach to fixed signals, permissible speed changes and (in some cases) buffer stops.
+       and
+       Trainborne equipment - fitted to the trains described above - through which the Driver, providing the train’s
+       characteristics have been correctly input, receives information relating to the maximum permitted speed of the train.
+
+       4.  Principles of Operation
+       ATP has the following modes of operation which have the following meaning:
+       . Full Supervision by ATP is obtained on ATP fitted lines where the on-train equipment measures the actual speed of the
+       train and compares this to a target speed. A target speed is calculated by the on-train computer based on maximum
+       permitted line speed, the condition of the line ahead as indicated by fixed signals, buffer stops, any Temporary Speed
+       Restriction imposed, together with the maximum permitted speed of the train.
+       Where necessary, ATP will provide a warning to Drivers of the need to reduce their speed. If the train speed is not
+       reduced sufficiently, ATP will intervene and brake the train to match the target speed.
+       Where track equipment is not available, or unable to update the target information, the trainborne ATP will operate in
+       Partial Supervision Mode, supervising to the maximum train speed only.
+       If it is necessary for a train to pass a signal at Danger or to undertake shunting movements or make an unsignalled wrong
+       direction movement, the Driver must select either ‘PSS’ (Pass Stop Signal) or ‘Shunting’ mode as appropriate.
+       Where it is necessary to pass two or more consecutive signals at danger, the Driver must carry out a Temporary Isolation
+       of the equipment. The equipment must be switched on again whilst the train is stationary at the last signal affected.
+
+       Where an Emergency Speed Restriction (ESR) is imposed, full supervision will not be immediately available until the track
+       equipment has been re-programmed to accommodate the Speed Restriction. During this period the ATP will not supervise
+       or impose for the lower line-speed of the restriction.
+       ATP acts on the information received at the previous beacon or loop. Should the signal aspect change after the train has
+       passed over the last loop or beacon, the display in the main window will not be updated.
+       ATP acts as an additional safety aid to Drivers and does NOT relieve them of their general responsibility laid
+       down in the Rule Book to observe fixed and hand signals, and regulate their speed accordingly.
 
 
 
 
-       December 2009                 30
+       December 2009                 28

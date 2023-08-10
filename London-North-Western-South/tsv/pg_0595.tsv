@@ -1,23 +1,24 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-South	0595	MD232	NMA	Midland Yard Jn – Abbey Jn	10	09	9	60	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD233	MYC	Midland Yard Jn – Canal Farm Jn	0	00	0	69	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD301	RBS1	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	Y	Y	Y	EH	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS1	Coventry South Jn – Coventry North Jn	93	71	94	19	Y	Y	Y	EH	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS1	Coventry North Jn – Stechford North Jn	94	19	109	12	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS1	Stechford North Jn – Grand Jn	109	12	111	72	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS1	Grand Jn – Proof House Jn	111	72	112	19	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS1	Proof House Jn – Birmingham New Street (Change of Mileage)	112	19	112	73	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS2	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS2	Soho South Jn – Soho North Jn	2	06	2	38	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS2	Soho North Jn – Galton Jn	2	38	3	64	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS2	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS2	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD301	RBS3	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	Y	Y	Y	Y	Y	Y	N	Y	N	
-London-North-Western-South	0595	MD306	BAG1	Change of Mileage (Birmingham New Street) – Lifford West Jn	42	35	47	20	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD306	BAG1	Lifford West Jn – King's Norton Station Jn	47	20	47	48	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD306	BAG1	King's Norton Station Jn – King's Norton Jn (Change of Mileage)	47	48	48	02	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD306	BAG2	King's Norton Jn (Change of Mileage) – Barnt Green Jn	46	77	51	58	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD306	BAG2	Barnt Green Jn – Stoke Works Jn	51	58	57	43	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD306	BAG2	Stoke Works Jn – Abbotswood Jn	57	43	68	60	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD306	BAG2	Abbotswood Jn – Route Boundary (GW401) (Ashchurch)	68	60	77	40	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0595	MD310	BEA	Barnt Green Jn – Redditch	51	58	56	60	Y	Y	Y	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	373	377	378	379	380	387	390	458	499	508	700	Notes
+London-North-Western-South	0595	MD405	LSC2	Milverton Change of ELR – Coventry South Jn	0	00	8	45	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD410	CNN	Coventry North Jn – Nuneaton South Jn	0	00	9	53	N	N	N	N	N	N	H	N	N	N	N	
+London-North-Western-South	0595	MD415	HSA	Hatton Station Jn – Bearley Jn	18	12	12	48	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD415	HSA	Bearley Jn – Stratford Upon Avon (End of Headshunt)	12	48	8	63	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD420	HHW	Hatton North Jn – Hatton West Jn	18	25	17	62	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD425	TSB	Tyseley South Jn – Bearley Jn	0	00	17	71	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD430	OWW	Droitwich Spa – Cutnall Green (former Route Boundary)	126	21	130	40	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD430	OWW	Cutnall Green (former Route Boundary) – Kidderminster	130	40	135	46	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD435	DCL	Small Heath South Jn – Site of Former Handsworth Jn	126	59	132	47	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD435	HSJ	Site of Former Handsworth Jn – Smethwick Jn	132	47	133	32	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD435	GSJ2	Smethwick Jn – Stourbridge North Jn	133	32	141	06	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD440	GSJ1	Galton Jn – Smethwick Jn	3	64	4	08	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD445	SJS	Stourbridge Jn – Stourbridge Town	142	16	142	78	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD450	OWW	Stourbridge North Jn – Round Oak	142	15	146	13	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD455	KWD	Kingswinford Jn – Network Rail Boundary	144	33	145	60	N	N	N	N	N	N	N	N	N	N	N	Line out of use NME/2005/LNW284
+London-North-Western-South	0595	MD460	SJT1	Kineton MOD Branch – Burton Dassett (MOD Kineton)	22	60	25	60	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0595	MD501	DBP1	Route Boundary (LN3501) (London Road Jn) – Kingsbury Jn	23	30	29	39	N	N	N	N	N	N	EH R1	N	N	N	N	R1 OPPOS applies between Tamworth and Wilnecote
+London-North-Western-South	0595	MD501	DBP2	Kingsbury Jn – Water Orton East Jn	29	39	33	22	N	N	N	N	N	N	EH R1	N	N	N	N	R1 55mph over bridge 17 Cudworth on the Up Fast at 32m 48 ½ch
+London-North-Western-South	0595	MD501	DBP3	Water Orton East Jn (Change of Mileage) – Landor Street Jn	34	43	40	60	N	N	N	N	N	N	H	N	N	N	N	
+London-North-Western-South	0595	MD501	DBP3	Landor Street Jn – Proof House Jn	40	60	41	51	N	N	N	N	N	N	H	N	N	N	N	
+London-North-Western-South	0595	MD545	KJW	Kingsbury Jn – Whitacre Jn (Change of Mileage)	29	39	31	69	N	N	N	N	N	N	H	N	N	N	N	
+London-North-Western-South	0595	MD555	NWO	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	N	N	N	N	N	N	H	N	N	N	N	
+London-North-Western-South	0595	MD555	NWO	Limit of Electrification – Whitacre West Junction	10	00	0	00	N	N	N	N	N	N	H	N	N	N	N	

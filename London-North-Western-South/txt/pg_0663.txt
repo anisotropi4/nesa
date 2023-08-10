@@ -5,56 +5,33 @@
 
 
 
-             Tyseley South Jn – Bearley Jn
-     MD425 TSB                     0  00 1771  N   N  N   N N  N   N
-     MD430 OWW Droitwich Spa – Cutnall Green (former
-                                   1262113040  N   N  N   N N  N   N
-             Route Boundary)
-     MD430 OWW Cutnall Green (former Route Boundary) –
-                                   1304013546  N   N  N   N N  N   N
-             Kidderminster
-     MD430 OWW Kidderminster – Stourbridge North Jn
-                                   1354614251  N   N  N   N N  N   N
-             Small Heath South Jn – Site of former
-     MD435 DCL                     1265913247  N   N  N   N N  N   N
-             Handsworth Jn
-             Site of former Handsworth Jn –
-     MD435 HSJ                     1324713332  N   N  N   N N  N   N
-             Smethwick Jn
-             Smethwick Jn – Stourbridge North Jn
-     MD435 GSJ2                    1333214106  N   N  N   N N  N   N
-             Galton Jn – Smethwick Jn
-     MD440 GSJ1                    3  64 4 08  N   N  N   N N  N   N
-             Stourbridge Jn – Stourbridge Town
-     MD445 SJS                     1421614278  N   N  N   N N  N   N
-     MD450 OWW Stourbridge North Jn – Round Oak
-                                   1421514613  N   N  N   N N  N   N
-             Kingswinford Jn – Network Rail Boundary
-     MD455 KWD                     1443314560  N   N  N   N N  N   N
-             Kineton MOD Branch – Burton Dassett
-     MD460 SJT1                    22 60 2560  N   N  N   N N  N   N
-             (MOD Kineton)
-     MD501 DBP1 Route Boundary (LN3501) (London Road
-                                   23 30 2939  N   N  N   N N  N   N
-             Jn) – Kingsbury Jn
-     MD501 DBP2 Kingsbury Jn – Water Orton East Jn
-                                   29 39 3322  N   N  N   N N  N   N
-     MD501 DBP3 Water Orton East Jn (Change of Mileage)
-                                   34 43 4060  N   N  N   N N  N   N
-             – Landor Street Jn
-     MD501 DBP3 Landor Street Jn – Proof House Jn
-                                   40 60 4151  N   N  N   N N  N   N
-             Kingsbury Jn – Whitacre Jn (Change of
-     MD545 KJW                     29 39 3169  N   N  N   N N  N   N
-             Mileage)
-             Nuneaton North Junction – Lmit of
-     MD555 NWO                     10 18 1000  N   N  N   N N  N   N
-             Electrification
-             Limit of Electrification – Whitacre West
-     MD555 NWO                     10 00 0 00  N   N  N   N N  N   N
-             Junction
+     Line of
+           ELR   Line of Route / Sector Description       RA  Loco  Notes
+     route                                M   Ch  M   Ch      Gauge
+     MD900 ABW   Abbotswood Jn – Norton Jn  0  00  0  62  8     Y
+     MD900 OWW   Norton Jn – Shrub Hill Jn117  26 120 46  8     Y
+     MD900 OWW   Shrub Hill Jn – Droitwich Spa Jn
+                                          120  46 126 21  8     Y
+     MD900 STO   Droitwich Spa Jn – Stoke Works Jn
+                                          126  21 130 25  8     Y
+
+     MD910 OWW   Pershore (excl) – Norton Jn
+                                          112  00 117 26  7     Y
+     MD940 WAH   Shrub Hill Jn – Henwick SB (Branch Single)
+                                          120  46 121 65  7     Y
+
+     MD940 WAH   Henwick SB – Shelwick Jn 121  65 148 11  7    R1   R1Prohibited between Great Malvern and Malvern Wells SB on
+                                                               R2     the Down Main line
+                                                               R3   R2Prohihited Malvern Link Up platform
+                                                                    R3Prohibited through Ledbury Tunnel (Up and Down line)
+     MD950 BLW   Worcester Tunnel Jn – Site of former Rainbow
+                                            0  30  0  00  7     Y
+                 Hill Jn Change of ELR
+     MD950 WAH   Site of former Rainbow Hill Jn Change of ELR –
+                                          120  64 121 65  7     Y
+                 Henwick SB (Droitwich Single)
 
 
 
 
-     December 2009                                   64
+    December 2009                                    57

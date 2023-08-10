@@ -1,22 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Western-South	0633	MD232	WNS	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	8	H	H	Y	H	H	N	
-London-North-Western-South	0633	MD232	WNS	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	8	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0633	MD232	WNS	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	8	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0633	MD232	PVS	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	8	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0633	MD232	PVS	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	8	H	H	Y	H	H	N	
-London-North-Western-South	0633	MD232	NMA	Midland Yard Jn – Abbey Jn	10	09	9	60	8	H	H	Y	H	H	N	
-London-North-Western-South	0633	MD233	MYC	Midland Yard Jn – Canal Farm Jn	0	00	0	69	8	H	H	Y	H	N	N	
-London-North-Western-South	0633	MD301	RBS1	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS1	Coventry South Jn – Coventry North Jn	93	71	94	19	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS1	Coventry North Jn – Stechford North Jn	94	19	109	12	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS1	Stechford North Jn – Grand Jn	109	12	111	72	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS1	Grand Jn – Proof House Jn	111	72	112	19	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS1	Proof House Jn – Birmingham New Street (Change of Mileage)	112	19	112	73	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS2	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS2	Soho South Jn – Soho North Jn	2	06	2	38	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS2	Soho North Jn – Galton Jn	2	38	3	64	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS2	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD301	RBS2	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	8	Y	Y	R1	Y	N	Y	R1 Prohibited North Bay at Wolverhampton station (platform 6)
-London-North-Western-South	0633	MD301	RBS3	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	8	Y	Y	Y	Y	N	Y	
-London-North-Western-South	0633	MD306	BAG1	Change of Mileage (Birmingham New Street) – Lifford West Jn	42	35	47	20	8	Y	Y	Y	Y	N	N	
-London-North-Western-South	0633	MD306	BAG1	Lifford West Jn – King's Norton Station Jn	47	20	47	48	8	Y	Y	Y	Y	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-South	0633	MD435	HSJ	Site of Former Handsworth Jn – Smethwick Jn	132	47	133	32	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD435	GSJ2	Smethwick Jn – Stourbridge North Jn	133	32	141	06	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD440	GSJ1	Galton Jn – Smethwick Jn	3	64	4	08	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD445	SJS	Stourbridge Jn – Stourbridge Town	142	16	142	78	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD450	OWW	Stourbridge North Jn – Round Oak	142	15	146	13	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD455	KWD	Kingswinford Jn – Network Rail Boundary	144	33	145	60	8	N	N	N	N	N	N	N	N	N	Line out of use NME/2005/LNW284
+London-North-Western-South	0633	MD460	SJT1	Kineton MOD Branch – Burton Dassett (MOD Kineton)	22	60	25	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD501	DBP1	Route Boundary (LN3501) (London Road Jn) – Kingsbury Jn	23	30	29	39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD501	DBP2	Kingsbury Jn – Water Orton East Jn	29	39	33	22	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD501	DBP3	Water Orton East Jn (Change of Mileage) – Landor Street Jn	34	43	40	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD501	DBP3	Landor Street Jn – Proof House Jn	40	60	41	51	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD545	KJW	Kingsbury Jn – Whitacre Jn (Change of Mileage)	29	39	31	69	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD555	NWO	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD555	NWO	Limit of Electrification – Whitacre West Junction	10	00	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD560	WOP	Water Orton West Jn – Park Lane Change of ELR	35	15	36	04	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD560	CBR2	Park Lane Change of ELR – Park Lane Jn	36	04	36	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD570	SKN	Bordesley Jn – Kings Norton Jn (Camp Hill Lines)	41	44	46	77	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0633	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

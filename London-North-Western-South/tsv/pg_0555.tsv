@@ -1,20 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	139	142	144	150	153	155	156	158	159	Notes
-London-North-Western-South	0555	MD725	MCJ3	Change of Mileage (Quainton Road) – Calvert Jn (Change of Mileage)	161	50	156	72	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited in laden condition when any other trains are within this section of route except when providing assistance
-London-North-Western-South	0555	MD725	MCJ4	Calvert Jn (Change of Mileage) – Claydon L&NE Jn	0	00	0	41	R1	N	N	N	Y	Y	Y	Y	N	N	R1 Prohibited in laden condition when any other trains are within this section of route except when providing assistance
-London-North-Western-South	0555	MD736	OXD	Route Boundary (GW277) –Gavray Junction	29	25	19	00	Y	N	Y	Y	Y	N	N	Y	Y	Y	
-London-North-Western-South	0555	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	R1	N	N	N	N	N	N	N	N	N	R1 Prohibited Temporary Buffer Stops to Gates (Claydon)
-London-North-Western-South	0555	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	N	N	N	N	N	N	N	N	N	N	Line non operational
-London-North-Western-South	0555	MD736	OXD	Buffer Stops – Flyover Junction (Change of ELR)	1	27	0	62	E	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Western-South	0555	MD736	BFO	Flyover Junction (Change of ELR) – Flyover Junction Summit	0	00	0	68	E	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Western-South	0555	MD736	DHF	Flyover Junction Summit – Limit of Electrification	0	68	1	37	E	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Western-South	0555	MD736	DHF	Limit of Electrification – Bletchley Flyover North Jn	1	37	1	61	E	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Western-South	0555	MD736	DHF	Bletchley Flyover North Jn – Denbigh Hall South Jn	1	61	1	73	E	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Western-South	0555	MD740	BFO	Flyover Jn (Summit) – Fenny Stratford Bletchley Flyover Jn	0	68	1	59	Y	N	N	N	Y	Y	Y	Y	N	N	
-London-North-Western-South	0555	MD745	BSG	Bicester South Junction – Gavray Junction	0	00	0	52	Y	N	Y	Y	Y	N	N	Y	Y	Y	
-London-North-Western-South	0555	MD801	WSJ1	Wolverhampton North Jn – Oxley, Stafford Road Jn (Change of Mileage)	143	52	142	79	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0555	MD801	WSJ2	Oxley, Stafford Road Jn (Change of Mileage) – Limit of Electrification	143	02	143	65	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0555	MD801	WSJ2	Limit of Electrification – Madeley Jn	143	65	156	19	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0555	MD801	WSJ2	Madeley Jn – Route Boundary (GW731) (Abbey Foregate )	156	19	170	46	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0555	MD805	OXC	Bushbury (Oxley) Jn – Stafford Road Jn	1	02	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0555	MD810	MJI1	Madeley Junction – Site of Former Lightmoor Jn	156	19	160	29	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-South	0555	MD810	MJI2	Site of Former Lightmoor Jn – Ironbridge Power Station (NR Boundary)	156	19	160	29	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0555	MD175	NMH	Site of Former Duston North Jn – Northampton South Jn	0	29	0	65	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0555	MD180	RTS	Rugby Trent Valley Jn – New Bilton	0	00	0	79	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0555	MD232	WNS	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD232	WNS	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD232	WNS	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD232	PVS	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD232	PVS	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD232	NMA	Midland Yard Jn – Abbey Jn	10	09	9	60	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD233	MYC	Midland Yard Jn – Canal Farm Jn	0	00	0	69	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0555	MD301	RBS1	Rugby Trent Valley Jn – Coventry South Jn	83	18	93	71	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS1	Coventry South Jn – Coventry North Jn	93	71	94	19	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS1	Coventry North Jn – Stechford North Jn	94	19	109	12	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS1	Stechford North Jn – Grand Jn	109	12	111	72	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS1	Grand Jn – Proof House Jn	111	72	112	19	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS1	Proof House Jn – Birmingham New Street (Change of Mileage)	112	19	112	73	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS2	Birmingham New Street (Change of Mileage) – Soho South Jn	0	05	2	06	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS2	Soho South Jn – Soho North Jn	2	06	2	38	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS2	Soho North Jn – Galton Jn	2	38	3	64	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS2	Galton Jn – Wolverhampton Crane Street Jn	3	64	12	60	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS2	Wolverhampton Crane Street Jn – Bushbury Jn (Change of Mileage)	12	60	14	43	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0555	MD301	RBS3	Bushbury Jn (Change of Mileage) – Route Boundary (NW1002) (Stafford Trent Valley Jn No.1)	15	32	23	30	Y	N	N	N	Y	Y	Y	Y	Y	Y	

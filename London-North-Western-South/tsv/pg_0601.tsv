@@ -1,10 +1,19 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-South	0601	MD900	ABW	Abbotswood Jn – Norton Jn	0	00	0	62	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	MD900	OWW	Norton Jn – Shrub Hill Jn	117	26	120	46	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	MD900	OWW	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	MD900	STO	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	MD910	OWW	Pershore (excl) – Norton Jn	112	00	117	26	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	MD940	WAH	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	MD940	WAH	Henwick SB – Shelwick Jn	121	65	148	11	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	GW350	BLW	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-South	0601	GW350	WAH	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD150	KGW	Route Boundary (EA1310) (Kensal Green Jn) – Willesden Suburban Jn	5	25	5	36	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD155	KGC	Route Boundary (EA1310) (Kensal Green Jn) – Harlesden Jn	0	21	1	00	Y	Y	Y	N	N	Y	N	Y	N	
+London-North-Western-South	0601	MD160	WMB	Route Boundary (EA1310) (Willesden High Level Jn) – Mitre Bridge Jn	0	09	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD166	WLL	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	5	65	5	67	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD166	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD166	LLG	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	0	12	2	59	Y	Y	Y	EH	Y	Y	N	Y	N	
+London-North-Western-South	0601	MD167	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD167	WAW	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	6	19	6	76	Y	Y	Y	EH R1	N	Y	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Western-South	0601	MD170	ACW	Route Boundary (EA1360) (Acton Canal Wharf Jn) – Willesden Jn	0	11	0	00	Y	Y	Y	EH R1	N	Y	N	N	N	R2 Prohibited with footsteps fitted
+London-North-Western-South	0601	MD175	BPH	Bridge Street LC – Site of Former Bridge Street Jn	4	56	4	29	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0601	MD175	BDN	Site of Former Bridge Street Jn – Site of Former Duston North Jn	0	00	0	18	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0601	MD175	NMH	Site of Former Duston North Jn – Northampton South Jn	0	29	0	65	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2014/LNW443v2
+London-North-Western-South	0601	MD180	RTS	Rugby Trent Valley Jn – New Bilton	0	00	0	79	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD232	WNS	Route Boundary (LN3232) (Hinckley) – Nuneaton South Jn	2	62	0	05	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD232	WNS	Limit of Electrification (Down direction) – Nuneaton South Jn	0	39	0	05	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD232	WNS	Nuneaton South Jn – Nuneaton South Change of ELR	0	05	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD232	PVS	Nuneaton South Change of ELR – Limit of Electrification (Up direction)	10	61	10	39	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0601	MD232	PVS	Limit of Electrification (Up direction) – Midland Yard Jn	10	39	10	09	Y	Y	Y	N	N	N	N	N	N	

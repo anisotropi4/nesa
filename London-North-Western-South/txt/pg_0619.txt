@@ -2,37 +2,84 @@
 
 
                                       LNW South Route Sectional Appendix Module LNW(S) RC
-
-
-
      Line of
-           ELR   Line of Route / Sector Description    RA  43 47/247/447/756  57 Notes
-     route                              M  Ch  M   Ch
-     MD900 ABW   Abbotswood Jn – Norton Jn
-                                         0  00   0  62 8   Y   Y   Y   Y   Y   Y
-     MD900 OWW   Norton Jn – Shrub Hill Jn
-                                        117 26 120  46 8   Y   Y   Y   Y   Y   Y
-     MD900 OWW   Shrub Hill Jn – Droitwich Spa Jn
-                                        120 46 126  21 8   Y   Y   Y   Y   Y   Y
+          ELR Line of Route / Sector Description
+                                   oooo oooo oooo oooo RA
+                                                   43 47/2 47/4 47/7
+                                                               56 57 Notes
+     route                          M  Ch M  Ch    ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
 
-     MD900 STO   Droitwich Spa Jn – Stoke Works Jn
-                                        126 21 130  25 8   Y   Y   Y   Y   Y   Y
+     MD130WSA Watford Junction – St Albans Abbey
+                                     0  00  6 45 7  Y  Y  Y  Y  Y  Y
+     MD136WCL Harlesden Jn – Railnet Jn
+                                    1  00  1  11 8  Y  Y  Y  Y  Y  Y
+     MD136WCL Railnet Jn – Willesden Carriage Shed South
+                                    1  11  2  00 8  Y  Y  Y  Y  Y  Y
+     MD136WCL Willesden Carriage Shed South – Connection
+                                    2  00  2  60 8  Y  Y  Y  Y  Y  Y
+             with Yard line
+     MD136WEF Connection with Yard line – Wembley Central Jn
+                                    2  60  2  76 8  Y  Y  Y  Y  Y  Y
+          1
+     MD137WCL Harlesden Jn – Railnet Jn
+                                    1  00  1  11 8  Y  Y  Y  Y  Y  Y
+     MD137UHL Railnet Jn – Wembley Yard South Jn
+                                    1  11  1  62 8  Y  Y  Y  Y  Y  Y
+     MD137WEF Wembley Yard South Jn – Wembley Central Jn
+                                    1  62  2  76 8  Y  Y  Y  Y  Y  Y
+          1
+     MD140LEC Bletchley South Jn –Bletchley North Jn
+                                     46 41 46 59 8  Y  Y  Y  Y  Y  Y
+          1  (Change of Mileage)
+     MD140BBM Bletchley North Jn (Change of Mileage) –
+                                     0  11  0 21 8  Y  Y  Y  Y  Y  Y
+             Limit of electrification (Bletchley TMD)
+     MD140BBM Limit of electrification (Bletchley TMD) –
+                                     0  21 16 07 8  Y  Y  Y  Y  Y  Y
+             Route Boundary (LN3140) (Bedford)
+     MD145CRC Route Boundary (EA1320) (Camden Road
+                                     5  42  5 78 8  Y  Y  Y  Y  Y  Y
+          2  West Jn) – Camden Jn (North DC lines)
+     MD150KG Route Boundary (EA1310) (Kensal Green Jn)
+                                     5  25  5 36 8  Y  Y  Y  Y  Y  Y
+          W  – Willesden Suburban Jn
+     MD155KGC Route Boundary (EA1310) (Kensal Green Jn)
+                                     0  21  1 00 8  Y  Y  Y  Y  Y  Y
+             – Harlesden Jn
+     MD160WM Route Boundary (EA1310) (Willesden High
+                                     0  09  0 00 8  Y  Y  Y  Y  Y  Y
+          B  Level Jn) – Mitre Bridge Jn
+     MD166WLL Route Boundary (SO250) (North Pole Jn) –
+                                     5  65  5 67 8  Y  Y  Y  Y  Y  Y
+             Mitre Bridge Jn
+     MD166WLL Mitre Bridge Jn – West London Jn (Willesden)
+                                     5  67  6 19 8  Y  Y  Y  Y  Y  Y
+     MD166LLG West London Jn (Willesden) – Wembley
+                                     0  12  2 59 8  Y  Y  Y  Y  Y  Y
+             Central Jn (Willesden Relief lines)
+     MD167WLL Mitre Bridge Jn – West London Jn (Willesden)
+                                     5  67  6 19 8  Y  Y  Y  Y  Y  Y
+     MD167WA West London Jn (Willesden) – Route
+                                     6  19  6 76 8  Y  Y  Y  Y  Y  Y
+          W  Boundary (EA1360) (Acton Wells)
+     MD170ACW Route Boundary (EA1360) (Acton Canal
+                                     0  11  0 00 8  Y  Y  Y  Y  Y  Y
+             Wharf Jn) – Willesden Jn
+     MD175BPH Bridge Street LC – Site of Former Bridge
+                                     4  56  4 29 8  N  N  N  N  N  N Line out of use
+             Street Jn                                               NC/G1/2014/LNW443v2
+     MD175BDN Site of Former Bridge Street Jn – Site of
+                                     0  00  0 18 8  N  N  N  N  N  N Line out of use
+             Former Duston North Jn                                  NC/G1/2014/LNW443v2
+     MD175NMH Site of Former Duston North Jn –
+                                     0  29  0 65 8  N  N  N  N  N  N Line out of use
+             Northampton South Jn                                    NC/G1/2014/LNW443v2
+     MD180RTS Rugby Trent Valley Jn – New Bilton
+                                     0  00  0 79 7  Y  Y  Y  Y  Y  Y
+     MD232
+         WNSRoute Boundary (LN3232) (Hinckley) – Nuneaton
+                                     2  62  0 05 8  Y  Y  Y  Y  Y  Y
+            South Jn
 
-     MD910 OWW   Pershore (excl) – Norton Jn
-                                        112 00 117  26 7   Y   Y   Y   Y   Y   Y
-     MD940 WAH   Shrub Hill Jn – Henwick SB (Branch
-                                        120 46 121  65 7   Y   Y   Y   Y   Y   Y
-                 Single)
-     MD940 WAH   Henwick SB – Shelwick Jn
-                                        121 65 148  11 7   Y   Y   Y   Y   Y   Y
-     MD950 BLW   Worcester Tunnel Jn – Site of former
-                                         0  30   0  00 7   Y   Y   Y   Y   Y   Y
-                 Rainbow Hill Jn Change of ELR
-     MD950 WAH   Site of former Rainbow Hill Jn Change of
-                                        120 64 121  65 7   Y   Y   Y   Y   Y   Y
-                 ELR – Henwick SB (Droitwich Single)
 
-
-
-
-     December 2009                                   37A
+    December 2009                                    31

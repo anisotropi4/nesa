@@ -6,69 +6,65 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                   oooo oooo oooo oooo RA
-                                                   43 47/2 47/4 47/7
-                                                               56 57 Notes
-     route                          M  Ch M  Ch    ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
-     MD345RRN1Change of Mileage – Cannock Change of
-                                     0  00  7 20 8  Y  Y  Y  Y  Y  Y
-              ELR
-     MD345RRN2Cannock Change of ELR – Route
-                                     7  20 14 00 8  Y  Y  Y  Y  Y  Y
-              Boundary (NW1004) (Rugeley North Jn)
-     MD350BJW3Anglesea Sidings – Lichfield City Jn
-                                     12 15 16 47 8  N  N  N  N  N  N Line out of use
-                                                                     NC/G1/2005/LN296
-     MD355LTV Lichfield South Jn – Lichfield Trent Valley
-                                     0  22  0 02 8  Y  Y  Y  Y  Y  Y
-              Jn (Chord Line)
-     MD360WDJ Walsall, Pleck Jn – Darlaston Jn
-                                     1  16  0 15 8  Y  Y  Y  Y  Y  Y
-     MD365PJW Portobello Jn – Wolverhampton Crane
-                                     0  04  1 59 8  Y  Y  Y  Y  Y  Y
-              Street Jn
-     MD401DCL Route Boundary (GW200) (Heyford) –
-                                     75 00 81 13 8  Y  Y  Y  Y  Y  Y
-              Aynho Jn
-     MD401DCL Aynho Jn – Leamington Spa North Jn
-                                     81 13106 25 8  Y  Y  Y  Y  Y  Y
-     MD401DCL Leamington Spa North Jn – Tyseley South
-                                    106 25125 73 8  Y  Y  Y  Y  Y  Y
-              Jn
-     MD401BCV/D Tyseley South Jn – Small Heath South Jn
-                                    125 73126 59 8  Y  Y  Y  Y  Y  Y
-          CL
-     MD401BCV Small Heath South Jn – Bordesley Jn
-                                    126 59128 11 8  Y  Y  Y  Y  Y  Y
-     MD405LSC1Leamington Spa North Jn – Milverton
-                                    106 25107 06 8  Y  Y  Y  Y  Y  Y
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo RA
+                                                  08 09 20 31/1 31/4
+                                                                 3337/0 37/5 37/7 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo 31/6 ooo ooo 37/3 ooo 37/9 ooooooooooooooooooooooooooo
+                                                           ooo     37/4
+                                                                         ooo
+                                                                   37/6
+                                                                    oo
+     MD555 NWO Nuneaton North Junction – Lmit of
+                                    10 18 10 00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Electrification
+     MD555 NWO Limit of Electrification – Whitacre West
+                                    10 00  0 00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Junction
+     MD555DBP3 Whitacre West Jn – Water Orton East Jn
+                                    31 69 34 43 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD560 WOP Water Orton West Jn – Park Lane
+                                    35 15 36 04 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
               Change of ELR
-     MD405LSC2Milverton Change of ELR – Coventry
-                                     0  00  8 45 8  Y  Y  Y  Y  Y  Y
-              South Jn
-     MD410CNN Coventry North Jn – Nuneaton South Jn
-                                      0 00  9 53 8  Y  Y  Y  Y  Y  Y
-     MD415HSA Hatton Station Jn – Bearley Jn
-                                     18 12 12 48 8  Y  Y  Y  Y  Y  Y
-     MD415HSA Bearley Jn – Stratford Upon Avon (End of
-                                     12 48  8 63 8  Y  Y  Y  Y  Y  Y
-              Headshunt)
-     MD420HHW Hatton North Jn – Hatton West Jn
-                                     18 25 17 62 8  Y  Y  Y  Y  Y  Y
-     MD425TSB Tyseley South Jn – Bearley Jn
-                                     0  00 17 71 8  Y  Y  Y  Y  Y  Y
-     MD430OWW Droitwich Spa – Cutnall Green (former
-                                    126 21130 40 8  Y  Y  Y  Y  Y  Y
-              Route Boundary)
-     MD430OWW Cutnall Green (former Route Boundary) –
-                                    130 40135 46 8  Y  Y  Y  Y  Y  Y
-              Kidderminster
-     MD435DCL Small Heath South Jn – Site of Former
-                                    126 59132 47 8  Y  Y  Y  Y  Y  Y
-              Handsworth Jn
-     MD435HSJ Site of Former Handsworth Jn –
-                                    132 47133 32 8  Y  Y  Y  Y  Y  Y
-              Smethwick Jn
+     MD560CBR2 Park Lane Change of ELR – Park Lane
+                                    36 04 36 15 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+     MD565CBR1 Castle Bromwich Jn – Park Lane Jn
+                                    0  55  0 00 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD565CBR2 Park Lane Jn – Ryecroft Jn
+                                    36 04 47 48 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD570 LSSLandor Street Jn – St Andrews Jn
+                                    40 60 41 18 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD570 SKN St Andrews Jn – Bordesley Jn
+                                    41 18 41 44 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD570 SKN Bordesley Jn – Kings Norton Jn (Camp
+                                    41 44 46 77 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Hill Lines)
+     MD575 SAG St Andrews Jn – Grand Jn
+                                    0  00  0 52 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD580 LELLifford East Jn – Lifford West Jn
+                                    46 11 46 36 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD701MCJ1 London Marylebone – Neasden South
+                                   205 77200 65 8  Y  Y  Y  Y  Y  Y R1 R1 R1 R15mph Down Main line between 202m 21ch
+              Jn (Change of Mileage)                                           and 202m 00ch
+     MD701 NAJ1 Neasden South Jn (Change of Mileage)
+                                    6  30  0 00 7  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              – Northolt Jn
+     MD701 NAJ2 Northolt Jn – Princes Risborough Jn
+                                    0  00 24 50 7  Y  Y  Y  Y  Y  Y  Y  Y  Y
+     MD701 NAJ2 Princes Risborough Jn – Site of Former
+                                    24 50 33 69 7  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Ashendon Jn (Change of Mileage)
+     MD701 NAJ3 Site of Former Ashendon Jn (Change of
+                                    0  00 18 35 7  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Mileage) – Aynho Jn
+     MD705 ANLRoute Boundary (GW110) (Greenford
+                                    8  60 10 15 8  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              West Jn) – Northolt Jn (South Ruislip)
+     MD710MCJ1 Neasden South Jn – Network Rail
+                                   200 66197 05 8  R1 R1 R1 R1R1 R1 R1 R1 R1 R1Prohibited unless fitted with tripcocks or
+              Boundary (LUL) (Harrow-on-the-Hill                               agreed operational arrangements are in
+              South Jn)                                                        place to allow the vehicle to proceed onto
+                                                                               LUL infrastructure
 
-     December 2009                                   34
+    December 2009                                    30A

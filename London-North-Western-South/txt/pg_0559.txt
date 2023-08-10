@@ -5,72 +5,64 @@
 
 
 
-    Line of ELR
-             Line of Route / Sector
-                                M Ch M Ch 165 166 RHM 168 170 171 172 175 180 195 196 220 221 Notes
-    route    Description
-    MD105HNR Northampton South Jn –
-                                65 5566 12 E  N   E Y N E Y N N  Y Y Y R1Route prohibited to Class 165/1
-             Northampton North Jn         R1            R2            R2 Route prohibited to Class 172/2 and 172/3
-    MD105HNR Northampton North Jn – Rugby
-                                66 1283 54 E  N   E Y N E Y N N  Y Y Y R1Route prohibited to Class 165/1
-             South Jn                     R1            R2            R2 Route prohibited to Class 172/2 and 172/3
-    MD120CWJ Camden Jn DC lines (Down DC line
-                                 1 36 3 01 N  N   N N N E N N N  N N N R1Prohibited to Class 172/2 and 172/3
-             mileage) – Kilburn High Road (DC           R1
-             Lines)
-    MD120CWJ Kilburn High Road – Willesden
-                                 3 01 5 28N   N   N N N E N N N  N N N R1Prohibited to Class 172/2 and 172/3
-             Suburban Jn (DC Lines)                     R1
-    MD120CWJ Willesden Suburban Jn – Harrow
-                                 5 2811 46E   N  E N  N R2 NN N  N N N R1Route prohibited to Class 165/1
-             and Wealdstone (Sand Drag) (DC
-                                          R1     R2     R3            R2 Permitted Willesden Junction Low Level for access to
-             Lines)                       R2            R4               Willesden TMD
-                                                                      R3 Prohibited between Willesden Junction Low Level and
-                                                                         Harrow and Wealdstone
-                                                                      R4 Prohibited to Class 172/2 and 172/3 when laden
-    MD120CWJ Harrow and Wealdstone (Sand
-                                11 4617 58N   N   N N N N N N N  N N N
-             Drag) – Watford Jn (DC Lines)
-    MD130WSA Watford Junction – St Albans Abbey
-                                 0 00 6 45N   N   N N N N N N N  N N N
-    MD136WCL Harlesden Jn – Railnet Jn
-                                 1 00 1 11N   N   N N N E N N N  N N Y
-    MD136WCL Railnet Jn – Willesden Carriage
-                                 1 11 2 00N   N   N N N E N N N  N N Y
-             Shed South
-    MD136WCL Willesden Carriage Shed South –
-                                 2 00 2 60N   N   N N N E N N N  N N Y
-             Connection with Yard line
-    MD136WEF1Connection with Yard line –
-                                 2 60 2 76N   N   N N N E N N N  N N Y
-             Wembley Central Jn
-    MD137WCL Harlesden Jn – Railnet Jn
-                                 1 00 1 11N   N   N N N E N N N  N N Y
-    MD137UHL Railnet Jn – Wembley Yard South
-                                 1 11 1 62N   N   N N N E N N N  N N Y
-             Jn
-    MD137WEF1Wembley Yard South Jn – Wembley
-                                 1 62 2 76N   N   N N N E N N N  N N Y
-             Central Jn
-    MD140LEC1Bletchley South Jn – Bletchley
-                                46 4146 59N   N   N N N E N N N  N N N R1Prohibited with footsteps fitted
-             North Jn (Change of Mileage)               R1
-    MD140BBM Bletchley North Jn (Change of
-                                 0 11 0 21N   N   N N N E N N N  Y N N R1Prohibited with footsteps fitted
-             Mileage) – Limit of electrification        R1
-             (Bletchley TMD)
-    MD140BBM Limit of electrification (Bletchley
-                                 0 2116 07N   N   N N N E N N N  Y N N R1Prohibited with footsteps fitted
-             TMD) – Route Boundary (LN3140)             R1
-             (Bedford)
-    MD145CRC2Route Boundary (EA1320) (Camden
-                                 5 42 5 78Y   N   N Y N E N N N  N N E
-             Road West Jn) – Camden Jn (North
-             DC lines)
-    MD150KGW Route Boundary (EA1310) (Kensal
-                                 5 25 5 36E   N   E N N R2 NN N  N N N R1Route prohibited to Class 165/1
-             Green Jn) – Willesden Suburban Jn
-                                          R1                          R2 Prohibited to Class 172/2 and 172/3 when laden
-     December 2009                                   14B
+     Line of
+          ELR Line of Route / Sector Description
+                                    oooo oooo oooo oooo 121 139 142 144 150 153 155 156 158 159 Notes
+     route                           M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+     MD565CBR2 Park Lane Jn – Ryecroft Jn
+                                     36 04  47 48 Y N  N N  Y  Y Y  Y  Y Y
+     MD570 LSSLandor Street Jn – St Andrews Jn
+                                     40 60  41 18 Y N  Y Y  Y  Y Y  Y  Y Y
+     MD570 SKN St Andrews Jn – Bordesley Jn
+                                     41 18  41 44 Y N  Y Y  Y  Y Y  Y  Y Y
+     MD570 SKN Bordesley Jn – Kings Norton Jn (Camp Hill
+                                     41 44  46 77 Y N  Y Y  Y  Y Y  Y  Y Y
+              Lines)
+     MD575 SAG St Andrews Jn – Grand Jn
+                                      0 00  0  52 Y N  N N  Y  Y Y  Y  Y Y
+     MD580 LELLifford East Jn – Lifford West Jn
+                                     46 11  46 36 Y N  N N  Y  Y Y  Y  Y Y
+     MD701MCJ1 London Marylebone – Neasden South Jn
+                                     20577 200 65 E N  N N  Y  Y Y  Y  N N
+              (Change of Mileage)
+     MD701 NAJ1 Neasden South Jn (Change of Mileage) –
+                                      6 30  0  00 E N  N N  Y  Y Y  Y  N N
+              Northolt Jn
+     MD701 NAJ2 Northolt Jn – Princes Risborough Jn
+                                      0 00  24 50R1 N  N N  Y  Y Y  Y  N N R1 Prohibited laden except for access to Chinnor
+                                                                              Railway via Thame Jn
+     MD701 NAJ2 Princes Risborough Jn – Site of Former
+                                     24 50  33 69R1 N  N N  Y  Y Y  Y  N N R1 Prohibited laden except for access to Chinnor
+              Ashendon Jn (Change of Mileage)                                 Railway via Thame Jn
+     MD701 NAJ3 Site of Former Ashendon Jn (Change of
+                                      0 00  18 35 E N  N N  Y  Y Y  Y  N N
+              Mileage) – Aynho Jn
+     MD705 ANLRoute Boundary (GW110) (Greenford West
+                                      8 60  10 15 E N  N N  Y  Y Y  Y  N N
+              Jn) – Northolt Jn (South Ruislip)
+     MD710MCJ1 Neasden South Jn – Network Rail
+                                     20066 197 05E  N  N N  R1R1 R1 R1 N N R1 Prohibited unless fitted with tripcocks
+              Boundary (LUL) (Harrow-on-the-Hill South
+                                                 R1
+              Jn)
+     MD712MCJ2 Network Rail Boundary (LUL) (Amersham,
+                                     25 21  38 08 E N  N N  R1R1 R1 R1 N N R1 Prohibited over LUL section
+              Mantles Wood) – Aylesbury Jn
+     MD712MCJ2 Aylesbury Jn - Aylesbury
+                                     38 08  38 13 E N  N N  Y  Y Y  Y  N N
+     MD715 NJNNeasden South Jn – Route Boundary
+                                      6 30  6  51 E N  N N  Y  Y Y  Y  N N
+              (EA1360) (Neasden Jn)
+     MD720 NAJ2 Princes Risborough – Change of Mileage
+                                     24 40  24 48R1 N  N N  Y  Y Y  Y  N N R1 Prohibited Princes Risborough platform 2 when
+              (Princes Risborough Jn)                                         laden
+     MD720 PRA Change of Mileage (Princes Risborough Jn)
+                                     42 31  49 35 Y N  N N  Y  Y Y  Y  N N
+              – Aylesbury Jn
+     MD725MCJ2 Aylesbury – Aylesbury Vale Parkway
+                                     38 13  40 38 Y N  N N  Y  Y Y  Y  N N
+     MD725MCJ2 Aylesbury Vale Parkway – Change of
+                                     40 38  44 28R1 N  N N  Y  Y Y  Y  N N R1 Prohibited in laden condition when any other
+              Mileage (Quainton Road)                                         trains are within this section of route except when
+                                                                              providing assistance
+    December 2009                                    13

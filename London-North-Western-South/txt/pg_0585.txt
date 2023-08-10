@@ -6,64 +6,67 @@
 
      Line of
           ELR Line of Route / Sector
-                                  oooo oooo oooo oooo 373 377 378 379 380 387 390 458 499 508 700 Notes
-     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo
-                                                                            ooooooooooooooooooooooooooo
-     MD167WAW West London Jn (Willesden) – Route
-                                   6  19  6 76 N  N  N N  N  E N  N N  N  N
-              Boundary (EA1360) (Acton Wells)
-     MD170ACW Route Boundary (EA1360) (Acton
-                                   0  11  0 00 N  N  N N  N N  N  N N  N  N
-              Canal Wharf Jn) – Willesden Jn
-     MD175BPH Bridge Street LC – Site of Former
-                                   4  56  4 29 N  N  N N  N N  N  N N  N  N Line out of use
-              Bridge Street Jn                                             NC/G1/2014/LNW443v2
-
-     MD175BDN Site of Former Bridge Street Jn – Site
-                                   0  00  0 18 N  N  N N  N N  N  N N  N  N Line out of use
-              of Former Duston North Jn                                    NC/G1/2014/LNW443v2
-
-     MD175NMH Site of Former Duston North Jn –
-                                   0  29  0 65 N  N  N N  N N  N  N N  N  N Line out of use
-              Northampton South Jn                                         NC/G1/2014/LNW443v2
-     MD180RTS Rugby Trent Valley Jn – New Bilton
-                                   0  00  0 79 N  N  N N  N N  N  N N  N  N
-     MD232WNS Route Boundary (LN3232) (Hinckley) –
-                                   2  62  0 05 N  N  N N  N N  EH N N  N  N
-              Nuneaton South Jn
-     MD232WNS Limit of Electrification (Down direction)
-                                   0  39  0 05 N  N  N N  N N  Y  N N  N  N
-              – Nuneaton South Jn
-     MD232WNS Nuneaton South Jn – Nuneaton South
-                                   0  05  0 00 N  N  N N  N N  Y  N N  N  N
+                                  oo  oo oo oo 313 315 317 319 321 322 323 325 350 360 Notes
+     route    Description         oo  oo oo oo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+                                  M   Ch M  Ch
+     MD560WOP Water Orton West Jn – Park Lane
+                                   35 15 36 04 N  N  N N  N  N  N H  N  N
               Change of ELR
-     MD232PVS Nuneaton South Change of ELR –
-                                   10 61 10 39 N  N  N N  N N  Y  N N  N  N
-              Limit of Electrification (Up direction)
-     MD232PVS Limit of Electrification (Up direction) –
-                                   10 39 10 09 N  N  N N  N N  N  N N  N  N
-              Midland Yard Jn
-     MD232NMA Midland Yard Jn – Abbey Jn
-                                   10 09  9 60 N  N  N N  N N  N  N N  N  N
-     MD233MYC Midland Yard Jn – Canal Farm Jn
-                                   0  00  0 69 N  N  N N  N N  N  N N  N  N
-     MD301RBS1Rugby Trent Valley Jn – Coventry
-                                   83 18 93 71 N  N  N N  N N  T  N N  N  N
-              South Jn
-     MD301RBS1Coventry South Jn – Coventry North Jn
-                                   93 71 94 19 N  N  N N  N N  T  N N  N  N
-     MD301RBS1Coventry North Jn – Stechford North
-                                   94 19 10912 N  N  N N  N N  T  N N  N  N
-              Jn
-     MD301RBS1Stechford North Jn – Grand Jn
-                                  109 12 11172 N  N  N N  N N  T  N N  N  N
-     MD301RBS1Grand Jn – Proof House Jn
-                                  111 72 11219 N  N  N N  N N  T  N N  N  N
-     MD301RBS1Proof House Jn – Birmingham New
-                                  112 19 11273 N  N  N N  N N  T  N N  N  N R1Prohibited Birmingham platform 12 in 11-car
-              Street (Change of Mileage)                       R1             formations.
-                                                               R2          R2 Prohibited from entering Birmingham platform
-                                                                              3 via points NS578 reverse and platform 7 via
-                                                                              points NS560 reverse when formed of 11-cars
-
-     December 2009                                   20F
+     MD560CBR2Park Lane Change of ELR – Park
+                                   36 04 36 15 N  N  N N  N  N  N H  N  N
+              Lane Jn
+     MD565CBR1Castle Bromwich Jn – Park Lane Jn
+                                   0  55  0 00 N  N  N N  N  N  N H  N  N
+     MD565CBR2Park Lane Jn – Ryecroft Jn
+                                   36 04 47 48 N  N  N N  N  N  N H  N  N
+     MD570LSS Landor Street Jn – St Andrews Jn
+                                   40 60 41 18 N  N  N N  N  N  N H  N  N
+     MD570SKN St Andrews Jn – Bordesley Jn
+                                   41 18 41 44 N  N  N N  N  N  N H  N  N
+     MD570SKN Bordesley Jn – Kings Norton Jn (Camp
+                                   41 44 46 77 N  N  N N  N  N  N H  N  N
+              Hill Lines)
+     MD575SAG St Andrews Jn – Grand Jn
+                                   0  00  0 52 N  N  N N  N  N  N H  N  N
+     MD580LEL Lifford East Jn – Lifford West Jn
+                                   46 11  4636 N  N  N N  N  N  N H  N  N
+     MD701MCJ1London Marylebone – Neasden South
+                                  205 77 20065 N  N  N N  N  N  N H  N  N
+              Jn (Change of Mileage)
+     MD701NAJ1Neasden South Jn (Change of
+                                   6  30  0 00 N  N  N N  N  N  N H  N  N
+              Mileage) – Northolt Jn
+     MD701NAJ2Northolt Jn – Princes Risborough Jn
+                                   0  00 24 50 N  N  N N  N  N  N H  N  N
+     MD701NAJ2Princes Risborough Jn – Site of
+                                   24 50 33 69 N  N  N N  N  N  N H  N  N
+              Former Ashendon Jn (Change of
+              Mileage)
+     MD701NAJ3Site of Former Ashendon Jn (Change
+                                   0  00 18 35 N  N  N N  N  N  N H  N  N
+              of Mileage) – Aynho Jn
+     MD705ANL Route Boundary (GW110) (Greenford
+                                   8  60 10 15 N  N  N N  N  N  N H  N  N
+              West Jn) – Northolt Jn (South Ruislip)
+     MD710MCJ1Neasden South Jn – Network Rail
+                                  200 66 19705 N  N  N N  N  N  N H  N  N
+              Boundary (LUL) (Harrow-on-the-Hill
+              South Jn)
+     MD712MCJ2Network Rail Boundary (LUL)
+                                   25 21 38 08 N  N  N N  N  N  N H  N  N
+              (Amersham, Mantles Wood) –
+              Aylesbury Jn
+     MD712MCJ2Aylesbury Jn – Aylesbury
+                                   38 08 38 13 N  N  N N  N  N  N H  N  N
+     MD715NJN Neasden South Jn – Route Boundary
+                                   6  30  6 51 N  N  N N  N  N  N N  N  N
+              (EA1360) (Neasden Jn)
+     MD720NAJ2Princes Risborough – Change of
+                                   24 40 24 48 N  N  N N  N  N  N H  N  N
+              Mileage (Princes Risborough Jn)
+     MD720PRA Change of Mileage (Princes
+                                   42 31 49 35 N  N  N N  N  N  N H  N  N
+              Risborough Jn) – Aylesbury Jn
+     MD725MCJ2Aylesbury – Aylesbury Vale Parkway
+                                   38 13 40 38 N  N  N N  N  N  N H  N  N
+    December 2009                                    20A

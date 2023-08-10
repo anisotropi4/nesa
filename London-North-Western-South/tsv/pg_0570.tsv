@@ -1,16 +1,22 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
-London-North-Western-South	0570	MD101	LEC1	London Euston – Camden Jn DC Lines	0	00	1	36	Y	N	Y	R1 R2	Y	Y	N	Y	Y	N	R1 Prohibited London Euston platform 5 R2 Prohibited London Euston platform 12 with deflated secondary suspension
-London-North-Western-South	0570	MD101	LEC1	Camden Jn DC Lines – Camden Jn (NLL)	1	36	1	51	Y	N	Y	Y	Y	Y	N	Y	Y	N	
-London-North-Western-South	0570	MD101	LEC1	Camden Jn – West London Jn (Willesden)	1	51	5	23	Y	N	Y	Y	Y	Y	N	Y	Y	N	
-London-North-Western-South	0570	MD101	LLG	West London Jn (Willesden) – Sudbury Jn (Willesden Relief Lines)	0	12	2	03	Y	Y	Y	Y	Y	Y	N	Y	Y	N	
-London-North-Western-South	0570	MD101	LEC1	West London Jn (Willesden) – Harlesden Jn	5	23	6	01	Y	Y	Y	Y	Y	Y	N	Y	Y	N	
-London-North-Western-South	0570	MD101	LEC1	Harlesden Jn – Watford South Jn	6	01	17	06	Y	Y	Y	Y	Y	Y	N	Y	Y	EH R1	R3 Prohibited between Harlesden Jn and Wembley Central
-London-North-Western-South	0570	MD101	LEC1	Watford South Jn – Bletchley South Jn	17	06	46	41	Y	Y	Y	Y	Y	Y	N	Y	Y	EH	
-London-North-Western-South	0570	MD101	LEC1	Bletchley South Jn – Bletchley (Platforms 1 – 5) – Denbigh Hall South Jn	46	41	47	52	Y	Y	Y	Y	Y	Y	Y	Y	Y	EH	
-London-North-Western-South	0570	MD101	LEC1	Denbigh Hall South Jn – Hanslope North Jn	47	52	56	66	R1	R1	Y	Y	Y	Y	Y	Y	Y	EH	R1 Prohibited between Wolverton and Hanslope North Jn
-London-North-Western-South	0570	MD101	LEC1	Hanslope North Jn – Hillmorton Jn	56	66	81	28	N	N	Y	Y	Y	Y	Y	Y	Y	N	
-London-North-Western-South	0570	MD101	LEC1	Hillmorton Jn – Rugby Trent Valley Jn	81	28	83	18	N	N	Y	R1	Y	Y	Y	Y	Y	N	R1 Prohibited between Rugby and Rugby Trent Valley Jn
-London-North-Western-South	0570	MD101	LEC2	Rugby Trent Valley Jn – Armitage Jn (NW1001 Sectional Appendix Boundary)	83	18	119	20	N	N	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Western-South	0570	MD105	HNR	Hanslope Jn (MD101) – Northampton South Jn	56	66	65	55	N	N	Y	Y	Y	Y	Y	Y	Y	EH	
-London-North-Western-South	0570	MD105	HNR	Northampton South Jn – Northampton North Jn	65	55	66	12	N	N	Y	Y	Y	Y	Y	Y	Y	EH	
-London-North-Western-South	0570	MD105	HNR	Northampton North Jn – Rugby South Jn	66	12	83	54	N	N	Y	Y	Y	Y	Y	Y	Y	EH R1	R1 Prohibited between Mill Lane Jn and Rugby South Jn
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	166 RHM	168	170	171	172	175	180	195	196	220	221	Notes
+London-North-Western-South	0570	MD712	MCJ2	Aylesbury Jn – Aylesbury	38	08	38	13	R1	N	Y	N	N	R2	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0570	MD715	NJN	Neasden South Jn – Route Boundary (EA1360) (Neasden Jn)	6	30	6	51	E R1	N	E	N	N	E	N	N	N	N	N	N	R1 Route prohibited to Class 165/1
+London-North-Western-South	0570	MD720	NAJ2	Princes Risborough – Change of Mileage (Princes Risborough Jn)	24	40	24	48	R1	N	Y	N	N	Y	N	N	N	N	N	N	R1 Route prohibited to Class 165/1
+London-North-Western-South	0570	MD720	PRA	Change of Mileage (Princes Risborough Jn) – Aylesbury Jn	42	31	49	35	R1	N	Y	N	N	Y	N	N	N	N	N	N	R1 Route prohibited to Class 165/1
+London-North-Western-South	0570	MD725	MCJ2	Aylesbury – Aylesbury Vale Parkway	38	13	40	38	R1	N	Y	N	N	R2	N	N	N	N	N	N	R1 Route prohibited to Class 165/1 R2 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0570	MD725	MCJ2	Aylesbury Vale Parkway – Change of Mileage (Quainton Road)	40	38	44	28	Y	N	E	N	N	E R1	N	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0570	MD725	MCJ3	Change of Mileage (Quainton Road) – Calvert Jn (Change of Mileage)	161	50	156	72	Y	N	E	N	N	E R1	N	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0570	MD725	MCJ4	Calvert Jn (Change of Mileage) – Claydon L&NE Jn	0	00	0	41	Y	N	E	N	N	E R1	N	N	N	N	N	N	R1 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0570	MD736	OXD	Route Boundary (GW277) –Gavray Junction	29	25	19	00	Y	N	Y	N	N	Y	N	N	N	N	N	N	
+London-North-Western-South	0570	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	R1	N	R1	N	N	R2	N	N	N	N	N	N	R1 Prohibtied Temporary Buffer Stop to Gates (Claydon) R2 Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0570	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	N	N	N	N	N	N	N	N	N	N	N	N	Line non-operational
+London-North-Western-South	0570	MD736	OXD	Buffer Stops – Flyover Junction (Change of ELR)	1	27	0	62	E R1	N	N	N	N	N	N	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Western-South	0570	MD736	BFO	Flyover Junction (Change of ELR) – Flyover Junction Summit	0	00	0	68	E R1	N	N	N	N	N	N	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Western-South	0570	MD736	DHF	Flyover Junction Summit – Limit of Electrification	0	68	1	37	E R1	N	N	N	N	N	N	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Western-South	0570	MD736	DHF	Limit of Electrification – Bletchley Flyover North Jn	1	37	1	61	E R1	N	N	N	N	N	N	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Western-South	0570	MD736	DHF	Bletchley Flyover North Jn – Denbigh Hall South Jn	1	61	1	73	E R1	N	N	N	N	N	N	N	N	N	N	N	R1 Prohibited with footsteps fitted
+London-North-Western-South	0570	MD740	BFO	Flyover Jn (Summit) – Fenny Stratford Bletchley Flyover Jn	0	68	1	59	N	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0570	MD745	BSG	Bicester South Junction – Gavray Junction	0	00	0	52	Y	N	Y	N	N	Y	N	N	N	N	N	N	
+London-North-Western-South	0570	MD801	WSJ1	Wolverhampton North Jn – Oxley, Stafford Road Jn (Change of Mileage)	143	52	142	79	N	N	Y	Y	N	N	Y	N	EH	Y	Y	Y	
+London-North-Western-South	0570	MD801	WSJ2	Oxley, Stafford Road Jn (Change of Mileage) – Limit of Electrification	143	02	143	65	N	N	Y	Y	N	N	Y	N	EH R1	Y	Y	Y	R1 Prohibited between Oxley TRSMD and Limit of Electrification
+London-North-Western-South	0570	MD801	WSJ2	Limit of Electrification – Madeley Jn	143	65	156	19	N	N	Y	Y	N	N	Y	N	N	Y	N	R1	R1 3mph Shifnal Down platform with deflated suspension

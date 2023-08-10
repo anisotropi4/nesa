@@ -1,14 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	37/7 37/9	Notes
-London-North-Western-South	0610	MD801	WSJ2	Madeley Jn – Route Boundary (GW731) (Abbey Foregate )	156	19	170	46	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD805	OXC	Bushbury (Oxley) Jn – Stafford Road Jn	1	02	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD810	MJI1	Madeley Junction – Site of Former Lightmoor Jn	156	19	160	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD810	MJI2	Site of Former Lightmoor Jn – Ironbridge Power Station (NR Boundary)	156	19	160	29	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD900	ABW	Abbotswood Jn – Norton Jn	0	00	0	62	8	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD900	OWW	Norton Jn – Shrub Hill Jn	117	26	120	46	8	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD900	OWW	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	8	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD900	STO	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	8	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD910	OWW	Pershore (excl) – Norton Jn	112	00	117	26	7	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD940	WAH	Shrub Hill Jn – Henwick SB (Branch Single)	120	46	121	65	7	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD940	WAH	Henwick SB – Shelwick Jn	121	65	148	11	7	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD950	BLW	Worcester Tunnel Jn – Site of former Rainbow Hill Jn Change of ELR	0	30	0	00	7	Y	N	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-South	0610	MD950	WAH	Site of former Rainbow Hill Jn Change of ELR – Henwick SB (Droitwich Single)	120	64	121	65	7	Y	N	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD120	CWJ	Kilburn High Road – Willesden Suburban Jn (DC Lines)	3	01	5	28	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD120	CWJ	Willesden Suburban Jn – Harrow and Wealdstone (Sand Drag) (DC Lines)	5	28	11	46	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD120	CWJ	Harrow and Wealdstone (Sand Drag) – Watford Jn (DC Lines)	11	46	17	58	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD130	WSA	Watford Junction – St Albans Abbey	0	00	6	45	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD136	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD136	WCL	Railnet Jn – Willesden Carriage Shed South	1	11	2	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD136	WCL	Willesden Carriage Shed South – Connection with Yard line	2	00	2	60	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD136	WEF1	Connection with Yard line – Wembley Central Jn	2	60	2	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD137	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD137	UHL	Railnet Jn – Wembley Yard South Jn	1	11	1	62	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD137	WEF1	Wembley Yard South Jn – Wembley Central Jn	1	62	2	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD140	LEC1	Bletchley South Jn – Bletchley North Jn (Change of Mileage)	46	41	46	59	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD140	BBM	Bletchley North Jn (Change of Mileage) – Limit of electrification (Bletchley TMD)	0	11	0	21	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD140	BBM	Limit of electrification (Bletchley TMD) – Route Boundary (LN3140) (Bedford)	0	21	16	07	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD145	CRC2	Route Boundary (EA1320) (Camden Road West Jn) – Camden Jn (North DC lines)	5	42	5	78	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD150	KGW	Route Boundary (EA1310) (Kensal Green Jn) – Willesden Suburban Jn	5	25	5	36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD155	KGC	Route Boundary (EA1310) (Kensal Green Jn) – Harlesden Jn	0	21	1	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD160	WMB	Route Boundary (EA1310) (Willesden High Level Jn) – Mitre Bridge Jn	0	09	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD166	WLL	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	5	65	5	67	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD166	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD166	LLG	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	0	12	2	59	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD167	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD167	WAW	West London Jn (Willesden) – Route Boundary (EA1360) (Acton Wells)	6	19	6	76	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0610	MD170	ACW	Route Boundary (EA1360) (Acton Canal Wharf Jn) – Willesden Jn	0	11	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

@@ -5,67 +5,60 @@
 
 
 
-     Line of ELR
-             Line of Route / Sector Description
+     Line of
+          ELR Line of Route / Sector Description
                                    oooo oooo oooo oooo RA
-                                                    58 59 60 66  67 68  70 7397/3 Notes
-     route                          M  Ch M  Ch    ooo ooo ooo ooo ooo          ooooooooooooooooooooooooooo
-     MD345 BJW2 Ryecroft Jn – Change of Mileage
-                                     6  76  6 79 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-     MD345 RRN1 Change of Mileage – Cannock Change of
-                                     0  00  7 20 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             ELR
-     MD345 RRN2 Cannock Change of ELR – Route Boundary
-                                     7  20 14 00 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             (NW1004) (Rugeley North Jn)
-     MD350 BJW3 Anglesea Sidings – Lichfield City Jn
-                                     12 15 16 47 8   N  N  N  N  N   N  N  N  N Line out of use
-                                                                                NC/G1/2005/LN296
-            Lichfield South Jn – Lichfield Trent Valley Jn
-     MD355 LTV                       0  22  0 02 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            (Chord Line)
-             Walsall, Pleck Jn – Darlaston Jn
-     MD360 WDJ                       1  16  0 15 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Portobello Jn – Wolverhampton Crane Street
-     MD365 PJW                       0  04  1 59 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Jn
-            Route Boundary (GW200) (Heyford) – Aynho
-     MD401 DCL                       75 00 81 13 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Jn
-            Aynho Jn – Leamington Spa North Jn
-     MD401 DCL                       81 13106 25 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-     MD401 DCL
-             Leamington Spa North Jn – Tyseley South Jn 106
-                                        25125 73 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-     MD401 BCV/D Tyseley South Jn – Small Heath South Jn
-                                    125 73126 59 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-         CL
-             Small Heath South Jn – Bordesley Jn
-     MD401 BCV                      126 59128 11 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-     MD405 LSC1 Leamington Spa North Jn – Milverton Change 106
-                                        25107 06 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             of ELR
-     MD405 LSC2 Milverton Change of ELR – Coventry South
-                                      0 00  8 45 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             Jn
-            Coventry North Jn – Nuneaton South Jn
-     MD410 CNN                       0  00  9 53 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Hatton Station Jn – Bearley Jn
-     MD415 HSA                       18 12 12 48 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Bearley Jn – Stratford Upon Avon (End of
-     MD415 HSA                       12 48  8 63 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Headshunt)
-     MD420 HHW Hatton North Jn – Hatton West Jn
-                                     18 25 17 62 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-            Tyseley South Jn – Bearley Jn
-     MD425 TSB                       0  00 17 71 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-     MD430 OWW Droitwich Spa – Cutnall Green (former Route
-                                    126 21130 40 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             Boundary)
-     MD430 OWW Cutnall Green (former Route Boundary) –
-                                    130 40135 46 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             Kidderminster
-             Small Heath South Jn – Site of Former
-     MD435 DCL                      126 59132 47 8   Y  Y  Y  Y  Y   Y  Y  Y  Y
-             Handsworth Jn
-     December 2009                                   42
+                                                   43 47/2 47/4 47/7
+                                                               56 57 Notes
+     route                          M  Ch M  Ch    ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+     MD736OXD Route Boundary (GW277) –Gavray
+                                     29 25 19 00 8  Y  Y  Y  Y  Y  Y
+              Junction
+     MD736OXD Gavray Junction – Gates (Claydon)
+                                     19 00 12 00 8  Y  Y  Y  Y  Y  Y
+     MD736OXD Gates (Claydon) – Buffer Stops
+                                     12 00  1 31 8  N  N  N  N  N  N Line non operational
+     MD736OXD Buffer Stops – Flyover Junction (Change
+                                      1 27  0 62 8  Y  Y  Y  Y  Y  Y
+              of ELR)
+     MD736BFO Flyover Junction (Change of ELR) –
+                                     0  00  0 68 7  Y  Y  Y  Y  Y  Y
+              Flyover Junction Summit
+     MD736DHF Flyover Junction Summit – Limit of
+                                     0  68  1 37 7  Y  Y  Y  Y  Y  Y
+              Electrification
+     MD736DHF Limit of Electrification – Bletchley Flyover
+                                     1  37  1 61 7  Y  Y  Y  Y  Y  Y
+              North Jn
+     MD736DHF Bletchley Flyover North Jn – Denbigh Hall
+                                     1  61  1 73 7  Y  Y  Y  Y  Y  Y
+              South Jn
+     MD740BFO Flyover Jn (Summit) – Fenny Stratford
+                                     0  68  1 59 8  Y  Y  Y  Y  Y  Y
+              Bletchley Flyover Jn
+     MD745BSG Bicester South Junction – Gavray Junction
+                                     0  00 0  52 10 Y  Y  Y  Y  Y  Y
+     MD801WSJ1Wolverhampton North Jn – Oxley, Stafford 143
+                                        52142 79 8  Y  Y  Y  Y  Y  Y
+              Road Jn (Change of Mileage)
+     MD801WSJ2Oxley, Stafford Road Jn (Change of
+                                    143 02143 65 8  Y  Y  Y  Y  Y  Y
+              Mileage) – Limit of Electrification
+     MD801WSJ2Limit of Electrification – Madeley Jn
+                                    143 65156 19 8  Y  Y  Y  Y  Y  Y
+     MD801WSJ2Madeley Jn – Route Boundary (GW731)
+                                    156 19170 46 8  Y  Y  Y  Y  Y  Y
+              (Abbey Foregate )
+     MD805OXC Bushbury (Oxley) Jn – Stafford Road Jn
+                                     1  02  0 00 8  Y  Y  Y  Y  Y  Y
+     MD810MJI1Madeley Junction – Site of Former
+                                    156 19160 29 8  Y  Y  Y  Y  Y  Y
+              Lightmoor Jn
+     MD810MJI2Site of Former Lightmoor Jn – Ironbridge
+                                    156 19160 29 8  Y  Y  Y  Y  Y  Y
+              Power Station (NR Boundary)
+
+
+
+
+    December 2009                                    37

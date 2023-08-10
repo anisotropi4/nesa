@@ -3,66 +3,72 @@
 
                                       LNW South Route Sectional Appendix Module LNW(S) RC
 
-     Line of Line of Route / Sector Description      Gauge                     Notes
-     route                      W6a  W7    W8   W9   W9Plus W10   W10A   W12
-     MD137Wembley Yard South Jn – Wembley
-                                 Y    Y    Y    Y      N     Y     N      N
-          Central Jn
-     MD140Bletchley – Bedford St Johns (inclusive)
-                                 Y*   Y    Y    N      N     N     N      N
-     MD145Camden Road West Junction – Camden
-                                 Y    Y    Y    Y      N     Y     N      N
-          Junction
-     MD150Kensal Green Junction – Willesden
-                                 Y    Y    Y    Y      N     N     N      N
-          Suburban Junction
-     MD155Kensal Green Junction – Harlesden
-                                 Y    Y    Y    Y      N     Y     N      N
-          Junction
-     MD160Willesden High Level Junction – Mitre
-                                 Y    Y    Y    Y      N     N     N      N
-          Bridge Junction
-     MD166Route Boundary (SO250) (North Pole Jn) –
-                                 Y    Y    Y    Y      N     N     N      N
-          Mitre Bridge Jn
-     MD166Mitre Bridge Jn – West London Jn
-                                 Y    Y    Y    Y      N     N     N      N
-          (Willesden)
-     MD166West London Jn (Willesden) – Wembley
-                                 Y    Y    Y    Y      N     Y     N      N
-          Central Jn (Willesden Relief lines)
-     MD167Mitre Bridge Jn – West London Jn
-                                 Y    Y    Y    Y      N     N     N      N
-          (Willesden)
-     MD167West London Jn (Willesden) – Route
-                                 Y    Y    Y    Y      N     N     N      N
-          Boundary (EA1360) (Acton Wells)
-     MD170Acton Canal Wharf Junction – Willesden
-                                 Y    Y    Y    Y      Y     Y     Y      Y
-          Junction
-     MD180Rugby Trent Valley Junction – New Bilton
-                                 Y    N    N    N      N     N     N      N   R1
-     MD232Hinckley (Exclusive) – Abbey Jn
-                                 Y    Y    N    N      N     Y     N      N
-     MD233Midland Yard Jn – Canal Farm Jn
-                                 Y    Y    Y    Y      N     Y     N      Y
-     MD301Rugby, Trent Valley Junction – Penkridge
-                                 Y*   Y    Y    R1     N     R2    N      N   R1 R1 W9 prohibited between Stechford
-          (Excl) via Stechford, Birmingham New                                     North Junction and Bushbury
-          Street and Dudley Port                                                   Junction via Birmingham New
-                                                                                   Street and Dudley Port
-                                                                              R2 R2 W10 prohibited between
-                                                                                   Stechford North Junction and
-                                                                                   Crane Street Junction (exclusive)
-                                                                                   via Birmingham New Street and
-                                                                                   Dudley Port
-     MD305Birmingham New Street – Blackwell via
-                                 Y*  R1    R1   N      N     N     N      N   R1 W7 and W8 at 30 mph through Church
-          Selly Oak                                                              Road Tunnel [43m 56ch - 43m 61ch]
-     MD310Barnt Green Junction – Redditch
-                                 Y*   N    N    N      N     N     N      N
+     Line of
+          ELR Line of Route / Sector Description
+                                   oooo oooo oooo oooo
+                                                 RA  86   87   88 90   91  92 Notes
+     route                          M  Ch  M Ch  ooo ooo  ooo     ooo  ooo ooooooooooooooooooooooo
+                                                                              ooooooo
+     MD345BJW2 Ryecroft Jn – Change of Mileage
+                                     6  76 6  79  8   H   H    Y   Y    N   Y
+     MD345RRN1 Change of Mileage – Cannock Change of
+                                     0  00 7  20  8   H   H    Y   Y    N   Y
+              ELR
+     MD345RRN2 Cannock Change of ELR – Route
+                                     7  20 14 00  8   H   H    Y   Y    N   Y
+              Boundary (NW1004) (Rugeley North Jn)
+     MD350BJW3 Anglesea Sidings – Lichfield City Jn
+                                    12  15 16 47  8   N   N    Y   N    N   N  Line out of use
+                                                                               NC/G1/2005/LN296
+     MD355 LTVLichfield South Jn – Lichfield Trent Valley
+                                     0  22 0  02  8   H   N    Y   H    N   N
+              Jn (Chord Line)
+     MD360 WDJ Walsall, Pleck Jn – Darlaston Jn
+                                     1  16 0  15  8   Y   Y    Y   Y    N   Y
+     MD365 PJW Portobello Jn – Wolverhampton Crane
+                                     0  04 1  59  8   Y   Y    Y   Y    N   Y
+              Street Jn
+     MD401 DCL Route Boundary (GW200) (Heyford) –
+                                    75  00 81 13  8   N   N    Y   N    N   N
+              Aynho Jn
+     MD401 DCL Aynho Jn – Leamington Spa North Jn
+                                    81  13106 25  8   H   H    Y   H    N   N  R1Prohibited between
+                                                      R1  R1       R1            Aynho Jn and Fenny
+                                                                                 Compton
+     MD401 DCL Leamington Spa North Jn – Tyseley
+                                    106 25125 73  8   N   N    Y   N    N   N
+              South Jn
+     MD401BCV/D Tyseley South Jn – Small Heath South Jn 125
+                                        73126 59  8   H   H    Y   H    N   N  R1Prohibited between
+           CL                                         R1  R1       R1            Tyseley South Jn and
+                                                                                 Tyseley
+     MD401BCV Small Heath South Jn – Bordesley Jn
+                                    126 59128 11  8   H   H    Y   H    N   N
+     MD405LSC1 Leamington Spa North Jn – Milverton
+                                    106 25107 06  8   H   H    Y   H    N   N
+              Change of ELR
+     MD405LSC2 Milverton Change of ELR – Coventry
+                                     0  00 8  45  8   H   H    Y   H    N   N
+              South Jn
+     MD410CNN Coventry North Jn – Nuneaton South Jn
+                                     0  00  9 53  8   H   H    Y   H    N   N
+     MD415HSA Hatton Station Jn – Bearley Jn
+                                    18  12 12 48  8   N   N    Y   N    N   N
+     MD415HSA Bearley Jn – Stratford Upon Avon (End of
+                                    12  48  8 63  8   N   N    Y   N    N   N
+              Headshunt)
+     MD420HHW Hatton North Jn – Hatton West Jn
+                                     18 25 17 62  8   N   N    Y   N    N   N
+     MD425TSB Tyseley South Jn – Bearley Jn
+                                     0  00 17 71  8   N   N    Y   N    N   N
+     MD430OWW Droitwich Spa – Cutnall Green (former
+                                    126 21130 40  8   N   N    Y   N    N   N
+              Route Boundary)
+     MD430OWW Cutnall Green (former Route Boundary) –
+                                    130 40135 46  8   N   N    Y   N    N   N
+              Kidderminster
+     MD435DCL Small Heath South Jn – Site of Former
+                                    126 59132 47  8   N   N        N    N   N
+              Handsworth Jn
 
-
-
-
-     December 2009                                   45
+    December 2009                                    42H

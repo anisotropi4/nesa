@@ -9,75 +9,68 @@
              Line of Route / Sector
                                 M Ch M Ch 165 166 RHM 168 170 171 172 175 180 195 196 220 221 Notes
     route    Description
-    MD555NWO Nuneaton North Junction – Lmit of
-                                10 1810 00N   N   N Y N E N N N  Y Y Y
-             Electrification
-    MD555NWO Limit of Electrification – Whitacre
-                                10 00 0 00N   N   N Y N E N N N  Y Y Y
-             West Junction
-    MD555DBP3Whitacre West Jn – Water Orton
-                                31 6934 43N   N   E Y N E N N N  N Y Y
-             East Jn
-    MD560WOP Water Orton West Jn – Park Lane
-                                35 1536 04N   N   E Y N N N N N  Y Y Y
-             Change of ELR
-    MD560CBR2Park Lane Change of ELR – Park
-                                36 0436 15N   N   E Y N N N N N  Y Y Y
-             Lane Jn
-    MD565
-        CBR1 Castle Bromwich Jn – Park Lane Jn
-                                 0 55 0 00E   N   E Y N N Y N N  Y Y Y
-    MD565
-        CBR2 Park Lane Jn – Ryecroft Jn
-                                36 0447 48E   N   E Y N N Y N N  Y Y Y
-    MD570
-        LSS  Landor Street Jn – St Andrews Jn
-                                40 6041 18N   N   Y Y N E N N N  Y Y Y
-    MD570
-        SKN  St Andrews Jn – Bordesley Jn
-                                41 1841 44Y   N   Y Y N Y N N N  Y Y Y
-    MD570
-        SKN  Bordesley Jn – Kings Norton Jn
-                                41 4446 77N   N   N Y N   N N N  Y Y Y
-             (Camp Hill Lines)
-    MD575SAG St Andrews Jn – Grand Jn
-                                 0 00 0 52R1  N   Y Y N Y N N N  Y Y Y R1Route prohibited to Class 165/1
-    MD580LEL Lifford East Jn – Lifford West Jn
-                                46 11 4636 N  N   N Y N N N N N  Y Y Y
-    MD701MCJ1London Marylebone – Neasden
-                               205 77 200
-                                        65R1  N   Y N N R2 NN N  N N N R1Route prohibited to Class 165/1
-             South Jn (Change of Mileage)                             R2 Route prohibited to Class 172/2 and 172/3
-    MD701NAJ1Neasden South Jn (Change of
-                                 6 30 0 00R1  N   Y N N Y N N N  N N N R1Route prohibited to Class 165/1
-             Mileage) – Northolt Jn
-    MD701NAJ2Northolt Jn – Princes Risborough Jn
-                                 0 0024 50Y   N   Y N N Y Y Y N  N Y Y
-    MD701NAJ2Princes Risborough Jn – Site of
-                                24 5033 69Y   N   Y N N R1Y R2 N N Y Y R1Route prohibited to Class 172/2 and 172/3
-             Former Ashendon Jn (Change of                            R2 30 mph Haddenham and Thame Parkway Up platform
-             Mileage)
-    MD701NAJ3Site of Former Ashendon Jn
-                                 0 0018 35Y   N   Y N N R1Y Y N  N Y Y R1Route prohibited to Class 172/2 and 172/3
-             (Change of Mileage) – Aynho Jn
-    MD705ANL Route Boundary (GW110)
-                                 8 6010 15Y   N   Y N N Y Y Y N  N Y Y
-             (Greenford West Jn) – Northolt Jn
-             (South Ruislip)
-    MD710MCJ1Neasden South Jn – Network Rail
-                               200 66 197
-                                        05R1  N   Y N N R3 NN N  N N N R1Route prohibited to Class 165/1
-             Boundary (LUL) (Harrow-on-the-Hill
-                                          R2            R4            R2 Prohibited unless fitted with tripcocks
-             South Jn)                                                R3 Prohibited from being the leading unit between on the
-                                                                         LUL section Harrow on the Hill and Amersham (9m
-                                                                         13ch to 25m 21ch) due to the non-fitment of tripcocks
-                                                                      R4 Route prohibited to Class 172/2 and 172/3
-    MD712MCJ2Network Rail Boundary (LUL)
-                                25 2138 08R1  N   Y N N R3 NN N  N N N R1Route prohibited to Class 165/1
-             (Amersham, Mantles Wood) –   R2            R4            R2 Prohibited on LUL section unless fitted with tripcocks
-             Aylesbury Jn                                             R3 Prohibited from being the leading unit on the LUL
-                                                                         section between Harrow on the Hill and Amersham (9m
-                                                                         13ch to 25m 21ch) due to the non-fitment of tripcocks
-                                                                      R4 Route prohibited to Class 172/2 and 172/3
-     December 2009                                   14G
+    MD105HNR Northampton South Jn –
+                                65 5566 12 E  N   E Y N E Y N N  Y Y Y R1Route prohibited to Class 165/1
+             Northampton North Jn         R1            R2            R2 Route prohibited to Class 172/2 and 172/3
+    MD105HNR Northampton North Jn – Rugby
+                                66 1283 54 E  N   E Y N E Y N N  Y Y Y R1Route prohibited to Class 165/1
+             South Jn                     R1            R2            R2 Route prohibited to Class 172/2 and 172/3
+    MD120CWJ Camden Jn DC lines (Down DC line
+                                 1 36 3 01 N  N   N N N E N N N  N N N R1Prohibited to Class 172/2 and 172/3
+             mileage) – Kilburn High Road (DC           R1
+             Lines)
+    MD120CWJ Kilburn High Road – Willesden
+                                 3 01 5 28N   N   N N N E N N N  N N N R1Prohibited to Class 172/2 and 172/3
+             Suburban Jn (DC Lines)                     R1
+    MD120CWJ Willesden Suburban Jn – Harrow
+                                 5 2811 46E   N  E N  N R2 NN N  N N N R1Route prohibited to Class 165/1
+             and Wealdstone (Sand Drag) (DC
+                                          R1     R2     R3            R2 Permitted Willesden Junction Low Level for access to
+             Lines)                       R2            R4               Willesden TMD
+                                                                      R3 Prohibited between Willesden Junction Low Level and
+                                                                         Harrow and Wealdstone
+                                                                      R4 Prohibited to Class 172/2 and 172/3 when laden
+    MD120CWJ Harrow and Wealdstone (Sand
+                                11 4617 58N   N   N N N N N N N  N N N
+             Drag) – Watford Jn (DC Lines)
+    MD130WSA Watford Junction – St Albans Abbey
+                                 0 00 6 45N   N   N N N N N N N  N N N
+    MD136WCL Harlesden Jn – Railnet Jn
+                                 1 00 1 11N   N   N N N E N N N  N N Y
+    MD136WCL Railnet Jn – Willesden Carriage
+                                 1 11 2 00N   N   N N N E N N N  N N Y
+             Shed South
+    MD136WCL Willesden Carriage Shed South –
+                                 2 00 2 60N   N   N N N E N N N  N N Y
+             Connection with Yard line
+    MD136WEF1Connection with Yard line –
+                                 2 60 2 76N   N   N N N E N N N  N N Y
+             Wembley Central Jn
+    MD137WCL Harlesden Jn – Railnet Jn
+                                 1 00 1 11N   N   N N N E N N N  N N Y
+    MD137UHL Railnet Jn – Wembley Yard South
+                                 1 11 1 62N   N   N N N E N N N  N N Y
+             Jn
+    MD137WEF1Wembley Yard South Jn – Wembley
+                                 1 62 2 76N   N   N N N E N N N  N N Y
+             Central Jn
+    MD140LEC1Bletchley South Jn – Bletchley
+                                46 4146 59N   N   N N N E N N N  N N N R1Prohibited with footsteps fitted
+             North Jn (Change of Mileage)               R1
+    MD140BBM Bletchley North Jn (Change of
+                                 0 11 0 21N   N   N N N E N N N  Y N N R1Prohibited with footsteps fitted
+             Mileage) – Limit of electrification        R1
+             (Bletchley TMD)
+    MD140BBM Limit of electrification (Bletchley
+                                 0 2116 07N   N   N N N E N N N  Y N N R1Prohibited with footsteps fitted
+             TMD) – Route Boundary (LN3140)             R1
+             (Bedford)
+    MD145CRC2Route Boundary (EA1320) (Camden
+                                 5 42 5 78Y   N   N Y N E N N N  N N E
+             Road West Jn) – Camden Jn (North
+             DC lines)
+    MD150KGW Route Boundary (EA1310) (Kensal
+                                 5 25 5 36E   N   E N N R2 NN N  N N N R1Route prohibited to Class 165/1
+             Green Jn) – Willesden Suburban Jn
+                                          R1                          R2 Prohibited to Class 172/2 and 172/3 when laden
+    December 2009                                    14B

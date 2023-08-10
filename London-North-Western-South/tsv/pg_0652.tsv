@@ -1,24 +1,21 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-South	0652	MD340	BJW3	Lichfield City Jn – Lichfield Trent Valley (End of Electrification)	16	47	18	05	8	Y	
-London-North-Western-South	0652	MD340	BJW3	Lichfield Trent Valley – Route Boundary (LN3340) (Wichnor Jn)	18	05	19	00	8	Y	
-London-North-Western-South	0652	MD345	BJW1	Bescot Jn – Walsall Pleck Jn (Change of Mileage)	0	00	0	65	8	Y	
-London-North-Western-South	0652	MD345	BJW2	Walsall Pleck Jn (Change of Mileage) – Limit of Electrification	5	42	6	34	8	Y	
-London-North-Western-South	0652	MD345	BJW2	Limit of Electrification – Ryecroft Jn	6	34	6	76	8	Y	
-London-North-Western-South	0652	MD345	BJW2	Ryecroft Jn – Change of Mileage	6	76	6	79	8	Y	
-London-North-Western-South	0652	MD345	RRN1	Change of Mileage – Cannock Change of ELR	0	00	7	20	8	Y	
-London-North-Western-South	0652	MD345	RRN2	Cannock Change of ELR – Route Boundary (NW1004) (Rugeley North Jn)	7	20	14	00	8	Y	
-London-North-Western-South	0652	MD350	BJW3	Anglesea Sidings – Lichfield City Jn	12	15	16	47	8	Y	
-London-North-Western-South	0652	MD355	LTV	Lichfield South Jn – Lichfield Trent Valley Jn (Chord Line)	0	22	0	02	8	Y	
-London-North-Western-South	0652	MD360	WDJ	Walsall, Pleck Jn – Darlaston Jn	1	16	0	15	8	Y	
-London-North-Western-South	0652	MD365	PJW	Portobello Jn – Wolverhampton Crane Street Jn	0	04	1	59	8	Y	
-London-North-Western-South	0652	MD401	DCL	Route Boundary (GW200) (Heyford) – Aynho Jn	75	00	81	13	8	Y	
-London-North-Western-South	0652	MD401	DCL	Aynho Jn – Leamington Spa North Jn	81	13	106	25	8	R1	R1 Prohibited Banbury platform 3 (Up Main line)
-London-North-Western-South	0652	MD401	DCL	Leamington Spa North Jn – Tyseley South Jn	106	25	125	73	8	Y	
-London-North-Western-South	0652	MD401	BCV/D CL	Tyseley South Jn – Small Heath South Jn	125	73	126	59	8	Y	
-London-North-Western-South	0652	MD401	BCV	Small Heath South Jn – Bordesley Jn	126	59	128	11	8	Y	
-London-North-Western-South	0652	MD405	LSC1	Leamington Spa North Jn – Milverton Change of ELR	106	25	107	06	8	Y	
-London-North-Western-South	0652	MD405	LSC2	Milverton Change of ELR – Coventry South Jn	0	00	8	45	8	Y	
-London-North-Western-South	0652	MD410	CNN	Coventry North Jn – Nuneaton South Jn	0	00	9	53	8	Y	
-London-North-Western-South	0652	MD415	HSA	Hatton Station Jn – Bearley Jn	18	12	12	48	8	Y	
-London-North-Western-South	0652	MD415	HSA	Bearley Jn – Stratford Upon Avon (End of Headshunt)	12	48	8	63	8	Y	
-London-North-Western-South	0652	MD420	HHW	Hatton North Jn – Hatton West Jn	18	25	17	62	8	Y	
+Route	page	Line of route	Line of Route / Sector Description	W6a	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Western-South	0652	MD570	Saltley (Landor Street Junction) – Kings Norton Junction (Camp Hill Lines)	Y *	Y	R1	N	N	N	N	N	R1 W8 prohibited between Bordesley Junction and Kings Norton Junction
+London-North-Western-South	0652	MD575	St Andrews Junction – Grand Junction	Y	Y	Y	N	N	N	N	N	
+London-North-Western-South	0652	MD580	Lifford East Junction – Lifford West Junction	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0652	MD701	London Marylebone – Aynho Junction via Wycombe and Bicester	Y *	R1	N	N	N	N	N	N	R1 W7 prohibited between London Marylebone and Neasden South Junction
+London-North-Western-South	0652	MD705	Greenford West Junction – South Ruislip	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-South	0652	MD710	Neasden South Junction – Harrow- on-the-Hill South Junction (LUL/NR Boundary)	Y *	N	N	N	N	N	N	N	
+London-North-Western-South	0652	MD712	Amersham (LUL/NR Boundary [25m 20ch]) – Aylesbury	Y	R1	R1	N	N	N	N	N	R1 W7 and W8 prohibited between Mantles Wood [25m 20ch] and Aylesbury Junction.
+London-North-Western-South	0652	MD715	Neasden South Junction – Neasden Junction	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0652	MD720	Princes Risborough Junction – Aylesbury Junction	Y	Y	N	N	N	N	N	N	
+London-North-Western-South	0652	MD725	Aylesbury – Claydon L&NE Junction	Y	R1	R1	N	N	N	N	N	R1 W8 prohibited between former Calvert Junction and Claydon L&NE Junction. W7 W8 15mph at Bridge No. 179 [42m 76ch] on Single Line
+London-North-Western-South	0652	MD735	Denbigh Hall South – Swanbourne Sidings	Y	Y	Y	N	N	N	N	N	
+London-North-Western-South	0652	MD735	Claydon L&NE Junction – Bicester	Y	Y	Y	N	N	N	N	N	
+London-North-Western-South	0652	MD736	Route Boundary (GW277) –Gavray Junction	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Western-South	0652	MD736	Gavray Junction – Gates (Claydon)	R1	R1	R1	R1	N	R1	N	R1	R1 Prohibited temporary Buffer Stop (18m 46ch) to Gates (Claydon)
+London-North-Western-South	0652	MD736	Gates (Claydon) – Buffer Stops	N	N	N	N	N	N	N	N	
+London-North-Western-South	0652	MD736	Buffer Stops – Flyover Junction (Change of ELR)	N	N	N	N	N	N	N	N	
+London-North-Western-South	0652	MD736	Flyover Junction (Change of ELR) – Flyover Junction Summit	N	N	N	N	N	N	N	N	
+London-North-Western-South	0652	MD736	Flyover Junction Summit – Limit of Electrification	N	N	N	N	N	N	N	N	
+London-North-Western-South	0652	MD736	Limit of Electrification – Bletchley Flyover North Jn	N	N	N	N	N	N	N	N	
+London-North-Western-South	0652	MD736	Bletchley Flyover North Jn – Denbigh Hall South Jn	N	N	N	N	N	N	N	N	

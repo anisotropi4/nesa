@@ -6,47 +6,70 @@
 
 
      Line of
-           ELR   Line of Route / Sector Description    121139 142
-                                                                144150 153
-                                                                         155 156158 159 Notes
-     route                              M   Ch  M  Ch
+          ELR Line of Route / Sector
+                                  oooo oooo oooo oooo 121 139 142 144 150 153 155 156 158 159 Notes
+     route    Description          M  Ch M  Ch ooo ooo ooo ooo ooo ooo ooo ooo ooo ooo ooooooooooooooooooooooooooo
+
+     MD306BAG1Change of Mileage (Birmingham New
+                                    42 35 47 20 Y  N N  N Y  Y  Y Y  Y  Y
+              Street) – Lifford West Jn
+     MD306BAG1Lifford West Jn – King's Norton Station
+                                    47 20 47 48 Y  N N  N Y  Y  Y Y  Y  Y
+              Jn
+     MD306BAG1King's Norton Station Jn – King's Norton
+                                    47 48 48 02 Y  N N  N Y  Y  Y Y  Y  Y
+              Jn (Change of Mileage)
+     MD306BAG2King's Norton Jn (Change of Mileage) –
+                                    46 77 51 58 Y  N Y  N Y  Y  Y Y  Y  Y
+              Barnt Green Jn
+     MD306BAG2Barnt Green Jn – Stoke Works Jn
+                                    51 58 57 43 R1 N Y  N Y  Y R1 Y  Y  Y R1 ECS only 52m 40ch to Stoke Works Jn
+     MD306BAG2Stoke Works Jn – Abbotswood Jn
+                                    57 43 68 60 E  N Y  N Y  Y  E Y  Y  Y
+     MD306BAG2Abbotswood Jn – Route Boundary
+                                   68  60 77 40 E  N Y  N Y  Y  E Y  Y  Y
+              (GW401) (Ashchurch)
+     MD310BEA Barnt Green Jn – Redditch
+                                   51  58 56 60 Y  N N  N Y  Y  Y Y  Y  Y
+     MD315SAS Stechford South Jn – Stechford North Jn
+                                   -0  20 -0 04 Y  N N  N Y  Y  Y Y  Y  Y
+              (via Up Line)
+     MD315SAS Stechford North Jn – Aston South Jn
+                                   -0  04 2  61 Y  N N  N Y  Y  Y Y  Y  Y
+     MD320RBS1 Proof House Jn – Curzon Street Jn
+                                   112 19112 07 Y  N N  N Y  Y  Y Y  Y  Y
+              (Change of Mileage)
+     MD320PBJ Curzon Street Jn (Change of Mileage) –
+                                    0  00  1 60 Y  N N  N Y  Y  Y Y  Y  Y
+              Aston South Jn
+     MD320PBJ Aston South Jn – Aston North Jn
+                                    1  60  1 73 Y  N N  N Y  Y  Y Y  Y  Y
+     MD320PBJ Aston North Jn – Bescot Jn
+                                    1  73  8 50 Y  N N  N Y  Y  Y Y  Y  Y
+     MD320PBJ Bescot Jn – Bushbury Jn
+                                    8  50 15 32 Y  N N  N Y  Y  Y Y  Y  Y
+     MD325SSP Soho South Jn – Perry Barr West Jn
+                                    2  71  0 39 Y  N N  N Y  Y  Y Y  Y  Y
+     MD325PBL Perry Barr West Jn – Perry Barr North
+                                    0  29  0 00 Y  N N  N Y  Y  Y Y  Y  Y
+              Jn
+     MD330SCL Soho East Jn – Soho North Jn
+                                    0  00  0 22 Y  N N  N Y  Y  Y Y  Y  Y
+     MD335SSP Perry Barr West Jn – Perry Barr South
+                                    0  39  0 00 Y  N N  N Y  Y  Y Y  Y  Y
+              Jn
+     MD340ALC1 Aston North Jn – Sutton Coldfield
+                                    0  00  5 00 Y  N N  N Y  Y  Y Y  Y  Y
+              Change of ELR
+     MD340ALC2 Sutton Coldfield Change of ELR –
+                                    5  00 13 33 Y  N N  N Y  Y  Y Y  Y  Y
+              Lichfield City Jn
+     MD340BJW3 Lichfield City Jn – Lichfield Trent Valley
+                                   16  47 18 05 Y  N N  N Y  Y  Y Y  Y  Y
+              (End of Electrification)
+     MD340BJW3 Lichfield Trent Valley – Route Boundary
+                                   18  05 19 00 Y  N N  N Y  Y  Y Y  Y  Y
+              (LN3340) (Wichnor Jn)
 
 
-     MD900 ABW   Abbotswood Jn – Norton Jn
-                                         0  00   0  62 E  N  Y  N  Y   Y  Y  Y  Y  Y
-
-     MD900 OWW   Norton Jn – Shrub Hill Jn
-                                        117 26  120 46 E  N  Y  N  Y   Y  E  E  Y  Y
-
-     MD900 OWW   Shrub Hill Jn – Droitwich Spa Jn
-                                        120 46  126 21 E  N  Y  N  Y   Y  E  E  Y  Y
-
-
-     MD900 STO   Droitwich Spa Jn – Stoke Works Jn
-                                        126 21  130 25 E  N  Y  N  Y   Y  E  E  Y  Y
-
-
-     MD910 OWW   Pershore (excl) – Norton Jn
-                                        112 00  117 26 E  N  Y  N  Y   Y  E  E  Y  Y
-
-     MD940 WAH   Shrub Hill Jn – Henwick SB (Branch Single)
-                                        120 46  121 65 E  N  Y  N  Y   Y  E  E  Y  Y
-
-
-     MD940 WAH   Henwick SB – Shelwick Jn
-                                        121 65  148 11 E  N  Y  N  Y   Y  E  E  Y  Y
-
-     MD950 BLW   Worcester Tunnel Jn – Site of former
-                                         0  30   0  00 E  N  Y  N  Y   Y  E  E  Y  Y
-                 Rainbow Hill Jn Change of ELR
-
-
-
-     MD950 WAH   Site of former Rainbow Hill Jn Change of
-                                        120 64  121 65 E  N  Y  N  Y   Y  E  E  Y  Y
-                 ELR – Henwick SB (Droitwich Single)
-
-
-
-
-     December 2009                                   13B
+    December 2009                                    10

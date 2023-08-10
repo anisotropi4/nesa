@@ -5,60 +5,74 @@
 
 
 
-     MD306 BAG2 King's Norton Jn (Change of Mileage) –
-                                   46 77 5158  N   N  N   N N  N   N
-             Barnt Green Jn
-     MD306 BAG2 Barnt Green Jn – Stoke Works Jn
-                                   51 58 5743  N   N  N   N N  N   N
-     MD306 BAG2 Stoke Works Jn – Abbotswood Jn
-                                   57 43 6860  N   N  N   N N  N   N
-     MD306 BAG2 Abbotswood Jn – Route Boundary
-                                   68 60 7740  N   N  N   N N  N   N
-             (GW401) (Ashchurch)
-             Barnt Green Jn – Redditch
-     MD310 BEA                     51 58 5660  N   N  N   N N  N   N
-             Stechford South Jn – Stechford North Jn
-     MD315 SAS                     -0 20 -004  N   N  N   N N  N   N
-             (via Up Line)
-             Stechford North Jn – Aston South Jn
-     MD315 SAS                     -0 04 2 61  N   N  N   N N  N   N
-     MD320 RBS1 Proof House Jn – Curzon Street Jn
-                                   1121911207  N   N  N   N N  N   N
-             (Change of Mileage)
-             Curzon Street Jn (Change of Mileage) –
-     MD320 PBJ                     0  00 1 60  N   N  N   N N  N   N
-             Aston South Jn
-             Aston South Jn – Aston North Jn
-     MD320 PBJ                     1  60 1 73  N   N  N   N N  N   N
-             Aston North Jn – Bescot Jn
-     MD320 PBJ                     1  73 8 50  N   N  N   N N  N   N
-             Bescot Jn – Bushbury Jn
-     MD320 PBJ                     8  50 1532  N   N  N   N N  N   N
-             Soho South Jn – Perry Barr West Jn
-     MD325 SSP                     2  71 0 39  N   N  N   N N  N   N
-             Perry Barr West Jn – Perry Barr North Jn
-     MD325 PBL                     0  29 0 00  N   N  N   N N  N   N
-             Soho East Jn – Soho North Jn
-     MD330 SCL                     0  00 0 22  N   N  N   N N  N   N
-             Perry Barr West Jn – Perry Barr South Jn
-     MD335 SSP                     0  39 0 00  N   N  N   N N  N   N
-             Aston North Jn – Sutton Coldfield Change
-     MD340 ALC1                    0  00 5 00  N   N  N   N N  N   N
-             of ELR
-             Sutton Coldfield Change of ELR –
-     MD340 ALC2                    5  00 1333  N   N  N   N N  N   N
-             Lichfield City Jn
-     MD340 BJW3 Lichfield City Jn – Lichfield Trent Valley
-                                   16 47 1805  N   N  N   N N  N   N
-             (End of Electrification)
-     MD340 BJW3 Lichfield Trent Valley – Route Boundary
-                                   18 05 1900  N   N  N   N N  N   N
-             (LN3340) (Wichnor Jn)
-     MD345 BJW1 Bescot Jn – Walsall Pleck Jn (Change of
-                                   0  00 0 65  N   N  N   N N  N   N
-             Mileage)
+     Line of
+          ELR Line of Route / Sector
+                                  oo  oo oo oo RA Loco Gauge
+                                                           Notes
+     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                  M   Ch M  Ch
+     MD560CBR2Park Lane Change of ELR – Park
+                                   36 04 36 15  8    Y
+              Lane Jn
+     MD565CBR1Castle Bromwich Jn – Park Lane Jn
+                                    0 55  0 00  8    Y
+     MD565CBR2Park Lane Jn – Ryecroft Jn
+                                   36 04 47 48  8    Y
+     MD570LSS Landor Street Jn – St Andrews Jn
+                                   40 60 41 18  8    Y
+     MD570SKN St Andrews Jn – Bordesley Jn
+                                   41 18 41 44  8    Y
+     MD570SKN Bordesley Jn – Kings Norton Jn
+                                   41 44 46 77  8    R1   R1Prohibited between Bordesley Jn and Lifford East Jn on the Up
+              (Camp Hill Lines)                             Camp Hill line
+     MD575SAG St Andrews Jn – Grand Jn
+                                   0  00  0 52  8    Y
+     MD580LEL Lifford East Jn – Lifford West Jn
+                                   46 11  4636  8    Y
+     MD701MCJ1London Marylebone – Neasden South
+                                  205 77 20065  8    Y
+              Jn (Change of Mileage)
+     MD701NAJ1Neasden South Jn (Change of
+                                    6 30  0 00  7    R1   R1Prohibited between Northolt Park Jn and Northolt Jn on the Down
+              Mileage) – Northolt Jn                        Northolt Loop line
+     MD701NAJ2Northolt Jn – Princes Risborough Jn
+                                    0 00 24 50  7    Y
+     MD701NAJ2Princes Risborough Jn – Site of
+                                   24 50 33 69  7    Y
+              Former Ashendon Jn (Change of
+              Mileage)
+     MD701NAJ3Site of Former Ashendon Jn (Change
+                                    0 00 18 35  7    Y
+              of Mileage) – Aynho Jn
+     MD705ANL Route Boundary (GW110) (Greenford
+                                    8 60 10 15  8    Y
+              West Jn) – Northolt Jn (South Ruislip)
+     MD710MCJ1Neasden South Jn – Network Rail
+                                  200 66 19705  8    Y
+              Boundary (LUL) (Harrow-on-the-Hill
+              South Jn)
+     MD712MCJ2Network Rail Boundary (LUL)
+                                   25 21 38 08  8    Y
+              (Amersham, Mantles Wood) –
+              Aylesbury Jn
+     MD712MCJ2Aylesbury Jn – Aylesbury
+                                   38 08 38 13  8    Y
+     MD715NJN Neasden South Jn – Route Boundary
+                                    6 30  6 51  8    Y
+              (EA1360) (Neasden Jn)
+     MD720NAJ2Princes Risborough – Change of
+                                   24 40 24 48  8    Y
+              Mileage (Princes Risborough Jn)
+     MD720PRA Change of Mileage (Princes
+                                   42 31 49 35  8    Y
+              Risborough Jn) – Aylesbury Jn
+     MD725MCJ2Aylesbury – Aylesbury Vale Parkway
+                                   38 13 40 38  8    Y
+     MD725MCJ2Aylesbury Vale Parkway – Change of
+                                   40 38 44 28  8    Y
+              Mileage (Quainton Road)
 
 
 
 
-     December 2009                                   62
+    December 2009                                    55

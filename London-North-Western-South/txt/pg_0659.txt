@@ -5,59 +5,75 @@
 
 
 
-     MD150 KGW
-             Route Boundary (EA1310) (Kensal Green
-                                   5  25 5 36  N   N  N   N N  N   N
-             Jn) – Willesden Suburban Jn
-     MD155 KGC
-             Route Boundary (EA1310) (Kensal Green
-                                   0  21 1 00  N   N  N   N N  N   N
-             Jn) – Harlesden Jn
-             Route Boundary (EA1310) (Willesden
-     MD160 WMB                     0  09 0 00  N   N  N   N N  N   N
-             High Level Jn) – Mitre Bridge Jn
-     MD166 WLL
-             Route Boundary (SO250) (North Pole Jn)
-                                   5  65 5 67  N   N  N   N N  N   N
-             – Mitre Bridge Jn
-             Mitre Bridge Jn – West London Jn
-     MD166 WLL                     5  67 6 19  N   N  N   N N  N   N
-             (Willesden)
-             West London Jn (Willesden) – Wembley
-     MD166 LLG                     0  12 2 59  N   N  N   N N  N   N
-             Central Jn (Willesden Relief lines)
-             Mitre Bridge Jn – West London Jn
-     MD167 WLL                     5  67 6 19  N   N  N   N N  N   N
-             (Willesden)
-     MD167 WAW West London Jn (Willesden) – Route
-                                   6  19 6 76  N   N  N   N N  N   N
-             Boundary (EA1360) (Acton Wells)
-     MD170 ACW
-             Route Boundary (EA1360) (Acton Canal
-                                   0  11 0 00  N   N  N   N N  N   N
-             Wharf Jn) – Willesden Jn
-             Bridge Street LC – Site of former Bridge
-     MD175 BPH                     4  56 4 29  N   N  N   N N  N   N
-             Street Jn
-             Site of former Bridge Street Jn – Site of
-     MD175 BDN                     0  00 0 18  N   N  N   N N  N   N
-             former Duston North Jn
-             Site of former Duston North Jn –
-     MD175 NMH                     0  29 0 65  N   N  N   N N  N   N
-             Northampton South Jn
-             Rugby Trent Valley Jn – New Bilton
-     MD180 RTS                     0  00 0 79  N   N  N   N N  N   N
-             Route Boundary (LN3232) (Hinckley) –
-     MD232 WNS                     2  62 0 05  N   N  N   N N  N   N
-             Nuneaton South Jn
-             Limit of Electrification (Down direction) –
-     MD232 WNS                     0  39 0 05  N   N  N   N N  N   N
-             Nuneaton South Jn
-             Nuneaton South Jn – Nuneaton South
-     MD232 WNS                     0  05 0 00  N   N  N   N N  N   N
-             Change of ELR
+     Line of
+          ELR Line of Route / Sector
+                                  oo  oo oo oo RA Loco Gauge
+                                                           Notes
+     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                  M   Ch M  Ch
+     MD340BJW3Lichfield City Jn – Lichfield Trent
+                                   16 47 18 05  8    Y
+              Valley (End of Electrification)
+     MD340BJW3Lichfield Trent Valley – Route
+                                   18 05 19 00  8    Y
+              Boundary (LN3340) (Wichnor Jn)
+     MD345BJW1Bescot Jn – Walsall Pleck Jn (Change
+                                    0 00  0 65  8    Y
+              of Mileage)
+     MD345BJW2Walsall Pleck Jn (Change of Mileage)
+                                    5 42  6 34  8    Y
+              – Limit of Electrification
+     MD345BJW2Limit of Electrification – Ryecroft Jn
+                                    6 34  6 76  8    Y
+     MD345BJW2Ryecroft Jn – Change of Mileage
+                                    6 76  6 79  8    Y
+     MD345RRN1Change of Mileage – Cannock
+                                    0 00  7 20  8    Y
+              Change of ELR
+     MD345RRN2Cannock Change of ELR – Route
+                                    7 20 14 00  8    Y
+              Boundary (NW1004) (Rugeley North
+              Jn)
+     MD350BJW3Anglesea Sidings – Lichfield City Jn
+                                   12 15 16 47  8    Y
+     MD355LTV Lichfield South Jn – Lichfield Trent
+                                    0 22  0 02  8    Y
+              Valley Jn (Chord Line)
+     MD360WDJ Walsall, Pleck Jn – Darlaston Jn
+                                    1 16  0 15  8    Y
+     MD365PJW Portobello Jn – Wolverhampton Crane
+                                    0 04  1 59  8    Y
+              Street Jn
+     MD401DCL Route Boundary (GW200) (Heyford) –
+                                   75 00 81 13  8    Y
+              Aynho Jn
+     MD401DCL Aynho Jn – Leamington Spa North Jn
+                                   81 13 10625  8    R1   R1Prohibited Banbury platform 3 (Up Main line)
+     MD401DCL Leamington Spa North Jn – Tyseley
+                                  106 25 12573  8    Y
+              South Jn
+     MD401BCV/D Tyseley South Jn – Small Heath South
+                                  125 73 12659  8    Y
+          CL  Jn
+     MD401BCV Small Heath South Jn – Bordesley Jn
+                                  126 59 12811  8    Y
+     MD405LSC1Leamington Spa North Jn – Milverton
+                                  106 25 10706  8    Y
+              Change of ELR
+     MD405LSC2Milverton Change of ELR – Coventry
+                                    0 00  8 45  8    Y
+              South Jn
+     MD410CNN Coventry North Jn – Nuneaton South
+                                    0 00  9 53  8    Y
+              Jn
+     MD415HSA Hatton Station Jn – Bearley Jn
+                                   18 12 12 48  8    Y
+     MD415HSA Bearley Jn – Stratford Upon Avon
+                                   12 48  8 63  8    Y
+              (End of Headshunt)
+     MD420HHW Hatton North Jn – Hatton West Jn
+                                   18 25 17 62  8    Y
 
 
 
-
-     December 2009                                   60
+    December 2009                                    53

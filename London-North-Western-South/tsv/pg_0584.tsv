@@ -1,18 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	373	377	378	379	380	387	390	458	499	508	700	Notes
-London-North-Western-South	0584	MD136	WCL	Railnet Jn – Willesden Carriage Shed South	1	11	2	00	N	N	Y	E	N	N	Y	N	N	N	N	
-London-North-Western-South	0584	MD136	WCL	Willesden Carriage Shed South – Connection with Yard line	2	00	2	60	N	N	Y	E	N	N	Y	N	N	N	N	
-London-North-Western-South	0584	MD136	WEF1	Connection with Yard line – Wembley Central Jn	2	60	2	76	N	N	Y	E	N	N	Y	N	N	N	N	
-London-North-Western-South	0584	MD137	WCL	Harlesden Jn – Railnet Jn	1	00	1	11	N	N	Y	E	N	N	Y	N	N	N	E	
-London-North-Western-South	0584	MD137	UHL	Railnet Jn – Wembley Yard South Jn	1	11	1	62	N	N	Y	E	N	N	Y	N	N	N	E	
-London-North-Western-South	0584	MD137	WEF1	Wembley Yard South Jn – Wembley Central Jn	1	62	2	76	N	N	Y	E	N	N	Y	N	N	N	N	
-London-North-Western-South	0584	MD140	LEC1	Bletchley South Jn – Bletchley North Jn (Change of Mileage)	46	41	46	59	N	E	R1 R2	N	N	N	N	N	N	N	N	R1 For access to Bletchley platform 5 only R2 Prohibited with footsteps fitted
-London-North-Western-South	0584	MD140	BBM	Bletchley North Jn (Change of Mileage) – Limit of electrification (Bletchley TMD)	0	11	0	21	N	E	R1	N	N	E	N	N	N	N	N	R1 Prohibited with footsteps fitted
-London-North-Western-South	0584	MD140	BBM	Limit of electrification (Bletchley TMD) – Route Boundary (LN3140) (Bedford)	0	21	16	07	N	N	N	N	N	N	N	N	N	N	E R1	R1 Prohibited Limit of Electrification (Bletchley TMD) - Bedford St Johns West Jn
-London-North-Western-South	0584	MD145	CRC2	Route Boundary (EA1320) (Camden Road West Jn) – Camden Jn (North DC lines)	5	42	5	78	Y	E	Y	E	EH	E	N	N	N	N	E	
-London-North-Western-South	0584	MD150	KGW	Route Boundary (EA1310) (Kensal Green Jn) – Willesden Suburban Jn	5	25	5	36	N	N	Y	N	N	N	N	N	N	EH	N	
-London-North-Western-South	0584	MD155	KGC	Route Boundary (EA1310) (Kensal Green Jn) – Harlesden Jn	0	21	1	00	N	N	Y	E	N	N	Y	N	N	EH	N	
-London-North-Western-South	0584	MD160	WMB	Route Boundary (EA1310) (Willesden High Level Jn) – Mitre Bridge Jn	0	09	0	00	N	E	Y	N	N	E	N	N	N	N	E	
-London-North-Western-South	0584	MD166	WLL	Route Boundary (SO250) (North Pole Jn) – Mitre Bridge Jn	5	65	5	67	Y	Y	Y	N	EH	Y	N	EH	N	EH	E	
-London-North-Western-South	0584	MD166	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	N	EH	Y	N	EH	N	EH	E	
-London-North-Western-South	0584	MD166	LLG	West London Jn (Willesden) – Wembley Central Jn (Willesden Relief lines)	0	12	2	59	N	Y	Y	N	N	Y	Y	N	N	N	N	
-London-North-Western-South	0584	MD167	WLL	Mitre Bridge Jn – West London Jn (Willesden)	5	67	6	19	Y	Y	Y	N	EH	Y	N	EH	N	EH	E	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
+London-North-Western-South	0584	MD405	LSC2	Milverton Change of ELR – Coventry South Jn	0	00	8	45	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD410	CNN	Coventry North Jn – Nuneaton South Jn	0	00	9	53	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD415	HSA	Hatton Station Jn – Bearley Jn	18	12	12	48	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD415	HSA	Bearley Jn – Stratford Upon Avon (End of Headshunt)	12	48	8	63	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD420	HHW	Hatton North Jn – Hatton West Jn	18	25	17	62	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD425	TSB	Tyseley South Jn – Bearley Jn	0	00	17	71	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD430	OWW	Droitwich Spa – Cutnall Green (former Route Boundary)	126	21	130	40	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD430	OWW	Cutnall Green (former Route Boundary) – Kidderminster	130	40	135	46	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD435	DCL	Small Heath South Jn – Site of Former Handsworth Jn	126	59	132	47	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD435	HSJ	Site of Former Handsworth Jn – Smethwick Jn	132	47	133	32	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD435	GSJ2	Smethwick Jn – Stourbridge North Jn	133	32	141	06	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD440	GSJ1	Galton Jn – Smethwick Jn	3	64	4	08	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD445	SJS	Stourbridge Jn – Stourbridge Town	142	16	142	78	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0584	MD450	OWW	Stourbridge North Jn – Round Oak	142	15	146	13	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD455	KWD	Kingswinford Jn – Network Rail Boundary	144	33	145	60	N	N	N	N	N	N	N	N	N	N	Line out of use NME/2005/LNW284
+London-North-Western-South	0584	MD460	SJT1	Kineton MOD Branch – Burton Dassett (MOD Kineton)	22	60	25	60	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0584	MD501	DBP1	Route Boundary (LN3501) (London Road Jn) – Kingsbury Jn	23	30	29	39	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD501	DBP2	Kingsbury Jn – Water Orton East Jn	29	39	33	22	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD501	DBP3	Water Orton East Jn (Change of Mileage) – Landor Street Jn	34	43	40	60	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD501	DBP3	Landor Street Jn – Proof House Jn	40	60	41	51	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD545	KJW	Kingsbury Jn – Whitacre Jn (Change of Mileage)	29	39	31	69	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD555	NWO	Nuneaton North Junction – Lmit of Electrification	10	18	10	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD555	NWO	Limit of Electrification – Whitacre West Junction	10	00	0	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0584	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	N	N	N	N	N	N	N	H	N	N	
