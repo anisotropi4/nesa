@@ -12,67 +12,64 @@
                                                                              Notes
      route                            M  Ch M  Ch 000 000 000 000 000
                                                                    000 000 000 ooooooooooooooooooooooooooo
-              Change of ELR (Site of Former Sefton Jn) –
-     NW8007 AFL                        0 00  0  40 7 Y  Y  Y  Y  Y  Y  Y  Y
-              Aintree Station Jn
-              Walton Jn – Kirkby
-     NW8009 WJK                       33 16 29  41 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Mann Island Jn – Mann Island Jn via Loop
-     NW8011 MIR1                       0 00  2  12 8 N  N  R1 N  R2 Y  Y  N R1 Permitted for track maintenance and engineering
-                                                                              train movements
-                                                                            R2 Prohibited from Liverpool Loop deep level Tunnel
-                                                                              between James Street and James Street
-              Mann Island Jn – Hamilton Square Jn
-     NW8011 MIR2                       0 69  1  72 8 N  N  R1 N  R2R3  Y  N R1 Permitted for track maintenance and engineering
-                                                                              train movements
-                                                                            R2 Prohibited Down West Kirby between Canning St
-                                                                              Jn and Birkenhead North
-                                                                            R3 Prohibited Down West Kirby Line between
-                                                                              Canning Street Jn and Conway Park
-     NW8011 CWK1 Hamilton Square Jn – Change of ELR
-                                       1 72  3  00 8 N  N  R1 N  R2 Y  Y  N R1 Permitted for track maintenance and engineering
-              (Birkenhead Park)                                                train movements
-                                                                            R2 Prohibited on the Down West Kirby
-     NW8011 CWK2 Change of ELR (Birkenhead Park) – Bidston
-                                       3 00  4  40 8 Y  Y  Y  Y  Y  Y  Y  Y
-              East Jn
-     NW8011 CWK3 Bidston East Jn – Bidston Dee Jn
-                                       4 40  4  78 8 Y  Y  Y  Y  Y  Y  Y Y
-     NW8011 CWK3 Bidston Dee Jn – West Kirby
-                                       4 78 10  46 8 Y  Y  Y  Y  Y  Y  Y Y
-              Canning Street Jn – Rock Ferry
-     NW8013 MIR2                       1 60  3  42 8 R1 R1 Y  R1 Y  Y  Y R1 R1Prohibited between Canning St Jn and 2m 24ch
-                                                                              (east of Birkenhead Central)
-              Rock Ferry – Hooton South Jn
-     NW8013 CRR2                      13 43  7  68 8 Y  Y  Y  Y  Y  Y Y  Y
-              Bidston East Jn – New Brighton (New
-     NW8015 BEN                        4 40  7  18 6 N  N  R1 N  N  N R1 R1 R1OPPOS applies over Bridge 19 (06m 50ch to
-              Brighton lines)                                                 6m 52ch)
-     NW8017 CCS1/ Network Rail Boundary (Canning Street
-                                      15 40 13  30 8 Y  Y  Y  Y  R1 Y  Y  Y R1Prohibited Down & Up Canning St line
-          2   North) – Rock Ferry South Jn
-              Route Boundary (LN808) (Dore West Jn) –
-     NW9001 MAS                      154 20 174 01 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Chinley North Jn
-              Chinley North Jn – New Mills South Jn
-     NW9001 TTA1                     168 39 172 27 8 Y  Y  Y  Y  Y  Y  Y  Y
-     NW9001 NMC1 New Mills South Jn – Hazel Grove High
-                                     172 27 177 40 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Level Jn
-              Hazel Grove High Level Jn – Hazel Grove
-     NW9001 HGC                        2 62  2  35 8 Y  Y  Y  Y  Y  Y  Y  Y
-              East Jn
-     NW9001 BEJ
-              Hazel Grove East Jn (Limit of Electrification)
-                                       2 35  0  00 8 Y  Y  Y  Y  Y  Y  Y  Y
-              – Edgeley Jn No.1
-              Chinley East Jn – Chinley South Jn (Chord
-     NW9003 CYC                      168 32 167 56 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Line)
-              Chinley North Jn – Chinley South Jn
-     NW9005 CNB1                     168 39 167 56 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Chinley South Jn – Change of Mileage (Site
-     NW9005 CNB1                     167 56 161 05 8 Y  Y  Y  Y  Y  Y  Y  Y
-              of Former Peak Forest Jn)
+              Preston South Jn – Preston Docks Branch
+     NW1027 PSR1                      21 39 21  47 8 Y  Y  Y  Y  Y  Y  Y  Y
+              (Change of ELR)
+              Preston Docks Branch (Change of ELR) –
+     NW1027 PSR2                       0 00  0  40 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Network Rail Boundary (Ribble Steam
+              Railway)
+              NW1001 (Weaver Jn) – Ditton East Jn
+     NW2001 WJL1                     174 53 182 67 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Ditton East Jn – Speke East Jn
+     NW2001 WJL2                     182 67 186 72 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Speke Est Jn – Edge Hill East Jn
+     NW2001 WJL3                     186 72 191 75 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Edge Hill East Jn – Liverpool Lime Street
+     NW2001 WJL4                     191 75 193 52 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Runcorn – Network Rail Boundary (Runcorn
+     NW2003 RDB                        0 02  0  69 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Dock Branch)
+              Speke East Jn – Garston Jn
+     NW2005 SCR                       22 59 23  52 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Allerton East Jn – Garston Jn
+     NW2007 AEG                        0 00  0  28 8 Y  Y  Y  Y  Y  Y  Y  Y
+              End of Line (Latchford) – Ditton East Jn
+     NW2009 SDJ2                      10 06 18  55 8 Y  Y  Y  Y  Y  Y  Y  Y
+     NW2011 WOA1 Walton Old Jn – Arpley Jn
+                                       0 68  0  00 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Ordsall Lane Jn – Newton-le-Willows Jn
+     NW2015 DSE                       30 38 16  19 8 Y  Y  Y  Y  Y  Y  Y  Y
+     NW2015 DSE
+              Newton-le-Willows Jn - Earlestown East Jn
+                                      16 19 14  75 8 Y  Y  Y  Y  Y  Y  Y  Y
+              (Electrified section)
+     NW2015 DSE
+              Earlestown East Jn - Edge Hill
+                                      14 75  1  57 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Eccles Station Jn – Network Rail (Weaste
+     NW2017 SCN                        0 00  0  54 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Branch) / MSC Boundary
+              Parkside Jn – Lowton Jn (East Curve lines)
+     NW2019 PJL                        0 05  0  36 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Earlestown South Jn – Earlestown West Jn
+     NW2021 EEE                      186 74 187 15 8 Y  Y  Y  Y  Y  Y  Y  Y
+              (Liverpool Curve)
+              Springs Branch Jn – Gerards Bridge Jn
+     NW2023 SBH3                      12 54  5  66 7 Y  Y  Y  N  Y  Y  Y  Y
+              Gerards Bridge Jn – St Helens Station Jn
+     NW2023 SBH2                       5 66  5  12 7 Y  Y  Y  N  Y  Y  Y  Y
+              St Helens Station Jn – Huyton Jn
+     NW2023 SBH1                       5 12  0 -18 7 Y  Y  Y  N  Y  Y  Y  Y
+              St. Helens Station Jn – Network Rail
+     NW2025 SHS1                       7 15  6  04 8 Y  N  Y  Y  Y  Y  Y  Y
+              Boundary
+     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Network Rail
+                                       0 15  5  53 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Boundary (MDHC)
+     NW2029 OME3 Olive Mount Jn – Edge Lane Jn
+                                       0 10  0  52 8 Y  Y  Y  Y  Y  Y  Y  Y
 
-    October 2009                                    66K
+
+
+    October 2009                                    66B

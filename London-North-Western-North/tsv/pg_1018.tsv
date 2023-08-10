@@ -1,19 +1,13 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Western-North	1018	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	8	Y	
-London-North-Western-North	1018	NW2015	DSE	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	8	Y	
-London-North-Western-North	1018	NW2015	DSE	Earlestown East Jn – Edge Hill	14	75	1	57	8	Y	
-London-North-Western-North	1018	NW2017	SCN	Eccles Station Jn – Network Rail (Weaste Branch) / MSC Boundary	0	00	0	54	8	Y	
-London-North-Western-North	1018	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	8	Y	
-London-North-Western-North	1018	NW2021	EEE	Earlestown South. Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	8	Y	
-London-North-Western-North	1018	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	7	Y	
-London-North-Western-North	1018	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	7	Y	
-London-North-Western-North	1018	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	-18	7	Y	
-London-North-Western-North	1018	NW2025	SHS1	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	8	Y	
-London-North-Western-North	1018	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn – Network Rail Boundary (MDHC)	0	15	5	53	8	Y	
-London-North-Western-North	1018	NW2029	OME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	Y	
-London-North-Western-North	1018	NW3001	CNH1	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	
-London-North-Western-North	1018	NW3001	CNH1	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	Y	
-London-North-Western-North	1018	NW3001	CNH2	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	Y	
-London-North-Western-North	1018	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	R1	R1 Prohibited Shotton Low Level Up platform (Up Main line)
-London-North-Western-North	1018	NW3001	CNH3	Route Boundary LNW / Wales – Holyhead	188	40	263	56	8	R1 R2 R3 R4	R1 Prohibited Llandudno Junction Up Bay Platform 2 R2 Prohibited between Conwy and Menai Bridge South Jn on the Up Main line R3 Prohibited between Bodorgan and Ty Croes on the Down line R4 Prohibited between Rhosneigr and Valley on the Down line
-London-North-Western-North	1018	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	8	Y	
+Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
+London-North-Western-North	1018	NW5012	Foley Crossing (excl.) - Stoke Jn.	8	W6A Ex (W7)	Y	
+London-North-Western-North	1018	NW5013	Denton Jn. - Ashton Moss North Jn.	8	W6A Ex. (W7)	Y	
+London-North-Western-North	1018	NW5015	Hadfield - Ardwick Jn.	8	R1	R2	R1 R2 SB1C (W9) Hyde Jn. - Ardwick Jn. HAJ Br.51: RA9/10 vehicles are restricted to 20mph over the bridge (10m 00ch - 10m 20ch); HAJ Br.54: RA9/10 vehicles are restricted to 20mph over the bridge (11m 40ch - 12m 00ch).
+London-North-Western-North	1018	NW5017	Dinting South Jn. - Dinting East Jn.	8	/	N	
+London-North-Western-North	1018	NW5019	Glossop - Dinting West Jn.	8	/	N	
+London-North-Western-North	1018	NW5021	Guide Bridge West Jn – Stalybridge	8	SB1C (W9)	Y	
+London-North-Western-North	1018	NW6001	Manchester Piccadilly East Jn. - Euxton Jn.	8	R1 R2	R3	R1 R2 R3 SB1C (W9) Manchester Piccadilly East Jn. - Ordsall Lane Jn. W12 Castlefield Jn – Ordsall Lane Jn RA9/10 vehicles are restricted to 20mph Manchester Piccadilly East Jn. – Castlefield Jn.
+London-North-Western-North	1018	NW6003	Castlefield Jn. - Allerton Jn.	7 R1	SB1C (W9)	R2	R1 R2 This route is RA8 between Castlefield Jn. and Trafford Park West Jn. RA8/9/10 vehicles permitted throughout, Castlefield Jn. to Allerton West Jn., subject to observance of the following restriction: MAJ Br.130 (18m 22ch to 18m 24ch) 10mph over the bridge. Note that RA8 vehicles are not heavy axle weight between Castlefield Jn. and Trafford Park West Jn.
+London-North-Western-North	1018	NW6004	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	10	W6A Ex. (W12)	–	
+London-North-Western-North	1018	NW6004	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	10	W6A Ex. (W12)	–	
+London-North-Western-North	1018	NW6005	Manchester Victoria East Jn. - Windsor Bridge South Jn.	8	R	Y	R SB1C (W9). Manchester Victoria East Jn. - Deal St.
+London-North-Western-North	1018	NW6007	Deal Street Jn. - Ordsall Lane Jn.	8	SB1C (W9)	Y	

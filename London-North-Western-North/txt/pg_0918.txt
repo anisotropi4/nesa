@@ -2,68 +2,71 @@
 
 
                                        LNW North Route Sectional Appendix Module NWRC
-              Crewe North Jn – Sandbach North Jn
-     NW5001 CMP1                  158 17162 62  N    N    Y   Y   N    N
-              Sandbach North Jn – Wilmslow South
-     NW5001 CMP1                  162 62176 53  N    N    Y   Y   N    N
-              Jn
-              Wilmslow South Jn – Cheadle Hulme
-     NW5001 CMP1                  176 53180 67  N    N    Y   Y   N    N
-              North Jn
-              Cheadle Hulme North Jn – Edgeley Jn 180
-     NW5001 CMP1                      67182 36  N    N    Y   Y   N    N
-              No.1
-              Edgeley Jn No.1 – Edgeley Jn
-     NW5001 CMP2                  182 36182 59  N    N    Y   Y   N    N
-              Edgeley Jn – Slade Lane Jn
-     NW5001 CMP2                  182 59186 46  N    N   R1   Y   N    N  R2 Prohibited Stockport Bay platform
-              Slade Lane Jn – Ardwick Jn
-     NW5001 CMP2                  186 46188 08  N    N    Y   Y   N    N
-              Ardwick Jn – Manchester Piccadilly
-     NW5001 CMP2                  188 08188 48  N    N   R1   Y   N    N  R2Prohibited Up East Line
-              East Jn
-              Manchester Piccadilly East Jn –
-     NW5001 CMP2                  188 48188 70  N    N   R1   Y   N    N  R1Prohibited Manchester Piccadilly platforms 11 &
-              Manchester Piccadilly                                         12
-              Wilmslow South Jn – Heald Green
-     NW5003 STY                    0  00  2 50  N    N    Y   Y   N    N
-              South Jn
-              Heald Green South Jn – Heald Green
-     NW5003 STY                    2  50  3 13  N    N    Y   Y   N    N
-              North Jn
-              Heald Green North Jn – Slade Lane
-     NW5003 STY                    3  13  9 44  N    N    Y   Y   N    N
-              Jn
-              Heald Green South Jn – Heald Green
-     NW5005 SMA                    1  48  1 10  N    N    N   Y   N    N
-              West Jn
-              Manchester Airport – Heald Green
-     NW5007 MIA                    0  00  1 51  N    N    N   Y   N    N
-              North Jn
-              Little Bridgeford Jn – Searchlight Lane 137
-     NW5008 LEC6                      42138 55  N    N    Y   N   N    N
-              Jn (Change of ELR and mileage) (Up
-              line only)
-     NW5008 NBS
-              Searchlight Lane Jn (Change of ELR
-                                   4  06  0 00  N    N    Y   N   N    N
-              and mileage) – Stone Jn
-              Norton Bridge Jn – Yamfield Jn
-     NW5008 NBS1                   4  14  2 50  N    N    Y   N   N    N
-              (Norton Bridge East Chord)
-     NW5009 CMD2 Colwich Jn – Stone Jn
-                                   38 61 27 00  N    N    T   N   N    N
-     NW5009 CMD2 Stone Jn – Stoke Jn
-                                   27 00 20 36  N    N    T   N   N    N
-     NW5009 CMD2 Stoke Jn – Glebe Street Jn
-                                   20 36 20 10  N    N    T   N   N    N
-     NW5009 CMD2 Glebe Street Jn – Change of ELR
-                                   20 10 15 65  N    N   R1   N   N    N  R1Prohibited Stoke-on-Trent Bay platform
-     NW5009 CMD1 Change of ELR – Kidsgrove Jn
-                                   16 00 13 68  N    N    T   N   N    N
-     NW5009 CMD1 Kidsgrove Jn – Macclesfield Hibel
-                                   13 68  0 00  N    N    T   N   N    N
-              Road (Change of ELR)
 
+     Line of
+          ELR Line of Route / Sector Description
+                                    oooo oooo oooo oooo
+                                                  317  319 321 322  323 325  350  Notes
+     route                           M  Ch M  Ch  0000     00000000 00000000 0000oooooooooooooo
+                                                                                 ooooooooooooo
+              Miles Platting – Change of ELR
+     NW7021 MVM                       1  22 1  30 EH   N    N   N    N   H    N
+              Miles Platting – Change of ELR
+     NW7021 MVM                       1  22 1  30  Y   Y    Y   Y    Y   Y    Y Y
+              Change of ELR – Philips Park West Jn
+     NW7021 MVL1                      1  30 1  57  Y   Y    Y   Y    Y   Y    Y Y
+              Philips Park West Jn – Baguley Fold Jn
+     NW7021 MVL1                      1  57 2  39  Y   Y    Y   Y    Y   Y    Y Y
+              Baguley Fold Jn – Ashton Moss North Jn
+     NW7021 MVL1                      2  39 5  41  Y   Y    Y   Y    Y   Y    Y Y
+              Ashton Moss North Jn – Stalybridge West
+     NW7021 MVL1                      5  41 7  50  Y   Y    Y   Y    Y   Y    Y Y
+              Jn
+              Stalybridge West Jn – Stalybridge Change
+     NW7021 MVL2                      7  50 7  70  Y   Y    Y   Y    Y   Y    Y Y
+              of ELR
+              Philips Park West Jn – Brewery Jn
+     NW7023 BPP                       0  00 0  18  N   N    N   N    N   H    N
+              Philips Park West Jn – Philips Park South
+     NW7025 PPA1                      1  59 2  07  N   N    N   N    N   H    N
+              Jn
+              Philips Park South Jn – Change of Mileage
+     NW7025 PPA1                      2  07 3  12  N   N    N   N    N   H    N
+              Change of Mileage – Ashburys West Jn
+     NW7025 PPA2                      0  57 0  00  N   N    N   N    N   H    N
+              Baguley Fold Jn – Change of Mileage
+     NW7027 PPP1                      2  39 2  13  N   N    N   N    N   H    N
+              Change of Mileage – Philips Park South Jn
+     NW7027 PPP2                      0  00 0  19  N   N    N   N    N   H    N
+              Hunts Cross West Jn – Liverpool Central
+     NW8001 HXS1                      6  11 0  02  N   N    N   N    N   N    N
+              Liverpool Central – Paradise Jn
+     NW8001 HXS2                     37  13 36 71  N   N    N   N    N   N    N
+              Paradise Jn – Sandhills Jn
+     NW8001 HXS2                     36  71 34 75  N   N    N   N    N   N    N
+              Sandhills Jn – Bootle Jn
+     NW8001 HXS3                      1  41 2  39  N   N    N   N    N   N    N
+              Bootle Jn – Southport
+     NW8001 HXS3                      2  39 18 35  N   N    N   N    N   N    N
+              Paradise Jn – James Street (Stock
+     NW8003 SIL                       0  32 0  53  N   N    N   N    N   N    N
+              Interchange/Holding line)
+              Sandhills Jn – Walton Jn
+     NW8005 SJO1                     34  75 33 16  N   N    N   N    N   N    N
+              Walton Jn – Ormskirk
+     NW8005 SJO2                      3  20 12 13  N   N    N   N    N   N    N
+              Bootle Jn – Change of ELR (Site of Former
+     NW8007 HXS/                      2  34 3  52  N   N    N   N    N   N    N
+          NMM North Mersey Jn)
+     NW8007 NMB
+              Change of ELR (Site of Former North
+                                     34  40 32 42  N   N    N   N    N   N    N
+              Mersey Jn) – Change of ELR (Site of
+              Former Sefton Jn)
+              Change of ELR (Site of Former Sefton Jn) –
+     NW8007 AFL                       0  00 0  40  N   N    N   N    N   N    N
+              Aintree Station Jn
+              Walton Jn – Kirkby
+     NW8009 WJK                      33  16 29 41  N   N    N   N    N   N    N
 
-    October 2009                                    28I
+    October 2009                                     27

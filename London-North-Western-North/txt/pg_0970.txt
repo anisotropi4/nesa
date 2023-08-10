@@ -13,64 +13,59 @@
      route    Description         M  Ch M  Ch 0000 37/9 0000 0000 0000 0000 0000 000 000
                                                                          ooooooooooooooooooooooooooo
                                                  0000
-              Change of Mileage – Ashburys West
-     NW7025 PPA2                   0  57  0 00 7  R1 R1 R1 R1 R1 R1 R1 R1 R1
-                                                                           OPPOS applies over Bridges 1, 4 and
-              Jn                                                           8 (0m 00ch – 0m 60ch)
-              Baguley Fold Jn – Change of Mileage
-     NW7027 PPP1                   2  39  2 13 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Change of Mileage – Philips Park
-     NW7027 PPP2                   0  00  0 19 8  Y  Y  Y  Y  Y  Y  Y  Y
-              South Jn
-              Hunts Cross West Jn – Liverpool
-     NW8001 HXS1                   6  11  0 02 8  R1 N  R1 R1 R1 R1 R1 R1 R1
-                                                                           Prohibited between Start/End of
-              Central                                                      underground section and Liverpool
-                                                                           Central
-              Liverpool Central – Paradise Jn
-     NW8001 HXS2                   37 13 36 71 8  N  N  N  N  N  N  N  N
-              Paradise Jn – Sandhills Jn
-     NW8001 HXS2                   36 71 34 75 8  R1 N  R1 R1 R1 R1 R1 R1 R1
-                                                                           Prohibited between Paradise Jn and
-                                                                           Leeds Street Portal
-              Sandhills Jn – Bootle Jn
-     NW8001 HXS3                   1  41  2 39 8  Y  N  Y  Y  Y  Y  Y  Y
-              Bootle Jn – Southport
-     NW8001 HXS3                   2  39 18 35 8  R1 N  R1 R1 R1 R1 R1 R1 R1
-                                                                           OPPOS applies over Bridge 11 (2m
-                                                                           71ch to 2m 73ch)
-              Paradise Jn – James Street (Stock
-     NW8003 SIL                    0  32  0 53 8  N  N  N  N  N  N  N  N
-              Interchange/Holding line)
-              Sandhills Jn – Walton Jn
-     NW8005 SJO1                   34 75 33 16 7  Y  N  Y  Y  Y  Y  Y  Y
-              Walton Jn – Ormskirk
-     NW8005 SJO2                   3  20 12 13 8  Y  N  Y  Y  Y  Y  Y  Y
-              Bootle Jn – Change of ELR (Site of
-     NW8007 HXS/                   2  34  3 52 7  Y  N  Y  Y  Y  Y  Y  Y
-          NMM Former North Mersey Jn)
-     NW8007 NMB
-              Change of ELR (Site of Former North
-                                   34 40 32 42 7  Y  N  Y  Y  Y  Y  Y  Y
-              Mersey Jn) – Change of ELR (Site of
-              Former Sefton Jn)
-     NW8007 AFL
-              Change of ELR (Site of Former Sefton
-                                   0  00  0 40 7  Y  N  Y  Y  Y  Y  Y  Y
-              Jn) – Aintree Station Jn
-              Walton Jn – Kirkby
-     NW8009 WJK                    33 16 29 41 8  Y  N  Y  Y  Y  Y  Y  Y
-              Mann Island Jn – Mann Island Jn via
-     NW8011 MIR1                   0  00  2 12 8  N  N  N  N  N  N  N  N
-              Loop
-              Mann Island Jn – Hamilton Square Jn
-     NW8011 MIR2                   0  69  1 72 8  N  N  N  N  N  N  N  N
-     NW8011 CWK1 Hamilton Square Jn – Change of ELR
-                                   1  72  3 00 8  N  N  N  N  N  N  N  N
-              (Birkenhead Park)
-     NW8011 CWK2 Change of ELR (Birkenhead Park) –
-                                   3  00  4 40 8  Y  N  Y  Y  Y  Y  Y  Y
-              Bidston East Jn
-     NW8011 CWK3 Bidston East Jn – Bidston Dee Jn
-                                   4  40  4 78 8  Y  N  Y  Y  Y  Y  Y  Y
-    October 2009                                     64
+              Ordsall Lane Jn – Newton-le-Willows
+     NW2015 DSE                    30 38 16 19 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Newton-le-Willows Jn – Earlestown
+     NW2015 DSE                    16 19 14 75 8  Y  Y  Y  Y  Y  Y  Y  Y
+              East Jn (Electrified section)
+              Earlestown East Jn – Edge Hill
+     NW2015 DSE                    14 75  1 57 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Eccles Station Jn – Network Rail
+     NW2017 SCN                    0  00  0 54 8  Y  N  Y  Y  Y  Y  Y  Y
+              (Weaste Branch) / MSC Boundary
+              Parkside Jn – Lowton Jn (East Curve
+     NW2019 PJL                    0  05  0 36 8  Y  Y  Y  Y  Y  Y  Y  Y
+              lines)
+              Earlestown South Jn – Earlestown
+     NW2021 EEE                   186 74187 15 8  Y  Y  Y  Y  Y  Y  Y  Y
+              West Jn (Liverpool Curve)
+              Springs Branch Jn – Gerards Bridge
+     NW2023 SBH3                   12 54  5 66 7  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Gerards Bridge Jn – St Helens Station
+     NW2023 SBH2                   5  66  5 12 7  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              St Helens Station Jn – Huyton Jn
+     NW2023 SBH1                   5  12  0 18 7  Y  Y  Y  Y  Y  Y  Y  Y
+              St. Helens Station Jn – Network Rail
+     NW2025 SHS1                   7  15  6 04 8  Y  N  Y  Y  Y  Y  Y  Y
+              Boundary
+     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Network
+                                   0  15  5 53 8  Y  N  Y  Y  Y  Y  Y  Y
+              Rail Boundary (MDHC)
+     NW2029 OME3 Olive Mount Jn – Edge Lane Jn
+                                   0  10  0 52 8  Y  N  Y  Y  Y  Y  Y  Y
+              Crewe North Jn – Limit of
+     NW3001 CNH1                  158 18159 55 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Electrification (Crewe Steelworks)
+     NW3001 CNH1
+              Limit of Electrification (Crewe
+                                  159 55178 66 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Steelworks) – Chester East Jn
+              Chester East Jn – Change of ELR
+     NW3001 CNH2                  178 66179 56 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (Windmill Lane Tunnel)
+     NW3001 CNH3
+              Change of ELR (Windmill Lane
+                                  179 56188 40 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Tunnel) – Route Boundary LNW /
+              Wales
+              Route Boundary LNW / Wales –
+     NW3001 CNH3                  188 40263 56 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Holyhead
+     NW3003 CHW1 Chester East Jn – Acton Grange Jn
+                                   0  24 16 19 8  Y  Y  Y  Y  Y  Y  Y  Y
+
+
+    October 2009                                     55

@@ -7,69 +7,78 @@
 
      Line of
           ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo RA
-                                                     86 87  88 90 91  92  Notes
-     route                           M  Ch M  Ch 000 000000    000000 000ooooooooooooooooooooooooooo
-     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Network Rail
-                                      0 15  5  53 8  N   N  Y   N  N  N
-               Boundary (MDHC)
-               Olive Mount Jn – Edge Lane Jn
-     NW2029 OME3                      0 10  0  52 8  N   N  Y   N  N  N
-               Crewe North Jn – Limit of Electrification
-     NW3001 CNH1                     15818 159 55 8  Y   Y  Y   Y  Y  Y
-               (Crewe Steelworks)
-     NW3001 CNH1
-               Limit of Electrification (Crewe Steelworks)
-                                     15955 178 66 8  H   H  Y   H  N  N
-               – Chester East Jn
-               Chester East Jn – Change of ELR
-     NW3001 CNH2                     17866 179 56 8  H   H  Y   H  N  N
-               (Windmill Lane Tunnel)
-               Change of ELR (Windmill Lane Tunnel) –
-     NW3001 CNH3                     17956 188 40 8  N   N  Y   N  N  N
-               Route Boundary LNW / Wales
-     NW3001 CNH3
-               Route Boundary LNW / Wales - Holyhead
-                                     18840 263 56 8  N   N  Y   N  N  N
-               Chester East Jn – Acton Grange Jn
-     NW3003 CHW1                      0 24  16 19 8  N   N  Y   N  N  N
-               Route Boundary (GW731) (Crewe Jn) –
-     NW3005 WSJ2                     19900 202 60 8  N   N  Y   N  N  N
-               Route Boundary Wales / LNW including
-               ‘Up & Down’ loop Wrexham General ELR
-               WDB1
-     NW3005 WSJ2
-               Route Boundary Wales / LNW - Saltney
-                                     20260 212 06 8  N   N  Y   N  N  N
-               Jn
-               Wrexham Central – Wrexham Exchange
-     NW3007 WDB1                      0 16  0  68 5  N   N  N   N  N  N
-               Jn
-               Wrexham Exchange Jn – Change of RA at
-     NW3007 WDB1                      0 68  13 20 8  N   N  Y   N  N  N
-               13m 20ch (South end of Hawarden Bridge)
-     NW3007 WDB1
-               Change of RA at 13m 20ch (South end of
-                                     13 20  13 33 7  N   N  Y   N  N  N
-               Hawarden Bridge) – Change of ELR
-     NW3007 WDB2
-               Change of ELR - Route Boundary Wales /
-                                     14 15  11 00 7  N   N  Y   N  N  N
-            /3 LNW
-     NW3007 WDB3
-              Route Boundary Wales / LNW Bidston
-                                     11 00  0  08 7  N   N  Y   N  N  N
-              Dee Jn
-              Chester North Jn – Chester South Jn
-     NW3009 CVS                       0 36  0  13 8  H  H   Y  H   N  N
-              Chester West Jn – Hooton South Jn
-     NW3011 CRR1                      0 16  7  68 8  H  H   R2 H   H  N R1 Prohibited between Chester North Jn and Hooton
-                                                     R1 R1     R1  R1      South Jn
-                                                                        R2 5mph on the Up through Bridge No.3 at 01m 37ch
-                                                                           between Bache - Capenhurst
-              Hooton South. Jn – Ellesmere Port (Limit
-     NW3013 HHJ                       0 02  3  44 8  N   N  Y   N  N  N
-              of DC electrification)
+                                     oooo oooo oooo oooo RA
+                                                     59 60 66 67 68 70 73 97/3
+                                                                             Notes
+     route                            M  Ch M  Ch 000 000 000 000 000
+                                                                   000 000 000 ooooooooooooooooooooooooooo
+
+              Castleton East Jn – Castleton North Jn
+     NW7005 CEH                        0 00  0  37 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Castleton South Jn – Castleton North Jn
+     NW7005 CPI1                       8 21  8  50 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Castleton North Jn – Network Rail / East
+     NW7005 CPI2                       8 50  9  04 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Lancashire Railway Boundary (Hopwood)
+              Todmorden Viaduct Jn – Stansfield Hall Jn
+     NW7006 SFO                        0  0  0  18 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Farington Curve Jn – Ormskirk
+     NW7007 FCO                       25 64 12  15 8 Y  Y  Y  Y  Y  Y  Y  Y
+     NW7009 FHR1
+              Farington Curve Jn - Lostock Hall Depot
+                                       0 00  0  75 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Lostock Hall Depot – Lostock Hall Jn
+     NW7009 FHR2                       0 75  1  42 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Lostock Hall Jn – Change of ELR (Site of
+     NW7009 FHR3                       1 42  2  10 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Former Bamber Bridge Jn)
+     NW7009 FHR4
+              Change of ELR (Site of Former Bamber
+                                       2 10 10  11 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Bridge Jn) – Blackburn Bolton Jn
+              Blackburn Bolton Jn – Blackburn
+     NW7009 FHR4                      10 11 10  42 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Blackburn – Daisyfield Jn
+     NW7009 FHR5                      10 42 11  09 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Daisyfield Jn – Gannow Jn
+     NW7009 FHR5                      11 09 21  03 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Gannow Jn – Hall Royd Jn
+     NW7009 FHR6                      21 03 30  54 8 Y  Y  Y  Y  Y  Y  Y  Y
+     NW7011 LHL
+              Farington Jn - Limit of Electrification
+                                       0 00  0  56 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Limit of Electrification - Lostock Hall Jn
+     NW7011 LHL                        0 56  0  77 8 Y  Y  Y  Y  Y  Y  Y  Y
+              (Lostock Hall Lines)
+              Daisyfield Jn – Hellifield
+     NW7013 DJH                       11 09 34  68 8 Y  Y  Y  Y  Y  Y  Y  Y
+              End of Line (Padiham Power Station Sidings)
+     NW7015 PRG                        1 76  0  00 7 N  N  N  N  N  N  N  N Line out of use
+              – Rose Grove West Jn
+              Gannow Jn – Colne
+     NW7017 GJC                       21 03 27  37 8 R1 R1 R1 R1 R1R1 R1 R1 R130mph over Bridge 91 (25m 33ch - 25m 34ch)
+              Thorpes Bridge Jn – Network Rail Boundary
+     NW7019 MPR2                       2 22  3  05 8 Y  Y  Y  Y  Y Y  Y  Y
+              (Metrolink (Down Up Boundary at 2m 32ch))
+              Miles Platting – Change of ELR
+     NW7021 MVM                        1 22  1  30 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Miles Platting Jn – Philips Park West Jn
+     NW7021 MVL1                       1 30  1  59 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Philips Park West Jn – Baguley Fold Jn
+     NW7021 MVL1                       1 59  2  39 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Baguley Fold Jn – Ashton Moss North Jn
+     NW7021 MVL1                       2 39  5  41 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Ashton Moss North Jn – Stalybridge Jn
+     NW7021 MVL1                       5 41  7  46 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Stalybridge Jn – Stalybridge Tunnel Jn
+     NW7021 MVL2                       7 46  8  08 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Stalybridge Tunnel Jn – Route Boundary
+     NW7021 MVL3                       8 08 15  11 8 Y  Y  Y  Y  Y  Y  Y  Y
+              (LN860) (Springwood Jn)
+              Philips Park West Jn – Brewery Jn
+     NW7023 BPP                        0 00  0  18 8 Y  Y  Y  Y  Y  Y  Y  Y
+              Philips Park West Jn – Philips Park South Jn
+     NW7025 PPA1                       1 59  2  07 8 Y  Y  Y  Y  Y  Y  Y  Y
 
 
-    October 2009                                    68B
+    October 2009                                    66I

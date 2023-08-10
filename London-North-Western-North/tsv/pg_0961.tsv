@@ -1,19 +1,29 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
-London-North-Western-North	0961	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2015	DSE	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2015	DSE	Earlestown East Jn – Edge Hill	14	75	1	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2017	SCN	Eccles Station Jn – Network Rail (Weaste Branch) / MSC Boundary	0	00	0	54	8	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2021	EEE	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	18	7	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2025	SHS1	St. Helens Station Jn – Network Rail Boundary	7	15	6	04	8	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn – Network Rail Boundary (MDHC)	0	15	5	53	8	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW2029	OME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW3001	CNH1	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW3001	CNH1	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW3001	CNH2	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW3001	CNH3	Route Boundary LNW / Wales – Holyhead	188	40	263	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0961	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+London-North-Western-North	0961	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	10	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	10	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss Lines)	0	00	0	32	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6005	MVE1	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6007	DSE	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6009	WBS1	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6009	WBS2	Crow Nest Jn – Wigan Station Jn	14	64	17	44	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6009	WBS2	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6009	WBS3	Wigan Wallgate Jn – Southport	18	04	35	27	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6011	BBB	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6013	LCN	Lostock Jn – Crow Nest Jn	13	39	17	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6015	WKL1	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW6015	WKL2	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MPR1	Miles Platting Jn – Brewery Jn	1	30	1	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MPR1	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MVN2	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MVN2	Castleton South Jn – Castleton East Jn	8	21	8	52	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MVN2	Castleton East Jn – Hall Royd Jn	8	52	19	61	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7001	MVN2	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7005	CEH	Castleton East Jn – Castleton North Jn	0	00	0	37	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7005	CPI1	Castleton South Jn – Castleton North Jn	8	21	8	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7005	CPI2	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7006	SFO	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7007	FCO	Farington Curve Jn – Ormskirk	25	64	12	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7009	FHR1	Farington Curve Jn - Lostock Hall Depot	0	00	0	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0961	NW7009	FHR2	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	Y	Y	Y	Y	Y	Y	Y	Y	

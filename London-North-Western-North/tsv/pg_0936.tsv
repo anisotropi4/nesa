@@ -1,23 +1,11 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-North	0936	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss lines)	0	00	0	32	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0936	NW6005	MVE1	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0936	NW6007	DSE	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0936	NW6009	WBS1	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0936	NW6009	WBS2	Crow Nest Jn – Wigan Station Jn	14	64	17	44	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0936	NW6009	WBS2	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	0936	NW6009	WBS3	Wigan Wallgate Jn – Southport	18	04	35	27	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0936	NW6011	BBB	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	Y	Y	Y	N	N	N	Y	Y	N	
-London-North-Western-North	0936	NW6013	LCN	Lostock Jn – Crow Nest Jn	13	39	17	18	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0936	NW6015	WKL1	Wigan Wallgate Jn – Change of Mileage (Pemberton)	18	04	19	48	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0936	NW6015	WKL2	Change of Mileage (Pemberton) – Kirkby	19	09	29	40	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0936	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	30	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7001	MPR1	Miles Platting Jn – Brewery Jn	1	30	1	52	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7001	MPR1	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7001	MVN2	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7001	MVN2	Castleton South Jn – Castleton East Jn	8	21	8	52	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7001	MVN2	Castleton East Jn – Hall Royd Jn	8	52	19	61	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7001	MVN2	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0936	NW7005	CEH	Castleton East Jn – Castleton North Jn	0	00	0	37	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	0936	NW7005	CPI1	Castleton South Jn – Castleton North Jn	8	21	8	50	Y	Y	Y	N	N	N	N	N	N	
+London-North-Western-North	0936	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	Y	Y	Y	N	Y	Y	N	Y	Y	
+London-North-Western-North	0936	NW1001	LEC2	Rugeley North Jn – Colwich Jn	124	39	127	05	Y	Y	Y	N	Y	Y	N	Y	Y	
+London-North-Western-North	0936	NW1001	LEC2	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	Y	Y	Y	N	Y	Y	N	Y	Y	
+London-North-Western-North	0936	NW1001	LEC3	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	Y	Y	Y	Y	Y	Y	N	Y	R1 R2	R4 Prohibited Stafford Up Bay platform R5 Prohibited Stafford Royal Mail Terminal platform 7
+London-North-Western-North	0936	NW1001	LEC4	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	Y	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0936	NW1001	LEC4	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	Y	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0936	NW1001	LEC6	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	Y	Y	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0936	NW1001	LEC4	Heamies Bridge – Basford Hall Jn	140	00	156	16	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW1001	LEC4	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0936	NW1001	LEC5	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	Y	Y	Y	Y	Y	Y	Y	Y	Y	

@@ -13,70 +13,61 @@
      route    Description         M  Ch M  Ch 0000 37/9 0000 0000 0000 0000 0000 000 000
                                                                          ooooooooooooooooooooooooooo
                                                  0000
-     NW6009
-          WBS2Wigan Station Jn – Wigan Wallgate Jn
-                                   17 44 18 04 8  Y  N  Y  Y  Y  Y  Y  Y
-     NW6009
-          WBS3Wigan Wallgate Jn – Southport
-                                   18 04 35 27 8  Y  N  Y  Y  Y  Y  Y  Y
-     NW6011
-          BBB Bolton East Jn – Blackburn Bolton Jn
-                                   10 31 24 08 8  Y  Y  Y  Y  Y  Y  Y  Y
-     NW6013
-          LCN Lostock Jn – Crow Nest Jn
-                                   13 39 17 18 8  Y  Y  Y  Y  Y  Y  Y  Y
-     NW6015
-          WKL1Wigan Wallgate Jn – Change of
-                                   18 04 19 48 7  Y  N  Y  Y  Y  Y  Y  Y
-              Mileage (Pemberton)
-              Change of Mileage (Pemberton) –
-     NW6015 WKL2                   19 09 29 40 7  Y  N  Y  Y  Y  Y  Y  Y
-              Kirkby
-     NW7001 MVM
-              Manchester Victoria East Jn (Man Vic
-                                   0  09  1 30 8  Y  Y  Y  Y  Y  Y  Y  Y
-              West Jn – East Jn on NW6005) –
-              Miles Platting Jn
-              Miles Platting Jn – Brewery Jn
-     NW7001 MPR1                   1  30  1 52 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Brewery Jn –Thorpes Bridge Jn
-     NW7001 MPR1                   1  52  2 17 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Thorpes Bridge Jn – Castleton South
-     NW7001 MVN2                   2  17  8 21 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Acton Grange Jn – Warrington South
+     NW1001 CGJ2                  180 24181 76 8  Y  Y  Y  Y  Y  Y  Y  Y
               Jn
-              Castleton South Jn – Castleton East
-     NW7001 MVN2                   8  21  8 52 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Warrington South Jn – Winwick Jn
+     NW1001 CGJ3                  181 76185 49 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Winwick Jn – Golborne Jn
+     NW1001 CGJ4                  185 49187 76 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Golborne Jn – Wigan Station Jn
+     NW1001 CGJ5                   0  53  6 33 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Wigan Station Jn – Farington Curve
+     NW1001 CGJ5                   6  33 20 08 8  Y  Y  Y  Y  Y  Y  Y  Y
               Jn
-              Castleton East Jn – Hall Royd Jn
-     NW7001 MVN2                    8 52 19 61 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Hall Royd Jn – Route Boundary
-     NW7001 MVN2                   19 61 22 62 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (LN854) (Turners Lane Jn)
-              Castleton East Jn – Castleton North
-     NW7005 CEH                    0  00  0 37 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Farington Curve Jn – Preston Ribble
+     NW1001 CGJ5                   20 08 21 13 8  Y  Y  Y  Y  Y  Y  Y  Y
               Jn
-              Castleton South Jn – Castleton North
-     NW7005 CPI1                   8  21  8 50 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Preston Ribble Jn – Preston (Change
+     NW1001 CGJ5                   21 13 21 57 8  Y  Y  Y  Y  Y  Y  Y  Y
+              of ELR)
+              Preston (Change of ELR) – Preston
+     NW1001 CGJ6                   0  00  0 21 8  Y  Y  Y  Y  Y  Y  Y  Y
+              North Jn
+              Preston North Jn – Preston Fylde Jn
+     NW1001 CGJ6                   0  21  0 33 8  Y  Y  Y  Y  Y  Y  Y  Y
+     NW1002 RBS3
+              Route Boundary (MD301) (Penkridge
+                                   23 30 28 50 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Station) – Stafford Trent Valley Jn
+              No.1
+     NW1003 HCM2 Buffer Stop (Silverdale Colliery End) –
+                                   3  27  7 36 8  Y  N  Y  Y  Y  Y  Y  Y
+              Madeley Chord Jn
+     NW1003 HCM3 Madeley Chord Jn – Madeley Jn
+                                   0  25  0 00 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW1003 HCM2 Madeley Chord Jn – End of Line
+                                   7  36  8 14 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW1004 RRN2
+              Route Boundary (MD345) (Cannock
+                                   14 00 14 69 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Change of ELR) – Rugeley North Jn
+              Kidsgrove Jn – Crewe South Jn
+     NW1005 KCS1                   0  00  8 27 8  Y  Y  Y  Y  Y  Y  Y  Y
+     NW1007 SYC
+              Route Boundary (GW735) (Crewe Jn)
+                                   2  60  1 41 8  Y  Y  Y  Y  Y  Y  Y  Y
+              – Limit of Electrification
+              Limit of Electrification – Crewe South
+     NW1007 SYC                    1  41  0 00 8  Y  Y  Y  Y  Y  Y  Y  Y
               Jn
-              Castleton North Jn – Network Rail /
-     NW7005 CPI2                   8  50  9 04 8  Y  Y  Y  Y  Y  Y  Y  Y
-              East Lancashire Railway Boundary
-              (Hopwood)
-              Todmorden Viaduct Jn – Stansfield
-     NW7006 SFO                    0  0   0 18 8  Y  N  Y  Y  Y  Y  Y  N
-              Hall Jn
-              Farington Curve Jn – Ormskirk
-     NW7007 FCO                    25 64 12 15 8  Y  N  Y  Y  Y  Y  Y  Y
-              Farington Curve Jn – Lostock Hall
-     NW7009 FHR1                    0 00  0 75 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Depot
-              Lostock Hall Depot – Lostock Hall Jn
-     NW7009 FHR2                   0  75  1 42 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Lostock Hall Jn – Change of ELR (Site
-     NW7009 FHR3                   1  42  2 10 8  Y  Y  Y  Y  Y  Y  Y  Y
-              of Former Bamber Bridge Jn)
-
-
-
-
-    October 2009                                     62
+              Basford Hall Jn – Site of Former
+     NW1009 BHI                   156 16158 76 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Sydney Bridge Jn (Independent Lines)
+              Site of Former Sydney Bridge Jn –
+     NW1009 CMP1                  158 76162 28 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Sandbach South Jn (Independent
+              Lines)
+              Gresty Lane Jn – Salop Goods Jn
+     NW1011 GSG                    0  00  0 37 8  Y  Y  Y  Y  Y  Y  Y  Y
+    October 2009                                     53

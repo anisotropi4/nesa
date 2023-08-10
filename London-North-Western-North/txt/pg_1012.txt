@@ -5,61 +5,47 @@
 
 
 
-     Line of Line of Route / Sector
-                               RA   Gauge of Route
-                                                 Heavy AxleNotes
-     Route   Description                        Weight Vehicles
-     NW8013  Canning Street Jn. - Hooton
-                               8        /           Y
-             South Jn.
-     NW8015  Bidston East Jn. – New Brighton
-                               6        /           R      R BEN Br.19 (6m 50ch - 6m 52ch) vehicles which exceed the RA of the line
-             (New Brighton lines)                            must not pass other loco hauled trains on the bridge.
-     NW8017  Canning Street North - Rock
-                               -        /           -
-             Ferry South Jn. (Out of use)
-     NW9001  Dore West Jn. – Edgeley Jn.
-                               8        R           Y      R Clear to W6A Ex. (W7) Dore West Jn. - Hazel Grove HL Jn.
-             No.1 (Hope Valley Lines)
-     NW9003  Chinley East Jn. - Chinley South
-                               8    W6A Ex. (W7)    Y
-             Jn. (Chord Line)
-     NW9005  Chinley North Jn. - Buxton
-                               8       R1           R2    R1 Clear to W6A Ex. (W7) Chinley North Jn. - Great Rocks.
+     Table D5A - Route clearance of Freight Vehicles
+                                                                                     Last Updated: 29/04/2023
+     To be read in conjunction with General Notes.
+     This table consists of the list of lines as shown in Table A, the RA index of each route, any general authorities for heavy axle weight vehicles, the gauge of the route and other route restrictions.
+     (Temporary or vehicle specific heavy axle weight authorities are not shown.)
 
-                                                          R2 RA9/10 loaded freight vehicles are restricted to 40mph Chinley North Jn. -
-                                                             Tunstead.
-     NW9007  New Mills South Jn. - Ashburys
-                               8    W6A Ex. (W7)    R2    R1 This line is RA7 from Romiley Jn. to Ashburys East Jn
-             East Jn.          R1
-                                                          R2 ELR: TTA2, Br.18: RA8/9/10 loaded freight vehicles are restricted to 30mph
-                                                             over the bridge, Reddish Viaduct (43m 04ch – 43m 18ch).
+     The gauge of the route is shown as one of the following:
 
+      • standard locomotive gauge indicated by a forward-slash symbol, (i.e. / ),
+      • W6A (W6) – meaning clear to W6A Gauge,
+      • W7 – meaning clear to W6A Exception Gauge for 8ft. containers,
+      • W8 – meaning clear to W6A Exception Gauge for 8ft 6in containers,
+      • W9 – meaning clear to SB1C gauge.
+      • W10 – meaning clear for 9ft. 6in. high x2.5m. wide containers on selected wagons
+      • W12 – meaning clear to W12 composite swept envelope
 
+     Additional restrictions or clearances may also be shown as notes in the Notes & Restrictions column.
 
+     The ‘Heavy Axle Weight Vehicles’ column indicates whether a vehicle which exceeds the RA index of the route may be conveyed, and if so under what conditions:
 
-     NW9009  Marple Wharf Jn. – Rose Hill
-                               7        /           Y
-     NW9011  Romiley Jn. - Hyde Jn.
-                               8    W6A Ex. (W7)    R      R RA9/10 loaded freight vehicles are restricted to 40mph maximum speed
-                                                             throughout.
-     NW9013  Woodley Jn. – Bredbury Sidings
-                               7    W6A Ex. (W7)    Y
-     NW9017  Hazel Grove High Level Jn. -
-                               8    W6A Ex. (W7)    Y
-             Northenden Jn.
-     NW9019  Buxton - Brigg’s Sidings
-                               8        /           Y
-     NW9021  Buxton – Hazel Grove East Jn
-                               8  /                 R     R  ELR: BEJ, Br.42 – RA9/10 vehicles restricted to 5 mph over the bridge
-                                                             (10m 20ch – 10m 22ch) and must not pass any other train or vehicle on the
-                                                             bridge
-     NW9901  Gargrave – Carlisle South Jn.
-                               8     W6A Ex (W7)    R      R For RA9/10 loaded freight vehicles the following bridge specific restriction
-                                                             must be observed:
-                                                             ELR: SAC, Br.66 – 20 mph in both directions over the bridge “Ribblehead
-                                                             Viaduct” between Horton-in-Ribblesdale and Blea Moor (247m 40ch –
-                                                             248m 00ch)
+     AuthorityMeaning
+     Code
+     Y       There are no particular restrictions for vehicles that exceed the RA of the route, and form RT3973HAW can be produced on this basis. 25.5 tonne axle weight vehicles in use
+             on the network as of April 1998 are not restricted. (Note that this information does not include vehicles which may have individual restrictions placed upon them.)
+     N       Vehicles that exceed the RA of the route must not run without the authority of the Territory Structures Assessment Engineer. If authority is given a vehicle specific form
+             RT3973HAW can be produced.
+     R1, R2, etc.
+             Vehicles which exceed the RA of the route can run subject to the particular restriction(s) identified, and form RT3973HAW can be produced on this basis. 25.5 tonne axle
+             weight vehicles in use on the network as of April 1998 are not restricted. (Note that this information does not include vehicles which may have individual restrictions placed
+             upon them.)
+     --      No request to run vehicles that exceed the RA of the route has previously been made and any request to do so must be referred to the Territory Structures Assessment
+             Engineer. 25.5 tonne axle weight vehicles may be able to run following assessment.
+
+     Restricted Vehicles
+
+    Vehicles identified below can not run without reference to the Territory Structures Assessment Engineer, who will identify any restrictions that apply to that particular vehicle over a specified
+    route in accordance with the Route Availability Group Standard:
+
+      • Coil Strip Wagon BN001A
 
 
-                                                     78
+
+
+    October 2009                                     69

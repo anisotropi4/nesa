@@ -1,14 +1,26 @@
-Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	1008	NW4027	Carlisle Yard Recess Sidings - Brunthill	8	/	Y	
-London-North-Western-North	1008	NW4029	Mossband Jn. - Bush-on-Esk	8	/	Y	
-London-North-Western-North	1008	NW4031	Gretna Jn – Gretna Green (excl.)	8	W6A Ex. (W7)	Y	
-London-North-Western-North	1008	NW4033	Carnforth North Jn. - Carlisle South Jn. (Via Barrow)	8 R1	R2	R3	R1 R2 R3 RA7 between Whitehaven and Maryport, but RA8/9/10 vehicles are permitted throughout. Clear to W6A Ex. (W8) gauge for containers carried on FFA - FGA and KFA wagons between Workington Yard – Carlisle South Jn. only. RA9/10 vehicles are permitted subject to the following speed restrictions: ELR: CBC1, Br.15: 20mph over the viaduct (6m 40ch – 7m 00ch) ELR: CBC1, Br.106: 20mph over the bridge (42m 20ch - 42m 40ch) ELR: CBC1, Br.151: 30mph over the bridge (59m 05ch - 59m 50ch) ELR: CBC1, Br.169: 20mph over the bridge (64m 20ch - 64m 40ch) ELR: CBC3: 30mph in the Down direction only between Maryport and Aspatria (2m 40ch – 3m 20ch) ELR: CBC3: 30mph in the Up direction only between Wigton and Dalston (22m 00ch – 21m 40ch and 19m 00ch – 18m 20ch)
-London-North-Western-North	1008	NW4041	Dalton Jn. - Park South Jn.	8	/	Y	
-London-North-Western-North	1008	NW5001	Crewe North Jn. - Manchester Piccadilly	8	SB1C (W9)	Y	R CMP2 Br.17: RA9/10 vehicles are restricted to 30mph over the bridge (185m 65ch to 185m 68ch).
-London-North-Western-North	1008	NW5003	Wilmslow - Slade Lane Jn. (Styal lines).	8	SB1C (W9)	Y	
-London-North-Western-North	1008	NW5005	Heald Green South Jn. - Heald Green West Jn.	8	/	Y	
-London-North-Western-North	1008	NW5007	Manchester Airport - Heald Green North Jn.	8	/	Y	
-London-North-Western-North	1008	NW5008	Norton Bridge Jn. – Stone Jn.	8	W6A Ex (W12)	Y	
-London-North-Western-North	1008	NW5009	Colwich Jn. - Cheadle Hulme	8	W6A Ex (W12)	R	R W12 prohibited from Macclesfield Loop (Platform 3) at Macclesfield Station
-London-North-Western-North	1008	NW5010	Glebe Street Jn. – Caldon Quarry (Out of use)	-	W6A (W6)	-	
-London-North-Western-North	1008	NW5011	Heaton Norris Jn. - Guide Bridge Station Jn.	8	W6A Ex. (W7)	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	1008	NW7015	PRG	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	Y	N	N	N	Line out of use
+London-North-Western-North	1008	NW7017	GJC	Gannow Jn – Colne	21	03	27	37	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7019	MPR2	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7021	MVM	Miles Platting – Change of ELR	1	22	1	30	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7021	MVL1	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7021	MVL1	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7021	MVL1	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7021	MVL1	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7021	MVL2	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7021	MVL3	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	H	H	Y	H	N	N	
+London-North-Western-North	1008	NW7023	BPP	Philips Park West Jn – Brewery Jn	0	00	0	18	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7025	PPA1	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7025	PPA1	Philips Park South Jn – Change of Mileage	2	07	3	12	7	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7025	PPA2	Change of Mileage – Ashburys West Jn	0	57	0	00	7	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7027	PPP1	Baguley Fold Jn – Change of Mileage	2	39	2	13	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW7027	PPP2	Change of Mileage – Philips Park South Jn	0	00	0	19	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8001	HXS1	Hunts Cross West Jn – Liverpool Central	6	11	0	02	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8001	HXS2	Liverpool Central – Paradise Jn	37	13	36	71	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8001	HXS2	Paradise Jn – Sandhills Jn	36	71	34	75	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8001	HXS3	Sandhills Jn – Bootle Jn	1	41	2	39	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8001	HXS3	Bootle Jn – Southport	2	39	18	35	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8003	SIL	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8005	SJO1	Sandhills Jn – Walton Jn	34	75	33	16	7	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8005	SJO2	Walton Jn – Ormskirk	3	20	12	13	8	N	N	Y	N	N	N	
+London-North-Western-North	1008	NW8007	HXS/ NMM	Bootle Jn – Change of ELR (Site of Former North Mersey Jn)	2	34	3	52	7	N	N	Y	N	N	N	

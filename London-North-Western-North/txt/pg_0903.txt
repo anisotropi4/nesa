@@ -7,79 +7,59 @@
 
      Line of
           ELR Line of Route / Sector Description
-                                       oooo oooo oooo oooo
-                                                     317  319 321 322  323 325  350  Notes
-     route                              M  Ch M  Ch  0000     00000000 00000000 0000ooooooooooooooooooooooo
-                                                                                    oooo
-              Carnforth North Jn – Oxenholme
-     NW4001 CGJ7                         6  08 19 11  Y   N    E   E    N   Y   Y
-              Oxenholme – Upperby Jn
-     NW4001 CGJ7                        19  11 68 23  Y   N    E   E    N   Y   Y
-              Upperby Jn – Carlisle
-     NW4001 CGJ7                        68  23 69 09  Y   N    E   E    N   Y   R1 R1 Prohibited Carlisle bay
-                                                                                      platforms 2, 5 and 6
-     NW4001 WCM1 Carlisle – Mossband Jn (Including Kingmoor Yard
-                                         0  00 7  57  Y   N    E   E    N   Y   R1 R1 Prohibited Carlisle bay
-              Goods lines)                                                            platforms 7 and 8
-     NW4001 WCM1 Mossband Jn – Gretna Jn 7  57  8 57  Y   N    E   E    N   Y    Y
-     NW4001 WCM1 Gretna Jn – Route Boundary (SC001) (Gretna
-                                         8  57 12 30  Y   N    E   E    N   Y    Y
-              Green)
-              Upperby Bridge Jn – Upperby Bridge
-     NW4001 UCJ                         67  58 68 23  N   N    N   N    N   H    N
-     NW4003
-          PDB Preston Fylde Jn – End of line
-                                         0  00  1 59  N   N    N   N    N   N    N Line out of use
-     NW4005
-          PBN Preston Fylde Jn – Kirkham North Jn
-                                         0  33  8 28  N   Y    N   N    Y   H    N
-     NW4005
-          PBN Kirkham North Jn – Poulton Jn
-                                         8  28 14 40  N   Y    N   N    Y   H    N
-     NW4005
-          PBN Poulton Jn – Blackpool North
-                                        14  40 17 49  N   Y    N   N    N   H    N
-     NW4007
-          KBS1Kirkham North Jn – Blackpool South
-                                         8  28 20 00  N   N    N   N    N   H    N
-     NW4009
-          WPS Poulton – End of Line     14  40 18 08  N   N    N   N    N   N    N Line out of use from 14m 75ch to the
-                                                                                   end of the line
-                                                                                   NC/G1/2001/LNW294
-     NW4011
-          MSM Morecambe South Jn – Morecambe Buffer Stops
-                                         0  00  2 12  N   N    N   N    N   H    N
-     NW4013
-          HBL Hest Bank Jn – Bare Lane Jn0  00  1 30  N   N    N   N    N   H    N
-     NW4017
-          MHH Morecambe Jn – Heysham Port0  00  4 01  N   N    N   N    N   H    N
-     NW4019
-          OXW Oxenholme – Windermere     0  00 10 15  N   N    N   N    N   H    N
-     NW4021
-          UCJ Upperby Jn – Bog Jn        0  38  1 07  N   N    N   N    N   H    N
-     NW4021
-          UCJ Bog Jn – Rome St Jn        1  07  1 23  N   N    N   N    N   H    N
-     NW4023
-          ULR Upperby Jn – London Rd Jn  0  00  0 34  N   N    N   N    N   H    N
-     NW4025
-          MCG Currock Jn – Bog Jn        0  00  0 44  N   N    N   N    N   N    N
-     NW4027
-          BSN Bruntill Branch Jn - Stainton Jn via Down and Up
-                                         0  66  0  2  N   N    N   N    N   N    N
-              Brunthill Branch Siding
-     NW4027 ETC
-              End of Line Buffer Stops - Network Rail Boundary
-                                        96  9  95  6  N   N    N   N    N   N    N
-              / Brunthill via Down and Up Brunthill line
-              Mossband Jn – Bush-on-Esk West Jn
-     NW4029 GJH                          3  02 1  06  N   N    N   N    N   N    N
-              Bush-on-Esk West Jn – Network Rail Boundary
-     NW4029 GJH                          1  06 0  24  N   N    N   N    N   N    N Line out of use
-              Gretna Jn – Route Boundary (SC031) (Eastriggs)
-     NW4031 GSW                         116 13115 40  N   N    N   N    N   H    N
-              Carnforth North Jn – Carnforth Station Jn
-     NW4033 CBC1                         0  19 0  38  N   N    N   N    N   H    E
+                                  oo oo  oo oo 165 168 170 175 180 185 195 196 220 221 222 Notesoooooooooooooooooooooooo
+     route                        oo oo  oo oo                               oo
+                                               000 000 000 000 000 000 000 000 000 000 000
+                                   M  Ch M  Ch
+     NW6009 WBS3 Wigan Wallgate Jn – Southport
+                                   18 04 35 27 N  N  N N  N  N  Y N  N  N  N
+              Bolton East Jn – Blackburn Bolton Jn
+     NW6011 BBB                    10 31 24 08 N  N  N N  N  R1 Y N  Y  Y  N R115mph Hall I’th’Wood Down
+                                                             R2                platform
+                                                             R3             R2 30mph Bromley Cross Up platform
+                                                             R4             R3 30mph Darwen Down platform
+                                                                            R4 15mph BBB1/65 Bolton Road
+                                                                               underbridge 23m46ch single
+              Lostock Jn – Crow Nest Jn
+     NW6013 LCN                    13 39 17 18 N  N  N Y  Y  Y  Y N  Y  Y  N
+              Wigan Wallgate Jn – Change of
+     NW6015 WKL1                   18 04 19 48 N  N  N N  N  N  Y N  N  N  N
+              Mileage (Pemberton)
+              Change of Mileage (Pemberton) –
+     NW6015 WKL2                   19 09 29 40 N  N  N N  N  N  Y N  N  N  N
+              Kirkby
+     NW7001 MVM
+              Manchester Victoria East Jn (Man Vic
+                                   0  09  1 22 N  N  Y Y  E  Y  Y N  Y  Y  N
+              West Jn – East Jn on NW6005) –
+              Miles Platting Jn
+              Miles Platting Jn – Brewery Jn
+     NW7001 MPR1                   1  30  1 52 N  N  Y Y  E  Y  Y N  Y  Y  N
+              Brewery Jn –Thorpes Bridge Jn
+     NW7001 MPR1                   1  52  2 17 N  N  Y Y  E  Y  Y N  Y  Y  N
+              Thorpes Bridge Jn – Castleton South
+     NW7001 MVN2                   2  17  8 21 N  N  Y E  E  Y  Y N  Y  Y  N R1 Prohibited between Newton Heath
+              Jn                                       R1 R1                   TMD and Castleton South Jn
+              Castleton South Jn – Castleton East
+     NW7001 MVN2                   8  21  8 52 N  N  Y N  N  Y  Y N  Y  Y  N
+              Jn
+              Castleton East Jn – Hall Royd Jn
+     NW7001 MVN2                   8  52 19 61 N  N R2 N  R1 Y  Y N  Y  Y  N R1Prohibited between Castleton
+                                                    R3                         East Jn and Todmorden
+                                                                            R2 Prohibited Rochdale platform 1
+                                                                               with deflated suspension
+                                                                            R3 Prohibited Smithy Bridge Up and
+                                                                               Down platforms with deflated
+                                                                               suspension
+              Hall Royd Jn – Route Boundary
+     NW7001 MVN2                   19 61 22 62 N  N  Y N  Y  Y  Y N  Y  Y  N
+              (LN854) (Turners Lane Jn)
+              Castleton East Jn – Castleton North
+     NW7005 CEH                    0  00  0 37 N  N  N N  N  N  N N  N  N  N
+              Jn
+              Castleton South Jn – Castleton North
+     NW7005 CPI1                   8  21  8 50 N  N  N N  N  N  N N  N  N  N
+              Jn
 
 
-
-    October 2009                                     22
+    October 2009                                    16P

@@ -6,89 +6,76 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo 165 168 170 175 180 185 196 220 221 222
-                                                                                Notes
-     route                           M  Ch M  Ch 0000 0000 0000 0000 0000 0000
-                                                                      0000 0000 0000 ooooooooooooooooooooooooooo
+          ELR Line of Route / Sector Description oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159
+                                                                               Notes
+     route                          M  Ch  M Ch    0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
 
-     NW4027 BSN
-              Bruntill Branch Jn - Stainton Jn via Down
-                                      0 66  0  2  N  N  N  N  N  N  N  N  N  N
-              and Up Brunthill Branch Siding
-     NW4027 ETC
-              End of Line Buffer Stops - Network Rail
-                                     96  9  95 6  N  N  N  N  N  N  N  N  N  N
-              Boundary / Brunthill via Down and Up
-              Brunthill line
-              Mossband Jn – Bush-on-Esk West Jn
-     NW4029 GJH                       3 02  1  06 N  N  N  N  N  N  N  N  N  N
-              Bush-on-Esk West Jn – Network Rail
-     NW4029 GJH                       1 06  0  24 N  N  N  N  N  N  N  N  N  N Line out of use
-              Boundary
-              Gretna Jn – Route Boundary (SC031)
-     NW4031 GSW                      11613 115 40 N  N  N  N  N  Y  N  Y  Y  N
-              (Eastriggs)
-              Carnforth North Jn – Carnforth Station Jn
-     NW4033 CBC1                      0 19  0  38 N  N  N  Y  N  Y  N  N  N  N
-              Carnforth Station Jn – Limit of
-     NW4033 CBC1                      0 38  0  60 N  N  N  Y  N  Y  N  N  N  N
-              Electrification (Carnforth)
-     NW4033 CBC1
-              Limit of Electrification (Carnforth) -
-                                      0 60  74 66 N  N  N R1  N R1  N  N  N  N R1 Prohibited between Millom and Whitehaven
-              Whitehaven
-     NW4033 CBC1
-              Whitehaven - Bransty SB (Change of ELR)
-                                     74 66  74 73 N  N  N  N  N  N  N  N  N  N
-              Bransty SB (Change of ELR) – Change of
-     NW4033 CBC2                      0 16  12 05 N  N  N  N  N  N  N  N  N  N
-              ELR (Maryport)
-              Change of ELR (Maryport) – Carlisle South
-     NW4033 CBC3                      0 00  27 49 N  N  N  N  N E   N R1 R1  N R1 Prohibited between Change of ELR (Maryport)
-              Jn                                                R1               and Currock Jn
-     NW4041
-          DAP Dalton Jn – Park South Jn
-                                      0 00  0  76 N  N  N  Y  N Y   N  N  N  N
-     NW5001
-          CMP1Crewe North Jn – Sandbach North Jn
-                                     15817 162 62 N  N  Y  Y  Y Y   Y  Y  Y  N
-     NW5001
-          CMP1Sandbach North Jn – Wilmslow South Jn
-                                     16262 176 53 N  N  Y  Y  Y Y   N  Y  Y  N
-     NW5001
-          CMP1Wilmslow South Jn – Cheadle Hulme North
-                                     17653 180 67 N  N  Y  Y  Y Y   N  Y  Y  N
+     NW7009
+          FHR5Daisyfield Jn – Gannow Jn
+                                    11  09 21 03 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+     NW7009
+          FHR6Gannow Jn – Hall Royd Jn
+                                    21  03 30 54 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+     NW7011
+          LHL Farington Jn - Limit of electrification
+                                     0  00  0 56 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+     NW7011
+          LHL Limit of electrification - Lostock Hall Jn
+                                     0  56  0 77 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              (Lostock Hall Lines)
+              Daisyfield Jn – Hellifield
+     NW7013 DJH                     11  09 34 68 Y  Y  N  N  Y  Y  Y  Y  Y  N
+     NW7015 PRG
+              End of Line (Padiham Power Station
+                                     1  76  0 00 N  N  N  N  N  N  N  N  N  N Line out of use
+              Sidings) – Rose Grove West Jn
+              Gannow Jn – Colne
+     NW7017 GJC                     21  03 27 37 Y  Y  Y  Y  Y  Y  Y  Y R1  N R1Prohibited between Brunley Central
+                                                                                and Colne
+              Thorpes Bridge Jn – Network Rail
+     NW7019 MPR2                     2  22 3  05 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Boundary (Metrolink (Down Up Boundary
+              at 2m 32ch))
+              Miles Platting Jn – Philips Park West Jn
+     NW7021 MVL1                     1  30  1 59 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Philips Park West Jn – Baguley Fold Jn
+     NW7021 MVL1                     1  59  2 39 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Baguley Fold Jn – Ashton Moss North Jn
+     NW7021 MVL1                     2  39  5 41 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Ashton Moss North Jn – Stalybridge Jn
+     NW7021 MVL1                     5  41  7 46 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Stalybridge Jn – Stalybridge Tunnel Jn
+     NW7021 MVL2                     7  46  8 08 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Stalybridge Tunnel Jn – Route Boundary
+     NW7021 MVL3                     8  08 15 11 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              (LN860) (Springwood Jn)
+              Philips Park West Jn – Brewery Jn
+     NW7023 BPP                      0  00 0  18 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Philips Park West Jn – Philips Park South
+     NW7025 PPA1                     1  59 2  07 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
               Jn
-     NW5001
-          CMP1Cheadle Hulme North Jn - Edgeley Jn No.1
-                                     18067 182 36 N  N  Y  Y  Y  Y  N  Y  Y  N
-     NW5001
-          CMP2Edgeley Jn No.1 - Edgeley Jn
-                                     18236 182 59 N  N  Y  Y  Y  Y  N  Y  Y  Y
-     NW5001
-          CMP2Edgeley Jn – Slade Lane Jn
-                                     18259 186 46 N  N  Y  Y  Y  Y  N  Y  Y  Y
-     NW5001
-          CMP2Slade Lane Jn – Ardwick Jn
-                                     18646 188 08 N  N  Y  Y  Y  Y  N  Y  Y  Y
-     NW5001
-          CMP2Ardwick Jn – Manchester Piccadilly East Jn
-                                     18808 188 48 N  N  Y  Y  Y  Y  N  Y  Y  Y
-     NW5001
-          CMP2Manchester Piccadilly East Jn –
-                                     18848 188 70 N  N  Y  Y  Y  Y  N  Y  Y  Y
-              Manchester Piccadilly
-              Wilmslow South Jn – Heald Green South
-     NW5003 STY                       0 00  2  50 N  N  Y  Y  N  Y  N  Y  Y  N
+              Philips Park South Jn – Change of
+     NW7025 PPA1                     2  07 3  12 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Mileage
+              Change of Mileage – Ashburys West Jn
+     NW7025 PPA2                     0  57 0  00 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Baguley Fold Jn – Change of Mileage
+     NW7027 PPP1                     2  39 2  13 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Change of Mileage – Philips Park South
+     NW7027 PPP2                     0  00 0  19 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
               Jn
-              Heald Green South Jn – Heald Green
-     NW5003 STY                       2 50  3  13 N  N  Y  Y  N  Y  N  Y  Y  N
-              North Jn
-              Heald Green North Jn – Slade Lane Jn
-     NW5003 STY                       3 13  9  44 N  N  Y  Y  N  Y  N  Y  Y  N
+              Hunts Cross West Jn – Liverpool Central
+     NW8001 HXS1                     6  11  0 02 N  N  N  N  N  N  N  N  N  N
+              Liverpool Central – Paradise Jn
+     NW8001 HXS2                    37  13 36 71 N  N  N  N  N  N  N  N  N  N
+              Paradise Jn – Sandhills Jn
+     NW8001 HXS2                    36  71 34 75 N  N  N  N  N  N  N  N  N  N
+              Sandhills Jn – Bootle Jn
+     NW8001 HXS3                     1  41  2 39 Y  N  N  N  N  N  N  N  N  N
+              Bootle Jn – Southport
+     NW8001 HXS3                     2  39 18 35 Y  N  N  N  N  N  N  N  N  N
 
 
 
 
-    October 2009                                    16K
+    October 2009                                    16A

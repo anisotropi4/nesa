@@ -4,70 +4,67 @@
                                        LNW North Route Sectional Appendix Module NWRC
 
 
+
      Line of
           ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo
-                                                  317  319 321 322  323 325  350  Notes
-     route                           M  Ch M  Ch  0000     00000000 00000000 0000ooooooooooooooooooooooo
-                                                                                 oooo
-              Newton-le-Willows Jn – Golborne Jn
-     NW1021 NGJ                       0  00 0  53  Y   Y    N   N    N   H    Y
-              Haydock Branch Jn – End of Line
-     NW1023 HOB2                      0  00 0  53  N   N    N   N    N   N    N
-              Bamfurlong Sidings Jn – Ince Moss Jn
-     NW1025 IMG                       0  18 0  78 EH   Y    N   N    N   H    N
-              Preston South Jn – Preston Docks Branch
-     NW1027 PSR1                     21  39 21 47  N   N    N   N    N   N    N
-              (Change of ELR)
-              Preston Docks Branch (Change of ELR) –
-     NW1027 PSR2                      0  00 0  40  N   N    N   N    N   N    N
-              Network Rail Boundary (Ribble Steam
-              Railway)
-              NW1001 (Weaver Jn) – Ditton East Jn
-     NW2001 WJL1                     174 53182 67  Y   E    N   N    Y   Y    Y
-              Ditton East Jn – Speke East Jn
-     NW2001 WJL2                     182 67186 72  Y   E    N   N    Y   Y    Y
-              Speke Est Jn – Edge Hill East Jn
-     NW2001 WJL3                     186 72191 75  Y   Y    N   N    Y   Y    Y
-              Edge Hill East Jn – Liverpool Lime Street
-     NW2001 WJL4                     191 75193 52  Y   Y    N   N    Y   Y   Y1
-              Runcorn – Network Rail Boundary (Runcorn
-     NW2003 RDB                       0  02 0  69  N   N    N   N    N   N   N
-              Dock Branch)
-              Speke East Jn – Garston Jn
-     NW2005 SCR                      22  59 23 52  Y   N    N   N    N   H    N
-              Allerton East Jn – Garston Jn
-     NW2007 AEG                       0  00  0 28  Y   N    N   N    N   H    N
-              End of Line (Latchford) – Ditton East Jn
-     NW2009 SDJ2                     10  06 18 55  N   N    N   N    N   N    N
-     NW2011 WOA1 Walton Old Jn – Arpley Jn
-                                      0  68 0  00  N   N    N   N    N   N    N
-              Ordsall Lane Jn – Newton-le-Willows Jn
-     NW2015 DSE                      30  38 16 19 EH   Y    N   N    N   Y   R1 R1 Prohibited with more than 2
-                                                                                   pantographs raised
-     NW2015 DSE
-              Newton-le-Willows Jn - Earlestown East Jn
-                                     16  19 14 75  Y   Y    N   N    N   H   R1 R1 Prohibited with more than 2
-              (Electrified section)                                                pantographs raised
-     NW2015 DSE
-              Earlestown East Jn - Edge Hill
-                                     14  75 1  57 EH   Y    N   N    N   H   R1 R1 Prohibited between Earlstown
-                                                                                   East Jn and Limit of
-                                                                                   Electrification
-              Eccles Station Jn – Network Rail (Weaste
-     NW2017 SCN                       0  00 0  54  N   N    N   N    N   N    N
-              Branch) / MSC Boundary
-              Parkside Jn – Lowton Jn (East Curve lines)
-     NW2019 PJL                       0  05 0  36  Y   Y    N   N    N   Y   R1 R1 Prohibited with more than 2
-                                                                                   pantographs raised
-              Earlestown South Jn – Earlestown West Jn
-     NW2021 EEE                      186 74187 15 EH   Y    N   N    N   H    N
-              (Liverpool Curve)
-              Springs Branch Jn – Gerards Bridge Jn
-     NW2023 SBH3                     12  54 5  66 EH   Y    N   N    N   H    N
-              Gerards Bridge Jn – St Helens Station Jn
-     NW2023 SBH2                      5  66 5  12 EH   Y    N   N    N   H    N
+                                  oo oo  oo oo 165 168 170 175 180 185 195 196 220 221 222 Notesoooooooooooooooooooooooo
+     route                        oo oo  oo oo                               oo
+                                               000 000 000 000 000 000 000 000 000 000 000
+                                   M  Ch M  Ch
+              Cheadle Hulme North Jn – Edgeley Jn 180
+     NW5001 CMP1                      67182 36 N  N  Y Y  Y  Y  Y N  Y  Y  N
+              No.1
+              Edgeley Jn No.1 – Edgeley Jn
+     NW5001 CMP2                  182 36182 59 N  N  Y Y  Y  Y  Y N  Y  Y  Y
+              Edgeley Jn – Slade Lane Jn
+     NW5001 CMP2                  182 59186 46 N  N  Y Y  Y  Y  Y N  Y  Y  Y
+              Slade Lane Jn – Ardwick Jn
+     NW5001 CMP2                  186 46188 08 N  N  Y Y  Y  Y  Y N  Y  Y  Y
+              Ardwick Jn – Manchester Piccadilly
+     NW5001 CMP2                  188 08188 48 N  N  Y Y  Y  Y  Y N  Y  Y  Y
+              East Jn
+              Manchester Piccadilly East Jn –
+     NW5001 CMP2                  188 48188 70 N  N  Y Y  Y  Y  Y N  Y  Y  Y
+              Manchester Piccadilly
+              Wilmslow South Jn – Heald Green
+     NW5003 STY                    0  00  2 50 N  N  Y Y  N  Y  Y N  Y  Y  N
+              South Jn
+              Heald Green South Jn – Heald Green
+     NW5003 STY                    2  50  3 13 N  N  Y Y  N  Y  Y N  Y  Y  N
+              North Jn
+              Heald Green North Jn – Slade Lane
+     NW5003 STY                    3  13  9 44 N  N  Y Y  N  Y  Y N  Y  Y  N
+              Jn
+              Heald Green South Jn – Heald Green
+     NW5005 SMA                    1  48  1 10 N  N  Y Y  N  Y  Y N  Y  Y  N
+              West Jn
+              Manchester Airport – Heald Green
+     NW5007 MIA                    0  00  1 51 N  N  Y Y  N  Y  Y N  Y  Y  N
+              North Jn
+              Little Bridgeford Jn – Searchlight Lane
+     NW5008 LEC6                  137 42138 55 Y  Y  Y Y  N  N  N Y  Y  Y  N
+              Jn (Change of ELR and mileage) (Up
+              line only)
+     NW5008 NBS
+              Searchlight Lane Jn (Change of ELR
+                                   4  06  0 00 Y  Y  Y Y  N  N  N Y  Y  Y  N
+              and mileage) – Stone Jn
+              Norton Bridge Jn – Yamfield Jn
+     NW5008 NBS1                   4  14  2 50 Y  Y  Y N  N  N  N Y  Y  Y  N
+              (Norton Bridge East Chord)
+     NW5009 CMD2 Colwich Jn – Stone Jn
+                                   38 61 27 00 N  N  Y Y  N  N  N Y  Y  T  N
+     NW5009 CMD2 Stone Jn – Stoke Jn
+                                   27 00 20 36 N  N  Y Y  N  N  N Y  Y  T  N
+     NW5009 CMD2 Stoke Jn – Glebe Street Jn
+                                   20 36 20 10 N  N  Y Y  N  N  Y Y  Y  T  Y
+     NW5009 CMD2 Glebe Street Jn – Change of ELR
+                                   20 10 15 65 N  N  Y Y  N  N  Y Y  Y  T  Y
+     NW5009 CMD1 Change of ELR – Kidsgrove Jn
+                                   16 00 13 68 N  N  Y Y  N  N  Y Y  Y  T  Y
+     NW5009 CMD1 Kidsgrove Jn – Macclesfield Hibel
+                                   13 68  0 00 N  N  Y Y  N  N  Y N  Y  T  N
+              Road (Change of ELR)
 
 
-
-    October 2009                                     19
+    October 2009                                    16M

@@ -1,23 +1,22 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	323	325	350	Notes
-London-North-Western-North	0905	NW5009	CMD1	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR )	13	68	0	00	Y	N	N	N	Y	Y	N	
-London-North-Western-North	0905	NW5009	MCH	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	Y	Y	N	N	Y	Y	N	
-London-North-Western-North	0905	NW5010	SCQ1	Glebe Street Jn – Change of Mileage	20	08	20	33	N	N	N	N	N	N	N	Line out of use
-London-North-Western-North	0905	NW5010	SCQ1	Change of Mileage – Change of Mileage (Site of Former Milton Jn)	0	00	3	51	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
-London-North-Western-North	0905	NW5010	SCQ2	Change of Mileage (Site of Former Milton Jn) – Change of Mileage (Site of Former Leek Brook Jn)	0	00	6	65	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
-London-North-Western-North	0905	NW5010	SCQ3	Change of Mileage (Site of Former Leek Brook Jn) – Caldon Quarry	0	00	8	01	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
-London-North-Western-North	0905	NW5011	HNS	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	EH R1	N	N	N	EH	H	N	R1 Prohibited between Denton Jn and Guide Bridge Station Jn
-London-North-Western-North	0905	NW5012	NSS	Route Boundary (LN3505) (North Stafford Jn) – Stoke Jn	1	40	0	00	N	N	N	N	N	H	N	
-London-North-Western-North	0905	NW5013	DJO1	Denton Jn – Change of Mileage (Site of Former Crowthorne Jn)	4	10	5	28	EH	N	N	N	N	H	N	
-London-North-Western-North	0905	NW5013	DJO2	Change of Mileage (Site of Former Crowthorne Jn) – Change of Mileage (Site of Former Ashton Moss South Jn)	0	53	1	19	EH	N	N	N	N	H	N	
-London-North-Western-North	0905	NW5013	AMJ	Change of Mileage (Site of Former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	EH	N	N	N	N	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Hadfield – Dinting East Jn	12	61	12	00	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Dinting East Jn – Dinting West Jn	12	00	11	66	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	Y	N	Y	Y	Y	H	R1	R1 Prohibited between Ashburys West Jn and connection to Ardwick Depot
-London-North-Western-North	0905	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	Y	N	Y	Y	Y	H	N	
-London-North-Western-North	0905	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	Y	N	Y	Y	Y	H	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	195	196	220	221	222	Notesoooooooooooooooooooooooo
+London-North-Western-North	0905	NW7021	MVL2	Stalybridge West Jn – Stalybridge Change of ELR	7	50	7	70	N	N	Y	N	N	Y	Y	N	Y	Y	N	
+London-North-Western-North	0905	NW7021	MVL3	Stalybridge Change of ELR – Route Boundary (LN860) (Springwood Jn)	7	70	15	11	N	N	Y	N	N	Y	Y	N	Y	Y	N	
+London-North-Western-North	0905	NW7023	BPP	Philips Park West Jn – Brewery Jn	0	00	0	18	N	N	E	Y	N	Y	Y	N	N	N	N	
+London-North-Western-North	0905	NW7025	PPA1	Philips Park West Jn – Philips Park South Jn	1	59	2	07	N	N	Y	Y	N	Y	Y	N	N	N	N	
+London-North-Western-North	0905	NW7025	PPA1	Philips Park South Jn – Change of Mileage	2	07	3	12	N	N	Y	Y	N	Y	Y	N	N	N	N	
+London-North-Western-North	0905	NW7025	PPA2	Change of Mileage – Ashburys West Jn	0	57	0	00	N	N	Y	Y	N	Y	Y	N	N	N	N	
+London-North-Western-North	0905	NW7027	PPP1	Baguley Fold Jn – Change of Mileage	2	39	2	13	N	N	Y	N	N	Y	Y	N	N	N	N	
+London-North-Western-North	0905	NW7027	PPP2	Change of Mileage – Philips Park South Jn	0	00	0	19	N	N	Y	N	N	Y	Y	N	N	N	N	
+London-North-Western-North	0905	NW8001	HXS1	Hunts Cross West Jn – Liverpool Central	6	11	0	02	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8001	HXS2	Liverpool Central – Paradise Jn	37	13	36	71	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8001	HXS2	Paradise Jn – Sandhills Jn	36	71	34	75	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8001	HXS3	Sandhills Jn – Bootle Jn	1	41	2	39	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8001	HXS3	Bootle Jn – Southport	2	39	18	35	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8003	SIL	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8005	SJO1	Sandhills Jn – Walton Jn	34	75	33	16	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8005	SJO2	Walton Jn – Ormskirk	3	20	12	13	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8007	HXS/ NMM	Bootle Jn – Change of ELR (Site of former North Mersey Jn)	2	34	3	52	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8007	NMB	Change of ELR (Site of former North Mersey Jn) – Change of ELR (Site of former Sefton Jn)	34	40	32	42	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8007	AFL	Change of ELR (Site of former Sefton Jn) – Aintree Station Jn	0	00	0	40	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8009	WJK	Walton Jn – Kirkby	33	16	29	41	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0905	NW8011	MIR1	Mann Island Jn – Mann Island Jn via Loop	0	00	2	12	N	N	N	N	N	N	N	N	N	N	N	

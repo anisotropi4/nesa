@@ -1,22 +1,23 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	196	220	221	222	Notes
-London-North-Western-North	0882	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	N	N	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC2	Rugeley North Jn – Colwich Jn	124	39	127	05	N	N	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC2	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	N	N	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC3	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	E	Y	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC4	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	Y	Y	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC4	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	Y	Y	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC6	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	Y	Y	Y	Y	N	N	Y	Y	Y	N	
-London-North-Western-North	0882	NW1001	LEC4	Heamies Bridge – Basford Hall Jn	140	00	156	16	N	Y	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC4	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	N	Y	Y	Y	N	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC5	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	N	Y	Y	Y	N	E	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	LEC5	Crewe South Jn – Crewe North Jn	157	60	158	18	N	Y	R1	Y	Y	Y	Y	Y	T	Y	R1 10mph Crewe platform 11
-London-North-Western-North	0882	NW1001	LEC5	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	N	N	Y	Y	Y	N	Y	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	N	N	Y	Y	Y	N	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ1	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	N	N	R1	Y	Y	N	N	Y	T	N	R1 Prohibited between Weaver Jn and Change of ELR (Preston Brook Tunnel)
-London-North-Western-North	0882	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	N	N	N	Y	Y	N	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ2	Acton Grange Jn – Warrington South Jn	180	24	181	76	N	N	N	Y	Y	N	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ3	Warrington South Jn – Winwick Jn	181	76	185	49	N	N	N	Y	Y	N	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ4	Winwick Jn – Golborne Jn	185	49	187	76	N	N	N	Y	Y	N	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ5	Golborne Jn – Wigan Station Jn	0	53	6	33	N	N	N	Y	Y	Y	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ5	Wigan Station Jn – Farington Curve Jn	6	33	20	08	N	N	N	Y	Y	Y	N	Y	T	N	
-London-North-Western-North	0882	NW1001	CGJ5	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	N	N	N	Y	Y	Y	N	Y	T	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
+London-North-Western-North	0882	NW3011	CRR1	Chester West Jn – Hooton South Jn	0	16	7	68	Y	Y	Y	Y	Y	Y	Y	Y	N	N	
+London-North-Western-North	0882	NW3013	HHJ	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	Y	Y	Y	Y	Y	Y	Y	Y	N	N	
+London-North-Western-North	0882	NW3013	HHJ	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	Y	Y	Y	Y	Y	Y	Y	Y	N	N	
+London-North-Western-North	0882	NW3015	LJT1	Llandudno Jn – Blaenau Ffestiniog, End of Line	0	30	27	53	Y	N	N	N	Y	Y	Y	Y	N	N	
+London-North-Western-North	0882	NW3017	LLJ	Llandudno Jn – Llandudno	0	03	3	14	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3019	GLA	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
+London-North-Western-North	0882	NW3021	FJH	Frodsham Jn – Halton Jn	1	54	0	00	Y	N	N	N	Y	Y	N	Y	Y	N	
+London-North-Western-North	0882	NW3023	EJN	Edgeley Jn – Northenden Jn	0	00	3	68	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3023	WJP1	Northenden Jn – Skelton Jn	33	52	30	12	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3023	SJD	Skelton Jn – Deansgate Jn	0	00	0	33	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3023	CDM1	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3023	CDM2	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3025	WJP1	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	N	N	N	N	N	N	N	N	N	N	Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
+London-North-Western-North	0882	NW3027	CDM1	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0882	NW3027	CDM1	Deansgate Jn – Altrincham	7	05	8	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0882	NW3029	SNJ	Sandbach North Jn – Northwich West Jn	0	00	8	64	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3031	NSN	Northwich South Jn – Northwich Station Jn	8	37	8	66	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW3033	HEG	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0882	NW3035	HWG	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0882	NW3037	HCN	Hartford CLC Jn – Hartford Jn	0	72	0	16	Y	N	N	N	Y	Y	Y	Y	Y	N	
+London-North-Western-North	0882	NW4001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	Y	Y	Y	Y	Y	Y	Y	Y	R1	N	R1 Prohibited Preston D&UGL
+London-North-Western-North	0882	NW4001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	R1	N	R1 Prohibited Preston D&UGL

@@ -1,26 +1,4 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-North	0935	NW5013	AMJ	Change of Mileage (Site of former Ashton Moss South Jn) – Ashton Moss North Jn	0	00	0	40	Y	Y	Y	N	N	N	Y	V	Y	
-London-North-Western-North	0935	NW5015	HAJ	Hadfield – Dinting East Jn	12	61	12	00	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0935	NW5015	HAJ	Dinting East Jn – Dinting West Jn	12	00	11	66	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0935	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0935	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0935	NW5015	HAJ	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW5015	HAJ	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0935	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0935	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0935	NW5021	SAJ	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6001	MVE1	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Western-North	0935	NW6003	MAJ	Castlefield Jn – Trafford Park Sidings (Limit of Electrification)	33	57	31	35	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification) – Hunts Cross	31	35	7	07	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW6003	MAJ	Hunts Cross – Hunts Cross West Jn	7	07	6	11	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0935	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	Y	Y	Y	N	N	N	Y	N	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	380	385	390	397	507	508	Notes
+London-North-Western-North	0935	NW9907	EDE	Network Rail Boundary (Warcop) – End of line	11	03	11	46	N	N	N	N	N	N	
+London-North-Western-North	0935	NW9909	NEC2	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	N	N	H R1	N	N	N	R1 Prohibited between Route Boundary (LN682) (Corby Gates) and London Road Yard
+London-North-Western-North	0935	NW9911	NGD	London Road Jn – Bog Jn (Newcastle Goods lines)	0	00	0	25	N	N	N	N	N	N	

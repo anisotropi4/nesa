@@ -1,23 +1,26 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	W7A	W8A	W9A	LG2	PG1	PG2	LSVG	Notes
-London-North-Western-North	1049	NW1021	NGJ	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW1023	HOB2	Haydock Branch Jn – End of line (former Kelbit PS)	0	00	0	53	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW1025	IMG	Bamfurlong Sidings Jn – Ince Moss Jn (Ince Moss Goods lines)	0	18	0	78	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW1027	PSR1	Preston South Jn – Preston Docks Branch ELR Change	21	39	21	47	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW1027	PSR2	Preston Docks Branch ELR Change – Network Rail Boundary (Ribble Steam Railway)	0	00	0	40	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2001	WJL1	Weaver Jn – Ditton East Jn	174	53	182	67	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2001	WJL2	Ditton East Jn – Speke East Jn	182	67	186	72	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2001	WJL3	Speke Est Jn – Edge Hill East Jn	186	72	191	75	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2001	WJL4	Edge Hill East Jn – Liverpool Lime Street	191	75	193	52	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2003	RDB	Runcorn – Network Rail Boundary (Runcorn Dock Branch)	0	02	0	69	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2005	SCR	Speke East Jn – Garston Jn	22	59	23	52	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2007	AEG	Allerton East Jn – Garston Jn	0	00	0	28	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2009	SDJ2	End of line (Latchford) – Ditton East Jn	10	06	18	55	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2011	WOA1	Walton Old Jn – Arpley Jn	0	68	0	00	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2015	DSE	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2015	DSE	Earlestown East Jn – Edge Hill	14	75	1	78	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2017	SCN	Eccles Station Jn – Weaste Branch Network Rail / MSC Boundary	0	00	0	54	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2021	EEE	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	N	N	N	N	N	N	N	
-London-North-Western-North	1049	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Western-North	1049	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	1049	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW5015	HAJ	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW5015	HAJ	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1049	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	1049	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	1049	NW5021	SAJ	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1049	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1049	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW6001	MVE1	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	Y *	R	R	Y	N	N	N	N	
+London-North-Western-North	1049	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	Y *	Y	N	N	N	N	N	N	
+London-North-Western-North	1049	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	1049	NW6003	MAJ	Castlefield Jn – Trafford Park Sidings (Limit of Electrification)	33	57	31	35	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1049	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification) – Hunts Cross	31	35	7	07	Y * R1	Y	Y	Y	N	R2	N	N	R1 * applies between Trafford Park West Jn (31m 66ch) and Hunts Cross R2 Prohibited between Trafford Park West Jn (31m 66ch) and Hunts Cross
+London-North-Western-North	1049	NW6003	MAJ	Hunts Cross – Hunts Cross West Jn	7	07	6	11	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1049	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1049	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Western-North	1049	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Western-North	1049	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1049	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss lines)	0	00	0	32	Y *	Y	Y	Y	N	N	N	N	

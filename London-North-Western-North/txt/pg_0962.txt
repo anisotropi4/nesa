@@ -6,67 +6,72 @@
 
 
      Line of
-          ELR Line of Route / Sector
-                                 oooo oooo oooo oooo RA 37/7
-                                                    43 47/2 47/4 47/7
-                                                                56 57 58  Notes
-     route    Description         M  Ch M  Ch 0000 37/9 0000 0000 0000 0000 0000 000 000
-                                                                         ooooooooooooooooooooooooooo
-                                                 0000
-     NW3005 WSJ2
-              Route Boundary (GW731) (Crewe Jn)
-                                  199 00202 60 8  Y  Y  Y  Y  Y  Y  Y  Y
-              – Route Boundary Wales / LNW
-              including ‘Up & Down’ loop Wrexham
-              General ELR WDB1
-              Route Boundary Wales / LNW –
-     NW3005 WSJ2                  202 60212 06 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Saltney Jn
-     NW3007 WDB1 Wrexham Central – Wrexham
-                                   0  16  0 68 5  R1 N  Y  R1 R1 R1 R1 R1 R1
-                                                                           Prohibited between Wrexham Central
-              Exchange Jn                                                  and Wrexham General unless
-                                                                           authorised by the Infrastructure
-                                                                           Manager's track engineer
-     NW3007 WDB1 Wrexham Exchange Jn – Change of
-                                   0  68 13 20 8  Y  N  Y  Y  Y  Y  Y  Y
-              RA at 13m 20ch (South end of
-              Hawarden Bridge)
-     NW3007 WDB1 Change of RA at 13m 20ch (South
-                                   13 20 13 33 7  Y  N  Y  Y  Y  Y  Y  Y
-              end of Hawarden Bridge) – Change of
-              ELR
-     NW3007 WDB2 Change of ELR – Route Boundary
-                                   14 15 11 00 7  Y  N  Y  Y  Y  Y  Y  Y
-            /3Wales / LNW
-     NW3007 WDB3 Route Boundary Wales / LNW
-                                   11 00  0 08 7  Y  N  Y  Y  Y  Y  Y  Y
-              Bidston Dee Jn
-              Chester North Jn – Chester South Jn
-     NW3009 CVS                    0  36  0 13 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Chester West Jn – Hooton South Jn
-     NW3011 CRR1                   0  16  7 68 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Hooton South. Jn – Ellesmere Port
-     NW3013 HHJ                    0  02  3 44 8  Y  Y  Y  Y  Y  Y  Y  Y
-              (Limit of DC Electrification)
-     NW3013 HHJ
-              Ellesmere Port (Limit of DC
-                                   3  44  8 67 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Electrification) – Helsby Jn
-              Llandudno Jn – Blaenau Ffestiniog,
-     NW3015 LJT1                   0  30 27 53 7  Y  N  Y  Y  Y  Y  Y  Y
-              End of Line
-              Llandudno Jn – Llandudno
-     NW3017 LLJ                    0  03  3 14 7  Y  Y  Y  Y  Y  Y  Y  Y
-              Gaerwen – Network Rail Boundary
-     NW3019 GLA                    0  00 17 37 6  N  N  N  N  N  N  N  N Line out of use
-                                                                         NC/G1/2008/LNW396
-              Frodsham Jn – Halton Jn
-     NW3021 FJH                    1  54  0 00 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Edgeley Jn – Northenden Jn
-     NW3023 EJN                    0  00  3 68 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Northenden Jn – Skelton Jn
-     NW3023 WJP1                   33 52 30 12 8  Y  Y  Y  Y  Y  Y  Y  Y
-              Skelton Jn – Deansgate Jn
-     NW3023 SJD                    0  00  0 33 8  Y  Y  Y  Y  Y  Y  Y  Y
-    October 2009                                     56
+          ELR Line of Route / Sector Description
+                                    oooo oooo oooo oooo RA
+                                                     08 09 20 31/1 31/4
+                                                                    33 37/0 37/5
+                                                                              Notes
+     route                           M  Ch M  Ch 0000 0000 0000 0000 31/6 0000 0000 37/3 0000 ooooooooooooooooooooooooooo
+                                                             0000      37/4
+                                                                       37/60
+              Lostock Hall Jn – Change of ELR (Site of
+     NW7009 FHR3                      1  42  2 10 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Former Bamber Bridge Jn)
+     NW7009 FHR4
+              Change of ELR (Site of Former Bamber
+                                      2  10 10 11 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Bridge Jn) – Blackburn Bolton Jn
+              Blackburn Bolton Jn – Blackburn
+     NW7009 FHR4                      10 11 10 42 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Blackburn – Daisyfield Jn
+     NW7009 FHR5                      10 42 11 09 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Daisyfield Jn – Gannow Jn
+     NW7009 FHR5                      11 09 21 03 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Gannow Jn – Hall Royd Jn
+     NW7009 FHR6                      21 03 30 54 8  Y   Y  Y  Y  Y  Y  Y  Y
+     NW7011 LHL
+              Farington Jn - Limit of Electrification
+                                      0  00  0 56 8  Y   Y  Y  Y  Y  Y  Y  Y
+     NW7011 LHL
+              Limit of Electrification - Lostock Hall Jn
+                                      0  56  0 77 8  Y   Y  Y  Y  Y  Y  Y  Y
+              (Lostock Hall Lines)
+              Daisyfield Jn – Hellifield
+     NW7013 DJH                       11 09 34 68 8  Y   Y  Y  Y  Y  Y  Y  Y
+     NW7015 PRG
+              End of Line (Padiham Power Station
+                                      1  76  0 00 7  N   N  N  N  N  N  N  N Line out of use
+              Sidings) – Rose Grove West Jn
+              Gannow Jn – Colne
+     NW7017 GJC                       21 03 27 37 8  R1 R1 R1 R1  R1 R1 R1 R1 R130mph over Bridge 91 (25m 33ch - 25m
+                                                                                34ch)
+              Thorpes Bridge Jn – Network Rail Boundary
+     NW7019 MPR2                      2  22  3 05 8  Y   Y  Y  Y  Y  Y  Y  Y
+              (Metrolink (Down Up Boundary at 2m 32ch))
+              Miles Platting – Change of ELR
+     NW7021 MVM                       1  22  1 30 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Miles Platting Jn – Philips Park West Jn
+     NW7021 MVL1                      1  30  1 59 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Philips Park West Jn – Baguley Fold Jn
+     NW7021 MVL1                      1  59  2 39 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Baguley Fold Jn – Ashton Moss North Jn
+     NW7021 MVL1                      2  39  5 41 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Ashton Moss North Jn – Stalybridge Jn
+     NW7021 MVL1                      5  41  7 46 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Stalybridge Jn – Stalybridge Tunnel Jn
+     NW7021 MVL2                      7  46  8 08 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Stalybridge Tunnel Jn – Route Boundary
+     NW7021 MVL3                      8  08 15 11 8  Y   Y  Y  Y  Y  Y  Y  Y
+              (LN860) (Springwood Jn)
+              Philips Park West Jn – Brewery Jn
+     NW7023 BPP                       0  00  0 18 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Philips Park West Jn – Philips Park South Jn
+     NW7025 PPA1                      1  59  2 07 8  Y   Y  Y  Y  Y  Y  Y  Y
+              Philips Park South Jn – Change of Mileage
+     NW7025 PPA1                      2  07  3 12 7  R1 R1 R1 R1  R1 R1 R1 R1 R1OPPOS applies over Bridge 4 (02m 20ch -
+                                                                                2m 40ch)
+              Change of Mileage – Ashburys West Jn
+     NW7025 PPA2                      0  57  0 00 7  R1 R1 R1 R1  R1 R1 R1 R1 R1OPPOS applies over Bridges 1, 4 and 8 (0m
+                                                                                00ch - 0m 60ch)
+
+    October 2009                                     47

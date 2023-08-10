@@ -1,10 +1,21 @@
-Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	1010	NW6009	Windsor Bridge North Jn. - Southport	8	R1	R2	R1 R2 Clear to W6A Ex. (W7) Crow Nest Jn. - Southport. RA8/9/10 vehicles prohibited Windsor Bridge North Jn - Crow Nest Jn. unless down-loaded to 21¼ t maximum laden axle weight. RA9/10 vehicles may run between Wigan Wallgate Jn. and Southport if special dispensation has been granted by the Territory Track Engineer.
-London-North-Western-North	1010	NW6011	Bolton East Jn. - Blackburn Bolton Jn.	8	/	R	R ELR: BBB Br.47: RA9/10 vehicles restricted to 10mph over the bridge (20m 50ch).
-London-North-Western-North	1010	NW6013	Lostock Jn. - Crow Nest Jn.	8	W6A Ex. (W7)	Y	
-London-North-Western-North	1010	NW6015	Wigan Wallgate – Kirkby	7	/	Y	
-London-North-Western-North	1010	NW7001	Manchester Victoria West Jn. - Hebden Bridge	8	R1	R2	R1 R2 SB1C (W9) Manchester Victoria West Jn. - Miles Platting Jn. W6A Ex. (W7) Miles Platting Jn. - Hebden Bridge. RA9/10 vehicles restricted to 20mph between Brewery Jn. and Thorpes Bridge Jn. on the Down Passenger Loop. ELR: MVN2, Br.105: RA9/10 vehicles are restricted to 20mph over the bridge (19m 00ch - 19m 40ch).
-London-North-Western-North	1010	NW7005	Castleton East Jn. - Hopwood G.F.	8	/	Y	
-London-North-Western-North	1010	NW7007	Farington Curve Jn. - Ormskirk	8	/	R	R Freight vehicles may only be permitted subject to special dispensation being granted by the Territory Structures Assessment Engineer.
-London-North-Western-North	1010	NW7009	Farington Curve Jn. - Hall Royd Jn.(East Lancs lines)	8	R1	R2	R1 R2 W6A Ex. (W7) Farington Curve Jn. - Daisyfield. ELR: FHR4, Br.15: RA9/10 vehicles restricted to 50mph over the bridge, Pleasington Viaduct (7m 64ch to 7m 78ch) in both directions. ELR: FHR4, Br.27: RA9/10 vehicles restricted to 30mph over the bridge (10m 16ch - 10m 27ch). ELR: FHR4, Br.29: RA9/10 vehicles restricted to 20mph over the bridge on the ‘Up & Down’ Through line and the Down Main line (10m 40ch - 10m 60ch). ELR: FHR6, Br.10: RA9/10 vehicles restricted to 20mph over the bridge (28m 60ch - 29m 00ch).
-London-North-Western-North	1010	NW7011	Farington Jn. - Lostock Hall Jn. (Lostock Hall Lines)	8	W6A Ex. (W7)	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	1010	NW9005	CNB2	Change of Mileage (Site of Former Peak Forest Jn) – Change of Mileage (Site of Former Buxton Jn)	0	00	0	28	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9005	CNB3	Change of Mileage (Site of Former Buxton Jn) – Buxton SB	161	15	164	52	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9005	CNB4	Buxton SB – Buxton Sidings	164	52	165	12	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9007	TTA1	New Mills South Jn – Marple Wharf Jn	172	17	177	23	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9007	TTA1	Marple Wharf Jn – Romiley Jn	177	23	178	33	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9007	TTA1	Romiley Jn – Brinnington (Change of Mileage)	178	33	181	00	7	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9007	TTA2	Brinnington (Change of Mileage) – Ashburys East Jn	42	77	46	24	7	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9009	MRH	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9011	RYH1	Romiley Jn – Woodley Jn	178	33	179	44	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9011	RYH2	Woodley Jn – Hyde Jn	8	74	6	16	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9013	WJP1	Woodley Jn – Bredbury Sidings	40	53	39	58	7	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9017	NMC1/ 2	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9017	WJP1	Cheadle Jn – Northenden Jn	35	64	33	52	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9019	BUX	Buxton – Brigg’s Sidings	0	00	4	70	8	N	N	Y	N	N	N	
+London-North-Western-North	1010	NW9021	BEJ	Buxton – Hazel Grove East Jn	19	09	2	35	8	N	N	R1	N	N	N	R1 Prohibited Chapel-en-le-Frith - Dove Holes on the Down & Up
+London-North-Western-North	1010	NW9901	SKW1	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	8	H R1	H R1	Y	H R1	N	N	R1 Prohibited between Route Boundary (LN922) (Gargrave) and Hellifield
+London-North-Western-North	1010	NW9901	SAC	Settle Jn – Petteril Bridge Jn	234	44	307	12	8	H R1 R2 R3 R4 R5	H R1 R2 R3 R4 R5	Y	H R1 R2 R3 R4 R5	N	N	R1 10mph Down OB64 (246m 60ch - 247m 00ch) R2 15mph Up OB106 (255m 60ch - 255m 40ch) R3 15mph Down OB280 (286m 60ch - 287m 00ch) R4 15mph Down OB328 (299m 60ch - 300m 00ch) R5 15mph Down OB346 (304m 00ch - 304m 20ch)
+London-North-Western-North	1010	NW9901	NEC2	Petteril Bridge Jn – London Road Jn	59	26	59	45	8	H	H	Y	H	H	H	
+London-North-Western-North	1010	NW9901	NEC2	London Road Jn – Carlisle South Jn	59	45	60	02	8	H	H	Y	H	H	H	
+London-North-Western-North	1010	NW9903	SKW1	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	8	H	H	Y	H	N	N	

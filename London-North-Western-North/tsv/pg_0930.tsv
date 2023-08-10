@@ -1,21 +1,24 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-North	0930	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	Y	Y	Y	Y	N	Y	Y	N	N	
-London-North-Western-North	0930	NW3005	WSJ2	Route Boundary Wales / LNW – Saltney Jn	202	60	212	06	Y	Y	Y	Y	N	Y	Y	N	N	
-London-North-Western-North	0930	NW3007	WDB1	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0930	NW3007	WDB1	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0930	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0930	NW3007	WDB2 /3	Change of ELR – Route Boundary Wales / LNW	14	15	11	00	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0930	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0930	NW3009	CVS	Chester North Jn – Chester South Jn	0	36	0	13	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3011	CRR1	Chester West Jn – Hooton South Jn	0	16	7	68	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3013	HHJ	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3013	HHJ	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3015	LJT1	Llandudno Jn – Blaenau Ffestiniog, End of line	0	30	27	53	Y	Y	N	N	N	N	N	N	N	
-London-North-Western-North	0930	NW3017	LLJ	Llandudno Jn – Llandudno	0	03	3	14	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3019	GLA	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396
-London-North-Western-North	0930	NW3021	FJH	Frodsham Jn – Halton Jn	1	54	0	00	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3023	EJN	Edgeley Jn – Northenden Jn	0	00	3	68	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3023	WJP1	Northenden Jn – Skelton Jn	33	52	30	12	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3023	SJD	Skelton Jn – Deansgate Jn	0	00	0	33	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3023	CDM1	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Western-North	0930	NW3023	CDM2	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	Y	Y	Y	N	N	N	Y	R1	N	R1 Permitted Northwich West Jn – Hartford CLC Jn only
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	380	385	390	397	507	508	Notes
+London-North-Western-North	0930	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	N	N	R1	Y	N	N	R1 20mph on Down and Up lines
+London-North-Western-North	0930	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6001	MVE1	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6003	MAJ	Castlefield Jn – Trafford Park Sidings (Limit of Electrification)	33	57	31	35	N	N	H	N	N	N	
+London-North-Western-North	0930	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification) – Hunts Cross	31	35	7	07	N	N	H	N	N	N	
+London-North-Western-North	0930	NW6003	MAJ	Hunts Cross – Hunts Cross West Jn	7	07	6	11	N	N	H R1	N	R2	R2	R1 Prohibited Hunts Cross Up & Down Electric line R2 Permitted via Up & Down Electric
+London-North-Western-North	0930	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	N	N	H	E	N	N	
+London-North-Western-North	0930	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	Y	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	Y	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	N	N	H	E	N	N	
+London-North-Western-North	0930	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss lines)	0	00	0	32	N	N	H	Y	N	N	
+London-North-Western-North	0930	NW6005	MVE1	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	N	N	Y	Y	N	N	
+London-North-Western-North	0930	NW6007	DSE	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	N	N	H	Y	N	N	
+London-North-Western-North	0930	NW6009	WBS1	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	N	N	N	N	N	N	
+London-North-Western-North	0930	NW6009	WBS2	Crow Nest Jn – Wigan Station Jn	14	64	17	44	N	N	H	N	N	N	
+London-North-Western-North	0930	NW6009	WBS2	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	N	N	N	N	N	N	
+London-North-Western-North	0930	NW6009	WBS3	Wigan Wallgate Jn – Southport	18	04	35	27	N	N	N	N	N	N	
+London-North-Western-North	0930	NW6011	BBB	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	N	N	H	R1	N	N	R1 Prohibited between Limit of Electrification and Blackburn Bolton Jn
+London-North-Western-North	0930	NW6013	LCN	Lostock Jn – Crow Nest Jn	13	39	17	18	N	N	H	N	N	N	

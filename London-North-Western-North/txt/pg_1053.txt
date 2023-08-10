@@ -2,65 +2,60 @@
 
 
                                        LNW North Route Sectional Appendix Module NWRC
-              End of line Buffer Stops – Network Rail
-     NW4027 ETC                    96  6 95 6  N    N  N   N  N    N   N
-              Boundary / Brunthill via Down and Up
-              Brunthill line
-              Mossband Jn – Network Rail Boundary
-     NW4029 GJH                     3 02 0  24 N    N  N   N  N    N   N
-              Gretna Jn – Route Boundary (SC031)
-     NW4031 GSW                    11613 11540 N    N  N   N  N    N   N
-              Carnforth North Jn – Carnforth Station
-     NW4033 CBC1                    0 19 0  38 N    N  N   N  N    N   N
-              Jn
-              Carnforth Station Jn – Limit of
-     NW4033 CBC1                    0 38 0  60 N    N  N   N  N    N   N
-              Electrification (Carnforth)
-              Limit of Electrification (Carnforth) –
-     NW4033 CBC1                    0 60 74 66 N    N  N   N  N    N   N
-              Whitehaven
-              Whitehaven – Bransty SB (Change of
-     NW4033 CBC1                   74 66 74 73 N    N  N   N  N    N   N
-              ELR)
-              Bransty SB (Change of ELR) – Change
-     NW4033 CBC2                    0 16 12 05 N    N  N   N  N    N   N
-              of ELR (Maryport)
-              Change of ELR (Maryport) – Carlisle
-     NW4033 CBC3                    0 00 27 49 N    N  N   N  N    N   N
-              South Jn
-              Dalton Jn – Park South Jn
-     NW4041 DAP                     0 00 0  76 N    N  N   N  N    N   N
-              Crewe North Jn – Sandbach North Jn
-     NW5001 CMP1                   15817 16262 N    N  N   N  N    N   N
-              Sandbach North Jn – Wilmslow South
-     NW5001 CMP1                   16262 17653 N    N  N   N  N    N   N
-              Jn
-              Wilmslow South Jn – Cheadle Hulme
-     NW5001 CMP1                   17653 18067 N    N  N   N  N    N   N
-              North Jn
-              Cheadle Hulme North Jn – Edgeley Jn
-     NW5001 CMP1                   18067 18236 N    N  N   N  N    N   N
-              No.1
-              Edgeley Jn No.1 – Edgeley Jn
-     NW5001 CMP2                   18236 18259 N    N  N   N  N    N   N
-              Edgeley Jn – Slade Lane Jn
-     NW5001 CMP2                   18259 18646 N    N  N   N  N    N   N
-              Slade Lane Jn – Ardwick Jn
-     NW5001 CMP2                   18646 18808 N    N  N   N  N    N   N
-              Ardwick Jn – Manchester Piccadilly East 188
-     NW5001 CMP2                      08 18848 N    N  N   N  N    N   N
-              Jn
-              Manchester Piccadilly East Jn –
-     NW5001 CMP2                   18848 18870 N    N  N   N  N    N   N
-              Manchester Piccadilly
-              Wilmslow South Jn – Heald Green
-     NW5003 STY                     0 00 2  50 N    N  N   N  N    N   N
-              South Jn
-              Heald Green South Jn – Heald Green
-     NW5003 STY                     2 50 3  13 N    N  N   N  N    N   N
-              North Jn
+
+     Line of
+          ELR Line of Route / Sector Description              Gauge             Notes
+     route
+                                                 W6A W7 W8  W9 W9Plus W10 W10A W12
+                                    M  Ch  M  Ch
+     NW8017                                       –  –
+          CCS1/2 Network Rail Boundary (Canning Street
+                                    15  40 13 30         –   –   –    –  –   – Line Out of Use
+              North) – Rock Ferry South Jn
+     NW9001MAS Route Boundary (LN808) (Dore West Jn)
+                                    154 20174 01 Y*  S1  N   N   N    N  N   N S1 The following traffic and
+              – Chinley North Jn                 S1                               combinations only are permitted:
+
+                                                                                  Up to 2438(h) x 2438(w)
+                                                                                  on FIA, IFA, FEA, FRA, KFA wagons
+     NW9001TTA1 Chinley North Jn – New Mills South Jn
+                                    168 39172 27 Y*  S1  N   N   N    N  N   N S1 The following traffic and
+                                                 S1                               combinations only are permitted:
+
+                                                                                  Up to 2438(h) x 2438(w)
+                                                                                  on FIA, IFA, FEA, FRA, KFA wagons
+          NMC1 New Mills South Jn – Hazel Grove High
+     NW9001                         172 27177 40 Y*  Y   N   N   N    N  N   N
+              Level Jn
+          HGC Hazel Grove High Level Jn – Hazel
+     NW9001                          2  62  2 35 Y*  Y   Y   N   N    N  N   N
+              Grove East Jn
+     NW9001BEJHazel Grove East Jn (Limit of
+                                     2  35  0 00  Y  Y   Y   N   N    N  N   N
+              electrification) – Edgeley Jn No.1
+          CYC Chinley East Jn – Chinley South Jn
+     NW9003                         168 32167 56  Y  Y   N   N   N    N  N   N
+              (Chord line)
+          CNB1 Chinley North Jn – Chinley South Jn
+     NW9005                         168 39167 56 Y*  S1  N   N   N    N  N   N S1 The following traffic only is permitted:
+
+                                                                                  Up to 2438(h) x 2438(w)
+                                                                                  on FIA, IFA, FEA, FRA, KFA wagons
+     NW9005CNB1 Chinley South Jn – Change of Mileage
+                                    167 56161 05 Y*  S1  N   N   N    N  N   N S1 The following traffic only is permitted:
+               (Site of Former Peak Forest Jn)
+                                                                                  Up to 2438(h) x 2438(w)
+                                                                                  on FIA, IFA, FEA, FRA, KFA wagons
+     NW9005CNB2 Change of Mileage (Site of Former Peak
+                                     0  00  0 28 Y*  S1  N   N   N    N  N   N S1 The following traffic only is permitted:
+               Forest Jn) – Change of Mileage (Site of
+               Former Buxton Jn)                                                  Up to 2438(h) x 2438(w)
+                                                                                  on FIA, IFA, FEA, FRA, KFA wagons
+     NW9005CNB3 Change of Mileage (Site of Former
+                                    161 15164 52  Y  N   N   N   N    N  N   N
+               Buxton Jn) – Buxton SB
 
 
 
 
-    54                                              118
+                                                    109

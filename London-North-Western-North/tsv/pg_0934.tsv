@@ -1,20 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5A	Notes
-London-North-Western-North	0934	NW5007	MIA	Manchester Airport – Heald Green North Jn	0	00	1	51	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0934	NW5008	LEC6	Little Bridgeford Jn – Searchlight Lane Jn (Change of ELR and mileage) (Up line only)	137	42	138	55	Y	Y	Y	Y	Y	N	N	N	Y	
-London-North-Western-North	0934	NW5008	NBS	Searchlight Lane Jn (Change of ELR and mileage) – Stone Jn	4	06	0	00	Y	Y	Y	Y	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5008	NBS1	Norton Bridge Jn – Yamfield Jn (Norton Bridge East Chord)	4	14	2	50	Y	Y	Y	Y	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5009	CMD2	Colwich Jn – Stone Jn	38	61	27	00	Y	Y	Y	N	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5009	CMD2	Stone Jn – Stoke Jn	27	00	20	36	Y	Y	Y	N	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5009	CMD2	Stoke Jn – Glebe Street Jn	20	36	20	10	Y	Y	Y	N	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5009	CMD2	Glebe Street Jn – Change of ELR	20	10	15	65	Y	Y	Y	N	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5009	CMD1	Change of ELR – Kidsgrove Jn	16	00	13	68	Y	Y	Y	N	Y	N	N	Y	N	
-London-North-Western-North	0934	NW5009	CMD1	Kidsgrove Jn – Macclesfield Hibel Road (Change of ELR)	13	68	0	00	Y	Y	Y	N	Y	N	R1	Y	N	R1 Prohibited between Kidsgrove Jn and Macclesfield
-London-North-Western-North	0934	NW5009	MCH	Macclesfield Hibel Road (Change of ELR) – Cheadle Hulme North Jn	9	37	0	00	Y	Y	Y	N	Y	N	Y	Y	N	
-London-North-Western-North	0934	NW5010	SCQ1	Glebe Street Jn – Change of Mileage	20	08	20	33	N	N	N	N	N	N	N	N	N	Line out of use
-London-North-Western-North	0934	NW5010	SCQ1	Change of Mileage – Change of Mileage (Site of former Milton Jn)	0	00	3	51	N	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
-London-North-Western-North	0934	NW5010	SCQ2	Change of Mileage (Site of former Milton Jn) – Change of Mileage (Site of former Leek Brook Jn)	0	00	6	65	N	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
-London-North-Western-North	0934	NW5010	SCQ3	Change of Mileage (Site of former Leek Brook Jn) – Caldon Quarry	0	00	8	01	N	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
-London-North-Western-North	0934	NW5011	HNS	Heaton Norris Jn – Guide Bridge Station Jn	0	00	4	73	Y	Y	Y	N	N	N	Y	N	R1	R1 Prohibited between Heaton Norris Jn and Romiley lines intersection (02m 30ch)
-London-North-Western-North	0934	NW5012	NSS	Route Boundary (LN3505) (North Stafford Jn) – Stoke Jn	1	40	0	00	Y	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	0934	NW5013	DJO1	Denton Jn – Change of Mileage (Site of former Crowthorne Jn)	4	10	5	28	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Western-North	0934	NW5013	DJO2	Change of Mileage (Site of former Crowthorne Jn) – Change of Mileage (Site of former Ashton Moss South Jn)	0	53	1	19	Y	Y	Y	N	N	N	Y	N	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	380	385	390	397	507	508	Notes
+London-North-Western-North	0934	NW9005	CNB1	Chinley South Jn – Change of Mileage (Site of former Peak Forest Jn)	167	56	161	05	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9005	CNB2	Change of Mileage (Site of former Peak Forest Jn) – Change of Mileage (Site of former Buxton Jn)	0	00	0	28	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9005	CNB3	Change of Mileage (Site of former Buxton Jn) – Buxton SB	161	15	164	52	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9005	CNB4	Buxton SB – Buxton Sidings	164	52	165	12	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9007	TTA1	New Mills South Jn – Marple Wharf Jn	172	17	177	23	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9007	TTA1	Marple Wharf Jn – Romiley Jn	177	23	178	33	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9007	TTA1	Romiley Jn – Brinnington (Change of Mileage)	178	33	181	00	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9007	TTA2	Brinnington (Change of Mileage) – Ashburys East Jn	42	77	46	24	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9009	MRH	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9011	RYH1	Romiley Jn – Woodley Jn	178	33	179	44	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9011	RYH2	Woodley Jn – Hyde Jn	8	74	6	16	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9013	WJP1	Woodley Jn – Bredbury Sidings	40	53	39	58	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9017	NMC1/ 2	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9017	WJP1	Cheadle Jn – Northenden Jn	35	64	33	52	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9019	BUX	Buxton – Brigg’s Sidings	0	00	4	70	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9021	BEJ	Buxton – Hazel Grove East Jn	19	09	2	35	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9901	SKW1	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	N	N	H R1	N	N	N	R1 Prohibited between Route Boundary (LN922) (Gargrave) and Hellifield
+London-North-Western-North	0934	NW9901	SAC	Settle Jn – Petteril Bridge Jn	234	44	307	12	N	N	H R1	N	N	N	R1 20mph under Bridge 349 Up Main Line (305m 00ch to 305m 20ch)
+London-North-Western-North	0934	NW9901	NEC2	Petteril Bridge Jn – London Road Jn	59	26	59	45	N	N	H	N	N	N	
+London-North-Western-North	0934	NW9901	NEC2	London Road Jn – Carlisle South Jn	59	45	60	02	N	N	H	N	N	N	
+London-North-Western-North	0934	NW9903	SKW1	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9903	SJC	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	N	N	N	N	N	N	
+London-North-Western-North	0934	NW9907	WAR	Appleby North Jn – Appleby West Jn	277	27	277	56	N	N	N	N	N	N	

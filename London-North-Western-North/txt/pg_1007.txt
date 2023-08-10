@@ -5,65 +5,93 @@
 
 
 
-     Line of Line of Route / Sector
-                               RA   Gauge of Route
-                                                 Heavy AxleNotes
-     Route   Description                        Weight Vehicles
-     NW3021  Frodsham Jn. - Halton Jn.
-                               8    W6A Ex. (W7)    Y
-     NW3023  Edgeley Jn. No.2 - Mickle
-                               8       R1           Y     R1 Route clear to W6A Ex. (W7) Northenden - Mickle Trafford
-             Trafford
+     Line of
+          ELR Line of Route / Sector Description
+                                    oooo oooo oooo oooo RA
+                                                    86  87 88 90  91 92  Notes
+     route                           M  Ch M  Ch 000000 000   000 000000ooooooooooooooooooooooooooo
 
-     NW3025  Skelton Jn. – Partington (Out of
-                               -        /           -
-             use beyond Sidnal DJ7)
-     NW3027  Timperley – Altrincham
-                               8        /           Y
-             (Metrolink Lines)
-     NW3029  Sandbach North. Jn. - Northwich
-                               8    W6A Ex. (W7)    Y
-             West Jn.
-     NW3031  Northwich South Jn. - Northwich
-                               8    W6A Ex. (W7)    Y
-             Station Jn
-     NW3033  Hartford East Jn. - Hartford
-                               8    W6A Ex. (W7)    Y
-             North Jn. (East Goods line)
-     NW3035  Hartford West Jn. - Hartford
-                               8    W6A Ex. (W7)    Y
-             North Jn. (West Goods line)
-     NW3037  Hartford C.L.C. Jn. - Hartford Jn.
-                               8    W6A Ex. (W7)    Y
-     NW4001  Preston Ribble Jn. - Cove L.C.
-                               8     SB1C (W9)      Y
-     NW4003  Preston Fylde Jn. - Deepdale
-                               -        /           -
-             Jn. (Out of use)
-     NW4005  Preston Fylde Jn. - Blackpool
-                               8        /           R      R RA9/10 loaded freight vehicles may also be permitted between Carleton
-             North                                           Crossing signal box and Blackpool North station if special dispensation has
-                                                             been granted by the Territory Track Engineer.
-     NW4007  Kirkham North Jn - Blackpool
-                               8        /           --
-             South
-     NW4009  Poulton - Burn Naze (Out of use
-                               8        /           Y
-             beyond 14m 75ch)
-     NW4011  Morecambe South Jn. -
-                               8    W6A Ex. (W8)    Y
-             Morecambe
-     NW4013  Hest Bank - Bare Lane
-                               8    W6A Ex. (W8)    Y
-     NW4017  Morecambe Jn. - Heysham Port
-                               8    W6A Ex. (W8)    Y
-     NW4019  Oxenholme - Windermere
-                               8        /           --
-     NW4021  Upperby Jn. - Rome St. Jn.
-                               8        /           Y
-     NW4023  Upperby Jn. - London Rd. Jn.
-                               8    W6A Ex. (W7)    Y
-     NW4025  Currock Jn. - Bog Jn.
-                               8        /           Y
+              Lostock Jn – Crow Nest Jn
+     NW6013 LCN                      13 39 17 18  8  H  H   Y  H  N   N
+              Wigan Wallgate Jn – Change of Mileage
+     NW6015 WKL1                     18 04 19 48  7  N  N   Y  N  N   N
+              (Pemberton)
+              Change of Mileage (Pemberton) – Kirkby
+     NW6015 WKL2                     19 09 29 40  7  N  N   Y  N  N   N
+     NW7001 MVM
+              Manchester Victoria East Jn (Man Vic
+                                      0 09  1 30  8  H  H   Y  H  N   N
+              West Jn – East Jn on NW6005) – Miles
+              Platting Jn
+     NW7001
+          MPR1Miles Platting Jn – Brewery Jn
+                                      1 30  1 52  8  N  N   Y  N  N   N
+     NW7001
+          MPR1Brewery Jn –Thorpes Bridge Jn
+                                      1 52  2 17  8  N  N   Y  N  N   N
+     NW7001
+          MVN2Thorpes Bridge Jn – Castleton South Jn
+                                      2 17  8 21  8  N  N   Y  N  N   N
+     NW7001
+          MVN2Castleton South Jn – Castleton East Jn
+                                      8 21  8 52  8  N  N   Y  N  N   N
+     NW7001
+          MVN2Castleton East Jn – Hall Royd Jn
+                                      8 52 19 61  8  N  N   Y  N  N   N
+     NW7001
+          MVN2Hall Royd Jn – Route Boundary (LN854)
+                                     19 61 22 62  8  H  H   Y  H  N   N
+              (Turners Lane Jn)
+              Castleton East Jn – Castleton North Jn
+     NW7005 CEH                       0 00  0 37  8  N  N   Y  N  N   N
+              Castleton South Jn – Castleton North Jn
+     NW7005 CPI1                      8 21  8 50  8  N  N   Y  N  N   N
+              Castleton North Jn – Network Rail / East
+     NW7005 CPI2                      8 50  9 04  8  N  N   Y  N  N   N
+              Lancashire Railway Boundary (Hopwood)
+     NW7006
+          SFO Todmorden Viaduct Jn – Stansfield Hall Jn
+                                      0  0  0 18  8  N  N   Y  N  N   N
+     NW7007
+          FCO Farington Curve Jn – Ormskirk
+                                     25 64 12 15  8  N  N   Y  N  N   N
+     NW7009
+          FHR1Farington Curve Jn - Lostock Hall Depot
+                                      0 00  0 75  8  H  H   Y  H  N   N
+     NW7009
+          FHR2Lostock Hall Depot – Lostock Hall Jn
+                                      0 75  1 42  8  H  H   Y  H  N   N
+     NW7009
+          FHR3Lostock Hall Jn – Change of ELR (Site of
+                                      1 42  2 10  8  H  H   Y  H  N   N
+              Former Bamber Bridge Jn)
+     NW7009 FHR4
+              Change of ELR (Site of Former Bamber
+                                      2 10 10 11  8  H  H   Y  H  N   N
+              Bridge Jn) – Blackburn Bolton Jn
+     NW7009
+          FHR4Blackburn Bolton Jn – Blackburn
+                                     10 11 10 42  8  H  H   Y  H  N   N
+     NW7009
+          FHR5Blackburn – Daisyfield Jn
+                                     10 42 11 09  8  H  H   Y  H  N   N
+     NW7009
+          FHR5Daisyfield Jn – Gannow Jn
+                                     11 09 21 03  8  H  H   Y  H  N   N
+     NW7009
+          FHR6Gannow Jn – Hall Royd Jn
+                                     21 03 30 54  8  H  H   Y  H  N   N
+     NW7011
+          LHL Farington Jn - Limit of electrification
+                                      0 00  0 56  8  H  H   Y  H  N   N
+     NW7011
+          LHL Limit of electrification - Lostock Hall Jn
+                                      0 56  0 77  8  H  H   Y  H  N   N
+              (Lostock Hall Lines)
+              Daisyfield Jn – Hellifield
+     NW7013 DJH                      11 09 34 68  8  H  H   Y  H  N   N
 
-                                                     73
+
+
+
+    October 2009                                    68H

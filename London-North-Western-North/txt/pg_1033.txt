@@ -2,66 +2,101 @@
 
 
                                        LNW North Route Sectional Appendix Module NWRC
-     Line of
-          ELR Line of Route / Sector Description              Gauge             Notes
-     route
-                                                 W6A W7 W8  W9 W9Plus W10 W10A
-                                                                            W12
-                                    M  Ch  M  Ch
-     NW2009SDJ2 End of line (Latchford) – Ditton East Jn
-                                    10  06 18 55 Y*  Y   Y   Y   N   Y   N   N
-          WOA1 Walton Old Jn – Arpley Jn
-     NW2011                          0  68  0 00  Y  Y   Y   Y   N   Y   N   N
-     NW2015DSEOrdsall Lane Jn – Newton-le-Willows Jn
-                                    30  38 16 19 Y*  Y   Y   Y   Y   Y   Y   Y
-     NW2015DSENewton-le-Willows Jn – Earlestown East
-                                    16  19 14 75 Y*  Y   Y   Y   N   Y   N   N
-              Jn (Electrified section)
-     NW2015DSEEarlestown East Jn – Edge Hill
-                                    14  75  1 78 Y*  Y   Y   Y   N   Y   R2  N R1 * applies between between
-                                                 R1                               Bootle Branch Jn (1m 78ch) and
-                                                                                  Edge Hill
-                                                                               R2 * Permitted Edge Hill to Huyton
-                                                                                  Jn only
-     NW2017SCN Eccles Station Jn – Weaste Branch
-                                     0  00  0 54  Y  N   N   N   N   N   N   N
-              Network Rail / MSC Boundary
-     NW2019PJLParkside Jn – Lowton Jn (East Curve
-                                     0  05  0 36  Y  Y   Y   Y   Y   Y   Y   Y
-              lines)
-     NW2021EEEEarlestown South Jn – Earlestown West
-                                    186 74187 15  Y  Y   Y   Y   N   N   N   N
-              Jn (Liverpool Curve)
-     NW2023SBH3 Springs Branch Jn – Gerards Bridge Jn
-                                    12  54  5 66 Y*  Y   Y   N   N   Y   Y   N
-     NW2023SBH2 Gerards Bridge Jn – St Helens Station
-                                     5  66  5 12 Y*  Y   Y   N   N   Y   Y   N
-               Jn
-     NW2023SBH1 St Helens Station Jn – Huyton Jn
-                                     5  12  0 -18Y*  Y   Y   N   N   Y   Y   N
-     NW2025SHS1 St Helens Station Jn – Sutton Oak
-                                     7  15  6 04  Y  N   N   N   N   N   N   N
-               Network Rail Boundary
-          SCT1/2 Edge Hill, Bootle Branch Jn –Network
-     NW2027                          0  15  5 53 Y*  Y   Y   Y   N   Y   N   N
-              Rail Boundary (MDHC)
-          OME3 Olive Mount Jn – Edge Lane Jn
-     NW2029                          0  10  0 52  Y  Y   Y   Y   N   Y   N   N
-     NW3001CNH1 Crewe North Jn – Limit of Electrification
-                                    158 18159 41 Y*  Y   Y   N   N   N   N   N
-               (Crewe Steelworks)
-     NW3001CNH1 Limit of Electrification (Crewe
-                                    159 41178 66  Y  N   N   N   N   N   N   N
-               Steelworks) – Chester East Jn
-     NW3001CNH2 Chester East Jn – Change of ELR
-                                    178 66179 56 Y*  Y   Y   N   N   N   N   N
-               (Chester Windmill Lane Tunnel)
-     NW3001CNH3 Change of ELR (Chester Windmill Lane
-                                    179 56188 40 Y*  Y   Y   N   N   N   N   N
-               Tunnel) – Route Boundary LNW / Wales
-               (Rockcliffe Hall)
-     NW3001CNH3 Route Boundary LNW / Wales
-                                    188 40263 56 Y*  N   N   N   N   N   N   N
-               (Rockcliffe Hall) – Holyhead
 
-                                                    99A
+
+
+     Line of
+          ELR Line of Route / Sector
+                                  oo  oo oo oo RA Loco Gauge
+                                                           Notes
+     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
+                                  M   Ch M  Ch
+              Ordsall Lane Jn – Windsor Bridge
+     NW6001 OLW                   190 28 19101  8    Y
+              South Jn
+     NW6001
+          MVE1Windsor Bridge South Jn – Windsor
+                                    1 55  1 66  8    Y
+              Bridge North Jn
+     NW6001
+          MVE1Windsor Bridge North Jn – Bolton
+                                    1 66 10 55  8    Y
+              West Jn
+     NW6001
+          MVE2Bolton West Jn – Lostock Jn
+                                   10 55 13 39  8    Y
+     NW6001
+          MVE2Lostock Jn – Euxton Jn
+                                   13 39 25 31  8    Y
+     NW6003
+          MAJ Castlefield Jn – Trafford Park Sidings
+                                   33 57 31 35  8    Y
+              (Limit of Electrification)
+     NW6003
+          MAJ Trafford Park Sidings (Limit of
+                                   31 35  7 07  7    Y
+              Electrification) – Hunts Cross
+     NW6003
+          MAJ Hunts Cross – Hunts Cross West Jn
+                                    7 07  6 11 7     Y
+     NW6003
+          AHX Hunts Cross West Jn – Allerton Jn
+                                    0 37  0 00 7     Y
+     NW6004
+          OCD Water Street Jn – Irwell Street Jn
+                                  190 05 19034 10    Y
+              (Change of Mileage and ELR)
+     NW6004
+          DSE Irwell Street Jn (Change of Mileage
+                                   30 64 31 18 10    Y
+              and ELR) – Deal Street Jn (Ordsall
+              Curve lines)
+     NW6005
+          MVM Manchester Victoria East Jn –
+                                    0 09  0 00  8    Y
+              Manchester Victoria
+     NW6005
+          MVE1Manchester Victoria – Deal Street Jn
+                                    0 00  0 32  8    Y
+              (Chat Moss Lines)
+     NW6005
+          MVE1Deal Street Jn – Windsor Bridge South
+                                    0 32  1 55  8    Y
+              Jn
+     NW6007
+          DSE Deal Street Jn – Ordsall Lane Jn
+                                   31 18 30 38  8    Y
+     NW6009
+          WBS1Windsor Bridge North Jn – Crow Nest
+                                    1 66 14 64  8    R1   R1Prohibited between Windsor Bridge North Jn and Swinton on the
+              Jn                                     R2     Down Atherton line
+                                                          R2Prohibited between Moorside and Walkden on the Down Atherton
+                                                            line
+     NW6009
+          WBS2Crow Nest Jn – Wigan Station Jn
+                                   14 64 17 44  8    Y
+     NW6009
+          WBS2Wigan Station Jn – Wigan Wallgate Jn
+                                   17 44 18 04  8    Y
+     NW6009
+          WBS3Wigan Wallgate Jn – Southport
+                                   18 04 35 27  8    Y
+     NW6011
+          BBB Bolton East Jn – Blackburn Bolton Jn
+                                   10 31 24 08  8    R1   R1Prohibited Bolton platform 1 (Down Darwen line)
+     NW6013
+          LCN Lostock Jn – Crow Nest Jn
+                                   13 39 17 18  8    Y
+     NW6015
+          WKL1Wigan Wallgate Jn – Change of
+                                   18 04 19 48  7    Y
+              Mileage (Pemberton)
+              Change of Mileage (Pemberton) –
+     NW6015 WKL2                   19 09 29 40  7    Y
+              Kirkby
+     NW7001 MVM
+              Manchester Victoria East Jn (Man Vic
+                                    0 09  1 30  8    Y
+              West Jn – East Jn on NW6005) –
+              Miles Platting Jn
+                                                     90

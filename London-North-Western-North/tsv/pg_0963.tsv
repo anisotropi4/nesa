@@ -1,24 +1,17 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
-London-North-Western-North	0963	NW3023	CDM1	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW3023	CDM2	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW3025	WJP1	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	7	R1	N	R1	R1	R1	R1	R1	R1	R1 Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
-London-North-Western-North	0963	NW3027	CDM1	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	8	N	N	N	N	N	N	N	N	
-London-North-Western-North	0963	NW3027	CDM1	Deansgate Jn – Altrincham	7	05	8	00	8	N	N	N	N	N	N	N	N	
-London-North-Western-North	0963	NW3029	SNJ	Sandbach North Jn – Northwich West Jn	0	00	8	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW3031	NSN	Northwich South Jn – Northwich Station Jn	8	37	8	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW3033	HEG	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	8	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW3035	HWG	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	8	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW3037	HCN	Hartford CLC Jn – Hartford Jn	0	72	0	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ6	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ6	Preston Fylde Jn – Lancaster	0	33	20	78	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ7	Lancaster – Carnforth North Jn	0	00	6	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ7	Carnforth North Jn – Oxenholme	6	08	19	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ7	Oxenholme – Upperby Jn	19	11	68	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	CGJ7	Upperby Jn – Carlisle	68	23	69	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	WCM1	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	WCM1	Mossband Jn – Gretna Jn	7	57	8	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	WCM1	Gretna Jn – Route Boundary (SC001) (Gretna Green)	8	57	12	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4001	UCJ	Upperby Bridge Jn – Upperby Bridge	67	58	68	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0963	NW4003	PDB	Preston Fylde Jn – End of line	0	00	1	59	8	N	N	N	N	N	N	N	N	Line out of use
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	08	09	20	31/1 31/6	31/4	33	37/0 37/3 37/4 37/6	37/5	Notes
+London-North-Western-North	0963	NW7027	PPP1	Baguley Fold Jn – Change of Mileage	2	39	2	13	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW7027	PPP2	Change of Mileage – Philips Park South Jn	0	00	0	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8001	HXS1	Hunts Cross West Jn – Liverpool Central	6	11	0	02	8	R1	R2	R2	R2	R2	R2	R2	R2	R1 Prohibited between Start / End of underground section and Liverpool Central unless DC current has been isolated R2 Prohibited between Start / End of underground section and Liverpool Central
+London-North-Western-North	0963	NW8001	HXS2	Liverpool Central – Paradise Jn	37	13	36	71	8	R1	N	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
+London-North-Western-North	0963	NW8001	HXS2	Paradise Jn – Sandhills Jn	36	71	34	75	8	R1	R2	R2	R2	R2	R2	R2	R2	R1 Prohibited between Paradise Jn and Leeds Street Portal unless DC current has been isolated R2 Prohibited between Paradise Jn and Leeds Street Portal
+London-North-Western-North	0963	NW8001	HXS3	Sandhills Jn – Bootle Jn	1	41	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8001	HXS3	Bootle Jn – Southport	2	39	18	35	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 11 (2m 71ch to 2m 73ch)
+London-North-Western-North	0963	NW8003	SIL	Paradise Jn – James Street (Stock Interchange/Holding line)	0	32	0	53	8	R1	R1	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
+London-North-Western-North	0963	NW8005	SJO1	Sandhills Jn – Walton Jn	34	75	33	16	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8005	SJO2	Walton Jn – Ormskirk	3	20	12	13	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8007	HXS/ NMM	Bootle Jn – Change of ELR (Site of Former North Mersey Jn)	2	34	3	52	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8007	NMB	Change of ELR (Site of Former North Mersey Jn) – Change of ELR (Site of Former Sefton Jn)	34	40	32	42	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8007	AFL	Change of ELR (Site of Former Sefton Jn) – Aintree Station Jn	0	00	0	40	7	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8009	WJK	Walton Jn – Kirkby	33	16	29	41	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0963	NW8011	MIR1	Mann Island Jn – Mann Island Jn via Loop	0	00	2	12	8	R1	R1	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated
+London-North-Western-North	0963	NW8011	MIR2	Mann Island Jn – Hamilton Square Jn	0	69	1	72	8	R1	R1	N	N	N	N	N	N	R1 Prohibited unless DC current has been isolated

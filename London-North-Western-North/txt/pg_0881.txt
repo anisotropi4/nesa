@@ -6,33 +6,65 @@
 
 
      Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159
+          ELR Line of Route / Sector Description
+                                   oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159
                                                                                Notes
      route                          M  Ch  M Ch    0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-     NW9903 SKW1 Settle Jn – Change of Mileage
-                                    234 44249 44 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              (Wennington)
-              Change of Mileage (Wennington) –
-     NW9903 SJC                      9  45 0  31 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Change of Mileage (Site of former
-              Carnforth East Jn)
-     NW9903 CEC
-              Change of Mileage (Site of former
-                                     0  25 0  04 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Carnforth East Jn) – Carnforth Station Jn
-              Appleby North Jn – Appleby West Jn
-     NW9907 WAR                     277 27277 56 N  N  N  N  N  N  N  N  N  N
-              Network Rail Boundary (Warcop) – End of
-     NW9907 EDE                     11  03 11 46 N  N  N  N  N  N  N  N  N  N
-              Line
-              Route Boundary (LN682) (Corby Gates) –
-     NW9909 NEC2                    58  00 59 26 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Petteril Bridge Jn
-              London Road Jn – Bog Jn (Newcastle
-     NW9911 NGD                      0  00 0  25 Y  Y  Y  Y  Y  Y  Y  Y  N  N
-              Goods Lines)
+              St Helens Station Jn – Huyton Jn
+     NW2023 SBH1                     5  12 0  -18Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              St. Helens Station Jn – Network Rail
+     NW2025 SHS1                     7  15 6  04 N  N  N  N  N  N  N  N  N  N
+              Boundary
+     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Network
+                                     0  15 5  53 N  N  N  N  N  N  N  N  N  N
+              Rail Boundary (MDHC)
+     NW2029 OME3 Olive Mount Jn – Edge Lane Jn
+                                     0  10 0  52 N  N  N  N  N  N  N  N  N  N
+              Crewe North Jn – Limit of Electrification
+     NW3001 CNH1                    158 18159 55 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              (Crewe Steelworks)
+     NW3001 CNH1
+              Limit of Electrification (Crewe Steelworks) 159
+                                        55178 66 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              – Chester East Jn
+              Chester East Jn – Change of ELR
+     NW3001 CNH2                    178 66179 56 Y  Y  Y  Y  Y  Y  Y  Y R1  N R1Prohibited Chester parcels platform
+              (Windmill Lane Tunnel)
+              Change of ELR (Windmill Lane Tunnel) –
+     NW3001 CNH3                    179 56188 40 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Route Boundary LNW / Wales
+     NW3001 CNH3
+              Route Boundary LNW / Wales - Holyhead 188
+                                        40263 56 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+     NW3003 CHW1 Chester East Jn – Acton Grange Jn
+                                     0  24 16 19 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Route Boundary (GW731) (Crewe Jn) –
+     NW3005 WSJ2                    199 00202 60 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Route Boundary Wales / LNW including
+              ‘Up & Down’ loop Wrexham General ELR
+              WDB1
+     NW3005 WSJ2
+              Route Boundary Wales / LNW - Saltney
+                                    202 60212 06 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Jn
+     NW3007 WDB1 Wrexham Central – Wrexham Exchange
+                                     0  16 0  68 Y  Y  Y  Y  Y  Y  N  N  N  N
+              Jn
+     NW3007 WDB1 Wrexham Exchange Jn – Change of RA
+                                     0  68 13 20 Y  Y  Y  Y  Y  Y  N  N  N  N
+              at 13m 20ch (South end of Hawarden
+              Bridge)
+     NW3007 WDB1 Change of RA at 13m 20ch (South end of
+                                    13  20 13 33 Y  Y  Y  Y  Y  Y  N  N  N  N
+              Hawarden Bridge) – Change of ELR
+     NW3007 WDB2 Change of ELR - Route Boundary Wales /
+                                    14  15 11 00 Y  Y  Y  Y  Y  Y  N  N  N  N
+            /3LNW
+     NW3007 WDB3 Route Boundary Wales / LNW Bidston
+                                    11  00 0  08 Y  Y  Y  Y  Y  Y  N  N  N  N
+              Dee Jn
+              Chester North Jn – Chester South Jn
+     NW3009 CVS                      0  36 0  13 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
 
 
-
-
-    October 2009                                    16D
+    October 2009                                     10

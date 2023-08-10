@@ -6,73 +6,77 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                     oooo oooo oooo oooo RA
-                                                     59 60 66 67 68 70 73 97/3
-                                                                             Notes
-     route                            M  Ch M  Ch 000 000 000 000 000
-                                                                   000 000 000 ooooooooooooooooooooooooooo
-
-              Crewe North Jn – Limit of Electrification
-     NW3001 CNH1                     158 18 159 55 8 Y  Y  Y  Y  Y  Y  Y  Y
-              (Crewe Steelworks)
-              Limit of Electrification (Crewe Steelworks) –
-     NW3001 CNH1                     159 55 178 66 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Chester East Jn
-              Chester East Jn – Change of ELR (Windmill
-     NW3001 CNH2                     178 66 179 56 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Lane Tunnel)
-              Change of ELR (Windmill Lane Tunnel) –
-     NW3001 CNH3                     179 56 188 40 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Route Boundary LNW / Wales
-     NW3001 CNH3
-              Route Boundary LNW / Wales - Holyhead
-                                     188 40 263 56 8 Y  Y  Y  Y  Y  Y  Y  Y
-     NW3003 CHW1 Chester East Jn – Acton Grange Jn
-                                      0  24  16 19 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Route Boundary (GW731) (Crewe Jn) –
-     NW3005 WSJ2                     199 00 202 60 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Route Boundary Wales / LNW including ‘Up
-              & Down’ loop Wrexham General ELR WDB1
-     NW3005 WSJ2
-              Route Boundary Wales / LNW - Saltney Jn
-                                     202 60 212 06 8 Y  Y  Y  Y  Y  Y Y   Y
-     NW3007 WDB1 Wrexham Central – Wrexham Exchange Jn
-                                      0  16  0  68 5 R1 R1 R1 R1 N  N R1  Y R1Prohibited between Wrexham Central and
-                                                                              Wrexham General unless authorised by the
-                                                                              Infrastructure Manager's track engineer
-     NW3007 WDB1 Wrexham Exchange Jn – Change of RA at
-                                       0 68 13  20 8 Y  Y  Y  Y  Y  Y  Y  Y
-              13m 20ch (South end of Hawarden Bridge)
-     NW3007 WDB1 Change of RA at 13m 20ch (South end of
-                                      13 20 13  33 7 Y  Y  Y  Y  Y  Y  Y  Y
-              Hawarden Bridge) – Change of ELR
-     NW3007 WDB2 Change of ELR - Route Boundary Wales /
-                                      14 15 11  00 7 Y  Y  Y  Y  Y  Y  Y  Y
-            /3LNW
-     NW3007 WDB3 Route Boundary Wales / LNW Bidston Dee
-                                      11 00  0  08 7 Y  Y  Y  Y  Y  Y  Y  Y
+          ELR Line of Route / Sector
+                                 oooo oooo oooo oooo RA 37/7
+                                                    43 47/2 47/4 47/7
+                                                                56 57 58  Notes
+     route    Description         M  Ch M  Ch 0000 37/9 0000 0000 0000 0000 0000 000 000
+                                                                         ooooooooooooooooooooooooooo
+                                                 0000
+     NW6009
+          WBS2Wigan Station Jn – Wigan Wallgate Jn
+                                   17 44 18 04 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW6009
+          WBS3Wigan Wallgate Jn – Southport
+                                   18 04 35 27 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW6011
+          BBB Bolton East Jn – Blackburn Bolton Jn
+                                   10 31 24 08 8  Y  Y  Y  Y  Y  Y  Y  Y
+     NW6013
+          LCN Lostock Jn – Crow Nest Jn
+                                   13 39 17 18 8  Y  Y  Y  Y  Y  Y  Y  Y
+     NW6015
+          WKL1Wigan Wallgate Jn – Change of
+                                   18 04 19 48 7  Y  N  Y  Y  Y  Y  Y  Y
+              Mileage (Pemberton)
+              Change of Mileage (Pemberton) –
+     NW6015 WKL2                   19 09 29 40 7  Y  N  Y  Y  Y  Y  Y  Y
+              Kirkby
+     NW7001 MVM
+              Manchester Victoria East Jn (Man Vic
+                                   0  09  1 30 8  Y  Y  Y  Y  Y  Y  Y  Y
+              West Jn – East Jn on NW6005) –
+              Miles Platting Jn
+              Miles Platting Jn – Brewery Jn
+     NW7001 MPR1                   1  30  1 52 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Brewery Jn –Thorpes Bridge Jn
+     NW7001 MPR1                   1  52  2 17 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Thorpes Bridge Jn – Castleton South
+     NW7001 MVN2                   2  17  8 21 8  Y  Y  Y  Y  Y  Y  Y  Y
               Jn
-              Chester North Jn – Chester South Jn
-     NW3009 CVS                        0 36  0  13 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Chester West Jn – Hooton South Jn
-     NW3011 CRR1                       0 16  7  68 8 Y  Y  Y  Y  R1 Y  Y  Y R15mph Up Birkenhead line through Bridge 3 at 1m
-                                                                              37ch between Bache and Capenhurst
-                                                                           R2 Prohibited Up Birkenhead line between Bache
-                                                                              and Capenhurst
-              Hooton South. Jn – Ellesmere Port (Limit of
-     NW3013 HHJ                        0 02  3  44 8 Y  Y  Y  Y  Y R1  Y  Y R1Prohibited between Hooton South Jn and Little
-              DC Electrification)                                             Sutton
-              Ellesmere Port (Limit of DC Electrification) –
-     NW3013 HHJ                        3 44  8  67 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Helsby Jn
-              Llandudno Jn – Blaenau Ffestiniog, End of
-     NW3015 LJT1                       0 30 27  53 7 Y  N  Y  N  Y  Y  Y  Y
-              Line
-              Llandudno Jn – Llandudno
-     NW3017 LLJ                        0 03  3  14 7 Y  N  Y  Y  Y  Y  Y  Y
+              Castleton South Jn – Castleton East
+     NW7001 MVN2                   8  21  8 52 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Castleton East Jn – Hall Royd Jn
+     NW7001 MVN2                    8 52 19 61 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Hall Royd Jn – Route Boundary
+     NW7001 MVN2                   19 61 22 62 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (LN854) (Turners Lane Jn)
+              Castleton East Jn – Castleton North
+     NW7005 CEH                    0  00  0 37 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Castleton South Jn – Castleton North
+     NW7005 CPI1                   8  21  8 50 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Castleton North Jn – Network Rail /
+     NW7005 CPI2                   8  50  9 04 8  Y  Y  Y  Y  Y  Y  Y  Y
+              East Lancashire Railway Boundary
+              (Hopwood)
+              Todmorden Viaduct Jn – Stansfield
+     NW7006 SFO                    0  0   0 18 8  Y  N  Y  Y  Y  Y  Y  N
+              Hall Jn
+              Farington Curve Jn – Ormskirk
+     NW7007 FCO                    25 64 12 15 8  Y  N  Y  Y  Y  Y  Y  Y
+              Farington Curve Jn – Lostock Hall
+     NW7009 FHR1                    0 00  0 75 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Depot
+              Lostock Hall Depot – Lostock Hall Jn
+     NW7009 FHR2                   0  75  1 42 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Lostock Hall Jn – Change of ELR (Site
+     NW7009 FHR3                   1  42  2 10 8  Y  Y  Y  Y  Y  Y  Y  Y
+              of Former Bamber Bridge Jn)
 
 
 
 
-    October 2009                                    66C
+    October 2009                                     62

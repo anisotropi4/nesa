@@ -11,65 +11,77 @@
                                                            Notes
      route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
                                   M   Ch M  Ch
-               Sandhills Jn – Walton Jn
-     NW8005 SJO1                   34 75 33 16  7    Y
-               Walton Jn – Ormskirk
-     NW8005 SJO2                    3 20 12 13  8    Y
-     NW8007 HXS/N Bootle Jn – Change of ELR (Site of
-                                    2 34  3 52  7    Y
-          MM   former North Mersey Jn)
-     NW8007 NMBChange of ELR (Site of former North
-                                   34 40 32 42  7    Y
-               Mersey Jn) – Change of ELR (Site of
-               Former Sefton Jn)
-     NW8007 AFLChange of ELR (Site of Former Sefton
-                                    0 00  0 40  7    Y
-               Jn) – Aintree Station Jn
-     NW8009 WJKWalton Jn – Kirkby  33 16 29 41  8    Y
-               Mann Island Jn – Mann Island Jn via
-     NW8011 MIR1                    0 00  2 12  8    N
-               Loop
-               Mann Island Jn – Hamilton Square Jn
-     NW8011 MIR2                    0 69  1 72  8    N
-     NW8011 CWK1 Hamilton Square Jn – Change of ELR
-                                    1 72  3 00  8    N
-               (Birkenhead Park)
-     NW8011 CWK2 Change of ELR (Birkenhead Park) –
-                                    3 00  4 40  8    R1   R1Prohibited between Change of ELR (Birkenhead Park) and
-               Bidston East Jn                              Birkenhead North on the Down West Kirby line
-     NW8011 CWK3 Bidston East Jn – Bidston Dee Jn
-                                    4 40  4 78  8    Y
-     NW8011 CWK3 Bidston Dee Jn – West Kirby
-                                    4 78 10 46  8    Y
-               Canning Street Jn – Rock Ferry
-     NW8013 MIR2                    1 60  3 42  8    R1   R1Prohibited Rock Ferry platform 1 (Down Chester line)
-               Rock Ferry – Hooton South Jn
-     NW8013 CRR2                   13 43  7 68  8    Y
-     NW8015 BENBidston East Jn – New Brighton (New
-                                    4 40  7 18  6    R1   R1Prohibited Wallasey Grove Road Down platform (Down New Brighton
-               Brighton lines)                       R2     line)
-                                                          R2Prohibited New Brighton platform 1 (Down New Brighton line)
-     NW8017 CCS1/ Network Rail Boundary (Canning
-                                   15 40 13 30  8    Y
-          2    Street North) – Rock Ferry South Jn
-     NW9001 MASRoute Boundary (LN808) (Dore West
-                                   15420 17401  8    Y
-               Jn) – Chinley North Jn
-               Chinley North Jn – New Mills South Jn
-     NW9001 TTA1                   16839 17227  8    R1   R1Prohibited between Earles Sidings and Edale on the Down Main line
-                                                     R2   R2Prohibited between Chinley and New Mills South Jn on the Up Main
-                                                            line
-               New Mills South Jn – Hazel Grove
-     NW9001 NMC1                  172 27 17740  8    Y
-               High Level Jn
-     NW9001 HGCHazel Grove High Level Jn – Hazel
-                                    2 62  2 35  8    Y
-               Grove East Jn
-     NW9001 BEJHazel Grove East Jn (Limit of
-                                    2 35  0 00  8    Y
-               electrification) – Edgeley Jn No.1
+              Ordsall Lane Jn – Newton-le-Willows
+     NW2015 DSE                    30 38 16 19  8    Y
+              Jn
+     NW2015
+          DSE Newton-le-Willows Jn – Earlestown
+                                   16 19 14 75  8    Y
+              East Jn (Electrified section)
+     NW2015
+          DSE Earlestown East Jn – Edge Hill
+                                   14 75  1 57  8    Y
+     NW2017
+          SCN Eccles Station Jn – Network Rail
+                                    0 00  0 54  8    Y
+              (Weaste Branch) / MSC Boundary
+     NW2019
+          PJL Parkside Jn – Lowton Jn (East Curve
+                                    0 05  0 36  8    Y
+              lines)
+     NW2021
+          EEE Earlestown South. Jn – Earlestown
+                                  186 74 18715  8    Y
+              West Jn (Liverpool Curve)
+     NW2023
+          SBH3Springs Branch Jn – Gerards Bridge
+                                   12 54  5 66  7    Y
+              Jn
+     NW2023
+          SBH2Gerards Bridge Jn – St Helens Station
+                                    5 66  5 12  7    Y
+              Jn
+     NW2023
+          SBH1St Helens Station Jn – Huyton Jn
+                                    5 12  0 -18 7    Y
+     NW2025
+          SHS1St. Helens Station Jn – Network Rail
+                                    7 15  6 04  8    Y
+              Boundary
+          SCT1/2 Edge Hill, Bootle Branch Jn – Network
+     NW2027                         0 15  5 53  8    Y
+              Rail Boundary (MDHC)
+     NW2029
+          OME3Olive Mount Jn – Edge Lane Jn
+                                   0  10  0 52  8    Y
+     NW3001
+          CNH1Crewe North Jn – Limit of
+                                  158 18 15955  8    Y
+              Electrification (Crewe Steelworks)
+     NW3001
+          CNH1Limit of Electrification (Crewe
+                                  159 55 17866  8    Y
+              Steelworks) – Chester East Jn
+     NW3001
+          CNH2Chester East Jn – Change of ELR
+                                  178 66 17956  8    Y
+              (Windmill Lane Tunnel)
+     NW3001
+          CNH3Change of ELR (Windmill Lane
+                                  179 56 18840  8    R1   R1Prohibited Shotton Low Level Up platform (Up Main line)
+              Tunnel) – Route Boundary LNW /
+              Wales
+     NW3001
+          CNH3Route Boundary LNW / Wales –
+                                  188 40 26356  8    R1   R1Prohibited Llandudno Junction Up Bay Platform 2
+              Holyhead                               R2   R2Prohibited between Conwy and Menai Bridge South Jn on the Up
+                                                     R3     Main line
+                                                     R4   R3Prohibited between Bodorgan and Ty Croes on the Down line
+                                                          R4Prohibited between Rhosneigr and Valley on the Down line
+     NW3003 CHW1 Chester East Jn – Acton Grange Jn
+                                    0 24 16 19  8    Y
 
 
 
 
-                                                     93
+                                                     84

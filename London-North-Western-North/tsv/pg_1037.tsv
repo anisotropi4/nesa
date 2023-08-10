@@ -1,19 +1,18 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Western-North	1037	NW4011	MSM	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1037	NW4013	HBL	Hest Bank Jn – Bare Lane Jn	0	00	1	30	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1037	NW4017	MHH	Morecambe Jn – Heysham Port	0	00	4	01	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1037	NW4019	OXW	Oxenholme – Windermere	0	00	10	15	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1037	NW4021	UCJ	Upperby Jn – Bog Jn	0	38	1	07	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1037	NW4021	UCJ	Bog Jn – Rome Street Jn	1	07	1	23	Y	Y	N	N	N	N	N	N	
-London-North-Western-North	1037	NW4023	ULR	Upperby Jn – London Road Jn	0	00	0	34	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1037	NW4025	MCG	Currock Jn – Change of ELR (Site of Former Forks Jn)	0	00	0	29	Y	Y	Y	Y	N	Y	Y	Y	
-London-North-Western-North	1037	NW4025	SCG	Change of ELR (Site of Former Forks Jn) – Bog Jn	0	29	0	44	Y	Y	Y	Y	N	Y	Y	Y	
-London-North-Western-North	1037	NW4027	BSN	Bruntill Branch Jn – Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1037	NW4027	ETC	End of line Buffer Stops – Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	6	95	6	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1037	NW4029	GJH	Mossband Jn – Network Rail Boundary	3	02	0	24	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1037	NW4031	GSW	Gretna Jn – Route Boundary (SC031)	116	13	115	40	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1037	NW4033	CBC1	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1037	NW4033	CBC1	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1037	NW4033	CBC1	Limit of Electrification (Carnforth) – Whitehaven	0	60	74	66	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1037	NW4033	CBC1	Whitehaven – Bransty SB (Change of ELR)	74	66	74	73	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1037	NW4033	CBC2	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	Y *	S1	S1	N	N	N	N	N	S1 Between Workington Main No.2 SB (6m 53ch) and Change of ELR (Maryport) the following combinations are permitted to run: Up to 2665(h), S21 TT x 2500(w) on FAA, FKA, IKA wagons 2595(h), S11 TT, S14 FT x 2500(w) on IFA, FIA wagons
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Western-North	1037	NW9003	CYC	Chinley East Jn – Chinley South Jn (Chord Line)	168	32	167	56	8	Y	
+London-North-Western-North	1037	NW9005	CNB1	Chinley North Jn – Chinley South Jn	168	39	167	56	8	Y	
+London-North-Western-North	1037	NW9005	CNB1	Chinley South Jn – Change of Mileage (Site of Former Peak Forest Jn)	167	56	161	05	8	R1 R2 R3	R1 Prohibited through Chapel LNW Tunnel on the Down Goods line R2 Prohibited between Chinley South Jn and Peak Forest South Jn on the Down Goods line R3 Prohibited between Chinley South Jn and Peak Forest South Jn on the Up Goods line
+London-North-Western-North	1037	NW9005	CNB2	Change of Mileage (Site of Former Peak Forest Jn) – Change of Mileage (Site of Former Buxton Jn)	0	00	0	28	8	Y	
+London-North-Western-North	1037	NW9005	CNB3	Change of Mileage (Site of Former Buxton Jn) – Buxton SB	161	15	164	52	8	Y	
+London-North-Western-North	1037	NW9005	CNB4	Buxton SB – Buxton Sidings	164	52	165	12	8	Y	
+London-North-Western-North	1037	NW9007	TTA1	New Mills South Jn – Marple Wharf Jn	172	17	177	23	8	R1 R2	R1 Prohibited between New Mills South Jn and New Mills Central on the Down Romiley line R2 Prohibited between Strines and Marple on the Up Romiley line
+London-North-Western-North	1037	NW9007	TTA1	Marple Wharf Jn – Romiley Jn	177	23	178	33	8	Y	
+London-North-Western-North	1037	NW9007	TTA1	Romiley Jn – Brinnington (Change of Mileage)	178	33	181	00	7	Y	
+London-North-Western-North	1037	NW9007	TTA2	Brinnington (Change of Mileage) – Ashburys East Jn	42	77	46	24	7	R1	R1 Prohibited between Belle Vue and Ashburys East Jn on the Up Reddish Branch line
+London-North-Western-North	1037	NW9009	MRH	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	8	Y	
+London-North-Western-North	1037	NW9011	RYH1	Romiley Jn – Woodley Jn	178	33	179	44	8	Y	
+London-North-Western-North	1037	NW9011	RYH2	Woodley Jn – Hyde Jn	8	74	6	16	8	Y	
+London-North-Western-North	1037	NW9013	WJP1	Woodley Jn – Bredbury Sidings	40	53	39	58	7	Y	
+London-North-Western-North	1037	NW9017	NMC1/ 2	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	8	Y	
+London-North-Western-North	1037	NW9017	WJP1	Cheadle Jn – Northenden Jn	35	64	33	52	8	Y	
+London-North-Western-North	1037	NW9019	BUX	Buxton – Brigg’s Sidings	0	00	4	70	8	Y	

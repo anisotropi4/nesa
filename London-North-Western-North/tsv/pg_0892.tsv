@@ -1,5 +1,14 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	196	220	221	222	Notes
-London-North-Western-North	0892	NW7009	FHR3	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	N	N	N	N	N	Y	N	Y	Y	N	
-London-North-Western-North	0892	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	N	N	N	N	N	Y	N	Y	Y	N	
-London-North-Western-North	0892	NW7009	FHR4	Blackburn Bolton Jn – Blackburn	10	11	10	42	N	N	N	N	N	R1	N	Y	Y	N	R1 Prohibited Blackburn platform 3
-London-North-Western-North	0892	NW7009	FHR5	Blackburn – Daisyfield Jn	10	42	11	09	N	N	N	N	N	Y	N	Y	Y	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	195	196	220	221	222	Notesooooooooooooooooooo
+London-North-Western-North	0892	NW1001	LEC2	Armitage Jn (MD101) (Sectional Appendix Boundary) – Rugeley North Jn	119	20	124	39	N	N	Y	Y	N	N	N	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC2	Rugeley North Jn – Colwich Jn	124	39	127	05	N	N	Y	Y	N	N	N	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC2	Colwich Jn – Stafford Trent Valley Jn No.1	127	05	133	06	N	N	Y	Y	N	N	N	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC3	Stafford Trent Valley Jn No.1 – Change of ELR (North of Stafford)	133	06	133	60	E	Y	Y	Y	N	N	EH	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC4	Change of ELR (North of Stafford) – Little Bridgeford Jn	133	60	137	42	Y	Y	Y	Y	N	N	EH	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC4	Little Bridgeford Jn – Heamies Bridge	137	42	140	00	Y	Y	Y	Y	N	N	EH	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC6	Little Bridgeford Jn – Heamies Bridge (Down Slow line only)	137	42	139	64	Y	Y	Y	Y	N	N	N	Y	Y	Y	N	
+London-North-Western-North	0892	NW1001	LEC4	Heamies Bridge – Basford Hall Jn	140	00	156	16	N	Y	Y	Y	N	N	EH	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC4	Basford Hall Jn – Change of ELR (Crewe South)	156	16	157	20	N	Y	Y	Y	N	N	EH	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC5	Change of ELR (Crewe South) – Crewe South Jn	157	20	157	60	N	Y	Y	Y	N	E	Y	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	LEC5	Crewe South Jn – Crewe North Jn	157	60	158	18	N	Y	R1	Y	Y	Y	Y	Y	Y	T	Y	R1 10mph Crewe platform 11
+London-North-Western-North	0892	NW1001	LEC5	Crewe North Jn – Change of ELR (Between Crewe Coal Yard and Winsford South Jn)	158	18	159	00	N	N	Y	Y	Y	N	Y	Y	Y	T	N	
+London-North-Western-North	0892	NW1001	CGJ1	Change of ELR (Between Crewe Coal Yard and Winsford South Jn) – Hartford Jn	159	00	170	56	N	N	Y	Y	Y	N	Y	N	Y	T	N	

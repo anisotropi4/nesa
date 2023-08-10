@@ -1,20 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Western-North	1042	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7009	FHR4	Blackburn Bolton Jn – Blackburn	10	11	10	42	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7009	FHR5	Blackburn – Daisyfield Jn	10	42	11	09	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7009	FHR5	Daisyfield Jn – Gannow Jn	11	09	21	03	Y*	N	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7009	FHR6	Gannow Jn – Hall Royd Jn	21	03	30	54	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7011	LHL	Farington Jn – Limit of electrification	0	00	0	56	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7011	LHL	Limit of electrification – Lostock Hall Jn (Lostock Hall lines)	0	56	0	77	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7013	DJH	Daisyfield Jn – Hellifield	11	09	34	68	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7015	PRG	End of line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	–	–	–	–	–	–	–	–	Line Out of Use
-London-North-Western-North	1042	NW7017	GJC	Gannow Jn – Colne	21	03	27	37	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7019	MPR2	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1042	NW7021	MVL1	Miles Platting Jn – Philips Park West Jn	1	30	1	59	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1042	NW7021	MVL1	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7021	MVL1	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7021	MVL1	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	Y *	S1	N	N	N	N	N	N	S1 The following combinations only are permitted to run: Up to 2438(h) x 2438(w) on FEA KFA FRA FIA IFA wagons 2603(h) x 2438(w) on IFA/FIA FKA/IKA wagons 2896(h) x 2438(w) on KTA wagons
-London-North-Western-North	1042	NW7021	MVL2	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7021	MVL3	Stalybridge Tunnel Jn – Route Boundary (LN860)	8	08	15	11	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7023	BPP	Philips Park West Jn – Brewery Jn	0	00	0	18	Y	Y	Y	N	N	N	N	N	
-London-North-Western-North	1042	NW7025	PPA1	Philips Park West Jn – Philips Park South Jn	1	59	2	07	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1042	NW2009	SDJ2	End of line (Latchford) – Ditton East Jn	10	06	18	55	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1042	NW2011	WOA1	Walton Old Jn – Arpley Jn	0	68	0	00	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1042	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1042	NW2015	DSE	Newton-le-Willows Jn – Earlestown East Jn (Electrified section)	16	19	14	75	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1042	NW2015	DSE	Earlestown East Jn – Edge Hill	14	75	1	78	Y * R1	Y	Y	Y	N	Y	R2	N	R1 * applies between between Bootle Branch Jn (1m 78ch) and Edge Hill R2 * Permitted Edge Hill to Huyton Jn only
+London-North-Western-North	1042	NW2017	SCN	Eccles Station Jn – Weaste Branch Network Rail / MSC Boundary	0	00	0	54	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1042	NW2019	PJL	Parkside Jn – Lowton Jn (East Curve lines)	0	05	0	36	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	1042	NW2021	EEE	Earlestown South Jn – Earlestown West Jn (Liverpool Curve)	186	74	187	15	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1042	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Western-North	1042	NW2023	SBH2	Gerards Bridge Jn – St Helens Station Jn	5	66	5	12	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Western-North	1042	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	-18	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Western-North	1042	NW2025	SHS1	St Helens Station Jn – Sutton Oak Network Rail Boundary	7	15	6	04	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1042	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn –Network Rail Boundary (MDHC)	0	15	5	53	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1042	NW2029	OME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1042	NW3001	CNH1	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	41	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1042	NW3001	CNH1	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	41	178	66	Y	N	N	N	N	N	N	N	
+London-North-Western-North	1042	NW3001	CNH2	Chester East Jn – Change of ELR (Chester Windmill Lane Tunnel)	178	66	179	56	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1042	NW3001	CNH3	Change of ELR (Chester Windmill Lane Tunnel) – Route Boundary LNW / Wales (Rockcliffe Hall)	179	56	188	40	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	1042	NW3001	CNH3	Route Boundary LNW / Wales (Rockcliffe Hall) – Holyhead	188	40	263	56	Y *	N	N	N	N	N	N	N	

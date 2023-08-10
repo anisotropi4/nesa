@@ -1,11 +1,27 @@
-Route	page	Line of Route	Line of Route / Sector Description	RA	Gauge of Route	Heavy Axle Weight Vehicles	Notes
-London-North-Western-North	1006	NW3005	Gobowen (excl.)- Saltney Jn. including ‘Up & Down’ loop Wrexham General – Wrexham Exchange Jn.	8	W6A Ex. (W7)	R	R WSJ2 Br.518 (200m 10ch) and Br.544 (207m 71ch): RA9/10 vehicles are restricted to 50mph over these bridges.
-London-North-Western-North	1006	NW3007	Wrexham Central – Wrexham Exchange Sidings	5	/	R	R Vehicles which exceed the RA of the line may be permitted Wrexham Central – Wrexham Exchange Jn. Subject to special dispensation being granted by the relevant Route Asset Manager (s) (RAM)
-London-North-Western-North	1006	NW3007	Wrexham Exchange Jn – 13m 18ch (south end of Hawarden swing bridge	8	W6A Ex. (W7)	R	R RA9/10 loaded freight vehicles are restricted at the following specific locations WDB1 BR.17: RA9/10 loaded freight vehicles are restricted to 30mph over the bridge (4m 79ch – 5m 0ch)
-London-North-Western-North	1006	NW3007	13m 20ch – Bidston West Jn	7	W6A	R1	R1 RA8 locomotives and RA8/9/10 loaded freight vehicles are restricted to 25mph 13m 20ch on WBD1. – Dee Marsh Jn.
-London-North-Western-North	1006	NW3009	Chester North Jn - Chester South Jn	8	W6A Ex. (W7)	Y	
-London-North-Western-North	1006	NW3011	Chester West Jn. - Hooton South Jn.	8	W6A Ex. (W7)	Y	
-London-North-Western-North	1006	NW3013	Hooton South. Jn. - Helsby Jn.	8	R	Y	R Route clear to W6A Ex. (W7) gauge Ellesmere Port - Helsby Jn.
-London-North-Western-North	1006	NW3015	Llandudno Jn. – Blaenau Ffestiniog	7	/	R	R Vehicles which exceed the RA of the line may be permitted on a very limited basis, subject to special dispensation being granted by the Territory Track and Earthworks Engineers, and additionally, observance of the following bridge specific restrictions: LJT1 Br.3 (4m 23ch to 4m 26ch) RA 8/9/10 vehicles restricted to 20mph over the bridge. LJT1 Br.20 (13m 3ch to 13m 09ch) RA 8/9/10 vehicles restricted to 20mph over the bridge. LJT1 Br.23 (14m 48ch to 14m 54ch) RA 8/9/10 vehicles restricted to 10mph over the bridge. LJT1 Br.34 (17m 36ch to 17m 65ch) RA 8/9/10 vehicles restricted to 20mph over the bridge.
-London-North-Western-North	1006	NW3017	Llandudno Jn. - Llandudno	7	/	Y	
-London-North-Western-North	1006	NW3019	Gaerwen – Amlwch (Out of use)	-	W6A Ex. (W7)	-	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-North	1006	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	8	Y	Y	Y	Y	Y	N	
+London-North-Western-North	1006	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	8	Y	Y	Y	Y	Y	N	
+London-North-Western-North	1006	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	8	Y	Y	Y	Y	Y	N	
+London-North-Western-North	1006	NW5021	SAJ	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	8	H R1	N	Y	N	N	N	R1 20mph over Bridge 11 (1m 40ch - 1m 60ch) (between Ashton viaduct and Stalybridge Jn)
+London-North-Western-North	1006	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	8	Y	Y	Y	Y	N	Y	
+London-North-Western-North	1006	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	8	Y	Y	Y	Y	N	Y	
+London-North-Western-North	1006	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6001	MVE1	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6003	MAJ	Castlefield Jn - Trafford Park Sidings (Limit of Electrification)	33	57	31	35	8	Y	Y	Y	Y	N	Y	
+London-North-Western-North	1006	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification) - Hunts Cross	31	35	7	07	7	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6003	MAJ	Hunts Cross - Hunts Cross West Jn	7	07	6	11	7	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	7	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	10	Y	Y	N	Y	N	Y	
+London-North-Western-North	1006	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	10	Y	Y	N	Y	N	Y	
+London-North-Western-North	1006	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss Lines)	0	00	0	32	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6005	MVE1	Deal Street Jn – Windsor Bridge South Jn	0	32	1	55	8	N	N	Y	N	N	N	
+London-North-Western-North	1006	NW6007	DSE	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6009	WBS1	Windsor Bridge North Jn – Crow Nest Jn	1	66	14	64	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6009	WBS2	Crow Nest Jn – Wigan Station Jn	14	64	17	44	8	H	H	Y	H	N	N	
+London-North-Western-North	1006	NW6009	WBS2	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	8	N	N	Y	N	N	N	
+London-North-Western-North	1006	NW6009	WBS3	Wigan Wallgate Jn – Southport	18	04	35	27	8	N	N	Y	N	N	N	
+London-North-Western-North	1006	NW6011	BBB	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	8	H	H	Y	H	N	N	

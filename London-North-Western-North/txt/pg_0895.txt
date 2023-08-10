@@ -7,67 +7,61 @@
 
      Line of
           ELR Line of Route / Sector Description
-                                    oooo oooo oooo oooo 165 168 170 175 180 185 196 220 221 222
-                                                                                Notes
-     route                           M  Ch M  Ch 0000 0000 0000 0000 0000 0000
-                                                                      0000 0000 0000 ooooooooooooooooooooooooooo
-              Chinley East Jn – Chinley South Jn (Chord
-     NW9003 CYC                      16832 167 56 N  N  N  N  N  N  N  N  N  N
-              Line)
-              Chinley North Jn – Chinley South Jn
-     NW9005 CNB1                     16839 167 56 N  N  N  N  N  N  N  N  N  N
-              Chinley South Jn – Change of Mileage
-     NW9005 CNB1                     16756 161 05 N  N  N  N  N  N  N  N  N  N
-              (Site of Former Peak Forest Jn)
-     NW9005 CNB2
-              Change of Mileage (Site of Former Peak
-                                      0 00  0  28 N  N  N  N  N  N  N  N  N  N
-              Forest Jn) – Change of Mileage (Site of
-              Former Buxton Jn)
-     NW9005 CNB3
-              Change of Mileage (Site of Former Buxton
-                                     16115 164 52 N  N  N  N  N  N  N  N  N  N
-              Jn) – Buxton SB
-              Buxton SB – Buxton Sidings
-     NW9005 CNB4                     16452 165 12 N  N  N  N  N  N  N  N  N  N
-              New Mills South Jn – Marple Wharf Jn
-     NW9007 TTA1                     17217 177 23 N  N  Y  N  N  Y  N  N  N  N
-              Marple Wharf Jn – Romiley Jn
-     NW9007 TTA1                     17723 178 33 N  N  Y  N  N  Y  N  N  N  N
-              Romiley Jn – Brinnington (Change of
-     NW9007 TTA1                     17833 181 00 N  N  Y  N  N  Y  N  N  N  N
-              Mileage)
-              Brinnington (Change of Mileage) –
-     NW9007 TTA2                     42 77  46 24 N  N  Y  N  N  Y  N  N  N  N
-              Ashburys East Jn
-              Marple Wharf Jn – Rose Hill Buffer Stop
-     NW9009 MRH                      11 02  9  78 N  N  N  N  N  N  N  N  N  N
-              Romiley Jn – Woodley Jn
-     NW9011 RYH1                     17833 179 44 N  N  N  N  N  Y  N  N  N  N
-              Woodley Jn – Hyde Jn
-     NW9011 RYH2                      8 74  6  16 N  N  N  N  N R1  N  N  N  N R1 5mph Hyde North Down platform
-              Woodley Jn – Bredbury Sidings
-     NW9013 WJP1                     40 53  39 58 N  N  N  N  N  N  N  N  N  N
-     NW9017 NMC1/ Hazel Grove High Level Jn – Cheadle Jn
-                                     17740 181 71 N  N  N  N  N  N  N  N  N  N
-          2
-              Cheadle Jn – Northenden Jn
-     NW9017 WJP1                     35 64  33 52 N  N  N  N  N  N  N  N  N  N
-              Buxton – Brigg’s Sidings
-     NW9019 BUX                       0 00  4  70 N  N  N  N  N  N  N  N  N  N
-              Buxton – Hazel Grove East Jn
-     NW9021 BEJ                      19 09  2  35 N  N  N  N  N  N  N  N  N  N
-     NW9901 SKW1 Route Boundary (LN922) (Gargrave) –
-                                     23000 234 44 N  N  N  N  N R1  N  Y  Y  N R1Prohibited between Route Boundary (LN922)
-              Settle Jn                                                          (Gargrave) and Hellifield
-              Settle Jn – Petteril Bridge Jn
-     NW9901 SAC                      23444 307 12 N  N  N  N  N  Y  N  Y  Y  N
-              Petteril Bridge Jn – London Road Jn
-     NW9901 NEC2                     59 26  59 45 N  N  N  N  N  Y  N  Y  Y  N
-              London Road Jn – Carlisle South Jn
-     NW9901 NEC2                     59 45  60 02 N  N  N  N  N  Y  N  Y  Y  N
-     NW9903 SKW1 Settle Jn – Change of Mileage
-                                     23444 249 44 N  N  N  N  N  N  N  N  N  N
-              (Wennington)
+                                  oo oo  oo oo 165 168 170 175 180 185 195 196 220 221 222 Notesoooooooooooooooooooooooo
+     route                        oo oo  oo oo                               oo
+                                               000 000 000 000 000 000 000 000 000 000 000
+                                   M  Ch M  Ch
+              Ordsall Lane Jn – Newton-le-Willows
+     NW2015 DSE                    30 38 16 19 N  N  Y Y  Y  Y  Y N  Y  Y  N
+              Jn
+              Newton-le-Willows Jn – Earlestown
+     NW2015 DSE                    16 19 14 75 N  N  Y Y  Y  Y  Y N  Y  Y  N
+              East Jn (Electrified section)
+              Earlestown East Jn – Edge Hill
+     NW2015 DSE                    14 75  1 57 N  N  Y N  N  Y  Y N  Y  Y  N
+              Eccles Station Jn – Network Rail
+     NW2017 SCN                    0  00  0 54 N  N  N N  N  N  N N  N  N  N
+              (Weaste Branch) / MSC Boundary
+              Parkside Jn – Lowton Jn (East Curve
+     NW2019 PJL                    0  05  0 36 N  N  N Y  Y  Y  Y N  Y  Y  N
+              lines)
+              Earlestown South Jn – Earlestown
+     NW2021 EEE                   186 74187 15 N  N  N Y  N  N  Y N  Y  Y  N
+              West Jn (Liverpool Curve)
+              Springs Branch Jn – Gerards Bridge
+     NW2023 SBH3                   12 54  5 66 N  N  N N  N  N  Y N  Y  Y  N
+              Jn
+              Gerards Bridge Jn – St Helens Station
+     NW2023 SBH2                   5  66  5 12 N  N  N N  N  N  Y N  Y  Y  N
+              Jn
+              St Helens Station Jn – Huyton Jn
+     NW2023 SBH1                   5  12  0 -18N  N  N N  N  N  Y N  Y  Y  N
+              St. Helens Station Jn – Network Rail
+     NW2025 SHS1                   7  15  6 04 N  N  N N  N  N  N N  N  N  N
+              Boundary
+     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn –Network
+                                   0  15  5 53 N  N  N N  N  N  N N  N  N  N
+              Rail Boundary (MDHC)
+     NW2029 OME3 Olive Mount Jn – Edge Lane Jn
+                                   0  10  0 52 N  N  N N  N  N  N N  N  N  N
+              Crewe North Jn – Limit of
+     NW3001 CNH1                  158 18159 55 N  Y  Y Y  N  E  Y Y  Y  Y  N
+              Electrification (Crewe Steelworks)
+     NW3001 CNH1
+              Limit of Electrification (Crewe
+                                  159 55178 66 N  Y  Y Y  N  N  Y N  Y  Y  N
+              Steelworks) – Chester East Jn
+              Chester East Jn – Change of ELR
+     NW3001 CNH2                  178 66179 56 N  Y  Y R1 N  N R2 N  Y  Y  N R1Prohibited Chester parcels
+              (Windmill Lane Tunnel)                           R3              platform with crush deflated
+                                                                               suspension
+                                                                            R2 Prohibited between Chester West
+                                                                               Jn and Change of ELR (Windmill
+                                                                               Lane Tunnel)
+                                                                            R3 Prohibited Chester platform 1 and
+                                                                               Chester Parcels platform with
+                                                                               deflated secondary suspension
 
-    October 2009                                    16R
+
+
+    October 2009                                    16H

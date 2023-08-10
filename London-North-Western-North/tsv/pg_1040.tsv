@@ -1,26 +1,25 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Western-North	1040	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1040	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW5015	HAJ	Guide Bridge West Jn – Guide Bridge Station Jn	5	10	4	73	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW5015	HAJ	Guide Bridge Station Jn – Ashburys East Jn	4	73	1	56	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	Y	N	N	N	N	N	N	N	
-London-North-Western-North	1040	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1040	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1040	NW5021	SAJ	Stalybridge Jn – Guide Bridge West Jn	2	08	0	04	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW6001	COL	Manchester Piccadilly East Jn – Castlefield Jn	188	48	189	67	Y *	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1040	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1040	NW6001	OLW	Ordsall Lane Jn – Windsor Bridge South Jn	190	28	191	01	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW6001	MVE1	Windsor Bridge South Jn – Windsor Bridge North Jn	1	55	1	66	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW6001	MVE1	Windsor Bridge North Jn – Bolton West Jn	1	66	10	55	Y *	R	R	Y	N	N	N	N	
-London-North-Western-North	1040	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	Y *	Y	N	N	N	N	N	N	
-London-North-Western-North	1040	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	Y *	N	N	N	N	N	N	N	
-London-North-Western-North	1040	NW6003	MAJ	Castlefield Jn – Trafford Park Sidings (Limit of Electrification)	33	57	31	35	Y	Y	Y	Y	N	Y	N	N	
-London-North-Western-North	1040	NW6003	MAJ	Trafford Park Sidings (Limit of Electrification) – Hunts Cross	31	35	7	07	Y * R1	Y	Y	Y	N	R2	N	N	R1 * applies between Trafford Park West Jn (31m 66ch) and Hunts Cross R2 Prohibited between Trafford Park West Jn (31m 66ch) and Hunts Cross
-London-North-Western-North	1040	NW6003	MAJ	Hunts Cross – Hunts Cross West Jn	7	07	6	11	Y *	Y	Y	N	N	N	N	N	
-London-North-Western-North	1040	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	1040	NW6004	OCD	Water Street Jn – Irwell Street Jn (Change of Mileage and ELR)	190	05	190	34	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Western-North	1040	NW6004	DSE	Irwell Street Jn (Change of Mileage and ELR) – Deal Street Jn (Ordsall Curve lines)	30	64	31	18	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Western-North	1040	NW6005	MVM	Manchester Victoria East Jn – Manchester Victoria	0	09	0	00	Y *	Y	Y	Y	N	N	N	N	
-London-North-Western-North	1040	NW6005	MVE1	Manchester Victoria – Deal Street Jn (Chat Moss lines)	0	00	0	32	Y *	Y	Y	Y	N	N	N	N	
+London-North-Western-North	1040	NW1001	LEC4	Change of ELR (Site of Former Stafford Uttoxeter line Jn No 5) – Norton Bridge North Jn	133	60	139	00	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	LEC4	Norton Bridge North Jn – Basford Hall Jn	139	00	156	16	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	LEC4	Basford Hall Jn – Change of ELR (Basford Wood)	156	16	157	20	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	LEC5	Change of ELR (Basford Wood) – Crewe South Jn	157	20	157	60	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	LEC5	Crewe South Jn – Crewe North Jn	157	60	158	18	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	LEC5	Crewe North Jn – Change of ELR (Site of Former Grand Jn)	158	18	159	00	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ1	Change of ELR (Site of Former Grand Jn) – Hartford Jn	159	00	170	56	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ1	Hartford Jn – Change of ELR (Preston Brook Tunnel)	170	56	176	00	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ2	Change of ELR (Preston Brook Tunnel) – Acton Grange Jn	176	00	180	24	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ2	Acton Grange Jn – Warrington South Jn	180	24	181	76	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ3	Warrington South Jn – Winwick Jn	181	76	185	49	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ4	Winwick Jn – Golborne Jn	185	49	187	76	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ5	Golborne Jn – Wigan Station Jn	0	53	6	33	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ5	Wigan Station Jn – Farington Curve Jn	6	33	20	08	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ5	Farington Curve Jn – Preston Ribble Jn	20	08	21	13	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1001	CGJ6	Preston North Jn – Preston Fylde Jn	0	21	0	33	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1002	RBS3	Route Boundary (MD301) (Penkridge Station) – Stafford Trent Valley Jn No.1	23	30	28	50	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	1040	NW1003	HCM2	Buffer Stop (Silverdale Colliery End) – Madeley Chord Jn	3	27	7	36	–	N	N	N	N	N	N	N	Line Out of Use until 30 April 2016
+London-North-Western-North	1040	NW1003	HCM3	Madeley Chord Jn – Madeley Jn	0	25	0	00	–	N	N	N	N	N	N	N	Line Out of Use until 30 April 2016
+London-North-Western-North	1040	NW1003	HCM2	Madeley Chord Jn – End of line	7	36	8	14	–	N	N	N	N	N	N	N	Line Out of Use until 30 April 2016
+London-North-Western-North	1040	NW1004	RRN2	Route Boundary (MD345) (Rugeley B Power Station Jn) – Rugeley North Jn	14	00	14	69	Y	Y	Y	Y	N	Y	Y	N	
+London-North-Western-North	1040	NW1005	KCS1	Kidsgrove Jn – Crewe South Jn	0	00	8	27	Y *	Y	Y	Y	N	Y	N	N	

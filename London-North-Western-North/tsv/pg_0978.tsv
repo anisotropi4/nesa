@@ -1,26 +1,22 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
-London-North-Western-North	0978	NW3019	GLA	Gaerwen – Network Rail Boundary	0	00	17	37	6	N	N	N	N	N	N	N	Y	Line out of use NC/G1/2008/LNW396
-London-North-Western-North	0978	NW3021	FJH	Frodsham Jn – Halton Jn	1	54	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3023	EJN	Edgeley Jn – Northenden Jn	0	00	3	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3023	WJP1	Northenden Jn – Skelton Jn	33	52	30	12	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3023	SJD	Skelton Jn – Deansgate Jn	0	00	0	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3023	CDM1	Deansgate Jn – Change of ELR (Altrincham)	7	05	8	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3023	CDM2	Change of ELR (Altrincham) – Mickle Trafford Jn	7	69	35	40	8	Y	Y	Y	Y	Y	R1	Y	Y	R1 20 mph Lostock Gralam Up line bridge no.53 (19m 11ch)
-London-North-Western-North	0978	NW3025	WJP1	Skelton Jn – Partington Jn Network Rail Boundary	30	12	27	20	7	R1	R1	R1	N	R1	R1	R1	R1	R1 Line out of use from Signal D.7 to the Network Rail boundary NC/G1/2008/LNW395
-London-North-Western-North	0978	NW3027	CDM1	Network Rail Boundary (Metrolink) – Deansgate Jn	6	77	7	05	8	N	N	N	N	N	N	N	N	
-London-North-Western-North	0978	NW3027	CDM1	Deansgate Jn – Altrincham	7	05	8	00	8	N	N	N	N	N	N	N	N	
-London-North-Western-North	0978	NW3029	SNJ	Sandbach North Jn – Northwich West Jn	0	00	8	64	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3031	NSN	Northwich South Jn – Northwich Station Jn	8	37	8	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3033	HEG	Hartford East Jn – Hartford North Jn (East Goods line)	21	67	22	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3035	HWG	Hartford West Jn – Hartford North Jn (West Goods line)	0	11	0	29	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW3037	HCN	Hartford CLC Jn – Hartford Jn	0	72	0	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ6	Preston North Jn – Preston Fylde Jn	0	21	0	33	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ6	Preston Fylde Jn – Lancaster	0	33	20	78	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ7	Lancaster – Carnforth North Jn	0	00	6	08	8	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibited Lancaster Bay platform 2
-London-North-Western-North	0978	NW4001	CGJ7	Carnforth North Jn – Oxenholme	6	08	19	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ7	Oxenholme – Upperby Jn	19	11	68	23	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	CGJ7	Upperby Jn – Carlisle	68	23	69	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0978	NW4001	WCM1	Carlisle – Mossband Jn (Including Kingmoor Yard Goods lines)	0	00	7	57	8	Y	Y	Y	Y	R1	Y	Y	Y	R1 Prohibtied Carlisle Bay platform 7
-London-North-Western-North	0978	NW4001	WCM1	Mossband Jn – Gretna Jn	7	57	8	57	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0978	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7009	FHR4	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7009	FHR5	Blackburn – Daisyfield Jn	10	42	11	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7009	FHR5	Daisyfield Jn – Gannow Jn	11	09	21	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7009	FHR6	Gannow Jn – Hall Royd Jn	21	03	30	54	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7011	LHL	Farington Jn – Limit of Electrification	0	00	0	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7011	LHL	Limit of Electrification – Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7013	DJH	Daisyfield Jn – Hellifield	11	09	34	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7015	PRG	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0978	NW7017	GJC	Gannow Jn – Colne	21	03	27	37	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 30mph over Bridge 91 (25m 33ch – 25m 34ch)
+London-North-Western-North	0978	NW7019	MPR2	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVM	Miles Platting – Change of ELR	1	22	1	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVL1	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVL1	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVL1	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVL1	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVL2	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7021	MVL3	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7023	BPP	Philips Park West Jn – Brewery Jn	0	00	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7025	PPA1	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0978	NW7025	PPA1	Philips Park South Jn – Change of Mileage	2	07	3	12	7	R1	R1	R1	R1	R1	R1	R1	R1	R1 OPPOS applies over Bridge 4 (02m 20ch – 2m 40ch)

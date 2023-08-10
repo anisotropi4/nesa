@@ -8,62 +8,68 @@
      Line of
           ELR Line of Route / Sector Description
                                     oooo oooo oooo oooo RA
-                                                    86  87 88 90  91 92  Notes
-     route                           M  Ch M  Ch 000000 000   000 000000ooooooooooooooooooooooooooo
-     NW9005 CNB2
-              Change of Mileage (Site of Former Peak
-                                      0 00  0 28  8  N  N   Y  N  N   N
-              Forest Jn) – Change of Mileage (Site of
-              Former Buxton Jn)
-     NW9005 CNB3
-              Change of Mileage (Site of Former Buxton 161
-                                        15 16452  8  N  N   Y  N  N   N
-              Jn) – Buxton SB
-              Buxton SB – Buxton Sidings
-     NW9005 CNB4                    164 52 16512  8  N  N   Y  N  N   N
-              New Mills South Jn – Marple Wharf Jn
-     NW9007 TTA1                    172 17 17723  8  N  N   Y  N  N   N
-              Marple Wharf Jn – Romiley Jn
-     NW9007 TTA1                    177 23 17833  8  N  N   Y  N  N   N
-              Romiley Jn – Brinnington (Change of
-     NW9007 TTA1                    178 33 18100  7  N  N   Y  N  N   N
-              Mileage)
-              Brinnington (Change of Mileage) –
-     NW9007 TTA2                     42 77 46 24  7  N  N   Y  N  N   N
-              Ashburys East Jn
-              Marple Wharf Jn – Rose Hill Buffer Stop
-     NW9009 MRH                      11 02  9 78  8  N  N   Y  N  N   N
-              Romiley Jn – Woodley Jn
-     NW9011 RYH1                    178 33 17944  8  N  N   Y  N  N   N
-              Woodley Jn – Hyde Jn
-     NW9011 RYH2                      8 74  6 16  8  N  N   Y  N  N   N
-              Woodley Jn – Bredbury Sidings
-     NW9013 WJP1                     40 53 39 58  7  N  N   Y  N  N   N
-     NW9017 NMC1/ Hazel Grove High Level Jn – Cheadle Jn
-                                    177 40 18171  8  N  N   Y  N  N   N
-          2
-              Cheadle Jn – Northenden Jn
-     NW9017 WJP1                     35 64 33 52  8  N  N   Y  N  N   N
-              Buxton – Brigg’s Sidings
-     NW9019 BUX                       0 00  4 70  8  N  N   Y  N  N   N
-              Buxton – Hazel Grove East Jn
-     NW9021 BEJ                      19 09  2 35  8  N  N  R1  N  N   N R1 Prohibited Chapel-en-le-Frith - Dove Holes on the
-                                                                           Down & Up
-     NW9901 SKW1 Route Boundary (LN922) (Gargrave) –
-                                    230 00 23444  8  H  H   Y  H  N   N R1 Prohibited between Route Boundary (LN922)
-              Settle Jn                              R1 R1     R1          (Gargrave) and Hellifield
-              Settle Jn – Petteril Bridge Jn
-     NW9901 SAC                     234 44 30712  8  H  H   Y  H  N   N R1 10mph Down OB64 (246m 60ch - 247m 00ch)
-                                                     R1 R1     R1       R2 15mph Up OB106 (255m 60ch - 255m 40ch)
-                                                     R2 R2     R2       R3 15mph Down OB280 (286m 60ch - 287m 00ch)
-                                                     R3 R3     R3       R4 15mph Down OB328 (299m 60ch - 300m 00ch)
-                                                     R4 R4     R4       R5 15mph Down OB346 (304m 00ch - 304m 20ch)
-                                                     R5 R5     R5
-              Petteril Bridge Jn – London Road Jn
-     NW9901 NEC2                     59 26 59 45  8  H  H   Y  H  H   H
-              London Road Jn – Carlisle South Jn
-     NW9901 NEC2                     59 45 60 02  8  H  H   Y  H  H   H
-     NW9903 SKW1 Settle Jn – Change of Mileage
-                                    234 44 24944  8  H  H   Y  H  N   N
-              (Wennington)
-    October 2009                                    68K
+                                                     86 87  88 90 91  92  Notes
+     route                           M  Ch M  Ch 000 000000    000000 000ooooooooooooooooooooooooooo
+     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Network Rail
+                                      0 15  5  53 8  N   N  Y   N  N  N
+               Boundary (MDHC)
+               Olive Mount Jn – Edge Lane Jn
+     NW2029 OME3                      0 10  0  52 8  N   N  Y   N  N  N
+               Crewe North Jn – Limit of Electrification
+     NW3001 CNH1                     15818 159 55 8  Y   Y  Y   Y  Y  Y
+               (Crewe Steelworks)
+     NW3001 CNH1
+               Limit of Electrification (Crewe Steelworks)
+                                     15955 178 66 8  H   H  Y   H  N  N
+               – Chester East Jn
+               Chester East Jn – Change of ELR
+     NW3001 CNH2                     17866 179 56 8  H   H  Y   H  N  N
+               (Windmill Lane Tunnel)
+               Change of ELR (Windmill Lane Tunnel) –
+     NW3001 CNH3                     17956 188 40 8  N   N  Y   N  N  N
+               Route Boundary LNW / Wales
+     NW3001 CNH3
+               Route Boundary LNW / Wales - Holyhead
+                                     18840 263 56 8  N   N  Y   N  N  N
+               Chester East Jn – Acton Grange Jn
+     NW3003 CHW1                      0 24  16 19 8  N   N  Y   N  N  N
+               Route Boundary (GW731) (Crewe Jn) –
+     NW3005 WSJ2                     19900 202 60 8  N   N  Y   N  N  N
+               Route Boundary Wales / LNW including
+               ‘Up & Down’ loop Wrexham General ELR
+               WDB1
+     NW3005 WSJ2
+               Route Boundary Wales / LNW - Saltney
+                                     20260 212 06 8  N   N  Y   N  N  N
+               Jn
+               Wrexham Central – Wrexham Exchange
+     NW3007 WDB1                      0 16  0  68 5  N   N  N   N  N  N
+               Jn
+               Wrexham Exchange Jn – Change of RA at
+     NW3007 WDB1                      0 68  13 20 8  N   N  Y   N  N  N
+               13m 20ch (South end of Hawarden Bridge)
+     NW3007 WDB1
+               Change of RA at 13m 20ch (South end of
+                                     13 20  13 33 7  N   N  Y   N  N  N
+               Hawarden Bridge) – Change of ELR
+     NW3007 WDB2
+               Change of ELR - Route Boundary Wales /
+                                     14 15  11 00 7  N   N  Y   N  N  N
+            /3 LNW
+     NW3007 WDB3
+              Route Boundary Wales / LNW Bidston
+                                     11 00  0  08 7  N   N  Y   N  N  N
+              Dee Jn
+              Chester North Jn – Chester South Jn
+     NW3009 CVS                       0 36  0  13 8  H  H   Y  H   N  N
+              Chester West Jn – Hooton South Jn
+     NW3011 CRR1                      0 16  7  68 8  H  H   R2 H   H  N R1 Prohibited between Chester North Jn and Hooton
+                                                     R1 R1     R1  R1      South Jn
+                                                                        R2 5mph on the Up through Bridge No.3 at 01m 37ch
+                                                                           between Bache - Capenhurst
+              Hooton South. Jn – Ellesmere Port (Limit
+     NW3013 HHJ                       0 02  3  44 8  N   N  Y   N  N  N
+              of DC electrification)
+
+
+    October 2009                                    68B

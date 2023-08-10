@@ -11,69 +11,86 @@
                                                            Notes
      route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
                                   M   Ch M  Ch
-     NW7015 PRGEnd of Line (Padiham Power Station
-                                    1 76  0 00  7    Y
-               Sidings) – Rose Grove West Jn
-     NW7017 GJCGannow Jn – Colne   21 03 27 37  8    Y
-               Thorpes Bridge Jn – Network Rail
-     NW7019 MPR2                    2 22  3 05  8    N
-               Boundary (Metrolink (Down Up
-               Boundary at 2m 32ch))
-               Miles Platting Jn – Philips Park West
-     NW7021 MVL1                    1 30  1 59  8    Y
-               Jn
-               Philips Park West Jn – Baguley Fold
-     NW7021 MVL1                    1 59  2 39  8    Y
-               Jn
-               Baguley Fold Jn – Ashton Moss North
-     NW7021 MVL1                    2 39  5 41  8    Y
-               Jn
-               Ashton Moss North Jn – Stalybridge
-     NW7021 MVL1                    5 41  7 46  8    R1   R1Prohibited between Ashton Moss North Jn and Ashton on the Up
-               Jn                                           Ashton line
-               Stalybridge Jn – Stalybridge Tunnel Jn
-     NW7021 MVL2                    7 46  8 08  8    Y
-               Stalybridge Tunnel Jn – Route
-     NW7021 MVL3                    8 08 15 11  8    R1   R1Prohibited Mossley Down Huddersfield platform
-               Boundary (LN860) (Springwood Jn)      R2   R2Prohibited between Mossley and Greenfield on the Up Huddersfield
-                                                            line
-              Philips Park West Jn – Brewery Jn
-     NW7023 BPP                     0 00  0 18  8    Y
-              Philips Park West Jn – Philips Park
-     NW7025 PPA1                    1 59  2 07  8    Y
-              South Jn
-              Philips Park South Jn – Change of
-     NW7025 PPA1                    2 07  3 12  7    Y
-              Mileage
-              Change of Mileage – Ashburys West
-     NW7025 PPA2                    0 57  0 00  7    Y
+              Basford Hall Jn – Site of former
+     NW1009 BHI                   156 16 15876  8    Y
+              Sydney Bridge Jn (Independent lines)
+     NW1009
+          CMP1Site of former Sydney Bridge Jn –
+                                  158 76 16228  8    Y
+              Sandbach South Jn (Independent
+              lines)
+     NW1011
+          GSG Gresty Lane Jn – Salop Goods Jn
+                                   0  00  0 37  8    Y
+     NW1013
+          CSG Crewe Sorting Sidings North – Gresty
+                                  157 26 15747  8    Y
+              Lane
+     NW1015
+          CIL Salop Goods Jn – Crewe North Jn
+                                  157 64 15818  8    Y
+              (Chester Independent lines)
+     NW1017
+          LLI Salop Goods Jn – Boundary
+                                  157 71 15873  8    Y
+              (NW1001) (Crewe Coal Yard Liverpool
+              Independent lines)
+          CHW1/ Acton Grange Jn – Warrington South
+     NW1019                        16 19 17 76  8    Y
+          2   Jn (Helsby lines)
+     NW1021
+          WEE Winwick Jn – Earlestown East Jn
+                                  185 49 18710  8    Y
+     NW1021
+          DSE Earlestown East Jn – Newton-le-
+                                   14 75  1619  8    Y
+              Willows Jn (Electrified section)
+     NW1021
+          NGJ Newton-le-Willows Jn – Golborne Jn
+                                    0 00  0 53  8    Y
+     NW1023
+          HOB2Haydock Branch Jn – End of Line
+                                    0 00  0 53  8    Y
+     NW1025
+          IMG Bamfurlong Sidings Jn – Ince Moss Jn
+                                    0 18  0 78  7    Y
+     NW1027
+          PSR1Preston South Jn – Preston Docks
+                                   21 39 21 47  8    Y
+              Branch ELR Change
+     NW1027
+          PSR2Preston Docks Branch ELR Change –
+                                    0 00  0 40  8    Y
+              Network Rail Boundary (Ribble Steam
+              Railway)
+     NW2001
+          WJL1NW1001 (Weaver Jn) – Ditton East Jn
+                                  174 53 18267  8    Y
+     NW2001
+          WJL2Ditton East Jn – Speke East Jn
+                                  182 67 18672  8    Y
+              Speke Est Jn – Edge Hill East Jn
+     NW2001 WJL3                  186 72 19175  8    Y
+              Edge Hill East Jn – Liverpool Lime
+     NW2001 WJL4                  191 75 19352  8    Y
+              Street
+     NW2003
+          RDB Runcorn – Network Rail Boundary
+                                    0 02  0 69  8    Y
+              (Runcorn Dock Branch)
+     NW2005
+          SCR Speke East Jn – Garston Jn
+                                   22 59 23 52  8    Y
+     NW2007
+          AEG Allerton East Jn – Garston Jn
+                                    0 00  0 28  8    Y
+     NW2009
+          SDJ2End of Line (Latchford) – Ditton East
+                                   10 06 18 55  8    Y
               Jn
-              Baguley Fold Jn – Change of Mileage
-     NW7027 PPP1                    2 39  2 13  8    Y
-              Change of Mileage – Philips Park
-     NW7027 PPP2                    0 00  0 19  8    Y
-              South Jn
-              Hunts Cross West Jn – Liverpool
-     NW8001 HXS1                    6 11  0 02  8    N
-              Central
-     NW8001
-          HXS2Liverpool Central. – Paradise Jn
-                                   37 13 36 71  8    N
-     NW8001
-          HXS2Paradise Jn – Sandhills Jn
-                                   36 71 34 75  8    N
-     NW8001
-          HXS3Sandhills Jn – Bootle Jn
-                                    1 41  2 39  8    Y
-     NW8001
-          HXS3Bootle Jn – Southport 2 39 18 35  8    R1   R1Prohibited Blundellsands & Crosby Down platform (Down Southport
-                                                     R2     line)
-                                                          R2Prohibited Blundellsands & Crosby Up platform (Up Southport line)
-              Paradise Jn – James Street (Stock
-     NW8003 SIL                     0 32  0 53  8    N
-              Interchange/Holding line)
+          WOA1 Walton Old Jn – Arpley Jn
+     NW2011                         0 68  0 00  8    Y
 
 
 
-
-                                                     92
+                                                     83

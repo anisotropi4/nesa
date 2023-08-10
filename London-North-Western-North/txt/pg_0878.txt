@@ -3,79 +3,67 @@
 
                                        LNW North Route Sectional Appendix Module NWRC
 
-
+     Table D1A – Route clearance of diesel multiple units
+                                                                                       Last Updated: 29/04/23
+     To be read in conjunction with General Notes.
 
      Line of
-          ELR Line of Route / Sector Description oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159
-                                                                               Notes
-     route                          M  Ch  M Ch    0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
-
-     NW7009
-          FHR5Daisyfield Jn – Gannow Jn
-                                    11  09 21 03 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-     NW7009
-          FHR6Gannow Jn – Hall Royd Jn
-                                    21  03 30 54 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-     NW7011
-          LHL Farington Jn - Limit of electrification
-                                     0  00  0 56 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-     NW7011
-          LHL Limit of electrification - Lostock Hall Jn
-                                     0  56  0 77 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              (Lostock Hall Lines)
-              Daisyfield Jn – Hellifield
-     NW7013 DJH                     11  09 34 68 Y  Y  N  N  Y  Y  Y  Y  Y  N
-     NW7015 PRG
-              End of Line (Padiham Power Station
-                                     1  76  0 00 N  N  N  N  N  N  N  N  N  N Line out of use
-              Sidings) – Rose Grove West Jn
-              Gannow Jn – Colne
-     NW7017 GJC                     21  03 27 37 Y  Y  Y  Y  Y  Y  Y  Y R1  N R1Prohibited between Brunley Central
-                                                                                and Colne
-              Thorpes Bridge Jn – Network Rail
-     NW7019 MPR2                     2  22 3  05 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Boundary (Metrolink (Down Up Boundary
-              at 2m 32ch))
-              Miles Platting Jn – Philips Park West Jn
-     NW7021 MVL1                     1  30  1 59 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Philips Park West Jn – Baguley Fold Jn
-     NW7021 MVL1                     1  59  2 39 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Baguley Fold Jn – Ashton Moss North Jn
-     NW7021 MVL1                     2  39  5 41 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Ashton Moss North Jn – Stalybridge Jn
-     NW7021 MVL1                     5  41  7 46 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Stalybridge Jn – Stalybridge Tunnel Jn
-     NW7021 MVL2                     7  46  8 08 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Stalybridge Tunnel Jn – Route Boundary
-     NW7021 MVL3                     8  08 15 11 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              (LN860) (Springwood Jn)
-              Philips Park West Jn – Brewery Jn
-     NW7023 BPP                      0  00 0  18 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Philips Park West Jn – Philips Park South
-     NW7025 PPA1                     1  59 2  07 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+          ELR                      oooo oooo oooo oooo 121 142 143 144 150 153 155 156 158 159
+              Line of Route / Sector Description                               Notes
+     route                          M  Ch  M  Ch   0000 0000 0000 0000 0000 0000 0000 0000 0000 ooooooooooooooooooooooooooo
+     NW1001 LEC2
+              Armitage Jn (MD101) (Sectional
+                                    119 20124 39 Y  N  N  N  Y  Y  Y  Y  Y  Y
+              Appendix Boundary) – Rugeley North Jn
+              Rugeley North Jn – Colwich Jn
+     NW1001 LEC2                    124 39127 05 Y  N  N  N  Y  Y  Y  Y  Y  Y
+              Colwich Jn – Stafford Trent Valley Jn
+     NW1001 LEC2                    127 05133 06 Y  N  N  N  Y  Y  Y  Y  Y  Y
+              No.1
+              Stafford Trent Valley Jn No.1 – Change of 133
+     NW1001 LEC3                        06133 60 Y  N  N  N  Y  Y  Y  Y  Y  Y
+              ELR (North of Stafford)
+              Change of ELR (North of Stafford) –Little
+     NW1001 LEC4                    133 60137 42 Y  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Bridgeford Jn
+              Little Bridgeford Jn – Heamies Bridge
+     NW1001 LEC4                    137 42140 00 Y  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              Little Bridgeford Jn – Heamies Bridge
+     NW1001 LEC6                    137 42139 64 Y  Y  Y  Y  Y  Y  Y  Y  Y  Y
+              (Down Slow line only)
+              Heamies Bridge – Basford Hall Jn
+     NW1001 LEC4                    140 00156 16 Y  N  N  N  Y  Y  Y  Y  Y  N
+              Basford Hall Jn – Change of ELR (Crewe
+     NW1001 LEC4                    156 16157 20 Y  N  N  N  Y  Y  Y  Y  Y  N
+              South)
+              Change of ELR (Crewe South) – Crewe
+     NW1001 LEC5                    157 20157 60 Y  N  N  N  Y  Y  Y  Y  Y  N
+              South Jn
+              Crewe South Jn – Crewe North Jn
+     NW1001 LEC5                    157 60158 18 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Crewe North Jn – Change of ELR
+     NW1001 LEC5                    158 18159 00 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              (Between Crewe Coal Yard and Winsford
+              South Jn)
+     NW1001 CGJ1
+              Change of ELR (Between Crewe Coal
+                                    159 00170 56 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Yard and Winsford South Jn) – Hartford
               Jn
-              Philips Park South Jn – Change of
-     NW7025 PPA1                     2  07 3  12 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Mileage
-              Change of Mileage – Ashburys West Jn
-     NW7025 PPA2                     0  57 0  00 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Baguley Fold Jn – Change of Mileage
-     NW7027 PPP1                     2  39 2  13 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Change of Mileage – Philips Park South
-     NW7027 PPP2                     0  00 0  19 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
-              Jn
-              Hunts Cross West Jn – Liverpool Central
-     NW8001 HXS1                     6  11  0 02 N  N  N  N  N  N  N  N  N  N
-              Liverpool Central – Paradise Jn
-     NW8001 HXS2                    37  13 36 71 N  N  N  N  N  N  N  N  N  N
-              Paradise Jn – Sandhills Jn
-     NW8001 HXS2                    36  71 34 75 N  N  N  N  N  N  N  N  N  N
-              Sandhills Jn – Bootle Jn
-     NW8001 HXS3                     1  41  2 39 Y  N  N  N  N  N  N  N  N  N
-              Bootle Jn – Southport
-     NW8001 HXS3                     2  39 18 35 Y  N  N  N  N  N  N  N  N  N
+              Hartford Jn – Change of ELR (Preston
+     NW1001 CGJ1                    170 56176 00 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Brook Tunnel)
+              Change of ELR (Preston Brook Tunnel) –
+     NW1001 CGJ2                    176 00180 24 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Acton Grange Jn
+              Acton Grange Jn – Warrington South Jn
+     NW1001 CGJ2                    180 24181 76 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Warrington South Jn – Winwick Jn
+     NW1001 CGJ3                    181 76185 49 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Winwick Jn – Golborne Jn
+     NW1001 CGJ4                    185 49187 76 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
+              Golborne Jn – Wigan Station Jn
+     NW1001 CGJ5                     0  53 6  33 Y  Y  Y  Y  Y  Y  Y  Y  Y  N
 
 
-
-
-    October 2009                                    16A
+    October 2009                                     7

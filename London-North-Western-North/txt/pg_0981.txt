@@ -6,72 +6,68 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                     oooo oooo oooo oooo RA
-                                                     59 60 66 67 68 70 73 97/3
-                                                                             Notes
-     route                            M  Ch M  Ch 000 000 000 000 000
-                                                                   000 000 000 ooooooooooooooooooooooooooo
-     NW5010 SCQ2
-              Change of Mileage (Site of Former Milton Jn)
-                                       0 00  6  65 6 N  N  N  N  N  N  N  N Line leased to Moorland & City Railways Ltd
-              – Change of Mileage (Site of Former Leek
-              Brook Jn)
-     NW5010 SCQ3
-              Change of Mileage (Site of Former Leek
-                                       0 00  8  01 6 N  N  N  N  N  N  N  N Line leased to Moorland & City Railways Ltd
-              Brook Jn) – Caldon Quarry
-              Heaton Norris Jn – Guide Bridge Station Jn
-     NW5011 HNS                        0 00  4  73 8 Y  Y  Y  Y  Y  Y  Y  Y
-     NW5012 NSS
-              Route Boundary (LN3505) (North Stafford
-                                       1 40  0  00 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Jn) – Stoke Jn
-              Denton Jn – Change of Mileage (Site of
-     NW5013 DJO1                       4 10  5  28 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Former Crowthorne Jn)
-     NW5013 DJO2
-              Change of Mileage (Site of Former
-                                       0 53  1  19 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Crowthorne Jn) – Change of Mileage (Site of
-              Former Ashton Moss South Jn)
-     NW5013 AMJ
-              Change of Mileage (Site of Former Ashton
-                                       0 00  0  40 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Moss South Jn) – Ashton Moss North Jn
-              Hadfield – Dinting East Jn
-     NW5015 HAJ                       12 61 12  00 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Dinting East Jn – Dinting West Jn
-     NW5015 HAJ                       12 00 11  66 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Dinting West Jn – Hyde Jn
-     NW5015 HAJ                       11 66  6  16 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Hyde Jn – Guide Bridge West Jn
-     NW5015 HAJ                        6 16  5  10 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Guide Bridge West Jn – Guide Bridge
-     NW5015 HAJ                        5 10  4  73 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Station Jn
-              Guide Bridge Station Jn – Ashburys East Jn
-     NW5015 HAJ                        4 73  1  56 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Ashburys East Jn – Ashburys West Jn
-     NW5015 HAJ                        1 56  1  36 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Ashburys West Jn – Ardwick Jn
-     NW5015 HAJ                        1 36  0  40 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Dinting South Jn – Dinting East Jn
-     NW5017 DSD                        0 72  1  05 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Glossop – Dinting South Jn
-     NW5019 GDW                        0 01  0  72 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Dinting South Jn – Dinting West Jn
-     NW5019 GDW                        0 72  1  05 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Stalybridge Jn – Guide Bridge West Jn
-     NW5021 SAJ                        2 08  0  04 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Manchester Piccadilly East Jn – Castlefield
-     NW6001 COL                      188 48 189 67 8 Y  Y  Y  Y  Y  Y  Y  Y
+          ELR Line of Route / Sector
+                                 oooo oooo oooo oooo RA 37/7
+                                                    43 47/2 47/4 47/7
+                                                                56 57 58  Notes
+     route    Description         M  Ch M  Ch 0000 37/9 0000 0000 0000 0000 0000 000 000
+                                                                         ooooooooooooooooooooooooooo
+                                                 0000
+              Marple Wharf Jn – Rose Hill Buffer
+     NW9009 MRH                    11 02  9 78 8  Y  N  Y  Y  Y  Y  Y  Y
+              Stop
+              Romiley Jn – Woodley Jn
+     NW9011 RYH1                  178 33179 44 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Woodley Jn – Hyde Jn
+     NW9011 RYH2                   8  74  6 16 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Woodley Jn – Bredbury Sidings
+     NW9013 WJP1                   40 53 39 58 7  Y  N  Y  Y  Y  Y  Y  Y
+     NW9017 NMC1/ Hazel Grove High Level Jn – Cheadle
+                                  177 40181 71 8  Y  Y  Y  Y  Y  Y  Y  Y
+          2   Jn
+              Cheadle Jn – Northenden Jn
+     NW9017 WJP1                   35 64 33 52 8  Y  N  Y  Y  Y  Y  Y  Y
+              Buxton – Brigg’s Sidings
+     NW9019 BUX                     0 00  4 70 8  Y  N  Y  Y  Y  Y  Y  Y
+              Buxton – Hazel Grove East Jn
+     NW9021 BEJ                    19 09  2 35 8  R1 N  R1 R1 R1 R1 R1 R1 R1 Restricted to 25mph over Bridge 42
+                                                                           (10m 20ch) and must not pass any
+                                                                           other train or vehicle on the bridge
+     NW9901 SKW1 Route Boundary (LN922) (Gargrave) – 230
+                                      00234 44 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Settle Jn
+              Settle Jn – Petteril Bridge Jn
+     NW9901 SAC                   234 44307 12 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Petteril Bridge Jn – London Road Jn
+     NW9901 NEC2                   59 26 59 45 8  Y  Y  Y  Y  Y  Y  Y  Y
+              London Road Jn – Carlisle South Jn
+     NW9901 NEC2                   59 45 60 02 8  Y  Y  Y  Y  Y  Y  Y  Y
+     NW9903 SKW1 Settle Jn – Change of Mileage
+                                  234 44249 44 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (Wennington)
+              Change of Mileage (Wennington) –
+     NW9903 SJC                    9  45  0 31 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Change of Mileage (Site of former
+              Carnforth East Jn)
+     NW9903 CEC
+              Change of Mileage (Site of former
+                                   0  25  0 04 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Carnforth East Jn) – Carnforth Station
               Jn
-              Castlefield Jn – Ordsall Lane Jn
-     NW6001 COL                      189 67 190 28 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Ordsall Lane Jn – Windsor Bridge South Jn
-     NW6001 OLW                      190 28 191 01 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Windsor Bridge South Jn – Windsor Bridge
-     NW6001 MVE1                       1 55  1  66 8 Y  Y  Y  Y  Y  Y  Y  Y
-              North Jn
-    October 2009                                    66G
+              Appleby North Jn – Appleby West Jn
+     NW9907 WAR                   277 27277 56 7  Y  N  Y  Y  Y  Y  Y  Y
+              Network Rail Boundary (Warcop) –
+     NW9907 EDE                    11 03 11 46 7  Y  N  Y  Y  Y  Y  Y  Y
+              End of Line
+     NW9909 NEC2
+              Route Boundary (LN682) (Corby
+                                   58 00 59 26 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Gates) – Petteril Bridge Jn
+              London Road Jn – Bog Jn (Newcastle
+     NW9911 NGD                    0  00  0 25 8  Y  N  Y  Y  Y  Y  Y  Y
+              Goods Lines)
+
+
+
+
+    October 2009                                    65A

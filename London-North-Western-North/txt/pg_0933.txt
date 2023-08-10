@@ -2,66 +2,71 @@
 
 
                                        LNW North Route Sectional Appendix Module NWRC
-
-
-
-              Carnforth North Jn – Carnforth Station
-     NW4033 CBC1                   0  19  0 38  Y  Y   Y  N   N  N   Y  N   N
-              Jn
-              Carnforth Station Jn – Limit of
-     NW4033 CBC1                   0  38  0 60  Y  Y   Y  N   N  N   Y  N   N
-              Electrification (Carnforth)
-              Limit of Electrification (Carnforth) –
-     NW4033 CBC1                   0  60 74 66  Y  Y   Y  N   N  N   Y  N   N
-              Whitehaven
-              Whitehaven – Bransty SB (Change of
-     NW4033 CBC1                   74 66 74 73  Y  Y   Y  N   N  N   Y  N   N
-              ELR)
-              Bransty SB (Change of ELR) –
-     NW4033 CBC2                   0  16 12 05  Y  Y   Y  N   N  N   Y  N   N
-              Change of ELR (Maryport)
-              Change of ELR (Maryport) – Carlisle
-     NW4033 CBC3                   0  00 27 49 EH  EH EH  N   N  N   N  N   N
-              South Jn
-              Dalton Jn – Park South Jn
-     NW4041 DAP                    0  00  0 76  Y  Y   Y  N   N  N   Y  N   N
-              Crewe North Jn – Sandbach North Jn
-     NW5001 CMP1                  158 17162 62  Y  Y   Y  N   Y  Y   Y  Y   Y
-              Sandbach North Jn – Wilmslow South
-     NW5001 CMP1                  162 62176 53  Y  Y   Y  N   Y  Y   Y  Y   Y
-              Jn
-              Wilmslow South Jn – Cheadle Hulme
-     NW5001 CMP1                  176 53180 67  Y  Y   Y  N   Y  Y   Y  Y   Y
-              North Jn
-              Cheadle Hulme North Jn – Edgeley Jn 180
-     NW5001 CMP1                      67182 36  Y  Y   Y  N   Y  Y   Y  Y   Y
-              No.1
-              Edgeley Jn No.1 – Edgeley Jn
-     NW5001 CMP2                  182 36182 59  Y  Y   Y  N   Y  Y   Y  Y   Y
-              Edgeley Jn – Slade Lane Jn
-     NW5001 CMP2                  182 59186 46  Y  Y   Y  N   Y  Y   Y  Y   Y
-              Slade Lane Jn – Ardwick Jn
-     NW5001 CMP2                  186 46188 08  Y  Y   Y  N   Y  Y   Y  Y   Y
-              Ardwick Jn – Manchester Piccadilly
-     NW5001 CMP2                  188 08188 48  Y  Y   Y  N   Y  Y   Y  Y   Y
-              East Jn
-              Manchester Piccadilly East Jn –
-     NW5001 CMP2                  188 48188 70  Y  Y   Y  N   Y  Y   Y  Y   Y
-              Manchester Piccadilly
-              Wilmslow South Jn – Heald Green
-     NW5003 STY                    0  00  2 50  Y  Y   Y  N   Y  N   Y  Y   Y
-              South Jn
-              Heald Green South Jn – Heald Green
-     NW5003 STY                    2  50  3 13  Y  Y   Y  N   Y  N   Y  Y   Y
-              North Jn
-              Heald Green North Jn – Slade Lane
-     NW5003 STY                    3  13  9 44  Y  Y   Y  N   Y  N   Y  Y   Y
-              Jn
-              Heald Green South Jn – Heald Green
-     NW5005 SMA                    1  48  1 10  Y  Y   Y  N   N  N   Y  N   Y
-              West Jn
-
-
-
-
-    October 2009                                     36
+              Paradise Jn – James Street (Stock
+     NW8003 SIL                    0  32  0 53  N    N    N   N    Y   Y
+              Interchange/Holding line)
+              Sandhills Jn – Walton Jn
+     NW8005 SJO1                   34 75 33 16  N    N    N   N    Y   Y
+              Walton Jn – Ormskirk
+     NW8005 SJO2                   3  20 12 13  N    N    N   N    Y   Y
+              Bootle Jn – Change of ELR (Site of
+     NW8007 HXS/                   2  34  3 52  N    N    N   N   N    N
+          NMM former North Mersey Jn)
+     NW8007 NMB
+              Change of ELR (Site of former North
+                                   34 40 32 42  N    N    N   N   N    N
+              Mersey Jn) – Change of ELR (Site of
+              former Sefton Jn)
+     NW8007 AFL
+              Change of ELR (Site of former Sefton
+                                   0  00  0 40  N    N    N   N   N    N
+              Jn) – Aintree Station Jn
+              Walton Jn – Kirkby
+     NW8009 WJK                    33 16 29 41  N    N    N   N    Y   Y
+              Mann Island Jn – Mann Island Jn via
+     NW8011 MIR1                   0  00  2 12  N    N    N   N    Y   Y
+              Loop
+              Mann Island Jn – Hamilton Square Jn
+     NW8011 MIR2                   0  69  1 72  N    N    N   N    Y   Y
+     NW8011 CWK1 Hamilton Square Jn – Change of ELR
+                                   1  72  3 00  N    N    N   N    Y   Y
+              (Birkenhead Park)
+     NW8011 CWK2 Change of ELR (Birkenhead Park) –
+                                   3  00  4 40  N    N    N   N    Y   Y
+              Bidston East Jn
+     NW8011 CWK3 Bidston East Jn – Bidston Dee Jn
+                                   4  40  4 78  N    N    N   N    Y   Y
+     NW8011 CWK3 Bidston Dee Jn – West Kirby
+                                   4  78 10 46  N    N    N   N    Y   Y
+              Canning Street Jn – Rock Ferry
+     NW8013 MIR2                   1  60  3 42  N    N    N   N    Y   Y
+              Rock Ferry – Hooton South Jn
+     NW8013 CRR2                   13 43  7 68  N    N    N   N    Y   Y
+              Bidston East Jn – New Brighton (New
+     NW8015 BEN                    4  40  7 18  N    N    N   N    Y   Y
+              Brighton lines)
+     NW8017 CCS1/ Network Rail Boundary (Canning
+                                   15 40 13 30  N    N    N   N   N    N
+          2   Street North) – Rock Ferry South Jn
+     NW9001 MAS
+              Route Boundary (LN808) (Dore West
+                                  154 20174 01  N    N    N   N   N    N
+              Jn) – Chinley North Jn
+              Chinley North Jn – New Mills South Jn 168
+     NW9001 TTA1                      39172 27  N    N    N   N   N    N
+     NW9001 NMC1 New Mills South Jn – Hazel Grove
+                                  172 27177 40  N    N    N   N   N    N
+              High Level Jn
+              Hazel Grove High Level Jn – Hazel
+     NW9001 HGC                    2  62  2 35  N    N    N   N   N    N
+              Grove East Jn
+     NW9001 BEJ
+              Hazel Grove East Jn (Limit of
+                                   2  35  0 00  N    N    N   N   N    N
+              electrification) – Edgeley Jn No.1
+              Chinley East Jn – Chinley South Jn
+     NW9003 CYC                   168 32167 56  N    N    N   N   N    N
+              (Chord line)
+              Chinley North Jn – Chinley South Jn
+     NW9005 CNB1                  168 39167 56  N    N    N   N   N    N
+    October 2009                                    28N

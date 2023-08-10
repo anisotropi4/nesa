@@ -1,26 +1,27 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	380	385	390	397	507	508	Notes
-London-North-Western-North	0917	NW4005	PBN	Preston Fylde Jn – Kirkham North Jn	0	33	8	28	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4005	PBN	Kirkham North Jn – Poulton Jn	8	28	14	40	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4005	PBN	Poulton Jn – Blackpool North	14	40	17	49	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4007	KBS1	Kirkham North Jn – Blackpool South	8	28	20	00	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4009	WPS	Poulton – End of line	14	40	18	08	N	N	N	N	N	N	Line out of use from 14m 75ch to the end of the line NC/G1/2001/LNW294
-London-North-Western-North	0917	NW4011	MSM	Morecambe South Jn – Morecambe Buffer Stops	0	00	2	12	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4013	HBL	Hest Bank Jn – Bare Lane Jn	0	00	1	30	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4017	MHH	Morecambe Jn – Heysham Port	0	00	4	01	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4019	OXW	Oxenholme – Windermere	0	00	10	15	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4021	UCJ	Upperby Jn – Bog Jn	0	38	1	07	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4021	UCJ	Bog Jn – Rome St Jn	1	07	1	23	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4023	ULR	Upperby Jn – London Rd Jn	0	00	0	34	N	N	H	E	N	N	
-London-North-Western-North	0917	NW4025	MCG	Currock Jn – Bog Jn	0	00	0	44	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4027	BSN	Bruntill Branch Jn – Stainton Jn via Down and Up Brunthill Branch Siding	0	66	0	2	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4027	ETC	End of line Buffer Stops – Network Rail Boundary / Brunthill via Down and Up Brunthill line	96	9	95	6	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4029	GJH	Mossband Jn – Bush-on-Esk West Jn	3	02	1	06	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4029	GJH	Bush-on-Esk West Jn – Network Rail Boundary	1	06	0	24	N	N	N	N	N	N	Line out of use
-London-North-Western-North	0917	NW4031	GSW	Gretna Jn – Route Boundary (SC031) (Eastriggs)	116	13	115	40	N	N	H	N	N	N	
-London-North-Western-North	0917	NW4033	CBC1	Carnforth North Jn – Carnforth Station Jn	0	19	0	38	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4033	CBC1	Carnforth Station Jn – Limit of Electrification (Carnforth)	0	38	0	60	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4033	CBC1	Limit of Electrification (Carnforth) – Whitehaven	0	60	74	66	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4033	CBC1	Whitehaven – Bransty SB (Change of ELR)	74	66	74	73	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4033	CBC2	Bransty SB (Change of ELR) – Change of ELR (Maryport)	0	16	12	05	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4033	CBC3	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	N	N	N	N	N	N	
-London-North-Western-North	0917	NW4041	DAP	Dalton Jn – Park South Jn	0	00	0	76	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	323	325	350	Notes
+London-North-Western-North	0917	NW7001	MVM	Manchester Victoria East Jn (Man Vic West Jn – East Jn on NW6005) – Miles Platting Jn	0	09	1	22	EH	R1	N	N	N	H	N	R1 Prohibited between Limit of Electrification and Miles Platting Jn
+London-North-Western-North	0917	NW7001	MPR1	Miles Platting Jn – Brewery Jn	1	30	1	52	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7001	MPR1	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7001	MVN2	Thorpes Bridge Jn – Castleton South Jn	2	17	8	21	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7001	MVN2	Castleton South Jn – Castleton East Jn	8	21	8	52	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7001	MVN2	Castleton East Jn – Hall Royd Jn	8	52	19	61	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7001	MVN2	Hall Royd Jn – Route Boundary (LN854) (Turners Lane Jn)	19	61	22	62	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7005	CEH	Castleton East Jn – Castleton North Jn	0	00	0	37	N	N	N	N	N	N	N	
+London-North-Western-North	0917	NW7005	CPI1	Castleton South Jn – Castleton North Jn	8	21	8	50	N	N	N	N	N	N	N	
+London-North-Western-North	0917	NW7005	CPI2	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	N	N	N	N	N	N	N	
+London-North-Western-North	0917	NW7006	SFO	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	N	N	N	N	N	EH	N	
+London-North-Western-North	0917	NW7007	FCO	Farington Curve Jn – Ormskirk	25	64	12	15	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR1	Farington Curve Jn - Lostock Hall Depot	0	00	0	75	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR2	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR3	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR4	Blackburn Bolton Jn – Blackburn	10	11	10	42	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR5	Blackburn – Daisyfield Jn	10	42	11	09	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR5	Daisyfield Jn – Gannow Jn	11	09	21	03	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7009	FHR6	Gannow Jn – Hall Royd Jn	21	03	30	54	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7011	LHL	Farington Jn - Limit of Electrification	0	00	0	56	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7011	LHL	Limit of Electrification - Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7013	DJH	Daisyfield Jn – Hellifield	11	09	34	68	EH	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7015	PRG	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0917	NW7017	GJC	Gannow Jn – Colne	21	03	27	37	N	N	N	N	N	H	N	
+London-North-Western-North	0917	NW7019	MPR2	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	N	N	N	N	N	H	N	

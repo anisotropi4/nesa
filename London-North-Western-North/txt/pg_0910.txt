@@ -4,68 +4,70 @@
                                        LNW North Route Sectional Appendix Module NWRC
 
 
-
      Line of
           ELR Line of Route / Sector Description
                                     oooo oooo oooo oooo
                                                   317  319 321 322  323 325  350  Notes
-     route                           M  Ch M  Ch  0000     00000000 00000000 0000oooooooooooooooo
-                                                                                 ooooooooooo
-              Romiley Jn – Brinnington (Change of
-     NW9007 TTA1                     178 33181 00  N   N    N   N    N   H    N
-              Mileage)
-              Brinnington (Change of Mileage) –
-     NW9007 TTA2                     42  77 46 24  N   N    N   N    N   H    N
-              Ashburys East Jn
-              Marple Wharf Jn – Rose Hill Buffer Stop
-     NW9009 MRH                      11  02 9  78  N   N    N   N    N   H    N
-              Romiley Jn – Woodley Jn
-     NW9011 RYH1                     178 33179 44  N   N    N   N    N   H    N
-              Woodley Jn – Hyde Jn
-     NW9011 RYH2                      8  74 6  16  N   N    N   N    N   H    N
-              Woodley Jn – Bredbury Sidings
-     NW9013 WJP1                     40  53 39 58  N   N    N   N    N   N    N
-     NW9017 NMC1/ Hazel Grove High Level Jn – Cheadle Jn
-                                     177 40181 71  N   N    N   N    N   N    N
-          2
-              Cheadle Jn – Northenden Jn
-     NW9017 WJP1                     35  64 33 52  N   N    N   N    N   N    N
-              Buxton – Brigg’s Sidings
-     NW9019 BUX                       0  00 4  70  N   N    N   N    N   N    N
-              Buxton – Hazel Grove East Jn
-     NW9021 BEJ                      19  09 2  35  N   N    N   N    N   H    N
-     NW9901 SKW1 Route Boundary (LN922) (Gargrave) –
-                                     230 00234 44  N   N    N   N    N   H    N
-              Settle Jn
-              Settle Jn – Petteril Bridge Jn
-     NW9901 SAC                      234 44307 12  N   N    N   N    N   H    N
-              Petteril Bridge Jn – London Road Jn
-     NW9901 NEC2                     59  26 59 45  N   N    N   N    N   H    N
-              London Road Jn – Carlisle South Jn
-     NW9901 NEC2                     59  45 60 02  N   N    N   N    N   H    N
-     NW9903 SKW1 Settle Jn – Change of Mileage
-                                     234 44249 44  N   N    N   N    N   H    N
-              (Wennington)
-              Change of Mileage (Wennington) – Change
-     NW9903 SJC                        9 45 0  31  N   N    N   N    N   H    N
-              of Mileage (Site of former Carnforth East
-              Jn)
-     NW9903 CEC
-              Change of Mileage (Site of former Carnforth
-                                       0 25 0  04  N   N    N   N    N   H    N
-              East Jn) – Carnforth Station Jn
-              Appleby North Jn – Appleby West Jn
-     NW9907 WAR                      277 27277 56  N   N    N   N    N   N    N
-              Network Rail Boundary (Warcop) – End of
-     NW9907 EDE                      11  03 11 46  N   N    N   N    N   N    N
-              Line
-              Route Boundary (LN682) (Corby Gates) –
-     NW9909 NEC2                     58  00 59 26  N   N    N   N    N   H    N
-              Petteril Bridge Jn
-              London Road Jn – Bog Jn (Newcastle
-     NW9911 NGD                       0  00 0  25  N   N    N   N    N   H    N
-              Goods Lines)
+     route                           M  Ch M  Ch  0000     00000000 00000000 0000ooooooooooooooooooooooo
+                                                                                 oooo
+              Newton-le-Willows Jn – Golborne Jn
+     NW1021 NGJ                       0  00 0  53  Y   Y    N   N    N   H    Y
+              Haydock Branch Jn – End of Line
+     NW1023 HOB2                      0  00 0  53  N   N    N   N    N   N    N
+              Bamfurlong Sidings Jn – Ince Moss Jn
+     NW1025 IMG                       0  18 0  78 EH   Y    N   N    N   H    N
+              Preston South Jn – Preston Docks Branch
+     NW1027 PSR1                     21  39 21 47  N   N    N   N    N   N    N
+              (Change of ELR)
+              Preston Docks Branch (Change of ELR) –
+     NW1027 PSR2                      0  00 0  40  N   N    N   N    N   N    N
+              Network Rail Boundary (Ribble Steam
+              Railway)
+              NW1001 (Weaver Jn) – Ditton East Jn
+     NW2001 WJL1                     174 53182 67  Y   E    N   N    Y   Y    Y
+              Ditton East Jn – Speke East Jn
+     NW2001 WJL2                     182 67186 72  Y   E    N   N    Y   Y    Y
+              Speke Est Jn – Edge Hill East Jn
+     NW2001 WJL3                     186 72191 75  Y   Y    N   N    Y   Y    Y
+              Edge Hill East Jn – Liverpool Lime Street
+     NW2001 WJL4                     191 75193 52  Y   Y    N   N    Y   Y   Y1
+              Runcorn – Network Rail Boundary (Runcorn
+     NW2003 RDB                       0  02 0  69  N   N    N   N    N   N   N
+              Dock Branch)
+              Speke East Jn – Garston Jn
+     NW2005 SCR                      22  59 23 52  Y   N    N   N    N   H    N
+              Allerton East Jn – Garston Jn
+     NW2007 AEG                       0  00  0 28  Y   N    N   N    N   H    N
+              End of Line (Latchford) – Ditton East Jn
+     NW2009 SDJ2                     10  06 18 55  N   N    N   N    N   N    N
+     NW2011 WOA1 Walton Old Jn – Arpley Jn
+                                      0  68 0  00  N   N    N   N    N   N    N
+              Ordsall Lane Jn – Newton-le-Willows Jn
+     NW2015 DSE                      30  38 16 19 EH   Y    N   N    N   Y   R1 R1 Prohibited with more than 2
+                                                                                   pantographs raised
+     NW2015 DSE
+              Newton-le-Willows Jn - Earlestown East Jn
+                                     16  19 14 75  Y   Y    N   N    N   H   R1 R1 Prohibited with more than 2
+              (Electrified section)                                                pantographs raised
+     NW2015 DSE
+              Earlestown East Jn - Edge Hill
+                                     14  75 1  57 EH   Y    N   N    N   H   R1 R1 Prohibited between Earlstown
+                                                                                   East Jn and Limit of
+                                                                                   Electrification
+              Eccles Station Jn – Network Rail (Weaste
+     NW2017 SCN                       0  00 0  54  N   N    N   N    N   N    N
+              Branch) / MSC Boundary
+              Parkside Jn – Lowton Jn (East Curve lines)
+     NW2019 PJL                       0  05 0  36  Y   Y    N   N    N   Y   R1 R1 Prohibited with more than 2
+                                                                                   pantographs raised
+              Earlestown South Jn – Earlestown West Jn
+     NW2021 EEE                      186 74187 15 EH   Y    N   N    N   H    N
+              (Liverpool Curve)
+              Springs Branch Jn – Gerards Bridge Jn
+     NW2023 SBH3                     12  54 5  66 EH   Y    N   N    N   H    N
+              Gerards Bridge Jn – St Helens Station Jn
+     NW2023 SBH2                      5  66 5  12 EH   Y    N   N    N   H    N
 
 
 
-    October 2009                                    28A
+    October 2009                                     19

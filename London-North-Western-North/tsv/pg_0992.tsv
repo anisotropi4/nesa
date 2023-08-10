@@ -1,19 +1,29 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
-London-North-Western-North	0992	NW2027	SCT1/2	Edge Hill, Bootle Branch Jn – Network Rail Boundary (MDHC)	0	15	5	53	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW2029	OME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3001	CNH1	Crewe North Jn – Limit of Electrification (Crewe Steelworks)	158	18	159	55	8	Y	Y	Y	Y	Y	Y	
-London-North-Western-North	0992	NW3001	CNH1	Limit of Electrification (Crewe Steelworks) – Chester East Jn	159	55	178	66	8	H	H	Y	H	N	N	
-London-North-Western-North	0992	NW3001	CNH2	Chester East Jn – Change of ELR (Windmill Lane Tunnel)	178	66	179	56	8	H	H	Y	H	N	N	
-London-North-Western-North	0992	NW3001	CNH3	Change of ELR (Windmill Lane Tunnel) – Route Boundary LNW / Wales	179	56	188	40	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3001	CNH3	Route Boundary LNW / Wales - Holyhead	188	40	263	56	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3005	WSJ2	Route Boundary Wales / LNW - Saltney Jn	202	60	212	06	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3007	WDB1	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	5	N	N	N	N	N	N	
-London-North-Western-North	0992	NW3007	WDB1	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	8	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	7	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3007	WDB2 /3	Change of ELR - Route Boundary Wales / LNW	14	15	11	00	7	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	7	N	N	Y	N	N	N	
-London-North-Western-North	0992	NW3009	CVS	Chester North Jn – Chester South Jn	0	36	0	13	8	H	H	Y	H	N	N	
-London-North-Western-North	0992	NW3011	CRR1	Chester West Jn – Hooton South Jn	0	16	7	68	8	H R1	H R1	R2	H R1	H R1	N	R1 Prohibited between Chester North Jn and Hooton South Jn R2 5mph on the Up through Bridge No.3 at 01m 37ch between Bache - Capenhurst
-London-North-Western-North	0992	NW3013	HHJ	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	8	N	N	Y	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-North	0992	NW7005	CEH	Castleton East Jn – Castleton North Jn	0	00	0	37	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7005	CPI1	Castleton South Jn – Castleton North Jn	8	21	8	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7005	CPI2	Castleton North Jn – Network Rail / East Lancashire Railway Boundary (Hopwood)	8	50	9	04	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7006	SFO	Todmorden Viaduct Jn – Stansfield Hall Jn	0	0	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7007	FCO	Farington Curve Jn – Ormskirk	25	64	12	15	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR1	Farington Curve Jn - Lostock Hall Depot	0	00	0	75	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR2	Lostock Hall Depot – Lostock Hall Jn	0	75	1	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR3	Lostock Hall Jn – Change of ELR (Site of Former Bamber Bridge Jn)	1	42	2	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR4	Change of ELR (Site of Former Bamber Bridge Jn) – Blackburn Bolton Jn	2	10	10	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR4	Blackburn Bolton Jn – Blackburn	10	11	10	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR5	Blackburn – Daisyfield Jn	10	42	11	09	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR5	Daisyfield Jn – Gannow Jn	11	09	21	03	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7009	FHR6	Gannow Jn – Hall Royd Jn	21	03	30	54	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7011	LHL	Farington Jn - Limit of Electrification	0	00	0	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7011	LHL	Limit of Electrification - Lostock Hall Jn (Lostock Hall Lines)	0	56	0	77	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7013	DJH	Daisyfield Jn – Hellifield	11	09	34	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7015	PRG	End of Line (Padiham Power Station Sidings) – Rose Grove West Jn	1	76	0	00	7	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0992	NW7017	GJC	Gannow Jn – Colne	21	03	27	37	8	R1	R1	R1	R1	R1	R1	R1	R1	R1 30mph over Bridge 91 (25m 33ch - 25m 34ch)
+London-North-Western-North	0992	NW7019	MPR2	Thorpes Bridge Jn – Network Rail Boundary (Metrolink (Down Up Boundary at 2m 32ch))	2	22	3	05	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVM	Miles Platting – Change of ELR	1	22	1	30	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVL1	Miles Platting Jn – Philips Park West Jn	1	30	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVL1	Philips Park West Jn – Baguley Fold Jn	1	59	2	39	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVL1	Baguley Fold Jn – Ashton Moss North Jn	2	39	5	41	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVL1	Ashton Moss North Jn – Stalybridge Jn	5	41	7	46	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVL2	Stalybridge Jn – Stalybridge Tunnel Jn	7	46	8	08	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7021	MVL3	Stalybridge Tunnel Jn – Route Boundary (LN860) (Springwood Jn)	8	08	15	11	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7023	BPP	Philips Park West Jn – Brewery Jn	0	00	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0992	NW7025	PPA1	Philips Park West Jn – Philips Park South Jn	1	59	2	07	8	Y	Y	Y	Y	Y	Y	Y	Y	

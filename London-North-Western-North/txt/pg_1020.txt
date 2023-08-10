@@ -5,73 +5,59 @@
 
 
 
-     Line of
-          ELR Line of Route / Sector
-                                  oo  oo oo oo RA Loco Gauge
-                                                           Notes
-     route    Description         oo  oo oo oo 000 00000000000 ooooooooooooooooooooooooooooooooooooooooooooooo
-                                  M   Ch M  Ch
-               Change of ELR (Altrincham) – Mickle
-     NW3023 CDM2                    7 69 35 40  8    R1   R1Prohibited between Ashley and Mobberley on the Down line
-               Trafford Jn                           R2   R2Prohibited between Altrincham and Ashley on the Down line
-                                                     R3   R3Prohibited Lostock Gralam platform (Up line)
-                                                     R4   R4Prohibited Northwich platform (Down & Up Goods line)
-                                                     R5   R5Prohibited Delamere platform (Up line)
-                                                     R6   R6Prohibited between Mouldsworth and Mickle Trafford Jn on the
-                                                            Single line
-               Skelton Jn – Partington Jn Network
-     NW3025 WJP1                   30 12 27 20  7    Y
-               Rail Boundary
-               Network Rail Boundary (Metrolink) –
-     NW3027 CDM1                    6 77  7 05  8    Y
-               Deansgate Jn
-               Deansgate Jn – Altrincham
-     NW3027 CDM1                    7 05  8 00  8    Y
-     NW3029 SNJSandbach North Jn – Northwich West
-                                    0 00  8 64  8    Y
-               Jn
-     NW3031 NSNNorthwich South Jn – Northwich
-                                    8 37  8 66  8    Y
-               Station Jn
-     NW3033 HEGHartford East Jn – Hartford North Jn
-                                   21 67 22 10  8    Y
-               (East Goods line)
-     NW3035 HWGHartford West Jn – Hartford North Jn
-                                    0 11  0 29  8    Y
-               (West Goods line)
-     NW3037 HCNHartford C.L.C. Jn – Hartford Jn
-                                    0 72  0 16  8    Y
-               Preston Ribble Jn – Preston (Change
-     NW4001 CGJ5                   21 13 21 57  8    Y
-               of ELR)
-               Preston (Change of ELR) – Preston
-     NW4001 CGJ6                    0 00  0 21  8    Y
-               North Jn
-               Preston North Jn – Preston Fylde Jn
-     NW4001 CGJ6                    0 21  0 33  8    Y
-               Preston Fylde Jn – Lancaster
-     NW4001 CGJ6                    0 33 20 78  8    Y
-               Lancaster – Carnforth North Jn
-     NW4001 CGJ7                    0 00  6 08  8    Y
-               Carnforth North Jn – Oxenholme
-     NW4001 CGJ7                    6 08 19 11  8    Y
-               Oxenholme – Upperby Jn
-     NW4001 CGJ7                   19 11 68 23  8    Y
-               Upperby Jn – Carlisle
-     NW4001 CGJ7                   68 23 69 09  8    R1   R1Prohibited Carlisle Down Bay platform 2 (Up Maryport & Carlisle line)
-                                                     R2   R2Prohibited Carlisle platform 4 (Up Main line)
-     NW4001 WCM1 Carlisle – Mossband Jn (Including
-                                    0 00  7 57  8    R1   R1Prohibited Carlisle bay platform 7
-               Kingmoor Yard Goods lines)            R2   R2Prohibited Carlisle bay platform 8
-     NW4001 WCM1 Mossband Jn – Gretna Jn
-                                    7 57  8 57  8    Y
-     NW4001 WCM1 Gretna Jn – Route Boundary (SC001)
-                                    8 57 12 30  8    Y
-               (Gretna Green)
-     NW4001 UCJUpperby Bridge Jn – Upperby Bridge
-                                   67 58 68 23  8    R    R1 Prohibited between Upperby Bridge Jn and Upperby Jn on the Up
-                                                            Through Goods line
+     Line of Line of Route / Sector
+                               RA   Gauge of Route
+                                                 Heavy AxleNotes
+     Route   Description                        Weight Vehicles
+     NW7013  Daisyfield Jn. – Hellifield
+                               8       R1           R2    R1 Clear to W6A Ex. (W7) Daisyfield Jn. - Hellifield.
+
+                                                          R2 ELR: DJH: RA9/10 vehicles are restricted to the following maximum speeds
+                                                             over the following bridges:
+                                                             Br.4 (11m 40ch - 11m 60ch) – 20mph
+                                                             Br.41 (17m 20ch - 17m 60ch) – 20mph
+     NW7015  Padiham Power Station Sidings
+                               -        /           Y
+             - Rose Grove West Jn. (Out of
+             use)
+     NW7017  Gannow Jn. – Colne8        /           N
+     NW7019  Thorpes Bridge Jn. – GMC
+                               8        /           N
+             Siding (Incl.)
+     NW7021  Miles Platting Jn – Marsden
+                               8    W6A Ex. (W7)    R2    R1 Clear to SB1C (W9) Miles Platting Jn. to Philips Park West Jn. and boundary.
+                                       R1
+                                                             ELR: MVL3, Br.1: RA9/10 vehicles restricted to 10mph over the bridge
+                                                             (7m 77ch – 8m 10ch) (Stalybridge Viaduct)
+                                                          R2
+     NW7023  Philips Park W. Jn. - Brewery
+                               8        /           Y
+             Jn.
+     NW7025  Philips Park West Jn. - Ashburys
+                               8      SB1C          Y      R This route is RA7 between Philips Park South Jn. and Ashburys West Jn.
+             West Jn.          R
+     NW7027  Baguley Fold Jn. - Philips Park
+                               8        /           Y
+             South Jn.
+     NW8001  Hunts Cross West Jn. -
+                               8        /           R      R ELR: HXS1 – HXS2 – HXS3: vehicles which exceed the RA of the line may
+             Southport                                       be permitted for engineering train purposes only, subject to special
+                                                             dispensation being granted by the Territory Structures Assessment Engineer.
+     NW8003  Paradise Jn. - James Street
+                               8        /           Y
+             (Stock Interchange/Holding line)
+     NW8005  Sandhills Jn. – Ormskirk
+                               8        /           --     R This line is RA7 between Sandhills Jn. and Walton Jn.
+                               R
+     NW8007  Bootle Jn. - Aintree Emergency
+                               7        /           Y      R This line is RA8 at Bootle Jn. - 3m 52ch.
+             G.F.              R
+     NW8009  Walton Jn. – Kirkby
+                               8        /           Y
+     NW8011  Mann Island Jn. - West Kirby
+                               8        /           Y
+             (via Loop)
 
 
 
-                                                     86
+                                                     77

@@ -2,68 +2,72 @@
 
 
                                        LNW North Route Sectional Appendix Module NWRC
-
-     Table D5D – Route clearance of freight containers/swap bodies
-                                                                                      Last Updated: 29/10/2022
-
-     Line of ELR
-              Line of Route / Sector Description          Gauge           Notes
+     Line of
+          ELR Line of Route / Sector Description              Gauge            Notes
      route
-                                   M  Ch M Ch W7A  W8A W9ALG2 PG1 PG2 LSVG
-     NW1001 LEC2
-              Armitage Jn (MD101) (Sectional
-                                   11920 12439 N    N  N   N  N    N   N
-              Appendix Boundary – Rugeley North Jn
-              Rugeley North Jn – Colwich Jn
-     NW1001 LEC2                   12439 12705 N    N  N   N  N    N   N
-              Colwich Jn – Stafford Trent Valley Jn
-     NW1001 LEC2                   12705 13306 N    N  N   N  N    N   N
-              No.1
-              Stafford Trent Valley Jn No.1 – Change
-     NW1001 LEC3                   13306 13360 N    N  N   N  N    N   N
-              of ELR (Site of former Stafford Uttoxeter
-              line Jn No 5)
-     NW1001 LEC4
-              Change of ELR (Site of former Stafford
-                                   13360 13900 N    N  N   N  N    N   N
-              Uttoxeter line Jn No 5) – Norton Bridge
+                                                 W6A W7 W8  W9 W9Plus W10 W10A
+                                                                            W12
+                                    M  Ch  M  Ch
+     NW4033CBC3 Change of ELR (Maryport) – Carlisle
+                                     0  00 27 49 Y*  S1  S1 N   N   N   N   N  S1The following combinations are
+               South Jn                                                          permitted to run:
+
+                                                                                 Up to
+                                                                                 2665(h), S21 TT x 2500(w)
+                                                                                 on FAA, FKA, IKA wagons
+
+                                                                                 2595(h), S11 TT, S14 FT x
+                                                                                 2500(w)
+                                                                                 on IFA, FIA wagons
+          DAP Dalton Jn – Park South Jn
+     NW4041                          0  00 0  76 Y   Y   Y  Y   Y    Y  Y   Y
+          CMP1 Crewe North Jn – Sandbach North Jn
+     NW5001                         158 17162 62 Y*  Y   Y  Y   N    Y  N   N
+          CMP1 Sandbach North Jn – Wilmslow South Jn
+     NW5001                         162 62176 53 Y*  Y   Y  Y   N    Y  N   N
+          CMP1 Wilmslow South Jn – Cheadle Hulme
+     NW5001                         176 53180 67 Y*  Y   Y  Y   N    Y  N   N
               North Jn
-              Norton Bridge North Jn – Basford Hall
-     NW1001 LEC4                   13900 15616 N    N  N   N  N    N   N
+          CMP1 Cheadle Hulme North Jn – Edgeley Jn
+     NW5001                         180 67182 36 Y*  Y   Y  Y   N    Y  N   N
+              No.1
+          CMP2 Edgeley Jn No.1 – Edgeley Jn
+     NW5001                         182 36182 59 Y*  Y   Y  Y   N    Y  N   N
+          CMP2 Edgeley Jn – Slade Lane Jn
+     NW5001                         182 59186 46 Y*  Y   Y  Y   N    Y  N   N
+          CMP2 Slade Lane Jn – Ardwick Jn
+     NW5001                         186 46188 08 Y*  Y   Y  Y   N    Y  N   N
+          CMP2 Ardwick Jn – Manchester Piccadilly East
+     NW5001                         188 08188 48 Y*  Y   Y  Y   N    Y  N   N
               Jn
-              Basford Hall Jn – Change of ELR
-     NW1001 LEC4                   15616 15720 N    N  N   N  N    N   N
-              (Basford Wood)
-              Change of ELR (Basford Wood) –
-     NW1001 LEC5                   15720 15760 N    N  N   N  N    N   N
-              Crewe South Jn
-              Crewe South Jn – Crewe North Jn
-     NW1001 LEC5                   15760 15818 N    N  N   N  N    N   N
-              Crewe North Jn – Change of ELR (Site
-     NW1001 LEC5                   15818 15900 N    N  N   N  N    N   N
-              of former Grand Jn)
-     NW1001 CGJ1
-              Change of ELR (Site of former Grand
-                                   15900 17056 N    N  N   N  N    N   N
-              Jn) – Hartford Jn
-              Hartford Jn – Change of ELR (Preston
-     NW1001 CGJ1                   17056 17600 N    N  N   N  N    N   N
-              Brook Tunnel)
-     NW1001 CGJ2
-              Change of ELR (Preston Brook Tunnel)
-                                   17600 18024 N    N  N   N  N    N   N
-              – Acton Grange Jn
-              Acton Grange Jn – Warrington South Jn
-     NW1001 CGJ2                   18024 18176 N    N  N   N  N    N   N
-              Warrington South Jn – Winwick Jn
-     NW1001 CGJ3                   18176 18549 N    N  N   N  N    N   N
-              Winwick Jn – Golborne Jn
-     NW1001 CGJ4                   18549 18776 N    N  N   N  N    N   N
-              Golborne Jn – Wigan Station Jn
-     NW1001 CGJ5                    0 53 6  33 N    N  N   N  N    N   N
-              Wigan Station Jn – Farington Curve Jn
-     NW1001 CGJ5                    6 33 20 08 N    N  N   N  N    N   N
+          CMP2 Manchester Piccadilly East Jn –
+     NW5001                         188 48188 70 Y*  N   N  N   N   N   N   N
+              Manchester Piccadilly
+     NW5003STYWilmslow South Jn – Heald Green South
+                                     0  00  2 50  Y  Y   Y  Y   N    Y  N   N
+              Jn
+     NW5003STYHeald Green South Jn – Heald Green
+                                     2  50  3 13  Y  Y   Y  Y   N    Y  N   N
+              North Jn
+     NW5003STYHeald Green North Jn – Slade Lane Jn
+                                     3  13  9 44  Y  Y   Y  Y   N   Y   N   N
+          SMA Heald Green South Jn – Heald Green
+     NW5005                          1  48  1 10  Y  N   N  N   N   N   N   N
+              West Jn
+     NW5007MIAManchester Airport – Heald Green North
+                                     0  00  1 51 Y*  N   N  N   N   N   N   N
+              Jn
+          NBS Norton Bridge North Jn – Stone Jn
+     NW5008                          3  57  0 00 Y   Y   Y  Y   Y    Y  Y   Y
+          CMD2 Colwich Jn – Stone Jn
+     NW5009                         38  61 20 36 Y*  Y   Y  Y   Y    Y  Y   Y
+          CMD2 Stone Jn – Stoke Jn
+     NW5009                         20  36 21 04 Y*  Y   Y  Y   Y    Y  Y   Y
+          CMD2 Stoke Jn – Glebe Street Jn
+     NW5009                         21  04 20 10 Y*  Y   Y  Y   Y    Y  Y   Y
+          CMD2 Glebe Street Jn – Change of ELR
+     NW5009                         20  10 15 65 Y*  Y   Y  Y   Y    Y  Y   Y
 
 
 
-                                                    112
+                                                    103

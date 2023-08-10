@@ -1,7 +1,17 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	196	220	221	222	Notes
-London-North-Western-North	0896	NW9903	SJC	Change of Mileage (Wennington) – Change of Mileage (Site of former Carnforth East Jn)	9	45	0	31	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-North	0896	NW9903	CEC	Change of Mileage (Site of former Carnforth East Jn) – Carnforth Station Jn	0	25	0	04	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-North	0896	NW9907	WAR	Appleby North Jn – Appleby West Jn	277	27	277	56	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-North	0896	NW9907	EDE	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	N	N	N	N	N	N	N	N	N	N	
-London-North-Western-North	0896	NW9909	NEC2	Route Boundary (LN682) (Corby Gates) – Petteril Bridge Jn	58	00	59	26	N	N	N	N	N	E	N	Y	Y	N	
-London-North-Western-North	0896	NW9911	NGD	London Road Jn – Bog Jn (Newcastle Goods Lines)	0	00	0	25	N	N	N	N	N	E	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	195	196	220	221	222	R1 Notesoooooooooooooooooooo
+London-North-Western-North	0896	NW3001	CNH3	Route Boundary LNW / Wales – Holyhead	188	40	263	56	N	N	N	Y	N	N	N	N	Y	Y	N	
+London-North-Western-North	0896	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	N	N	N	Y	N	N	Y	N	Y	Y	N	
+London-North-Western-North	0896	NW3005	WSJ2	Route Boundary (GW731) (Crewe Jn) – Route Boundary Wales / LNW including ‘Up & Down’ loop Wrexham General ELR WDB1	199	00	202	60	N	Y	Y	Y	N	N	N	N	N	R1	N	R1 Prohibited Wrexham General platform 2 with deflated secondary suspension
+London-North-Western-North	0896	NW3005	WSJ2	Route Boundary Wales / LNW – Saltney Jn	202	60	212	06	N	Y	Y	Y	N	N	N	N	N	Y	N	
+London-North-Western-North	0896	NW3007	WDB1	Wrexham Central – Wrexham Exchange Jn	0	16	0	68	N	N	N	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0896	NW3007	WDB1	Wrexham Exchange Jn – Change of RA at 13m 20ch (South end of Hawarden Bridge)	0	68	13	20	N	N	N	R1	N	N	N	N	N	N	N	R2 Prohibited Pen-Y-Ffordd Down platform with failed secondary suspension
+London-North-Western-North	0896	NW3007	WDB1	Change of RA at 13m 20ch (South end of Hawarden Bridge) – Change of ELR	13	20	13	33	N	N	N	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0896	NW3007	WDB2 /3	Change of ELR – Route Boundary Wales / LNW	14	15	11	00	N	N	N	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0896	NW3007	WDB3	Route Boundary Wales / LNW Bidston Dee Jn	11	00	0	08	N	N	N	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0896	NW3009	CVS	Chester North Jn – Chester South Jn	0	36	0	13	N	N	N	Y	N	N	N	N	Y	Y	N	
+London-North-Western-North	0896	NW3011	CRR1	Chester West Jn – Hooton South Jn	0	16	7	68	N	N	N	R1	N	N	R1	N	N	R1	N	R1 Prohibited between Chester North Jn and Hooton South Jn
+London-North-Western-North	0896	NW3013	HHJ	Hooton South. Jn – Ellesmere Port (Limit of DC electrification)	0	02	3	44	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0896	NW3013	HHJ	Ellesmere Port (Limit of DC electrification) – Helsby Jn	3	44	8	67	N	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-North	0896	NW3015	LJT1	Llandudno Jn – Blaenau Ffestiniog, End of line	0	30	27	53	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0896	NW3017	LLJ	Llandudno Jn – Llandudno	0	03	3	14	N	N	N	Y	N	N	N	N	Y	Y	N	
+London-North-Western-North	0896	NW3019	GLA	Gaerwen – Network Rail Boundary	0	00	17	37	N	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2008/LNW396

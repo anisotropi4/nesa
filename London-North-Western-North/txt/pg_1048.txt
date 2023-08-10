@@ -2,65 +2,66 @@
 
 
                                        LNW North Route Sectional Appendix Module NWRC
-              Farington Curve Jn – Preston Ribble Jn
-     NW1001 CGJ5                   20 08 21 13 N    N  N   N  N    N   N
-              Preston Ribble Jn – Preston (Change of
-     NW1001 CGJ5                   21 13 21 57 N    N  N   N  N    N   N
-              ELR)
-              Preston (Change of ELR) – Preston
-     NW1001 CGJ6                    0 00 0  21 N    N  N   N  N    N   N
-              North Jn
-              Preston North Jn – Preston Fylde Jn
-     NW1001 CGJ6                    0 21 0  33 N    N  N   N  N    N   N
-     NW1002 RBS3
-              Route Boundary (MD301) (Penkridge
-                                   23 30 28 50 N    N  N   N  N    N   N
-              Station) – Stafford Trent Valley Jn No.1
-              Buffer Stop (Silverdale Colliery End) –
-     NW1003 HCM2                    3 27 7  36 N    N  N   N  N    N   N
-              Madeley Chord Jn
-              Madeley Chord Jn – Madeley Jn
-     NW1003 HCM3                    0 25 0  00 N    N  N   N  N    N   N
-              Madeley Chord Jn – End of line
-     NW1003 HCM2                    7 36 8  14 N    N  N   N  N    N   N
-     NW1004 RRN2
-              Route Boundary (MD345) (Rugeley B
-                                   14 00 14 69 N    N  N   N  N    N   N
-              Power Station Jn) – Rugeley North Jn
-              Kidsgrove Jn – Crewe South Jn
-     NW1005 KCS1                    0 00 8  27 N    N  N   N  N    N   N
-              Route Boundary (GW735) (Nantwich) –
-     NW1007 SYC                     2 60 1  18 N    N  N   N  N    N   N
-              Gresty Green
-              Gresty Green – Crewe South Jn
-     NW1007 SYC                     1 18 0  00 N    N  N   N  N    N   N
-              Basford Hall Jn – Former site of Sydney
-     NW1009 BHI                    15616 15876 N    N  N   N  N    N   N
-              Bridge Jn (Independent lines)
-              Former site of Sydney Bridge Jn –
-     NW1009 CMP1                   15876 16228 N    N  N   N  N    N   N
-              Sandbach South Jn (Independent lines)
-              Gresty Lane Jn – Salop Goods Jn
-     NW1011 GSG                     0 00 0  37 N    N  N   N  N    N   N
-              Crewe Sorting Sidings North – Gresty
-     NW1013 CSG                    15726 15747 N    N  N   N  N    N   N
-              Lane
-              Salop Goods Jn – Crewe North Jn
-     NW1015 CIL                    15764 15818 N    N  N   N  N    N   N
-              (Chester Independent lines)
-              Salop Goods Jn – Crewe Coal Yard
-     NW1017 LLI                    15771 15873 N    N  N   N  N    N   N
-              (Liverpool Independent lines)
-     NW1019 CHW1/2 Acton Grange Jn – Warrington South Jn
-                                   16 19 17 76 N    N  N   N  N    N   N
-              (Helsby lines)
-              Winwick Jn – Earlestown East Jn
-     NW1021 WEE                    18549 18710 N    N  N   N  N    N   N
-              Earlestown East Jn – Newton-le-Willows
-     NW1021 DSE                    14 75 16 19 N    N  N   N  N    N   N
-              Jn
+     Line of
+          ELR Line of Route / Sector Description              Gauge             Notes
+     route
+                                                 W6A W7 W8  W9 W9Plus W10 W10A W12
+                                    M  Ch  M  Ch
+          CMD1 Change of ELR – Kidsgrove Jn
+     NW5009                         13  68 16 00 Y*  Y   Y   Y   Y   Y   Y   Y
+          CMD1 Kidsgrove Jn – Macclesfield Hibel Road
+     NW5009                         13  68  0 00 Y*  Y   Y   Y   Y   Y   Y   Y
+              (Change of ELR)
+          MCH Macclesfield Hibel Road (Change of
+     NW5009                          9  37  0 00 Y*  Y   Y   Y   Y   Y   Y   Y
+              ELR) – Cheadle Hulme North Jn
+          SCQ1 Glebe Street Jn – Change of Mileage
+     NW5010                         20  08 20 33  –  –   –   –   –   –   –   – Line Out of Use
+          SCQ1 Change of Mileage – Change of Mileage
+     NW5010                          0  00  3 51  –  –   –   –   –   –   –   – Line Out of Use
+              (Site of Former Milton Jn)
+          SCQ2 Change of Mileage (Site of Former
+     NW5010                          0  00  6 65  –  –   –   –   –   –   –   – Line Out of Use
+              Milton Jn) – Change of Mileage (Site of
+              Former Leek Brook Jn)
+                                                  –
+          SCQ3 Change of Mileage (Site of Former Leek
+     NW5010                          0  00  8 01     –   –   –   –   –   –   – Line Out of Use
+              Brook Jn) – Caldon Quarry
+          HNS Heaton Norris Jn – Guide Bridge Station
+     NW5011                          0  00  4 73 Y*  Y   S1  N   N   N   N   N R1 * applies between Heaton Norris
+              Jn                                 R1                               Jn and Denton Jn (4m 13ch)
+                                                                               S1 Between Heaton Norris Jn and
+                                                                                  Denton Jn (4m 13ch) the
+                                                                                  following combinations are
+                                                                                  permitted to run
+                                                                                  Up to:
+                                                                                  2591(h) x 2500(w)
+                                                                                  on FEA FCA FSA/FTA wagons
+                                                                                  2591(h) x 2500(w)
+                                                                                  on KFA wagons
+                                                                                  2896(h) x 2500(w)
+                                                                                  on FLA wagons
 
-
-
-
-                                                    113
+                                                                                  S16FT up to 2550(w)
+                                                                                  on KFA wagons
+                                                                                  S17FT up to 2550(w)
+                                                                                  on FEA FSA/FTA wagons
+     NW5012NSS Route Boundary (LN3505) – Stoke Jn
+                                     1  40  0 00 Y   Y   N   N   N   N   N   N
+     NW5013DJO1 Denton Jn – Change of Mileage (Site of
+                                     4  10  5 28 Y*  Y   Y   N   N   N   N   N
+               Former Crowthorne Jn)
+     NW5013DJO2 Change of Mileage (Site of Former
+                                     0  53  1 19 Y*  Y   Y   N   N   N   N   N
+               Crowthorne Jn) – Change of Mileage
+               (Site of Former Ashton Moss South Jn)
+     NW5013AMJ Change of Mileage (Site of Former
+                                     0  00  0 40 Y*  Y   Y   N   N   N   N   N
+               Ashton Moss South Jn) – Ashton Moss
+               North Jn
+     NW5015HAJ Hadfield – Dinting East Jn
+                                    12  61 12 00 Y*  N   N   N   N   N   N   N
+     NW5015HAJ Dinting East Jn – Dinting West Jn
+                                    12  00 11 66 Y*  N   N   N   N   N   N   N
+                                                    104

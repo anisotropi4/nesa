@@ -6,70 +6,84 @@
 
 
      Line of
-          ELR Line of Route / Sector Description
-                                     oooo oooo oooo oooo RA
-                                                     59 60 66 67 68 70 73 97/3
-                                                                             Notes
-     route                            M  Ch M  Ch 000 000 000 000 000
-                                                                   000 000 000 ooooooooooooooooooooooooooo
-              Preston South Jn – Preston Docks Branch
-     NW1027 PSR1                      21 39 21  47 8 Y  Y  Y  Y  Y  Y  Y  Y
-              (Change of ELR)
-              Preston Docks Branch (Change of ELR) –
-     NW1027 PSR2                       0 00  0  40 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Network Rail Boundary (Ribble Steam
-              Railway)
-              NW1001 (Weaver Jn) – Ditton East Jn
-     NW2001 WJL1                     174 53 182 67 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Ditton East Jn – Speke East Jn
-     NW2001 WJL2                     182 67 186 72 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Speke Est Jn – Edge Hill East Jn
-     NW2001 WJL3                     186 72 191 75 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Edge Hill East Jn – Liverpool Lime Street
-     NW2001 WJL4                     191 75 193 52 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Runcorn – Network Rail Boundary (Runcorn
-     NW2003 RDB                        0 02  0  69 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Dock Branch)
-              Speke East Jn – Garston Jn
-     NW2005 SCR                       22 59 23  52 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Allerton East Jn – Garston Jn
-     NW2007 AEG                        0 00  0  28 8 Y  Y  Y  Y  Y  Y  Y  Y
-              End of Line (Latchford) – Ditton East Jn
-     NW2009 SDJ2                      10 06 18  55 8 Y  Y  Y  Y  Y  Y  Y  Y
-     NW2011 WOA1 Walton Old Jn – Arpley Jn
-                                       0 68  0  00 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Ordsall Lane Jn – Newton-le-Willows Jn
-     NW2015 DSE                       30 38 16  19 8 Y  Y  Y  Y  Y  Y  Y  Y
-     NW2015 DSE
-              Newton-le-Willows Jn - Earlestown East Jn
-                                      16 19 14  75 8 Y  Y  Y  Y  Y  Y  Y  Y
-              (Electrified section)
-     NW2015 DSE
-              Earlestown East Jn - Edge Hill
-                                      14 75  1  57 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Eccles Station Jn – Network Rail (Weaste
-     NW2017 SCN                        0 00  0  54 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Branch) / MSC Boundary
-              Parkside Jn – Lowton Jn (East Curve lines)
-     NW2019 PJL                        0 05  0  36 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Earlestown South Jn – Earlestown West Jn
-     NW2021 EEE                      186 74 187 15 8 Y  Y  Y  Y  Y  Y  Y  Y
-              (Liverpool Curve)
-              Springs Branch Jn – Gerards Bridge Jn
-     NW2023 SBH3                      12 54  5  66 7 Y  Y  Y  N  Y  Y  Y  Y
-              Gerards Bridge Jn – St Helens Station Jn
-     NW2023 SBH2                       5 66  5  12 7 Y  Y  Y  N  Y  Y  Y  Y
-              St Helens Station Jn – Huyton Jn
-     NW2023 SBH1                       5 12  0 -18 7 Y  Y  Y  N  Y  Y  Y  Y
-              St. Helens Station Jn – Network Rail
-     NW2025 SHS1                       7 15  6  04 8 Y  N  Y  Y  Y  Y  Y  Y
-              Boundary
-     NW2027 SCT1/2 Edge Hill, Bootle Branch Jn – Network Rail
-                                       0 15  5  53 8 Y  Y  Y  Y  Y  Y  Y  Y
-              Boundary (MDHC)
-     NW2029 OME3 Olive Mount Jn – Edge Lane Jn
-                                       0 10  0  52 8 Y  Y  Y  Y  Y  Y  Y  Y
+          ELR Line of Route / Sector
+                                 oooo oooo oooo oooo RA 37/7
+                                                    43 47/2 47/4 47/7
+                                                                56 57 58  Notes
+     route    Description         M  Ch M  Ch 0000 37/9 0000 0000 0000 0000 0000 000 000
+                                                                         ooooooooooooooooooooooooooo
+                                                 0000
+     NW5015
+          HAJ Ashburys West Jn – Ardwick Jn
+                                   1  36  0 40 8  Y  Y  Y  Y  Y  Y  Y  Y
+     NW5017
+          DSD Dinting South Jn – Dinting East Jn
+                                   0  72  1 05 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW5019
+          GDW Glossop – Dinting South Jn
+                                   0  01  0 72 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW5019
+          GDW Dinting South Jn – Dinting West Jn
+                                   0  72  1 05 8  Y  N  Y  Y  Y  Y  Y  Y
+     NW5021
+          SAJ Stalybridge Jn – Guide Bridge West
+                                   2  08  0 04 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Jn
+              Manchester Piccadilly East Jn –
+     NW6001 COL                   188 48189 67 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Castlefield Jn
+              Castlefield Jn – Ordsall Lane Jn
+     NW6001 COL                   189 67190 28 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Ordsall Lane Jn – Windsor Bridge
+     NW6001 OLW                   190 28191 01 8  Y  Y  Y  Y  Y  Y  Y  Y
+              South Jn
+              Windsor Bridge South Jn – Windsor
+     NW6001 MVE1                   1  55  1 66 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Bridge North Jn
+              Windsor Bridge North Jn – Bolton
+     NW6001 MVE1                   1  66 10 55 8  Y  Y  Y  Y  Y  Y  Y  Y
+              West Jn
+              Bolton West Jn – Lostock Jn
+     NW6001 MVE2                   10 55 13 39 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Lostock Jn – Euxton Jn
+     NW6001 MVE2                   13 39 25 31 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Castlefield Jn – Trafford Park Sidings
+     NW6003 MAJ                    33 57 31 35 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (Limit of Electrification)
+     NW6003 MAJ
+              Trafford Park Sidings (Limit of
+                                   31 35  7 07 7  Y  Y  Y  Y  Y  Y  Y  Y
+              Electrification) – Hunts Cross
+              Hunts Cross – Hunts Cross West Jn
+     NW6003 MAJ                    7  07 6  11 7  Y  Y  Y  Y  Y  Y  Y  Y
+              Hunts Cross West Jn – Allerton Jn
+     NW6003 AHX                    0  37 0  00 7  Y  Y  Y  Y  Y  Y  Y  Y
+              Water Street Jn – Irwell Street Jn
+     NW6004 OCD                   190 05190 34 10 Y  Y  N  N  N  Y  Y  Y
+              (Change of Mileage and ELR)
+     NW6004 DSE
+              Irwell Street Jn (Change of Mileage
+                                   30 64 31 18 10 Y  Y  N  N  N  Y  Y  Y
+              and ELR) – Deal Street Jn (Ordsall
+              Curve lines)
+              Manchester Victoria East Jn –
+     NW6005 MVM                    0  09  0 00 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Manchester Victoria
+              Manchester Victoria – Deal Street Jn
+     NW6005 MVE1                   0  00  0 32 8  Y  Y  Y  Y  Y  Y  Y  Y
+              (Chat Moss Lines)
+              Deal Street Jn – Windsor Bridge
+     NW6005 MVE1                   0  32  1 55 8  Y  Y  Y  Y  Y  Y  Y  Y
+              South Jn
+              Deal Street Jn – Ordsall Lane Jn
+     NW6007 DSE                    31 18 30 38 8  Y  Y  Y  Y  Y  Y  Y  Y
+              Windsor Bridge North Jn – Crow Nest
+     NW6009 WBS1                    1 66 14 64 8  N  Y  Y  Y  Y  N  Y  N
+              Jn
+              Crow Nest Jn – Wigan Station Jn
+     NW6009 WBS2                   14 64 17 44 8  Y  Y  Y  Y  Y  Y  Y  Y
 
 
 
-    October 2009                                    66B
+
+    October 2009                                     61

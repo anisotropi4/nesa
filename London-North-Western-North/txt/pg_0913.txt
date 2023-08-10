@@ -3,67 +3,83 @@
 
                                        LNW North Route Sectional Appendix Module NWRC
 
+
+
      Line of
-          ELR Line of Route / Sector
-                                  oo oo  oo oo 380  385 390  397 507  508  Notes
-     route    Description         oo oo  oo oo 0000     0000 00000000 0000ooooooooooooooooooooooooooo
-                                  M  Ch  M  Ch
-              Site of former Sydney Bridge Jn –
-     NW1009 CMP1                  158 76162 28  N    N   Y    N   N    N
-              Sandbach South Jn (Independent
-              lines)
-              Gresty Lane Jn – Salop Goods Jn
-     NW1011 GSG                    0  00  0 37  N    N   N    N   N    N
-              Crewe Sorting Sidings North – Gresty
-     NW1013 CSG                   157 26157 47  N    N   N    N   N    N
-              Lane
-              Salop Goods Jn – Crewe North Jn
-     NW1015 CIL                   157 64158 18  N    N   N    N   N    N
-              (Chester Independent lines)
-              Salop Goods Jn – Boundary
-     NW1017 LLI                   157 71158 73  N    N   Y    E   N    N
-              (NW1001) (Crewe Coal Yard –
-              Liverpool Independent lines)
-     NW1019 CHW1/ Acton Grange Jn – Warrington South
-                                   16 19 17 76  N    N   Y    N   N    N
-          2   Jn (Helsby lines)
-              Winwick Jn – Earlestown East Jn
-     NW1021 WEE                   185 49187 10  N    N   Y    Y   N    N
-              Earlestown East Jn – Newton-le-
-     NW1021 DSE                    14 75 16 19  N    N   Y    Y   N    N
-              Willows Jn (Electrified section)
-              Newton-le-Willows Jn – Golborne Jn
-     NW1021 NGJ                    0  00  0 53  N    N   Y    Y   N    N
-              Haydock Branch Jn – End of line
-     NW1023 HOB2                   0  00  0 53  N    N   N    N   N    N
-              Bamfurlong Sidings Jn – Ince Moss Jn
-     NW1025 IMG                    0  18  0 78  N    N   N    N   N    N
-              Preston South Jn – Preston Docks
-     NW1027 PSR1                   21 39 21 47  N    N   N    N   N    N
-              Branch (Change of ELR)
-     NW1027 PSR2
-              Preston Docks Branch (Change of
-                                   0  00  0 40  N    N   N    N   N    N
-              ELR) – Network Rail Boundary (Ribble
-              Steam Railway)
-              NW1001 (Weaver Jn) – Ditton East Jn 174
-     NW2001 WJL1                      53182 67  N    N   T    Y   N    N
-              Ditton East Jn – Speke East Jn
-     NW2001 WJL2                  182 67186 72  N    N   T    Y   N    N
-              Speke East Jn – Edge Hill East Jn
-     NW2001 WJL3                  186 72191 75  N    N   T    Y   N    N
-              Edge Hill East Jn – Liverpool Lime
-     NW2001 WJL4                  191 75193 52  N    N   R1   Y   N    N  R2 Prohibited Liverpool Lime Street platforms 1, 2,
-              Street                                     R2                 3, 4, 5, 7 & 8
-                                                                          R3 Permitted loco-hauled only on Down and Up
-                                                                            Wapping sidings
-              Runcorn – Network Rail Boundary
-     NW2003 RDB                    0  02  0 69  N    N   N    N   N    N
-              (Runcorn Dock Branch)
-              Speke East Jn – Garston Jn
-     NW2005 SCR                    22 59 23 52  N    N   N    N   N    N
-              Allerton East Jn – Garston Jn
-     NW2007 AEG                    0  00  0 28  N    N   N    N   N    N
+          ELR Line of Route / Sector Description
+                                       oooo oooo oooo oooo
+                                                     317  319 321 322  323 325  350  Notes
+     route                              M  Ch M  Ch  0000     00000000 00000000 0000ooooooooooooooooooooooo
+                                                                                    oooo
+              Carnforth North Jn – Oxenholme
+     NW4001 CGJ7                         6  08 19 11  Y   N    E   E    N   Y   Y
+              Oxenholme – Upperby Jn
+     NW4001 CGJ7                        19  11 68 23  Y   N    E   E    N   Y   Y
+              Upperby Jn – Carlisle
+     NW4001 CGJ7                        68  23 69 09  Y   N    E   E    N   Y   R1 R1 Prohibited Carlisle bay
+                                                                                      platforms 2, 5 and 6
+     NW4001 WCM1 Carlisle – Mossband Jn (Including Kingmoor Yard
+                                         0  00 7  57  Y   N    E   E    N   Y   R1 R1 Prohibited Carlisle bay
+              Goods lines)                                                            platforms 7 and 8
+     NW4001 WCM1 Mossband Jn – Gretna Jn 7  57  8 57  Y   N    E   E    N   Y    Y
+     NW4001 WCM1 Gretna Jn – Route Boundary (SC001) (Gretna
+                                         8  57 12 30  Y   N    E   E    N   Y    Y
+              Green)
+              Upperby Bridge Jn – Upperby Bridge
+     NW4001 UCJ                         67  58 68 23  N   N    N   N    N   H    N
+     NW4003
+          PDB Preston Fylde Jn – End of line
+                                         0  00  1 59  N   N    N   N    N   N    N Line out of use
+     NW4005
+          PBN Preston Fylde Jn – Kirkham North Jn
+                                         0  33  8 28  N   Y    N   N    Y   H    N
+     NW4005
+          PBN Kirkham North Jn – Poulton Jn
+                                         8  28 14 40  N   Y    N   N    Y   H    N
+     NW4005
+          PBN Poulton Jn – Blackpool North
+                                        14  40 17 49  N   Y    N   N    N   H    N
+     NW4007
+          KBS1Kirkham North Jn – Blackpool South
+                                         8  28 20 00  N   N    N   N    N   H    N
+     NW4009
+          WPS Poulton – End of Line     14  40 18 08  N   N    N   N    N   N    N Line out of use from 14m 75ch to the
+                                                                                   end of the line
+                                                                                   NC/G1/2001/LNW294
+     NW4011
+          MSM Morecambe South Jn – Morecambe Buffer Stops
+                                         0  00  2 12  N   N    N   N    N   H    N
+     NW4013
+          HBL Hest Bank Jn – Bare Lane Jn0  00  1 30  N   N    N   N    N   H    N
+     NW4017
+          MHH Morecambe Jn – Heysham Port0  00  4 01  N   N    N   N    N   H    N
+     NW4019
+          OXW Oxenholme – Windermere     0  00 10 15  N   N    N   N    N   H    N
+     NW4021
+          UCJ Upperby Jn – Bog Jn        0  38  1 07  N   N    N   N    N   H    N
+     NW4021
+          UCJ Bog Jn – Rome St Jn        1  07  1 23  N   N    N   N    N   H    N
+     NW4023
+          ULR Upperby Jn – London Rd Jn  0  00  0 34  N   N    N   N    N   H    N
+     NW4025
+          MCG Currock Jn – Bog Jn        0  00  0 44  N   N    N   N    N   N    N
+     NW4027
+          BSN Bruntill Branch Jn - Stainton Jn via Down and Up
+                                         0  66  0  2  N   N    N   N    N   N    N
+              Brunthill Branch Siding
+     NW4027 ETC
+              End of Line Buffer Stops - Network Rail Boundary
+                                        96  9  95  6  N   N    N   N    N   N    N
+              / Brunthill via Down and Up Brunthill line
+              Mossband Jn – Bush-on-Esk West Jn
+     NW4029 GJH                          3  02 1  06  N   N    N   N    N   N    N
+              Bush-on-Esk West Jn – Network Rail Boundary
+     NW4029 GJH                          1  06 0  24  N   N    N   N    N   N    N Line out of use
+              Gretna Jn – Route Boundary (SC031) (Eastriggs)
+     NW4031 GSW                         116 13115 40  N   N    N   N    N   H    N
+              Carnforth North Jn – Carnforth Station Jn
+     NW4033 CBC1                         0  19 0  38  N   N    N   N    N   H    E
 
 
-    October 2009                                    28D
+
+    October 2009                                     22
