@@ -33,46 +33,19 @@ do
             mkdir -p ${ROUTE}/${i}
         fi
     done
-    FILENAME=$(jq -r '.[] | select(. | keys[] == "'${ROUTE}'") | .[]' section-list.json)
-    if [ -z "$(ls -A ${ROUTE}/pdf/)" ]; then
-        echo Extract PDF pages ${ROUTE}
-        (cd ${ROUTE}/pdf; pdfseparate "../../download/${FILENAME}" pg_%04d.pdf 2> /dev/null)
-    fi    
     echo Process ${ROUTE} PDF pages
+    ./pdf-separate.sh ${ROUTE}
     ./remove-background.sh ${ROUTE}
-    for i in ${ROUTE}/pdf/*.pdf
-    do
-        FILESTUB=$(basename ${i} | sed 's/.pdf//')
-        PDFPATH=${i}
-        OUTPUTPATH=${ROUTE}/output/${FILESTUB}.pdf
-        if [ -f ${OUTPUTPATH} ]; then
-            PDFPATH=${OUTPUTPATH}
-        fi
-        TXTPATH=${ROUTE}/txt/${FILESTUB}.txt
-        if [ ! -f ${TXTPATH} ]; then
-            pdftotext -fixed 8 -nopgbrk ${PDFPATH} ${TXTPATH}
-        fi
-    done
+    ./generate-txt.sh ${ROUTE}
     if [ -z "$(ls -A ${ROUTE}/*-clearance.xlsx 2> /dev/null)" ]; then
         echo Create gauge report ${ROUTE}
         ./collate-gauge2.py ${ROUTE}
     fi
-    #find ${ROUTE} -name \*.tsv -exec sed -i 's/\t$//' {} \;
 done
 
 for ROUTE in $(jq -r '.[] | keys[]' section-list.json)
 do
-    echo Create PNG images ${ROUTE}
-    for i in ${ROUTE}/output/*.pdf
-    do
-        FILESTUB=$(basename ${i} | sed 's/.pdf//')
-        if [ ! -f ${ROUTE}/images/${FILESTUB}.png ]; then
-            #echo -n ${ROUTE} ${FILESTUB}.png
-            #echo -n " generate"
-            pdftoppm -singlefile -r 300 -png ${i} ${ROUTE}/images/${FILESTUB}
-            #echo
-        fi
-    done
+    ./generate-png.sh ${ROUTE}
 done
 
 echo Create md files

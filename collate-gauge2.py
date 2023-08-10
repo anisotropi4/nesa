@@ -34,7 +34,9 @@ ROUTE = path.dirname(ARGS.route) or ARGS.route
 
 
 def outer_rectangle(img):
-    cannied = cv2.Canny(img, threshold1=50, threshold2=200, apertureSize=7)
+    kernel = np.ones((5,5),np.uint8)
+    img = cv2.erode(img, kernel, iterations=1)
+    cannied = cv2.Canny(img, threshold1=10, threshold2=200, apertureSize=7)
     return cv2.findContours(cannied, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
 
