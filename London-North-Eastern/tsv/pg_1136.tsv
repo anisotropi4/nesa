@@ -1,18 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
-London-North-Eastern	1136	LN3252	MJT1	Mansfield Jn – Radford Jn	124	22	125	55	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3252	MJT2	Radford Jn – Trowell South Jn	125	55	130	51	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3255	RAC	Radford Jn – Newstead	125	55	134	20	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3255	RAC	Newstead – Kirkby Lane End Jn	134	20	136	66	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3261	THL	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3264	AML	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3273	TCC	Codnor Park Jn – Ironville Jn	132	76	133	18	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3273	PBS1	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3273	PBS2	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3273	PBS3	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	N	N	N	N	H	N	EH	N	EH	N	
-London-North-Eastern	1136	LN3501	DBP1	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	N	N	N	N	H	N	EH R1	N	EH R2 R3 R4 R5	N	R1 Prohibited between Wichnor Jn and Route Boundary (MD501) (Kingsbury Jn) R2 15mph Burton on Trent Up Main platform R3 Prohibited Derby platform 4 R4 5mph Derby platform 3 R5 Prohibited Down and Up Goods lines between Clay Mills Jn and Leicester Jn
-London-North-Eastern	1136	LN3505	NSS	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	N	N	N	H	N	N	N	N	N	
-London-North-Eastern	1136	LN3515	MJS1	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1136	LN3520	SSJ1	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	N	N	N	N	H	N	N	N	EH	N	
-London-North-Eastern	1136	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	N	N	N	N	H	N	N	N	EH	N	
-London-North-Eastern	1136	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	N	N	N	N	H	N	N	N	EH R1	N	R1 15mph over bridge 10 Swarkestone Road on the Down Line 128m 14ch
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
+London-North-Eastern	1136	LN836	DOL2	Site of former West Riding Jn – Copley Hill West Jn	175	32	184	65	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN836	DOL2	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN836	DOL2	Whitehall East Jn – Leeds	185	28	185	70	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN838	LEH1	Armley Jn – Site of former Pannal Jn	0	12	14	60	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN838	LEH2	Site of former Pannal Jn – Site of Former Crimple Jn	14	60	15	20	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN838	LEH3	Site of former Crimple Jn – Harrogate	15	20	17	24	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN838	HAY2	Harrogate – Site of former Starbeck North Jn	20	38	18	60	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN838	HAY1	Site of former Starbeck North Jn – Skelton Jn	18	60	1	50	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN840	TJC3	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN842	CJS	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN842	CJS	Applehurst Jn – Skellow Jn	163	27	160	59	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN842	SKA	Skellow Jn – Adwick Jn	0	61	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN844	JCA	Applehurst Jn – Joan Croft Jn	0	49	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN846	CJS	Carcroft Jn – Skellow Jn	160	08	160	59	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN848	HPC	Hare Park Jn – Crofton West Jn	171	70	173	22	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN850	WWK	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	0	00	0	26	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN852	LBE1	Holbeck Jn – Site of former Laisterdyke East Jn	0	02	6	49	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN852	LBE2	Site of former Laisterdyke East Jn – Site of former Laisterdyke West Jn	190	24	190	60	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN852	LBE3	Site of former Laisterdyke West Jn – Site of former Hammerton Street Jn	190	60	191	30	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN852	LBE4	Site of former Hammerton Street Jn – Mill Lane Jn	191	30	191	75	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN852	MRB	Mill Lane Jn – Bradford Interchange	40	01	40	27	N	N	N	N	N	N	N	
+London-North-Eastern	1136	LN854	MVN2	Route Boundary (NW7001) (Hall Royd Jn) – Turners Lane Jn	22	62	48	33	N	N	N	N	N	N	N	

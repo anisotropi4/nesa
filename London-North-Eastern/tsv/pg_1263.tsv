@@ -1,9 +1,17 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Eastern	1263	LN3520	Sheet Stores Jn – Stenson Jn	Y *	Y	Y	Y	Y	Y	Y	Y	S1 The following combinations are permitted: 2438 h x 2438 w box on FEA KFA wagons Up Line 2590 h x 2438 w box on FEA FSA/FTA KFA wagons Up Line 2590 h x 2500 w box on FEA FSA/FTA KFA wagons Up Line 2615 h x 2500 w S16 FT on KFA wagons Up Line 2615 h x 2550 w S16 FT on KFA wagons Up Line 2625 h x 2500 w ST17 FT on FEA FSA/FTA wagons Up Line 2625 h x 2550 w ST17 FT on FEA FSA/FTA wagons Up Line 2896 h x 2438 w box on FLA wagons Up Line 2896 h x 2500 w box on FAA wagons Up Line STNC NC/G1/2001/ICP-G/M&C002 applies to 31/12/10
-London-North-Eastern	1263	LN3525	Knighton Jn – Leicester Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1263	LN3535	Birmingham Curve Jn – Branston Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1263	LN3601	Kettering North Jn – Manton Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1263	LN3605	Corby BSC Works – Corby North	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1263	LN3610	Corby Automotive Terminal – Corby North	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1263	LN3615	Uffington – Syston South Jn	Y *	Y	R1 R2	R1 R2	R1 R2	R1 R2	N	N	R1 W10 Prohibited: The following combinations are permitted: Up to: 2895 high x 2500 wide box on FIA FKA FSA/FTA IFA IKA KFA FEA wagons R2 PROHIBITED from Melton Mowbray Up Goods Yard.
-London-North-Eastern	1263	LN3620	Melton Jn GF – Asfordby	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1263	LN826	Doncaster South Yorkshire Jn – Swinton Jn North / South	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1263	LN828	Mexborough Jn – Aldwarke Jn via Kilnhurst	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1263	LN830	Aldwarke Jn – Woodburn Jn	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Up Tinsley R2 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Down Tinsley R3 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Up Tinsley R4 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Down Tinsley
+London-North-Eastern	1263	LN832	Doncaster Bridge Jn – St James Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1263	LN836	Doncaster, Marshgate Jn – Hare Park Jn	Y *	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1263	LN836	Hare Park Jn – Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1263	LN838	Leeds Armley Jn – York Skelton Jn via Harrogate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile and above 3650mm in height 10mph speed restriction through Wescoe Hill Tunnel on the Down: and 10mph speed restriction through Br39 on the Down. The Rail Head Treatment Train FEA wagon is permitted without restriction.
+London-North-Eastern	1263	LN840	Leeds Engine Shed Jn – Whitehall East Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1263	LN842	Stainforth Jn – Applehurst Jn	Y *	Y	Y	N	N	Y	Y	N	
+London-North-Eastern	1263	LN842	Applehurst Jn – Adwick Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1263	LN842	Skellow Jn – Adwick Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1263	LN844	Applehurst Loop	Y	Y	Y	N	N	Y	Y	N	
+London-North-Eastern	1263	LN846	Carcroft Jn – Skellow Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1263	LN848	Hare Park Jn – Crofton West Jn	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1263	LN850	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1263	LN852	Holbeck Jn – Bradford Interchange	Y *	N	N	N	N	N	N	N	

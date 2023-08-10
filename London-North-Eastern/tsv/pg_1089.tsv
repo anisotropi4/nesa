@@ -1,24 +1,17 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
-London-North-Eastern	1089	LN170	SPD4	Trent West Jn – Bessacarr Jn	98	68	115	72	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN170	SPD5	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN175	SSE	Sleaford South Jn – Sleaford East Jn	0	00	0	43	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN180	SNW	Sleaford West Jn – Sleaford North Jn	1	34	3	42	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	ABE1	Allington West Jn – Site of former Barkston East Jn	0	00	4	08	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	GRS1	Barkston East Jn – Site of former Honington Jn	110	12	112	00	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	GRS2	Site of former Honington Jn – Sleaford West Jn	112	00	120	29	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	GRS2	Sleaford West Jn – Sleaford East Jn	120	29	121	21	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	GRS2	Sleaford East Jn – Site of former Boston Sleaford Line Jn	121	21	137	06	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	GRS3	Site of former Boston Sleaford Line Jn – Boston	106	70	107	24	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN185	GRS3	Boston – Site of former Firsby East Jn	107	24	122	22	N	N	N	N	N	N	N	N		N	N	R1 Prohibited Newcastle platforms 3, 5, 6, 9, 10 and 11
-London-North-Eastern	1089	LN185	GRS4	Site of former Firsby East Jn - Skegness	0	28	9	17	N	N	N	N	N	N	N	N		N	N	
-London-North-Eastern	1089	LN190	ACD	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN195	NOG1	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN206	NOB2	Coulson Change of ELR – Boultham Jn	32	00	32	40	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN210	NSE	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN235	FWR1	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N				
-London-North-Eastern	1089	LN235	FWR2	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N				
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	168	170	172	180	195	196	220	221	222	Notes
+London-North-Eastern	1089	LN3201	SPC8	Derby Jn – Former Clay Cross South Jn	128	08	147	69	N	Y	E	E	Y	N	Y	Y	Y	
+London-North-Eastern	1089	LN3201	SPC9	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	N	Y	E	E	Y	N	Y	Y	Y	
+London-North-Eastern	1089	LN3204	TSN1	Trent South Jn – Mansfield Jn	119	17	125	64	N	Y	E R1	N	Y	N	Y	Y	Y	R1 R1Prohibited Trent East Jn to Mansfield Jn
+London-North-Eastern	1089	LN3204	TSN2	Mansfield Jn – Nottingham East Jn	124	22	123	27	N	Y	N	N	Y	N	Y	Y	R1	R1 Between Nottingham and Nottingham East Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1089	LN3207	TCC	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	N	Y	E R2	N	R1	N	Y	Y	Y	R1 Prohibited Codnor Park Jn to Change of ELR (between Morton Jn and Clay Cross Jn)
+London-North-Eastern	1089	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	N	Y	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1089	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	E	N	N	N	N	N	N	
+London-North-Eastern	1089	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	N	N	E	N	N	N	N	N	N	
+London-North-Eastern	1089	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1089	LN3214	CBI	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1089	LN3219	CAW	Cricklewood Curve Jn – Route Boundary (LOR EA1360)	5	19	5	72	N	Y	E	N	N	N	N	N	Y	
+London-North-Eastern	1089	LN3222	BDH	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	E	Y	E	N	N	N	N	N	Y	
+London-North-Eastern	1089	LN3228	TCC	Trent East Jn – Trent East ELR Change	119	70	119	56	N	Y	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1089	LN3228	TES	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	N	Y	N	N	Y	N	Y	Y	Y	
+London-North-Eastern	1089	LN3231	WGP	Wigston South Jn – Glen Parva Jn	95	37	96	07	N	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1089	LN3232	WNS	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	N	Y	N	N	N	N	Y	Y	N	

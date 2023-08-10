@@ -1,20 +1,25 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1139	LN101	PMJ	Peterborough – Helpston Jn via Stamford lines	22	19	16	71	Y	Y	Y	N	N	Y	Y	N	N	
-London-North-Eastern	1139	LN101	ECM1	Newark North Gate – Retford	120	08	138	49	Y	Y	Y	EH R1	N	Y	Y	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1139	LN101	ECM1	Retford – Loversall Carr Jn	138	49	150	00	Y	Y	Y	EH R1	N	Y	Y	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1139	LN101	ECM1	Loversall Carr Jn – Marshgate Jn	152	00	156	26	Y	Y	Y	EH R1 R2	N	R1	Y	Y	R3 R4	R1 Prohibited between Doncaster and Marshgate Jn R2 Prohibited with footsteps fitted R3 Prohibited between Loversall Carr Jn to Black Carr Jn R4 Prohibited Doncaster platform 2
-London-North-Eastern	1139	LN101	ECM1	Marshgate Jn – Shaftholme Jn	156	26	160	16	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1139	LN105	MEB1	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1139	LN105	MEB1	Drayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1139	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	Y	Y	Y	N	N	Y	Y	Y	N	
-London-North-Eastern	1139	LN115	CRF1	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	Y	Y	Y	EH R1	N	Y	EH	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1139	LN120	HDB	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	Y	Y	Y	N	N	Y	Y	Y	N	
-London-North-Eastern	1139	LN120	HDB	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1139	LN125	SBR	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	Y	Y	Y	N	N	Y	Y	Y	N	
-London-North-Eastern	1139	LN126	DCF	Hitchin North Jn – Hitchin East Jn	32	53	34	05	Y	Y	Y	N	N	Y	Y	Y	N	
-London-North-Eastern	1139	LN135	EMP	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	Y	Y	Y	N	N	Y	Y	Y	N	
-London-North-Eastern	1139	LN145	WDU	Marholm Jn – Glinton Jn	0	00	1	64	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1139	LN147	PMJ	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1139	LN150	SPD5	Flyover East – Decoy North Jn	116	20	117	46	Y	Y	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1139	LN155	LCJ	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	Y	Y	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1139	LN160	LCR	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	Y	Y	Y	N	N	N	Y	Y	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
+London-North-Eastern	1139	LN888	CJS	Stainforth Jn – Thorpe Marsh Jn	166	70	163	76	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN888	HTM	Thorpe Marsh Jn – Haywood Jn	69	56	67	66	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN888	KWS	Haywood Jn – Knottingley West Jn	67	66	58	20	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN888	FKW	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN889	KWS	Shaftholme Jn – Haywood Jn	68	75	67	66	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN892	PEF	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN894	KES	Knottingley South Jn – Knottingley East Jn	0	00	0	20	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN896	DRA1	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL4	Neville Hill East Jn – Micklefield Jn	18	25	10	63	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL4	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL3	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL3	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL3	Selby West Jn – Selby South Jn	0	36	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL2	Selby South Jn – Site of former Barlby Jn	31	12	30	40	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL1	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN898	HUL1	Anlaby Road Jn – Hull	0	73	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN900	HUE	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN902	CFM	Micklefield Jn – Church Fenton North Jn	15	62	10	31	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN904	HSC	Hambleton South Jn – Hambleton West Jn	174	10	175	33	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN906	HNC	Hambleton East Jn – Hambleton North Jn	3	34	4	00	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN908	SEC	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN910	TCW1	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN910	TCW1	Selby Canal Jn – Selby South Jn	173	59	174	11	N	N	N	N	N	N	N	
+London-North-Eastern	1139	LN912	TJG1	Thorne Jn – Thorne North Change of ELR	7	69	9	09	N	N	N	N	N	N	N	

@@ -1,22 +1,26 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1049	LN758	BKS	Brancliffe East Jn – St Catherines Jn	0	00	15	17	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN758	BKS	St Catherines Jn – Low Ellers Curve Jn	15	17	15	55	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN758	BKS	Low Ellers Curve Jn – Kirk Sandall Jn	15	55	20	49	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN760	HAC	Firbeck Jn – Harworth Colliery	11	20	14	21	N	N	N	N	N	N	N	N	N	Line out of use (temporarily) until 09 May 2015 NC/G1/2011/LNE/STNC/002
-London-North-Eastern	1049	LN762	YDS	St Catherines Jn – Decoy South Jn (St Catherines Curve)	15	17	15	71	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN764	UDS	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN766	HJB	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	3	24	0	00	N	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1049	LN768	PSE	Route Boundary (LN3273) (Mansfield) – Shireoaks East Jn	143	00	154	30	N	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1049	LN772	SWP	Warsop Jn – Shirebrook Jn	0	00	0	45	N	N	Y	N	N	N	N	N	N	
-London-North-Eastern	1049	LN774	BAC2	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN774	BAC3	Seymour Jn SB – Oxcroft Disposal Point	155	06	0	78	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN776	HLF1	Hall Lane Jn – Change of ELR	0	44	0	00	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN776	HLF2	Change of ELR – Foxlow Jn	150	47	150	64	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN778	BOC1	Seymour Jn – Bolsover	7	51	5	21	N	N	N	N	N	N	N	N	N	Line out of use between Site of former Markham Colliery Jn and Bolsover NC/G1/2010/LNE/020V
-London-North-Eastern	1049	LN782	SHW	Woodend Jn – Shireoaks West Jn	153	71	154	36	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1049	LN784	HIM	High Marnham – Thoresby Colliery Jn	27	48	17	16	N	N	N	Y	N	N	N	N	N	
-London-North-Eastern	1049	LN784	HIM	Thoresby Colliery Jn – Warsop Jn	17	16	10	59	N	N	N	Y	N	N	N	N	N	
-London-North-Eastern	1049	LN784	HIM	Warsop Jn – Shirebrook South Jn	10	59	10	19	N	N	N	Y	N	N	N	N	N	
-London-North-Eastern	1049	LN784	HIM	Shirebrook South Jn – Shirebrook East Jn	10	19	9	72	N	N	N	Y	N	N	N	N	N	
-London-North-Eastern	1049	LN786	BEC	Boughton Jn – Network Rail Boundary (Bevercotes Colliery)	0	00	4	22	N	N	N	N	N	N	N	N	N	Line out of use from 01m 0ch to Network Rail Boundary (Bevercotes Colliery) LN213/PJ1037
-London-North-Eastern	1049	LN788	TYC	Thoresby Colliery Jn – Thoresby Colliery	0	00	0	42	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	LN185	GRS3	Boston – Site of Former Firsby East Jn	107	24	122	22	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN185	GRS4	Site of Former Firsby East Jn - Skegness	0	28	9	17	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN190	ACD	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN195	NOG1	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	R1	N	N	Y	Y	Y	Y	Y	Y	R1 Prohibited Allington East Jn - Route Boundary (LN3635) (Rectory Jn SB)
+London-North-Eastern	1049	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	R1	R1	R1	Y	Y	Y	Y	Y	Y	R1 Prohibited between Route Boundary (LN3625) (Nottingham East Jn) and Newark Crossing East Jn
+London-North-Eastern	1049	LN206	NOB2	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN210	NSE	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN235	FWR1	Rossington Colliery Jn – End of Line	152	12	151	69	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN235	FWR2	Rossington Colliery – End of Line	153	31	151	69	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM4	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM4	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM5	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	Y	Y	Y	R1	Y	Y	R1 Prohibited with large snowploughs fitted
+London-North-Eastern	1049	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	Y	Y	R1	R1	Y	R1	R2	R1 Prohibited Newcastle platforms 10 and 12 R2 Prohibited Newcastle platforms 10, 11 and 12
+London-North-Eastern	1049	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1049	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1049	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	Y	Y	Y	Y	Y	N	

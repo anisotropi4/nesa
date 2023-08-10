@@ -1,19 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1154	LN912	TJG2	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN914	HBS	West Parade Jn – West Parade North Jn	0	25	0	72	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1154	LN914	HBS	West Parade North Jn – Walton Street Jn	0	72	1	29	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1154	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	Y	Y	Y	N	N	N	N	N	R1	R1 Prohibited Bridlington platform 5
-London-North-Eastern	1154	LN916	HJS	Hessle Road – Springbank North Jn	0	00	1	38	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN916	HJS	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1154	LN918	SPW	Springbank North Jn – Walton Street Jn	1	54	1	29	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN920	AWP	Anlaby Road Jn – West Parade North Jn	0	00	0	24	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN922	TJC3	Whitehall West Jn – Skipton	195	57	221	01	Y	Y	Y	N	N	N	R1 R2	N	N	R1 30mph Shipley platform 2 R2 40mph Bingley Down platform
-London-North-Eastern	1154	LN922	TJC3	Skipton – Site of former Skipton North Jn Change of ELR	221	21	221	68	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN922	SKW1	Site of former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN926	GUE2	Dockfield Jn – Esholt Jn	3	41	0	00	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN928	SBF	Shipley East Jn – Bradford Forster Square	205	54	208	50	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1154	LN930	SKS1	Skipton Middle – Site of former Embsay Jn	222	68	220	64	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN930	SKS2	Site of former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1154	LN932	BIB	Shipley South Jn – Shipley West Jn	0	00	0	17	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1154	LN758	BKS	St Catherines Jn –Low Ellers Curve Jn	15	17	15	55	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN758	BKS	Low Ellers Curve Jn – Kirk Sandall Jn	15	55	20	49	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN760	HAC	Firbeck Jn – Harworth Colliery	11	20	14	21	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN762	YDS	St Catherines Jn – Decoy South Jn (St Catherines Curve)	15	17	15	71	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1154	LN764	UDS	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN766	HJB	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding line)	3	24	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1154	LN768	PSE	Route Boundary (LN3273) (Mansfield) – Shireoaks East Jn	143	00	154	30	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1154	LN772	SWP	Warsop Jn – Shirebrook Jn	0	00	0	45	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN774	BAC2	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN774	BAC3	Seymour Jn SB – Oxcroft Disposal Point	155	06	0	78	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN776	HLF1	Hall Lane Jn – Change of ELR	0	44	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN776	HLF2	Change of ELR – Foxlow Jn	150	47	150	64	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN778	BOC1	Seymour Jn – Bolsover	7	51	5	21	R1	R1	N	N	N	N	N	N	N	R1 Line out of use between Site of former Markham Colliery Jn and Bolsover NC/G1/2010/LNE/020V
+London-North-Eastern	1154	LN782	SHW	Woodend Jn – Shireoaks West Jn	153	71	154	36	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN784	HIM	High Marnham – Thoresby Colliery Jn	27	48	17	16	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN784	HIM	Thoresby Colliery Jn – Warsop Jn	17	16	10	59	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN784	HIM	Warsop Jn – Shirebrook South Jn	10	59	10	19	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN784	HIM	Shirebrook South Jn – Shirebrook East Jn	10	19	9	72	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN786	BEC	Boughton Jn – Network Rail Boundary (Bevercotes Colliery)	0	00	4	22	N	N	N	N	N	N	N	N	N	Line out of use from 01m 0ch to Network Rail Boundary (Bevercotes Colliery) LN213/PJ1037
+London-North-Eastern	1154	LN788	TYC	Thoresby Colliery Jn – Thoresby Colliery	0	00	0	42	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1154	LN802	WKC	Welbeck Colliery Jn – Network Rail Boundary (RJB)	0	00	2	63	Y	Y	N	N	N	N	N	N	N	

@@ -1,22 +1,16 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1069	LN702	BWC	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN704	ISC	Newsham North Jn – Network Rail Boundary (Blyth Bates Terminal)	0	00	0	36	N	N	N	N	N	N	N	N	Line out of use NME/2010/LNE/006 and NME/2010/LNE009
-London-North-Eastern	1069	LN706	WSB	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN708	MWJ	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN736	MAC3	Cleethorpes – Grimsby Docks	112	40	110	11	Y	N	N	Y	Y	N	N	N	
-London-North-Eastern	1069	LN736	MAC3	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	N	N	Y	Y	N	N	N	
-London-North-Eastern	1069	LN736	MAC3	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	N	N	Y	Y	N	N	N	
-London-North-Eastern	1069	LN736	MAC3	Wrawby Jn – West Burton East Jn	94	12	72	18	N	N	N	R1	Y	N	N	N	R1 15mph Gainsborough Central Up platform 1
-London-North-Eastern	1069	LN736	MAC3	West Burton East Jn – Thrumpton West Jn (Up)	72	18	63	28	N	N	N	Y	Y	N	N	N	
-London-North-Eastern	1069	LN736	MAC3	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	N	N	N	Y	Y	N	N	N	
-London-North-Eastern	1069	LN736	MAC3	Manton Wood – Brancliffe East Jn	58	54	53	57	R1	N	N	Y	Y	N	N	N	R1 Prohibited between Shireoaks East Jn and Brancliffe East Jn
-London-North-Eastern	1069	LN736	MAC3	Brancliffe East Jn – Woodburn Jn	53	57	42	29	R1	N	N	Y	Y	R1	R1	R1	R1 Prohibited between Brancliffe East Jn and Woodhouse Jn
-London-North-Eastern	1069	LN736	NUJ2	Woodburn Jn – Site of former Nunnery Jn	42	29	41	68	Y	N	N	R1	Y	Y	Y	Y	R1 5mph Darnall Down platform
-London-North-Eastern	1069	LN736	NUJ1	Site of former Nunnery Jn – Nunnery Main Line Jn	159	33	158	77	Y	N	N	Y	Y	Y	Y	Y	
-London-North-Eastern	1069	LN738	MWN	Great Coates No. 1 – Network Rail Boundary (ABP)	108	34	108	44	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN740	MWN	Marsh West Jn – Network Rail Boundary (ABP)	107	69	108	44	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN740	PYE2	Network Rail Boundary (ABP) – Site of former Queens Road Jn	4	33	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN740	PYE1	Site of former Queens Road Jn – Immingham East Jn	106	50	106	31	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN740	BRI2	Immingham East Jn – Humber Road Jn	106	31	104	05	N	N	N	N	N	N	N	N	
-London-North-Eastern	1069	LN741	HAU	Habrough – Ulceby South Jn	0	32	1	45	Y	N	N	Y	N	N	N	N	
-London-North-Eastern	1069	LN742	KIL2	Killingholme – Immingham West Change of Mileage	2	70	0	00	N	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Noteso
+London-North-Eastern	1069	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	E	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1069	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	E	N	Y	Y	N	Y	Y	Y	
+London-North-Eastern	1069	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	E R1 R2	N	R3	R4	N	Y	Y	R5	R1 Prohibited Newcastle bay platforms 9-12 R2 Prohibited Newcastle platform 4 Up Main line R3 Prohibited Newcastle platforms 9 and 10 R4 Prohibited Newcastle platform 9 with deflated suspension R5 Prohibited Newcastle Station platforms 5, 6, 7, 8, 9, 10, 11 and 12
+London-North-Eastern	1069	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	E R1 R2	N	Y	Y	N	Y	Y	Y	R1 Prohibited Newcastle bay platforms 9-12 Prohibited Newcastle platform 4 Up Main line R2 Prohibited Newcastle platform 4 Up Main line
+London-North-Eastern	1069	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	E	N	E	R1	N	Y	Y	Y	R1 Prohibited Manors Down platform when laden
+London-North-Eastern	1069	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	R1	N	E	Y	N	Y	Y	R2	R1 ECS only between Heaton South Jn and Berwick upon Tweed R2 R2 Prohibited between Berwick upon Tweed Up Goods Loop (67m 38ch) and Route Boundary (SC147) (Prestonpans Jn)
+London-North-Eastern	1069	LN618	HOS	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	N	N	Y	Y	N	Y	Y	Y	
+London-North-Eastern	1069	LN620	KEB	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1069	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	Y	N	Y	Y	N	
+London-North-Eastern	1069	LN624	REB4	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	
+London-North-Eastern	1069	LN626	LEN2	Northallerton High Jn – Northallerton East Jn	0	00	0	36	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1069	LN627	LLP1	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1069	LN627	LLP3	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1069	LN627	LLP2	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	N	N	Y	Y	N	Y	Y	N	
+London-North-Eastern	1069	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	N	N	Y	R1 R2	R3	Y	Y	N	R1 30mph LEN3/151 Oxbridge Lane underbridge 59m32ch Down line R2 15mph Stockton Up platform R3 Prohibited between Northallerton East Jn and Eaglescliffe South Jn

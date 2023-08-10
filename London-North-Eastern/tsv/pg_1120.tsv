@@ -1,19 +1,20 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
-London-North-Eastern	1120	LN105	MEB1	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN105	MEB1	Drayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn) - Finsbury Park Jn	3	20	4	33	E	N	E	N	EH	N	E	
-London-North-Eastern	1120	LN115	CRF1	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	N	N	E	N	EH	N	E	
-London-North-Eastern	1120	LN120	HDB	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	N	N	R2	N	N	N	R1	R2 Class 387/1 only
-London-North-Eastern	1120	LN125	SBR	Cambridge Jn – Route Boundary (EA1230)	32	11	45	60	N	N	R3 R4	N	N	N	R1 R2	R1 See Sectional Appendix Local Instructions R2 ECS only between Letchworth Garden City - Baldock on the Arrival / Departure line R3 Class 387/1 only R4 Prohibited Norton Way North Bridge No.5 Arrival / Departure line with deflated suspension
-London-North-Eastern	1120	LN126	DCF	Hitchin North Jn – Hitchin East Jn	32	53	34	05	N	N	R1	N	N	N	Y	R1 Class 387/1 only
-London-North-Eastern	1120	LN135	EMP	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN145	WDU	Marholm Jn – Glinton Jn	0	00	1	64	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN147	PMJ	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN150	SPD5	Flyover East – Decoy North Jn	116	20	117	46	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN155	LCJ	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN160	LCR	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN160	FWR1	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	N	N	N	N	N	E	
-London-North-Eastern	1120	LN170	WEB	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN170	SPD1	Site of former Spalding South Jn – Sleaford South Jn	44	07	62	14	N	N	N	N	N	N	N	
-London-North-Eastern	1120	LN170	SPD2	Sleaford South Jn – Sleaford North Jn	62	14	63	48	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	360	365	377	378	387	Notes
+London-North-Eastern	1120	LN836	DOL1	Doncaster Marshgate Jn – Hare Park Jn	156	28	171	70	H	R1	N	N	N	N	E R2 R3 R4	N	N	N	R1 Prohibited from using the unwired main to main crossover at Wintersett R2 5mph Down Leeds Bridge 1 River Don 156m 43ch (between Marshgate Jn and the avoiding line overbridge) R3 Prohibited Up Leeds Bridge 1 River Don 156m 43ch (between Marshgate Jn and the avoiding line overbridge) R4 Prohibited between the avoiding overbridge and Hare Park Jn
+London-North-Eastern	1120	LN836	DOL1	Hare Park Jn – Site of former West Riding Jn	171	70	175	32	H	Y	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN836	DOL2	Site of former West Riding Jn – Copley Hill West Jn	175	32	184	65	H	Y	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN836	DOL2	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	H	Y	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	H	Y	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN836	DOL2	Whitehall East Jn – Leeds	185	28	185	70	H	Y	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	H	E	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN838	LEH1	Armley Jn – Site of former Pannal Jn	0	12	14	60	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN838	LEH2	Site of former Pannal Jn – Site of Former Crimple Jn	14	60	15	20	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN838	LEH3	Site of former Crimple Jn – Harrogate	15	20	17	24	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN838	HAY2	Harrogate – Site of former Starbeck North Jn	20	38	18	60	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN838	HAY1	Site of former Starbeck North Jn – Skelton Jn	18	60	1	50	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN840	TJC3	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN842	CJS	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN842	CJS	Applehurst Jn – Skellow Jn	163	27	160	59	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN842	SKA	Skellow Jn – Adwick Jn	0	61	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN844	JCA	Applehurst Jn – Joan Croft Jn	0	49	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN846	CJS	Carcroft Jn – Skellow Jn	160	08	160	59	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1120	LN848	HPC	Hare Park Jn – Crofton West Jn	171	70	173	22	H	N	N	N	N	N	N	N	N	N	

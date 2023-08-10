@@ -1,24 +1,7 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	387	Notes
-London-North-Eastern	1109	LN652	POC2	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN652	SES	Seal Sands Branch Jn – End of NR maintenance	0	00	2	44	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN656	SOT	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN662	HNB	Ryhope Grange – Hendon	0	00	1	53	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN664	BNW	Boldon East Jn – Boldon North Jn	0	00	0	20	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN666	BGE	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN666	GLT	Boldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN670	JAW1	Pelaw Jn – Network Rail Boundary (Shell Mex Depot Jarrow)	0	09	3	36	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN672	FEP	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN674	HLK	High Level Bridge Jn – Greensfield Jn (West Curve)	0	00	0	21	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN676	PLG1	Park Lane Jn – Site of former High Street Jn	100	65	101	15	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN676	PLG2	Site of former High Street Jn – Greensfield Jn	0	00	0	21	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN676	HLK	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN678	DAE1	Darlington North Jn – Site of former Parkgate Jn	44	36	44	64	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN678	DAE1	Site of former Parkgate Jn – Shildon SB	0	00	8	29	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN678	DAE2	Shildon SB – Bishop Auckland	8	29	11	23	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN682	NEC1	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN682	NEC1	Norwood Jn – Site of former Blaydon East Jn	1	71	5	28	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN682	NEC2	Site of former Blaydon East Jn – Route Boundary (NW9909) (Petteril Bridge Jn)	3	78	58	00	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN684	NLF	Low Fell Jn – Limit of Electrification	0	00	1	26	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN684	NLF	Limit of Electrification – Norwood Jn	1	26	1	42	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN694	BNE	Benton North Jn – Site of former Earsdon Jn	0	00	2	53	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1109	LN694	EJM	Site of former Earsdon Jn – Morpeth North Jn	7	08	20	47	H	N	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	360	365	377	378	387	Notes
+London-North-Eastern	1109	LN101	ECM1	Kings Cross – Copenhagen Jn	0	00	0	64	H	N	N	N	N	E R2 R3	Y	N	N	R1	R1 Prohibited Kings Cross platforms 2 & 4 with deflated suspension R2 Class 360/1 only R3 Prohibited Kings Cross - Belle Isle Jn
+London-North-Eastern	1109	LN101	ECM1	Copenhagen Jn – Holloway South / North Jns	0	64	1	44	Y	N	N	N	N	E R1	Y	E	E	Y	R1 Class 360/1 only
+London-North-Eastern	1109	LN101	ECM1	Holloway South / North Jns – Wood Green North Jn	1	44	5	07	Y	N	E R1	E R2 R3 R4 R5 R6	E R2 R3 R4 R5 R6	E R8 R9 R10	Y	E R3	E R3	R7	R1 Prohibited between Holloway South / North Jns and Finsbury Park South Jn R2 Prohibited between Holloway South / North Jns and Finsbury Park R3 Prohibited between Hornsey and Wood Green North Jn R4 Prohibited Down Slow and Down Fast lines through Finsbury Park R5 10mph Finsbury Park platform 6 and Disused Up Slow platform R6 10mph Harringay platform 2 R7 Prohibited Hornsey platform 2 Down Slow No.1 R8 Class 360/1 only R9 Prohibited Ferme Park North Jn - Wood Green North Jn R10 Prohibited Finsbury Park Bridge No.13 Down Slow line
+London-North-Eastern	1109	LN101	ECM1	Wood Green North Jn – Langley Jn	5	07	25	73	Y	N	N	N	N	N	Y	N	N	Y	
+London-North-Eastern	1109	LN101	ECM1	Langley Jn – St Neots	25	73	51	58	Y	N	N	N	N	N	Y	N	N	Y	
+London-North-Eastern	1109	LN101	ECM1	St Neots – Fletton Jn	51	58	75	02	Y	N	N	N	N	N	Y	N	N	Y	

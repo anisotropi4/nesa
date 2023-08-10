@@ -1,25 +1,4 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1070	LN742	KIL1	Immingham West Change of Mileage – Humber Rd Jn	105	10	104	05	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN742	BRI2	Humber Rd Jn – Ulceby North Jn	104	05	100	44	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN742	BRI1	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	Y	N	N	Y	N	N	N	N	
-London-North-Eastern	1070	LN744	BAR	Ulceby North Jn – Barton on Humber	100	44	110	18	Y	N	N	Y	N	N	N	N	
-London-North-Eastern	1070	LN746	TYB1	Cottam Power Station – Clarborough Jn	71	79	68	32	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN748	WHR	Retford Western Jn – Thrumpton West Jn	64	29	63	28	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN750	MAC3	Woodburn Jn – Deepcar	42	29	33	35	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN752	DOW	Wrawby Jn – Marshgate Jn	33	34	0	03	R1	N	R2	R1	R2	N	N	R2	R1 Prohibited Scunthorpe Up Bay platforms R2 Prohibited between Wrawby Jn and Thorne Jn
-London-North-Eastern	1070	LN754	SAN	Scunthorpe Foreign Ore Branch	0	00	1	16	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN756	NOP1	Scunthorpe Trent Jn – Site of former Dawes Lane Jn	0	00	0	28	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN756	NOP2	Site of former Dawes Lane Jn – NR Boundary (Roxby)	0	25	3	60	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN758	BKS	Brancliffe East Jn – St Catherines Jn	0	00	15	17	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN758	BKS	St Catherines Jn – Low Ellers Curve Jn	15	17	15	55	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN758	BKS	Low Ellers Curve Jn – Kirk Sandall Jn	15	55	20	49	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN760	HAC	Firbeck Jn – Harworth Colliery	11	20	14	21	N	N	N	N	N	N	N	N	Line out of use (temporariliy) until 09 May 2015 NC/G1/2011/LNE/STNC/002
-London-North-Eastern	1070	LN762	YDS	St Catherines Jn – Decoy South Jn (St Catherines Curve)	15	17	15	71	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN764	UDS	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN766	HJB	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	3	24	0	00	N	N	N	Y	N	N	N	Y	
-London-North-Eastern	1070	LN768	PSE	Route Boundary (LN3273) (Mansfield) – Shireoaks East Jn	143	00	154	30	Y	E R1	N	N	N	N	N	N	
-London-North-Eastern	1070	LN772	SWP	Warsop Jn – Shirebrook Jn	0	00	0	45	N	E	N	N	N	N	N	N	
-London-North-Eastern	1070	LN774	BAC2	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN774	BAC3	Seymour Jn SB – Oxcroft Disposal Point	155	06	0	78	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN776	HLF1	Hall Lane Jn – Change of ELR	0	44	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1070	LN776	HLF2	Change of ELR – Foxlow Jn	150	47	150	64	N	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Noteso
+London-North-Eastern	1070	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	N	N	Y	R1 R2	Y	Y	Y	N	R1 Prohibited Hartlepool Bay platform R2 Prohibtied Hartlepool Up (disused) platform
+London-North-Eastern	1070	LN627	LEN3	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	N	N	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1070	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	N	N	Y	Y	Y	Y	Y	N	

@@ -1,21 +1,20 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1148	LN804	TJC1	Route Boundary (LN3201) (Tapton Jn) – Dore South Jn	146	64	153	71	Y	Y	Y	EH R1	N	Y	N	N	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1148	LN804	TJC1	Dore South Jn – Sheffield Station	153	71	158	40	Y	Y	Y	EH R1	N	Y	N	N	R2	R1 Prohibited with footsteps fitted R2 Prohibited Sheffield platform 2c
-London-North-Eastern	1148	LN804	TJC1	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	Y	Y	EH R1	N	Y	N	N	R2	R1 Prohibited with footsteps fitted R2 Prohibited Sheffield platform 2c
-London-North-Eastern	1148	LN804	TJC1	Nunnery Main Line Jn – Site of former Grimesthorpe Jn	158	77	160	47	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
-London-North-Eastern	1148	LN804	TJC2	Site of former Grimesthorpe Jn – Site of Masborough South Jn	160	47	163	74	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
-London-North-Eastern	1148	LN804	TJC3	Site of former Masborough South Jn – Swinton Jn South	161	77	166	56	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
-London-North-Eastern	1148	LN804	SMJ1	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
-London-North-Eastern	1148	LN804	SMJ1	Swinton Jn North – Site of former Wath Curve Jn	167	03	168	64	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1148	LN804	SMJ2	Site of former Wath Curve Jn – Ferrybridge South Jn	17	15	2	38	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1148	LN804	SMJ2	Ferrybridge South Jn – Site of former Burton Salmon Jn	2	38	0	00	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1148	LN804	SMJ3	Site of former Burton Salmon Jn – Milford Jn	16	69	15	07	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1148	LN804	MGW	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1148	LN806	CHR	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1148	LN807	MAS	Dore South Jn – Dore West Jn	153	73	154	16	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1148	LN808	DWS	Dore Station Jn – Dore West Jn	0	60	0	00	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1148	LN808	MAS	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1148	LN809	BTJ	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1148	LN810	SEL	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1148	LN812	BLJ	Shepcote Lane East Jn – Broughton Lane Jn	161	20	161	67	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1148	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN190	ACD	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN195	NOG1	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1148	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1148	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1148	LN206	NOB2	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1148	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1148	LN210	NSE	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1148	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	N	N	N	Y	N	N	
+London-North-Eastern	1148	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	N	N	N	Y	Y	N	
+London-North-Eastern	1148	LN235	FWR1	Rossington Colliery Jn – End of Line	152	12	151	69	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1148	LN235	FWR2	Rossington Colliery – End of Line	153	31	151	69	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1148	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM4	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM4	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM5	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1148	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	N	N	N	Y	Y	Y	

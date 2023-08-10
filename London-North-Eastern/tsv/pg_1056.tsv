@@ -1,10 +1,24 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1056	LN922	TJC3	Skipton – Site of Former Skipton North Jn Change of ELR	221	21	221	68	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1056	LN922	SKW1	Site of Former Skipton North Jn Change of ELR – Route Boundary (NW9901) (Settle Jn)	221	68	230	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1056	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	Y	Y	Y	Y	R1 R2	R1 R2	Y	Y	Y	R1 Prohibited Guiseley Down platform R2 Prohibited between Guiseley and Burley in Wharfedale
-London-North-Eastern	1056	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	Y	Y	Y	Y	N	N	Y	Y	Y	
-London-North-Eastern	1056	LN926	GUE2	Dockfield Jn – Esholt Jn	3	41	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1056	LN928	SBF	Shipley East Jn – Bradford Forster Square	205	54	208	50	Y	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1056	LN930	SKS1	Skipton Middle – Site of Former Embsay Jn	222	68	220	64	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN930	SKS2	Site of Former Embsay Jn – Network Rail Boundary (Tilcon Siding)	0	00	6	50	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1056	LN932	BIB	Shipley South Jn – Shipley West Jn	0	00	0	17	Y	Y	Y	Y	N	N	Y	Y	Y	
+London-North-Eastern	1056	LN812	BLJ	Shepcote Lane East Jn – Broughton Lane Jn	161	20	161	67	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN818	HCD	Holmes Jn – Rotherham Central Jn	0	00	0	62	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN824	SKM	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN826	PED5	South Yorkshire Jn – Mexborough Jn	22	57	15	64	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN826	SJM2	Mexborough Jn – Site of Former Mexborough North Jn	15	64	14	78	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN826	SJM1	Site of Former Mexborough North Jn – Swinton Jn South	167	15	166	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN828	WME	Mexborough Jn – Aldwarke Jn	10	17	7	26	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN830	WME	Aldwarke Jn – Woodburn Jn	7	25	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN832	SJB	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN836	DOL1	Doncaster Marshgate Jn – Hare Park Jn	156	28	171	70	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN836	DOL1	Hare Park Jn – Site of Former West Riding Jn	171	70	175	32	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN836	DOL2	Site of Former West Riding Jn – Copley Hill West Jn	175	32	184	65	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN836	DOL2	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN836	DOL2	Whitehall East Jn – Leeds	185	28	185	70	Y	Y	Y	Y	R1	R1	Y	Y	Y	R1 Prohibited Leeds platform 12 with deflated suspension
+London-North-Eastern	1056	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	Y	Y	Y	Y	R1	R1	Y	Y	Y	R1 Prohibited Leeds platform 12 with deflated suspension
+London-North-Eastern	1056	LN838	LEH1	Armley Jn – Site of Former Pannal Jn	0	12	14	60	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN838	LEH2	Site of Former Pannal Jn – Site of Former Crimple Jn	14	60	15	20	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN838	LEH3	Site of Former Crimple Jn – Harrogate	15	20	17	24	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN838	HAY2	Harrogate – Site of Former Starbeck North Jn	20	38	18	60	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN838	HAY1	Site of Former Starbeck North Jn – Skelton Jn	18	60	1	50	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1056	LN840	TJC3	Leeds Engine Shed Jn – Whitehall East Jn	195	20	195	52	Y	Y	Y	Y	Y	Y	Y	Y	Y	

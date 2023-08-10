@@ -1,11 +1,22 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Eastern	1254	LN774	Barrow Hill North Jn – Oxcroft Disposal Point	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN776	Hall Lane Jn – Foxlow Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN778	Seymour Jn to Bolsover	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN782	Woodend Jn – Shireoaks West Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN784	High Marnham – Thoresby Colliery Jn	-	-	-	-	-	-	-	-	Line Out of Use (Temporary)
-London-North-Eastern	1254	LN784	Thoresby Colliery Jn – Shirebrook East Jn	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN786	Bevercotes Colliery Branch	-	-	-	-		-		-	Line not normally in use
-London-North-Eastern	1254	LN788	Thoresby Colliery Branch	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN802	Welbeck Colliery Branch	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1254	LN804	Tapton Jn – Dore South Jn	Y *	Y Up Line S1 Down Line	Y Up Line S1 Down Line	N	N	N	N	N	S1 The following combinations are permitted: 2590 h x 2438 w box 2590 h x 2500 w box on FEA FSA/FTA KFA wagons Down Line 2615 h x 2500 w (S16) FT 2615 h x 2550 w (S16) FT on KFA wagons Down Line 2625 h x 2500 w (S17) FT 2625 h x 2550 w (S17) FT on FEA FSA/FTA wagons Down Line 2896 h x 2438 w box 2896 h x 2500 w box on FLA wagons Down Line STNC NC/G1/2009/ICP-G/LNE009 applies, valid to 31/12/12
+London-North-Eastern	1254	LN115	Copenhagen Jn – Camden Road Central Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN120	Wood Green North Jn – Langley Jn via Hertford	Y *	Y	Y	Y	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 R2 R3	R1 PROHIBITED from Bounds Green Depot R2 PROHIBITED from Gordon Hill Up bay platform 1 R3 PROHIBITED from Hertford North Station Down bay platform 3
+London-North-Eastern	1254	LN120	Langley Jn via Hertford – Stevenage platform 5 (End of line)	N	N	N	N	N	N	N	N	
+London-North-Eastern	1254	LN125	Hitchin, Cambridge Jn – Cambridge	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1254	LN126	Hitchin North Jn – Hitchin East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN135	Kings Dyke – Crescent Jn	Y	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1254	LN145	Marholm Jn – Glinton Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN147	Helpston Jn – Uffington	Y	Y	Y	N	N	Y	N	N	
+London-North-Eastern	1254	LN150	Flyover East Jn – Decoy North Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN155	Flyover East Jn – Loversall Jn (Up Loversall Curve)	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN160	Loversall Carr Jn – Flyover West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN165	Harringay Park Jn – Harringay Jn	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1254	LN170	Werrington Jn – Spalding South Jn., Former site of	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN170	Spalding South Jn., Former site of – Sleaford South Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN170	Sleaford South Jn – Greetwell Jn., Former site of	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN170	Greetwell Jn., Former site of – Gainsborough Trent West Jn	Y *	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED Lincoln Central Up bay platform 1 and 2 R2 PROHIBITED Lincoln Central platform 3 (Up Passenger Loop 1) R3 PROHIBITED Lincoln Central platform 4 (Down Passenger Loop 1) R4 PROHIBITED Lincoln Central platform 5 (Down Passenger Loop 2)
+London-North-Eastern	1254	LN170	Gainsborough Trent West Jn – Bessacarr Jn	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN170	Bessacarr Jn – Doncaster, Flyover East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN175	Sleaford South Jn – Sleaford East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1254	LN180	Sleaford West Jn – Sleaford North Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1254	LN185	Allington West Jn – Barkston East Jn., Former site of	Y	Y	Y	N	N	N	N	N	

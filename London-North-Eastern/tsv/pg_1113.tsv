@@ -1,20 +1,22 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	365	377	378	387	Notes
-London-North-Eastern	1113	LN806	CHR	Route Boundary (LN3201) (Tapton Jn) – Masborough Jn	146	64	162	24	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN807	MAS	Dore South Jn – Dore West Jn	153	73	154	16	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN808	DWS	Dore Station Jn – Dore West Jn	0	60	0	00	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN808	MAS	Dore West Jn – Route Boundary (NW9001) (Chinley North Jn)	154	16	154	20	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN809	BTJ	Shepcote Lane West Jn – Tinsley Yard East End	161	24	160	52	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN810	SEL	Shepcote Lane West Jn – Tinsley South Jn	161	24	161	63	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN812	BLJ	Shepcote Lane East Jn – Broughton Lane Jn	161	20	161	67	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN818	HCD	Holmes Jn – Rotherham Central Jn	0	00	0	62	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN824	SKM	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN826	PED5	South Yorkshire Jn – Mexborough Jn	22	57	15	64	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN826	SJM2	Mexborough Jn – Site of former Mexborough North Jn	15	64	14	78	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN826	SJM1	Site of former Mexborough North Jn – Swinton Jn South	167	15	166	56	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN828	WME	Mexborough Jn – Aldwarke Jn	10	17	7	26	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN830	WME	Aldwarke Jn – Woodburn Jn	7	25	0	00	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN832	SJB	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	H	N	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN836	DOL1	Doncaster Marshgate Jn – Hare Park Jn	156	28	171	70	H	R1	N	N	N	E R2 R3 R4	N	N	N	R1 Prohibited from using the unwired main to main crossover at Wintersett R2 5mph Down Leeds Bridge 1 River Don 156m 43ch (between Marshgate Jn and the avoiding line overbridge) R3 Prohibited Up Leeds Bridge 1 River Don 156m 43ch (between Marshgate Jn and the avoiding line overbridge) R4 Prohibited between the avoiding overbridge and Hare Park Jn
-London-North-Eastern	1113	LN836	DOL1	Hare Park Jn – Site of former West Riding Jn	171	70	175	32	H	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1113	LN836	DOL2	Site of former West Riding Jn – Copley Hill West Jn	175	32	184	65	H	Y	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	360	365	377	378	387	Notes
+London-North-Eastern	1113	LN600	ECM5	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN618	HOS	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN620	KEB	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN624	REB4	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN626	LEN2	Northallerton High Jn – Northallerton East Jn	0	00	0	36	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LLP1	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LLP3	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LLP2	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LEN3	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	H R1	N	N	N	N	N	N	N	N	N	R1 OPPOS applies between Monkwearmouth Jn and East Boldon
+London-North-Eastern	1113	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1113	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	H	N	N	N	N	N	N	N	N	N	

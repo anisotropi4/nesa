@@ -1,27 +1,20 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	121	142	143	144	150	153	155	156	158	159	Notes
-London-North-Eastern	1082	LN3273	TCC	Codnor Park Jn – Ironville Jn	132	76	133	18	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3273	PBS1	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3273	PBS2	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3273	PBS3	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3501	DBP1	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	Y	Y	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3505	NSS	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3515	MJS1	Melbourne Jn – Sinfin	131	15	130	37	Y	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1082	LN3520	SSJ1	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3525	KSL	Knighton Jn – Leicester Jn	97	45	127	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3535	BCJ	Birmingham Curve Jn – Branston Jn	126	40	127	19	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3601	GSM1	Kettering North Jn – Manton Jn	74	00	90	25	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3605	BSC	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1082	LN3610	BSC	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1082	LN3615	PMJ	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3615	PMJ	Uffington SB – Manton Jn	12	75	0	00	N	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3615	GSM2	Manton Jn – Melton Jn	90	25	105	70	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3615	GSM3	Melton Jn – Syston South Jn	113	36	103	77	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3620	GSM4	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1082	LN3625	TSN1	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3625	NOB1	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3635	NOG1	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	Y	N	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1082	LN3635	NOG2	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
+London-North-Eastern	1082	LN898	HUL2	Selby South Jn – Site of former Barlby Jn	31	12	30	40	Y	N	Y	Y	Y	N	N	Y	
+London-North-Eastern	1082	LN898	HUL1	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	Y	N	Y	Y	Y	N	N	Y	
+London-North-Eastern	1082	LN898	HUL1	Anlaby Road Jn – Hull	0	73	0	00	R1 R2 R4	N	R1 R3 R4	R1 R4	Y	N	N	R1	R1 Prohibited Hull platform 1 R2 Prohibited Hull platform 3 with deflated suspension R3 Prohibited Hull platform 3 R4 Prohibited Hull siding A
+London-North-Eastern	1082	LN900	HUE	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	
+London-North-Eastern	1082	LN902	CFM	Micklefield Jn – Church Fenton North Jn	15	62	10	31	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1082	LN904	HSC	Hambleton South Jn – Hambleton West Jn	174	10	175	33	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1082	LN906	HNC	Hambleton East Jn – Hambleton North Jn	3	34	4	00	Y	N	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1082	LN908	SEC	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	Y	Y	N	
+London-North-Eastern	1082	LN910	TCW1	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	Y	N	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1082	LN910	TCW1	Selby Canal Jn – Selby South Jn	173	59	174	11	Y	N	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1082	LN912	TJG1	Thorne Jn – Thorne North Change of ELR	7	69	9	09	Y	N	Y	Y	Y	N	N	Y	
+London-North-Eastern	1082	LN912	TJG2	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	Y	N	Y	Y	Y	N	N	Y	
+London-North-Eastern	1082	LN914	HBS	West Parade Jn – West Parade North Jn	0	25	0	72	Y	N	Y	Y	Y	N	N	Y	
+London-North-Eastern	1082	LN914	HBS	West Parade North Jn – Walton Street Jn	0	72	1	29	Y	N	Y	Y	Y	N	N	Y	
+London-North-Eastern	1082	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	R2	N	R1	Y	Y	N	N	N	R1 Prohibited Beverley to Seamer West Jn R2 Prohibited Bridlington platform 4 with deflated suspension
+London-North-Eastern	1082	LN916	HJS	Hessle Road – Springbank North Jn	0	00	1	38	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1082	LN916	HJS	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N	
+London-North-Eastern	1082	LN918	SPW	Springbank North Jn – Walton Street Jn	1	54	1	29	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1082	LN920	AWP	Anlaby Road Jn – West Parade North Jn	0	00	0	24	Y	N	E	Y	Y	N	N	Y	

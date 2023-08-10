@@ -1,21 +1,4 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Eastern	1252	LN682	Norwood Jn – Carlisle South Jn	S1 *	S2	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile are permitted, EXCEPT IFA-S IFA-U wagons S2 The following combinations are permitted: 2438 h x 2438 w box on FEA wagons All lines 2667 h x 2500 w box on FKA wagons All Lines 2665 h x 2550 w (S21) on FKA wagons Up Line 2675 h x 2550 w box on KFA wagons Up Line
-London-North-Eastern	1252	LN682	Carlisle South Jn – Carlisle North Jn	Y	Y	Y	Y	N	Y	N	N	
-London-North-Eastern	1252	LN684	Low Fell Jn – Norwood Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN694	Benton North Jn – Morpeth North Jn via Bedlington	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN696	Hepscott Jn – Morpeth Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN700	Butterwell North Branch	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1252	LN702	Bedlington North – Lynemouth Alcan	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN704	Bates Branch	-	-	-	-	-	-	-	-	Line 'Out of Use'
-London-North-Eastern	1252	LN706	West Sleekburn Jn – North Blyth	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1252	LN708	Winning Jn – Marchey's House Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Cleethorpes – Grimsby Docks	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Grimsby Docks – Marsh Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Marsh Jn – Wrawby Jn	Y	Y	Y	N	N	R1	N	R1	R1 W10 & W12 Clearance between Brocklesby East & West Jn – Wrawby Jn Only
-London-North-Eastern	1252	LN736	Wrawby Jn – West Burton East Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN736	West Burton East Jn – Thrumpton West Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Thrumpton West Jn – Manton Colliery Jn	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1252	LN736	Manton Colliery Jn – Branclliffe East Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Brancliffe East Jn – Woodburn Jn	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Nunnery Curve	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1252	LN736	Nunnery Main Line Jn – Nunnery Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1252	LN101	Holloway South / North Jns – Wood Green North Jn	Y *	Y	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9 R13 R14 R15 R16	R1 PROHIBITED on the Up Fast between Holloway South Jn and Wood Green South Jn R2 PROHIBITED on the Down Fast between Holloway South Jn and Wood Green South Jn R3 PROHIBITED across Ferme Park Flyover R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED from Bounds Green Depot R7 PROHIBITED from the Down Washer Carriage between Ferme Park and Wood Green South Jn R8 PROHIBITED between Holloway Jn North and Finsbury Park (North) Jn on the Down Slow R9 PROHIBITED between Holloway Jn South and Wood Green South Jn on the Up Fast R13 - PROHIBITED on Peterborough Eastfield South Down Arrival R14 - PROHIBITED on Peterborough Eastfield North Down Departure R15 - PROHIBITED Werrington Jn to Black Carr Jn R16 - PROHIBITED from Balby Tunnel on the Up Fast line and the Down Fast line
+London-North-Eastern	1252	LN101	Wood Green North Jn – Langley Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1252	LN101	Langley Jn – Peterborough	Y	Y	Y	Y	R1	R1	Y	Y	R1 PROHIBITED from Huntingdon Up bay platform 1

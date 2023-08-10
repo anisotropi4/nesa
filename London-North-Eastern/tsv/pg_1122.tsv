@@ -1,21 +1,24 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
-London-North-Eastern	1122	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	N	N	N	N	N	N	N	
-London-North-Eastern	1122	LN235	FWR1	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	
-London-North-Eastern	1122	LN235	FWR2	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	
-London-North-Eastern	1122	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM4	Colton Jn – Colton North Jn	182	79	183	65	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM4	Colton North Jn – York Station	183	65	188	40	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	N	EH	N	E R1 R2	N	N	N	R1 When travelling from the Down Slow line to the Down Fast line, or from the Up Slow line to the Up Fast line at Skelton Bridge Jn, must not exceed 100mph until the first clear signal is in view R2 Prohibited Darlington platform 3
-London-North-Eastern	1122	LN600	ECM5	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	N	EH	N	E R1	N	N	N	R1 Prohibited Newcastle platforms 4, 9, 10, 11 & 12
-London-North-Eastern	1122	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	N	EH	N	E R1	N	N	N	R2 Prohibited Newcastle platform 4
-London-North-Eastern	1122	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	N	EH	N	E	N	N	N	
-London-North-Eastern	1122	LN618	HOS	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	N	Y	N	N	N	N	N	
-London-North-Eastern	1122	LN620	KEB	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	N	N	N	N	N	N	N	
-London-North-Eastern	1122	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	N	N	N	N	
-London-North-Eastern	1122	LN624	REB4	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	
-London-North-Eastern	1122	LN626	LEN2	Northallerton High Jn – Northallerton East Jn	0	00	0	36	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	360	365	377	378	387	Notes
+London-North-Eastern	1122	LN860	MVN2	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN861	BBW	Bradley Jn – Bradley Wood Jn	0	00	1	17	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN862	PED2	Barnsley Station Jn – Site of former Barnsley Jn	6	43	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN862	PED1	Site of former Barnsley Jn – Site of Former Huddersfield Jn	29	13	28	37	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN862	PEH	Site of former Huddersfield Jn – Lockwood	13	42	1	18	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN864	DRS1	Dewsbury Railway Street – Change of Mileage	0	10	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN864	DRS1	Change of Mileage – Dewsbury East Jn	0	27	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN868	SHB	Wincobank Jn – Site of former Quarry Jn	161	52	173	48	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN868	PED2	Site of former Quarry Jn – Barnsley Station Jn	7	50	6	43	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN868	BAH2	Barnsley Station Jn – Site of former Crigglestone Jn	52	58	45	56	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN868	CHS	Site of former Crigglestone Jn – Horbury Jn	1	53	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN870	CTL	Wakefield Turners Lane – Calder Bridge Jn	0	50	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN872	TJC3	Altofts Jn – Hunslet South Jn	185	73	193	40	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN872	TJC3	Hunslet South Jn – Engine Shed Jn	193	40	195	20	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN872	ELN	Engine Shed Jn – Leeds West Jn	195	20	195	53	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN874	MEW2	Methley Jn – Whitwood Jn	1	12	0	01	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN875	CPM2	Castleford West Jn – Cutsyke Jn	0	00	0	61	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN875	CPM1	Cutsyke Jn – Pontefract West Jn	59	02	56	42	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN876	BOO	Castleford East Jn – Ledston	6	17	4	43	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1122	LN878	SHG	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	H	N	N	N	N	N	N	N	N	N	

@@ -1,18 +1,22 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1074	LN854	MVN2	Route Boundary (NW7001) (Hall Royd Jn) – Turners Lane Jn	22	62	48	33	Y	N	R1	Y	Y	Y	Y	R2	R1 5mph Wakefield Kirkgate platform 3 R2 Prohibited between Route Boundary (NW7001) (Hall Royd Jn) and Horbury
-London-North-Eastern	1074	LN854	MVN2	Turners Lane Jn – Site of former Goose Hill Jn	48	33	50	31	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1074	LN854	TJC3	Site of former Goose Hill Jn – Altofts Jn	184	56	186	00	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1074	LN854	NOC	Altofts Jn – Sherburn Jn	23	57	13	20	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1074	LN854	NOC	Sherburn Jn – Colton Jn	13	20	5	41	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1074	LN854	ECM4	Colton Jn – Holgate Jn	182	79	188	07	Y	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1074	LN854	ECM4	Holgate Jn – York	188	07	188	40	R1	N	Y	Y	Y	Y	Y	Y	R1 Prohibited York platform 1 with deflated suspension
-London-North-Eastern	1074	LN854	ECM5	York – Skelton Jn	0	00	1	50	N	N	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1074	LN858	MRB	Milner Royd Jn – Mill Lane Jn	29	20	40	01	N	N	Y	R1	Y	Y	Y	N	R1 5mph MRB/31 Shays overbridge 34m39ch Down line
-London-North-Eastern	1074	LN859	GRD	Greetland Jn – Dryclough Jn	1	11	0	00	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1074	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	Y	N	N	Y	Y	Y	Y	N	
-London-North-Eastern	1074	LN860	MVL3	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	R1	N	R2 R3	R3	Y	Y	Y	N	R1 Prohibited Huddersfield platforms 5 R2 Prohibited between Springwood and Huddersfield R3 Prohibited Huddersfield platform 5
-London-North-Eastern	1074	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1074	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down Line)	29	00	29	74	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1074	LN860	MVN2	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1074	LN860	MVN2	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	Y	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1074	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Eastern	1074	LN702	BWC	Bedlington North – Network Rail Boundary (Lynemouth Colliery)	0	00	4	14	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN704	ISC	Newsham North Jn – Network Rail Boundary (Blyth Bates Terminal)	0	00	0	36	N	N	N	N	N	N	N	N	Line out of use NME/2010/LNE/006 and NME/2010/LNE009
+London-North-Eastern	1074	LN706	WSB	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN708	MWJ	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN736	MAC3	Cleethorpes – Grimsby Docks	112	40	110	11	Y	N	N	Y	Y	N	N	N	
+London-North-Eastern	1074	LN736	MAC3	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	N	N	Y	Y	N	N	N	
+London-North-Eastern	1074	LN736	MAC3	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	N	N	Y	Y	N	N	N	
+London-North-Eastern	1074	LN736	MAC3	Wrawby Jn – West Burton East Jn	94	12	72	18	N	N	N	R1	Y	N	N	N	R1 15mph Gainsborough Central Up platform 1
+London-North-Eastern	1074	LN736	MAC3	West Burton East Jn – Thrumpton West Jn (Up)	72	18	63	28	N	N	N	Y	Y	N	N	N	
+London-North-Eastern	1074	LN736	MAC3	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	N	N	N	Y	Y	N	N	N	
+London-North-Eastern	1074	LN736	MAC3	Manton Wood – Brancliffe East Jn	58	54	53	57	R1	N	N	Y	Y	N	N	N	R1 Prohibited between Shireoaks East Jn and Brancliffe East Jn
+London-North-Eastern	1074	LN736	MAC3	Brancliffe East Jn – Woodburn Jn	53	57	42	29	R1	N	N	Y	Y	R1	R1	R1	R1 Prohibited between Brancliffe East Jn and Woodhouse Jn
+London-North-Eastern	1074	LN736	NUJ2	Woodburn Jn – Site of former Nunnery Jn	42	29	41	68	Y	N	N	R1	Y	Y	Y	Y	R1 5mph Darnall Down platform
+London-North-Eastern	1074	LN736	NUJ1	Site of former Nunnery Jn – Nunnery Main Line Jn	159	33	158	77	Y	N	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1074	LN738	MWN	Great Coates No. 1 – Network Rail Boundary (ABP)	108	34	108	44	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN740	MWN	Marsh West Jn – Network Rail Boundary (ABP)	107	69	108	44	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN740	PYE2	Network Rail Boundary (ABP) – Site of former Queens Road Jn	4	33	0	00	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN740	PYE1	Site of former Queens Road Jn – Immingham East Jn	106	50	106	31	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN740	BRI2	Immingham East Jn – Humber Road Jn	106	31	104	05	N	N	N	N	N	N	N	N	
+London-North-Eastern	1074	LN741	HAU	Habrough – Ulceby South Jn	0	32	1	45	Y	N	N	Y	N	N	N	N	
+London-North-Eastern	1074	LN742	KIL2	Killingholme – Immingham West Change of Mileage	2	70	0	00	N	N	N	N	N	N	N	N	

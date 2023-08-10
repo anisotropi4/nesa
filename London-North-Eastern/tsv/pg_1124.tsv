@@ -1,23 +1,21 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
-London-North-Eastern	1124	LN644	BOH	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN646	STF	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN648	NWE	Norton-on-Tees West – Norton-on- Tees East	0	29	0	00	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN652	POC1	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN652	POC2	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN652	SES	Seal Sands Branch Jn – End of NR maintenance	0	00	2	44	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN656	SOT	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN662	HNB	Ryhope Grange – Hendon	0	00	1	53	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN664	BNW	Boldon East Jn – Boldon North Jn	0	00	0	20	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN666	BGE	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN666	GLT	Boldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN670	JAW1	Pelaw Jn – Network Rail Boundary (Shell Mex Depot Jarrow)	0	09	3	36	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN672	FEP	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN674	HLK	High Level Bridge Jn – Greensfield Jn (West Curve)	0	00	0	21	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN676	PLG1	Park Lane Jn – Site of former High Street Jn	100	65	101	15	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN676	PLG2	Site of former High Street Jn – Greensfield Jn	0	00	0	21	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN676	HLK	Greensfield Jn – King Edward Bridge South Jn	0	16	0	48	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN678	DAE1	Darlington North Jn – Site of former Parkgate Jn	44	36	44	64	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN678	DAE1	Site of former Parkgate Jn – Shildon SB	0	00	8	29	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN678	DAE2	Shildon SB – Bishop Auckland	8	29	11	23	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN682	NEC1	King Edward Bridge South Jn – Norwood Jn	0	48	1	71	N	N	N	N	N	N	N	
-London-North-Eastern	1124	LN682	NEC1	Norwood Jn – Site of former Blaydon East Jn	1	71	5	28	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	360	365	377	378	387	Notes
+London-North-Eastern	1124	LN898	HUL3	Selby West Jn – Selby South Jn	0	36	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN898	HUL2	Selby South Jn – Site of former Barlby Jn	31	12	30	40	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN898	HUL1	Site of former Barlby Jn – Anlaby Road Jn	30	40	0	73	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN898	HUL1	Anlaby Road Jn – Hull	0	73	0	00	H R1	N	N	N	N	N	N	N	N	N	R1 Prohibited Hull platform 1
+London-North-Eastern	1124	LN900	HUE	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN902	CFM	Micklefield Jn – Church Fenton North Jn	15	62	10	31	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN904	HSC	Hambleton South Jn – Hambleton West Jn	174	10	175	33	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN906	HNC	Hambleton East Jn – Hambleton North Jn	3	34	4	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN908	SEC	Selby West Jn – Canal Jn	0	00	0	32	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN910	TCW1	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN910	TCW1	Selby Canal Jn – Selby South Jn	173	59	174	11	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN912	TJG1	Thorne Jn – Thorne North Change of ELR	7	69	9	09	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN912	TJG2	Thorne North Change of ELR – Gilberdyke Jn	14	06	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN914	HBS	West Parade Jn – West Parade North Jn	0	25	0	72	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN914	HBS	West Parade North Jn – Walton Street Jn	0	72	1	29	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	H R1	N	N	N	N	N	N	N	N	N	R1 Prohibited Bridlington platforms 7 and 8
+London-North-Eastern	1124	LN916	HJS	Hessle Road – Springbank North Jn	0	00	1	38	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN916	HJS	Springbank North Jn – Network Rail Boundary	1	38	5	62	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN918	SPW	Springbank North Jn – Walton Street Jn	1	54	1	29	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1124	LN920	AWP	Anlaby Road Jn – West Parade North Jn	0	00	0	24	H	N	N	N	N	N	N	N	N	N	

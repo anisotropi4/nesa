@@ -1,17 +1,19 @@
-Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Eastern	1248	LN185	Barkston East Jn., Former site of – Boston, Sleaford Line Jn., Former site of	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1248	LN185	Boston, Sleaford Line Jn., Former site of – Skegness	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1248	LN190	Allington East Jn – Allington North Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1248	LN195	Grantham, Nottingham Branch Jn – Bottesford West Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1248	LN200	Wrawby Jn – Pelham Street Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1248	LN206	Staythorpe Crossing – Boultham Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1248	LN206	Boultham Jn – West Holmes Jn	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Eastern	1248	LN210	Newark Crossing Curve	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1248	LN215	Boultham Jn – Pyewipe Jn	Y	Y	Y	Y	N	Y	N	Y	
-London-North-Eastern	1248	LN220	Bessacarr Jn – Black Carr Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1248	LN235	Rossington Colliery Branch	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1248	LN600	Shaftholme Jn – Colton Jn	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1248	LN600	Colton Jn – York	Y *	Y	Y	Y	R1	R1	R1	R1	R1 PROHIBITED Holgate Jn to York
-London-North-Eastern	1248	LN600	York – Newcastle via East Coast Main Line	Y *	Y	Y	Y	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 R2 R3 R4 R5 R6 R7 R8 R9	R1 PROHIBITED York to Skelton Jn R2 PROHIBITED Darlington platform 1 (permitted at the north end to access Up/Down Station Loop) R3 PROHIBITED Darlington bay platform 2 R4 PROHIBITED Darlington bay platform 3 R5 PROHIBITED Darlington platform 4 R6 PROHIBITED Darlington Down Bypass R7 PROHIBITED over King Edwards Bridge on the Up Main R8 PROHIBITED over King Edwards Bridge on the Down Main R9 PROHIBITED Newcastle platforms 2, 3, 4, 5/6, 7/8, 9, 10, 11 and 12
-London-North-Eastern	1248	LN600	Newcastle – Reston GSP	Y *	Y	Y	Y	R1 R2	R1 R2	R1 R2	R1 R2	R1 PROHIBITED between Newcastle East Jn and Argyle St Jn on the Up R2 PROHIBITED between Newcastle East Jn and Argyle St Jn on the Down
-London-North-Eastern	1248	LN600	Birtley Junction – Low Fell Junction via Tyne Yard	Y	Y	Y	Y	Y	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Eastern	1248	LN3204	TSN2	Mansfield Jn – Nottingham East Jn	124	22	123	27	8	N	N	Y	N	H R1	N	R1 75mph maximum speed
+London-North-Eastern	1248	LN3207	TCC	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	8	H R1	H R1	Y	H R1	H R2 R3	N	R1 Permitted between Trent East Jn to Stapleford and Sandiacre via Up Main/Erewash and Down Erewash/Down Goods R2 Permitted between Toton Jn and Toton TMD only R3 75mph maximum speed
+London-North-Eastern	1248	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	8	N	N	Y	N	N	N	
+London-North-Eastern	1248	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1248	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	8	N	N	Y	N	N	EH	
+London-North-Eastern	1248	LN3214	CBI	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	3	N	N	N	N	N	N	
+London-North-Eastern	1248	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	5	N	N	N	N	N	N	
+London-North-Eastern	1248	LN3219	CAW	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	8	H	H	Y	H	H	N	
+London-North-Eastern	1248	LN3222	BDH	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	8	N	N	Y	N	N	EH	
+London-North-Eastern	1248	LN3228	TCC	Trent East Jn – Trent East ELR Change	119	70	119	56	8	H	H	Y	H	H	N	
+London-North-Eastern	1248	LN3228	TES	Trent East ELR Change – Sheet Stores Jn	0	00	0	30	8	H	H	Y	H	H	N	
+London-North-Eastern	1248	LN3231	WGP	Wigston South Jn – Glen Parva Jn	95	37	96	07	8	H	H	Y	H	H	N	
+London-North-Eastern	1248	LN3232	WNS	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	8	H	H	Y	H	N	N	
+London-North-Eastern	1248	LN3234	SEN	Syston East Jn – Syston North Jn	0	17	0	00	8	N	N	Y	N	N	EH	
+London-North-Eastern	1248	LN3237	RUD	Loughborough South Jn – Network Rail/GCR (N) Boundary	92	45	92	49	8	N	N	Y	N	N	N	
+London-North-Eastern	1248	LN3240	LED	Little Eaton Jn – Denby	131	06	135	46	8	N	N	Y	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1248	LN3246	AJM1	Ambergate Jn – Matlock	137	61	145	00	8	N	N	Y	N	N	N	
+London-North-Eastern	1248	LN3249	LSN	Lenton South Jn – Lenton North Jn	0	00	0	27	8	N	N	Y	N	N	N	

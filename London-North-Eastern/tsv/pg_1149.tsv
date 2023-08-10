@@ -1,21 +1,12 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1149	LN818	HCD	Holmes Jn – Rotherham Central Jn	0	00	0	62	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1149	LN824	SKM	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1149	LN826	PED5	South Yorkshire Jn – Mexborough Jn	22	57	15	64	Y	Y	Y	EH R1	N	Y	N	N	Y	R1 Prohibited with footsteps fitted
-London-North-Eastern	1149	LN826	SJM2	Mexborough Jn – Site of former Mexborough North Jn	15	64	14	78	Y	Y	Y	EH R1	N	Y	N	N	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1149	LN826	SJM1	Site of former Mexborough North Jn – Swinton Jn South	167	15	166	56	Y	Y	Y	EH R1	N	Y	N	N	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1149	LN828	WME	Mexborough Jn – Aldwarke Jn	10	17	7	26	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1149	LN830	WME	Aldwarke Jn – Woodburn Jn	7	25	0	00	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1149	LN832	SJB	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1149	LN836	DOL1	Doncaster Marshgate Jn – Hare Park Jn	156	28	171	70	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1149	LN836	DOL1	Hare Park Jn – Site of former West Riding Jn	171	70	175	32	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1149	LN836	DOL2	Site of former West Riding Jn – Copley Hill West Jn	175	32	184	65	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1149	LN836	DOL2	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1149	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1149	LN836	DOL2	Whitehall East Jn – Leeds	185	28	185	70	Y	Y	Y	N	N	N	Y	Y	R1 R2	R1 Prohibited Leeds platform 2 with deflated suspension R2 Prohibited Leeds platform 6
-London-North-Eastern	1149	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1149	LN838	LEH1	Armley Jn – Site of former Pannal Jn	0	12	14	60	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1149	LN838	LEH2	Site of former Pannal Jn – Site of former Crimple Jn	14	60	15	20	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1149	LN838	LEH3	Site of former Crimple Jn – Harrogate	15	20	17	24	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1149	LN838	HAY2	Harrogate – Site of former Starbeck North Jn	20	38	18	60	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1149	LN838	HAY1	Site of former Starbeck North Jn – Skelton Jn	18	60	1	50	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1149	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	R1	N	N	N	R1	Y	R2 R3 R4	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 9, 10 and 12 R3 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R4 Prohibited Newcastle platforms 4 and 11 with deflated suspension
+London-North-Eastern	1149	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	R1	N	N	N	R1	Y	R2 R3	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R3 Prohibited Newcastle platform 4 with deflated suspension
+London-North-Eastern	1149	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1149	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1149	LN618	HOS	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1149	LN620	KEB	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1149	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	N	N	N	N	N	E R1	R1 Prohibited between Newcastle Forth Jn and Newcastle West Jn
+London-North-Eastern	1149	LN624	REB4	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1149	LN626	LEN2	Northallerton High Jn – Northallerton East Jn	0	00	0	36	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1149	LN627	LLP1	Longlands Jn (Down line) – Boroughbridge Road LC	28	58	29	72	Y	Y	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1149	LN627	LLP3	Longlands Jn (Up line) – Boroughbridge Road LC	0	69	0	00	Y	Y	Y	N	N	N	Y	Y	Y	

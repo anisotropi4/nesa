@@ -1,25 +1,8 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Eastern	1253	LN736	West Burton East Jn to West Burton West Jn East End Reception & Departure Lines	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1253	LN736	West Burton East Jn – West Burton West Jn West End Reception & Departure Lines	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1253	LN738	Great Coates No. 1 – Union Dock	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1253	LN740	Grimsby, Marsh West Jn – Humber Road Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1253	LN740	Immingham East Jn – Immingham NR/ABP Boundary [ 106m 50ch ]	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1253	LN741	Habrough Jn – Ulceby South Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1253	LN742	Killingholme – Brocklesby East & West Jns	Y	Y	Y	N	N	Y	N	Y	
-London-North-Eastern	1253	LN744	Ulceby North Jn – Barton On Humber	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN746	Cottam Power Station Branch	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN748	Retford Western Jn – Thrumpton West Jn	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1253	LN750	Woodburn Jn – Deepcar	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN752	Wrawby Jn – Marshgate Jn	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1253	LN754	Scunthorpe Foreign Ore Branch	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN756	Scunthorpe Trent Jn – Roxby	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1253	LN758	Brancliffe East Jn – St Catherine's Jn [ 14m 62ch ]	Y	Y	Y	R1	R1	R1	R1	R1	R1 PROHIBITED Brancliffe East Jn and Dinnington Jn
-London-North-Eastern	1253	LN758	St Catherine's Jn [ 14m 62ch ] – Low Ellers Curve Jn [ 15m 55ch ]	Y	Y	Y	Y	N	Y	Y	N	
-London-North-Eastern	1253	LN758	Low Ellers Curve Jn [15m 55ch] – Kirk Sandall Jn	Y	N	N	N	N	Y	Y	N	
-London-North-Eastern	1253	LN758	Maltby Colliery Branch	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN760	Firbeck Jn –– Harworth Colliery	Y	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN762	St. Catherines Jn – Decoy South Jn (St. Catherine's Curve)	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1253	LN764	Low Ellers Curve	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1253	LN766	Bentley Jn – Hexthorpe Jn (Doncaster Avoiding Line)	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1253	LN768	Mansfield Woodhouse – Shireoaks East Jn	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1253	LN772	Warsop Jn – Shirebrook Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN101	Peterborough – Doncaster, Marshgate Jn	R1	Y	Y	Y	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	R1 PNA wagons restricted to 40mph through Newark North Gate when operating in tare condition R2 PROHIBITED Werrington Jn to South Yorkshire Jn R3 PROHIBITED on the Up Platform Loop through Doncaster platform 1 R4 PROHIBITED from Doncaster Up bay platform 2 R5 PROHIBITED from Doncaster Down bay platform 5, 6 and 7 R6 PROHIBITED on the Down Platform Loop through Doncaster platform 8 R7 PROHIBITED from Doncaster West Yard R8 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Goods R9 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Down Leeds Slow R10 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Up Slow R11 PROHIBITED between Doncaster North Jn and Marshgate Jn on the Thorne Slow R12 PROHIBITED Werrington Jn to Shaftholme Jn R13 PROHIBITED on Peterborough Eastfield South Down Arrival R14 PROHIBITED on Peterborough Eastfield North Down Departure
+London-North-Eastern	1253	LN101	Doncaster, Marshgate Jn – Shaftholme Jn	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1253	LN101	Helpston Junction – Peterborough (Stamford Lines)	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1253	LN101	Decoy North Junction – Bridge Junction (Down Side Sidings)	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1253	LN101	Potteric Carr Junction – Bridge Junction (Up Side Sidings)	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1253	LN105	Moorgate – Finsbury Park Jn	N	N	N	N	N	N	N	N	
+London-North-Eastern	1253	LN110	Canonbury West Jn – Finsbury Park Jn	Y	Y	Y	Y	Y	Y	Y	Y	

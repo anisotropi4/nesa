@@ -1,17 +1,17 @@
 Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
-London-North-Eastern	1256	LN826	Doncaster South Yorkshire Jn – Swinton Jn North / South	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1256	LN828	Mexborough Jn – Aldwarke Jn via Kilnhurst	Y *	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1256	LN830	Aldwarke Jn – Woodburn Jn	Y	Y	Y	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 R2 R3 R4	R1 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Up Tinsley R2 PROHIBITED between Tinsley East Jn and Rotherham Central Jn on the Down Tinsley R3 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Up Tinsley R4 PROHIBITED between Rotherham Central station and Aldwarke New Site on the Down Tinsley
-London-North-Eastern	1256	LN832	Doncaster Bridge Jn – St James Jn	Y	Y	Y	Y	Y	Y	Y	Y	
-London-North-Eastern	1256	LN836	Doncaster, Marshgate Jn – Hare Park Jn	Y *	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1256	LN836	Hare Park Jn – Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N	
-London-North-Eastern	1256	LN838	Leeds Armley Jn – York Skelton Jn via Harrogate	S1 *	N	N	N	N	N	N	N	S1 Freight vehicles conforming to the W6a profile and above 3650mm in height 10mph speed restriction through Wescoe Hill Tunnel on the Down: and 10mph speed restriction through Br39 on the Down. The Rail Head Treatment Train FEA wagon is permitted without restriction.
-London-North-Eastern	1256	LN840	Leeds Engine Shed Jn – Whitehall East Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1256	LN842	Stainforth Jn – Applehurst Jn	Y *	Y	Y	N	N	Y	Y	N	
-London-North-Eastern	1256	LN842	Applehurst Jn – Adwick Jn	Y *	Y	N	N	N	N	N	N	
-London-North-Eastern	1256	LN842	Skellow Jn – Adwick Jn	Y *	N	N	N	N	N	N	N	
-London-North-Eastern	1256	LN844	Applehurst Loop	Y	Y	Y	N	N	Y	Y	N	
-London-North-Eastern	1256	LN846	Carcroft Jn – Skellow Jn	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1256	LN848	Hare Park Jn – Crofton West Jn	Y	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1256	LN850	Wakefield Westgate South Jn – Wakefield Kirkgate West Jn	Y	Y	Y	N	N	N	N	N	
-London-North-Eastern	1256	LN852	Holbeck Jn – Bradford Interchange	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1256	LN618	Holgate Jn – Skelton Jn (avoiding York station)	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1256	LN620	King Edward Bridge East Jn – King Edward Bridge North Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1256	LN622	Forth Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1256	LN624	Northallerton, Castle Hills Jn – Castle Hills West GF	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1256	LN626	Northallerton High Jn – Northallerton East Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1256	LN627	Northallerton, Longlands Jn – Billingham Jn	Y *	Y	Y	R1	R1	R1	R1	R1	R1 Between Eaglescliffe South Jn and Stockton Cut only
+London-North-Eastern	1256	LN627	Billingham Jn – Ryhope Grange	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1256	LN627	Ryhope Grange – Boldon East Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1256	LN627	Boldon East Jn – Boldon West Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1256	LN627	Boldon West Jn – Park Lane Jn	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1256	LN627	Park Lane Jn – Newcastle East Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1256	LN627	Dawdon Junction – Seaham Harbour (NR Limit) [1m 36ch]	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1256	LN628	South Hylton – Sunderland South Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
+London-North-Eastern	1256	LN629	Pelaw Metro Jn – Pelaw South Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
+London-North-Eastern	1256	LN630	Pelaw North Jn – Pelaw Metro Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
+London-North-Eastern	1256	LN631	Darlington South Jn – Eaglescliffe South Jn	Y *	Y	Y	Y	Y	Y	Y	Y	

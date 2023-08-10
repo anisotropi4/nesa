@@ -1,22 +1,26 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
-London-North-Eastern	1266	LN101	ECM1	Marshgate Jn – Shaftholme Jn	156	26	160	16	9	Y	
-London-North-Eastern	1266	LN105	MEB1	Moorgate – Drayton Park	0	00	2	56	9	N	
-London-North-Eastern	1266	LN105	MEB1	Drayton Park – Finsbury Park Jn	2	56	3	37	9	Y	
-London-North-Eastern	1266	LN110	CFP	Route Boundary (EA1320) (Canonbury West Jn) – Finsbury Park Jn	3	20	4	33	9	Y	
-London-North-Eastern	1266	LN115	CRF1	Copenhagen Jn – Route Boundary (EA1320) (North London Incline)	0	00	0	20	10	Y	
-London-North-Eastern	1266	LN120	HDB	Wood Green Jn – Langley Jn via Hertford	5	07	28	15	9	R1	R1 Prohibited Hertford North bay platform 3
-London-North-Eastern	1266	LN120	HDB	Langley Jn via Hertford – Stevenage platform 5 (End of line)	28	15	29	00	9	N	
-London-North-Eastern	1266	LN125	SBR	Cambridge Jn – Route Boundary (EA1230) (Meldreth)	32	11	45	60	9	Y	
-London-North-Eastern	1266	LN126	DCF	Hitchin North Jn – Hitchin East Jn	32	53	34	03	9	Y	
-London-North-Eastern	1266	LN135	EMP	Route Boundary (EA1560) (Ely West Jn) – Crescent Jn	98	40	100	66	9	Y	
-London-North-Eastern	1266	LN145	WDU	Marholm Jn – Glinton Jn	0	00	1	64	10	Y	
-London-North-Eastern	1266	LN147	PMJ	Helpston Jn – Route Boundary (LN3615) (Uffington SB)	16	71	13	60	9	Y	
-London-North-Eastern	1266	LN150	SPD5	Flyover East – Decoy North Jn	116	20	117	46	8	Y	
-London-North-Eastern	1266	LN155	LCJ	Flyover East Jn – Loversall Jn (Up Loversall Curve)	152	79	152	36	8	Y	
-London-North-Eastern	1266	LN160	LCR	Loversall Carr Jn – Rossington Colliery Jn	152	00	152	12	8	Y	
-London-North-Eastern	1266	LN160	FWR1	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	8	Y	
-London-North-Eastern	1266	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	9	Y	
-London-North-Eastern	1266	LN170	WEB	Werrington Jn – Site of Former Spalding South Jn	79	34	92	58	8	Y	
-London-North-Eastern	1266	LN170	SPD1	Site of Former Spalding South Jn – Sleaford South Jn	44	07	62	14	8	Y	
-London-North-Eastern	1266	LN170	SPD2	Sleaford South Jn – Sleaford North Jn	62	14	63	48	8	Y	
-London-North-Eastern	1266	LN170	SPD2	Sleaford North Jn – Site of Former Greetwell West Jn	63	48	81	25	8	Y	
+Route	page	Line of Route	Line of Route / Sector Description	W6	W7	W8	W9	W9Plus	W10	W10A	W12	Notes
+London-North-Eastern	1266	LN875	Castleford West Jn – Pontefract West Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN876	Castleford East Jn – Ledston	-	-	-	-	-	-	-	-	Line 'Out of Use'
+London-North-Eastern	1266	LN878	Sherburn Jn – Gascoigne Wood	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1266	LN880	York – Scarborough	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1266	LN882	Wakefield Kirkgate West Jn – Calder Bridge Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN882	Calder Bridge Jn – Crofton West Jn	Y *	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1266	LN882	Crofton West Jn – Goole Potters Grange Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN882	Mineral Jn – Goole Docks	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN882	Whitley Bridge Junction – NR/Power Station Boundary [0m 03ch]	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN884	Oakenshaw South Jn – Oakenshaw Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1266	LN886	Monk Bretton Loop – Crofton East Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1266	LN888	Shaftholme Jn – Knottingley West Jn	Y	Y	R1	R1	R1	R1	R1	R1	R1 PROHIBITED Haywood Jn to Knottingly West Jn
+London-North-Eastern	1266	LN888	Knottingley West Jn – Ferrybridge North Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN889	Saftholme Jn – Haywood Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1266	LN892	Pontefract East Jn – Ferrybridge South Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN894	Knottingley South Jn – Knottingley East Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN896	Drax Power Station Branch	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN898	Neville Hill East Jn – Gascoigne Wood Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN898	Gascoigne Wood Jn – Selby West Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1266	LN898	Selby West Jn – Millfield Farm UWC	Y *	R1	R1	R1	R1	R1	R1	R1	R1 Prohibited from Selby Up bay platform 3
+London-North-Eastern	1266	LN898	Millfield Farm UWC – Hull, Anlaby Road Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN898	Hull, Anlaby Road Jn – Hull	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1266	LN898	Hessle East Jn – Dairycoates NR limit [0m 70ch]	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1266	LN900	Neville Hill West Jn – Hunslet East	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1266	LN902	Micklefield Jn – Church Fenton North Jn	Y *	Y	Y	N	N	N	N	N	

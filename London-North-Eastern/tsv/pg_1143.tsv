@@ -1,19 +1,18 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1143	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	Y	Y	Y	N	N	N	Y	Y	R1	R1 Prohibited between Norton-on-Tees South Jn and Billingham Jn
-London-North-Eastern	1143	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	Y	Y	Y	N	N	N	R1	Y	N	R1 Prohibited Hartlepool Bay and Up (disused) platforms
-London-North-Eastern	1143	LN627	LEN3	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	Y	Y	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1143	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
-London-North-Eastern	1143	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
-London-North-Eastern	1143	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	R1	R1	Y	N	N	N	Y	Y	N	R1 30mph maximum speed
-London-North-Eastern	1143	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	Y	Y	Y	N	N	N	R1	Y	N	R1 20mph Heworth down platform
-London-North-Eastern	1143	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	Y	Y	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1143	LN627	LEN3	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1143	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	R1	R1	N	N	N	N	N	N	N	R1 Permitted for the purposes of track recording and maintenance only
-London-North-Eastern	1143	LN629	PDL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1143	LN630	PUL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1143	LN631	DSN1	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	Y	Y	Y	N	N	N	Y	N	Y	
-London-North-Eastern	1143	LN632	DSN2	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	Y	Y	Y	N	N	N	N	N	Y	
-London-North-Eastern	1143	LN632	DSN3	Redcar Change of Mileage – Saltburn	22	16	27	57	Y	Y	Y	N	N	N	N	N	R1 R2 R3 R4	R1 Prohibited Redcar East Up platform with deflated suspension R2 Prohibited Longbeck Down platform with deflated suspension R3 Prohibited Marske Down platform with deflated suspension R4 Prohibited Saltburn platform 2 with deflated suspension
-London-North-Eastern	1143	LN634	MBW1	Guisborough Jn – Battersby Jn	0	00	10	54	Y	Y	Y	N	N	N	N	N	R1	R1 Prohibited between 00m 50ch and Battersby Jn
-London-North-Eastern	1143	LN634	MBW2	Battersby Jn (End of line) – Grosmont Jn	11	61	29	66	R1	R1	R1	N	N	N	N	N	N	R1 Special authority required to use the Run-Round Loop at Battersby
-London-North-Eastern	1143	LN634	MBW3	Grosmont Jn – Whitby	24	44	30	61	Y	Y	Y	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
+London-North-Eastern	1143	LN3252	MJT1	Mansfield Jn – Radford Jn	124	22	125	55	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3252	MJT2	Radford Jn – Trowell South Jn	125	55	130	51	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3255	RAC	Radford Jn – Newstead	125	55	134	20	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3255	RAC	Newstead – Kirkby Lane End Jn	134	20	136	66	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3261	THL	Trent South Jn – Toton South Jn (High Level Lines)	119	17	121	36	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3264	AML	Attenborough Jn – Meadow Lane Jn (Attenborough Curve)	0	62	0	00	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3273	TCC	Codnor Park Jn – Ironville Jn	132	76	133	18	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3273	PBS1	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3273	PBS2	Kirkby Summit Crossover – Mansfield ELR Change	137	11	140	40	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3273	PBS3	Mansfield Change of ELR – Route Boundary (LN768) (Shireoaks East Jn)	140	40	143	00	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3340	BJW3	Route Boundary (MD340) (Lichfield Trent Valley) – Wichnor Jn	19	00	23	33	N	N	N	N	H	N	EH	N	EH	N	
+London-North-Eastern	1143	LN3501	DBP1	London Road Jn – Route Boundary (MD501) (Kingsbury Jn)	0	00	23	30	N	N	N	N	H	N	EH R1	N	EH R2 R3 R4 R5	N	R1 Prohibited between Wichnor Jn and Route Boundary (MD501) (Kingsbury Jn) R2 15mph Burton on Trent Up Main platform R3 Prohibited Derby platform 4 R4 5mph Derby platform 3 R5 Prohibited Down and Up Goods lines between Clay Mills Jn and Leicester Jn
+London-North-Eastern	1143	LN3505	NSS	North Stafford Jn – Route Boundary (NW5012) (Stoke Jn)	30	10	1	40	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1143	LN3515	MJS1	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1143	LN3520	SSJ1	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1143	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1143	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	N	N	N	N	H	N	N	N	EH R1	N	R1 15mph over bridge 10 Swarkestone Road on the Down Line 128m 14ch

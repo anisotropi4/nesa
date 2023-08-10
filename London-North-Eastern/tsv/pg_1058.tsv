@@ -1,4 +1,26 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1058	LN101	ECM1	Holloway South / North Jns – Wood Green North Jn	1	44	5	07	Y	E R1	R2 R3	N	N	N	N	R4 R5	R1 Prohibited between Hornsey Depot and Wood Green North Jn R2 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R3 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R4 Shall be planned for Fast / Main lines only R5 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
-London-North-Eastern	1058	LN101	ECM1	Wood Green North Jn – Langley Jn	5	07	25	73	Y	N	R1 R2	N	N	N	N	R3 R4	R1 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R2 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R3 Shall be planned for Fast / Main lines only R4 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
-London-North-Eastern	1058	LN101	ECM1	Langley Jn – St Neots	25	73	51	58	Y	N	R1 R2	N	N	N	N	R3 R4	R1 Passenger operation can be planned for Fast / Main lines only. ECS can be planned for Fast / Main and Slow lines. R2 For all planned movements and unplanned diversions when returning to Fast / Main lines a maximum speed of 70mph applies until the unit has passed the next signal. R3 Shall be planned for Fast / Main lines only R4 For unplanned diversions when returning to Fast/Main lines a maximum speed of 70mph applies until the unit has passed the next signal
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	1058	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down Line)	29	00	29	74	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN860	MVN2	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN860	MVN2	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN861	BBW	Bradley Jn – Bradley Wood Jn	0	00	1	17	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN862	PED2	Barnsley Station Jn – Site of Former Barnsley Jn	6	43	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN862	PED1	Site of Former Barnsley Jn – Site of Former Huddersfield Jn	29	13	28	37	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN862	PEH	Site of Former Huddersfield Jn – Lockwood	13	42	1	18	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN864	DRS1	Dewsbury Railway Street – Change of Mileage	0	10	0	00	N	N	N	N	N	N	N	N	Y	
+London-North-Eastern	1058	LN864	DRS1	Change of Mileage – Dewsbury East Jn	0	27	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1058	LN868	SHB	Wincobank Jn – Site of Former Quarry Jn	161	52	173	48	R1	R1	R1	Y	Y	Y	Y	Y	Y	R1 Prohibited when fitted with wheelskates on the Down line through Bridge No.51 (169m 50ch) and on the Up line through Bridge No.57 (170m 40ch)
+London-North-Eastern	1058	LN868	PED2	Site of Former Quarry Jn – Barnsley Station Jn	7	50	6	43	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN868	BAH2	Barnsley Station Jn – Site of Former Crigglestone Jn	52	58	45	56	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN868	CHS	Site of former Crigglestone Jn – Horbury Jn	1	53	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN870	CTL	Wakefield Turners Lane – Calder Bridge Jn	0	50	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN872	TJC3	Altofts Jn – Hunslet South Jn	185	73	193	40	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN872	TJC3	Hunslet South Jn – Engine Shed Jn	193	40	195	20	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN872	ELN	Engine Shed Jn – Leeds West Jn	195	20	195	53	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN874	MEW2	Methley Jn – Whitwood Jn	1	12	0	01	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN875	CPM2	Castleford West Jn – Cutsyke Jn	0	00	0	61	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN875	CPM1	Cutsyke Jn – Pontefract West Jn	59	02	56	42	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1058	LN876	BOO	Castleford East Jn – Ledston	6	17	4	43	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1058	LN878	SHG	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	Y	Y	Y	Y	Y	Y	Y	Y	Y	

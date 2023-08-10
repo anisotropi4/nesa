@@ -1,25 +1,23 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	379	380	387	397	508	599	700	Notes
-London-North-Eastern	1123	LN627	LLP1	Longlands Jn (Down Line) – Boroughbridge Road LC	28	58	29	72	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LLP3	Longlands Jn (Up Line) – Boroughbridge Road LC	0	69	0	00	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LLP2	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LEN3	Ryhope Grange Jn – Sunderland South Jn	87	63	89	56	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	N	N	N	N	N	Y	N	
-London-North-Eastern	1123	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	N	N	N	N	N	Y	N	
-London-North-Eastern	1123	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	N	N	N	N	N	Y	N	
-London-North-Eastern	1123	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN627	LEN3	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	Y	N	
-London-North-Eastern	1123	LN629	PDL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	Y	N	
-London-North-Eastern	1123	LN630	PUL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	Y	N	
-London-North-Eastern	1123	LN631	DSN1	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN632	DSN2	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN632	DSN3	Redcar Change of Mileage – Saltburn	22	16	27	57	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN634	MBW1	Guisborough Jn – Battersby Jn	0	00	10	54	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN634	MBW2	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN634	MBW3	Grosmont Jn – Whitby	24	44	30	61	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN636	No ELR	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN638	WCI	Shell Jn – Network Rail Boundary	0	00	1	03	N	N	N	N	N	N	N	
-London-North-Eastern	1123	LN642	SSK1	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	N	N	N	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	325	333	345	357	357 MOD	360	365	377	378	387	Notes
+London-North-Eastern	1123	LN880	YMS	York (platforms 4 & 5) – Scarborough (platforms 1 to 5)	0	00	42	06	H R1	N	N	N	N	N	N	N	N	N	R1 Prohibited Scarborough platform 5
+London-North-Eastern	1123	LN880	YMS	York (platform 2 and maintenance sidings) – Connection to Up line	0	0	0	15	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN882	WAG1	Wakefield Kirkgate West Jn – Calder Bridge Jn	47	43	48	28	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN882	WAG1	Calder Bridge Jn – Crofton West Jn	48	28	49	40	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN882	WAG1	Crofton West Jn – Knottingley West Jn	49	40	58	20	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN882	WAG1	Knottingley West Jn – Engine Shed Jn	58	20	73	52	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN882	WAG2	Engine Shed Jn – Goole Potters Grange Jn	0	64	0	00	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN884	OAJ	Oakenshaw South Jn – Oakenshaw Jn.	49	41	48	76	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN886	TJC3	Monk Bretton – Oakenshaw South Jn	176	22	181	75	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN886	OSC	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN888	CJS	Stainforth Jn – Thorpe Marsh Jn	166	70	163	76	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN888	HTM	Thorpe Marsh Jn – Haywood Jn	69	56	67	66	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN888	KWS	Haywood Jn – Knottingley West Jn	67	66	58	20	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN888	FKW	Knottingley West Jn – Ferrybridge North Jn	2	71	2	27	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN889	KWS	Shaftholme Jn – Haywood Jn	68	75	67	66	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN892	PEF	Pontefract East Jn – Ferrybridge South Jn	3	06	2	38	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN894	KES	Knottingley South Jn – Knottingley East Jn	0	00	0	20	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN896	DRA1	Drax Branch Jn – Drax Power Station (NR Boundary)	0	00	4	16	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN898	HUL4	Neville Hill East Jn – Micklefield Jn	18	25	10	63	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN898	HUL4	Micklefield Jn – Micklefield Change of ELR	10	63	10	60	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN898	HUL3	Micklefield Change of ELR – Gascoigne Wood Jn	10	60	6	27	H	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1123	LN898	HUL3	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	H	N	N	N	N	N	N	N	N	N	

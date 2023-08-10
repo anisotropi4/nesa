@@ -1,23 +1,21 @@
 Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	170	172	180	185	195	220	221	222	Notes
-London-North-Eastern	1067	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1067	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1067	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	N	N	Y	R1	Y	Y	Y	N	R1 30mph Heworth Up platform
-London-North-Eastern	1067	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1067	LN627	LEN3	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	N	N	Y	Y	N	Y	Y	N	
-London-North-Eastern	1067	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN629	PDL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	98	01	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN630	PUL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN631	DSN1	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	N	N	R1	Y	Y	Y	Y	N	R1 15mph Dinsdale Up platform
-London-North-Eastern	1067	LN632	DSN2	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	N	N	R1	Y	R2	N	N	N	R1 Prohibited between Thornaby and Redcar Change of Mileage R2 Prohibited British Steel Redcar Up platform with deflated secondary suspension
-London-North-Eastern	1067	LN632	DSN3	Redcar Change of Mileage – Saltburn	22	16	27	57	N	N	N	Y	Y	N	N	N	
-London-North-Eastern	1067	LN634	MBW1	Guisborough Jn – Battersby Jn	0	00	10	54	N	N	N	R1	N	N	N	N	R1 Prohibited between Nunthorpe and Battersby Jn
-London-North-Eastern	1067	LN634	MBW2	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN634	MBW3	Grosmont Jn – Whitby	24	44	30	61	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN636	No ELR	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN638	WCI	Shell Jn – Network Rail Boundary	0	00	1	03	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN642	SSK1	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN644	BOH	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	N	N	Y	Y	Y	N	N	N	
-London-North-Eastern	1067	LN646	STF	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	N	N	Y	Y	Y	Y	Y	N	
-London-North-Eastern	1067	LN648	NWE	Norton-on-Tees West – Norton-on-Tees East	0	29	0	00	N	N	Y	N	N	Y	Y	N	
-London-North-Eastern	1067	LN652	POC1	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N	N	N	N	N	N	N	
-London-North-Eastern	1067	LN652	POC2	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N	N	N	N	N	N	N	
+London-North-Eastern	1067	LN160	FWR1	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1067	LN165	HPW	Route Boundary (EA1370) (Harringay Park Jn) – Harringay Jn	0	14	0	03	N	E	E	N	N	N	N	N	
+London-North-Eastern	1067	LN170	WEB	Werrington Jn – Site of former Spalding South Jn	79	34	92	58	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1067	LN170	SPD1	Site of former Spalding South Jn – Sleaford South Jn	44	07	62	14	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1067	LN170	SPD2	Sleaford South Jn – Sleaford North Jn	62	14	63	48	Y	N	Y	N	N	N	N	N	
+London-North-Eastern	1067	LN170	SPD2	Sleaford North Jn – Site of former Greetwell West Jn	63	48	81	25	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1067	LN170	SPD3	Site of former Greetwell West Jn – Trent East Jn	81	25	98	56	R1	N	R2	N	Y	N	N	R3	R1 15 mph through Gainsborough Lea Road Down line platform R2 Prohibited Lincoln platform 2 with deflated suspension R3 Prohibited between West Holmes Jn and Trent East Jn
+London-North-Eastern	1067	LN170	MAC3	Trent East Jn – Trent West Jn	73	25	73	11	Y	N	Y	N	Y	N	N	N	
+London-North-Eastern	1067	LN170	SPD4	Trent West Jn – Bessacarr Jn	98	68	115	72	Y	N	Y	Y	N	N	N	N	
+London-North-Eastern	1067	LN170	SPD5	Bessacarr Jn – Doncaster, Flyover East Jn	115	72	116	20	Y	N	Y	Y	N	N	N	N	
+London-North-Eastern	1067	LN175	SSE	Sleaford South Jn – Sleaford East Jn	0	00	0	43	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1067	LN180	SNW	Sleaford West Jn – Sleaford North Jn	1	34	3	42	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1067	LN185	ABE1	Allington West Jn – Site of former Barkston East Jn	0	00	4	08	Y	N	R1	N	N	N	N	Y	R1 Prohibited between Allington West Jn and Allington North Jn
+London-North-Eastern	1067	LN185	GRS1	Barkston East Jn – Site of former Honington Jn	110	12	112	00	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1067	LN185	GRS2	Site of former Honington Jn – Sleaford West Jn	112	00	120	29	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1067	LN185	GRS2	Sleaford West Jn – Sleaford East Jn	120	29	121	21	Y	N	Y	N	N	N	N	Y	
+London-North-Eastern	1067	LN185	GRS2	Sleaford East Jn – Site of former Boston Sleaford Line Jn	121	21	137	06	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1067	LN185	GRS3	Site of former Boston Sleaford Line Jn – Boston	106	70	107	24	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1067	LN185	GRS3	Boston – Site of former Firsby East Jn	107	24	122	22	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1067	LN185	GRS4	Site of former Firsby East Jn - Skegness	0	28	9	17	Y	N	N	N	N	N	N	N	

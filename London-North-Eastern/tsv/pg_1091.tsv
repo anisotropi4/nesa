@@ -1,24 +1,17 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	345	Notes
-London-North-Eastern	1091	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	EH	EH	EH	EH	EH	N	EH	EH				
-London-North-Eastern	1091	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	EH	EH	EH	EH	EH	N	EH	EH				
-London-North-Eastern	1091	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	EH	EH	EH	EH	EH	N	EH	EH				
-London-North-Eastern	1091	LN627	LEN3	High Level Bridge Jn – Newcastle East Jn	101	33	101	59	Y	Y	Y	Y	Y	N	Y	Y				
-London-North-Eastern	1091	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	N				
-London-North-Eastern	1091	LN630	PUL	Pelaw Metro Jn – Network Rail Boundary (Metro Operating)	97	64	97	77	N	N	N	N	N	N	N	N				
-London-North-Eastern	1091	LN631	DSN1	Darlington South Jn – Eaglescliffe South Jn	0	29	8	58	N	N	N	N	N	N	N	N				
-London-North-Eastern	1091	LN632	DSN2	Stockton Cut Jn – Redcar Change of Mileage	10	13	21	72	N	N	N	N	N	N	N	N				
-London-North-Eastern	1091	LN632	DSN3	Redcar Change of Mileage – Saltburn	22	16	27	57	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN634	MBW1	Guisborough Jn – Battersby Jn	0	00	10	54	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN634	MBW2	Battersby Jn (End of Line) – Grosmont Jn	11	61	29	66	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN634	MBW3	Grosmont Jn – Whitby	24	44	30	61	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN636	No ELR	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN638	WCI	Shell Jn – Network Rail Boundary	0	00	1	03	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN642	SSK1	Saltburn West Jn – Network Rail Boundary (Cleveland Potash)	27	05	34	29	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN644	BOH	Hartburn Jn – Bowesfield SB (Hartburn Curve)	0	00	0	44	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN646	STF	Norton-on-Tees South – Ferryhill South Jn	0	00	10	72	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN648	NWE	Norton-on-Tees West – Norton-on- Tees East	0	29	0	00	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN652	POC1	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN652	POC2	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN652	SES	Seal Sands Branch Jn – End of NR maintenance	0	00	2	44	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN656	SOT	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N		N	N	N		N	N	N		
-London-North-Eastern	1091	LN662	HNB	Ryhope Grange – Hendon	0	00	1	53	N	N		N	N	N		N	N	N		
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	168	170	172	180	195	196	220	221	222	Notes
+London-North-Eastern	1091	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	E	Y	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1091	LN3525	KSL	Knighton Jn – Leicester Jn	97	45	127	00	N	Y	N	N	N	N	N	N	E R1	R1 Prohibited between Knighton Jn and Birmingham Curve Jn
+London-North-Eastern	1091	LN3535	BCJ	Birmingham Curve Jn – Branston Jn	126	40	127	19	N	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1091	LN3601	GSM1	Kettering North Jn – Manton Jn	74	00	90	25	N	Y	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1091	LN3605	BSC	Corby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1091	LN3610	BSC	Corby Automotive Terminal – Corby North	1	10	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1091	LN3615	PMJ	Route Boundary (LN147) – Uffington SB	13	60	12	75	N	Y	N	N	N	N	N	N	Y	
+London-North-Eastern	1091	LN3615	PMJ	Uffington SB – Manton Jn	12	75	0	00	N	Y	N	N	N	N	N	N	Y	
+London-North-Eastern	1091	LN3615	GSM2	Manton Jn – Melton Jn	90	25	105	70	N	Y	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1091	LN3615	GSM3	Melton Jn – Syston South Jn	113	36	103	77	N	Y	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1091	LN3620	GSM4	Melton Jn GF – Asfordby	105	70	107	20	N	N	N	N	N	N	Y	Y	N	
+London-North-Eastern	1091	LN3625	TSN1	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	N	Y	N	N	N	N	N	N	Y	
+London-North-Eastern	1091	LN3625	NOB1	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	N	Y	N	N	E R2	N	N	N	R1	R1 Between Nottingham East Jn and Netherfield Jn, when accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed R2 Prohibited between Eastcroft Sidings (00m 22ch) and Route Boundary (LN206) (Coulson)
+London-North-Eastern	1091	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	N	Y	N	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1091	LN3635	NOG1	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	N	Y	N	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed
+London-North-Eastern	1091	LN3635	NOG2	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	N	Y	N	N	N	N	N	N	R1	R1 When accelerating from a stand at any red signal a maximum of 50% power shall be applied until the next proceed aspect is observed

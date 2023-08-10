@@ -1,19 +1,20 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
-London-North-Eastern	1158	LN3520	SSJ1	Sheet Stores Jn – Change of ELR (Site of Former Chellaston East Jn)	119	62	127	20	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1158	LN3520	MJS1	Change of ELR (Site of Former Chellaston East Jn) – Change of ELR (Site of Former Chellaston West Jn)	127	20	128	00	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1158	LN3520	SSJ2	Change of ELR (Site of Former Chellaston West Jn) – Stenson Jn	128	00	132	12	Y	Y	Y	EH R1	N	Y	N	R1 Prohibited with footsteps fitted
-London-North-Eastern	1158	LN3525	KSL	Knighton Jn – Leicester Jn	97	45	127	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3535	BCJ	Birmingham Curve Jn – Branston Jn	126	40	127	19	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3601	GSM1	Kettering North Jn – Manton Jn	74	00	90	25	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3605	BSC	Corby BSC Works – Corby North	2	05	0	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3610	BSC	Corby Automotive Terminal – Corby North	1	10	0	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3615	PMJ	Route Boundary (LN147) – Uffington SB	13	60	12	75	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3615	PMJ	Uffington SB – Manton Jn	12	75	0	00	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3615	GSM2	Manton Jn – Melton Jn	90	25	105	70	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3615	GSM3	Melton Jn – Syston South Jn	113	36	103	77	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3620	GSM4	Melton Jn GF – Asfordby	105	70	107	20	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3625	TSN1	Nottingham East Jn – Change of ELR (Nottingham East Jn)	123	27	123	23	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3625	NOB1	Change of ELR (Nottingham East Jn) – Route Boundary (LN206) (Coulson)	0	00	16	02	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3635	NOG1	Route Boundary (LN195) (Nottingham Branch Jn) – Rectory Jn SB	111	60	123	76	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3635	NOG1	Rectory Jn SB – Change of ELR (Netherfield)	123	76	125	25	Y	Y	Y	N	N	N	N	
-London-North-Eastern	1158	LN3635	NOG2	Change of ELR (Netherfield) – Netherfield Jn	2	54	2	35	Y	Y	Y	N	N	N	N	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
+London-North-Eastern	1158	LN860	MVL3	Route Boundary (NW7021) (Stalybridge Tunnel Jn) – Springwood Jn	15	11	25	20	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN860	MVL3	Springwood Jn – Change of ELR (Heaton Lodge Jn)	25	20	29	00	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge Jn (Up line)	29	00	29	45	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN860	MVL4	Change of ELR (Heaton Lodge Jn) – Heaton Lodge East Jn (Down line)	29	00	29	74	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN860	MVN2	Heaton Lodge Jn – Heaton Lodge East Jn	37	18	37	47	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN860	MVN2	Heaton Lodge East Jn – Thornhill LNW Jn	37	47	39	72	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN861	BBW	Bradley Jn – Bradley Wood Jn	0	00	1	17	Y	Y	Y	N	N	N	N	N	Y	
+London-North-Eastern	1158	LN862	PED2	Barnsley Station Jn – Site of former Barnsley Jn	6	43	0	00	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN862	PED1	Site of former Barnsley Jn – Site of former Huddersfield Jn	29	13	28	37	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN862	PEH	Site of former Huddersfield Jn – Lockwood	13	42	1	18	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1158	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	Y	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1158	LN864	DRS1	Dewsbury Railway Street – Change of Mileage	0	10	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1158	LN864	DRS1	Change of Mileage – Dewsbury East Jn	0	27	0	00	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1158	LN868	SHB	Wincobank Jn – Site of former Quarry Jn	161	52	173	48	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN868	PED2	Site of former Quarry Jn – Barnsley Station Jn	7	50	6	43	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN868	BAH2	Barnsley Station Jn – Site of former Crigglestone Jn	52	58	45	56	Y	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1158	LN868	CHS	Site of former Crigglestone Jn – Horbury Jn	1	53	0	00	Y	Y	Y	N	N	N	N	N	N	

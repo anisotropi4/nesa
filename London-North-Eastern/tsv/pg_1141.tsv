@@ -1,20 +1,15 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1141	LN190	ACD	Allington East Jn – Allington North Jn (Allington Chord)	0	00	0	25	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1141	LN195	NOG1	Nottingham Branch Jn – Route Boundary (LN3635) (Rectory Jn SB)	106	08	111	60	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1141	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	N	N	N	N	N	N	
-London-North-Eastern	1141	LN206	NOB1	Route Boundary (LN3625) (Nottingham East Jn) – Coulson Change of ELR	16	02	32	00	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1141	LN206	NOB2	Coulson Change of ELR – Boultham Jn	32	00	32	40	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1141	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1141	LN210	NSE	Newark Crossing South Jn – Newark Crossing East Jn	0	00	0	21	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1141	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	N	N	N	Y	N	N	
-London-North-Eastern	1141	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	N	N	N	Y	Y	N	
-London-North-Eastern	1141	LN235	FWR1	Rossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1141	LN235	FWR2	Rossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1141	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM4	Colton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM4	Colton North Jn – York Station	183	65	188	40	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM5	Birtley Jn – Low Fell Jn (including via Tyne Yard)	75	26	77	37	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM5	Low Fell Jn – King Edward Bridge South Jn	77	37	79	42	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1141	LN600	ECM5	King Edward Bridge South Jn – Newcastle West Jn	79	42	80	05	Y	Y	Y	N	N	N	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
+London-North-Eastern	1141	LN3140	BBM	Route Boundary (MD140) (Bedford St. Johns) – Bedford Station Jn	16	07	16	50	N	EH	N	N	H	N	N	E	N	E	
+London-North-Eastern	1141	LN3140	SPC1	Bedford Station Jn – Bedford Station (Via Up and Down Bletchley line)	49	60	49	65	N	E	N	N	H	E R1	N	N	N	N	R1 For access to Jowett Sidings
+London-North-Eastern	1141	LN3201	SPC1	St Pancras platforms 1, 2, 3 and 4 - Cricklewood	0	12	5	09	Y	Y	Y	Y	H	Y	N	Y	N	Y	
+London-North-Eastern	1141	LN3201	SPC1	Cricklewood – Change of ELR (Bedford)	5	09	50	00	Y	Y	Y	Y	H	Y	N	Y	N	R1	R1 Prohibited on the Up Hendon and Down Hendon between Cricklewood South Jn - Silkstream Jn
+London-North-Eastern	1141	LN3201	SPC2	Change of ELR (Bedford) – Change of ELR (Wellingborough)	50	00	64	78	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1141	LN3201	SPC3	Change of ELR (Wellingborough) – Change of ELR (Wigston South Jn)	64	78	95	38	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1141	LN3201	SPC4	Change of ELR (Wigston South Jn) – Change of ELR (Leicester )	95	38	98	73	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1141	LN3201	SPC5	Change of ELR (Leicester) – Leicester	98	73	99	07	N	N	N	N	H	N	N	N	EH R1	N	R1 Prohibited Leicester platform 4
+London-North-Eastern	1141	LN3201	SPC5	Leicester – Ratcliffe Jn	99	07	118	34	N	N	N	N	H	N	N	N	EH R1	N	R1 Prohibited Leicester platform 4
+London-North-Eastern	1141	LN3201	SPC5	Ratcliffe Jn – Change of ELR (Ratcliffe)	118	34	118	60	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1141	LN3201	SPC6	Change of ELR (Ratcliffe) – Change of ELR (Spondon)	118	60	126	27	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1141	LN3201	SPC7	Change of ELR (Spondon) – London Road Jn	126	27	128	23	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1141	LN3201	SPC8	London Road Jn – Derby Jn	127	54	128	08	N	N	N	N	H	N	EH	N	EH R1 R2	N	R1 Prohibited Derby platform 4 R2 5mph Derby platform 3
+London-North-Eastern	1141	LN3201	SPC8	Derby Jn – Former Clay Cross South Jn	128	08	147	69	N	N	N	N	H	N	N	N	N	N	

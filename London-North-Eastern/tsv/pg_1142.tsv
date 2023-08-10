@@ -1,13 +1,21 @@
-Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	MK5	MK5 A	Notes
-London-North-Eastern	1142	LN600	ECM6	Newcastle West Jn – Newcastle	80	05	80	16	Y	Y	R1	N	N	N	R1	Y	R2 R3 R4	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 9, 10 and 12 R3 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R4 Prohibited Newcastle platforms 4 and 11 with deflated suspension
-London-North-Eastern	1142	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	R1	N	N	N	R1	Y	R2 R3	R1 Prohibited Newcastle platforms 5, 6, 7, 8, 9, 10, 11 and 12 R2 Prohibited Newcastle platforms 7 and 8 from 3028-B Crossover R3 Prohibited Newcastle platform 4 with deflated suspension
-London-North-Eastern	1142	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN600	ECM7	Heaton South Jn – Route Boundary (SC147) (Prestonpans Jn)	1	65	69	67	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN618	HOS	Holgate Jn – Skelton Jn via York Yard South	0	00	1	54	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN620	KEB	King Edward Bridge East Jn – King Edward Bridge North Jn (East Curve)	0	00	0	13	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	N	N	N	N	N	E R1	R1 Prohibited between Newcastle Forth Jn and Newcastle West Jn
-London-North-Eastern	1142	LN624	REB4	Northallerton Castle Hills Jn – Network Rail Boundary (Wensleydale Railway)	0	04	0	18	N	N	N	N	N	N	N	N	N	
-London-North-Eastern	1142	LN626	LEN2	Northallerton High Jn – Northallerton East Jn	0	00	0	36	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN627	LLP1	Longlands Jn (Down line) – Boroughbridge Road LC	28	58	29	72	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN627	LLP3	Longlands Jn (Up line) – Boroughbridge Road LC	0	69	0	00	Y	Y	Y	N	N	N	Y	Y	Y	
-London-North-Eastern	1142	LN627	LLP2	Boroughbridge Road LC – Northallerton East Jn	42	21	42	79	Y	Y	Y	N	N	N	Y	Y	Y	
+Route	page	Line of route	ELR	Line of Route / Sector Description	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
+London-North-Eastern	1142	LN3201	SPC9	Former Clay Cross South Jn – Route Boundary (LN804 / LN806) (Tapton Jn)	142	10	146	64	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3204	TSN1	Trent South Jn – Mansfield Jn	119	17	125	64	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3204	TSN2	Mansfield Jn – Nottingham East Jn	124	22	123	27	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3207	TCC	Trent East Jn – Change of ELR (between Morton Jn and Clay Cross North Jn)	119	70	142	10	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3207	SPC9	Change of ELR (between Morton Jn and Clay Cross North Jn) – Clay Cross North Jn	142	10	143	12	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3210	JRT2	Route Boundary (EA1370) (Junction Road Jn) – Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels)	2	38	2	00	N	N	N	N	H	EH	N	N	N	E	
+London-North-Eastern	1142	LN3210	JRT1	Change of ELR (Between Tottenham North Curve No 2 and No 1 Tunnels) – Carlton Road Jn (Tottenham Lines)	0	18	0	03	N	N	N	N	H	EH	N	N	N	E	
+London-North-Eastern	1142	LN3213	MCL	Route Boundary (SO280) (former Farringdon Jn) – Kentish Town Jn	0	66	3	58	N	Y	N	N	H	Y	N	Y	N	Y	
+London-North-Eastern	1142	LN3214	CBI	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	Y	N	N	N	R1	N	Y	N	Y	R1 Class 377/2 and 377/5 only
+London-North-Eastern	1142	LN3219	CAW	Cricklewood Curve Jn – Route Boundary (LOR EA1360) (Dudding Hill)	5	19	5	72	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3222	BDH	Brent Curve Jn – Route Boundary (EA1360) (Dudding Hill)	0	00	0	54	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3228	TCC	Trent East Jn – Trent East ELR Change	119	70	119	56	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3228	TES	Trent East ELR Change – Sheet Stores Jn.	0	00	0	30	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3231	WGP	Wigston South Jn – Glen Parva Jn	95	37	96	07	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3232	WNS	Wigston North Jn – Route Boundary (MD232) (Nuneaton South Jn)	15	31	2	62	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1142	LN3234	SEN	Syston East Jn – Syston North Jn	0	17	0	00	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3237	RUD	Loughborough South Jn – Network Rail / GCR (N) Boundary	92	45	92	49	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1142	LN3240	LED	Little Eaton Jn – Denby	131	06	135	46	N	N	N	N	N	N	N	N	N	N	Line out of use NC/G1/2010/LNE/021
+London-North-Eastern	1142	LN3246	AJM1	Ambergate Jn – Matlock	137	61	145	00	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1142	LN3249	LSN	Lenton South Jn – Lenton North Jn	0	00	0	27	N	N	N	N	H	N	N	N	N	N	
