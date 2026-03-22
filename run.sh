@@ -19,7 +19,7 @@ if [ ! -s section-list.json ]; then
     for FILEPATH in $(ls download/*.pdf)
     do
         FILENAME=$(basename ${FILEPATH})
-        ROUTE=$(echo ${FILENAME} | sed 's/ Sectional Appendix .*.pdf//; s/[,)(]//g; s/Sussex and Wessex/Sussex-Wessex/; s/Western North.*/Western North/; s/ /-/g')
+        ROUTE=$(echo ${FILENAME} | sed 's/ Sectional Appendix .*.pdf//; s/[,)(]//g; s/Sussex and Wessex/Sussex-Wessex/; s/Sussex & Wessex/Sussex-Wessex/; s/Western North.*/Western North/; s/ /-/g' | sed 's/-&//; s/-NCS//')
         echo "{"\"${ROUTE}\": \"${FILENAME}\""}"
     done | jq -cs '.' > section-list.json
 fi
